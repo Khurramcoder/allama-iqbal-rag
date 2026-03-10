@@ -1,0 +1,129 @@
+{
+  "id": "44",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا کہ خاوریان نقش تازہ ئی بستند\nدگر مرو بطواف بتی کہ بشکستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come! The Asiatic man has created a new plan: Go not, pilgrimage to make to the idol that he brake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ جلوہ ایست کہ دلہا بلذت نگہی\nز خاک راہ مثال شرارہ بر جستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is this epiphany that men’s hearts, rejoiced to see, from the ashes of the way gladly leap, like sparks at play?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کجاست منزل تورانیان شہر آشوب\nکہ سینہ ہای خود از تیزی نفس خستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To attain what far abode strive the Turks upon the road, that their bosom fluttereth with the quickness of their breath?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو ہم بذوق خودی رس کہ صاحبان طریق\nبریدہ از ہمہ عالم بخویش پیوستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Strive thou, selfhood’s joy to know: They who on this journey go shatter every worldly chain that they may to self attain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بچشم مردہ دلان کائنات زندانی است\nدو جام بادہ کشیدند و از جہان رستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men whose hearts are dead and cold as a cell this world behold; with two cups to fill their head, from the whole of life they fled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غلام ہمت بیدار آن سوارانم\nستارہ را بہ سنان سفتہ در گرہ بستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will ever be the slave of those horsemen bold and brave who, with spear uplifted, far ride, to pierce and thread a star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فرشتہ را دگر آن فرصت سجود کجاست\nکہ نوریان بتماشای خاکیان مستند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Angels lack the season now prostrate to their Lord to bow; creatures of pure light, for they rapturous gaze on men of clay!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

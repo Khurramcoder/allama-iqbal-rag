@@ -1,0 +1,65 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اٹھا کر پھینک دو باہر گلی میں \nنئی تہذیب کے انڈے ہیں گندے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Throw them out in the alley; the new civilization’s eggs are rotten.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "الکشن، ممبری، کونسل، صدارت \nبنائے خوب آزادی نے پھندے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Election, membership, council, presidency; the nooses of independence are very strange.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میاں نجار بھی چھیلے گئے ساتھ \nنہایت تیز ہیں یورپ کے رندے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The carpenter has also been pared; the Europe’s planes are very sharp.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

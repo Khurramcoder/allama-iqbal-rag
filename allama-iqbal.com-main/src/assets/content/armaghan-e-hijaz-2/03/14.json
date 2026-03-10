@@ -1,0 +1,104 @@
+{
+  "id": "14",
+  "name": "برہمن",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در صد فتنہ را بر خود گشادی\nدو گامی رفتی و از پا فتادی\nبرہمن از بتان طاق خود راست\nتو قر ن را سر طاقی نہادی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اے مسلمان) تو نے اپنے اوپر سینکڑوں فتنوں کا دروازہ کھول لیا؛ تو دو قدم چلا اور گر پڑا۔\nبرہمن نے تو طاق کو بتوں سے آراستہ کر لیا؛ (مگر) تو نے قرآن پاک کو طاق (نسیاں) پر رکھ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For him, he opened hundred doors for plots; two steps he only takes and slips in trot.\nThe Brahmin adorned his idols on arch; in arch bin you placed the Quran as mark.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "برہمن را نگویم ہیچ کارہ\nکند سنگ گران را پارہ پارہ\nنیاید جز بہ زور دست و بازو\nخدائی را تراشیدن ز خارہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں برہمن کو نکما نہیں کہتا؛ وہ تو بھاری پتھر کو ٹکڑے ٹکڑے کر دیتا ہے۔\n(آخر) زور دست و بازو کے بغیر ؛ پتھر سے خدا نہیں تراشا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Brahmin I say not a useless bloke; since all heavy stones with efforts he broke. \nIt can’t be achieved save with arms might; from stone he carves gods to put his hand right.*\n* To put one’s right hand; to show one’s will and determination. (for poetic need I reversed right hand to hand right.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نگہ دارد برہمن کار خود را\nنمی گوید بہ کس اسرار خود را\nبمن گوید کہ از تسبیح بگذر\nبدوش خود برد زنار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہمن اپنے کام کی حفاظت کرتا ہے؛ وہ اپنے راز کسی سے نہیں کہتا۔ \nمجھے کہتا ہے کہ تسبیح چھوڑ دے ؛ مگر اپنا زنّار کندھے سے نہیں اتارتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A pundit keeps eyes on his own task; he won’t let to know his secret mask.\nTo me he says Give up counting beads; for his own neck feels holy thread’s need.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "برہمن گفت برخیز از در غیر\nز یاران وطن ناید بجز خیر\nبیک مسجد دو ملا می نگنجد\nز افسون بتان گنجد بیک دیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہمن نے ( مجھ سے) کہا: غیر (انگریز) کے دروازے سے اٹھ جا؛ ہم تمہارے اہل وطن ہیں، ہم تمہاری بھلائی کے سوائے کچھ نہیں سوچتے۔\n(ویسے تو) دو ملّا ایک مسجد میں نہیں سماتے ؛ مگر بتوں کے جادو سے کئی ملّا ایک بتخانے میں سمائے ہوئے ہیں ( ہندو کے حامی علما کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Brahmin said leave this white man’s door; from Hindies think not, save good any more.\nIn one mosque two Mullahs may ne’er contain; with magic of gods can live in a fane.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "Brahmin",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

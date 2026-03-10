@@ -1,0 +1,114 @@
+{
+  "id": "14",
+  "name": "کوشش ناتمام",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرقت آفتاب میں کھاتی ہے پیچ و تاب صبح\nچشم شفق ہے خوں فشاں اختر شام کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dawn is vexed by separation from the sun; the twilight's eye is raining blood for the evening star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رہتی ہے قیس روز کو لیلی شام کی ہوس\nاختر صبح مضطرب تاب دوام کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The day's Qais has the pining for the night's Lailah; the morning star is restless for perpetual radiance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہتا تھا قطب آسماں قافلہ نجوم سے\nہمرہو، میں ترس گیا لطف خرام کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky's polar star was saying to the stars' caravan: ‘Companions! I am tantalized for the pleasure of walking.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سوتوں کو ندیوں کا شوق، بحر کا ندیوں کو عشق\nموجہء بحر کو تپش ماہ تمام کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Springs desire rivers, rivers love the ocean; the ocean wave is in love with the full moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حسن ازل کہ پردہء لالہ و گل میں ہے نہاں\nکہتے ہیں بے قرار ہے جلوہء عام کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eternal Beauty which is veiled in tulips and roses is considered to be restless for general manifestation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "راز حیات پو چھ لے خضر خجستہ گام سے\nزندہ ہر ایک چیز ہے کوشش ناتمام سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask Khizar of blessed steps for the secret of life: Everything is alive with un-achieved effort.\n(An important attribute of Khizar A.S. is his traditional restlessness and incessant activism. Similarly an object is living only as long as it is in incessant search of its Creator and ‘activism’ is that effort. It becomes lifeless if it loses these attributes and it will disappear once it finds the Creator.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Unsuccessful Effort",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

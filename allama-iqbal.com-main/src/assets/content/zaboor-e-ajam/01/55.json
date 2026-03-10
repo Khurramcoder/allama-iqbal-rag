@@ -1,0 +1,119 @@
+{
+  "id": "55",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چند بروی خودکشی پردۂ صبح و شام را\nچہرہ گشا تمام کن جلوۂ ناتمام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک آپ اپنے چہرہ ء جمال پر صبح و شام کا پردہ ڈالے رکھیں گے (کب تک حسن ذات پر صفات کے پردے پڑے رہیں گے)؛ پردہ ہٹائیے اور اپنے جلوہء ناتمام کو پوری طرح نمایاں کیجیے۔ ( پردہ چہرے سے اٹھا انجمن آرائی کر -",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long the veil of eve and dawn about Thy beauty shall be drawn? Thy cheek display: make whole to me this incomplete epiphany.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سوز و گداز حالتی است بادہ ز من طلب کنی\nپیش تو گر بیان کنم مستی این مقام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوز و گداز ایسی حالت ہے کہ اگر آپ کے سامنے اس مقام کی مستی کا حال بیان کروں ؛ تو آپ بھی مجھے سے اس بادہ کے طلبگار ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O glad consuming! Rapture fine! Thyself wouldst beg of me for wine if unto thee I did relate the intoxication of my state.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "من بسرود زندگی آتش او فزودہ ام\nتو نم شبنمی بدہ لالۂ تشنہ کام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے زندگی کا گیت گا کر آتش لالہ بھڑکا دی ہے؛ اب آپ اسے نم شبنم سے پرسکون کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I added to the song of life the counterpoint of fiery strife; scatter the dew that quenches drowth into the tulip’s thirsty mouth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عقل ورق ورق بگشت عشق بہ نکتہ ئی رسید\nطایر زیرکے برد دانۂ زیر دام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل کتاب زندگی کے اوراق الٹتی رہی مگر اسے کچھ نہ ملا، عشق فورا زندگی کے معنی پا گیا ؛ اس عقلمند پرندے نے بچھے ہوئے دام (علائق دنیا) کے نیچے سے دانہ ء حقیقت اٹھا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mind searched the volume thro’ and thro’ Love found at once the subtle clue; the clever bird will ever gain beneath the snare the hidden grain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نغمہ کجا و من کجا ساز سخن بہانہ ایست\nسوی قطار می کشم ناقۂ بی زمام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر کہاں اور میں کاں یہ تو محض بہانہ ہے؛ میرا اصل مقصد بھٹکے ہوئے ناقہ کو دوبارہ قطار میں لانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the song, and he that sung? Words are a lyre pretence has strung; I draw towards the camel-train the erring beast without a rein.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وقت برہنہ گفتن است من بہ کنایہ گفتہ ام\nخود تو بگو کجا برم ھم نفسان خام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقت تو کھل کر بات کہنے کا ہے مگر میں نے اشا روں میں بات کی ہے؛ آپ ہی کہیں کہ ان ناپختہ ساتھیوں کا کیا کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In riddles yet I spake, forsooth; now is the time for naked truth; do Thou declare, where I shall lead my fellow-travelers in their need.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

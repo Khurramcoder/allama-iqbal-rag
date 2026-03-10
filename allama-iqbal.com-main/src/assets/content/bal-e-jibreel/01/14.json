@@ -1,0 +1,117 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اپنی جولاں گاہ زیر آسماں سمجھا تھا میں \nآب و گل کے کھیل کو اپنا جہاں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "آب و گل: پانی اور مٹی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Methought my racing field lay under the skies; this plaything of water and clay, I regarded as my world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بے حجابی سے تری ٹوٹا نگاہوں کا طلسم \nاک ردائے نیلگوں کو آسماں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ردائے نیلگوں: نیلی چادر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy unveiling broke the spell of searching glances; I mistook this blue vault for Heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کارواں تھک کر فضا کے پیچ و خم میں رہ گیا \nمہروماہ و مشتری کو ہم عناں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sun, the Moon, the Stars, methought, would keep me company, fatigued; they dropped out in the twists and turns of space:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق کی اک جست نے طے کر دیا قصہ تمام \nاس زمین و آسماں کو بے کراں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے کراں: کنارے کے بغیر، لا محدود۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One leap by Love ended all the pother, I fondly imagined, the earth and sky were boundless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہہ گئیں راز محبت پردہ دار یہاے شوق \nتھی فغاں وہ بھی جسے ضبط فغاں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My silent secrecies of love were but effusions in disguise; what I had believed to be restraint, betrayed my passion even more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تھی کسی درماندہ رہرو کی صداے درد ناک \nجس کو آواز رحیل کارواں سمجھا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "آواز رحیل کارواں: قافلے کی روانگی کا اعلان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What I esteemed as the clarion call of the caravan was but the plaintive cry of a traveller, weary and forlorn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: S.A. Rahman"
+}

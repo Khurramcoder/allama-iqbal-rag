@@ -1,0 +1,34 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسلمانان مرا حرفی است در دل\nکہ روشن تر ز جان جبرئیل است\nنہانش دارم از آزر نہادان\nکہ این سری ز اسرار خلیل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمانو! (سنو) میرے دل میں ایک حرف ہے؛ جو روح جبریل (علیہ) سے زیادہ روشن ہے۔\nمیں نے اسے ان لوگوں سے پوشیدہ رکھا ہے جن کی سرشت میں آذری (یعنی بت پرستی) ہے؛ کیونکہ یہ ابراہیم (علیہ) کے اسرار میں سے ایک سرّ ہے (لفظ اللہ کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Muslims! I have a word within my heart more radiant than the soul of Gabriel: \nI keep it hidden from the Sons of Fire; it is a secret Abraham knew well.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A J Arberry"
+}

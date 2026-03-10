@@ -1,0 +1,56 @@
+{
+  "id": "30",
+  "name": "یورپ سے ایک خط",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہم خوگر محسوس ہیں ساحل کے خریدار \nاک بحر پر آشوب و پر اسرار ہے رومی \nتو بھی ہے اسی قافلہء شوق میں اقبال \nجس قافلہء شوق کا سالار ہے رومی \nاس عصر کو بھی اس نے دیا ہے کوئی پیغام؟ \nکہتے ہیں چراغ رہ احرار ہے رومی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We venture not beyond the shores: Being to the senses confined. But Rumi is an ocean, stormy, mysterious.\nIqbal! Thou, too, art moving in that band of men: That band of men of passion, of which Rumi is the guide;\nRumi, they say, is the guiding light for freedom; has he, indeed, a message for the age we live in?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہ نباید خورد و جو ہمچوں خراں \nآہوانہ در ختن چر ارغواں \nہر کہ کاہ و جو خورد قرباں شود \nہر کہ نور حق خورد قرآں شود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reply: ‘Eat not hay and corn like donkeys; eat of thy choice like the musk-deer: \nHe dies who eats hay and corn. He who eats God’s light, becomes the Quran.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Letter From Europe",
+  "credits": "English Translation by: Naim Siddiqui"
+}

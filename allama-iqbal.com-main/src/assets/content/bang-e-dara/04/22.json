@@ -1,0 +1,34 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جان جائے ہاتھ سے جائے نہ ست \nہے یہی اک بات ہر مذہب کا تت \nچٹے بٹے ایک ہی تھیلی کے ہیں \nساہو کاری، بسوہ داری، سلطنت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تت: روح۔\nست: سچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life may be lost but truth should not be lost: This one principle is the core of all religions.\nThey are the birds of the same feather; banking, landlordship, monarchy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

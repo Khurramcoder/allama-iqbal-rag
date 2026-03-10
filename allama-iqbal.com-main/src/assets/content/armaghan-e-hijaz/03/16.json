@@ -1,0 +1,83 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حاجت نہیں اے خطہ گل شرح و بیاں کی\nتصویر ہمارے دل پر خوں کی ہے للہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "خطہ گل: پھولوں کا علاقہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O land of flowers! No need to tell more, our heart’s colour is poppy, full of gore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تقدیر ہے اک نام مکافات عمل کا\nدیتے ہیں یہ پیغام خدایان ہمالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکافات عمل: عمل کا بدلہ۔ \nہمالیہ کا آقا۔ خدایان ہمالہ:",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We gave to fate a name for ‘tit for tat’, from Lord of Himala we heard this Pratt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سرما کی ہواوں میں ہے عریاں بدن اس کا\nدیتا ہے ہنر جس کا امیروں کو دوشالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوشالہ: اونی چادر ، کمبل۔\nعریاں: ننگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In winds of winter, she is nude in form, whose skill gives the wealthy a cloak so warm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "امید نہ رکھ دولت دنیا سے وفا کی\nرم اس کی طبیعت میں ہے مانند غزالہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the wealth of this world keep a faith not, like gazelle she runs and takes fast trot.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

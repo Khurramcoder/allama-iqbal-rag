@@ -1,0 +1,34 @@
+{
+  "id": "109",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دلا رمز حیات از غنچہ دریاب\nحقیقت در مجازش بی حجاب است\nز خاک تیرہ میروید ولیکن\nنگاہش بر شعاع آفتاب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دل! حیات کا راز کلی سے سمجھ؛ اس کے مزاج میں حقیقت بے نقاب ہے۔\nکلی خاک تیرہ سے پیدا ہوتی ہے؛ لیکن اس کی نظر آفتاب کی شعاع پر رہتی ہے۔ \n\nدل بدن کے اندر پیدا ہوتا ہے مگر اس کی زندگی اللہ تعالے سے تعلق سے وابستہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heart, in the rosebud view Life’s mystery! Truth in contingent there unveiled is shewn; \nAlthough it springeth from the shadowed earth, its gaze is fixed upon the radiant sun.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

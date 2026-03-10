@@ -1,0 +1,145 @@
+{
+  "id": "10",
+  "name": "ہمدردی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ٹہنی پہ کسی شجر کی تنہا\nبلبل تھا کوئی اداس بیٹھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perched on the branch of a tree was a nightingale sad and lonely.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کہتا تھا کہ رات سر پہ آئی\nاڑنے چگنے میں دن گزارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The night has drawn near’, he was thinking; ‘I passed the day in flying around and feeding.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پہنچوں کس طرح آشیاں تک\nہر چیز پہ چھا گیا اندھیرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can I reach up to the nest; darkness has enveloped everything’?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سن کر بلبل کی آہ و زاری\nجگنو کوئی پاس ہی سے بولا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hearing the nightingale wailing thus; a glow-worm lurking nearby spoke thus:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حاضر ہوں مدد کو جان و دل سے\nکیڑا ہوں اگرچہ میں ذرا سا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘With my heart and soul ready to help I am; though only an insignificant insect I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کیا غم ہے جو رات ہے اندھیری\nمیں راہ میں روشنی کروں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Never mind if the night is dark; I shall shed light if the way is dark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اللہ نے دی ہے مجھ کو مشعل\nچمکا کے مجھے دیا بنایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God has bestowed a torch on me. He has given a shining lamp to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہیں لوگ وہی جہاں میں اچھے\nآتے ہیں جو کام دوسرں کے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The good in the world only those are; ready to be useful to others who are.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Sympathy",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

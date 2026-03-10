@@ -1,0 +1,134 @@
+{
+  "id": "15",
+  "name": "ہندی مکتب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اقبال! یہاں نام نہ لے علم خودی کا \nموزوں نہیں مکتب کے لیے ایسے مقالات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مقالات: اقوال کی باتیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "About the Self here have no talk, O bard, because with schools such sermons don't accord.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہتر ہے کہ بیچارے ممولوں کی نظر سے \nپوشیدہ رہیں باز کے احوال و مقامات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much good that birds that chirp may not descry, the modes of hawk, its state and rank so high:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آزاد کی اک آن ہے محکوم کا اک سال \nکس درجہ گراں سیر ہیں محکوم کے اوقات!",
+              "lang": "Original"
+            },
+            {
+              "_content": "گراں سیر: سست رفتار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A free man's breath can match a subject year, how slowly moves the time of serfs is clear!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آزاد کا ہر لحظہ پیام ابدیت \nمحکوم کا ہر لحظہ نئی مرگ مفاجات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرگ مفاجات: ناگہانی موت۔ \nابدیت: ہمیشگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free perform such deeds in span of breath, but slaves are every instant prone to sudden death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آزاد کا اندیشہ حقیقت سے منور \nمحکوم کا اندیشہ گرفتار خرافات",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرافات: خرافہ ایک عرب تھا جو جھوٹ بولتا تھا؛ لہذا خرافات کا مطلب ہے لغو باتیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thoughts of persons free with truth are lit, but thoughts of slaves do not own sense a bit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "محکوم کو پیروں کی کرامات کا سودا \nہے بندہ آزاد خود اک زندہ کرامات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A slave has craze for marvels wrought by Guides: Himself a wonder 'live, his memory fresh abides.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "محکوم کے حق میں ہے یہی تربیت اچھی \nموسیقی و صورت گری و علم نباتات!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the training that befits them well, painting, music and science of plants as well.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Indian School",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "15",
+  "name": "وجود",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے کہ ہے زیر فلک مثل شرر تیری نمود \nکون سمجھائے تجھے کیا ہیں مقامات وجود!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man, your stay and show beneath the sky, is short and brief, like spark, that parts from flame: Who can make man detect this fact so clear that teing of man enjoys high rank and name?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گر ہنر میں نہیں تعمیر خودی کا جوہر \nوائے صورت گری و شاعری و ناے و سرود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If craftsmanship of man is quite devoid of gift and tact the Self to form and frame. Alas! Such art and music of the flute are naught but source of much disgrace and shame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مکتب و مے کدہ جز درس نبودن ندہند \nبودن آموز کہ ہم باشی و ہم خواہی بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "درسگاہوں اور مے خانوں میں محض فنا کا سبق دیا جاتا ہے؛ تجھے چاہیے کہ بقا کی تعلیم حاصل کرے تاکہ تو دنیا میں بھی زندگی کا بلند مقام حاصل کر سکے اور مرنے کے بعد بھی ہمیشہ کے لیے زندہ رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Schools and taverns can no morals teach save the fact that you do not exist, learn 'to be' for you too are a fact, besides, your Ego thus shall long subsist.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Being",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

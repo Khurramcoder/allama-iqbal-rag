@@ -1,0 +1,34 @@
+{
+  "id": "38",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو ذوق نغمہ ام در جلوت آرد\nقیامت افکنم در محفل خویش\nچو می خواھم دمی خلوت بگیرم\nجہان را گم کنم اندر دل خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب مجھے ذوق نغمہ جلوت میں لاتا ہے، تو میں محفل میں قیامت برپا کر دیتا ہوں۔\nلیکن جب میں ذرا خلوت اختیا ر کرتا ہوں ، تو اپنے دل میں کائنات کو گم کر لیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the desire to sing aloud grips me, I storm the world with bursts of poesy.\nWhen I seek solitude, I let the world get lost in the waste of my privacy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

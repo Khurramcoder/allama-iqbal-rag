@@ -1,0 +1,119 @@
+{
+  "id": "42",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر نظارہ از خود رفتگی آرد حجاب اولی\nنگیرد با من این سودا بہا از بس گران خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر نظارہ ء جمال سے خود رفتگی پیدا ہو، تو حجاب ہی بہتر ہے ؛ مجھے ایسا سودا قبول نہیں یہ قیمت بہت زیادہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a sight causes loss of self, it is better hidden from view: I do not accept the deal, Your price is too high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سخن بی پردہ گو با ما شد آن روز کم آمیزی\nکہ می گفتند تو ما را چنین خواہی چنان خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سے سامنے آکر بات کریں ، کم آمیزی کے دن بیت گئے ؛ جب کہ دوسرے یہ کہتے تھے ، آپ ہم سے یہ چاہتے ہیں وہ چاہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak to us unveiled; the time for being reserved is gone – when others told us whatever it was You wanted of us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ بی ادب زد رخنہ ہا در چرخ مینائی\nدگر عالم بنا کن گر حجابی درمیان خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری نگاہ بے ادب نے آسمان میں رخنے ڈال دیے ہیں؛ اگر آپ کو حجاب ہے تو اور جہان بنا لیجیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My insolent eyes have pierced the blue sky. If you want to have a barrier between us, build another world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چنان خود را نگہ داری کہ با این بی نیازی ہا\nشہادت بر وجود خود ز خون دوستان خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ اپنا اتنا خیال رکھتے ہیں کہ باوجود بے نیازی کے اپنے وجود پر دوستوں کے خون کی شہادت چاہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How You look out for Yourself! For all Your unconcern, You demand the blood of friends to prove you exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مقام بندگی دیگر مقام عاشقی دیگر\nز نوری سجدہ میخواہی ز خاکی بیش از آن خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندگی کا مقام اور ہے ، عاشقی کا مقام اور ہے؛ فرشتے سے آپ صرف سجدہ چاہتے ہیں ، لیکن خاکی سے اس سے زیادہ (یعنی شہادت) کے طلبگار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Worship is one station, love is another: You want angels to bow before you, but men to do still more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مس خامی کہ دارم از محبت کیمیا سازم\nکہ فردا چون رسم پیش تو از من ارمغان خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے پاس جو کچا تانبا (قلب) ہے، میں اسے آپ کی محبت سے کیمیا بنا رہا ہوں؛ کیونکہ کل (روز قیامت ) جب میں آپ کے سامنے پیش ہوں گا تو آپ فرمائیں گے: میرے لیے کیا تحفہ لائے ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With love I convert the crude copper I have into gold, for when I meet you tomorrow, You will want a gift from me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

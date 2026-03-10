@@ -1,0 +1,282 @@
+{
+  "id": "04",
+  "name": "مرزا غالب",
+  "name-en": "Mirza Ghalib",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فکر انساں پر تری ہستی سے یہ روشن ہوا\nہے پر مرغ تخیل کی رسائی تا کجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through you the secret was revealed to the human intellect that innumerable enigmas are solved by human intellect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تھا سراپا روح تو، بزم سخن پیکر ترا\nزیب محفل بھی رہا محفل سے پنہاں بھی رہا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You were the complete soul; literary assembly was your body. You adorned as well as remained veiled from the assembly.\n(This is an allusion to the lack of recognition of Ghalib's genius at the court of Bahadur Shah, the last Mughal Emperor of India. It also means that, though you adorned the literary assemblies and were bodily visible, your real self could not be seen except by those with insight.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دید تیری آنکھ کو اس حسن کی منظور ہے\nبن کے سوز زندگی ہر شے میں جو مستور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your eye is longing to witness that veiled Beauty which is veiled in everything as the pathos of life.\n(This refers to the Sufi concept of Wahdat al-Wujood according to which everything in the universe is God in different forms.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "محفل ہستی تری بربط سے ہے سرمایہ دار\nجس طرح ندی کے نغموں سے سکوت کوہسار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The assemblage of existence is rich with your harp as mountain's silence by the brook's melodious harp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تیرے فردوس تخیل سے ہے قدرت کی بہار\nتیری کشت فکر سے اگتے ہیں عالم سبزہ وار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garden of your imagination bestows glory on the universe from the field of your thought worlds grow like meadows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "زندگی مضمر ہے تیری شوخی تحریر میں\nتاب گویائی سے جنبش ہے لب تصویر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is concealed in the humour of your verse picture's lips move with your command of language.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نطق کو سو ناز ہیں تیرے لب اعجاز پر\nمحو حیرت ہے ثریا رفعت پرواز پر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speech is very proud of the elegance of your miraculous lips; Thurayyah is astonished at your style's elegance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "شاہد مضموں تصدق ہے ترے انداز پر\nخندہ زن ہے غنچہ دلی گل شیراز پر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beloved of literature itself loves your style: Delhi's bud is mocking at the rose of Shiraz.\n(This is an allusion to Muhammad Shams al-Din Hafiz, who was an eminent Persian poet of Iran and lived in Shiraz.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آہ! تو اجڑی ہوئی دلی میں آرامیدہ ہے\nگلشن ویمر میں تیرا ہم نوا خوابیدہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! You are resting in the midst of Delhi’s ruins; your counterpart is resting in the Weimar's* garden.\n* German poet Goethe who is buried in Weimar, Germany.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "لطف گویائی میں تیری ہمسری ممکن نہیں\nہو تخیل کا نہ جب تک فکر کامل ہم نشیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Matching you in literary elegance is not possible till maturity of thought and imagination are combined.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہائے! اب کیا ہو گئی ہندوستاں کی سر زمیں\nآہ! اے نظارہ آموز نگاہ نکتہ بیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! What has befallen the land of India! Ah! The inspirer of the super-critical eye!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گیسوئے اردو ابھی منت پذیر شانہ ہے\nشمع یہ سودائی دل سوزی پروانہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lock of Urdu's hair still craves for combing this candle still craves for moth's heart-felt pathos.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اے جہان آباد، اے گہوارہ علم و ہنر\nہیں سراپا نالہ خاموش تیرے بام و در",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Jahanabad*! O cradle of learning and art your entire super-structure is a silent lament.\n* Abbreviation for Shahjahanabad, which is the original name of Delhi after its construction under the Mughal Emperor Shahjahan.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ذرے ذرے میں ترے خوابیدہ ہیں شمں و قمر\nیوں تو پوشیدہ ہیں تیری خاک میں لاکھوں گہر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun and the moon are asleep in every speck of your dust; though innumerable other gems are also hidden in your dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "دفن تجھ میں کوئی فخر روزگار ایسا بھی ہے؟\nتجھ میں پنہاں کوئی موتی آبدار ایسا بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does another world-famous person like him also lie buried in you? Does another gem like him also lie concealed in you?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

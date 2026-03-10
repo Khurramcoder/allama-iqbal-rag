@@ -1,0 +1,132 @@
+{
+  "id": "40",
+  "name": "ایک مکالمہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک مرغ سرا نے یہ کہا مرغ ہوا سے \nپردار اگر تو ہے تو کیا میں نہیں پردار!",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغ ہوا: آزاد پرندہ۔\nمرغ سرا: پالتو پرندہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A domesticated bird once said to the wild bird: ‘If you have wings, do not I also have wings?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گر تو ہے ہوا گیر تو ہوں میں بھی ہوا گیر \nآزاد اگر تو ہے، نہیں میں بھی گرفتار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are air-borne, I am also air-borne. If you are free I am also not a prisoner.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پرواز، خصوصیت ہر صاحب پر ہے \nکیوں رہتے ہیں مرغان ہوا مائل پندار؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مائل پندار: مغرور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All winged creatures are characterized by flight: Why then are wild birds inclined to be arrogant!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مجروح حمیت جو ہوئی مرغ ہوا کی \nیوں کہنے لگا سن کے یہ گفتار دل آزار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the wild bird’s self-respect became wounded; he spoke thus on hearing this heart-rending talk:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کچھ شک نہیں پرواز میں آزاد ہے تو بھی \nحد ہے تری پرواز کی لیکن سر دیوار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘There is no doubt you also are free for flight. But, the limit of your flight is only up to the wall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "واقف نہیں تو ہمت مرغان ہوا سے \nتو خاک نشیمن، انھیں گردوں سے سروکار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you unacquainted with the courage of the wild birds? You live on the dust; they are concerned with the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو مرغ سرائی، خورش از خاک بجوئی \nما در صدد دانہ بہ انجم زدہ منقار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a household bird; you seek food in the dust. We strike the star with our beak in search of the grain.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Dialogue",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

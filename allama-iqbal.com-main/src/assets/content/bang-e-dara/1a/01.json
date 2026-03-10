@@ -1,0 +1,463 @@
+{
+  "id": "01",
+  "name": "ہمالہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے ہمالہ! اے فصیل کشور ہندوستاں\nچومتا ہے تیری پیشانی کو جھک کر آسماں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Himalaya! O rampart of the realm of India! Bowing down, the sky kisses your forehead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تجھ میں کچھ پیدا نہیں دیرینہ روزی کے نشاں\nتو جواں ہے گردش شام و سحر کے درمیاں",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیرینہ روزی: لمبی عمر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your condition does not show any signs of old age; you are young in the midst of day and night's alternation*. \n* The alternation of the day and night is what produces time. This verse also alludes to the relative recentness of the Himalayas in terms of geological ages. This range came into existence 5-10 million years ago in the Pliocene epoch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ایک جلوہ تھا کلیم طور سینا کے لیے\nتو تجلی ہے سراپا چشم بینا کے لیے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم بینا: دیکھنے والی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Kalim of Toor-e-Seina witnessed but one Effulgence for the discerning eye you are an embodiment of Effulgence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "امتحان دیدئہ ظاہر میں کوہستاں ہے تو\nپاسباں اپنا ہے تو، دیوار ہندستاں ہے تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیدئہ: آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the outward eye you are a mere mountain range; in reality you are our sentinel, you are India's rampart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مطلع اول فلک جس کا ہو وہ دیواں ہے تو\nسوئے خلوت گاہ دل دامن کش انساں ہے تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دامن کش: دامن کھینچنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the diwan whose opening verse is the sky. You lead Man to the solitudes of his heart's retreat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "برف نے باندھی ہے دستار فضیلت تیرے سر\nخندہ زن ہے جو کلاہ مہر عالم تاب پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دستار فضیلت: برتری کی پگڑی۔ \nکلاہ مہر عالم تاب: دنیا کو روشن کرنے والے سورج کی ٹوپی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Snow has endowed you with the turban of honour* which scoffs at the crown of the world-illuminating sun.\n* The successful completion of education in the institutions of higher learning in the Muslim world culminates in a turban being conferred on the scholar as an insignia of his academic degree. It corresponds with the cap and academic hood in the Western world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تیری عمر رفتہ کی اک آن ہے عہد کہن\nوادیوں میں ہیں تری کالی گھٹائیں خیمہ زن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Antiquity is but a moment of your bygone age; dark clouds are encamped in your valleys.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چوٹیاں تیری ثریا سے ہیں سرگرم سخن\nتو زمیں پر اور پہنائے فلک تیرا وطن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ثریا: دو ستارے جو بہت دور ہیں۔ \nپہنائے فلک: آسمان کی وسعت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your peaks are matching with the Pleiades in elegance; though you are standing on earth your abode is sky's expanse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چشمہ دامن ترا ئنہ سےال ہے\nدامن موج ہوا جس کے لیے رومال ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ا ئنہ سیال: بہنے والا؛ رواں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stream in your flank is a fast flowing mirror, for which the breeze is working like a kerchief.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ابر کے ہاتھوں میں رہوار ہوا کے واسطے\nتازیانہ دے دیا برق سر کہسار نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوڑا۔ تازیانہ\nرہوار ہوا: ہوا کا گھوڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mountain top's lightning has given a whip in the hands of cloud for the ambling horse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اے ہمالہ کوئی بازی گاہ ہے تو بھی، جسے\nدست قدرت نے بنایا ہے عناصر کے لیے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بازی گاہ: کھیل کی جگہ، کھیل کا میدان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Himalah! Are you like a theater stage which nature's hand has made for its elements?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہائے کیا فرط طرب میں جھومتا جاتا ہے ابر\nفیل بے زنجیر کی صورت اڑا جاتا ہے ابر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فیل: ہاتھی۔\nفرط طرب میں: بے حد خوشی میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! How the cloud is swaying in excessive joy; the cloud like an unchained elephant is speeding.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "جنبش موج نسیم صبح گہوارہ بنی\nجھومتی ہے نشہ ہستی میں ہر گل کی کلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج نسیم جنبش : ہوا کی لہر کی رواانی۔\nگہوارہ: جھولا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gentle movement of the morning zephyr is acting like a cradle; every flower bud is swinging with intoxication of existence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "یوں زبان برگ سے گویا ہے اس کی خامشی\nدست گلچیں کی جھٹک میں نے نہیں دیکھی کبھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "برگ: پتّہ۔ \nدست گلچیں: پھول چننے والے ہاتھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flower bud's silence with the petal's tongue is saying ‘I have never experienced the jerk of the florist's hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "کہہ رہی ہے میری خاموشی ہی افسانہ مرا\nکنج خلوت خانہ قدرت ہے کاشانہ مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاشانہ: ٹھکانہ، گھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silence itself is relating the tale of mine; the corner of nature's solitude is the abode of mine’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آتی ہے ندی فراز کوہ سے گاتی ہوئی\nکوثر و تسنیم کی موجوں کی شرماتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فراز کوہ: پہاڑ کی بلندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The brook is melodiously descending from the high land putting the waves of Kawthar* and Tasnâm* to embarrassment.\n* Kawthar and Tasnâm: They are two fountains in Paradise. The name includes their streams also.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آئنہ سا شاہد قدرت کو دکھلاتی ہوئی\nسنگ رہ سے گاہ بچتی، گاہ ٹکراتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہد قدرت: قدرت کی خوبصورتی؛ مراد ہے معشوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As if showing the mirror to Nature's beauty; now evading now rowing against the rock in its way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "چھیڑتی جا اس عراق دل نشیں کے ساز کو\nاے مسافر دل سمجھتا ہے تری آواز کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "عراق: موسیقی کا ایک راگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Play in passing this orchestra of beautiful music O wayfarer! The heart comprehends your music.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "لیلی شب کھولتی ہے آ کے جب زلف رسا\nدامن دل کھینچتی ہے آبشاروں کی صدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the night's Lailah unfurls her long hair; the sound of water-falls allures the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "وہ خموشی شام کی جس پر تکلم ہو فدا\nوہ درختوں پر تفکر کا سماں چھایا ہوا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تکلم: گفتگو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That silence of the night whose beauty surpasses speech. That state of silent meditation overshadowing the trees.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "کانپتا پھرتا ہے کیا رنگ شفق کہسار پر\nخوشنما لگتا ہے یہ غازہ ترے رخسار پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "غازہ: چہرے پر استعمال کا پوڈر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That dusk's beauty which shivers along the mountain range; very beautiful looks this rouge on your cheeks.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "اے ہمالہ! داستاں اس وقت کی کوئی سنا\nمسکن آبائے انساں جب بنا دامن ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسکن: رہنے کی جگہ۔ \nآبائے انساں: انسان کے باپ دادا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Himalah! Do relate to us some stories of the time when your valleys became abode of Man's ancestors*.\n* This refers to the antiquity of the Himalayas in archaeological times. Kashmir was an inhabited area at the time of the Indus Valley civilization in the third millennium B.C. It also alludes to the tradition that the Hindu sages wrote the Vedas in the Himalayas under the inspiration of its beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "کچھ بتا اس سیدھی سادی زندگی کا ماجرا\nداغ جس پر غازئہ رنگ تکلف کا نہ تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Relate something of the life without sophistication which had not been stained by the rouge of sophistication.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "ہاں دکھا دے اے تصور!پھر وہ صبح و شام تو\nدوڑ پیچھے کی طرف اے گردش ایام تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Imagination! Bring back that period O Vicissitudes of Time speed backwards*.\n* This is an outpouring of the poet's heart in which he yearns for the revival of the Islamic civilization, of which the Asian civilization was a precursor and a part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "name-en": "Himalaya",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

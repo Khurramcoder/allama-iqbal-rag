@@ -1,0 +1,83 @@
+{
+  "id": "20",
+  "name": "فقر و ملوکیت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فقر جنگاہ میں بے ساز و یراق آتا ہے \nضرب کاری ہے، اگر سینے میں ہے قلب سلیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساز و یراق: ساز و سامان۔\nجنگاہ: میدان جنگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqr goes to war unequipped, unarmed with glee; it deals dire blows, if heart of sins is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس کی بڑھتی ہوئی بے باکی و بے تابی سے \nتازہ ہر عہد میں ہے قصہ فرعون و کلیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its defiance and unrest, ever on increase give tale of Moses and Pharoah fresh release.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اب ترا دور بھی آنے کو ہے اے فقر غیور \nکھا گئی روح فرنگی کو ہوائے زروسیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O zealous Faqr, you will get your grandeur old, the Frankish soul is stained with greed of wealth and gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق و مستی نے کیا ضبط نفس مجھ پہ حرام\nکہ گرہ غنچے کی کھلتی نہیں بے موج نسیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ecstatic Love forbids control of heart without breeze the petals do not part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Poverty And Monarchy",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,137 @@
+{
+  "id": "47",
+  "name": "غنی کشمیری",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غنی آن سخنگوی بلبل صفیر\nنوا سنج کشمیر مینو نظیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "غنی جو گیت گانے میں بلبل کی مثل تھا ؛ جو جنت نظیر کشمیر کا شاعر تھا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That nightingale of poetry, Ghani, who sang in Kashmir’s paradisal land;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چو اندر سرا بود در بستہ داشت\nچو رفت از سرا تختہ را وا گذاشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ گھر کے اندر ہوتا تو دروازہ بند رکھتا ؛ جب گھر سے باہر جاتا تو دروازہ کھلا چھوڑ جاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Used, while at home, to shut up all the doors, but leave them open while away from home.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی گفتش اے شاعر دل رسی\nعجب دارد از کار تو ھر کسی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی نے اس سے کہا کہ اے شاعر دل ربا؛ تیرے اس کام سے ہر کوئی حیران ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Somebody questioned him concerning this. ‘O charming bard’, he said, ‘Why do you do this strange thing, which nobody understands the meaning of?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ پاسخ چہ خوش گفت مرد فقیر\nفقیر و بہ اقلیم معنی امیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مرد فقیر نے کیا خوب جواب دیا ؛ وہ جو ظاہر میں فقیر مگر سلطنت معنی کا امیر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Ghani, who had no wealth except his gift of poetry, replied:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز من آنچہ دیدند یاران رواست\nدرین خانہ جز من متاعی کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ لوگوں نے مجھے کرتے ہوئے دیکھا ہے وہ صحیح ہے؛ کیونکہ اس گھر میں میرے سوائے اور کوئی سامان نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘What people see me doing is quite right. There is nothing of any value in my house except myself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غنی تا نشیند بہ کاشانہ اش\nمتاعی گرانی است در خانہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک غنی اپنے گھر میں بیٹھا ہوتا ہے؛ وہاں قیمتی سامان موجود ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I am in, the house is to be guarded like a treasure-house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چو آن محفل افروز در خانہ نیست\nتہی تر ازین ہیچ کاشانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ مجلس آرا گھر میں نہیں ہوتا ؛ تو مکان بالکل خالی رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I am out, it is an empty place, which nobody would care to walk into.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ghani Kashmiri",
+  "credits": "English Translation by: M. Hadi Husain"
+}

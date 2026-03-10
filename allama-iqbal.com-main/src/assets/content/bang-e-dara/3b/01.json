@@ -1,0 +1,97 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے باد صبا! کملی والے سے جا کہیو پیغام مرا \nقبضے سے امت بیچاری کے دیں بھی گیا، دنیا بھی گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O zephyr! Convey my message to the one wrapped in blanket: The poor Ummah has lost both din and material resources.\n(The one wrapped in blanket: The word in the original is ‘One wrapped in a small blanket’. This is the title of the Holy Prophet (S.A.W.) as a mark of affection and is based on such affection shown by no less an entity than God in the opening verses of the Holy Qur’an, Surahs 73 and 74.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ موج پریشاں خاطر کو پیغام لب ساحل نے دیا \nہے دور وصال بحر بھی، تو دریا میں گھبرا بھی گئی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The river bank gave this message to the restless wave: ‘Union with ocean is still far and you have already lost patience in the river’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عزت ہے محبت کی قائم اے قیس! حجاب محمل سے \nمحمل جو گیا عزت بھی گئی، غیرت بھی گئی لیلا بھی گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Qais! Love’s honour is made durable with litter’s curtain; if litter is lost, glory, honor as well as Lailah is lost!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کی ترک تگ و دو قطرے نے تو آبروئے گوہر بھی ملی \nآوارگی فطرت بھی گئی اور کشمکش دریا بھی گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the drop got pearl’s dignity by abandoning struggle; it lost taste for wandering and struggle in the river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نکلی تو لب اقبال سے ہے، کیا جانیے کس کی ہے یہ صدا \nپیغام سکوں پہنچا بھی گئی، دل محفل کا تڑپا بھی گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though this voice has emerged from Iqbal’s lips its source is unknown; the assembly got hope’s message as well as became restless for activism.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

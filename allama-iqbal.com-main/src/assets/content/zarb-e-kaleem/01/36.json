@@ -1,0 +1,99 @@
+{
+  "id": "36",
+  "name": "قلندر کی پہچان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہتا ہے زمانے سے یہ درویش جواں مرد \nجاتا ہے جدھر بندئہ حق، تو بھی ادھر جا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Darwesh bold proclaims with main and might my guidance take, tread path quite straight and right.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہنگامے ہیں میرے تری طاقت سے زیادہ \nبچتا ہوا بنگاہ قلندر سے گزر جا",
+              "lang": "Original"
+            },
+            {
+              "_content": "بنگاہ: مقام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beyond your might and nerves my tumults lie, with caution great by Qalandar's dwelling hie.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں کشتی و ملاح کا محتاج نہ ہوں گا \nچڑھتا ہوا دریا ہے اگر تو تو اتر جا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The help of skiff and guide I do not need, if you are swollen brook, come down with speed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "توڑا نہیں جادو مری تکبیر نے تیرا؟ \nہے تجھ میں مکر جانے کی جرات تو مکر جا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has not my Takbir broke your charm? Revoke, if show of courage does not harm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مہر و مہ و انجم کا محاسب ہے قلندر \nایام کا مرکب نہیں، راکب ہے قلندر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Darvesh holds the reins of Time like steed; ile brings sun, stars and moon to book with speed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Recognition Of A Qalandar",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "38",
+  "name": "مردان خدا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہی ہے بندئہ حر جس کی ضرب ہے کاری \nنہ وہ کہ حرب ہے جس کی تمام عیاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man alone is brave and free, whose stroke is full of main and might that man is coward through and through who leans on guile and tricks in fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ازل سے فطرت احرار میں ہیں دوش بدوش \nقلندری و قبا پوشی و کلہ داری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From creation's Immemorial Dawn free born men own a bent of mind, Qalandar's traits donning cloak and crown, such distinctive marks in them we find.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زمانہ لے کے جسے آفتاب کرتا ہے \nانھی کی خاک میں پوشیدہ ہے وہ چنگاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spark lies hid within their clay which the world to itself takes transforms it as if by a smell and world – illuming sun it makes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وجود انھی کا طواف بتاں سے ہے آزاد \nیہ تیرے مومن و کافر، تمام زناری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This life is free from ugly taint that makes men round the fane to tread O God! The faithful and pagan all have worn on shoulders sacred thread.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "God's Men",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

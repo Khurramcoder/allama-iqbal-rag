@@ -1,0 +1,79 @@
+{
+  "id": "22",
+  "name": "صبح چمن",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "پھول",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شاید تو سمجھتی تھی وطن دور ہے میرا \nاے قاصد افلاک! نہیں، دور نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Flower: Perhaps you thought my land is far away, O courier from the sky, I say, ‘Nay, Nay’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "شبنم",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوتا ہے مگر محنت پرواز سے روشن \nیہ نکتہ کہ گردوں سے زمیں دور نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "گردوں: آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dew: This subtle point is brought to light that sky isn’t far from earth, by toil of flight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "صبح",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مانند سحر صحن گلستاں میں قدم رکھ \nآئے تہ پا گوہر شبنم تو نہ ٹوٹے \nہو کوہ و بیاباں سے ہم آغوش، و لیکن \nہاتھوں سے ترے دامن افلاک نہ چھوٹے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dawn: Step tip-toe in the lawn of park at morn, don't crush the shining gems that park adorn.\nEmbrace the mount and waste but caution take that links with whirling sky you do not break.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Dawn Of The Park",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

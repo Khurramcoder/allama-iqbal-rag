@@ -1,0 +1,81 @@
+{
+  "id": "11",
+  "name": "ترک عثمانی",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ ملک خویش عثمانی امیر است\nدلش گاہ و چشم او بصیر است\nنپنداری کہ رست از بند افرنگ\nہنوز اندر طلسم او اسیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترک عثمانی اپنے ملک میں خود حکمران ہے ؛ وہ دل آگاہ اور چشم بینا رکھتا ہے۔\nمگر یہ گمان نہ کر کہ وہ افرنگیوں کی قید سے نکل چکا ہے؛ ابھی تک وہ ان کے طلسم (مغربیت ) کا اسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the Ottoman reign, the Turks are free; he holds conscious heart, with insight to see.\nOn freedom of the West they do not boast; they are captives yet of his Charming toast.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خنک مردان کہ سحر او شکستند\nبہ پیمان فرنگی دل نبستند\nمشو نومید و با خود شنا باش\nکہ مردان پیش ازین بودند و ہستند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہیں وہ لوگ جنہوں نے افرنگی کا سحر توڑ دیا؛ اور اس کے قول و قرار پر اعتبار نہ کیا۔\nایسے مرد پہلے بھی تھے اور اب بھی ہیں؛ (اے ترک عثمانی!) تو نا امید نہ ہو بلکہ اپنے آپ کو پہچان (تو بھی یہ کام کر سکتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How daring were they who broke his charms; who paid no heed to his pledges warm.\nGet not despaired, have thy ego’s own view; what did the past nations you also do.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ ترکان رزوئے تازہ دادند\nبنای کار شان دیگر نہادند\nولیکن کو مسلمانی کہ بیند\nنقاب از روی تقدیری گشادند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترکوں کو (مغربیت کی) نئی آرزو دی گئی ہے؛ ان کے کام کی مختلف بنیاد رکھی گئی ہے۔\nلیکن (ان میں) ایسا مسلمان کہاں ہے؛ جو یہ دیکھے کہ (اسلام کے دور نو) کی تقدیر سے پردہ ہٹا دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fate thus gave to Turks a verve anew; and gave them a base for a build up new.\nWhere are those Muslim who could behold? The meanings of fate which God had told.*\n* It means when the Turks decided to keep their freedom at any cost, God came to their help. In this quatrain the poet wants to say that the nations make their own destinies.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Turks Of Ottoman Empire",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

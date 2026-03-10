@@ -1,0 +1,56 @@
+{
+  "id": "10",
+  "name": "پروانہ اور جگنو",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "پروانہ",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پروانے کی منزل سے بہت دور ہے جگنو \nکیوں آتش بے سوز پہ مغرور ہے جگنو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "MOTH: The firefly is so far removed from the status of the moth! Why is it so proud of a fire that cannot burn?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جگنو",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اللہ کا سو شکر کہ پروانہ نہیں میں \nدریوزہ گر آتش بیگانہ نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "FIRE FLY: God be thanked a hundred times that I am not a moth: That I am no beggar of alien fire!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Moth And The Firefly",
+  "credits": "English Translation by: Mustansir Mir"
+}

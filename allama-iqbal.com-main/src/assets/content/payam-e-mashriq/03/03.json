@@ -1,0 +1,153 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می تراشد فکر ما ہر دم خداوندی دگر\nرست از یک بند تا افتاد در بندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا فکر ہر دم ایک نیا معبود (بت) تراشتا ہے، ایک بندھن سے آزار ہوتا ہے تا کہ دوسرے میں گرفتار ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our thought is constantly engaged in fashioning new gods. Released from one bond, it entangles itself in another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بر سر بام آ، نقاب از چہرہ بیباکانہ کش\nنیست در کوی تو چون من آرزومندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سر بام آ اور بیباکانہ انداز میں اپنے چہرے سے نقاب ہٹا، تیرے کوچے میں میرے جیسا تیرا اور کوئی چاہنے والا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come to the roof-top and remove unhesitatingly Your face’s veil. There is nobody in Your street more eager to see You than I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بسکہ غیرت میبرم از دیدۂ بینای خویش\nاز نگہ بافم بہ رخسار تو رو بندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ میں اپنی دیکھنے والی آنکھ سے غیرت کھاتا ہوں، اس لیے تمہارے رخسار پر اپنی نگاہ سے (ہر بار) ایک نیا نقاب بن دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am so jealous of the seeing power of my eyes that I weave with my sight one more veil for Your face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یک نگہ یک خندۂ دزدیدہ یک تابندہ اشک\nبہر پیمان محبت نیست سوگندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک نگاہ، ایک دزدیدہ مسکراہٹ ، ایک چمکتا ہوا آنسو، محبت کے اقرار کے لیے اس کے علاوہ کوئی اور حلف نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One look, one flitting smile, one shining tear – other than these there is no pledge of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق را نازم کہ از بیتابی روز فراق\nجان ما را بست با درد تو پیوندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے عشق پر فخر ہے کہ اس نے روز فراق کی بیتابی کے ذریعے ہماری جان سے آپ کے درد کا ایک اور پیوند لگا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am proud of my love, which with the grief of separation forged another bond of pain connecting You and me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تا شوی بیباک تر در نالہ اے مرغ بہار\nآتشے گیر از حریم سینہ ام چندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے بہار کے پرندے! میرے سینے کے اندر سے تھوڑی سی آگ اور لے، تاکہ تو اپنے نالوں میں بیباک تر ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In order that your song, O bird of spring, may be more lively, take a little more fire from the sanctuary of my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چنگ تیموری شکست آہنگ تیموری بجاست\nسر برون می آرد از ساز سمرقندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیمور کا چنگ ٹوٹ چکا ہے مگر اس کا آہنگ باقی ہے، جو ایک بار پھر ساز سمرقند سے بلند ہونے والا ہے (وسط ایشیا کے مسلمان پھر اٹھنے والے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The harp of the Timurids broke: Its music is alive. It burst forth from another instrument of Samarkand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "رہ مدہ در کعبہ اے پیر حرم اقبال را\nہر زمان در آستین دارد خداوندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے پیر حرم! اقبال کو کعبہ میں داخل ہونے کی اجازت نہ دے، کیونکہ ہر لحظہ اس کی آستین میں ایک نیا بت ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Custodian of the Harem, do not admit Iqbal; for he has up his sleeve new idols every day.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

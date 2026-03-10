@@ -1,0 +1,83 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری دعا سے قضا تو بدل نہیں سکتی \nمگر ہے اس سے یہ ممکن کہ تو بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقدیر۔ قضا",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your prayers can't avert decrees of Fate at all. Your Self can change, but none knows what else may befall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تری خودی میں اگر انقلاب ہو پیدا \nعجب نہیں ہے کہ یہ چار سو بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If some tremendous change, if human self e'er shines, it gains perfection's height, gets free of world's confines.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہی شراب، وہی ہاے و ہو رہے باقی \nطریق ساقی و رسم کدو بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رسم کدو: شراب پینے کے طور طریقے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wine and drunkard's cries may ever live and last the wont and way of Saqi and gourd may change too fast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تری دعا ہے کہ ہو تیری آرزو پوری \nمری دعا ہے تری آرزو بدل جائے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You beg your God to grant your cherished end and goal, I pray my God to change your wish entire and whole.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

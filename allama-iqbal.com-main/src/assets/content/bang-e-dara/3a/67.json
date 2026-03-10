@@ -1,0 +1,83 @@
+{
+  "id": "67",
+  "name": "دریوزہ خلافت",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر ملک ہاتھوں سے جاتا ہے، جائے \nتو احکام حق سے نہ کر بے وفائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the territory is being lost let it be lost; you should not be disloyal to God’s commands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہیں تجھ کو تاریخ سے آگہی کیا \nخلافت کی کرنے لگا تو گدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you not have knowledge of history? You have started begging for theKhilafah!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خریدیں نہ جس کو ہم اپنے لہو سے \nمسلماں کو ہے ننگ وہ پادشائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If we do not purchase with our own blood; such sovereignty is a disgrace to the Muslim!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرا از شکستن چناں عار ناید \nکہ از دیگراں خواستن مومیائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے لیے اپنے جسم کی ہڈیاں ٹوٹ جانا اس قدر باعث شرم نہیں، جس قدر دوسروں کے سامنے مومیائی کے لیے ہاتھ پھیلا نا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I do not feel as much ashamed of being broken down as in asking others for momiya’i* for my treatment. \n* This is a medicinal substance which appears from rocks in lime stone formations in mountains. It is believed to have extraordinary tonic and healing properties. Geologically the closest substances to momiya’i are ‘stalactite’ and ‘stalacmite’. The former is formed very slowly when the water containing calcium bicarbonate drips down slowly from the roof of a cave of lime stone rock. The deposit hangs from the roof of the cave like icicles. The latter is also made up of calcium bicarbonate and is formed in the same way at the bottom of the cave. The verse means that being defeated is better than gaining success through begging help from others.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Begging For Khilafah",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

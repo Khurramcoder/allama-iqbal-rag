@@ -1,0 +1,83 @@
+{
+  "id": "14",
+  "name": "حکومت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے مریدوں کو تو حق بات گوارا لیکن\nشیخ و ملا کو بری لگتی ہے درویش کی بات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My talk makes Shaikh and Mullah show undue, though disciples can put tip with is true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قوم کے ہاتھ سے جاتا ہے متاع کردار\nبحث میں آتا ہے جب فلسفہ ذات و صفات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That race is soon deprived of glorious deeds, for talk on Being and Attributes hatred breeds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرچہ اس دیر کہن کا ہے یہ دستور قدیم\nکہ نہیں مے کدہ و ساقی و مینا کو ثبات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This cosmos old is wrought in such a cast that tavern, Saqi and flask don't for e'er last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قسمت بادہ مگر حق ہے اسی ملت کا\nانگبیں جس کے جوانوں کو ہے تلخاب حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "تلخاب: کڑوا۔\nانگبیں: شہد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That nation has the right to luck in life whose youth for honey take worldly blows and strife.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Government",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

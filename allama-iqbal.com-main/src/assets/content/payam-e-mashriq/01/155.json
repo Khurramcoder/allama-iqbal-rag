@@ -1,0 +1,34 @@
+{
+  "id": "155",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ گوشم آمد از خاک مزاری\nکہ در زیر زمین ہم میتوان زیست\nنفس دارد ولیکن جان ندارد\nکسی کو بر مراد دیگران زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک مزار سے میرے کان میں یہ آواز آئی، کہ قبر میں بھی زندہ رہا جا سکتا ہے۔\nلیکن وہ شخص جو دوسروں کی خواہش کے مطابق زندگی بسر کرتا ہے ، اس کے اندر سانس ہے مگر جان نہيں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I heard a voice from inside a grave say: You can commence a new life in the grave.\nThe man who lives by others’ wishes may have breath in him, but has no soul to save.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

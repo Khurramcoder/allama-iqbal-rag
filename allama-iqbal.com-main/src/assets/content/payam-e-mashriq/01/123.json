@@ -1,0 +1,34 @@
+{
+  "id": "123",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ پہنای ازل پر می گشودم\nز بند آب و گل بیگانہ بودم\nبچشم تو بہای من بلند است\nکہ آوردی ببازار وجودم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ازل کی وسعتوں میں اپنے پر کھولے، میں آب و گل کے بندھن سے آزاد تھا۔\nآپ کی نظر میں میری قیمت گراں تھی، اسی لیے آپ مجھے بازار وجود میں لے آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Winging Eternity’s uncharted space, still an unbodied spirit, I was caught.\nAnd, as You thought me valuable, was brought to this, your ever-busy market-place.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

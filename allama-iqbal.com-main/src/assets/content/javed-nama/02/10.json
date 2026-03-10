@@ -1,0 +1,454 @@
+{
+  "id": "10",
+  "name": "طاسین محمد نوحۂ ابوجہل در حرم کعبہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سینۂ ما از محمد داغ داغ\nاز دم او کعبہ را گل شد چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرم کعبہ میں ابو جہل کی روح کا نوحہ۔\n\nمحمد (صلعم) کی وجہ سے ہمارا سینہ داغ داغ ہے؛ ان (صلعم) کی پھونک سے کعبہ کا چراغ گل ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Spirit of Abu Jahl Laments in the Sanctuary of the Ka’aba\n\nMy breast is riven and anguished by this Mohammed; his breath has put out the burning lamp of the Kaaba.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از ہلاک قیصر و کسری سرود\nنوجوانان را ز دست ما ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) قیصر و کسری کی ہلاکت کی بات کرتے ہیں ؛ آپ (صلعم) نے (ہمارے) نوجوانوں کو ہم سے چھین لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has sung of the destruction of Caesar and Chosroes, he has stolen away from us our young men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ساحر و اندر کلامش ساحری است\nاین دو حرف لاالہ خود کافری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) ساحر اور آپ (صلعم) کا کلام سحر ہے؛ لاالہ کے دو لفظ کافری ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a wizard, and wizardry is in his speech: these two words ‘One God’ are very unbelief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا بساط دین آبا در نورد\nبا خداوندان ما کرد آنچہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے ہمارے آباء کے دین کی بساط لپیٹ دی ہے؛ آپ (صلعم) نے ہمارے معبودوں سے وہ کیا جو نا قابل بیان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So he has rolled up the carpet of our fathers’ faith and has done with our Lord Gods what he has done.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پاش پاش از ضربتش لات و منات\nانتقام از وی بگیر اے کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی ضرب سے لات و منات پاش پاش ہو گئے۔اے کائنات ! آپ (صلعم) سے انتقام لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The blow of his fist has scattered Lat and Manat: take vengeance upon him, you created beings!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دل بہ غایب بست و از حاضر گسست\nنقش حاضر را فسون او شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے غائب سے دل لگایا اور حاضر سے دل ہٹایا؛ آپ (صلعم) کے افسوں نے حاضر کا نقش توڑ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He bound his heart to the invisible, broke with the visible, his incantation shattered the living, present image.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دیدہ بر غایب فرو بستن خطاست\nآنچہ اندر دیدہ می ناید کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غائب پر نگاہ مرکوز کرنا غلطی ہے؛ کوئی ایسی چیز نہیں جو آنکھ سے نہ دیکھی جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is wrong to attach the eye to the invisible; that which comes not into sight-wherever is it?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پیش غایب سجدہ بردن کوری است\nدین نو کور است و کوری دوری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "غائب کے سامنے سجدہ کرنا اندھا پن ہے؛ یہ نیا دین اندھا ہے اور اندھا پن (حقیقت سے) دور لے جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is blindness to make prostration to the invisible; the new religion is blindness, and blindness is remoteness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خم شدن پیش خدای بے جہات\nبندہ را ذوقی نبخشد این صلوت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدائے لا مکاں کے سامنے جھکنا ؛ یہ نماز بندے کو ذوق عطا نہیں کرتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To bend double before an undimensioned God such prayers bring no joy to the worshipper.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مذہب او قاطع ملک و نسب\nاز قریش و منکر از فضل عرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کا مذہب ملک و نسب کی جڑیں کاٹ دیتا ہے؛ آپ (صلعم) اہل عرب اور قریش کی فضیلت کے منکر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His creed cuts through the rulership and lineage of Koraish, denies the supremacy of the Arabs;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "در نگاہ او یکے بالا و پست\nبا غلام خویش بر یک خوان نشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی نگاہ میں چھوٹے بڑے ایک جیسے ہیں؛ آپ (صلعم) اپنے غلام کے ساتھ ایک دسترخوان پر بیٹھ جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his eyes lofty and lowly are the same thing he has sat down at the same table with his slave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "قدر احرار عرب نشناختہ\nبا کلفتان حبش در ساختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے احرار عرب کی قدر نہیں پہچانی؛ آپ (صلعم) نے کالے حبشیوں کے ساتھ موافقت اختیار کر لی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has not recognized the worth of the noble Arabs but associated with uncouth Abyssinians;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "احمران با اسودان آمیختند\nآبروے دودمانی ریختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے گوروں کو کالوں کے ساتھ ملا دیا؛ اور خاندان کی وقعت ختم کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Redskins have been confounded with blackskins, the honour of tribe and family has been destroyed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "این مساوات این مواخات اعجمی است\nخوب میدانم کہ سلمان مزدکی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مساوات مواخات (بھائی چارہ) عجمی چیز ہے؛ میں اچھی طرح جانتا ہوں کہ سلمان (رضی اللہ) فارسی مزدکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This equality and fraternity are foreign things – I know very well that Salman is a Mazdakite;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ابن عبداﷲ فریبش خوردہ است\nرستخیزی بر عرب آوردہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابن عبداللہ (صلعم) نے اس کے فریب میں آ کر عرب میں قیامت برپا کر دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The son of Abdullah has been duped by him and he has brought disaster upon the Arab people.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "عترت ہاشم ز خود مہجور گشت\nاز دو رکعت چشم شان بے نور گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہاشم کی اولاد اپنے خاندان ہی سے دور ہو گئی ہے؛ دو رکعت نماز نے ان کی آنکھوں کو بے نور کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hashim’s progeny have become estranged one from another, a couple of prayers have utterly blinded them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اعجمی را اصل عدنانی کجاست\nگنگ را گفتار سحبانی کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عجمی کی اصل کہاں عدنانی ہے؟ گونگا شخص کیسے سبحان کی گفتار پا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is alien stock, compared with the Adnani, what betokens Sahbani speech to the barbarian?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "چشم خاصان عرب گردیدہ کور\nبر نیائی اے زھیر از خاک گور",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاصان عرب کی آنکھ اندھی ہو گئی ہے۔اے زہیر! تو قبر سے کیوں نہیں نکل آتا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eyes of the elect of the Arabs have been darkened; will you not rise up, Zuhair, from the dust of the tomb?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اے تو ما را اندرین صحرا دلیل\nبشکن افسون نوای جبرئیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس صحرا میں تو ہمارے لیے رہبر ہے ؛ اٹھ اور نوائے جبریل (علیہ) کا جادو توڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who are for us a guide through this desert, shatter the spell of the chant of Gabriel!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "باز گو اے سنگ اسود باز گوے\nآنچہ دیدیم از محمد باز گوے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے حجر اسود جو کچھ محمد (صلعم) کے ہاتھوں دیکھا ہے اسے بار بار بیان کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell again, you Black Stone, now tell again, tell again what we have suffered through Mohammed!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "اے ہبل، اے بندہ را پوزش پذیر\nخانۂ خود را ز بے کیشان بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ہبل، اے اپنے بندوں کے عذر قبول کرنے والے بے دینوں سے اپنا گھر واپس لے لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hubal, thou who acceptest the excuses of thy servants, seize back thy temple from the irreligious ones;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گلۂ شان را بہ گرگان کن سبیل\nتلخ کن خرمایشان را بر نخیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے گلہ کو بھیڑیوں کی نظر کر دے؛ ان کی کھجوروں کو درختوں پر کڑوا بنا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Expose their flock unto the ravening wolves, make their dates bitter upon the palm-tree!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "صرصری دہ با ہواے بادیہ\n\"انھم اعجاز نخل خاویہ\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان پر صحرا کی ہوا کو صرصر بنا کر بھیج تاکہ وہ اس طرح گر جائیں جیسے کھجور کے کھوکھلے تنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let loose a burning wind on the air of the desert as if they were stumps of fallen-down palm-trees",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "اے منات اے لات ازین منزل مرو\nگر ز منزل میروی از دل مرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے لات و منات، کعبہ سے نہ جاؤ اور اگر جانا ہی ہے تو ہمارے دل سے نہ نکلو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Manat, O Lat, go not forth from this abode, or if you leave this abode, go not from our hearts!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "اے ترا اندر دو چشم ما وثاق\nمہلتی، ان کنت ازمعت الفراق\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم جو ہماری دونوں آنکھوں کے اندر بستے ہو ؛ اگر تم نے جانا ہی ہے تو تھوڑی دیر ٹھہر جاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who have forever a lodging in our eyes, tarry a little, if you intend to depart from me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Tasin Of Muhammed (S.A.W.)"
+}

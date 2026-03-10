@@ -1,0 +1,33 @@
+{
+  "id": "148",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیالم کو گل از فردوس چیند\nچو مضمون غریبی آفریند\nدلم در سینہ می لرزد چو برگی\nکہ بر وی قطرۂ شبنم نشیند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought plucks flowers that in Eden grew to shape and fashion fancies rare and new.\nThen shakes my heart a leaf within my breast, a petal trembling ’neath the Summer dew.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

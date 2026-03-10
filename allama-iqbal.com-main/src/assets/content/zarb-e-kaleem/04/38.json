@@ -1,0 +1,66 @@
+{
+  "id": "38",
+  "name": "موسیقی",
+  "name-en": "Music",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ نغمہ سردی خون غزل سرا کی دلیل \nکہ جس کو سن کے ترا چہرہ تاب ناک نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A song that fails to make your face glimmer and glow with joy and glee, shows that minstrel's blood is cold, his heart of heat and warmth is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نوا کو کرتا ہے موج نفس سے زہر آلود \nوہ نے نواز کہ جس کا ضمیر پاک نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That player on the flute who has a conscience much defiled, impure with puff of breath can make a tune replete with poison which hasn't cure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پھرا میں مشرق و مغرب کے لالہ زاروں میں \nکسی چمن میں گریبان لالہ چاک نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have visited the meads in East and West, where tulips parks adorn, but I have not beheld a park, where tulips have their collars torn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

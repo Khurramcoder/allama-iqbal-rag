@@ -1,0 +1,82 @@
+{
+  "id": "28",
+  "name": "مصور",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کس درجہ یہاں عام ہوئی مرگ تخیل\nہندی بھی فرنگی کا مقلد، عجمی بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The death of fancy is so widely spread that men of Pers and Ind by Franks are led.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مجھ کو تو یہی غم ہے کہ اس دور کے بہزاد\nکھو بیٹھے ہیں مشرق کا سرور ازلی بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I feel sad that Behzad's of modern time have lost East's rapture sweet and joy sublime.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "معلوم ہیں اے مرد ہنر تیرے کمالات\nصنعت تجھے آتی ہے پرانی بھی، نئی بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O artist, of your talents I can tell, you know the ancient crafts and new so well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فطرت کو دکھایا بھی ہے، دیکھا بھی ہے تو نے\nآئینہ فطرت میں دکھا اپنی خودی بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have portrayed many a natural sight, display your Self in Nature's mirror bright.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Painter",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

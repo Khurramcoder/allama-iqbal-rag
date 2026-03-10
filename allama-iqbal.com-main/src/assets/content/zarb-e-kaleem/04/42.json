@@ -1,0 +1,35 @@
+{
+  "id": "42",
+  "name": "ضبط",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "طریق اہل دنیا ہے گلہ شکوہ زمانے کا \nنہیں ہے زخم کھا کر آہ کرنا شان درویشی \nیہ نکتہ پیر دانا نے مجھے خلوت میں سمجھایا \nکہ ہے ضبط فغاں شیری، فغاں روباہی و میشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "روباہي و ميشي: لومڑی اور بھیڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the mode of worldly men against the world to whine and groan; it does not suit a Darvesh true, by Fate-inflicted wounds to moan.\nThe wise old man explained to me, this subtle point in closet alone, that control on Self daring shows, whereas plaints breed more guile and groan.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Discipline",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

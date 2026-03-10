@@ -1,0 +1,323 @@
+{
+  "id": "11",
+  "name": "غزل",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فنا را بادۂ ھر جام کردند\nچہ بیدردانہ او را عام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فنا کو ہے جام کی شراب بنا دیا ، کس بیدردی سے اسے عام کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Death is destined to be the wine of every cup, how ruthlessly has it been made common!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تماشا گاہ مرگ ناگہان را\nجہان ماہ و انجم نام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرگ ناگہاں کی تماشہ گاہ کو، مہ و انجم کی دنیا کا نام دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The arena of sudden death has been called the world of moon and stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر یک زرہ اش خوی رم آموخت\nبہ افسون نگاہے رام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس جہان کا ایک ذرّہ بھی (موت سے) بھاگنے کا انداز سیکھ لیتا ہے، تو اسے (فورا) افسون نگاہ سے اسیر کر لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If any particle of it learnt to fly, it was brought under control by the spell of sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قرار از ما چہ میجوئی کہ ما را\nاسیر گردش ایام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سے ثبات کی کیا توقع رکھتا ہے، ہمیں تو گردش ایام کا اسیر بنایا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why do you seek rest for us? We are tied to the revolutions of the days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خودی در سینۂ چاکی نگہدار\nازین کوکب چراغ شام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے سینہ ء چاک کے اندر جو خودی ہے اس کا دھیان رکھ، یہی وہ ستارہ ہے جسے اس جہان کی شام فنا کا چراغ بنایا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be careful of the ego within your heart, from this star, the night was illumined.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جہان یکسر مقام آفلین است\nدرین غربت سرا عرفان ہمین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان گذر جانے والوں کا مقام ہے، اس سرائے مسافر ان میں عرفان کی بات یہ ہے کہ:",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is absolutely a place of decay; this is the gnosis in this strange land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دل ما در تلاش باطلی نیست\nنصیب ما غم بی حاصلی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا دل باطل کی تلاش میں نہیں ، اور نہ ہمارا غم بغیر مقصود کے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our heart is not seeking anything futile; our lot is not fruitless grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نگہ دارند اینجا آرزو را\nسرور ذوق و شوق جستجو را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں آرزو کا ، سرور ذوق اور شوق جستجو کا تحفظ کیا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desire is looked after here, and also the intoxication of the yearning of search.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خودی را لازوالی میتوان کرد\nفراقی را وصالی میتوان کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کو لازوال بنایا جا سکتا ہے ، اور (ذات باری تعالے سے) فراق کو وصل میں تبدیل کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ego can be made immortal; separation can be changed into union.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چراغی از دم گرمی توان سوخت\nبہ سوزن چاک گردون میتوان دوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے چراغ کو دم گرم سے روشن کیا جا سکتا ہے، اور اس کے سوزن سے گردوں (فنا) کا چاک سیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A lamp can be lit by our hot breath; crack in the sky can be sewn by a needle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "خدای زندہ بی ذوق سخن نیست\nتجلی ہای او بی انجمن نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے جو ہیں وہ ذوق سخن رکھتے ہیں، ان کی تجلّیات بغیر انجمن (پر لطف) نہیں۔ \n(اس لیے اللہ تعالے نے ایسے انسان پیدا کیے جن کی خودی پختہ ہو۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Living God is not without a taste for beauty; his manifestations are not without society.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "کہ برق جلوۂ او بر جگر زد؟\nکہ خورد آن بادہ و ساغر بسر زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کس نے اس کے جلوہ و جمال کی برق کو اپنے جگر پر برداشت کیا، کس نے اس کے عشق کی شراب پی اور کون سارا پیالہ چڑھا گیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who cast the lightning of His Grace on the heart? Who drank that wine and struck the cup on the head?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "عیار حسن و خوبی از دل کیست؟\nمہ او در طواف منزل کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کس کا دل حسن و خوبی کا معیار ٹھہرا ، اس کا چاند کس کی منزل کے طواف میں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose heart is the criterion of beauty and good? Whose house is it round which His moon revolves?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "الست از خلوت نازی کہ برخاست\nبلی از پردۂ سازی کہ برخاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کس کی خلوت کے ناز سے الست کی آواز بلند ہوئی ، کس کے پردہء ساز سے بلی کی صدا اٹھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From whose privacy the cry of ‘Am I not your Lord’ arose? From whose musical strings the answer of ‘Yes’ appeared?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "چہ آتش عشق در خاکی بر افروخت\nہزاران پردہ یک آواز ما سوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے ہماری خاک میں کیا آگ روشن کر دی ، کہ ہماری ایک آواز (بلی) نے ہزاروں پردے جلا دیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a fire Love kindled in this handful of dust; one cry from us burnt down thousands of veils.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اگر مائیم گردان جام ساقی است\nبہ بزمش گرمی ہنگامہ باقی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ہم ہیں تو جام ساقی کا دور بھی ہے، ہم ہیں تو اس کی بزم میں گرمی ء ہا و ہو بھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is only our presence that keeps the cup of the Saki in motion and maintain liveliness in His society.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "مرا دل سوخت بر تنہائی او\nکنم سامان بزم آرائی او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی تنہائی پر میرا دل جلتا ہے، چنانچہ میں اس کی بزم آرائی کا سامان کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart burns on the loneliness of God! In order, therefore, to maintain intact His Ego-Society.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "مثال دانہ می کارم خودی را\nبرای او نگھدارم خودی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی خودی کو دانے کی مانند کاشت کرتا ہوں ، میں اس کی خاطر اپنی خودی کا تحفظ کرتا ہوں۔ \n ( تاکہ میری خودی پختہ ہو کر اس کی معرفت حاصل کر لے اور اس سے راز و نیاز کر سکے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I sow in my dust the seed of selfhood, and keep a constant vigil over my ‘I’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

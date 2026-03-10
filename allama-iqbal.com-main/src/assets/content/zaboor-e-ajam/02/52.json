@@ -1,0 +1,136 @@
+{
+  "id": "52",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو کیستی ز کجائی کہ آسمان کبود\nہزار چشم براہ تو از ستارہ گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کون ہے؟ کہاں سے آیا ہے؛ کہ نیلا آسمان ، تیرے دیدار کے لیے ستاروں کی صورت میں ہزاروں آنکھیں کھولے انتظار کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What man art thou, and where thy home? In the blue skies the stars have opened, to see thee come, a thousand eyes!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ کویمت کہ چہ بودی چہ کردہ ئی چہ شدی\nکہ خون کند جگرم را ایازی محمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کیا کہوں کہ تو کیا تھا، تو نے کیا کیا اور اب کیا ہو گا ، اس بات نے میرے جگر کو خون کر دیا ہے کہ محمود نے ایاز کا شیون اختیار کر لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why shall I tell what thou hast done, what thou now art? Mahmud is now with Ayaz one – this breaks my heart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو آن نئی کہ مصلی ز کہکشان میکرد\nشراب صوفی و شاعر تر از خویش ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو وہ نہیں جس نے کہکشاں کو مصلّہ بنایا تھا ، صوفی و شاعر کی شراب نے تجھے اپنا آپ بھلا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No Milky Way thou mountest up at prayer to kneel; the Sufi’s and the poet’s cup thy soul doth steal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فرنگ اگرچہ ز افکار تو گرہ بگشاد\nبہ جرعہ دگری نشئہ ترا افزود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ یورپ نے تیرے فکر کا جمود توڑا، مگر اس نے اپنے علوم سے تیری خود فراموشی میں اور اضافہ کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Europe many knots untied that chained thy thought, intoxication magnified her next draught brought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سخن ز نامہ و میزان دراز تر گفتی\nبہ حیرتم کہ نبینی قیامت موجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نامہء اعمال اور میزان قیاوت کی باتیں تو کرتا ہے، مگر میں حیران ہوں کہ تجھے یہ قیامت نظر نہیں آتی جو اس وقت برپا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much of the Balance and the Scroll I hear thee say; strange, that thou seest not at all this judgement-day!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خوشا کسی کہ حرم را درون سینہ شناخت\nدمی تپید و گذشت از مقام گفت و شنود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ شخص جس نے اپنے سینے کے اندر موجود حریم ذات کو پہچان لیا، ایک لمحہ کے لیے تڑپا اور گفتگو کے مقام سے گزر گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Blessed the man, who in his breast the shrine hath known, fluttered awhile, then from the nest of speech was flown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از آن بمکتب و میخانہ اعتبارم نیست\nکہ سجدہ ئی نبرم بر در جبین فرسود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکتب و میخانہ پر مجھے اعتبار نہیں ، میں ایسے در پر سجدہ نہیں کرتا جہاں سے کچھ حاصل نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No more the tavern and the school I venerate; I do not reckon worshipful the brow-swept gate!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

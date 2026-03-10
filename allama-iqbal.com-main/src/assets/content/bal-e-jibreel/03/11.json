@@ -1,0 +1,33 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ مومن ہے نہ مومن کی امیری \nرہا صوفی، گئی روشن ضمیری \nخدا سے پھر وہی قلب و نظر مانگ \nنہیں ممکن امیری بے فقیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither the Muslim nor his power survives; the Sufi has outlived his radiant soul.\nAsk God for the heart and soul of men of the past; become a faqir, first, to regain thy power.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

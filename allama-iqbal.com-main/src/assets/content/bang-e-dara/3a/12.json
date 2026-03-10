@@ -1,0 +1,84 @@
+{
+  "id": "12",
+  "name": "قطعہ",
+  "name-en": "Stanza",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کل ایک شوریدہ خواب گاہ نبی پہ رو رو کے کہہ رہا تھا \nکہ مصر و ہندوستاں کے مسلم بنائے ملت مٹا رہے ہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "شوريدہ: دیوانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yesterday a desperate Lover was saying with wailing at the Prophet’s tomb: The Egyptian and Indian Muslims dare destroying the Millat’s foundation!\n(The reference to Egypt and India is not indicative of this condition being restricted to these two countries. It has been used to meet poetic needs, which implied that the evil practice existed all over the Muslim world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ زائران حریم مغرب ہزار رہبر بنیں ہمارے \nہمیں بھلا ان سے واسطہ کیا جو تجھ سے نا آشنا رہے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These pilgrims to the West’s sanctuary may fake our leadership. What bond do we have with those who have remained unacquainted with you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غضب ہیں یہ 'مرشدان خود بیں خدا تری قوم کو بچائے! \nبگاڑ کر تیرے مسلموں کو یہ اپنی عزت بنا رہے ہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرشدان خود بيں: صرف اپنی عزّت اور نفع پر نظر رکھنے والے راہنما۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Outrageous are these ‘self-seeking spiritual leaders’. May God protect your Millat! They are promoting their own glory by destroying the Muslims.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سنے گا اقبال کون ان کو، یہ انجمن ہی بدل گئی ہے \nنئے زمانے میں آپ ہم کو پرانی باتیں سنا رہے ہیں !",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal who would listen to you, the congregation has changed. You are telling us these tales of the old in the new age.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

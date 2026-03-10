@@ -1,0 +1,264 @@
+{
+  "id": "47",
+  "name": "بچہ اور شمع",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیسی حیرانی ہے یہ اے طفلک پروانہ خو\nشمع کے شعلوں کو گھڑیوں دیکھتا رہتا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Child with moth-like nature! ‘How strange that you keep gazing at the flame of the candle for hours?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ مری آغوش میں بیٹھے ہوئے جنبش ہے کیا\nروشنی سے کیا بغل گیری ہے تیرا مدعا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is this movement, when you are in my lap? Are you intending to embrace the light?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس نظارے سے ترا ننھا سا دل حیران ہے\nیہ کسی دیکھی ہوئی شے کی مگر پہچان ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though your tiny heart is surprised at this spectacle, but this is recognition of some object already seen!*\n* This is the first hint in the poem that the candle's light is the same light as the Light of God seen by Man on the Primeval Day.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شمع اک شعلہ ہے لیکن تو سراپا نور ہے\nآہ! اس محفل میں یہ عریاں ہے تو مستور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The candle is but a flame, you are the Light embodied.Ah! In this assembly that is manifest, you are concealed.*\n* Allusion to the manifest glow of the candle in the transparent mantle of glass and the veiled Light of God in the opaque earthen mantle of human body.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دست قدرت نے اسے کیا جانے کیوں عریاں کیا!\nتجھ کو خاک تیرہ کے فانوس میں پنہاں کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not known why the Nature's hand made it manifest! And concealed you in the dark soil's mantle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نور تیرا چھپ گیا زیر نقاب آگہی\nہے غبار دیدہء بینا حجاب آگہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your light has been concealed under the veil of Intellect! The veil of Cognition is a mere mist to the wise eye!\n(This and the remaining verses mean that God (His Beauty) is present in the multitudes of worldly objects mentioned in those verses. He can be discerned by the discerning eye with the help of Khudi. The Holy Qur'an also teaches us to understand God from the objects of the universe and Man's own self, which is Khudi. The power of Khudi distinguishes Man from and makes him superior to the rest of the creation of God. However, Knowledge or Intellect conceals Khudi and with it the Light of God fades away from Man's eyes. This Light dawns only when Man throws away the earthly mantle of Intellect and activates the Love of God…)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "زندگانی جس کو کہتے ہیں فراموشی ہے یہ\nخواب ہے، غفلت ہے، سرمستی ہے، بے ہوشی ہے یہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is called life really a mirage it is; a dream, a swoon, an ecstasy, oblivion it is.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "محفل قدرت ہے اک دریائے بے پایان حسن\nآنکھ اگر دیکھے تو ہر قطرے میں ہے طوفان حسن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Nature's assembly is the Beauty's boundless ocean; for the discerning eye every drop is the Beauty's storm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "حسن، کوہستاں کی ہیبت ناک خاموشی میں ہے\nمہر کی ضوگستری، شب کی سیہ پوشی میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beauty is in the frightening silence of the mountain; in shedding of sun's light, and in night's darkness’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آسمان صبح کی آئینہ پوشی میں ہے یہ\nشام کی ظلمت، شفق کی گل فرو شی میں ہے یہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in the morning sky's mirror-like glitter; in the night's darkness and in the twilight's floridity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "عظمت دیرینہ کے مٹتے ہوئے آثار میں\nطفلک ناآشنا کی کوشش گفتار میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in the disappearing relics of the old magnificence; in the small child's effort to commence speaking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ساکنان صحن گلشن کی ہم آوازی میں ہے\nننھے ننھے طائروں کی آشیاں سازی میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in the harmony of the denizens of the rose-garden; in the nest-building efforts of the tiny little birds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "چشمہ کہسار میں، دریا کی آزادی میں حسن\nشہر میں، صحرا میں، ویرانے میں، آبادی میں حسن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the mountain stream, in the ocean's freedom is Beauty; in the city, the forest, the wilderness, the habitation is Beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "روح کو لیکن کسی گم گشتہ شے کی ہے ہوس\nورنہ اس صحرا میں کیوں نالاں ہے یہ مثل جرس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul but longing for some lost object is; or else why is it lamenting in wilderness like a bell?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "حسن کے اس عام جلوے میں بھی یہ بے تاب ہے\nزندگی اس کی مثال ماہی بے آب ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is restless even in this general splendour of Beauty; its life is like a fish out of water.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Child And The Candle",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

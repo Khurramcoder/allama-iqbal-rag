@@ -1,0 +1,34 @@
+{
+  "id": "88",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کسی کو درد پنھانی ندارد\nتنی دارد ولی جانی ندارد\nاگر جانی ہوس داری طلب کن\nتب و تابی کہ پایانے ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر شخص (عشق کا) درد پنہاں نہیں رکھتا، اس کا بدن تو ہے ، مگر اس میں جان نہیں۔\nاگر تو جان کی خواہش رکھتا ہے تو ایسی تب و تاب طلب کر جس کی انتہا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who has been blessed with no secret grief may have a body, but has not a soul. \nIf you desire to have a soul, then seek a fever of the heart that will not cool.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

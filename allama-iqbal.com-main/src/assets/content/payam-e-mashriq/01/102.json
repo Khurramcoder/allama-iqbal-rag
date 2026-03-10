@@ -1,0 +1,33 @@
+{
+  "id": "102",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان ما کہ جز انگارہ ئی نیست\nاسیر انقلاب صبح و شام است\nز سوہان قضا ہموار گردد\nہنوز این پیکر گل ناتمام است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our world, a piece of work not yet finished, is hostage to the alteration of day and night;\nThe file of fate will rub it smooth: This clay sculpture is still being made.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

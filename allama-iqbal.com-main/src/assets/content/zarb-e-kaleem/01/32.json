@@ -1,0 +1,67 @@
+{
+  "id": "32",
+  "name": "شکست",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مجاہدانہ حرارت رہی نہ صوفی میں \nبہانہ بے عملی کا بنی شراب الست",
+              "lang": "Original"
+            },
+            {
+              "_content": "الست: روز ازل آدم نے الست بربکم (کیا میں تمھارا رب نہیں ہوں) کے جواب میں قالوا بلی (ہاں تو رب ہے) کہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mystics of the present age are devoid of warrior's rage: The claim that they are rapt with wine of 'Last and turn from Code Divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فقیہ شہر بھی رہبانیت پہ ہے مجبور \nکہ معرکے ہیں شریعت کے جنگ دست بدست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The jurist has such bent of mind that makes to monkish mode inclined, in Holy Wars take rock-like stand, they are just combats hand to hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گریز کشمکش زندگی سے، مردوں کی \nاگر شکست نہیں ہے تو اور کیا ہے شکست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man's flight from conflicts of life, or escape from its heat and strife if these not be abject defeat, what else is then a mean retreat?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Defeatism",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "37",
+  "name": "ایجاد معانی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر چند کہ ایجاد معانی ہے خدا داد \nکوشش سے کہاں مرد ہنر مند ہے آزاد!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a gift by God bestowed, to coin fresh words with meanings new, yet skilful artist must work hard, as inborn trend is owned by few.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خون رگ معمار کی گرمی سے ہے تعمیر \nمیخانہ حافظ ہو کہ بتخانہ بہزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the heat in mason's blood, who builds structures of various forms: It may be Behzad's picture hall, or house of wine where Hafiz charms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بے محنت پیہم کوئی جوہر نہیں کھلتا \nروشن شرر تیشہ سے ہے خانہ فرہاد!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without resort to incessant strife, no skill or art completion gains: If Farhad does not hew the rocks, no sparks flash, dark his house remains!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Invention Of New Meanings",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

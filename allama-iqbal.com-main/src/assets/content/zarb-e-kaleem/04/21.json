@@ -1,0 +1,99 @@
+{
+  "id": "21",
+  "name": "فنون لطیفہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے اہل نظر ذوق نظر خوب ہے لیکن \nجو شے کی حقیقت کو نہ دیکھے، وہ نظر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zest for sight, no doubt, is true O men endowed with art and tact, what aim or goal such sight can serve which fails to see the inmost part?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مقصود ہنر سوز حیات ابدی ہے \nیہ ایک نفس یا دو نفس مثل شرر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The aim of heart is to infuse eternal glow in human hearts: What is the use of warmth that, like a spark, expires and soon departs?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس سے دل دریا متلاطم نہیں ہوتا \nاے قطرئہ نیساں وہ صدف کیا، وہ گہر کیا",
+              "lang": "Original"
+            },
+            {
+              "_content": "متلاطم: موجیں مارنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O vernal drop, what is the worth of mother-shell and such pearl, if truth can not defeat untruth and river does not swell and swirl?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شاعر کی نوا ہو کہ مغنی کا نفس ہو \nجس سے چمن افسردہ ہو وہ باد سحر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It may be poet's verse or song, or breath of one who plays on reed what does that morning breeze avail if stead of freshness sear it breed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بے معجزہ دنیا میں ابھرتی نہیں قومیں \nجو ضرب کلیمی نہیں رکھتا وہ ہنر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without the aid of wondrous acts no nation ever can advance: An art that has no Hoses' Rod a people's status can't enhance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Fine Arts",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

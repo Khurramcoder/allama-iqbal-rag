@@ -1,0 +1,34 @@
+{
+  "id": "60",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فطرت مری مانند نسیم سحری ہے \nرفتار ہے میری کبھی آہستہ، کبھی تیز \nپہناتا ہوں اطلس کی قبا لالہ و گل کو \nکرتا ہوں سر خار کو سوزن کی طرح تیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My nature is like the fresh breeze of morn: Gentle sometimes, at other times strong;\nI give a velvet mantle to flower petals, and to prickly thorns, the sharpness of the needle.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Stanza",
+  "credits": "English Translation by: Naeem Siddiqui"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جوانوں کو مری آہ سحر دے \nپھر ان شاہیں بچوں کو بال و پر دے \nخدایا! آرزو میری یہی ہے \nمرا نور بصیرت عام کر دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نور بصیرت: مراد ہے سوجھ بوجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give the young, O Lord, my passionate love for Thee, and give them an eagle's force to fly and to see.\nO Lord, I pray that Thou vouch safe to them the power of vision that Thou hast given me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

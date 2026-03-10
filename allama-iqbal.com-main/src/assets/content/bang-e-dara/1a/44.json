@@ -1,0 +1,410 @@
+{
+  "id": "44",
+  "name": "داغ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عظمت غالب ہے اک مدت سے پیوند زمیں\nمہدی مجروح ہے شہر خموشاں کا مکیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grandeur of Ghalib has remained buried since long; Mahdi Majrooh* is the cemetery's resident since long.\n* Mir Mahdi Majrooh, Dehalvi; an eminent poet of India.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "توڑ ڈالی موت نے غربت میں مینائے امیر\nچشم محفل میں ہے اب تک کیف صہبائے امیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Death broke the decanter of Amir* in a strange country’ the assembly's eye still has the ecstasy of the wine of Amir.\n* Munshi Amir Ahmad and Amir Ahmad Minaeyi Lakhhnavi; eminent poets of India.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آج لیکن ہمنوا! سارا چمن ماتم میں ہے\nشمع روشن بجھ گئی، بزم سخن ماتم میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, today O Companion! The whole garden is mourning! Lighted candle is extinguished, literary assembly is mourning!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بلبل دلی نے باندھا اس چمن میں آشیاں\nہم نوا ہیں سب عنادل باغ ہستی کے جہاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Delhi's nightingale made its nest in such a garden; where all the world's nightingales are singing in a chorus.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چل بسا داغ آہ! میت اس کی زیب دوش ہے\nآخری شاعر جہان آباد کا خاموش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah Dagh has gone! His bier is on our shoulders. The last poet of Jahanabad is finally silent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اب کہاں وہ بانکپن، وہ شوخی طرز بیاں\nآگ تھی کافور پیری میں جوانی کی نہاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gone is that smartness! Gone is that humor of style! The fire of youth was veiled in the old age's camphor.* \n* Camphor is characterized with coolness. This verse is a very artistic expression of the fact that Dagh's thinking was a judicious mixture of the fervor of youth tempered with the coolness of mature age.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تھی زبان داغ پر جو آرزو ہر دل میں ہے\nلیلی معنی وہاں بے پردہ، یاں محمل میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every heart has the longing which the language of Dagh had; this Lailah was unveiled there, she is behind the veil here.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اب صبا سے کون پوچھے گا سکوت گل کا راز\nکون سمجھے گا چمن میں نالہ بلبل کا راز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who will ask zephyr now the secret of silence of the rose? Who in the garden will understand the secret of nightingale's wailing?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تھی حقیقت سے نہ غفلت فکر کی پرواز میں\nآنکھ طائر کی نشیمن پر رہی پرواز میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his elegant imagination he was not unaware of reality: The bird's eye remained focused on the nest even in flight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اور دکھلائیں گے مضموں کی ہمیں باریکیاں\nاپنے فکر نکتہ آرا کی فلک پیمائیاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Others will show us the subtleties of linguistic thought; the elevated elegance of the sagacity of their thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تلخی دوراں کے نقشے کھینچ کر رلوائیں گے\nیا تخیل کی نئی دنیا ہمیں دکھلائیں گے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They will make us cry painting the picture of time's vicissitudes; or will show us the new world of their imagination.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اس چمن میں ہوں گے پیدا بلبل شیراز بھی\nسینکڑوں ساحر بھی ہوں گے، صاحب اعجاز بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nightingales of Shiraz also will be born in this garden; there will be hundreds of magicians and masters of miracles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "اٹھیں گے آزر ہزاروں شعر کے بت خانے سے\nمے پلائیں گے نئے ساقی نئے پیمانے سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thousands of Azar’s will rise from the temple of poetry. The new cup-bearers will serve wine from the new goblets.\n(Azar: Father of Ibrahim A.S. famous for making stone idols.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "لکھی جائیں گی کتاب دل کی تفسیریں بہت\nہوں گی اے خواب جوانی! تیری تعبیریں بہت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many commentaries of the book of Love will be written; there will be many interpretations of the youths' dreams.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہوبہو کھینچے گا لیکن عشق کی تصویر کون ؟\nاٹھ گیا ناوک فگن، مارے گا دل پر تیر کون ؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, who will draw the exact picture of Love? The master having departed; who will enchant the heart?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اشک کے دانے زمین شعر میں بوتا ہوں میں\nتو بھی رو اے خاک دلی! داغ کو روتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am sowing the seeds of tears in the soil of verse. You also cry O Delhi's soil! I am crying for Dagh!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اے جہان آباد، اے سرمایہ بزم سخن\nہوگیا پھر آج پامال خزاں تیرا چمن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! O the Ka'bah of the literateur's religion; your garden has been ruined by autumn today.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "وہ گل رنگیں ترا رخصت مثال بو ہوا\nآہ! خالی داغ سے کاشانہ و اردو ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That colourful rose of yours has departed like fragrance; that is, the abode of Urdu has become deprived of Dagh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "تھی نہ شاید کچھ کشش ایسی وطن کی خاک میں\nوہ مہ کامل ہوا پنہاں دکن کی خاک میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perhaps not much attraction was in the homeland's soil; that full moon has set in the soil of the Dakkan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "اٹھ گئے ساقی جو تھے، میخانہ خالی رہ گیا\nیادگار بزم دہلی ایک حالی رہ گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cup-bearers have left; the tavern has become deserted; only Hali the memorable personality of Delhi's assembly has been left.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آرزو کو خون رلواتی ہے بیداد اجل\nمارتا ہے تیر تاریکی میں صیاد اجل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tyranny of death makes longing shed tears of blood; the archer of death shoots out arrows in the dark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "کھل نہیں سکتی شکایت کے لیے لیکن زباں\nہے خزاں کا رنگ بھی وجہ قیام گلستاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, the tongue cannot open in complaint; autumn's style is also a prelude to garden's existence.* \n* This and the next verse are very artistic expression of logic and coherence in the working of the universe. Life without death is tasteless as the spring without autumn is tasteless.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ایک ہی قانون عالم گیر کے ہیں سب اثر\nبوے گل کا باغ سے، گلچیں کا دنیا سے سفر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one universal law creates all such results: Exit of fragrance from the garden, that of the gardener from the world",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "Nawab Mirza Khan Dagh",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

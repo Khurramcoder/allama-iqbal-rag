@@ -1,0 +1,136 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرچہ شاہین خرد بر سر پروازی ہست\nاندرین بادیہ پنھان قدر اندازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ عقل کا شاہین فضا میں خوب اڑتا پھرتا ہے؛ مگر اس صحرا میں ایک ایسا تیر انداز موجود ہے جو اس کی تاک میں بیٹھا ہے (عشق کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the falcon of the brain yearneth on the wing to be, archers in this desert plain wait upon him secretly!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آنچہ ازکار فروبستہ گرہ بگشاید\nہست و در حوصلۂ زمزمہ پروازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی چیز تو ہے، جو الجھے ہوئے معاملات کی گرہ کھول دے اور یہ زمانہ پردازوں (عشق کے گیت گانے والوں) کے بس میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet the tied and twisted cord lacketh not for remedy: Singing can the cure afford of this hard perplexity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاب گفتار اگر ہست شناسائی نیست\nواے آن بندہ کہ در سینہ او رازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بات کہنے کی استعداد ہے، تو بات سمجھنے والا کوئی نہیں، وہ بندہ کہاں جائے جس کے سینہ میں راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the power of speech be there, yet is knowledge not possessed; hapless servant, who doth bear such a secret in his breast!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرچہ صد گونہ بصد سوز مرا سوختہ اند\nاے خوشا لذت آن سوز کہ ہم سازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ مجھے سو طرح سے سو طرح کے سوز میں جلایا گیا، مگر اس سوز کی لذّت کیسے بیان ہو، جو ساز بھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though a hundred varied ways they should burn and ravage me, there is comfort in my blaze and a glad felicity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مردہ خاکیم و سزاوار دل زندہ شدیم\nاین دل زندہ و ما، کار خدا سازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم خاک مردہ سے پیدا ہوئے ، اور دل زندہ کے سزاوار بن گئے؛ کہاں دل زندہ اور کہاں ہم! بس اللہ تعالے کا کرم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dust, and dead as dust, are we, yet a heart we merited: Lo! The living deity heart-engendered in the dead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شعلۂ سینۂ من خانہ فروز است ولی\nشعلہ ئی ہست کہ ہم خانہ براندازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے کا شعلہ تو گھر روشن کرنے والا ہے؛ مگر ایسا شعلہ بھی ہوتا ہے، جو گھر پھونک دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my breast there is a flame setteth all the house aglow, yet it is the very same that the house doth overthrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تکیہ بر عقل جھان بین فلاطون نکنم\nدر کنارم دلکی شوخ و نظر بازی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے افلاطون کی عقل جہاں بیں پر بھروسہ نہیں ؛ کیونکہ میرے پہلو میں ایسا دل ہے جو شوخ اور نظر باز ہے (میری سوچ میں عشق کی جراءت اور گہرائی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Plato’s mind the world described, yet I will not trust in it, for a heart is in my side bold to view the infinite.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

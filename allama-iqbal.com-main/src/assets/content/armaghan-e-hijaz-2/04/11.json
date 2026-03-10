@@ -1,0 +1,58 @@
+{
+  "id": "11",
+  "name": "موت",
+  "name-en": "Death",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم مرگ با یزدان چنین گفت\nچہ بے نم چشم ن کز گل بزاید\nچو جان او بگیرم شرمسارم\nولی او را ز مردن عار ناید",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنا ہے کہ موت نے اللہ تعالے سے کہا، یہ انسان جو مٹی سے پیدا ہوتا ہے ، اس کی آنکھ کیسی بے نم ہے۔\nجب میں اس کی جان قبض کرتی ہوں، تو مجھے شرم آتی ہے، مگر اسے مرنے سے شرم نہیں آتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The death once said to God in this way, how shameless his eyes’ though made from clay. \nWhen I take out his soul I feel a shame, he feels no shame, but, to die with bad name.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ثباتش دہ کہ میر شش جہات است\nبدست او زمام کائنات است\nنگردد شرمسار از خواری مرگ\nکہ نامحرم ز ناموس حیات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(موت نے کہا) انسان کو ثبات عطا فرمائیے کہ یہ اس (کائنات) شش جہات کا حکمران ہے (اس کے ہاتھ میں ساری کائنات کی باگ ڈور ہے)۔\n(عجیب بات ہے کہ) اسے موت کی ذلت سے شرم نہیں آتی، شا ید یہ حیات کی عظمت سے بے خبر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To king of six nooks give a lasting soul, who holds the reins of the cosmos whole. \nHe is not ashamed of death’s disgrace, as he knows not yet life’s honour and grace.\nIn this quatrain the Angel of Death (Izrail) is addressing God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

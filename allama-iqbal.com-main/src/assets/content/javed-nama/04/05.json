@@ -1,0 +1,443 @@
+{
+  "id": "05",
+  "name": "نمودار شدن درویش سودانی",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "04",
+  "sectionName": "فلک زہرہ",
+  "name-ur": "مہدی سوڈانی کا ظاہر ہونا۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "برق بیتابانہ رخشید اندر آب\nموجہا بالید و غلطید اندر آب",
+              "lang": "Original"
+            },
+            {
+              "_content": "پانی کس اندر برق بے تابانہ چمکی؛ موجیں اٹھیں اور آپس میں ٹکرا گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A restless lightning flashed in the water, waves surged and rolled in the water;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بوے خوش از گلشن جنت رسید\nروح آن درویش مصر آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "گلستان جنت سے خوشبو آئی اور اس کے ساتھ ہی اس درویش مصر کی روح ظاہر ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A sweet scent wafted from the rose-garden of Paradise, the spirit of that dervish of Egypt appeared.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در صدف از سوز او گوہر گداخت\nسنگ اندر سینہ کشنر گداخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سوز سے کچنر کے سینے کے اندر جو پتھر کا دل تھا؛ وہ بھی یوں پگھل گیا جیسے صدف کے اندر گوہر پگھل جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His fire melted the pearl in the oyster-shell, melted the stone in the breast of Kitchener.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت \"اے کشنر اگر داری نظر\nانتقام خاک درویشی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہدی نے کہا: 'اے کچنر اگر نظر رکھتا ہے؛ تو خاک درویش کا انتقام دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He cried, ‘Kitchener, if you have eyes to see, behold the avenging of a dervish’s dust!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آسمان خاک ترا گوری نداد\nمرقدی جز در یم شوری نداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان نے تیری لاش کو قبر بھی نہ دی تو سمندر کے آب شور میں غرق ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heaven granted no grave for your dust, gave no resting-place but the salty ocean.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "باز حرف اندر گلوی او شکست\nاز لبش آہی جگر تابی گسست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اس کے گلے میں آواز اٹک گئی اور اس کے لب سے آہ جگر تاب نکلی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then the words broke in his throat; from his lips a heart-rending sigh was loosed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفت \"اے روح عرب بیدار شو\nچون نیاکان خالق اعصار شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا، اے روح عرب بیدار ہو اور اپنے بزرگوں کی طرح نئے زمانے تخلیق کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Spirit of the Arabs’, he cried, ‘arise; like your forebears, be the creator of new ages!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے فواد اے فیصل اے ابن سعود\nتا کجا بر خویش پیچیدن چو دود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے فواد (مصر) ! اے فیصل (عراق) ! اے ابن سعود! کب تک دھنوئیں کی مانند اپنے ارد گرد ہی پیچ کھاتے رہو گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fouad, Feisal, Ibn Saoud, how long will you twist like smoke on yourselves?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "زندہ کن در سینہ آن سوزی کہ رفت\nدر جہان باز آور آن روزی کہ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سوز جو سینوں سے جا چکا ہے اسے دوبارہ زندہ کرو اور گیا ہوا زمانہ دنیا میں پھر سے واپس لاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Revive in the breast that fire which has departed, bring back to the world the day that has gone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خاک بطحا خالدے دیگر بزای\nنغمہ توحید را دیگر سرای",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سر زمین مکہ ایک اور خالد پیدا کر، ایک بار پھر توحید کا گیت گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soil of Makah, give birth to another Khalid, chant once more the song of God’s Unity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اے نخیل دشت تو بالندہ تر\nبر نخیزد از تو فاروقی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے صحرا کی کھجوریں اور بلند ہوں، کیا تیرے اندر سے کوئی اور فرعون پیدا نہیں ہو سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In your plains taller grow the palm-trees; shall not a new Farouk arise from you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے جہان مومنان مشک فام\nاز تو می آید مرا بوے دوام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مشک فام مومنوں کی دنیا (افریقہ ) مجھے تیری طرف سے خوشبو ئے مدام آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "World of musky-hued believers, from you the scent of eternal life is coming to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زندگانی تا کجا بے ذوق سیر\nتا کجا تقدیر تو در دست غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک آگے بڑھنے کے ذوق کے بغیر زندگی بسر کرو گے؛ کب تک اپنی تقدیر غیروں کے ہاتھ میں دئیے رہو گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long will you live without the joy of journeying, how long with your destiny in alien hands?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بر مقام خود نیائی تا بہ کی\nاستخوانم در یمی نالد چو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک اپنا مقام حاصل نہ کرو گے؛ میری ہڈیاں سمندر کے اندر بانسری کی طرح نالاں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long will you desert your true station? My bones lament in the deep like a reed-pipe;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "از بلا ترسی حدیث مصطفی است\n\"مرد را روز بلا روز صفاست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "مصیبت سے ڈرتے ہو؟ رسول پاک (صلعم) کی یہ حدیث نہیں سنی کہ 'مرد کے لیے روز بلا روز صفا ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you afraid to suffer? The Chosen One declared, \"For man the day of suffering is the day of purification.\"",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ساربان یاران بہ یثرب ما بہ نجد\nآن حدی کو ناقہ را آرد بوجد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساربان دوست مدینہ منوّرہ پہنچے ہوئے ہیں اور ہم اس شہر سے دور نجد میں ہیں؛ وہ حدی خواں کہاں ہے جو ہمارے ناقے کو وجد میں لا کر (جلد وہاں پہنچا دے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Cameleer, our friends are in Yathrib, we in Nejd; sing that song which will stir the camel to ecstasy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ابر بارید از زمین ہا سبزہ رست\nمی شود شاید کہ پای ناقہ سست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بارش ہو چکی ہے زمین سے سبزہ اگ آیا ہے؛ ہو سکتا ہے کہ اونٹنی کی رفتار سست ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cloud has rained, grasses have sprouted from the earth, it may be that the camel’s pace grows languid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "جانم از درد جدائی در نفیر\nآن رہی کو سبزہ کم دارد بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری جان درد جدائی سے نالاں ہے؛ تو وہ راستہ اختیار کر جہاں سبوء کم ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul wails of the pain of separation; take the road where fewer grasses grow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ناقہ مست سبزہ و من مست دوست\nاو بدست تست و من در دست دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناقہ سبزہ (کھانے میں) مست ہے اور میں دوست (صلعم) کے خیال میں مست ہوں۔اے ساربان ناقہ کی مہار تیرے ہاتھ میں ہے اور میری مہار محبوب (صلعم) کے ہاتھ میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My camel is drunk with the grass, I for the Beloved; the camel is in your hands, I in the hands of the Beloved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "آب را کردند بر صحرا سبیل\nبر جبل ہا شستہ اوراق نخیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "(بارش کے) پانی نے صحرا میں راستے بنا لیے ہیں؛ کھجور کے درختوں کے پتّے دھل چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have made a way for waters into the desert, upon the mountains the palm fronds are washed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آن دو آہو در قفای یکدگر\nاز فراز تل فرود آید نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھ وہ دو آہو ایک دوسرے کے پیچھے ٹیلے کی چوٹی سے نیچے آ رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yonder two gazelles one after the other – see how they are descending from the hill,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "یک دم آب از چشمۂ صحرا خورد\nباز سوی راہ پیما بنگرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک لمحے کے لیے انہوں نے چشمہء صحرا سے پانی پیا، پھر مسافر کی جانب دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For a moment drink from the desert spring and then glance upon the traveller.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ریگ دشت از نم مثال پرنیان\nجادہ بر اشتر نمی آید گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "نمی کی وجہ سے صحرا کی ریت ریشم کی مانند ہے، اونٹنی پر سفر گراں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dew has softened the sands of the plain like silk, the highway is not hard for the camel:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "حلقہ حلقہ چون پر تیہو غمام\nترسم از باران کہ دوریم از مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان پر تیتر کے پر کی مانند بدلیوں کے حلقے ہیں، میں بارش سے ڈرتا ہوں؛ کیونکہ میری منزل دور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The clouds ring on ring like the wings of the partridge – I fear the rain, for we are far from the goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ساربان یاران بہ یثرب ما بہ نجد\nآن حدی کو ناقہ را آرد بوجد\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساربان دوست مدینہ منوّرہ پہنچے ہوئے ہیں اور ہم شہر سے دور نجد میں ہیں ؛ وہ حدی کہاں ہے جو ہمارے ناقہ کو وجد میں لا کر (جلد وہاں پہنچا دے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cameleer, our friends are in Yathrib, we in Nejd; sing that song which will stir the camel to ecstasy.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Sudanese Dervish Appears"
+}

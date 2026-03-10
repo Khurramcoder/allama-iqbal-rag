@@ -1,0 +1,34 @@
+{
+  "id": "130",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو نرگس این چمن نادیدہ مگذر\nچو بو در غنچۂ پیچیدہ مگذر\nترا حق دیدۂ روشنتری داد\nخرد بیدار و دل خوابیدہ مگذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "نرگس کی مانند اس چمن کو دیکھے بغیر یہاں سے نہ گزر، تو اس خوشبو کی مانند نہ ہو جو غنچہء پیچیدہ ہی میں رہ جاتی ہے۔\nاللہ تعالے نے تمہیں ان سے روشن تر آنکھ دی ہے، تو دنیا میں بیدار خر د اور خوابیدہ دل کے ساتھ زندگی بسر نہ کر (صرف عقل ہی کو سب کچھ نہ سمجھ ، دل بیدار بھی حاصل کر)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not pass through this garden with eyes closed narcissus-like, and do not like scent keep. \nYourselves shut up in buds. God gave you eyes. O do not walk with brains awake and hearts asleep.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

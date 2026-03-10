@@ -1,0 +1,99 @@
+{
+  "id": "60",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کمال جوش جنوں میں رہا میں گرم طواف \nخدا کا شکر، سلامت رہا حرم کا غلاف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my craze that knows no bound, of the Mosque I made the round: Thank God that outer vest of Shrine; still was left untorn and fine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ اتفاق مبارک ہو مومنوں کے لیے \nکہ یک زباں ہیں فقیہان شہر میرے خلاف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wish good luck and pleasure great, to all, of faith who always prate: But all the jurists of the town with one accord upon me frown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تڑپ رہا ہے فلاطوں میان غیب و حضور \nازل سے اہل خرد کا مقام ہے اعراف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men, like Plato, still roam about betwixt belief and utter doubt: Men endowed with reason, aye, ever on the heights do stay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ترے ضمیر پہ جب تک نہ ہو نزول کتاب \nگرہ کشا ہے نہ رازی نہ صاحب کشاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرہ کشا: گانٹھ کھولنے والا۔ \nصاحب کشاف: جار اللہ محمود زمخشری جس کی تفسیر کا نام کشاف ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless the Book’s each verse and part be revealed unto your heart; interpreters, though much profound, its subtle points cannot expound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سرور و سوز میں ناپائدار ہے، ورنہ \nم ے فرنگ کا تہ جرعہ بھی نہیں ناصاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "تہ جرعہ: پیالے کی تہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The joy that Frankish wine does give lasts not for long nor always lives; though scum at bottom of its bowl is always pure and never foul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

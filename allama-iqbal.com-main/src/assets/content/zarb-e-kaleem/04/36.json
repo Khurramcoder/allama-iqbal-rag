@@ -1,0 +1,66 @@
+{
+  "id": "36",
+  "name": "عالم نو",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندہ دل سے نہیں پوشیدہ ضمیر تقدیر \nخواب میں دیکھتا ہے عالم نو کی تصویر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Decrees of Fate are not concealed from man whose heart throbbing seems, he sees the image of new World in slumberous state, during dreams.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اور جب بانگ اذاں کرتی ہے بیدار اسے \nکرتا ہے خواب میں دیکھی ہوئی دنیا تعمیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Prayer Call at early morn, transports him to Morpheus' domain he tries to build the world beheld with utmost might and utmost main.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدن اس تازہ جہاں کا ہے اسی کی کف خاک \nروح اس تازہ جہاں کی ہے اسی کی تکبیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body of the dreamt or world is made from his handful clay: ‘God is Great’, his slogan shrill that can the role of soul for new world play.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "New World",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

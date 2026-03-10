@@ -1,0 +1,569 @@
+{
+  "id": "08",
+  "name": "سوال ہفتم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسافر چون بود رہرو کدام است\nکرا گویم کہ او مرد تمام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسافر کیسا ہوتا ہے، راہرو کون ہے؟ مرد کامل کسے کہتے ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of what sort is this traveler, who is the wayfarer? Of whom shall I say that he is the Perfect Man?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگرچہ چشمی گشائی بر دل خویش\nدرون سینہ بینی منزل خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اپنے دل پر توجہ کرے تو تجھے اپنے سینہ میں اپنی منزل نظر آئے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you direct your eyes towards your heart, you will find your destination within your bosom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سفر اندر حضر کردن چنین است\nسفر از خود بخود کردن ہمین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہی سفر اندر حضر ہے، یہی اپنے آپ سے، اپنے اندر سفر کرنا ہے۔ (پنجابی: عمر مک دیاں مک دیاں مک گئی اے، پینڈا یار دے در دا نئیں مک دا ۔ یار دل دے اندر وسدا اے ، سفر اپنے ای گھر دا نئیں مک دا)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To travel while at rest is: To travel from one’s self to one’s self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کسی اینجا نداند ما کجائیم\nکہ در چشم مہ و اختر نیائیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس اندرونی سفر میں کوئی نہیں جانتا کہ ہم کہاں ہیں ، کیونکہ ہم مہ و اختر کی آنکھ میں نہیں سماتے۔ (اس سفر کا اندازہ مہ و اختر سے نہیں ہو سکتا۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None knows here where we are, that we look so insignificant in the eyes of moon and stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مجو پایان کہ پایانے نداری\nبپایان تا رسی جانے نداری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی انتہا نہ ڈھونڈ ، کیونکہ تیری انتہا کوئی نہیں، انتہا تب ہو اگر تیرے اندر جان (روح) نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t seek the end of the journey; for you have no end; as soon as you reach the end, you lose your soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہ ما را پختہ پنداری کہ خامیم\nبہر منزل تمام و ناتمامیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو پختہ نہ سمجھ کہ ہم ابھی ناپختہ ہیں ، ہر منزل پر ہم مکمل بھی ہیں اور نا مکمل بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not look upon us as ripe; for we are raw, at every destination we are perfect and imperfect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بپایان نارسیدن زندگانی است\nسفر ما را حیات جاودانی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "انتہا تک نہ پہنچنا ہی ہماری زندگی ہے، سفر ہی ہماری حیات جاوداں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not to reach the end is life; immortal life for us lies in constant traveling.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ز ماہی تا بہ مہ جولانگہ ما\nمکان و ھم زمان گرد رہ ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ماہی سے ماہ تک ہمارا میدان عمل ہے، مکان اور زمان دونوں ہماری راہ کی گرد ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whole world from the centre of the earth to the moon is within our reach, time and space are like dust in our path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بخود پیچیم و بیتاب نمودیم\nکہ ما موجیم و از قعر وجودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اپنے اندر پیچ و تاب کھا رہے ہیں، اور اپنی شخصیت کے اظہار کے لیے بیتاب ہیں، ہم بحر وجود کی تہ سے اٹھتی ہوئی موج (بیقرار) ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our selves are our centres and pine for manifestation, for we are waves and rise from the bottom of Being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دمادم خویش را اندر کمین باش\nگریزان از گمان سوی یقین باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ہر وقت اپنی گھات میں رہ (اپنی حفاظت کر) اپنے آپ کو گمان سے بچا اور یقین کی طرف آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lie in constant ambush against the self, fly from doubt to faith and certainty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تب و تاب محبت را فنا نیست\nیقین و دید را نیز انتہا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جیسے عشق کی تب و تاب کو فنا نہیں (اسی طرح) ایمان و یقین اور نظارہء جمال کی بھی انتہا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire and ardour of love are not subject to extinction; faith and ‘sight’ have no end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "کمال زندگی دیدار ذات است\nطریقش رستن از بند جہات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کمال زندگی یہ ہے کہ ذات باری تعالے کا دیدار نصیب ہو، اور اس کا طریقہ مکان کی حدود (توڑ کر ان سے) باہر نکلنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The perfection of life consists in seeing the Essence, the way of achieving it is to free oneself from the limits of time and space.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "چنان با ذات حق خلوت گزینی\nترا او بیند و او را تو بینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذات حق تعالے سے اس طرح خلوت حاصل ہو کہ تو انہیں دیکھے اور وہ تجھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You should enjoy privacy with the Divine Person in such a way, that He sees you and you see Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "منور شو ز نور من یرانی\nمژہ برھم مزن تو خود نمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو ان (رسول پاک صلعم) کے نور سے منوّر کر جنہوں نے من یرانی فرمایا تھا، ان پر سے نظر ہٹا ورنہ تو خود باقی نہیں رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become illumined by the light of ‘what you see.’ Do not wink; otherwise you will be no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بخود محکم گذر اندر حضورش\nمشو ناپید اندر بحر نورش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کے حضور اپنے آپ کو محکم رکھ ، اس کے نور کے بحر میں ناپید نہ ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In His presence, be strong and self-possessed; don’t merge yourself in the ocean of His Light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "نصیب ذرہ کن آن اضطرابی\nکہ تابد در حریم آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری شخصیت کے ذرّے کو ایسا اضطراب نصیب ہو کہ وہ حریم آفتاب میں بھی چمکتا رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bestow that perturbation to the mote that it may shine in the vicinity of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "چنان در جلوہ گاہ یار میسوز\nعیان خود را نہان او را برافروز",
+              "lang": "Original"
+            },
+            {
+              "_content": "یار کی جلوہ گاہ میں اس طرح سوختہ ہو کہ ظاہر میں تو چمک اٹھے اور بباطن وہ چمک جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So burn amid the splendour of the Beloved that you may illumine yourself in public and Him in privacy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "کسی کو دید عالم را امام است\nمن تو ناتمامیم او تمام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے (حق تعالے کا جمال) دیکھ لیا، وہی جہان کا امام ہے، ہم سب نا تمام ہیں، اور وہ مکمل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who ‘saw’ is the leader of the world, we and you are imperfect; he alone is perfect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اگر او را نیابی در طلب خیز\nاگر یابی بہ دامانش در آویز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ایسا رہنما نہ پائے ، تو اس کی تلاش میں نکل، اور اگر پا لے ، تو اس کے دامن سے وابستہ ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you do not find him, rise in search of him; if you find him, attach yourself to him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "فقیہ و شیخ و ملا را مدہ دست\nمرو مانند ماہی غافل از شست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی فقیہ یا شیخ یا ملّا کے ہاتھ میں نہ دے ، مچھلی کی طرح کانٹے سے غافل نہ رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not allow yourself to be guided by the faqih, shaikh, and mulla; like fish, do not walk about careless of the hook.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "بکار ملک و دین او مرد راہی است\nکہ ما کوریم و او صاحب نگاہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا کامل شخص ہی دنیوی اور دینی معاملات میں صحیح راہ نما ہے، ہم سب اندھے ہیں اور وہ صاحب نگاہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a man of the path in matters of State and religion; we are blind and he is a man of insight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "مثال آفتاب صبحگاہی \nدمد از ھر بن مویش نگاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آفتاب صبح کی مانند اس کے ہر بن و مو سے نگاہ پھوٹتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the sun of the morning, wisdom shines from every root of his hair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "فرنگ آئین جمہوری نہاد ست\nرسن از گردن دیوی گشادست",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگ نے جمہوری آئین کی بنیاد رکھ کر دیو کی گردن کو زنجیر سے آزاد کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West has set up the rule of democracy; it has untied the rope from the neck of a fiend.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "نوا بی زخمہ و سازی ندارد\nابی طیارہ پروازی ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگ بغیر مضراب اور ساز کے کوئی آواز نہیں رکھتا ، نہ وہ طیارے بغیر پرواز کر سکتا ہے۔ (قلب کی آواز اور روح کی پرواز سے محروم ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It does not possess sound without plectrum and musical instruments, without a flying machine it does not possess the power of flying.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ز باغش کشت ویرانی نکوتر\nز شہر او بیابانے نکوتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے باغ سے ویران کھیتی ، اور اس کے شہروں سے بیابان بہتر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A desolate field is better than its garden, a desert is better than its city.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "چو رہزن کاروانی در تک و تاز\nشکمہا بہر نانی در تک و تاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے کاروان کی کوشش رہزن کی طرح ہے، اور ان کے پیٹ روٹی کی دوڑ دھوپ میں لگے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like a marauding caravan it is active, its people are ever busy in satisfying their hunger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "روان خوابید و تن بیدار گردید\nہنر با دین و دانش خوار گردید",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح خوابیدہ ہے اور تن بیدار ہے، دین و دانش کے ساتھ اس کا ہنر بھی خوار ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its soul became dormant, and its body awoke; art, science and religion all became contemptible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خرد جز کافری کافر گری نیست\nفن افرنگ جز مردم دری نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی خرد کافری اور کافر گری کے سوا اور کچھ نہیں، فرنگیوں کا فن (آرٹ) صرف آدمیوں کو چیرنا پھاڑنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect is nothing but fostering of unbelief, the art of the West is nothing but man-killing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "گروہی را گروہی در کمین است\nخدایش یار اگر کارش چنین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر گروہ دوسرے گروہ کی گھات میں ہے ، اگر معاملہ یہی رہا ، تو پھر ان سے بھلائی کی کوئی امید نہ رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A group lies in ambush against another group, such a state of affairs is sure to lead to disaster.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "ز من دہ اہل مغرب را پیامی\nکہ جمہور است تیغ بی نیامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری طرف سے اہل مغرب کو یہ پیام دو کہ جمہوریت تیغ بے نیام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Convey my message to the West that the ideal of democracy is a sword out of its sheath:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "چہ شمشیری کہ جانہا می ستاند\nتمیز مسلم و کافر نداند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایسی شمشیر ہے جو ہر ایک کی جان نکال لیتی ہے، اسے مسلم و کافر کی کوئی تمیز نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a sword that it kills men and does not make a distinction between a believer and an unbeliever!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "نماند در غلاف خود زمانی\nبرد جان خود و جان جہانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایک لمحہ بھی نیام میں نہیں رہتی، اپنی جان بھی گنوا تی ہے اور جہان کی جان بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If it does not remain in the sheath for a little more time, it will kill itself as well as the world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 7",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

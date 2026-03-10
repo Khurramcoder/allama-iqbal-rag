@@ -1,0 +1,308 @@
+{
+  "id": "20",
+  "name": "بر مزار سلطان محمود علیہ الرحمہ",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "سلطان محمود علیہ الرحمہ کے مزار پر۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیزد از دل نالہ ہا بی اختیار\nآہ ! آن شھری کہ اینجا بود پار",
+              "lang": "Original"
+            },
+            {
+              "_content": "(موجودہ غزنی کو دیکھ کر) دل سے بے اختیار فریاد اٹھتی ہے؛ آہ! وہ شہر جو کل یہاں آباد تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cries arise from my heart in spite of all restraint, Alas! That city we had in the times past.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آن دیار و کاخ و کو ویرانہ ایست\nآن شکوہ و فال و فر افسانہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شہر اور وہ محلات اور سڑکیں اب ویرانہ میں تبدیل ہو چکی ہیں ؛ غزنی کی وہ شان و شوکت اب افسانہ بن چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That city, those palaces, streets are all in ruin, that glory, splendour, magnificence a mere tale now.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گنبدی، در طوف او چرخ برین\nتربت سلطان محمود است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گنبد ، آسمان جس کا طواف کر رہا ہے ؛ یہ سلطان محمود (رحمتہ اللہ ) کا مزار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cupola, circumambulated by the lofty sky, this is the grave of Sultan Mahmud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آنکہ چون کودک لب از کوثر بشست\nگفت در گہوارہ نام او نخست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے بچپن میں کوثر سے اپنے لب تر کیے؛ جس نے گہوارہ میں سب سے پہلے حضور (صلعم) کا نام لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He whose name a babe when weaned of mother’s milk, first pronounced in the cradle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "برق سوزان تیغ بی زنھار او\nدشت و در لرزندہ از یلغار او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی تلوار بے پناہ برق سوزاں تھی؛ اس کی یلگار سے دشت و در پر لرزہ طاری ہو جاتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A consuming lightning his unsparing sword; lands and climes aquiver on his onslaught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زیر گردون آیت اﷲ رایتش\nقدسیان قرآن سرا بر تربتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے نیچے اس کا جھنڈا آیت اللہ تھا؛ اس کی قبر پر فرشتے تلاوت قرآن پاک کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under the sky his flag a sign of God, angels reciting the Qur’an on his grave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شوخی فکرم مرا از من ربود\nتا نبودم در جھان دیر و زود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جرات فکر کے باعث میں اپنے آپ میں نہ رہا؛ اس جہان اور اس کے وقت سے ماورا چلا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My nimble fancy took me off from myself so that I did not remain in this world of late and soon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "رخ نمود از سینہ ام آن آفتاب\nپردگیہا از فروغش بی حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے سے وہ آفتاب نمودار ہوا؛ جس کی روشنی سے سارے پردے دور ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That sun arose in my breast by the effulgence of which the hidden became manifest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "مہر گردون از جلالش در رکوع\nاز شعاعش دوش میگردد طلوع",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے جلال کے سامنے آسمان کا سورج رکوع میں جھک گیا؛ اس کی شعاع سے گزرا ہوا زمانہ سامنے آ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun on high prostrates before whose splendour; from his rays the past rises up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "وارہیدم از جہان چشم و گوش\nفاش چون امروز دیدم صبح دوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں حواس کی اس دنیا سے آزاد ہو گیا؛ میں نے ماضی کی صبح کو آج کی مانند (اپنے سامنے ) دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was rid of this world of eyes and ears so that I clearly saw the past morning like today.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "شہر غزنین یک بہشت رنگ و بو\nآب جوہا نغمہ خوان در کاخ و کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس غزنوی کو دیکھا جو بہشت رنگ و بو تھا؛ جس کے کاخ و کو میں ندیاں نغمہ خواں تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The city of Ghazna, a paradise of colour and hue, with streams to aflow trilling out songs in the palaces and common streets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "قصر ہای او قطار اندر قطار\nآسمان با قبہ ہایش ھم کنار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے محل قطار اندر قطار تھے؛ اس کے گنبد آسمان سے باتیں کرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its palaces ranged row upon row, the sky grazing with its cupolas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نکتہ سنج طوس را دیدم ببزم\nلشکر محمود را دیدم بہ رزم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے شاعر طوس (فردوسی) کو بزم میں اور محمود کو میدان جنگ میں دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I daw the bard of Tus in The royal assembly and the army of Mahmud in the battlefield.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "روح سیر عالم اسرار کرد\nتا مرا شوریدہ ئی بیدار کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری روح نے عالم اسرار کی سیر کی ؛ یہاں تک کہ ایک شوریدہ سر نے مجھے بیدار کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My spirit strolled in the world of secrets till a frenzied one woke me up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آنہمہ مشتاقی و سوز و سرور\nدر سخن چون رند بے پروا جسور",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شوریدہ جو سر تا پا اشتیاق اور سوز و سرور تھا؛ با ت کہنے میں رند بے پروا کی طرح جراتمند تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That fervour, that intensity and poignancy of his, speaking like an audacious voluptuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "تخم اشکی اندر آن ویرانہ کاشت\nگفتگوہا با خدای خویش داشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اس ویرانے میں اپنے آنسوؤں کے دانے بوتا تھا اور اپنے خدائے ذوالجلال سے محو گفتگو تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He sowed the seed of a tear in that wilderness. He was having a colloquy with God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "تا نبودم بیخبر از راز او\nسوختم از گرمی آواز او",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ میں اس کے راز سے بے خبر تھا؛ اس لیے اس کی آواز کی گرمی نے مجھے جلا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since I was not unaware of this secret, I was all afire with his voice’s heat.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "At The Tomb Of Sultan Mahmud",
+  "credits": "English Translation by: Jamil Naqvi"
+}

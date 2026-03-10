@@ -1,0 +1,82 @@
+{
+  "id": "27",
+  "name": "تنہائی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ بحر رفتم و گفتم بہ موج بیتابی\nہمیشہ در طلب استی چہ مشکلی داری؟\nہزار لولوی لالاست در گریبانت\nدرون سینہ چو من گوہر دلی داری؟\nتپید و از لب ساحل رمید و ہیچ نگفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I went down to the sea, and said to the restless wave, ‘You are for ever searching – what is your trouble? \nYour bag contains a thousand glowing pearls, but do you, like me, have in your breast a pearl of a heart?’ It writhed in pain and drew away from the shore. It did not say a word.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "Text": [
+            {
+              "_content": "بہ کوہ رفتم و پرسیدم این چہ بیدردیست؟\nرسد بگوش تو آہ و فغان غم زدہ ئی\nاگر بہ سنگ تو لعلی ز قطرۂ خونست\nیکی در آبہ سخن با من ستم زدہ ئی\nبخود خزید و نفس در کشید و ہیچ نگفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I went up to the mountain and said, ‘How unfeeling you are! Have the sighs and screams of a soul in torment ever reached your ears? \nIf within your rocks there is only one diamond formed from a drop of blood. Then come for a moment and talk to a wretched man like me. It withdrew into itself and held its breath; it did not say a word.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "رہ دراز بریدم ز ماہ پرسیدم\nسفر نصیب، نصیب تو منزلی است کہ نیست\nجہان ز پرتو سیمای تو سمن زاری\nفروغ داغ تو از جلوۂ دلی است کہ نیست\nسوی ستارہ رقیبانہ دید و ہیچ نگفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I traveled far, and asked the moon, ‘Your lot is to keep traveling, is it also your lot to reach a destination?\nYour face sends out rays that turn the world into a land of Jasmine. But does the radiance of the scar on your face come from the glow of a heart or not? It cast a jealous glance at the star; it did not say a word.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "Text": [
+            {
+              "_content": "شدم بحضرت یزدان گذشتم از مہ و مہر\nکہ در جہان تو یک ذرہ آشنایم نیست\nجہان تہی ز دل و مشت خاک من ہمہ دل\nچمن خوش است ولی درخور نوایم نیست\nتبسمی بلب او رسید و ہیچ نگفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I left the moon and the sun behind, and reached the presence of God. I said, ‘Not one atom in Your world is intimate with me. \nThe world has no heart, but I, though a handful of dust, am all heart. It is a pleasant garden, but unworthy of my song!’ A smile appeared on His lips He did not say a word.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Solitude",
+  "credits": "English Translation by: Mustansir Mir"
+}

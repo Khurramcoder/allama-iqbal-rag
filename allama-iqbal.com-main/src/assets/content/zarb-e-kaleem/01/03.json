@@ -1,0 +1,35 @@
+{
+  "id": "03",
+  "name": "تن بہ تقدیر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اسی قرآں میں ہے اب ترک جہاں کی تعلیم \nجس نے مومن کو بنایا مہ و پرویں کا امیر \n'تن بہ تقدیر' ہے آج ان کے عمل کا انداز \nتھی نہاں جن کے ارادوں میں خدا کی تقدیر \nتھا جو 'ناخوب، بتدریج وہی ' خوب' ہوا \nکہ غلامی میں بدل جاتا ہے قوموں کا ضمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہ و پرويں: چاند اور تارے۔ \nتن بہ تقدير: تقدیر کے غلط مفہوم پر یقین کر کے کچھ نہ کر نا اور اس انتظار میں بیٹھے رہنا کہ جو کچھ ہونا ہو گا ہو جائے گا۔ \nضمير: فطرت، سرشت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Koranic teaching that did bring the Moon and Pleiades within human: Is now explained in manner strange, 'Twixt man and world to cause a breach.\nTheir mode of work has changed entire, before the freaks of Fate they bow: They had a say in what God decreed, but Muslims have now fallen low.\nWhat was so evil has by steps put on the shape of good and fine: In state of bondage, as is known, the shift of conscience is quite sure.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Submission To Fate",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

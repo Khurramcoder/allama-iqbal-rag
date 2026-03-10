@@ -1,0 +1,161 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پھر چراغ لالہ سے روشن ہوئے کوہ و دمن \nمجھ کو پھر نغموں پہ اکسانے لگا مرغ چمن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hill and vale once more under the poppy’s lamps are bright; in my heart the nightingale has set new songs alight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پھول ہیں صحرا میں یا پریاں قطار اندر قطار \nاودے اودے، نیلے نیلے، پیلے پیلے پیرہن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Violet, violet, azure, azure, golden, golden mantles: Flowers, or fairies of the desert, rank on rank in sight?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "برگ گل پر رکھ گئی شبنم کا موتی باد صبح \nاور چمکاتی ہے اس موتی کو سورج کی کرن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the rosy-spray dawn’s soft breeze has left a pearl of dew; now the sunbeam turns this gem a yet more glittering white.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حسن بے پروا کو اپنی بے نقابی کے لیے \nہوں اگر شہروں سے بن پیارے تو شہر اچھے کہ بن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Town or woodland, which is sweeter, if for her unveiling careless beauty love towns less than where green woods invite?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اپنے من میں ڈوب کر پا جا سراغ زندگی \nتو اگر میرا نہیں بنتا نہ بن، اپنا تو بن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Delve into your soul and there seek our life’s buried tracks; will you not be mine? Then be not mine, be your own right!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "من کی دنیا ! من کی دنیا سوز و مستی، جذب و شوق \nتن کی دنیا! تن کی دنیا سود و سودا، مکروفن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "World of soul – the world of fire and ecstasy and longing: World of sense – the world of gain that fraud and cunning blight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "من کی دولت ہاتھ آتی ہے تو پھر جاتی نہیں \nتن کی دولت چھاوں ہے، آتا ہے دھن جاتا ہے دھن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Treasure of the soul once won is never lost again: Treasure gold, a shadow – wealth soon comes and soon takes flight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "من کی دنیا میں نہ پایا میں نے افرنگی کا راج \nمن کی دنیا میں نہ دیکھے میں نے شیخ و برہمن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the spirit’s world I have not seen a white man’s Raj, in that world I have not seen Hindu and Muslim fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پانی پانی کر گئی مجھ کو قلندر کی یہ بات \nتو جھکا جب غیر کے آگے، نہ من تیرا نہ تن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Shame and shame that hermit’s saying pouted on me – you forfeit body and soul alike if once you cringe to another’s might!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

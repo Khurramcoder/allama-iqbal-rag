@@ -1,0 +1,216 @@
+{
+  "id": "07",
+  "name": "ایک پہاڑ اور گلہری",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کوئی پہاڑ یہ کہتا تھا اک گلہری سے\nتجھے ہو شرم تو پانی میں جا کے ڈوب مرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A mountain was saying this to a squirrel: ‘Commit suicide if you have self-respect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ذرا سی چیز ہے، اس پر غرور، کیا کہنا\nیہ عقل اور یہ سمجھ، یہ شعور، کیا کہنا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are insignificant, still so arrogant, how strange! You are neither wise, nor intelligent! Not even shrewd!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خدا کی شان ہے ناچیز چیز بن بیٹھیں\nجو بے شعور ہوں یوں باتمیز بن بیٹھیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is strange when the insignificant pose as important! When the stupid ones like you pose as intelligent!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تری بساط ہے کیا میری شان کے آگے\nزمیں ہے پست مری آن بان کے آگے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are no match in comparison with my splendour; even the earth is low compared with my splendour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جو بات مجھ میں ہے، تجھ کو وہ ہے نصیب کہاں\nبھلا پہاڑ کہاں جانور غریب کہاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grandeur of mine does not fall to your lot; the poor animal cannot equal the great mountain!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کہا یہ سن کے گلہری نے، منہ سنبھال ذرا\nیہ کچی باتیں ہیں دل سے انھیں نکال ذرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On hearing this, the squirrel said: ‘Hold your tongue! These are immature thoughts; expel them from your heart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جو میں بڑی نہیں تیری طرح تو کیا پروا\nنہیں ہے تو بھی تو آخر مری طرح چھوٹا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not care if I am not large like you! You are not a pretty little thing like me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہر ایک چیز سے پیدا خدا کی قدرت ہے\nکوئی بڑا، کوئی چھوٹا، یہ اس کی حکمت ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everything shows the Omni-potence of God; some large, some small, is the wisdom of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بڑا جہان میں تجھ کو بنا دیا اس نے\nمجھے درخت پہ چڑھنا سکھا دیا اس نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has created you large in the world and He has taught me climbing large trees.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "قدم اٹھانے کی طاقت نہیں ذرا تجھ میں\nنری بڑائی ہے، خوبی ہے اور کیا تجھ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are unable to walk a single step. Only large size! What other greatness have you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "جو تو بڑا ہے تو مجھ سا ہنر دکھا مجھ کو\nیہ چھالیا ہی ذرا توڑ کر دکھا مجھ کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are large show me some of the skills I have; show me how you break this beetle nut as I can.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "نہیں ہے چیز نکمی کوئی زمانے میں\nکوئی برا نہیں قدرت کے کارخانے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nothing is useless in this world. Nothing is bad in God's creation.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Mountain And A Squirrel",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

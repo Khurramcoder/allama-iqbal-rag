@@ -1,0 +1,103 @@
+{
+  "id": "05",
+  "name": "بوی گل",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حوری بہ کنج گلشن جنت تپید و گفت\nما را کسی ز آنسوی گردون خبر نداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ بہشت کے کونے میں ایک حور بیتاب تھی ، کوئی ہمیں آسمان کے اس طرف کی خبر نہیں دیتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bored in a coign of the Garden of Eden, a houri woefully cried: ‘Nobody told us of the things that happen on Eden’s nether side.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ناید بفہم من سحر و شام و روز و شب\nعقلم ربود این کہ بگویند مرد و زاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری سمجھ میں نہیں آتا کہ جسے یہ صبح شام اور دن رات کہتے ہیں، وہ کیا ہے؟ یہ بات بھی میری عقل سے ورا ہے کہ جسے یہ مردہ اور زندہ رہتے ہیں، وہ کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘What are morning, evening, night and day? They are all above my head. O tell me what they mean when they say one is born or one is dead.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گردید موج نکہت و از شاخ گل دمید\nپا اینچنین بہ عالم فردا و دی نہاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر وہ خوشبو کی موج میں تبدیل ہو کر شاخ گل سے پھوٹی ، اس طرح اس نے اس کل اور آج کی دنیا میں پاؤں رکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Changing herself to a breath of fragrance, she appeared in a rose’s form; and in this way she took up residence where day and night are the norm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وا کرد چشم و غنچہ شد و خندہ زد دمی\nگل گشت و برگ برگ شد و بر زمین فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اس نے آنکھ کھولی، کلی بنی، ذرا مسکرائی، پھول ہوئی، پھر اس کے پتے پتے بکھر کر زمین پر گر گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She opened her eyes and became a bud: Then she laughed and she burst forth into a rose; but presently shed her petals in the dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زان نازنین کہ بند ز پایش گشادہ اند\nآہی است یادگار کہ بو نام دادہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ نازنین (حور) جس کے پاؤں قید سے آزاد کیے گئے تھے، ایک آہ اس کی یادگار رہ گئی، جسے خوشبو کہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of that innocent damsel who chose to fly from Eden’s magic frame there is one memento left a sigh, and fragrance is its name.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Fragrance Of The Rose",
+  "credits": "English Translation by: M Hadi Hussain"
+}

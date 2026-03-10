@@ -1,0 +1,31 @@
+{
+  "id": "87",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ گویم نکتۂ زشت و نکو چیست\nزبان لرزد کہ معنی پیچدار است\nبرون از شاخ بینی خار و گل را\nدرون او نہ گل پیدا نہ خار است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

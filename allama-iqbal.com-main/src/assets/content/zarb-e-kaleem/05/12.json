@@ -1,0 +1,67 @@
+{
+  "id": "12",
+  "name": "خواجگی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دور حاضر ہے حقیقت میں وہی عہد قدیم \nاہل سجادہ ہیں یا اہل سیاست ہیں امام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fact, the present age is still the same antique and ancient tide, whether statesmen give them lead, or spiritual leaders guide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس میں پیری کی کرامت ہے نہ میری کا ہے زور\nسینکڑوں صدیوں سے خوگر ہیں غلامی کے عوام",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوگر: عادی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To bondage common man is wont, since times none can recall to mind; this wonder is not wrought by Guides, but by wealth's vigour blind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خواجگی میں کوئی مشکل نہیں رہتی باقی \nپختہ ہو جاتے ہیں جب خوئے غلامی میں غلام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When commons grow mature and ripe, in slavish bent and trend of heart; the governors can rule with ease, they don't face hurdles on their part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Lordship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

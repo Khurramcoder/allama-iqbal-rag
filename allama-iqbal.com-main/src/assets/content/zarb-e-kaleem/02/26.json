@@ -1,0 +1,101 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ملے گا منزل مقصود کا اسی کو سراغ \nاندھیری شب میں ہے چیتے کی آنکھ جس کا چراغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man alone in lire shall find to aim and end a certain sign: Whose eyes in pitch dark night can see, and like the eyes of panther shine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میسر آتی ہے فرصت فقط غلاموں کو \nنہیں ہے بندہ حر کے لیے جہاں میں فراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "فراغ: فرصت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The slaves can get repose and rest in world confined by Time and Space: But men of high and noble birth haven't leisure in worldly race.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فروغ مغربیاں خیرہ کر رہا ہے تجھے \nتری نظر کا نگہباں ہو صاحب 'مازاغ'",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترقی۔ فروغ\nخيرہ کرنا : آنکھوں کو چندھیانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The progress great that West has made, has bedazzled your eyes a deal. May Prophet (S.A.W.) guard your precious sight; to vouch him God did Najm reveal!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ بزم عیش ہے مہمان یک نفس دو نفس \nچمک رہے ہیں مثال ستارہ جس کے ایاغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اياغ: پیالہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These revels do not last for long, like guests they stay for a breath or so: The bowls of wine that glint like stars, are soon deprived of gloss and glow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیا ہے تجھ کو کتابوں نے کور ذوق اتنا \nصبا سے بھی نہ ملا تجھ کو بوئے گل کا سراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کور ذوق: اندھا ذوق، ذوق کے بغیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The books have marred your taste and zest to such a great and vast extent that breeze of morn has also failed to give you clue of rose and scent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Akbar Ali Shah"
+}

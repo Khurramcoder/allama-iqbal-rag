@@ -1,0 +1,124 @@
+{
+  "id": "03",
+  "name": "عہد طفلی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تھے دیار نو زمین و آسماں میرے لیے\nوسعت آغوش مادر اک جہاں میرے لیے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیار نو: نیا شہر۔ \nآغوش مادر: ماں کی گود۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth and sky were unknown worlds to me; only the expanse of mother's bosom was a world to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تھی ہر اک جنبش نشان لطف جاں میرے لیے\nحرف بے مطلب تھی خود میری زباں میرے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every movement was a symbol of life's pleasure to me; my own speech was like a meaningless word to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درد، طفلی میں اگر کوئی رلاتا تھا مجھے\nشورش زنجیر در میں لطف آتا تھا مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "During infancy's pain if somebody made me cry; the noise of the door chain would comfort me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تکتے رہنا ہائے! وہ پہروں تلک سوئے قمر\nوہ پھٹے بادل میں بے آواز پا اس کا سفر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آواز پا: پاؤں کی آہٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oh! How I stared at the moon for long hours staring at its silent journey among broken clouds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پوچھنا رہ رہ کے اس کے کوہ و صحرا کی خبر\nاور وہ حیرت دروغ مصلحت آمیز پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دروغ مصلحت آمیز: اچھا نتیجہ پیدا کرنے والا جھوٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I would ask repeatedly about its mountains and plains and how surprised would I be at that prudent lie.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آنکھ وقف دید تھی، لب مائل گفتار تھا\nدل نہ تھا میرا، سراپا ذوق استفسار تھا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقف دید: دیکھنے میں مصروف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eye was devoted to seeing, my lip was prone to speak; my heart was no less than inquisitiveness personified.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Age Of Infancy",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

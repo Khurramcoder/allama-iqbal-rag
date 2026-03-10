@@ -1,0 +1,57 @@
+{
+  "id": "25",
+  "name": "افرنگ زدہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا وجود سراپا تجلی افرنگ\nکہ تو وہاں کے عمارت گروں کی ہے تعمیر\nمگر یہ پیکر خاکی خودی سے ہے خالی\nفقط نیام ہے تو، زرنگار و بے شمشیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجلي افرنگ: یورپ کی چمک \nزرنگار: سونے کے نقش والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your being whole from head to foot reflects the West; her masons in you have shown their art at best.\nDevoid of Self, your frame from clay and water made is like a spangled sheath that has no steel or blade.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تری نگاہ میں ثابت نہیں خدا کا وجود\nمری نگاہ میں ثابت نہیں وجود ترا\nوجود کیا ہے، فقط جوہر خودی کی نمود\nکر اپنی فکر کہ جوہر ہے بے نمود ترا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In God's existence you don't believe, you have no existence, I conceive.\nLife means to bring Self's merits hid to show, take heed, your Self is quite devoid of glow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Bewitched By The West",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

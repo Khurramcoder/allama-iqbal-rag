@@ -1,0 +1,168 @@
+{
+  "id": "30",
+  "name": "دل",
+  "name-en": "Heart",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قصہ دار و رسن بازی طفلانہ دل\nالتجائے 'ارنی' سرخی افسانہء دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "بازي طفلانہ: بچوں کا کھیل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tales of gallows and crucifixion are mere child's play for the Heart. The request of Arini* is only the title of the story of the Heart.\n* This alludes to the several verses of the Holy Qur’an in which the desire of Musa (A.S) to see God has been mentioned, especially 7:143, in which this word occurs.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یا رب اس ساغر لبریز کی مے کیا ہو گی\nجاوہ ملک بقا ہے خط پیمانہ دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "جادہ ملک بقا: ہمیشہ کی زندگی کا راستہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord! How powerful the full cup of that wine would be? The Way to eternity is each single line on the measuring cup of the Heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ابر رحمت تھا کہ تھی عشق کی بجلی یا رب\nجل گئی مزرع ہستی تو اگا دانہء دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "مزرع: کھیتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord! Was it the cloud of mercy or the thunderbolt of Love, when the life's crop got burned down, sprouted the seed of the Heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حسن کا گنج گراں مایہ تجھے مل جاتا\nتو نے فرہاد! نہ کھودا کبھی ویرانہ دل!",
+              "lang": "Original"
+            },
+            {
+              "_content": "گنج گراں: بے بہا خزانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You would have got the Beauty's bountiful treasure, O Farhad*! You never dug into the ruins of the Heart.\n* Lover of Shirin in the Persian epic of love titled Khusro Wa Shirin by Hakim Abu Muhammad Ilyas Jamal al-Din).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عرش کا ہے کبھی کعبے کا ہے دھوکا اس پر\nکس کی منزل ہے الہی! مرا کاشانہ دل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now it looks like the ‘Arsh ’, now like the Ka'bah. O God! Whose lodging is the abode of my Heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس کو اپنا ہے جنوں اور مجھے سودا اپنا\nدل کسی اور کا دیوانہ، میں دیوانہء دل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has its own junoon* and I have my own sawda;* the Heart loves someone else and I love the Heart.\n* Junoon and Sawda: Both are Arabic words and mean insanity; used in Urdu and Persian for the extreme love in which the lover loses his logic and behaves like a lunatic.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو سمجھتا نہیں اے زاہد ناداں اس کو\nرشک صد سجدہ ہے اک لغزش مستانہء دل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You do not comprehend this, O simple hearted ascetic! Envy of a thousand prostrations is one slip of the Heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خاک کے ڈھیر کو اکسیر بنا دیتی ہے\nوہ اثر رکھتی ہے خاکستر پروانہ دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک کے ڈھير: مراد ہے انسان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It changes the heap of earth into elixir; such is the power of the ashes of the Heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "عشق کے دام میں پھنس کر یہ رہا ہوتا ہے\nبرق گرتی ہے تو یہ نخل ہرا ہوتا ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نخل: پودا، درخت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gains freedom after being caught in the net of Love; on being thunder-struck greens up the tree of the Heart",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

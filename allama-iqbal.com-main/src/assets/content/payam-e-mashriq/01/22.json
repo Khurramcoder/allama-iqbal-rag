@@ -1,0 +1,34 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم در عدم پروانہ میگفت\nدمی از زندگی تاب تبم بخش\nپریشان کن سحر خاکسترم را\nولیکن سوز و ساز یک شبم بخش",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنا ہے عدم میں پروانہ کہتا تھا؛ مجھے ایک لمحہ کے لیے زندگی کی چمک اور حرارت عطا کر دیں۔ \n(بے شک) صبح کے وقت میری راکھ بکھیر دینا؛ بس ایک رات کا سوز و ساز مل جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have heard that in pre-existence the moth said: ‘Grant me just a moment’s radiance in my life. \nYou may scatter my ashes at dawn, but grant me one night of passion and fire’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,524 @@
+{
+  "id": "03",
+  "name": "سوال دوم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "name-en": "Question 2",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ بحر است این کہ علمش ساحل آمد\nز قعر او چہ گوھر حاصل آمد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا سمندر ہے علم جس کا ساحل ہے؟ اور اس کی تہ میں کون سا موتی حاصل ہوتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is this ocean whose shore is knowledge? What is that pearl which is found in its depth?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حیات پر نفس بحر روانی\nشعور آگہے او را کرانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات انسانی بحر رواں ہے، اور شعور و آگاہی اس کا کنارا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ever-moving Life is a flowing ocean, consciousness is its shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہ دریائی کہ ژرف و موج داراست\nہزاران کوہ و صحرا بر کنار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دریا بہت گہرا ہے اور اس کی سطح پر کئی موجیں اٹھتی ہیں ، اس کے کنارے پر کئی ہزار کوہ و صحرا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What an ocean that is deep and surging a thousand mountains and deserts are on its bank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مپرس از موجہای بیقرارش\nکہ ہر موجش برون جست از کنارش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی بیقرار موجوں کی بات نہ کر ، ہر موج کنارے سے باہر نکلی پڑی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t talk about its surging waves, for each had overflowed its bank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گذشت از بحر و صحرا را نمی داد\nنگہ را لذت کیف و کمی داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج بحر سے باہر نکل کر صحرا کو نمی عطا کر تی ہے، اسی سے نگاہ کو کیفیت اور کمیت کی لذت حاصل ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It left the ocean and imparted moisture to the desert; it gave to the eye the sense of quantity and quality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہر آن چیزی کہ آید در حضورش\nمنور گردد از فیض شعورش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو چیز اس کے سامنے آتی ہے، وہ اس کے شعور سے فیضیاب اور منوّر ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever thing comes into its presence gets illumined through the grace of its consciousness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بخلوت مست و صحبت ناپذیر است\nولی ہر شی ز نورش مستنیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اپنی خلوت میں مست ہے اور صحبت کو پسند نہیں کرتی ، اس کے باوجود ہر چیز اس کے نور سے منوّر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is satisfied with its privacy and is not inclined to association with others, yet all things are illumined by its light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نخستین می نماید مستنیرش\nکند آخر بہ آئینی اسیرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلے اپنے نور سے اشیاء دکھاتی ہے ، بعد میں انہیں آئینہ سے مقیّد کر لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "First it brightens it up, then it ensnares it in a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "شعورش با جہان نزدیک تر کرد\nجہان او را ز راز او خبر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے شعور نے اسے کائنات سے نزدیک کر دیا ، پھر جہان نے اسے اس کے راز کی خبر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its consciousness makes it familiar with the world, the world made it aware of its potentiality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خرد بند نقاب از رخ گشودش\nولیکن نطق عریان تر نمودش",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد نے جہان کے چہرے سے نقاب ہٹایا، لیکن نطق نے اسے اور زیادہ عریاں کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect removes veil from its face, but speech reveals it much better.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نگنجد اندرین دیر مکافات\nجہان او را مقامی از مقامات",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات اس دیر مکافات (دنیا) میں نہیں سماتی، یہ جہان اس کے (سفر کے مختلف) مقامات میں سے ایک مقام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet it is not confined to this mundane world - it is only one of its stages in the path of evolution.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "برون از خویش می بینی جہانرا\nدر و دشت و یم و صحرا و کان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس جہان اور اس کے بیابانوں، دریاؤں ، صحراؤں ، سمندروں اور کانوں کو اپنے آپ سے باہر دیکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You look upon the world as existing outside you: These mountains and deserts, oceans and mines;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "جہان رنگ و بو گلدستۂ ما\nز ما آزاد و ھم وابستۂ ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "(نہیں) یہ جہان رنگ و بو تو ہمارا گلدستہ ہے، یہ ہم سے گزار بھی ہے اور ہم سے وابستہ بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of colour and smell is our nosegay; it is independent and yet intimately related to us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خودی او را بیک تار نگہ بست\nزمین و آسمان و مہر و مہ بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی نے اس جہان کی اشیاء ، زمین و آسمان اور مہر و ماہ کو ایک تار نگاہ سے باندھ رکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ego bound them all by its one glance: The earth and the sky, the moon and the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "دل ما را بہ او پوشیدہ راہی است\nکہ ہر موجود ممنون نگاہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دل کا اس جہان کے ساتھ پوشیدہ تعلق ہے، کیونکہ ہر موجود چاہتا ہے کہ کوئی اسے دیکھنے والا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our heart has a secret gateway to it, for every existent depends for its existence upon our perception.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گر او را کس نبیند زار گردد\nاگر بیند، یم و کہسار گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر کوئی اسے نہ دیکھے تو وہ غمزدہ ہوتا ہے، اگر اسے دیکھے تو پھر کوہ و صحرا بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If nobody sees, it becomes contemptible; if anybody sees, it becomes mountains and oceans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "جہان را فربہی از دیدن ما\nنہالش رستہ از بالیدن ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دیکھنے سے جہان کی افزونی ہے، اس کے درختوں کی نمو ہماری نمو سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world has significance through our seeing it – its tree grows by our growth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "حدیث ناظر و منظور رازی است\nدل ہر ذرہ در عرض نیازی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناظر و منظور کی بات ایک راز ہے، ہر ذرے کا دل یہ عرض کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The problem of subject and object is a mystery; the heart of every particle of matter is expressing its supplication:",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "ق",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "تو اے شاہد مرا مشہود گردان\nز فیض یک نظر موجود گردان",
+              "lang": "Original"
+            },
+            {
+              "_content": "'اے شاہد! ' تو مجھے مشہود بنا ، اپنی ایک نظر کے فیض سے مجھے موجود بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O observer, make me your object, make me existent by the grace of your sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کمال ذات شی موجود بودن\nبرای شاہدی مشہود بودن",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی شے کی ذات کا کمال موجود ہونا ہے، یعنی کوئی شاہد اسے مشہود بنا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The perfection of the being of a thing lies in being present, in becoming an object for an observer;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "زوالش در حضور ما نبودن\nمنور از شعور ما نبودن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور کسی شے کا زوال یہ ہے کہ وہ ہماری نظر میں نہ ہو اور ہمارے شعور سے منوّر نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its defect, not to be before our eyes, not to be illumined by our awareness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "جہان غیر از تجلی ہای ما نیست\nکہ بی ما جلوۂ نور و صدا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری تجلّیات کے بغیر جہان کچھ نہیں ، ہمارے بغیر روشنی اور آواز کا کوئی اظہار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is nothing but our manifestation, for without us there would be no world of light and sound;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تو ہم از صحبتش یاری طلب کن\nنگہ را از خم و پیچش ادب کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ابھی اس کی صحبت سے فائدہ اٹھا ، اور اس کے خم و پیچ سے اپنی نگاہ کی تربیت کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You also should crave help by associating with it; discipline your eyes by its twists and turns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "یقین میدان کہ شیران شکاری\nدرین رہ خواستند از مور یاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "'سمجھ لے کہ اس راہ میں شکاری شیر، چیونٹی سے بھی مدد لے لیتے ہیں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rest assured that master-huntsmen have sought help in this matter from insects.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "بیاری ہای او از خود خبر گیر\nتو جبریل امینی بال و پر گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس کی دوستی سے خود آگاہی حاصل کر، تو جبریل امین (علیہ) (کی مانند تدبیر کائنات کرنے والا) بال و پر حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With its help, keep a watchful eye on yourself; you are like Gabriel the truthful; take wings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بہ بسیاری گشا چشم خرد را\nکہ دریابی تماشای احد را",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم خرد سے کثرت کا تماشا کر تاکہ تو احد کا نظارہ کر سکے۔ ( کائنات پر غور و فکر سے معرفت الہی بھی حاصل ہوتی ہے اور انسان کی اپنی صلاحیتیں بھی اجاگر ہوتی ہیں۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open the eye of intellect on this world of plurality, so that you may enjoy the revelations of the One.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "نصیبب خود ز بوی پیرہن گیر\nبہ کنعان نکہت از مصر و یمن گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیرہن کی خوشبو سے اپنی حصّہ لے، کنعان میں رہتے ہوئے مصر سے آنے والی خوشبو پا لے۔ (جیسے یعقوب (علیہ) نے کنعان میں بیٹھے ہوئے کمیص یوسف (علیہ) کی خوشبو پا لی تھی۔ )",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take your share from the smell of the shirt, while sitting in Kan‘an, get fragrance from Egypt and Yemen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خودی صیاد و نخچیرش مہ و مہر\nاسیر بند تدبیرش مہ و مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی شکاری ہے مہ و مہر اس کا شکار ہے، کائنات اس کی تدبیر کے بند میں اسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ego is the hunter, the sun and the moon are its prey; they are chained to the strings of his intellectual efforts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "چو آتش خویش را اندر جہان زن\nشبیخون بر مکان و لامکان زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو آتش ہے ، اپنے آپ کو جہان میں ڈال ، (اور اس طرح) مکان و لا مکان پر شبخون مار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Throw yourself on this world like fire! Make an assault on the visible and the invisible worlds alike.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

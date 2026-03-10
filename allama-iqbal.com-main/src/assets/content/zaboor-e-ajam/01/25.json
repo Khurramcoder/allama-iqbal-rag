@@ -1,0 +1,136 @@
+{
+  "id": "25",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درین محفل کہ کار او گذشت از بادہ و ساقی\nندیمی کو کہ در جامش فرو ریزم می باقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گئی گزری محفل جو بادہ و ساقی سے لطف اندوز ہونے کی صلاحیت کھو چکی ہے ، اس میں ایسا ندیم کہاں ملے گا جس کے جام میں میں اپنی شراب جاوداں ڈال سکوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The night grows late, the route is up, no need for saki now or cup; pass me Thy goblet, friend of mine, I’ll pour thee the remaining wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کسی کو زہر شیرین میخورد از جام زرینی\nمی تلخ از سفال من کجا گیرد بہ تریاقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص جام زرّیں سے زہر شیریں پینے کا عادی ہو چکا ہے، وہ میرے مٹی کے پیالے سے ایسی کڑوی شراب کیسے پئے گا جو اس زہر کا تریاق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kassey Whoever from the golden bowl quaffs the sweet poison of the soul, in my clay jar the bitter juice is the sole antidote of use.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شرار از خاک من خیزد کجا ریزم کرا سوزم\nغلط کردی کہ در جانم فکندی سوز مشتاقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک سے شرارے اٹھ رہے ہیں انہیں کہاں گراؤں ، کیسے جلاؤں؟ میری جان میں آپ نے محبت کا سوز بھر دیا، کیا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, from my dust the sparks unspire: whose spirit shall I set afire? ‘Twas wrong, to kindle in my breast this furnace of desire’s unrest!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مکدر کرد مغرب چشمہ ہای علم و عرفان را\nجہان را تیرہ تر سازد چہ مشائی چہ اشراقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب نے علم و عرفان کے چشموں کو مکدر کر دیا ہے، ارسطو کے افکار ہوں یا افلاطون کے، وہ جہان کو تاریک تر بنا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas, the Western mind hath soiled the springs of knowledge undefiled; stoic alike and Platonist have shrouded all the world in mist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل گیتی انا المسموم انا المسموم فریادش\nخرد نالان کہ ما عندی بتریاق و لا راقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے کے دل کے اندر سے فریاد اٹھ رہی ہے کہ مجھ میں زہر پھیل رہا ہے، اور خرد رو رہی ہے کہ اس کے پاس اس زہر کا کوئی مداوا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Ah! I am poisoned’ – hark, the cry of the world’s heart ascendeth high; reason replies lamentingly, ‘I know no charm, no remedy.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چہ ملائی چہ درویشی چہ سلطانی چہ دربانی\nفروغ کار می جوید بہ سالوسی و زراقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا ملّا ، کیا درویش ، کیا سلطان ، کیا دربان، سب خوشامد اور منافقت سے کاروبار کو فروغ دے رہے ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let it be priest, or beggar poor, king, or the slave that keeps his door, all seek success of merchandise amid hypocrisy and lies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ببازاری کہ چشم صیرفی شور است و کم نور است\nنگینم خوار تر گردد چو افزاید بہ براقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بازار جس میں صرّاف بد نظر اور کم نظر ہے، میرا نگینہ جب چمک میں بڑھتا ہے تو اس کی نگاہ میں اس کی قیمت اور کم ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The money-changers in the mart are blind of head, and black of heart; the brighter gleams my glowing gem, the meaner is its worth to them.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

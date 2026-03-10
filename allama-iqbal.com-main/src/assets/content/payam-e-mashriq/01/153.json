@@ -1,0 +1,34 @@
+{
+  "id": "153",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میان لالہ و گل آشیان گیر\nز مرغ نغمہ خوان درس فغان گیر\nاگر از ناتوانی گشتہ ئی پیر\nنصیبی از شباب این جہان گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھولوں کے درمیان اپنا آشیانہ بنا، نغمہ سرا پرندوں سے آہ و فغان سیکھ۔\nاگر تو کمزوری کے سبب بوڑھا ہو چکا ہے ، تو اس جہان کے شباب (تر و تازگی) سے قوّت حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nest amid roses and anemones, learn from the thrush his plangent melodies.\nIf impotence has made thee grey and old, from the world’s youth a vital portion seize!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,179 @@
+{
+  "id": "04",
+  "name": "عبدالرحمن اول کا بویا ہوا کھجور کا پہلا درخت سرزمین اندلس",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میری آنکھوں کا نور ہے تو \nمیرے دل کا سرور ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the apple of my eye, my heart’s delight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اپنی وادی سے دور ہوں میں \nمیرے لیے نخل طور ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am remote from my valley, to me you are the Burning Bush of Sinai!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مغرب کی ہوا نے تجھ کو پالا \nصحرائے عرب کی حور ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a houri of the Arabian Desert, nursed by the Western breeze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پردیس میں ناصبور ہوں میں \nپردیس میں ناصبور ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I feel homesick in exile, you feel homesick in exile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غربت کی ہوا میں بارور ہو \nساقی تیرا نم سحر ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prosper in this strange land! May the morning dew quench your thirst!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عالم کا عجیب ہے نظارہ \nدامان نگہ ہے پارہ پارہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world presents a strange sight: The vision’s mantle is torn apart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہمت کو شناوری مبارک! \nپیدا نہیں بحر کا کنارہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شناوري: تیرنا",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May valour struggle with the waves if it must! The other side of the river is not to be seen!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہے سوز دروں سے زندگانی \nاٹھتا نہیں خاک سے شرارہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life owes itself to the heat of one’s soul: Flame does not rise from dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "صبح غربت میں اور چمکا \nٹوٹا ہوا شام کا ستارہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Syrian evening’s fallen star: Shined brighter in the exile’s dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مومن کے جہاں کی حد نہیں ہے \nمومن کا مقام ہر کہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There are no frontiers for the Man of Faith, he is at home everywhere.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "First Date Tree Seeded By Abdul Rahman The First",
+  "credits": "English Translation by: Naeem Siddiqui"
+}

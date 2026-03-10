@@ -1,0 +1,130 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیا چرخ کج رو، کیا مہر، کیا ماہ \nسب راہرو ہیں واماندہ راہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرخ کج رو: ٹیڑھا چلنے والا آسمان۔ \nواماندہ راہ: تھکا ہارا",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sun, the Moon and Sphere all go astray, are vagrants who still straggle on the way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کڑکا سکندر بجلی کی مانند \nتجھ کو خبر ہے اے مرگ ناگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alexander fell on world like thunder clap, but death soon caught him in its deadly trap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نادر نے لوٹی دلی کی دولت \nاک ضرب شمشیر، افسانہ کوتاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "King Nadir plundered Delhi's hoarded wealth, whereas his Chiefs put him to sword by stealth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "افغان باقی، کہسار باقی \nالحکم للہ ! الملک للہ !",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Afghans and their hills e'en now remain; authority and the country belong to Allah.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حاجت سے مجبور مردان آزاد \nکرتی ہے حاجت شیروں کو روباہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Free heroes are compelled by wont and need, these change a lion bold to fox indeed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "محرم خودی سے جس دم ہوا فقر \nتو بھی شہنشاہ، میں بھی شہنشاہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Faqr with Self gets free and frank, both you and I attain the regal rank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "قوموں کی تقدیر وہ مرد درویش \nجس نے نہ ڈھونڈی سلطاں کی درگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That Darvesh can build up a nation's fate who never tries to seek the royal gate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,599 @@
+{
+  "id": "16",
+  "name": "در بیان اینکہ مقصد حیات مسلم، اعلای کلمة اللہ است و جہاد، اگر محرک آن جوع الارض باشد در مذہب اسلام حرام است",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "name-en": "Showing that the purpose of the Muslim's life is to exalt the Word of Allah, and that the Jih«d (was against unbelievers), if it be prompted by land-hunger, is unlawful in the religion of Islam",
+  "name-ur": "اس مطلب کی وضاحت کس لیے کہ مسلمان کی زندگی کا مقصد اعلائے کلمتہ اللہ ہے اور اگر جہاد کا محرک ملک فتح کرنا ہو تو ایسی جنگ مذہب میں حرام ہے۔",
+  "Para": [
+    {
+      "name": "",
+      "name-en": "",
+      "name-ur": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قلب را از صبغة اللہ رنگ دہ\nعشق را ناموس و نام و ننگ دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے دل کو اللہ تعالے کے رنگ میں رنگ دے؛ اور اس طرح اپنے عشق کو ننگ و ناموس و پہچان عطا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Imbue thine heart with the tincture of Allah, give honour and glory to Love!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "طبع مسلم از محبت قاہر است\nمسلم ار عاشق نباشد کافر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان کی فطرت میں عشق الہی سے قاہری پیدا ہوتی ہے، اگر مسلمان عاشق نہیں تو وہ کافر ہے (اور وہ ایمان والے ان کی محبت اللہ تعالے کے لیے بہت شدید ہے - قرآن، 165 -2)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim's nature prevails by means of love: The Muslim, if he be not loving, is an infidel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تابع حق دیدنش نا دیدنش\nخوردنش، نوشیدنش، خوابیدنش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دیکھنا نہ دیکھنا ، کھانا پینا ، سونا سب اللہ تعالے کے حکم کے تحت ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon God depends his seeing and not-seeing, his eating, drinking, and sleeping.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در رضایش مرضی حق گم شود\n\"این سخن کے باور مردم شود\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اللہ تعالے کی رضا اس کی رضا میں گم ہو جاتی ہے؛ لوگ اس بات کو کیسے باور کریں گے – قرآن17-8)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his will that which God wills becomes lost – ‘How small a man believe this saying?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خیمہ در میدان الا اللہ زدست\nدر جہان شاہد علی الناس آمدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ الا اللہ کے میدان میں خیمہ زن ہے؛ اور وہ دنیا میں لوگوں پر شاہد (حق) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He encamps in the field of ‘There is no god but Allah’; in the world he is a witness to mankind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شاہد حالش نبی انس و جان\nشاہدی صادق ترین شاہدان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور اس کے حال کے شاہد جناب رسول پاک (صلعم) ہیں؛ جو سب شاہدوں سے صادق ترین ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His high estate is attested by the Prophet who was sent to men and Jinn – The most truthful of witnesses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "قال را بگذار و باب حال زن\nنور حق بر ظلمت اعمال زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "قال کو چھوڑ اور حال (روحانی کیفیت ) کا دروازہ کھٹکھٹایا اور اس طرح اعمال کی تاریکی پر اللہ تعالے کا نور بکھیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave words and seek that spiritual state, shed the light of God o'er the darkness of thy deeds!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "در قبای خسروی درویش زی\nدیدہ بیدار و خدا اندیش زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو پادشاہی کے لباس میں بھی درویش رہے گا؛ تیری آنکھ بیدار اور تیری سوچ میں اللہ تعالے کا رنگ ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Albeit clad in kingly robe, live as a dervish, live wakeful and meditating on God!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "قرب حق از ہر عمل مقصود دار\nتا ز تو گردد جلالش آشکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کے قرب کو اپنے ہر عمل کا مقصود بنا؛ تاکہ تجھ سے اس کا جلال ظاہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever thou dost, let it be thine aim therein to draw nigh to God; that his glory may be made manifest by thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "صلح، شر گردد چو مقصود است غیر\nگر خدا باشد غرض جنگ است خیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر مقصود غیر اللہ ہو تو صلح بھی شر بن جاتی ہے؛ اگر مقصود اللہ تعالے ہو تو جنگ بھی غیر ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Peace becomes an evil, if its object be aught else; war is good if its object is God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "گر نگردد حق ز تیغ ما بلند\nجنگ باشد قوم را ناارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ہماری تلوار سے کلمہء حق بلند نہ ہو تو ایسی جنگ ہماری قوم کے لیے نامبارک ثابت ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If God be not exalted by our swords, war dishonours the people.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "حضرت شیخ میانمیر ولی\nہر خفی از نور جان او جلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضرت میاں میر (رضی اللہ) ولی جن کی جان نور سے روحانیت کا ہر راز عیاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The holy Shaykh Miyan Mir Wali, by the light of whose soul every hidden thing was revealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بر طریق مصطفی محکم پئی\nنغمہ ی عشق و محبت را نئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو حضور اکرم (صلعم) کے طریقے پر مضبوطی سے قائم تھے، جن کی جان سے عشق و محبت کے نغمے پھوٹتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His feet were firmly planted on the path of Muhammad; He was a flute for the impassioned music of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "تربتش ایمان خاک شہر ما\nمشعل نور ہدایت بہر ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا مزار ہمارے شہر کی مٹی کے لیے ایمان کہ درجہ رکھتا ہے؛ وہ ہمارے لیے نور ہدایت کی مشعل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His tomb keeps our city safe from harm and causes the beams of true religion to shine on us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بر در او جبہ فرسا آسمان\nاز مریدانش شہ ہندوستان",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان بھی ان کے دروازے پر سر جھکاتا ہے؛ ہندوستان کا بادشاہ (شاہجہان) ان کے مریدوں میں سے تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heaven stooped its brow to his threshold; the Emperor of India was one of his disciples.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "شاہ تخم حرص در دل کاشتی\nقصد تسخیر ممالک داشتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہ نے اپنے دل میں حرص کا بیج بویا اور (دکن) کے بعض ممالک فتح کرنے کا ارادہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now, this monarch had sown the seed of ambition in his heart and was resolved on conquest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "از ہوس آتش بجان افروختی\nتیغ را\"ھل من مزید\" آموختی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہوس نے اس کے اندر آگ لگا دی ؛ اور اس نے اپنی تلوار کو 'ھل من مزید' کا سبق پڑھایا ('ھل من مزید' کے لفظی معنی ہیں کہ کیا کچھ اور زیادہ ہے۔ قرآن پاک میں ارشاد ہے کہ دوزخ یہ کہے گی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flames of vain desire were alight in him, he was teaching his sword to ask, ‘Is there any more?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "در دکن ہنگامہ ہا بسیار بود\nلشکرش در عرصہ ی پیکار بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس وقت دکن میں بڑا ہنگامہ برپا تھا ؛ پادشاہ کا لشکر وہاں لڑائی میں مصروف تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the Deccan was a great noise of war, his army stood on the battle field.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "رفت پیش شیخ گردون پایہ ئی\nتا بگیرد از دعا سرمایہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شیخ عالی مرتبہ کی خدمت میں حاضر ہوا تاکہ ان سے دعا کی درخواست کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He went to the Shaykh of heaven-high dignity; that he might receive his blessing:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "مسلم از دنیا سوی حق رم کند\nاز دعا تدبیر را محکم کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان دنیا سے اللہ تعالے کی طرف بھاگتا ہے؛ وہ اپنی تدبیر کو دعا سے مستحکم کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim turns from this world to God and strengthens policy with prayer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "شیخ از گفتار شہ خاموش ماند\nبزم درویشان سراپا گوش ماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضرت میاں میر (رضی اللہ ) پادشاہ کی بات سن کر خاموش رہے؛ ارد گرد بیٹھے ہوئے درویش بھی سرا پا انتظار تھے (کہ بادشاہ کو کیا جواب ملتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Shaykh made no answer to the Emperor's speech, the assembly of dervishes was all ears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "تا مریدی سکہ سیمین بدست\nلب گشود و مہر خاموشی شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ ایک مرید چاندی کا سکّہ ہاتھ میں لیے آگے بڑھا اور مہر خاموشی توڑ کر یوں گویا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Until a disciple, in his hand a silver coin, opened his lips and broke the silence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "گفت این نذر حقیر از من پذیر\nاے ز حق آوارگان را دستگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا کہ اے شیخ آپ حق کے متلاشیوں کی دستگیری فرماتے ہیں ؛ مجھ سے یہ حقیر نذرانہ قبول فرمایے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Saying, ‘Accept this poor offering from me, O guide of them that have lost the way to God!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "غوطہ ہا زد در خوی محنت تنم\nتا گرہ زد درہمی را دامنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے بدن نے محنت کے پسینے میں کئی غوطے لگائے ؛ تب کہیں جا کر میں نے یہ درہم اپنے دامن کے پلّو میں باندھا ( یہ درہم میرے گاڑھے پسینے کی کمائی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My limbs were bathed in sweat of labour, before I put away a dirhem in my skirt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گفت شیخ این زر حق سلطان ماست\nآنکہ در پیراہن شاہی گداست",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیخ نے کہا! اس سکّے پر ہمارے سلطان کا حق ہے؛ وہ پادشاہ کے لباس میں گدا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Shaykh said: ‘This money ought to be given to our Sultan; who is a beggar wearing the raiment of a king.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "حکمران مہر و ماہ و انجم است\nشاہ ما مفلس ترین مردم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ وہ چاند ، سورج اور ستاروں پر حکمران ہے مگر وہ سب سے زیادہ مفلس ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though he holds sway over sun, moon and stars, our Emperor is the most penniless of mankind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "دیدہ بر خوان اجانب دوخت است\nآتش جوعش جہانی سوخت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے غیروں کے دستر خوان پر اپنی نظریں جما رکھی ہیں ؛ اس کی جوع الارض کی آگ نے ایک جہان کو جلا کر راکھ کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His eye is fixed on the table of strangers, the fire of his hunger hath consumed a whole world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "قحط و طاعون تابع شمشیر او\nعالمی ویرانہ از تعمیر او",
+              "lang": "Original"
+            },
+            {
+              "_content": "قحط اور طاعون اس کی تلوار کے پیچھے چلتے ہیں ؛ اس کی تعمیر نے ایک جہان کو ویران کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His sword is followed by famine and plague, his building lays wide land waste.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "خلق در فریاد از ناداریش\nاز تہیدستی ضعیف آزاریش",
+              "lang": "Original"
+            },
+            {
+              "_content": "لوگ اس کی ناداری اس کی تہی دستی ؛ اور اس کے کمزوروں کو دکھ دینے سے نالاں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The folk are crying out because of his indigence, his empty handedness causes him to plunder the weak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "سطوتش اھل جہان را دشمن است\nنوع انسان کاروان، او رہزن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شان و شوکت عوام کی دشمن ہے؛ نوع انسان کاروان ہے اور وہ رہزن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His power is an enemy to all: Humankind are the caravan and he the brigand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "از خیال خود فریب و فکر خام\nمی کند تاراج را تسخیر نام",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنی خود فریبی اور کم فہمی کی وجہ سے لوٹ مار کو فتح کہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his self-delusion and ignorancem he calls pillage by the name of empire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "عسکر شاہی و افواج غنیم\nہر دو از شمشیر جوع او دو نیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہی لشکر اور دشمنوں کی فوجیں اس کی حرص کی تلوار سے دو ٹکڑے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both the royal troops and those of the enemy are cloven in twain by the sword of his hunger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "آتش جان گدا جوع گداست\nجوع سلطان ملک و ملت را فناست",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیر کی بھوک صرف اس کی جان کے لیے آگ بنتی ہے؛ پادشاہ کی بھوک ملک و ملّت کو فنا کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beggar's hunger consumes his own soul, but the Sultan's hunger destroys state and religion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ہر کہ خنجر بہر غیر اللہ کشید\nتیغ او در سینہ ی او آرمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے بھی غیر اللہ کے لیے تلوار برہنہ کی اس کی شمشیر اسی کے سینہ میں پیوست ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoso shall draw the sword for anything except Allah, his sword is sheathed in his own breast.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

@@ -1,0 +1,86 @@
+{
+  "id": "38",
+  "name": "حال ومقام",
+  "name-en": "State and Station (spiritual stages)",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل زندہ و بیدار اگر ہو تو بتدریج \nبندے کو عطا کرتے ہیں چشم نگراں اور",
+              "lang": "Original"
+            },
+            {
+              "_content": "حال: ذہنی، روحانی اور اخلاقی کیفیت۔ \nمقام: درجہ، مرتبہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the heart is enlightened, it is blessed with an inward eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "احوال و مقامات پہ موقوف ہے سب کچھ \nہر لحظہ ہے سالک کا زماں اور مکاں اور",
+              "lang": "Original"
+            },
+            {
+              "_content": "سالک: راہ حق کا مسافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The initiate has a different level of space and time in each position.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "الفاظ و معانی میں تفاوت نہیں لیکن \nملا کی اذاں اور مجاہد کی اذاں اور",
+              "lang": "Original"
+            },
+            {
+              "_content": "تفاوت: فرق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mullah’s and the crusader’s (mujahid’s) azan, the same in words, are apart in spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پرواز ہے دونوں کی اسی ایک فضا میں \nکرگس کا جہاں اور ہے، شاہیں کا جہاں اور",
+              "lang": "Original"
+            },
+            {
+              "_content": "کرگس: گدھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vulture and the eagle soar in the same air, but in worlds apart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

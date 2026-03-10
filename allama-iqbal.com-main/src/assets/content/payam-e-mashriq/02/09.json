@@ -1,0 +1,104 @@
+{
+  "id": "09",
+  "name": "افکار انجم",
+  "name-en": "Thoughts of the Stars",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم کوکبے با کوکبی گفت\nکہ در بحریم و پیدا ساحلی نیست\nسفر اندر سرشت ما نھادند\nولی این کاروان را منزلی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے سنا ایک ستارہ دوسرے سے کہہ رہا تھا کہ ہم ایسے سمندر میں ہیں جس کا کوئی ساحل نہیں۔ \nہماری سرشت میں سفر ہے، مگر اس قافلہ کی منزل کوئی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hear a star said to another star: ‘We are adrift on a sea with no shore. \nWe were created with a wander-lust; our caravan will not stop any more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر انجم ھمانستی کہ بود است\nازین دیرینہ تابی ہا چہ سود است\nگرفتار کمند روزگاریم\nخوشا آنکس کہ محروم وجود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ستارہ نے وہی رہنا ہے جو وہ تھا، پھر اس مسلسل چمک سے کیا حاصل؟\nہم زمانے کی کمند میں گرفتار ہیں، کیا خوش نصیب ہے وہ، جو وجود نہیں رکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘If we still are what we were long ago, then what use is this shining on and on? \nWe are all of us captives in Time’s net. Lucky are they who have not yet been born.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کس این بار گران را برنتابد\nز بود ما نبود جاودان بہ\nفضای نیلگونم خوش نیاید\nز اوجش پستی آن خاکدان بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی نے اس بار گراں کو نہیں اٹھایا، ہماری ہستی ہمیشہ کی نیستی سے بہتر ہے۔\nہمیں یہ نیلگوں فضا راس نہیں ، اس بلندی سے تو دنیا کی پستی بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘No one can bear this heavy load for long. Far better were it never to have been.\nI do not like this azure space at all: That nether world presents a fairer scene.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خنک انسان کہ جانش بیقرار است\nسوار راہوار روزگار است\nقبای زندگی بر قامتش راست\nکہ او نو آفرین و تازہ کار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوش نصیب ہے وہ انسان جو بے قرار جان رکھتا ہے، زمانے کے رخش پر سوار ہے۔\nایسے ہی شخص کی قامت پر زندگی کی قبا موزوں ہے (وہ زندگی کا حق ادا کرتا ہے)، کیونکہ وہ نئی دریافتیں کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘How happy is man with his restless soul, so gaily riding on the steed of Time. \nLife is a garment tailor-made for him, because he is a maker of new things.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

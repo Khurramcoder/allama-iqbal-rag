@@ -1,0 +1,130 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تجھے یاد کیا نہیں ہے مرے دل کا وہ زمانہ \nوہ ادب گہ محبت، وہ نگہ کا تازیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have You forgotten then my heart of old, that college of Love, that whip that bright eyes hold?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ بتان عصر حاضر کہ بنے ہیں مدرسے میں \nنہ ادائے کافرانہ، نہ تراش آزرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The school-bred demi-goddesses of this age lack the carved grace of the old pagan mold!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہیں اس کھلی فضا میں کوئی گوشہء فراغت \nیہ جہاں عجب جہاں ہے، نہ قفس نہ آشیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is a strange world, neither cage nor nest, with no calm nook in all its spacious fold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رگ تاک منتظر ہے تری بارش کرم کی \nکہ عجم کے مے کدوں میں نہ رہی مے مغانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vine awaits Your bounteous rain: no more is the Magian wine in Persia’s taverns sold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مرے ہم صفیر اسے بھی اثر بہار سمجھے \nانھیں کیا خبر کہ کیا ہے یہ نوائے عاشقانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My comrades thought my song were of spring’s kindling: How should they know what in Love’s notes is told?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مرے خاک و خوں سے تونے یہ جہاں کیا ہے پیدا \nصلہ شہید کیا ہے، تب و تاب جاودانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تب و تاب جاودانہ: ہمیشہ رہنے والی چمک دمک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of my flesh and blood You made this earth; its quenchless fever the martyr’s crown of gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تری بندہ پروری سے مرے دن گزر رہے ہیں \nنہ گلہ ہے دوستوں کا، نہ شکایت زمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My days supported by Your alms, I do not complain against my friends, or the times scold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Victor Kiernan"
+}

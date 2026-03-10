@@ -1,0 +1,100 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل مردہ دل نہیں ہے،اسے زندہ کر دوبارہ \nکہ یہی ہے امتوں کے مرض کہن کا چارہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرض کہن کا چارہ: پرانی کا بیماری کا علاج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A heart devoid of love is dead; infuse fresh life in it again. It is the only cure for folk who suffer from some chronic pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترا بحر پر سکوں ہے، یہ سکوں ہے یا فسوں ہے؟ \nنہ نہنگ ہے، نہ طوفاں، نہ خرابی کنارہ!",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہنگ: مگر مچھ، مراد ہے خطرات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your sea is full of calm and rest, is it repose or magic art? No sharks and storms disturb your sea, intact its coast in every part.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو ضمیر آسماں سے ابھی آشنا نہیں ہے \nنہیں بے قرار کرتا تجھے غمزہ ستارہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are not intimate with laws that rule the spheres that spin around; the twinkling stars do not disturb the calm which in your heart is found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ترے نیستاں میں ڈالا مرے نغمہ سحر نے \nمری خاک پے سپر میں جو نہاں تھا اک شرارہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پے سپر: افسردہ، بجھی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dormant spark that buried lay in my extinguished clay since long has set afire your bed of reeds, assuming form of morning song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نظر آئے گا اسی کو یہ جہان دوش و فردا \nجسے آگئی میسر مری شوخی نظارہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man can only see in full the world of future and the past, who has the luck to be endowed with my glance so pert and fast.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

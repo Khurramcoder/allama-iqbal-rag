@@ -1,0 +1,102 @@
+{
+  "id": "44",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بتان تازہ تراشیدہ ئی دریغ از تو\nدرون خویش نگاہ دیدہ ئی دریغ از تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھ پر افسوس کہ تو نے نئے بت تراش لیے ہیں ، مگر (کان) دل کی کھودائی نہ کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you have carved new images, Alas! You have not dug into your inner self, Alas!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چنان گداختہ ئی از حرارت افرنگ\nز چشم خویش تراویدہ ئی دریغ از تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھ پر افسوس کہ تو فرنگ کے (افکار کی) حرارت سے اس طرح پگھل چکا ہے ، کہ خود اپنی نظر میں گر گیا ہے (احساس کمتری کا شکار ہو چکا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have been melted so by the heat of the West that you have dropped from your own eyes just like a tear. Alas!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ کوچہ ئی کہ دہد خاک را بہای بلند\nبہ نیم غمزہ نیرزیدہ ئی دریغ از تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھ پر افسوس کہ اس کوچہ (ء فرنگ) میں جو خاک کو بلند قیمت عطا کرتا ہے، تو نے نیم غمزہ قیمت بھی نہیں پائی (تو فرنگیوں کے بازار میں سستا ہی بک گیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In a street where mere common dust gains preciousness You did not prove that you were even worth an amorous half-glance. Alas!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرفتم اینکہ کتاب خرد فروخواندی\nحدیث شوق نفہمیدہ ئی دریغ از تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں مانتا ہوں کہ تو نے عقل کی ساری کتاب پڑھ لی ہے، مگر افسوس کہ تو نے محبت و شوق کی بات نہیں سمجھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I take it that you have read through the book of wisdom, but You have not understood the meaning of Love’s narrative. Alas!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "طواف کعبہ زدی گرد دیر گردیدی\nنگہ بہ خویش نپیچیدہ ئی دریغ از تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے کعبہ کا طواف بھی کیا ، دیر (بتخانہ) کے گرد بھی پھرا، مگر افسوس کہ تو نے اپنے آپ پر نگاہ نہ ڈالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You went around the Ka‘bah, and you went around the idol-house. But you did not engage your vision with yourself. Alas!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

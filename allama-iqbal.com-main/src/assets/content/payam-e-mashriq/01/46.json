@@ -1,0 +1,34 @@
+{
+  "id": "46",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد اندر سر ھر کس نہادند\nتنم چون دیگران از خاک و خون است\nولی این راز کس جز من نداند\nضمیر خاک و خونم بیچگون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر ایک سر میں خرد موجود ہے، میرا بدن بھی دوسروں کی مانند خاک و خون سے بنا ہے۔\nمگر یہ راز میرے سوائے اور کسی کو معلوم نہیں ، کہ میرے خاک و خون کی نہاد کسی اور جیسی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is an intellect in every man. My body is, like others’, clay and blood’ just mud. \nBut, no one knows this secret but myself: a subtle soul informs my mud.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

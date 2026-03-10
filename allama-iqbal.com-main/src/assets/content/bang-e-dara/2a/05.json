@@ -1,0 +1,136 @@
+{
+  "id": "05",
+  "name": "طلبہء علی گڑھ کالج کے نام",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اوروں کا ہے پیام اور، میرا پیام اور ہے\nعشق کے درد مند کا طرز کلام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اوروں: مراد ہے اہل دانش۔ \nپیام: مراد ہے عشق کا پیغام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The message of others is different, my message is different; the style of address of the one afflicted with Love is different.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "طائر زیر دام کے نالے تو سن چکے ہو تم\nیہ بھی سنو کہ نالہء طائر بام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "زیر دام: جال میں پھنسا پرندہ ؛ مراد ہے قیدی، غلام۔ طائر\nطائر بام: چھت پہ بیٹھا پرندہ ؛ مراد ہے آزاد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have heard the laments of the bird under the net; also listen to the laments of the bird on the roof tops which are different.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آتی تھی کوہ سے صدا راز حیات ہے سکوں\nکہتا تھا مور ناتواں لطف خرام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مور ناتواں: کمزور چیونٹی۔ \nلطف خرام: چلتے رہنے کا مزہ ۔ :",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Call was coming from the mount, ‘Life’s secret is peace’; the frail ant was saying ‘The pleasure of struggle is different’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جذب حرم سے ہے فروغ انجمن حجاز کا\nاس کا مقام اور ہے، اس کا نظام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرم: مراد ہے عشق رسول (صلعم)۔ جذب\nفروغ انجمن حجاز: ملت اسلامیہ کا تب و تاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The glory of Hijaz’ assemblage is based on Haram’s Love: The station of this is different, the system of that is different!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "موت ہے عیش جاوداں، ذوق طلب اگر نہ ہو\nگردش آدمی ہے اور، گردش جام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eternal luxury is death if there is no Longing for Search: Man’s revolving is different; wine-cup’s revolving is different.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شمع سحر یہ کہہ گئی سوز ہے زندگی کا ساز\nغم کدہء نمود میں شرط دوام اور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوز: مراد ہے عشق۔ \nکدہء نمود: مراد ہے یہ دنیا۔ غم",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dawn’s candle left the message that burning is life’s secret; in the life’s sorrowful abode the condition for eternity is different.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بادہ ہے نیم رس ابھی، شوق ہے نارسا ابھی\nرہنے دو خم کے سر پہ تم خشت کلیسیا ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نارسا: نا پختہ۔ \nخم: شراب کا مٹکا۔ \nخشت: اینٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wine is still half-mature, Love is unsuccessful still: Leave the church’s brick on the pitcher’s mouth still.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Address To The Students Of Aligarh College",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

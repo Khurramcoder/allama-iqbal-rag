@@ -1,0 +1,547 @@
+{
+  "id": "12",
+  "name": "حکایت حضرت سید مخدوم علی ھجویری",
+  "name-en": "The Tale of Hazrat Syed Makhdoom Ali Hujwiri",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "حکایت نوجوانی از مرو کہ پیش حضرت سید مخدوم علی ھجویری رحمة اﷲ علیہ آمدہ از ستم اعدا فریاد کرد",
+      "name-en": "The tale of a young man from Merv who came to Hazrat Syed Makhdoom Ali Hujwiri (may Allah's mercy be upon him) and cried out for help against the oppression of his enemies.",
+      "name-ur": "مرو کے ایک نوجوان کی حکایت جس نے سید علی ہحویری (رحمتہ اللہ) کی خدمت میں حاضر ہو کر اپنے دشمنوں کے ظلم کی فریاد کی۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سید ہجویر مخدوم امم\nمرقد او پیر سنجر را حرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "سید علی ہحویری (رحمتہ اللہ) جو قوموں کے مخدوم ہیں ، جن کا مرقد خواجہ معین الدین چشتی (رحمتہ اللہ) کے لیے حرم کی مانند ہے (انہوں نے یہاں چلہ کشی کی تھی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The saint of Hajwir was venerated by the peoples; and Pir-i-Sanjar visited his tomb as a pilgrim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بند ہای کوہسار آسان گسیخت\nدر زمین ہند تخم سجدہ ریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو پہاڑوں کی رکاوٹیں آسانی سے توڑ کر ہند میں پہنچے اور یہاں کی سرزمین میں سجدے کا بیج بویا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With ease he broke down the mountain barriers; and sowed the seed of Islam in India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عہد فاروق از جمالش تازہ شد\nحق ز حرف او بلند آوازہ شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی روحانیت سے یہاں (اسلام پھیلا) اور فاروق اعظم (رضی آلّہ) کا عہد تازہ ہو گیا؛ ان کی تبلیغ سے دین حق کا بول بالا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The age of Omar was restored by his godliness; the fame of the Truth was exalted by his words,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پاسبان عزت ام الکتاب\nاز نگاہش خانہ ی باطل خراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ قرآن پاک کی عزت کے نگہبان تھے؛ آپ کی نگاہ سے ہند کے اندر باطل کی بربادی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was a guardian of the honour of the Koran. The house of Falsehood fell in ruins at his gaze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خاک پنجاب از دم او زندہ گشت\nصبح ما از مہر او تابندہ گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "پنجاب کی سرزمین ان کے دم قدم سے زندہ ہو گئی؛ ان کے آفتاب نے ہماری صبح روشن کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dust of the Punjab was brought to life by his breath; our dawn was made splendid by his sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عاشق و ھم قاصد طیار عشق\nاز جبینش آشکار اسرار عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خود عشق میں سرشار تھے اور عشق کے تیز رفتار پیامبر بھی تھے؛ ان کی روشن پیشانی سے عشق کے بھید آشکار ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was a lover, and withal, a courier of Love: The secrets of Love shone forth from his brow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "داستانے از کمالش سر کنم\nگلشنی در غنچہ ئی مضمر کنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ کے کمال کی ایک داستان بیان کرتا ہوں؛ میری یہ کوشش غنچے کے اندر پورا باغ سمیٹنے کے مترادف ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will tell a story of his perfection; and enclose a whole rose-bed in a single bud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نوجوانی قامتش بالا چو سرو\nوارد لاہور شد از شہر مرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہر مرو (ترکستان) سے ایک نوجوان جو سرو کی مانند بلند قامت تھا لاہور آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A young man, cypress-tall, came from the town of Merv to Lahore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "رفت پیش سید والا جناب\nتا رباید ظلمتش را آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بلند مرتبت سید ہجویری (رحمتہ اللہ) کی خدمت میں حاضر ہوا تاکہ ان کا آفتاب اس کے (دل میں) تاریکی کو دور کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He went to see the venerable saint; that the sun might dispel his darkness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گفت\"محصور صف اعداستم\nدرمیان سنگہا میناستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کہنے لگا میں دشمنوں کی صفوں میں گھرا ہوا ہوں؛ میری مثال وہی ہے جو پتھر وں کے درمیان مینا کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I am hammed in’, he said, ‘by foes; I am as a glass in the midst of stones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "با من آموز اے شہ گردون مکان\nزندگی کردن میان دشمنان\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے بلندی میں آسمان کا رتبہ رکھنے والے سید؛ مجھے دشمنوں کے درمیان زندگی بسر کرنے کا طریقہ سیکھائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do thou teach me, O sire of heavenly rank; How to lead my life amongst enemies!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "پیر دانائی کہ در ذاتش جمال\nبستہ پیمان محبت با جلال",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ پیر دانا جس کی ذات میں جمال نے جلال کے ساتھ پیمان محبت باندھ رکھا تھا (یعنی جمال و جلال یکجا تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wise Director, in whose nature Love had allied beauty with majesty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گفت\"اے نامحرم از راز حیات\nغافل از انجام و آغاز حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے فرمایا! اے راز حیات سے ناواقف نوجوان تو زندگی کے انجام اور آغاز سے غافل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Answered: ‘Thou art unread in Life's lore; careless of its end and its beginning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "فارغ از اندیشہ ی اغیار شو\nقوت خوابیدہ ئی بیدار شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو دشمنوں کا خوف اپنے دل سے نکال دے؛ تیرے اندر ایک قوّت خوابیدہ موجود ہے، اسے بیدار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be without fear of others! Thou art a sleeping force: awake!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "سنگ چون بر خود گمان شیشہ کرد\nشیشہ گردید و شکستن پیشہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب پتھر اپنے آپ کو شیشہ سمجھنے لگتا ہے تو وہ شیشہ ہی بن جاتا ہے اور شیشے کی طرح ٹوٹنے لگتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the stone thought itself to be glass; it became glass and got into the way of breaking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ناتوان خود را اگر رہرو شمرد\nنقد جان خویش با رہزن سپرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب مسافر اپنے آپ کو کمزور سمجھتا ہے تو وہ اپنی جان کی نقدی بھی راہزن کے سپرد کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the traveller thinks himself weak; he delivers his soul unto the brigand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "تا کجا خود را شماری ماء و طین\nاز گل خود شعلہ ی طور آفرین",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنے آپ کو کب تک پانی اور مٹی (کا پتلا) سمجھتا رہے گا؛ تجھے چاہیے کہ اپنے اندر سے شعلہ ء طور پیدا کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long wilt thou regard thyself as water and clay? Create from thy clay a flaming Sinai!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "با عزیزان سرگران بودن چرا\nشکوہ سنج دشمنان بودن چرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "(دشمن تیرے عزیز ہیں ) اپنے عزیزوں سے ناراضگی کیوں؛ دشمنوں کی شکایت کرنے کا کیا فائدہ ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why be angry with mighty men? Why complain of enemies?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "راست می گویم عدو ہم یار تست\nہستی او رونق بازار تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سچ کہتا ہوں دشمن بھی تیرا دوست ہے؛ اسی کی وجہ سے (تیری زندگی) کے بازار میں رونق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will declare the truth: thine enemy is thy friend; his existence crowns thee with glory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ہر کہ دانای مقامات خودی است\nفضل حق داند اگر دشمن قوی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کوئی خود کے درجات سے واقف ہے؛ اگر اس کا دشمن قوی ہے تو وہ اسے اللہ تعالے کا فضل سمجھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whosoever knows the states of the self; considers a powerful enemy to be a blessing from God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "کشت انسان را عدو باشد سحاب\nممکناتش را برانگیزد ز خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "دشمن انسان کی کھیتی کے لیے بارش کی مثل ہے؛ کیونکہ وہ اس کے اندر کے خفیہ امکانات کو نیند سے بیدار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the seed of Man the enemy is as a rain-cloud: He awakens its potentialities.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "سنگ رہ آبست اگر ہمت قویست\nسیل را پست و بلند جادہ چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر انسان با ہمت ہو تو سارے راستے کی رکاوٹ پانی کی مانند بہہ جاتی ہے؛ جیسے سیلاب کے سامنے پستی اور بلندی کی کوئی حیثیت نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thy spirit be strong, the stones in thy way are as water: What wrecks the torrent of the ups and downs of the road?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "سنگ رہ گردد فسان تیغ عزم\nقطع منزل امتحان تیغ عزم",
+              "lang": "Original"
+            },
+            {
+              "_content": "عزم کی تلوار کے لیے سنگ راہ سان کا کام دیتا ہے ؛ منزل تک پہنچنا تیغ عزم کا امتحان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sword of resolution is whetted by the stones in the way; and put to proof by traversing stage after stage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "مثل حیوان خوردن، آسودن چسود\nگر بخود محکم نہ ئے بودن چسود",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیوان کی مانند کھانا اور آرام کرنا کیا معنی؛ اگر تو اپنے اندر پختہ نہیں تو زندگی کا کیا فائدہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the use of eating and sleeping like a beast? What is the use of being, unless thou have strength in thyself?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "خویش را چون از خودی محکم کنی\nتو اگر خواہی جہان برھم کنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تو خودی سے اپنے آپ کو مستحکم کر لے گا ؛ تو پھر اگر چاہے تو جہان کو بھی برہم کر سکے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When thou mak'st thyself strong with self; thou wilt destroy the world at thy pleasure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "گر فنا خواہی ز خود آزاد شو\nگر بقا خواہی بخود آباد شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھے مٹ جانا پسند ہے تو اپنی خودی سے بے تعلق ہو جا اور اگر زندگی چاہتا ہے تو اپنی خودی کی تعمیر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thou wouldst pass away, become free of self; if thou wouldst live, become full of self!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "چیست مردن از خودی غافل شدن\nتو چہ پنداری فراق جان و تن",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرنا کیا ہے؟ اپنی خودی سے غافل ہو جانا ؛ تو کیا جانے کہ جان اور بدن کا فرق کیا ہے؛ موت صرف فراق جان و تن کا نام نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is death? To become oblivious to self. Why imagine that it is the parting of soul and body?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "در خودی کن صورت یوسف، مقام\nاز اسیری تا شہنشاہی خرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "یوسف (علیہ) کی طرح خود شناس ہو؛ تاکہ تو اسیری سے شہنشاہی تک پہنچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Abide in self, like Joseph! Advance from captivity to empire!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "از خودی اندیش و مرد کار شو\nمرد حق شو حامل اسرار شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی سے آگاہ ہو کر باہمت بن جا ؛ مرد حق اور حامل اسرار ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think of self and be a man of action! Be a man of God, bear mysteries within!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "شرح راز از داستانہا می کنم\nغنچہ از زور نفس وا می کنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں حکایتوں کے ذریعے زندگی کے راز کی وضاحت کرتا ہوں ؛ اور اپنے کلام کے زور سے دوسروں کا غنچہ ء دل کھلاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will explain the matter by means of stories; I will open the bud by the power of my breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "\"خوشتر آن باشد کہ سر دلبران\nگفتہ آید در حدیث دیگران\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلبروں کا راز دوسروں کی کہانیوں میں بیان کیا جائے تو زیارہ دلربا ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "’Tis better that a lover's secret; should be told by the lips of others.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

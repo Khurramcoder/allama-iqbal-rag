@@ -1,0 +1,102 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صورت نپرستم من بتخانہ شکستم من\nآن سیل سبک سیرم ہر بند گسستم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں صورت کی پرستش نہیں کرتا، میں نے یہ بتخانہ مسمار کر دیا ہے؛ میں تیز رو سیلاب ہوں جس نے سارے بند توڑ دیے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I never worshipped forms; I broke the idol house. I am a rushing flood, which bursts all bounds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در بود و نبود من اندیشہ گمانہا داشت\nاز عشق ہویدا شد این نکتہ کہ ہستم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوچ اس گمان میں تھی کہ میں ہوں یا نہیں ہوں؛ عشق سے یہ نکتہ ظاہر ہوا کہ میں موجود ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "About my being or non-being thought was in doubt. But Love made manifest the fact that I exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در دیر نیاز من در کعبہ نماز من\nزنار بدوشم من تسبیح بدستم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی میں دیر میں عجز و نیاز اختیار کرتا ہوں اور کعبہ میں نماز پڑھتا ہوں؛ کبھی میرے کندھے پر زنّار ہوتا ہے اور کبھی میرے ہاتھ میں تسبیح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I worship in the idol-house, and I pray in the Ka‘bah, around my neck the sacred thread, and in my hand the rosary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سرمایہ درد تو غارت نتوان کردن\nاشکی کہ ز دل خیزد در دیدہ شکستم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے درد (محبت ) کے سرمائے کو ضائع نہیں کیا جا سکتا ؛ ول آنسو جو میرے دل سے اٹھا ہے اسے میں اپنی آنکھوں میں سمو لیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I dare not waste the wealth of grief you have bestowed on me. So I stem in my eyes the tears that well up from my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فرزانہ بہ گفتارم دیوانہ بہ کردارم\nاز بادہ شوق تو ہشیارم و مستم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں گفتگو میں فرزانہ ہوں اور کام کرتے وقت دیوانہ ہوں؛ آپ کے شوق (محبت) کی شراب نے مجھے بیک وقت ہوشیار اور مست بنا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wise in my words, I am mad in my deeds. Drunk with the wine of love for you, I am still fully sober.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

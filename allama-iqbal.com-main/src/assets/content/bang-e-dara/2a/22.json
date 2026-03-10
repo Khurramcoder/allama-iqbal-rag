@@ -1,0 +1,130 @@
+{
+  "id": "22",
+  "name": "فراق",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تلاش گوشہء عزلت میں پھر رہا ہوں میں\nیہاں پہاڑ کے دامن میں آ چھپا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am wandering in search of a secluded corner. I have taken refuge at this mountain's side.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شکستہ گیت میں چشموں کے دلبری ہے کمال\nدعائے طفلک گفتار آزما کی مثال",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Attraction of springs in their broken songs is excellent, like the infant's supplication, who is learning to speak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہے تخت لعل شفق پر جلوس اختر شام\nبہشت دیدہء بینا ہے حسن منظر شام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The evening stars are established on the throne of twilight's rubies: The spectacle of the evening's beauty is Paradise for the observant's eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سکوت شام جدائی ہوا بہانہ مجھے\nکسی کی یاد نے سکھلا دیا ترانہ مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silence of separation's evening was an excuse to me; someone's memory taught singing of this ode to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ کیفیت ہے مری جان ناشکیبا کی\nمری مثال ہے طفل صغیر تنہا کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the state of my impatient soul; I am like the small baby who is left alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اندھیری رات میں کرتا ہے وہ سرود آغاز\nصدا کو اپنی سمجھتا ہے غیر کی آواز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He starts the music in the darkness of the night. He considers his own voice as someone else's voice.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "یونہی میں دل کو پیام شکیب دیتا ہوں\nشب فراق کو گویا فریب دیتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this way I give message of patience to my heart; in other words I beguile the night of separation",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Separation",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

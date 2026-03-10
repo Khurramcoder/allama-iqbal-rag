@@ -1,0 +1,120 @@
+{
+  "id": "30",
+  "name": "اگر خواہی حیات اندر خطر زی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غزالی با غزالی درد دل گفت\nازین پس در حرم گیرم کنامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک غزال نے دوسرے غزال سے اپنا درد کہا؛ اب تو میں حرم میں گھر بنا لوں گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said one gazelle to another, ‘I will take shelter in the harem from now on:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بصحرا صید بندان در کمین اند\nبکام آہو ان صبحی نہ شامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صحرا میں شکاری صبح و شام کرنوں کی گھات میں رہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For there are hunters at large in the wild, and there is no peace here for a gazelle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "امان از فتنۂ صیاد خواھم\nدلی ز اندیشہ ہا آزاد خواھم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں شکاری کے فتنہ سے امان چاہتا ہوں کہ میرا دل اندیشہ سے آزاد رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From fear of hunters I want to be free. O how I long for some security.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رفیقش گفت اے یار خردمند\nاگر خواہی حیات اندر خطر زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے رفیق نے کہا، اس میرے عقلمند دوست ؛ اگر زندگی چاہتا ہے تو خطرات میں بسر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His friend replied, ‘Live dangerously, my wise friend, if it is life you truly seek.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دمادم خویشتن را بر فسان زن\nز تیغ پاک گوھر تیز تر زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر لحظہ اپنے آپ کو سان پر رگڑ؛ اور تیغ اصیل سے بھی زیادہ تیز بن کر زندہ رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like a sword of fine mettle hurl yourself upon the whetting-stone; stay sharp thereby.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خطر تاب و توان را امتحان است\nعیار ممکنات جسم و جان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خطرے ہی سے حوصلے اور قوّت کا امتحان ہوتا ہے، یہی بدن اور جان کے امکانات کا معیار ہے (خطرات ہی سے انسان کی ذہنی اور بدنی قوّتوں کا پتا چلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For danger brings out what is best in you: It is the touchstone of all that is true.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Live Dangerously",
+  "credits": "English Translation by: M Hadi Hussain"
+}

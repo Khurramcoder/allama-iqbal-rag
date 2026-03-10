@@ -1,0 +1,620 @@
+{
+  "id": "07",
+  "name": "سوال ششم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ جزو است آنکہ او از کل فزون است\nطریق جستن آن جزو چون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ 'جزو' کیا ہے جو کل (کائنات) سے بڑھ کر ہے؟ اور اس جزو کے پانے کا طریقہ کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is that part which is greater than its whole? What is the way to find that part?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی ز اندازہ ہای ما فزون است\nخودی زان کل کہ تو بینی فزون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی ہمارے اندازے سے بھی بڑھ کر ہے، اور اس کل سے بھی (جسے) تو دیکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ego is greater than what we imagine it to be; ego is greater than the whole which you see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز گردون بار بار افتد کہ خیزد\nبہ بحر روزگار افتد کہ خیزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہ آسمانی چیز ہے اور) آسمان سے بار بار گرتی ہے تا کہ اٹھے ، یہ زمانے کے سمندر میں گرتی ہے تاکہ ابھرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It falls from the heaven again and again to rise; it falls into the sea of the world to rise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جز او در زیر گردون خود نگر کیست؟\nبہ بی بالی چنان پرواز گر کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے نیچے اس کے علاوہ اور کون خود نگر ہے؟ پر و بال کے بغیر اس کی طرح اور کون بلند پرواز ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who else in the world is self-conscious? Who else can fly without wings?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ ظلمت ماندہ و نوری در آغوش\nبرون از جنت و حوری در آغوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ (بدن کی) ظلمت میں ہوتی ہوئی اپنی آغوش میں نور رکھتی ہے، یہ جنت سے باہر ہے، مگر حور اس کے پہلو میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It lies in darkness and yet has a light in its bosom, outside the paradise and yet has a houri in embrace!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ آن نطقی دل آویزی کہ دارد\nز قعر زندگی گوہر بر آرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل لبھانے والی قوت گویائی کے باعث ، یہ دریائے زندگی کی تہ سے موتی نکال لاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the charming wisdom that it possesses, it brings out pearls from the depth of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ضمیر زندگانی جاودانی است\nبچشم ظاہرش بینی زمانی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ضمیر حیات جاودانی ہے، اگرچہ ظاہر کی آنکھ سے دیکھا جائے تو یہ زمانی نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The impulse of life is eternal, but looked at from outside, it is bound by time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بہ تقدیرش مقام ہست و بود است\nنمود خویش و حفظ این نمود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مقام ہست و بود (دنیا) میں رکھا جانا اس کی تقدیر ہے، اسی سے اس کی نمود (صلاحیتوں کا اظہار) ہے اور پھر یہ اپنی نمود کی حفاظت بھی کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon its destiny depends the position of this universe, its manifestation and preservation of it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چہ میپرسی چہ گون است و چہ گون نیست\nکہ تقدیر از نھاد او برون نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کیا پوچھتا ہے کہ یہ کیسی ہے اور کیسی نہیں (خود اپنی تقدیر ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What do you ask about its nature? Destiny is not something separate from its nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چہ گویم از چگون و بی چگونش\nبرون مجبور و مختار اندرونش",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا ہے اور کیا نہیں ہے، میں اس کے بارے میں کیا کہوں؟ باہر سے یہ مجبور نظر آتی ہے مگر اندر سے مختار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What should I say about its character? Outwardly it is determined, inwardly it is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "چنین فرمودۂ سلطان بدر است\nکہ ایمان در میان جبر و قدر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جناب رسول اکرم (صلعم) کا یہی فرمان ہے کہ 'ایمان جبر و قدر کے درمیان ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such is the saying of the Lord of Badr, that faith lies between determinism and indeterminism.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تو ہر مخلوق را مجبور گوئی\nاسیر بند نزد و دور گوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ہر مخلوق کو مجبور کہتا ہے کیونکہ وہ نزد و دور (زمان و مکان ) کی اسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You call every creature to be determined, to be confined to the chains of ‘near’ and ‘far’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ولی جان از دم جان آفرین است\nبہ چندین جلوہ ہا خلوت نشین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر روح جو اللہ تعالے کی روح میں سے پھونکی ہوئی ہے، اور اپنے سارے مظاہر کے باوجود خلوت نشین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the soul is from the breath of the Creator, which lives in privacy with all its manifestations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ز جبر او حدیثی در میان نیست\nکہ جان بی فطرت آزاد جان نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مجبوری کا سوال ہی پیدا نہیں ہوتا، اگر روح اپنی فطرت کے لحاظ سے آزاد نہیں تو وہ روح ہی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Determinism with regard to it is out of question, for soul without freedom is not a soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شبیخون بر جہان کیف و کم زد\nز مجبوری بہ مختاری قدم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کم و بیش کے جہان (دنیا) پر شبخون مارا ، اور اس طرح مجبوری (بدن میں ہونے) کے باوجود مختاری کی طرف قدم بڑھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It lay in ambush on this world of quantitative measurements. From determinism it passed over to freedom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "چو از خود گرد مجبوری فشاند\nجہان خویش را چون ناقہ راند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس نے اپنے آپ سے مجبوری کی گرد جھٹک دی ، تو پھر جہان پر سوار ہو کر اسے ناقہ کی طرح چلایا۔ ( ایّام کا مرکب نہیں، راکب ہے قلندر۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it (ego) removes from itself the dust of determinism, it drives its world like a camel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "نگردد آسمان بی رخصت او\nنتابد اختری بی شفقت او",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ آسمان اس کی اجازت کے بغیر گھومتا ہے ، اور نہ ستارہ اس کی توجہ کے بغیر چمکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky does not revolve without its permission, nor do stars shine without its grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "کند بی پردہ روزی مضمرش را\nبچشم خویش بیند جوہرش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ زمانے کے پوشیدہ دن (آنے والے واقعات ) پر سے پردہ ہٹاتی ہے، اور اپنی نگاہ سے اس کے اندرون میں اتر جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day it reveals its hidden nature, and sees its essence with its own eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "قطار نوریان در رھگذار است\nپی دیدار او در انتظار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوری اس کے راستے میں قطار باندھے کھڑے ہوتے ہیں، اور اس کے دیدار کا انتظار کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rows of heavenly choir stand on either side of the road, waiting for a glimpse of its countenance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شراب افرشتہ از تاکش بگیرد\nعیار خویش از خاکش بگیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرشتہ اس کے تاکستان سے شراب حاصل کرتا ہے، اور اس کی خاک کو اپنے لیے معیار ٹھہراتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The angel gets wine from its vine; it gets significance from its earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "چہ پرسی از طریق جستجویش\nفرو آرد مقام ہای و ہویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس کے طریق جستجو کے بارے میں پوچھتا ہے، عشق و مستی کے مقام میں آ (تاکہ تو اسے معلوم کر سکے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ask about the way of its seeking; come down to the state of lamentation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "شب و روزی کہ داری بر ابد زن\nفغان صبحگاہی بر خرد زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے شب و روز کو ابد کے مقابلے میں لا، اور فغان صبح گاہی سے اپنی عقل کی تربیت کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Change your days and nights for eternity, change from intellect to the morning lamentation (intuition).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "خرد را از حواس آید متاعی\nفغان از عشق می گیرد شعاعی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد ہوس ظاہری سے سامان حاصل کرتی ہے، اور فغان عشق سے روشنی پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect has its source in senses, lamentation gets light from love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "خرد جز را فغان کل را بگیرد\nخرد میرد فغان ہرگز نمیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد 'جزو' کو اور عشق 'کل' کو گرفت میں لاتا ہے، خرد کو فنا ہے ، عشق کو ہرگز فنا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect grasps the part, lamentation the whole. Intellect dies but lamentation is immortal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "خرد بہر ابد ظرفے ندارد\nنفس چون سوزن ساعت شمارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد کا ظرف اتنا نہیں کہ ابد کو سمجھ سکے ، وہ گھڑی کی سوئی کی طرح وقت کے شمار میں رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect has no categories to comprehend eternity; it counts moments as the hands of the watch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تراشد روز ہا شب ہا سحر ہا\nنگیرد شعلہ و چیند شرر ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد دن، رات اور صبح تراشتی ہے، وہ شعلے کو نہیں پکڑتی ، شرر چنتی رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It contrives days and nights and mornings; it cannot catch the flames; therefore it takes on sparks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "فغان عاشقان انجام کاریست\nنہان در یکدم او روزگاریست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل عشق کا انجام کار فغاں ہے، فغاں کے ایک لمحے میں پورا زمانہ نہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lamentation of the lovers is the ultimate goal, in one moment of it lies hidden a world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خودی تا ممکناتش وا نماید\nگرہ از اندرون خود گشاید",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کا مقصد اپنی ممکنات کا اظہار کرنا اور اپنے اندر کی گرہ کھولنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the ego manifests its potentialities, it removes its inner knots and veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "از آن نوری کہ وا بیند نداری\nتو او را فانی و آنے شماری",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نور سے خودی دیکھتی ہے وہ تیرے پاس نہیں ہے ، یہی وجہ ہے کہ تو اسے فانی اور آنی (لمحاتی) سمجھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You do not have that light by which it sees. You look upon it as momentary and mortal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "از آن مرگی کہ میآید چہ باک است\nخودی چون پختہ شد از مرگ پاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آنے والی موت کا کیا ڈر ، خودی جب پختہ ہو جائے تو اسے موت کچھ نقصان نہیں پہنچا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why fear that death which comes from without? For when the ‘I’ ripens into a self it has no danger of dissolution.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "ز مرگ دیگری لرزد دل من\nدل من جان من آب و گل من",
+              "lang": "Original"
+            },
+            {
+              "_content": "(البتہ) میرا دل اس دوسری موت سے کانپتا ہے، دل ہی نہیں بلکہ جان اور بدن بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a more subtle inner death which makes me tremble!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "ز کار عشق و مستی برفتادن\nشرار خود بہ خاشاکی ندادن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہ موت ان پر وارد ہوتی ہے) جو عشق و مستی سے نا آشنا رہتے ہیں ، جو اپنے (خس و ) خاشاک میں خودی کا شرر نہیں ڈالتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This death is falling down from love’s frenzy, saving one’s spark and not giving it away freely to the heaps of chaff;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "بدست خود کفن بر خود بریدن\nبچشم خویش مرگ خویش دیدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ وہ لوگ ہیں جو اپنے ہاتھ سے اپنے اوپر کفن اوڑھ لیتے ہیں، اور موت کو آنکھوں سے دیکھتے ہوئے اس کا شکار ہوتے ہیں،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cutting one’s shroud with one’s own hands; seeing one’s death with one’s own eyes;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ترا این مرگ ہر دم در کمین است\nبترس از وی کہ مرگ ما ہمین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ موت ہر دم تیری گھات میں ہے، اس سے بچ کہ یہی اصل موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This death lies in ambush for thee! Fear it, for that is really our death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "کند گور تو اندر پیکر تو\nنکیر و منکر او در بر تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ موت بدن کے اندر تیری قبر کھودتی ہے، اس کے منکر نکیر تیرے پہلو میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It digs your grave in your body; its Munkar and Nakir are with it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 6",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

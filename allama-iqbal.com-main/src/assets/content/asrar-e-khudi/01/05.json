@@ -1,0 +1,428 @@
+{
+  "id": "05",
+  "name": "در بیان اینکہ خودی",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "در بیان اینکہ خودی از سوال ضعیف میگردد",
+      "name-en": "",
+      "name-ur": "اس بیان میں کہ سوال کرنے سے خودی میں کمزوری واقع ہوتی ہے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے فراہم کردہ از شیران خراج\nگشتہ ئی روبہ مزاج از احتیاج",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے (مسلمان ) کبھی تو جو شیروں سے خراج وصول کرتا تھا؛ اب حاجتمندی کے باعث تیری طبیعت لومڑی کی سی ہو گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O thou who hast gathered taxes from lions; thy need hath caused thee to become a fox in disposition.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خستگی ہای تو از ناداری است\nاصل درد تو ہمین بیماری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری آرزو کی باعث تیری ناداری ہے؛ تیری ساری تکلیف کی بنیاد یہی بیماری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy maladies are the result of indigence: This disease is the source of thy pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "می رباید رفعت از فکر بلند\nمی کشد شمع خیال ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناداری فکر بلند سے رفعت چھین لیتی ہے؛ اور اعلی افکار کی شمع کو گل کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is robbing thine high thoughts of their dignity and putting out the light of thy noble imagination.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از خم ہستی می گلفام گیر\nنقد خود از کیسہ ی ایام گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو غلامی کے خمخانہ سے مے رنگین لے؛ زمانے کی جیب سے اپنی نقدی نکال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Quaff rosy wine from the jar of existence! Snatch thy money from the purse of Time!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خود فرود آ از شتر مثل عمر\nالحذر از منت غیر الحذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضرت عمر (رضی اللہ ) کی طرح ( اپنا گرا ہوا کوڑا اٹھانے کے لیے) خود اونٹ سے نیچے اتر؛ دوسروں کا احسان اٹھانے سے بچ اور ضرور بچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Omar, come down from thy camel! Beware of incurring obligations, beware!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تابکے دریوزۂ منصب کنی\nصورت طفلان ز نے مرکب کنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو (حکم چلانے کے لیے) کب تک منصب کب بھیک مانگتا رہے گا؛ کب تک بچوں کی طرح سرکنڈے کا گھوڑا بنائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long wilt thou sue for office; And ride like children on a reed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فطرتی کو بر فلک بندد نظر\nپست می گردد ز احسان دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ فطرت بلند جو آسمان پر نظر رکھتی ہے دوسرے کے احسان سے پست ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nature that fixes its gaze on the sky; becomes debased by receiving benefits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از سوال، افلاس گردد خوار تر\nاز گدائے گدیہ گر نادار تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوال کرنے سے خودی کے اجزا بکھر جاتے ہیں ؛ اور خودی کا نخل سینا تجلّی سے محروم ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By asking, poverty is made more abject; by begging, the beggar is made poorer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "از سوال آشفتہ اجزای خودی\nبے تجلی نخل سینای خودے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوال سے مفلسی اور ذلیل ہو جاتی ہے؛ گدائی سے گداگر اور نادار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Asking disintegrates the self and deprives of illumination the Sinai bush of the self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مشت خاک خویش را از ہم مپاش\nمثل مہ رزق خود از پھلو تراش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی مشت خاک کو اور پراگندہ نہ کر ؛ چاند کی طرح اپنے پہلو سے اپنا رزق حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not scatter thy handful of dust; like the moon, scrape food from thine own side!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "گرچہ باشی تنگ روز و تنگ بخت\nدر رہ سیل بلا افکندہ رخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ تیری روزی تنگ ہو اور تیرا نصیبا یاور نہ ہو ؛ اور تو مصائب کے سیلاب کی منجدھار ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Albeit thou art poor and wretched and overwhelmed by affliction.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "رزق خویش از نعمت دیگر مجو\nموج آب از چشمہ ی خاور مجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر بھی تو دوسرے کی نعمت سے رزق کا جویا نہ ہو؛ چشمہء مشرق سے بھی موج آب کا جویا نہ ہو۔ (عین دریا میں حباب آسا نگوں پیمانہ کر)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek not thy daily bread from the bounty of another; seek not water from the fountain of the sun,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تا نباشی پیش پیغمبر خجل\nروز فردائی کہ باشد جان گسل",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تجھے کل ( قیامت کے دن) جو انتہائی کرب انگیز ہو گا؛ حضور (صلعم) کے سامنے شرمندگی نہ اٹھانی پڑے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lest thou be put to shame before the Prophet (S.A.W.) on the Day when every soul shall be stricken with fear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ماہ را روزے رسد از خوان مہر\nداغ بر دل دارد از احسان مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند سورج کے دسترخوان سے روزی پاتا ہے؛ اس لیے اس کے دل پر اس احسان کا داغ پڑا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon gets sustenance from the table of the sun and bears the brand of his bounty on her heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہمت از حق خواہ و با گردون ستیز\nآبروے ملت بیضا مریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "للہ تعالے سے توفیق مانگ اور حالات کا مقابلہ کر ؛ ( کسی کے سامنے ہاتھ پھیلا کر) ملت اسلامیہ کی آبرو زائل نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pray God for courage! Wrestle with Fortune! Do not sully the honour of the pure religion!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آنکہ خاشاک بتان از کعبہ رفت\nمرد کاسب را\"حبیب اللہ\" گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس ذات گرامی (صلعم) نے کعبہ کو بتوں کی خس و خاشاک سے پاک کیا اس کا ارشاد ہے کہ محنت کرنے والا اللہ تعالے کا دوست ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who swept the rubbish of idols out of the Ka‘ba said that God loves a man that earns his living.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "وای بر منت پذیر خوان غیر\nگردنش خم گشتہ ی احسان غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس ہے اس شخص پر جو دوسروں کے دسترخواں کا ا حسانمند ہے؛ جس کی گردن دوسروں کے احسان کے سامنے جھکی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to him that accepts bounty from another's table and lets his neck be bent with benefits!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "خویش را از برق لطف غیر سوخت\nبا پشیزی مایہ ی غیرت فروخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے آپ کو دوسروں کی مہربانی کی بجلی سے جلا لیا؛ اس نے ایک کوڑی کے بدلے غیرت کا قیمتی سرمایہ فروخت کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He hath consumed himself with the lightning of the favours bestowed on him. He hath sold his honour for a paltry coin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اے خنک آن تشنہ کاندر آفتاب\nمی نخواہد از خضر یک جام آب",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا خوب ہے وہ شخص جو کڑی دھوپ کے اندر پیاسا ہونے کے باوجود خضر (علیہ) سے بھی پانی کا طلبگار نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy the man who thirsting in the sun; does not crave of Khizr a cup of water!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تر جبین از خجلت سائل نشد\nشکل آدم ماند و مشت گل نشد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی پیشانی پر سوال کرنے کی شرمندگی سے پسینہ نہیں آتا؛ جو اپنی آدمیت برقرار رکھتا ہے، مٹھی بھر خاک کی طرح بے قرار نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His brow is not moist with the shame of beggary; he is a man still, not a piece of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "زیر گردون آن جوان ارجمند\nمی رود مثل صنوبر سر بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بلند بخت نوجوان آسمان کے نیچے صنوبر کی طرح سر اٹھا کر چلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That noble youth walks under heaven with his head erect like the pine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "در تہی دستی شود خود دار تر\nبخت او خوابیدہ، او بیدار تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر وہ خالی ہاتھ ہو تو وہ اور خود دار ہو جاتا ہے؛ اس کا نصیبا سو جائے تو وہ اور بیدار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are his hands empty? The more is he master of himself. Do his fortunes languish? The more alert is he.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "قلزم زنبیل سیل آتش است\nگر ز دست خود رسد شبنم، خوشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشکول اگر سمندر کی طرح بھرا ہوا ہو تو وہ آگ کا سیلاب ہے؛ اگر اپنی کوشش سے شبنم کے چند قطرے بھی کما لیے جائیں وہ بہتر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A whole ocean, if gained by begging is but a sea of fire; sweet is a little dew gathered by one's own hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "چون حباب از غیرت مردانہ باش\nہم بہ بحر اندر نگون پیمانہ باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبلے کی طرح مردانہ غیرت قائم رکھ؛ سمندر کے اندر بھی اپنے پیمانہ کو الٹائے رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be a man of honour, and like the bubble keep the cup inverted even in the midst of the sea!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Self Is Weakened By Asking",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

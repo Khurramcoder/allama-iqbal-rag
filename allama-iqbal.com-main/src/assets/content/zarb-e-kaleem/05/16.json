@@ -1,0 +1,116 @@
+{
+  "id": "16",
+  "name": "ابلیس کا فرمان اپنے سیاسی فرزندوں کے نام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لا کر برہمنوں کو سیاست کے پیچ میں \nزناریوں کو دیر کہن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دير کہن: پرانی عبادت گاہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Embroil the Brahmans in statesmanship's maze; make them discard their girdle, creed and ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ فاقہ کش کہ موت سے ڈرتا نہیں ذرا \nروح محمد اس کے بدن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mendicant whom death can't affright, take Mohammad's soul from his mould and expedite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فکر عرب کو دے کے فرنگی تخیلات \nاسلام کو حجاز و یمن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dye Arab thought in Frankish fancy's hue, from Hejaz and Yaman expel the Muslims true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "افغانیوں کی غیرت دیں کا ہے یہ علاج \nملا کو ان کے کوہ و دمن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Afghan's zeal for Faith You can assail by exiling Muslim priests from hill and dale.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اہل حرم سے ان کی روایات چھین لو \nآہو کو مرغزار ختن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغزار: سبزہ زار، چراگاہ۔ \nختن: وسطی ایشیا کا علاقہ جہاں کے مشک والے ہرن مشہور ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Snatch customs of those, who own Muslim creed, banish musk-yielding deer from Cathay's mead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اقبال کے نفس سے ہے لالے کی آگ تیز \nایسے غزل سرا کو چمن سے نکال دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My songs in Muslim hearts ignite a flame; turn out such singer from park for this blame. (Written in Shish Mehal, Bhopal)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Orders Of Satan To His Political Progeny",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "49",
+  "name": "تسلیم و رضا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر شاخ سے یہ نکتہ پیچیدہ ہے پیدا \nپودوں کو بھی احساس ہے پہنائے فضا کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The twigs and boughs this subtle point explain that sense of surrounding wide to plants is plain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ظلمت کدئہ خاک پہ شاکر نہیں رہتا \nہر لحظہ ہے دانے کو جنوں نشوونما کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seed is not content with dwelling dark; it has a craze to spire from earth like spark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فطرت کے تقاضوں پہ نہ کر راہ عمل بند \nمقصود ہے کچھ اور ہی تسلیم و رضا کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't bar the path to deeds for Nature's claims; submission to will of God has different aims.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جرات ہو نمو کی تو فضا تنگ نہیں ہے \nاے مرد خدا، ملک خدا تنگ نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If there is pluck for growth, the suburbs suffice; O man, the world is wide, if you are, wise.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Resignation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "11",
+  "name": "جاوید کے نام",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کے ساز میں ہے عمر جاوداں کا سراغ \nخودی کے سوز سے روشن ہیں امتوں کے چراغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation’s life is illumined by Selfhood; Selfhood is the pathway to everlasting life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ ایک بات کہ آدم ہے صاحب مقصود \nہزار گونہ فروغ و ہزار گونہ فراغ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This one thing that Adam is not without the purpose: A manifold life, a manifold leisure!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہوئی نہ زاغ میں پیدا بلند پروازی \nخراب کر گئی شاہیں بچے کو صحبت زاغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "arth-bound crows cannot aspire to the cagle’s flights, but they corrupt the eagle’s lofty, noble habits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حیا نہیں ہے زمانے کی آنکھ میں باقی \nخدا کرے کہ جوانی تری رہے بے داغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God make thee a virtuous, blameless youth; thou livest in an age deprived of decency.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ٹھہر سکا نہ کسی خانقاہ میں اقبال \nکہ ہے ظریف و خوش اندیشہ و شگفتہ دماغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal was not at ease in a monastery, for he is bright, and sprightly, and full of wit.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To Javaid",
+  "credits": "English Translation by: Naim Siddiqui"
+}

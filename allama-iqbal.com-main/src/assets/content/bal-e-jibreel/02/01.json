@@ -1,0 +1,436 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "ما از پے سنائی و عطار آمدیم",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سما سکتا نہیں پہنائے فطرت میں مرا سودا \nغلط تھا اے جنوں شاید ترا اندازہ صحرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All Nature’s vastness cannot contain you, oh my madness: vain, those wanderings to and fro in deserts!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی سے اس طلسم رنگ و بو کو توڑ سکتے ہیں \nیہی توحید تھی جس کو نہ تو سمجھا نہ میں سمجھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By selfhood only are the spells of sense broken, that power we did not know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگہ پیدا کر اے غافل تجلی عین فطرت ہے \nکہ اپنی موج سے بیگانہ رہ سکتا نہیں دریا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rub your eyes, sluggard! Light is Nature’s law, and not unknown to Ocean its waves flow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رقابت علم و عرفاں میں غلط بینی ہے منبر کی \nکہ وہ حلاج کی سولی کو سمجھا ہے رقیب اپنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "حلاج: دھونیا؛ جو شخص عام طور پر منصور کے نام سے معروف ہے، اس کا نام حسین بن منصور تھا؛ کیونکہ اس کا باپ روئی دھونکتا تھا اسی وجہ سے حلاج مشہور ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where reason and revelation war, faith errs to think the Mystic on his cross its foe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خدا کے پاک بندوں کو حکومت میں، غلامی میں \nزرہ کوئی اگر محفوظ رکھتی ہے تو استغنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "استغنا: بے نیازی، سیر چشمی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For God’s pure souls, in thralldom or on thrones, have one safe shield, his scorn of this world’s show.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہ کر تقلید اے جبریل میرے جذب و مستی کی \nتن آساں عرشیوں کو ذکر و تسبیح و طواف اولی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But do not, Gabriel, envy my rapture: better for Heaven’s dounce folk the prayer and the beads’ neat row!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بہت دیکھے ہیں میں نے مشرق و مغرب کے میخانے \nیہاں ساقی نہیں پیدا، وہاں بے ذوق ہے صہبا",
+              "lang": "Original"
+            },
+            {
+              "_content": "صہبا: شراب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen many a wine-shop East and West; but here no Saki, there in the grape no glow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نہ ایراں میں رہے باقی، نہ توراں میں رہے باقی \nوہ بندے فقر تھا جن کا ہلاک قیصر و کسری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Iran no more, in Tartary no more, those world-renouncers who could overthrow Great kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "یہی شیخ حرم ہے جو چرا کر بیچ کھاتا ہے \nگلیم بوذر و دلق اویس و چادر زہرا!",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلق: خرقہ۔\nگليم: گدڑی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Prophet’s heir filches and sells the blankets of the Prophet’s kin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "حضور حق میں اسرافیل نے میری شکایت کی \nیہ بندہ وقت سے پہلے قیامت کر نہ دے برپا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When to the Lord I was denounced for crying Doomsday; too soon, by that Archangel who must blow its trumpet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ندا آئی کہ آشوب قیامت سے یہ کیا کم ہے \n'گرفتہ چینیاں احرام و مکی خفتہ در بطحا'!",
+              "lang": "Original"
+            },
+            {
+              "_content": "(کعبہ سے ہزاروں میل دور رہنے والے) اہل چین تو (عمرہ و حج کے لیے) احرام باندھے ہوئے ہیں (جب کہ ) اہل مکہ سو رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God made answer: Is Doomsday far? ‘When Makkah sleeps while China worships?’ (Second part of the verse is of Hakim Sanai).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "لبالب شیشہ تہذیب حاضر ہے مے 'لا' سے \nمگر ساقی کے ہاتھوں میں نہیں پیمانہ 'الا'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the bowl of faith finds none to pour, the beaker of modern thought brims with the wine of No.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "دبا رکھا ہے اس کو زخمہ ور کی تیز دستی نے \nبہت نیچے سروں میں ہے ابھی یورپ کا واویلا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تيز دستي: مشاق و ہنرمند ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Subdued by the dexterous fiddler’s chords there murmurs: In the lowest string the wail of Europe’s woe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اسی دریا سے اٹھتی ہے وہ موج تند جولاں بھی \nنہنگوں کے نشیمن جس سے ہوتے ہیں تہ و بالا",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج تند جولاں: زور و شور سے اچھلنے والی لہر۔ \nنہنگ: مگر مچھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her waters that have bred the shark now breed the storm-wave that will smash its den below!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "غلامی کیا ہے ؟ ذوق حسن و زیبائی سے محرومی \nجسے زیبا کہیں آزاد بندے، ہے وہی زیبا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slavery! Exile from the love of beauty: Beauty! Whatever free men reckon so.\n\nIn November, 1933, Aala Hazrath Shaheed Ameer ul Momineen, Nadir Shah Ghazi granted the author permission to visit the shrine of Hakeem Sanai Ghaznavi. These verses were written in commemoration of the event, in imitation of a famous panegyric by the poet.\nThese verses were written in commemoration of the event, in imitation of a famous panegyric by the poet: ‘We are coming after Sina‘i and Attar.’\nWhile God was addressed in the previous section, the addressee here will be the humanity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بھروسا کر نہیں سکتے غلاموں کی بصیرت پر \nکہ دنیا میں فقط مردان حر کی آنکھ ہے بینا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Trust no slave’s eyes, clear sight and liberty go hand in hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "وہی ہے صاحب امروز جس نے اپنی ہمت سے \nزمانے کے سمندر سے نکالا گوہر فردا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His own resolves bestow the empire of Today on him who fishes tomorrow’s pearl up from Time’s undertow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "فرنگی شیشہ گر کے فن سے پتھر ہوگئے پانی \nمری اکسیر نے شیشے کو بخشی سختی خارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Frankish glassblowers’ arts can make stone run: My alchemy makes glass flint-hard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "رہے ہیں، اور ہیں فرعون میری گھات میں اب تک \nمگر کیا غم کہ میری آستیں میں ہے ید بیضا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pharaoh plotted and plots against me; but what harm? Heaven lifts my hand, like Moses’, white as snow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "وہ چنگاری خس و خاشاک سے کس طرح دب جائے \nجسے حق نے کیا ہو نیستاں کے واسطے پیدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth’s rubbish-heaps can never quell this spark God struck to light whole deserts, His flambeau!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "محبت خویشتن بینی، محبت خویشتن داری \nمحبت آستان قیصر و کسری سے بے پروا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love, self-beholding, self-sustaining, stands un-awed at the gates of Caesar or Khosro:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "عجب کیا رمہ و پرویں مرے نخچیر ہو جائیں \n'کہ برفتراک صاحب دولتے بستم سر خود را'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If moon or Pleiades fall my prey, what wonder! Myself bound fast to the Prophet’s saddle-bow!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "وہ دانائے سبل، ختم الرسل، مولائے کل جس نے \nغبار راہ کو بخشا فروغ وادی سینا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He: Guide, Last Envoy, Lord of All lent brightness of Sinai to our dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "نگاہ عشق و مستی میں وہی اول، وہی آخر \nوہی قرآں، وہی فرقاں، وہی یسیں، وہی طہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s eyes, not slow to kindle, hail him Alpha and Omega: Chapter, and Word, and Book.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "سنائی کے ادب سے میں نے غواصی نہ کی ورنہ \nابھی اس بحر میں باقی ہیں لاکھوں لولوئے لالا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I would not go pearl-diving there, for reverence of Sina‘i; but in these tides a million pearls still grow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui & V.G. Kiernan"
+}

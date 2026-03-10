@@ -1,0 +1,102 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیال من بہ تماشای آسمان بود است\nبدوش ماہ بہ آغوش کہکشان بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا تخیل سیر آسمان کے نظارے میں محو رہا ہے؛ کبھی وہ دوش ماہ پر پہنچا اور کبھی آغوش کہکشاں میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My mind awhile was gone about the heavens to pace, high on the back of the moon, fast in the stars’ embrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گمان مبر کہ ہمین خاکدان نشیمن ماست\nکہ ہر ستارہ جہان است یا جہان بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مت سمجھ کہ صرف یہ زمیں ہی ہمارا نشیمن ہے؛ ہر ستارہ جہان ہے یا جہان رہ چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think not we are enfurled within this globe of clay; each separate star’s a world, or was a world one day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ چشم مور فرومایہ آشکار آید\nہزار نکتہ کہ از چشم ما نہان بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "حقیر چیونٹی کی آنکھ پر ہزاروں ایسے نکتے منکشف ہیں جو ہماری آنکھوں سے اوجھل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lowly Emmet sees in vision clear and true a thousand mysteries which we lack sight to view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زمین بہ پشت خود الوند و بیستون دارد\nغبار ماست کہ بر دوش او گران بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین پہاڑوں کا بوجھ خوشی سے اٹھائے پھرتی ہے؛ مگر ہمارا یہ غبار اس کے کندھوں پر بہت گراں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth on her back doth bear a many mountain tall; we, for the dust we were lay heaviest of all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز داغ لالۂ خونین پیالہ می بینم\nکہ این گسستہ نفس صاحب فغان بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ ء خونیں پیالہ کے باغ سے میں اندازہ کرتا ہوں؛ کہ یہ خاموش زبان بھی کبھی صاحب فغاں رہ چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The panting tulip sighed; how deeply, well I know; her cup with blood is dyed, her heart’s a brand aglow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

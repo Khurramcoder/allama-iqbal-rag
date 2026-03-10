@@ -1,0 +1,152 @@
+{
+  "id": "33",
+  "name": "نوید صبح",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آتی ہے مشرق سے جب ہنگامہ در دامن سحر \nمنزل ہستی سے کر جاتی ہے خاموشی سفر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہنگامہ در دامن: دامن میں ہنگامہ لیے ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the dawn full of action arrives from the east; the silence marches off from the stage of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "محفل قدرت کا آخر ٹوٹ جاتا ہے سکوت \nدیتی ہے ہر چیز اپنی زندگانی کا ثبوت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The quietude of nature’s congregation ends at last; everything presents evidence of its life at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہچاتے ہیں پرندے پا کے پیغام حیات \nباندھتے ہیں پھول بھی گلشن میں احرام حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "احرام: وہ ان سلا لباس جو حاجی پہنتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The birds warble on getting the message of life in the garden flowers also put on the robe of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مسلم خوابیدہ اٹھ، ہنگامہ آرا تو بھی ہو \nوہ چمک اٹھا افق، گرم تقاضا تو بھی ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O sleeping Muslim get up! You also engaged in action be! Look, the horizon has brightened up, you also busy in urgent tasks be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وسعت عالم میں رہ پیما ہو مثل آفتاب \nدامن گردوں سے ناپیدا ہوں یہ داغ سحاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "سحاب: بادل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the universe’s expanse a traveler like the sun be; so that the sky not producing these spots of clouds be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کھینچ کر خنجر کرن کا، پھر ہو سرگرم ستیز \nپھر سکھا تاریکی باطل کو آداب گریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ستيز: لڑائی، جنگ۔ \nآداب گريز: بھاگنے کے طریقے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pulling the dagger of sun’s ray get busy again in the fight! Again teacher of escape’s rules to falsehood’s darkness be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو سراپا نور ہے، خوشتر ہے عریانی تجھے \nاور عریاں ہو کے لازم ہے خود افشانی تجھے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود افشاني: اپنے آپ کو چھڑکنا؛ مراد ہے جوہر نمایاں کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are head to foot Light; manifestation makes you happy and after being manifest spreading out is incumbent on you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہاں، نمایاں ہو کے برق دیدئہ خفاش ہو \nاے دل کون ومکاں کے راز مضمر! فاش ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "خفاش: چمگادڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yes! On being manifest become lightning to the bat’s eye! O hidden mystery of the heart of universe manifest be!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Good News Of The Dawn",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

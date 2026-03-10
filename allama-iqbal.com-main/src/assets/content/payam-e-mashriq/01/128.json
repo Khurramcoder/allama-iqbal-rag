@@ -1,0 +1,34 @@
+{
+  "id": "128",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو اے دل تا نشینی در کنارم\nز تشریف شہان خوشتر گلیمم\nدرون سینہ ام باشی پس از مرگ\nمن از دست تو در امید و بیمم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دل ! جب تک تو میرے پہلو میں ہے؛ میری گدڑی شاہوں کے لباس سے بہتر ہے۔ \nکیا تو مرنے کے بعد میرے سینے میں رہے گا؟ میں اس خیال سے امید و بیم میں ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heart, while thou sittest in the breast of me; better my rug, than sovereign dignity:\nWilt thou be in my bosom after death? Lo, all my hopes and fears are fixed on thee.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

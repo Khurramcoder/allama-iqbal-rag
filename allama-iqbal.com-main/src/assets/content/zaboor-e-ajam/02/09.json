@@ -1,0 +1,34 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد از ذوق نگہ گرم تماشا بود است\nاین کہ جویندہ و یابندۂ ہر موجود است\nجلوۂ پاک طلب از مہ و خورشید گذر\nزانکہ ہر جلوہ درین دیر نگہ آلود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد جو ہر موجود کی جستجو کرتی اور اسے پاتی رہی ہے، وہ ذوق نظر کی وجہ سے گرم تماشہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mind, that is ever questing, and finding, without resting, fired by the joy of viewing was vision still pursuing.\nSeek thou pure revelation past sun and moon’s low station, for all things here reported by vision are distorted.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

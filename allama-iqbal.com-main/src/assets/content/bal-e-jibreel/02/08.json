@@ -1,0 +1,115 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "کابل ميں لکھے گئے",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسلماں کے لہو میں ہے سلیقہ دل نوازی کا \nمروت حسن عالم گیر ہے مردان غازی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Muslims are born with a gift to charm, to persuade; brave men – they are endowed with a noble courtesy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شکایت ہے مجھے یا رب! خداوندان مکتب سے \nسبق شاہیں بچوں کو دے رہے ہیں خاکبازی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slaves of custom are all the schools of old; they teach the eaglet to grovel in the dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہت مدت کے نخچیروں کا انداز نگہ بدلا \nکہ میں نے فاش کر ڈالا طریقہ شاہبازی کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نخچير: شکار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These victims of the past have seen the dawn of hope, when I revealed to them the eagle’s ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قلندر جز دو حرف لاالہ کچھ بھی نہیں رکھتا \nفقیہ شہر قاروں ہے لغت ہائے حجازی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man of God knows but two words of faith; the scholar has tomes of knowledge old and new.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حدیث بادہ و مینا و جام آتی نہیں مجھ کو \nنہ کر خارا شگافوں سے تقاضا شیشہ سازی کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خارا شگاف: مراد ہے تلخ لہجہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "About wine and women I know not how to write; ask not a stone-breaker to work on glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کہاں سے تونے اے اقبال سیکھی ہے یہ درویشی \nکہ چرچا پادشاہوں میں ہے تیری بے نیازی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal! From where did you learn to be such a dervish: Even among the kings there is talk about your contentment!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "63",
+  "name": "لاوالا",
+  "name-en": "No and Yes",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فضائے نور میں کرتا نہ شاخ و برگ و بر پیدا \nسفر خاکی شبستاں سے نہ کر سکتا اگر دانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "برگ و بر: پتے اور پھل۔\nخاکي شبستاں: مٹی کا تاریک گھر یعنی زمین۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If seed had not upraised its head from dark and dismal earthly bed, in Space, lit by the rays of Sun, foliage and fruit would have never won.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہاد زندگی میں ابتدا 'لا'، انتہا 'الا' \nپیام موت ہے جب 'لا ہوا الا' سے بیگانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگي: اصل فطرت۔ نہاد",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Negation life is bent at start, at close avowal must be its part. It is death news if unaware, and God's existence won't declare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ ملت روح جس کی 'لا 'سے آگے بڑھ نہیں سکتی \nیقیں جانو، ہوا لبریز اس ملت کا پیمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though odd and strange the matter sounds, but who can't cross Negations's bounds must rest assured, his death is near, naught can save him from blight and sear.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

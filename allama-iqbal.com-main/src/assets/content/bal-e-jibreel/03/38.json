@@ -1,0 +1,33 @@
+{
+  "id": "38",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حکیمی، نامسلمانی خودی کی \nکلیمی، رمز پنہانی خودی کی \nتجھے گر فقر و شاہی کا بتا دوں \nغریبی میں نگہبانی خودی کی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Selfhood's apostate is the life of reason; its secret lies in communion with God.\nIf thou couldst guard it in thy poverty, thou art indeed a faqir greater than kings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

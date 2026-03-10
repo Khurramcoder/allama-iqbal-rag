@@ -1,0 +1,466 @@
+{
+  "id": "05",
+  "name": "تذکیر نبیۂ مریخ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "05",
+  "sectionName": "فلک مریخ",
+  "name-ur": "نبیہ مریخ کا وعظ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے زنان اے مادران اے خواہران\nزیستن تا کی مثال دلبران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے عورتو! اے ماؤں! اے بہنو! کب تک معشوقوں کی مانند زندگی بسر کرو گی؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Women! Mothers! Sisters! How long shall we live like fond darlings?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دلبری اندر جہان مظلومی است\nدلبری محکومی و محرومی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلبری جہان کے اندر مظلومی، محکومی اور محرومی (سے عبارت) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To be a darling here is to be a victim, to be a darling is to be dominated and deprived.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در دو گیسو شانہ گردانیم ما\nمرد را نخچیر خود دانیم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اپنے بالوں میں کنگھی کر کے انہیں دو گیسوؤں میں منقسم کرتی ہیں ؛ اور مرد کو اپنا شکار سمجھتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We idly comb out our tresses and think of men as our prey;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرد صیادی بہ نخچیری کند\nگرد تو گردد کہ زنجیری کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر مرد ہمارا شکار بن کر الٹا ہمیں شکار کرتا ہے؛ وہ ہمارے گرد اس لیے گھومتا ہے تاکہ تمہیں غلام بنا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But man is a hunter in the guise of a quarry and circles about you to lasso you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خود گدازیہای او مکر و فریب\nدرد و داغ و آرزو مکر و فریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی آہ ، گداز، درد، داغ خواہش سب مکر و فریب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His swooning ardours are but cunning and deceit, cunning and deceit his anguish and agony and yearning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گرچہ آن کافر حرم سازد ترا\nمبتلای درد و غم سازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ وہ کافر تجھے اپنا حرم بناتا ہے؛ مگر اس سے تجھے درد و غم میں مبتلا کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though that infidel makes a shrine of you, he causes you to suffer much anguish and grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہمبر او بودن آزار حیات\nوصل او زھر و فراق او نبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے دوستی کرنا زندگی کے لیے مصیبت ہے ، اس کا وصال زہر ہے اور اس سے دوری مصری کی ڈلی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To be his consort is a torment of life, union with him is poison, separation from him sugar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مار پیچان از خم و پیچش گریز\nزہرہایش را بخون خود مریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد مار پیچاں ہے اس کے خم و پیچ سے بچو؛ اس کے زہر کو اپنے خون میں سرایت نہ کرنے دو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A twisting serpent he – flee from his coils; do not pour his poisons into your blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "از امومت زرد روی مادران\nاے خنک آزادی بے شوہران",
+              "lang": "Original"
+            },
+            {
+              "_content": "ماں بننے سے ماں کا چہرہ زرد ہو جاتا ہے؛ شوہروں کے بغیر آزاد زندگی بسر کرنا کیا ہی خوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Maternity pales the cheeks of mothers; O happy, to be free and without husband!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "وحی یزدان پی بہ پی آید مرا\nلذت ایمان بیفزاید مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ پر ہر دم اللہ تعالے کی طرف سے وحی نازل ہوتی ہے؛ اور میرے ایمان کی لذت میں اضافہ کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The divine revelation comes to me continuously augmenting the delight I have in faith.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آمد آن وقتی کہ از اعجاز فن\nمی توان دیدن جنین اندر بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک ایسا وقت آنے والا ہے کہ سائنس کی ایجاد سے جنین کو رحم کے اندر دیکھا جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The time has come when by a miracle of science it is possible to see the foetus within the body;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "حاصلی برداری از کشت حیات\nہر چہ خواہی از بنین و از بنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تم کشت حیات سے اپنی مرضی کے مطابق بیٹے بیٹیاں حاصل کر سکو گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From life’s field you may gather a harvest of sons and daughters exactly as you choose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گر نباشد بر مراد ما جنین،\nبے محابا کشتن او عین دین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر جنین ہماری خواہش کے مطابق نہ ہو تو اسے بے دریغ ختم کر دینا دین کے عین مطابق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And if the foetus accords not with our desire it is the essence of religion ruthlessly to slay it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "در پس این عصر اعصار دگر\nآشکارا گردد اسرار دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اس دور کے بعد کئی اور دور آئیں گے جن میں نئے نئے اسرار ظاہر ہوں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "After this age other ages will come wherein new secrets shall be revealed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "پرورش گیرد جنین نوع دگر\nبے شب ارحام دریابد سحر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنین اور طریقے سے پرورش پائیں گے ؛ رحم کی رات کے بغیر سحر حاصل ہو گی (ٹسٹ ٹیوب بچے پیدا ہونگے )۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The foetus will take nourishment of another kind, without the night of the womb it will find the day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "تا بمیرد آن سراپا اہرمن\nہمچو حیوانات ایام کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ مرد جو سراپا اہرمن ہے دور قدیم کے حیوانات کی طرح ختم ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Finally that being utterly demonic will die even as died the creatures of the ancient days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "لالہ ہا بے داغ و با دامان پاک\nبے نیاز از شبنمی خیزد ز خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھو ناں ، لالہ ء بے داغ پاک دامن شبنم کے بغیر زمین سے اگتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulips without scar, with skirt unstained, not in need of dew, will rise from the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "خود بخود بیرون فتد اسرار زیست\nنغمہ بے مضراب بخشد تار زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کے اسرار خود بخود باہر آتے ہیں ؛ تار زیست سے بغیر مضراب کے نغمے پھوٹتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of their own accord the secrets of life will emerge, life’s string will yield melodies without a plectrum.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آنچہ از نیسان فرو ریزد مگیر\nاے صدف در زیر دریا تشنہ میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صدف تہ دریا تشنہ مر جا لیکن بارش سے گرنے والا قطرہ اپنے اندر نہ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oyster dying of thirst under the sea, do not accept the scatterings of April;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "خیز و با فطرت بیا اندر ستیز\nتا ز پیکار تو حر گردد کنیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور فطرت کے خلاف نبرد آزما ہو جا؛ تاکہ تیری جد و جہد سے کنیز غلامی سے آزاد ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise tip and wage war with nature; that by your battling the maiden may be freed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "رستن از ربط دو تن توحید زن\nحافظ خود باش و بر مردان متن",
+              "lang": "Original"
+            },
+            {
+              "_content": "عورت کی توحید یہی ہے کہ وہ دو بدنوں کے ربط سے آزاد ہو؛ تو اپنی حفاظت کر اور مردوں پر ناز نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woman’s unitarianism is to escape from the union of two bodies; be guardian of yourself, and tangle not with men!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "مذہب عصر نو آئینی نگر\nحاصل تہذیب لادینی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیا آئین رکھنے والے دور کا مذہب اور تہذیب لا دین کا حاصل دیکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "RUMI\nRegard the creed of this new-fangled age, regard the harvest of irreligious education.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "زندگی را شرع و آئین است عشق\nاصل تہذیب است دین، دین است عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق ہی زندگی کا شرع آئین ہے؛ تہذیب کی بنیاد دین ہے اور دین کی بنیاد عشق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is the law and ritual of life, religion the root of education; religion is love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "ظاہر او سوزناک و آتشین\nباطن او نور رب العالمین",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کا ظاہر ، سوزناک اور آتشیں ہے؛ مگر اس کا باطن رب ا لعالمین کا نور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love externally is ardent, fiery; inwardly it is the Light of the Lord of the Worlds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "از تب و تاب درونش علم و فن\nاز جنون ذوفنونش علم و فن",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی اندرونی تب و تاب جنون ذو فنون سے علم و فن پیدا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From its inward fever and glow, science and art derive science and art spring from its ingenious madness;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "دین نگردد پختہ بے آداب عشق\nدین بگیر از صحبت ارباب عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "آداب عشق کے بغیر دین پختہ نہیں ہوتا؛ اس لیے ارباب عشق کی صحبت سے دین حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Religion does not mature without Love’s schooling; learn religion from the company of the Lords of Love.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Admonition Of The Martian Prophetess"
+}

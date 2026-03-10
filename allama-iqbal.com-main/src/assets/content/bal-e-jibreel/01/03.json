@@ -1,0 +1,128 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گیسوئے تاب دار کو اور بھی تاب دار کر \nہوش و خرد شکار کر، قلب و نظر شکار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bright are Your flowing tresses—make them shine even more.\nEnsnare my reason, capture my heart, dazzle my eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق بھی ہو حجاب میں، حسن بھی ہو حجاب میں \nیا تو خود آشکار ہو یا مجھے آشکار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If love must hide and beauty must stay veiled—\nthen either unveil Yourself to me, or unveil me to myself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو ہے محیط بے کراں، میں ہوں ذرا سی آبجو \nیا مجھے ہمکنار کر یا مجھے بے کنار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the boundless ocean; I am but a small stream.\nEither draw me into You, or make me limitless too.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میں ہوں صدف تو تیرے ہاتھ میرے گہر کی آبرو \nمیں ہوں خزف تو تو مجھے گوہر شاہوار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I am a shell, in Your hands lies the honor of my pearl.\nIf I am but clay, turn me into a shining gem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نغمہء نو بہار اگر میرے نصیب میں نہ ہو \nاس دم نیم سوز کو طائرک بہار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If no song of spring is written in my fate,\nthen turn this half-burning soul into a bird of Your spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "باغ بہشت سے مجھے حکم سفر دیا تھا کیوں \nکار جہاں دراز ہے، اب مرا انتظار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why did You send me away from the Garden of Paradise?\nThe work of this world is vast—so now, wait for me!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "روز حساب جب مرا پیش ہو دفتر عمل \nآپ بھی شرمسار ہو، مجھ کو بھی شرمسار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the Day when my record of deeds is laid bare—\nlet me be ashamed, yes, but let even You feel shame with me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

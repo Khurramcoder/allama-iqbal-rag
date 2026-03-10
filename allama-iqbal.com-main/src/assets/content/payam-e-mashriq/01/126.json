@@ -1,0 +1,34 @@
+{
+  "id": "126",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر آگاہی از کیف و کم خویش\nیمی تعمیر کن از شبنم خویش\nدلا دریوزۂ مہتاب تا کی\nشب خود را برافروز از دم خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اپنی صلاحیتوں (احوال) سے آگاہی رکھتا ہے ، تو اپنی شبنم (ہی) کو سمندر میں تبدیل کر۔\nاے دل! مہتاب کی گداگری کب تک! اپنی رات کو اپنی آہ سے روشن کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you know your potentialities, then with the dew you are create vast seas. \nO heart, why beg the moon for alms of light? Let your own flaming breath light up your night.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

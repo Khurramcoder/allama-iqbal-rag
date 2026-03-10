@@ -1,0 +1,3 @@
+src/assets/content/**/*
+src/assets/index.json
+pnpm-lock.yaml

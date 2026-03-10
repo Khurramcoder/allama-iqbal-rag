@@ -1,0 +1,101 @@
+{
+  "id": "12",
+  "name": "گدائی",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مے کدے میں ایک دن اک رند زیرک نے کہا \nہے ہمارے شہر کا والی گدائے بے حیا",
+              "lang": "Original"
+            },
+            {
+              "_content": "رند زيرک: دانا شرابی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A witty man in a tavern spoke with a tongue untamed: ‘The ruler of our state is a beggar unashamed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاج پہنایا ہے کس کی بے کلاہی نے اسے \nکس کی عریانی نے بخشی ہے اسے زریں قبا",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے کلاہي: ننگے سر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How many go bare-headed to deck him with a crown? How many go naked to supply his golden gown?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس کے آب لالہ گوں کی خون دہقاں سے کشید \nتیرے میرے کھیت کی مٹی ہے اس کی کیمیا",
+              "lang": "Original"
+            },
+            {
+              "_content": "رنگیں مشروب، شراب۔ آب لالہ گوں:",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The blood of the poor turns into his red wine; and they starve so that he may in luxury dine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس کے نعمت خانے کی ہر چیز ہے مانگی ہوئی \nدینے والا کون ہے، مرد غریب و بے نوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The epicure’s table is loaded with delights, stolen from the needy, stripped of all their rights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مانگنے والا گدا ہے، صدقہ مانگے یا خراج \nکوئی مانے یا نہ مانے، میرو سلطاں سب گدا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a beggar who begs money, be it large or small, Kings with royal pomp and pride, in fact, are beggars all.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mendicancy",
+  "credits": "English Translation by: Naim Siddiqui"
+}

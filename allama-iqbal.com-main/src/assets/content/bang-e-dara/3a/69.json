@@ -1,0 +1,1467 @@
+{
+  "id": "69",
+  "name": "خضرراہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "شاعر",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ساحل دریا پہ میں اک رات تھا محو نظر \nگوشہ دل میں چھپائے اک جہان اضطراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poet: One night at the river-bank I was absorbed in contemplation with a world of restlessness concealed in the heart’s recesses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شب سکوت افزا، ہوا آسودہ، دریا نرم سیر\nتھی نظر حیراں کہ یہ دریا ہے یا تصویر آب",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکوت افزا: خاموشی کو بڑھانے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The night was tranquil, air calm, river gently flowing was; my eye was amazed whether the river or a picture of water it was!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جیسے گہوارے میں سو جاتا ہے طفل شیر خوار \nموج مضطر تھی کہیں گہرائیوں میں مست خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "گہوارا: پنگوڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the suckling baby falls asleep in the cradle; the restless wave had fallen asleep somewhere else!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رات کے افسوں سے طائر آشیانوں میں اسیر \nانجم کم ضو گرفتار طلسم ماہتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوں؛ طلسم: جادو۔\nانجم کم ضو: کم روشنی والے ستارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the spell of night the birds were confined in nests. The twinkling stars were caught in the moon’s spell!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دیکھتا کیا ہوں کہ وہ پیک جہاں پیما خضر \nجس کی پیری میں ہے مانند سحر رنگ شباب",
+              "lang": "Original"
+            },
+            {
+              "_content": "پيک جہاں پيما: دنیا کی سیر کرنے والا قاصد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suddenly I saw that the globe-trotting Khizar, whose old age contained youth’s colour like dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کہہ رہا ہے مجھ سے، اے جویائے اسرار ازل! \nچشم دل وا ہو تو ہے تقدیر عالم بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جويائے اسرار: راز کا متلاشی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Was saying to me: ‘O seeker of the eternal secrets, if the inner eye be open world’s destiny would be unveiled’!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دل میں یہ سن کر بپا ہنگامہ محشر ہوا \nمیں شہید جستجو تھا، یوں سخن گستر ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On hearing this; an uproaring tumult rose in my heart, being devoted to seeking the Truth I started talking thus:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے تری چشم جہاں بیں پر وہ طوفاں آشکار \nجن کے ہنگامے ابھی دریا میں سوتے ہیں خموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم جہاں بيں: دنیا کو دیکھنے والی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O you whose world-encompassing eye sees those storms, whose tumults are still sleeping quietly in the river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "'کشتی مسکین، و 'جان پاک' و 'دیوار یتیم، \nعلم موسی بھی ہے تیرے سامنے حیرت فروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشتي مسکين و جان پاک و ديوار يتيم: یہ تینوں تلمیہات ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘indigent’s boat’* the chaste soul*, the ‘orphan’s wall’,* even the knowledge of Mosa (A.S.) before you is in amazement.\n* All allusions to the Holy Qur’an.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چھوڑ کر آبادیاں رہتا ہے تو صحرا نورد \nزندگی تیری ہے بے روز و شب و فردا دوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leaving habitations you remain wandering in wilderness; no day and night, no yesterday and tomorrow is in your life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "زندگی کا راز کیا ہے، سلطنت کیا چیز ہے \nاور یہ سرمایہ و محنت میں ہے کیسا خروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the secret of life? What is imperialism? And what is this struggle between labour and capital?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہو رہا ہے ایشیا کا خرقہ دیرینہ چاک \nنوجواں اقوام نو دولت کے ہیں پیرایہ پوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ancient patched garment of Asia is being torn! The youth of parvenu nations are adorned with ornaments!\n(Allusion to the conditions after World War I in which the imperialist hold of Western countries over the rest of the world had become stronger and more secure than before the war. In India itself promises of gradual self rule were made during the war. However, on termination of the war and victory of the Allies Britain’s hold over India became tighter as is evidenced by the repressive legislation and suppressive actions of the British Government in the post-war period. In the Muslim countries the conditions were even worse.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گرچہ اسکندر رہا محروم آب زندگی \nفطرت اسکندری اب تک ہے گرم نائونوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرم نائونوش: کھانے پینے میں مصروف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Alexander remained deprived of eternity’s water; the nature of Alexander is busy still in merry-making!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بیچتا ہے ہاشمی ناموس دین مصطفی \nخاک و خوں میں مل رہا ہے ترکمان سخت کوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Holy Prophet’s progeny is selling his din’s honour and the struggling Turk is smeared in dust and blood *!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آگ ہے، اولاد ابراہیم ہے، نمرود ہے \nکیا کسی کو پھر کسی کا امتحاں مقصود ہے!",
+              "lang": "Original"
+            },
+            {
+              "_content": "اولاد ابراہيم: مراد ہے مسلمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is fire, there is Ibrahim’s progeny; there is Namrud! Does someone desire someone’s test again.* \n(Reference to the world-wide calamities for the Asian and African countries resulting from the victories of the Western countries to which reference has been made in pervious notes; of special concern to Allamah Iqbal was the plight of the Muslim world to which special reference is made in this verse.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب خضر صحرا نوردی ",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کیوں تعجب ہے مری صحرا نوردی پر تجھے \nیہ تگا پوئے دمادم زندگی کی ہے دلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "دمادم: مسلسل۔\nتگا پوئے: دوڑ دھوپ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The response of Khizar (wandering in deserts):\nWhy are you amazed at my wandering in the deserts? This incessant toil is demonstration of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اے رہین خانہ تو نے وہ سماں دیکھا نہیں \nگونجتی ہے جب فضائے دشت میں بانگ رحیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہين خانہ: خانہ نشین۔ \nبانگ رحيل: قافلے کے روانگی کی صدا دینے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the one confined to home, you have not seen that sight when the call for battle march resounds in the desert air!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ریت کے ٹیلے پہ وہ آہو کا بے پروا خرام \nوہ حضر بے برگ و ساماں، وہ سفر بے سنگ و میل",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضر: قیام، پڑاؤ۔\nآہو: ہرن۔ \nسنگ و ميل: راستہ کے نشان۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "وہ نمود اختر سیماب پا ہنگام صبح \nیا نمایاں بام گردوں سے جبین جبرئیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "نمود اختر سيماب پا: تیز رفتار ستارے کا نکلنا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That appearance of the fast-moving star at the dawn; or the forehead of Jibrail manifest from the sky!\n(This is a message of hope for the Muslim Ummah in the hour of their trial.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "وہ سکوت شام صحرا میں غروب آفتاب \nجس سے روشن تر ہوئی چشم جہاں بین خلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکوت شام صحرا: صحرا میں شام کے وقت کا سکون۔ \nچشم جہاں بين: دور رس نگاہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That setting of the sun in the silence of the desert air by which increased the insight of Khalil’s universe-envisaging eye!\n(Reference to the Holy Qur’an 6:75-79: This whole stanza emphasizes the evils of inaction and need for activism by Muslims. It also shows the value of studying the physical world as a means of understanding the Existence and nature of God, as is repeatedly emphasized by the Holy Qur’an. This verse is the climax of this message and shows how the world of stars, moon and sun led Ibrahim A.S. towards recognizing the Unity, Uniqueness and Superiority of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "اور وہ پانی کے چشمے پر مقام کارواں \nاہل ایماں جس طرح جنت میں گرد سلسبیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلسبيل: جنت کی ایک نہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And that halting of the caravan at the stream bank; as the believers’ gathering round the Salsabil!\n(Salsabil: This is a spring in the Paradise and the stream ensuing from it.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "تازہ ویرانے کی سودائے محبت کو تلاش \nاور آبادی میں تو زنجیری کشت و نخیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "زنجيري کشت و نخيل: کھیت اور باغات کے کاموں میں مصروف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ardent Love is in search of an ever new wild land and in city your effort is in farming and horticulture.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "پختہ تر ہے گردش پہیم سے جام زندگی \nہے یہی اے بے خبر راز دوام زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "گردش پہيم: مسلسل چلتے جانا۔ \nراز دوام زندگي: ہمیشہ کی زندگی کا راز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cup of life becomes more mature by revolving; O negligent one, this alone is the secret of life’s permanence!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "زندگی",
+      "Verse": [
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "برتر از اندیشہء سود و زیاں ہے زندگی \nہے کبھی جاں اور کبھی تسلیم جاں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "انديشہء سود و زياں: نفع و نقصان کا خوف۔ \nتسليم جاں: جان قربان کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life:\nMuch above the fear of profit and loss is life! Now the soul now the surrender of soul is life!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "تو اسے پیمانہ امروز و فردا سے نہ ناپ \nجاوداں پیہم دواں، ہر دم جواں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "امروز و فردا: آج اور کل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not measure it on the scale of today and tomorrow! Eternal, incessantly struggling, ever young is life!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "اپنی دنیا آپ پیدا کر اگر زندوں میں ہے \nسر آدم ہے، ضمیر کن فکاں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "سر آدم: انسان کی تخلیق کا راز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Create your own world if you claim to be among the living; the secret of Adam and the object of ‘Kun fikoon’* is life.\n(Reference to the Holy Qur’an 6:73 in which God describes the creation of the universe as His Will and Command. As the Holy Qur’an has repeatedly said the creation of the universe is purposeful. That purpose was the eventual creation of Man as the master-piece of His creation and Man’s subsequent perfection into ‘perfect man’ (Allamah Iqbal’s Mard-i-Kamil) in the personality of the Holy Prophet (S.A.W.). This is supported by a Hadith to the effect that ‘God would not have created the universe if He had not created me’. God also created the Holy Qur’an for the guidance of Man with which every person can be perfected…)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زندگانی کی حقیقت کوہکن کے دل سے پوچھ \nجوئے شیر و تیشہ و سنگ گراں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہکن: پہاڑ کھودنے والا، مراد ہے فرہاد۔\nجوئے شير: دودھ کی نہر۔\nسنگ گراں: بھاری پتھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask the mountain digger for the reality of life; the canal of milk, the axe, the heavy rock is life.* \n(Heavy rock: Reference to Farhad in the epic of love known as ‘Shirin O Farhad’. Farhad is known as ‘mountain digger’ because he successfully dug a canal through a mountain and filled it with milk in compliance with a requirement for getting the hand of Shirin, his beloved.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بندگی میں گھٹ کے رہ جاتی ہے اک جوئے کم آب \nاور آزادی میں بحر بے کراں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوئے کم آب: کم پانی والی ندی۔\nبندگي: غلامی۔\nبحر بے کراں: لا محدود سمندر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery it is choked to a mere trickling brook and in freedom like the boundless ocean is life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آشکارا ہے یہ اپنی قوت تسخیر سے \nگرچہ اک مٹی کے پیکر میں نہاں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوت تسخير: فتح کرنے کی طاقت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is manifested by its power of subduing; though concealed in a body of dust is life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "قلزم ہستی سے تو ابھرا ہے مانند حباب \nاس زیاں خانے میں تیرا امتحاں ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حباب: بلبلہ۔\nقلزم: سمندر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have emerged from the existence’ ocean like a bubble; in this losing battle your examination is life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "خام ہے جب تک تو ہے مٹی کا اک انبار تو \nپختہ ہو جائے تو ہے شمشیر بے زنہار تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "شمشير بے زنہار: پناہ نہ دینے والی تلوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While you are immature only a heap of dust you are; on attaining maturity a merciless sword you are!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "ہو صداقت کے لیے جس دل میں مرنے کی تڑپ \nپہلے اپنے پیکر خاکی میں جاں پیدا کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart which is restless for death in defense of Truth should first life in his own body must create.\n(This stanza is a description of the pre-requisites to be acquired by a person who is prepared to struggle in the cause of God and Islam.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "پھونک ڈالے یہ زمین و آسمان مستعار \nاور خاکستر سے آپ اپنا جہاں پیدا کرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاکستر: راکھ۔\nمستعار: مانگے ہوے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should burn down this borrowed universe and from the ashes his own universe should create.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "زندگی کی قوت پنہاں کو کر دے آشکار \nتا یہ چنگاری فروغ جاوداں پیدا کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should demonstrate the potential power of life; so that this spark may the eternal light create.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "خاک مشرق پر چمک جائے مثال آفتاب \nتا بدخشاں پھر وہی لعل گراں پیدا کرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "لعل گراں: قیمتی پتھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should shine like the sun over the lands of the East; so that Badakhshan the same invaluable rubies may again create!\n(Badakhshan: This is a region in the present day Afghanistan which is famous for rubies and other precious stones.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "سوئے گردوں نالہ شب گیر کا بھیجے سفیر \nرات کے تارں میں اپنے رازداں پیدا کرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نالہ شب گير: رات کو اپنے گھیرے میں لینے والی فریاد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should send heaven-ward the emissary of nightly wailing and in the night’s stars its confidantes should create.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "یہ گھڑی محشر کی ہے، تو عرصہء محشر میں ہے \nپیش کر غافل، عمل کوئی اگر دفتر میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "عرصہء محشر: محشر کا میدان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the hour of Judgment you in the Judgment’s field are O negligent one, present actions if some in your treasure are!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "سلطنت ",
+      "Verse": [
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "آبتائوں تجھ کو رمز آیہء 'ان الملوک' \nسلطنت اقوام غالب کی ہے اک جادوگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "قرآن کی سورہ نمل کی اس آیہ کی طرف اشارہ ہے جب بادشاہ کسی بستی میں داخل ہوتے ہی فساد برپا کر دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Imperialism:\nCome, I shall tell you the secret of the verse ‘Inn al-mulook’;* imperialism is an enchantment of the victorious nations. \n(This alludes to The Holy Qur’an 27:34 in which the Queen of Saba (Shiba), on receiving the letter of Sulaiman A.S. inviting her to accept Islam, addressed her courtiers thus: ‘Kings, when they enter a country despoil it, and make the noblest of its people its meanest. Thus do they behave’. This verse is a clear condemnation of imperialism in Islam.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "خواب سے بیدار ہوتا ہے ذرا محکوم اگر \nپھر سلا دیتی ہے اس کو حکمراں کی ساحری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساحري: جادوگری، مراد ہے دھوکہ بازی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the ruled from his stupor slightly wakes up; the ruler’s spell lulls him back to sleep again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "جادوئے محمود کی تاثیر سے چشم ایاز \nدیکھتی ہے حلقہء گردن میں ساز دلبری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the effect of the spell of Mahmood the eye of Ayaz, sees the accouterments of loveliness round his neck.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "خون اسرائیل آجاتا ہے آخر جوش میں \nتوڑ دیتا ہے کوئی موسی طلسم سامری",
+              "lang": "Original"
+            },
+            {
+              "_content": "طلسم سامري: سامری کا جادو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last the blood of Israel boils up with anger; the spell of Samiri is smashed up by some Musa.\n(The blood of Israel: This verse refers to the magic of the sorcerer Samiri. During the period between the prophethood of Musa A.S. and Isa A.S. the people of Israel were the inheritors of the vice-regency of God and they are treated like ‘Muslims’ in the Holy Qur’an. Samiri: This is an allusion to Holy Qur’an 20: 85, 95-97.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "سروری زیبا فقط اس ذات بے ہمتا کو ہے \nحکمراں ہے اک وہی، باقی بتان آزری",
+              "lang": "Original"
+            },
+            {
+              "_content": "سروري: سرداری۔ \nذات بے ہمتا: ایسی ذات جس کی کوئی مثال نہ ہو۔\nبتان آزري: آزر کے بنائے ہوئے بت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sovereignty befits only that Peerless Essence; only He is the sovereign, the rest are Azar’s idols.\n(Peerless Essence: Reference to God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "از غلامی فطرت آزاد را رسوا مکن \nتا تراشی خواجہ ے از برہمن کافر تری",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنی آزاد فطرت کو غلامی میں پھنسا کر ذلیل نہ کر ؛ اگر تو کسی کو آقا بنائے گا اور یہ بت تراشے گا تو تو سمجھ لے کہ تو برہمن سے بھی بڑا کافر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not disgrace your independent disposition with slavery; so that you do not mold yourself into the master who would be a worse infidel than the Brahman.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "ہے وہی ساز کہن مغرب کا جمہوری نظام\nجس کے پردوں میں نہیں غیر از نوائے قیصری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوائے قیصری : شہنشاہ کی صدا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Western democratic system is the same old orchestra in whose frets is nothing different from the Qaisar’s tune. \n(Qaiser’s tune: Reference to the imperialism of the Roman Empire which is famous for its atrocities.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "دیو استبداد جمہوری قبا میں پاے کوب \nتو سمجھتا ہے یہ آزادی کی ہے نیلم پری",
+              "lang": "Original"
+            },
+            {
+              "_content": "پاے کوب: نیچے والا ۔\nاستبداد: ظلم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The monster of despotism is treading in democracy’s robe; you consider it as the beautiful ferry of independence!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "مجلس آئین و اصلاح و رعایات و حقوق \nطب مغرب میں مزے میٹھے، اثر خواب آوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The legislative assembly, the reforms, the rights and concessions: In Western medicine the tastes are sweet, the effect is soporific!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "گرمی گفتار اعضائے مجالس، الاماں! \nیہ بھی اک سرمایہ داروں کی ہے جنگ زرگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اعضائے مجالس: قانون ساز اسمبلیوں کے ایوان۔ \nالاماں: خدا محفوظ رکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God protect us from the fervor of speeches of members of assemblies; this also is the capitalists’ sham quarreling to deceive the poor!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "اس سراب رنگ و بو کو گلستاں سمجھا ہے تو \nآہ اے ناداں! قفس کو آشیاں سمجھا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "سراب: دھوکہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have taken this apparent beauty’s mirage as a garden! Ah! O ignorant one! You have taken the cage to be the nest!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "سرمایہ ومحنت ",
+      "Verse": [
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "بندئہ مزدور کو جا کر مرا پیغام دے \nخضر کا پیغام کیا، ہے یہ پیام کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "پيام کائنات: کائنات کے دل کی آواز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sarmayah-O-Mehnat (Capital and Labour):\nGo and deliver my message to the labouring person: ‘Not only Khizar’s message, this is the universal message!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "اے کہ تجھ کو کھا گیا سرمایہ دار حیلہ گر \nشاخ آہو پر رہی صدیوں تلک تیری برات",
+              "lang": "Original"
+            },
+            {
+              "_content": "آہو: ہرن کا سینگ۔ شاخ\nبرات: حصّہ، مراد ہے رزق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O whom the fraudulent capitalist has destroyed! Your destiny has remained a fugitive for centuries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "دست دولت آفریں کو مزد یوں ملتی رہی \nاہل ثروت جیسے دیتے ہیں غریبوں کو زکات",
+              "lang": "Original"
+            },
+            {
+              "_content": "دولت آفريں: دولت پیدا کرنے والے ہاتھ۔ دست\nامیر لوگ۔ ثروت: اہل\nمزد: مزدور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wealth-creating hand had been paid wages as the rich pay charity to the poor!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "ساحر الموط نے تجھ کو دیا برگ حشیش \nاور تو اے بے خبر سمجھا اسے شاخ نبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "الموط: موط کا جادوگر ، مراد ہے سرمایہ دار ۔ ساحر\nبرگ حشيش: بھنگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The magician of Alamut gave you the hashish leaves and you, O negligent one, took it as a tuft of candy!\n(Magician of Alamut: Reference to the Hasan Bin Öabbat (d. 1138) who was a wizard of his age. He lived in Iran in the eleventh century C.E. He built a fort at Alamut, between Qazwain and Jilan. He furnished its interior with the state of the art furnishings and accouterment of comfort and luxury, including the most beautiful girls available. He designated this fort ‘Paradise’, and laid claims to prophet-hood. He had a body of followers who enticed unwary people in cities with administration of hemp and transported them to the Alamut Fort when they became intoxicated with hemp. On gaining consciousness they found themselves in strange surroundings which were the ultimate in luxury, including ‘houri’s’. When they thus became convinced of being in ‘paradise’ they accepted Hasan Bin Öabbat as their prophet. He had built formidable strength which the State could not subdue with mere force. He was a contemporary of Ghias al-Din Abu al-Faté Qamar Bin Ibrahim al-Khayyam, the famous ‘Umar Khayyam’: who was a mathematician, astronomer and poet (ca. 1050-1123). The latter ultimately subdued Hasan Bin Öabbat with better wisdom, based on righteousness instead of wizardry. Later this organization was destroyed by the Mongols about the middle of the 13th century.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "نسل، قومیت، کلیسا، سلطنت، تہذیب، رنگ \nخواجگی نے خوب چن چن کے بنائے مسکرات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسکرات: وہ چیزیں جو نشہ پیدا کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Race, nation, church, empire, civilization, colour: This assortment of intoxicants is made by ‘imperialism’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "کٹ مرا ناداں خیالی دیوتائوں کے لیے \nسکرکی لذت میں تو لٹوا گیا نقد حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکر: نشہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ignorant one gave up his life for mythical gods; you destroyed your life’s capital under intoxicants’ love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "مکر کی چالوں سے بازی لے گیا سرمایہ دار \nانتہائے سادگی سے کھا گیا مزدور مات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The capitalist has won with deceitful stratagems due to extreme naivete the laborer is checkmated.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "اٹھ کہ اب بزم جہاں کا اور ہی اندازہے \nمشرق و مغرب میں تیرے دور کا آغاز ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise, as the world’s assembly has adopted different ways; in the East and the West is the beginning of your age.\n(Allusion to the labour movements all over the world starting at that time: These movements are usually credited to communism and general awakening in the West. However, in reality they owe their origin to the awakening kindled by Islam and Muslim scholars in Spain and Iraq in the middle ages which brought about Reformation and Renaissance in Europe and which is an on-going movement of human liberation from the forces of undue domination.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "ہمت عالی تو دریا بھی نہیں کرتی قبول \nغنچہ ساں غافل ترے دامن میں شبنم کب تلک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those with elegant courage do not accept even the ocean O negligent one, how long would you hold dew in your skirt like the flower bud?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "نغمہ بیداری جمہور ہے سامان عیش \nقصہ خواب آور اسکندر و جم کب تلک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Music of masses’ renaissance is a means of pleasure; the soporific tale of Alexander and Jam how long?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "آفتاب تازہ پیدا بطن گیتی سے ہوا \nآسمان! ڈوبے ہوئے تاروں کا ماتم کب تلک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A new sun has arisen from the bowels of the earth O Sky! Mourning of stars which have set how long?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "توڑ ڈالیں فطرت انساں نے زنجیریں تمام \nدوری جنت سے روتی چشم آدم کب تلک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Human nature has broken down all the chains! Man’s eye would weep for the lost Paradise how long?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "باغبان چارہ فرما سے یہ کہتی ہے بہار \nزخم گل کے واسطے تدبیر مرہم کب تلک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spring says this to the helping gardener: You would apply ointment to the rose’ wounded heart how long?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "کرمک ناداں! طواف شمع سے آزاد ہو \nاپنی فطرت کے تجلی زار میں آباد ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کرمک ناداں: بھنورا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O simple fire-fly, be free of revolving round the candle and be living in the illuminated place of your own nature!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "دنیائے اسلام",
+      "Verse": [
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "کیا سناتا ہے مجھے ترک و عرب کی داستاں \nمجھ سے کچھ پنہاں نہیں اسلامیوں کا سوز و ساز",
+              "lang": "Original"
+            },
+            {
+              "_content": "پنہاں: چھپا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The World of Islam:\nWhy are you relating to me the story of Turks and Arabs! Nothing of the grief and joys of Muslims is hidden from me.*\n(This means that the whole history of the Muslim Ummah was known to Khizar A.S. It also refers to the history of secession of the Arab world from the fold of the Uthmaniya Khilafah and its aftermath.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "لے گئے تثلیث کے فرزند میراث خلیل \nخشت بنیاد کلیسا بن گئی خاک حجاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تثليث: مراد ہے عیسائی۔ \nميراث خليل: مراد ہے مسلمانوں کا ورثہ۔ \nخشت: اینٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sons of the Cross have taken away the heritage of Khalil; the soil of Hijaz has become the brick of the church’s foundation!\n(Reference to the upper hand of Christians in Islamic countries, particularly those with Muslim majorities and Muslim governments.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "ہوگئی رسوا زمانے میں کلاہ لالہ رنگ \nجو سراپا ناز تھے، ہیں آج مجبور نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کلاہ لالہ رنگ: سرخ ٹوپی، ترکی ٹوپی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The red cap* has become disgraced in the world! Those who were formerly proud are in need of others!\n* This refers to the Turkish cap which was red in colour and had a black frill. It was used as a national cap by Muslims in greater part of the world. It lasted till the beginning of World War II.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "لے رہا ہے مے فروشان فرنگستاں سے پارس \nوہ مےء سرکش حرارت جس کی ہے مینا گداز",
+              "lang": "Original"
+            },
+            {
+              "_content": "سرکش: تند و تیز۔ \nمينا گداز: صراحی کو پگھلا دینے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the wine sellers of Europe Iran is purchasing that strong wine by whose heat the decanter is melted.*\n(Reference to the inordinate Western influence in the politics and, still worse, in social life of the people in the Muslim world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "حکمت مغرب سے ملت کی یہ کیفیت ہوئی \nٹکڑے ٹکڑے جس طرح سونے کو کر دیتا ہے گاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "گاز: سونے کو کاٹنے کی قینچی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The politics of the West has reduced the nation such as gold is rendered to pieces by scissors.*\n(Reference to the division of the Muslim world into a large number of secular nation states after World War I. However, our misfortune is that, in spite of the efforts of `Allamah Iqbal and a large number of other reformers all over the Muslim world, the trend towards fragmentation of theUmmah is continuing un-abated.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "ہوگیا مانند آب ارزاں مسلماں کا لہو \nمضطرب ہے تو کہ تیرا دل نہیں دانائے راز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ارزاں: سستا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The blood of the Muslim has become cheap like water; you are restless as your heart is unaware of their fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "گفت رومی ہر بناے کہنہ کآباداں کنند \nمی ندانی اول آں بنیاد را ویراں کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا کہ ہر پرانی عمارت کو دوبارہ بنانے سے پہلے؛ کیا تو نہیں جانتا ، پہلے اس کو گرانا پڑتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said that every old building that is to be rebuilt! Do you not know that the building is first demolished?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "ملک ہاتھوں سے گیا ملت کی آنکھیں کھل گئیں \nحق ترا چشمے عطا کردست غافل در نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ نے تجھے آنکھیں عطا کی ہیں، غافل (آنکھیں کھول) اور دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The homeland has been lost; the nation has been jolted O negligent one, look deep as God has granted you insight!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "مومیائی کی گدائی سے تو بہتر ہے شکست \nمور بے پر! حاجتے پیش سلیمانے مبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Defeat is better than helplessly begging for momiyai O helpless ant! Do not take your requests to a Sulaiman.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "ربط و ضبط ملت بیضا ہے مشرق کی نجات \nایشیا والے ہیں اس نکتے سے اب تک بے خبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The salvation of the East is in organization of the Muslim nations; the people of Asia are still unaware of this mystery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "پھر سیاست چھوڑ کر داخل حصار دیں میں ہو \nملک و دولت ہے فقط حفظ حرم کا اک ثمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حصار ديں: مذہب کا قلعہ",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Relinquishing ‘politics’ enter the fort of din again; country and wealth is only a reward for Haram’s defense.\n(This verse does not teach Muslims to withdraw from politics. It preaches only refraining from God-less Western politics, on the vices of which he is very emphatic.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "ایک ہوں مسلم حرم کی پاسبانی کے لیے \nنیل کے ساحل سے لے کر تا بخاک کاشغر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslims should unite into one body for Haram’s defense from the banks of the Nile to the City of Kashghar!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "جو کرے گا امتیاز رنگ و خوں، مٹ جائے گا \nترک خرگاہی ہو یا اعرابی والا گہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرگاہي: خیمہ میں رہنے والا ترکی باشندہ۔ ترک\nاعرابي والا گہر: اعلی منصب عرب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoever would discriminate for colour and race would perish; whether he be the tent-dwelling Turk or the high ranking Arab!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "نسل اگر مسلم کی مذہب پر مقدم ہوگئی \nاڑ گیا دنیا سے تو مانند خاک رہ گزر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If race would become more important than din to the Muslim; he would be blown away from the world like the dust of the road!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "تا خلافت کی بنا دنیا میں ہو پھر استور \nلا کہیں سے ڈھونڈ کر اسلاف کا قلب و جگر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To establish the Khilafah’s foundations in the world again; the need is to bring from somewhere the ancestors’ mettle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "اے کہ نشناسی خفی را از جلی ہشیار باش \nاے گرفتار ابوبکر و علی ہشیار باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہوشیار ، اے وہ جو پوشیدہ اور ظاہر میں فرق نہیں پہچانتا! ہوشیار اے ابو بکر اور علی کی بڑائیاں بیان کرنے والے (شیعہ سنّی تفرقہ کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O You who do not distinguish between the tangible and the intangible, beware; O the captive of Abu Bakr and Ali, beware. \n(This is a stern warning to Muslims to refrain from Shi‘a-Sunni controversies and quarrels which are sapping the strength of the Muslim society and the Muslim world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "عشق کو فریاد لازم تھی سو وہ بھی ہو چکی \nاب ذرا دل تھام کر فریاد کی تاثیر دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاثير: اثر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Complaint was incumbent on Love and it has been lodged with a cool heart now watch the effect of the complaint!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "تو نے دیکھا سطوت رفتار دریا کا عروج \nموج مضطر کس طرح بنتی ہے اب زنجیر دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "دریا کی رفتار کی تیزی کی ہیبت۔ سطوت رفتار دريا:",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have witnessed the zenith of the majesty of the river’s flow; now watch how the restless wave becomes a chain in which it gets entangled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "عام حریت کا جو دیکھا تھا خواب اسلام نے \nاے مسلماں آج تو اس خواب کی تعبیر دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dream of universal freedom which was seen by Islam O Muslim, you should watch the interpretation of that dream today!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "اپنی خاکستر سمندر کو ہے سامان وجود \nمر کے پھر ہوتا ہے پیدا یہ جہان پیر، دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاکستر: راکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its own ashes are a means of existence to salamander; you should watch the resurrection of this world after death!\n(Salamander: This is a legendary animal which lives and flourishes in fire. This verse is a repetition of Allamah Iqbal’s message on Islam’s renaissance.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "Text": [
+            {
+              "_content": "کھول کر آنکھیں مرے آئینہء گفتار میں \nآنے والے دور کی دھندلی سی اک تصویر دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With open eyes in the mirror or my discourses; you should watch a faint image of the coming age.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "Text": [
+            {
+              "_content": "آزمودہ فتنہ ہے اک اور بھی گردوں کے پاس \nسامنے تقدیر کے رسوائی تدبیر دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky has one more tested trick preserved in its store; watch the disgrace of planning in face of destiny’s strength.\n(This is a message of hope to Muslims. It reminds us of the promise of God that Divine planning and Help will be with us if we are steadfast in our mission. There are many verses in the Holy Qur’an to this effect, e.g. 3:54 and 27:50.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "مسلم استی سینہ را از آرزو آباد دار \nہر زماں پیش نظر، 'لایخلف المیعاد' دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان ہونے کی حیثیت سے (اللہ کی رحمت سے مایوس نہ ہو اور) امید سے اپنا دل آباد رکھ؛ ہر وقت مد نظر رہے کہ اللہ تعالے اپنے وعدہ کے خلاف نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a Muslim keep your breast happy with Longing; every moment keep your eye on ‘La yukhlif-ul-Mi’ad’.*\n(Allusion to the Holy Qur’an 3:9 which ends in ‘God never fails in His promise’.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "name-en": "The Traveler’s Guide",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

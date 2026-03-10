@@ -1,0 +1,119 @@
+{
+  "id": "39",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شب من سحر نمودی کہ بہ طلعت آفتابی\nتو بہ طلعت آفتابی سزد اینکہ بی حجابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میری رات کو سحر سے آشنا کر دیا ہے؛ چونکہ آپ طلعت میں آفتاب کی مانند ہیں، اس لیے مناسب ہے کہ آپ بے حجاب نظر آئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou didst turn my night to dawning; O Thou sun of presence bright, like the sun Thou art in brightness, light unveiled, most worthy light!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو بدرد من رسیدی بضمیرم آرمیدی\nز نگاہ من رمیدی بہ چنین گران رکابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میرے درد کو پا لیا ہے اور میرے ضمیر میں آرام فرما ہوئے ہیں؛ باوجود آہستہ آہستہ آنے کے میری نگاہ سے گریز پا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Camest Thou to ease my sorrow, and within my thought didst rest, then didst vanish from my vision with so swift, impetuous haste.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو عیار کم عیاران تو قرار بیقراران\nتو دوای دل فگاران مگر اینکہ دیریابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کی وجہ سے بے قیمت لوگ گراں قدر ہو جاتے ہیں؛ آپ بے قراروں کا قرار اور دل فگاروں کی دوا ہیں، مگر ملتے ذرا دیر سے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou assay of the assayless, ease of the reposeless mind, cure of the afflicted spirit, save too rare Thou art to find!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غم و عشق و لذت او اثر دو گونہ دارد\nگہے سوز و دردمندی گہے مستی و خرابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے غم اور اس کی لذت کا اثر دو گنہ ہے؛ کبھی سوز و دردمندی کی صورت میں ظاہر ہوتا ہے اور کبھی مستی و خرابی کی صورت میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Passion’s sorrow, passion’s pleasure, two fold is love’s influence: Now an agony and burning, now the drunkard’s turbulence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز حکایت دل من تو بگو کہ خوب دانی\nدل من کجا کہ او را بکنار من نیابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل کی کہانی آپ سنائیں کیونکہ آپ اسے بہتر جانتے ہیں؛ مجھے بتائیں کہ میرا دل کہاں ہے؟ اسے اپنے پہلو میں تو نہیں پاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak me then, for true Thou knowest: Of my heart the history tell – where is now my heart in hiding? In my breast it doth not dwell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ جلال تو کہ در دل دگر آرزو ندارم\nبجز این دعا کہ بخشی بہ کبوتران عقابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے جلال کی قسم! میرے دل میں کوئی اور آرزو نہیں؛ سوائے اس کے کہ تو کبوتروں (اس دور کے مسلمانوں ) کو عقابی شان عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the majesty I swear it, no desire my spirit moves save the prayer: An eagle spirit, Lord, bestow upon Thy doves!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

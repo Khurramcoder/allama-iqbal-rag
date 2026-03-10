@@ -1,0 +1,34 @@
+{
+  "id": "125",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بخود نازم گدای بی نیازم\nتپم، سوزم، گدازم، نے نوازم\nترا از نغمہ در آتش نشاندم\nسکندر فطرتم، آئینہ سازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں گدائے بے نیاز ہوں مجھے اپنے آپ پر ناز ہے؛ تڑپنا، جلنا، گداز ہونا، نے نوازی کرنا (یہ میرا کام ہے)۔ \nمیں اپنے (آتشیں ) نغموں سے تجھے آگ میں ڈال دیتا ہوں؛ پھر تجھے آئینے میں تبدیل کرتا ہوں کیونکہ میں سکندر فطرت ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I boast, I am a beggar without need; I shake, I burn, I melt; I play my reed.\nMy melody has set thee all ablaze: Mirrors I make, being Alexander’s breed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

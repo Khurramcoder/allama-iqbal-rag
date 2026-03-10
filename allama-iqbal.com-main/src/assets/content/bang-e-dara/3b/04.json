@@ -1,0 +1,145 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پردہ چہرے سے اٹھا، انجمن آرائی کر \nچشم مہر و مہ و انجم کو تماشائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lift the veil from Thy Face and be manifest in the assembly; make the eyes of the sun, moon and stars Thy spectators.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو جو بجلی ہے تو یہ چشمک پنہاں کب تک \nبے حجابانہ مرے دل سے شناسائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art the lightning; how long this secret winking? Make acquaintance with my heart without a veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نفس گرم کی تاثیر ہے اعجاز حیات \nتیرے سینے میں اگر ہے تو مسیحائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The warm breath’s effect is the miracle of life; if it is on Thy breast perform life-giving miracles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کب تلک طور پہ دریوزہ گرمی مثل کلیم \nاپنی ہستی سے عیاں شعلہ سینائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long should begging be on the Toor like Kalim! Make the flame of Sinai manifest with Thy Existence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہو تری خاک کے ہر ذرے سے تعمیر حرم \nدل کو بیگانہ انداز کلیسائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the Haram be built with every speck of Thy dust. Make the heart alien to the ways of the Church.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس گلستاں میں نہیں حد سے گزرنا اچھا \nناز بھی کر تو بہ اندازئہ رعنائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not good to exceed limits in this garden; if Thou showeth elegance make its show with grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پہلے خوددار تو مانند سکندر ہو لے \nپھر جہاں میں ہوس شوکت دارائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "First become self-respecting like Alexander; then make the show of desire of Dara’s grandeur.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مل ہی جائے گی کبھی منزل لیلی اقبال! \nکوئی دن اور ابھی بادیہ پیمائی کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You will reach the destination of Lailah one day, O Iqbal! For some more days continue wandering in the wilderness.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بپایان چون رسد این عالم پیر\nشود بے پردہ ہر پوشیدہ تقدیر\nمکن رسوا حضور خواجہ مارا\nحساب من ز چشم او نہان گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدایا! (قیامت کے روز) جب یہ جہان پیر انجام کو پہنچے، اور ہر پوشیدہ تقدیر ظاہر ہو جائے۔ \nاس دن مجھے میرے آقا کے سامنے رسوا نہ کرنا، میرا حساب لینا ، مگر آپ (صلعم) کی نگاہ سے پوشیدہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the old world gets its apex of height,* then the fate unsheaths every secret might.\nDisgrace me not before my master hence: My! ‘Counts book’! Be hidden from Prophet (S.A.W.) thence.\n\n* It means that his doom is getting near. Line 2 also conveys the same thought.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدن واماندہ و جانم در تک و پوست\nسوی شہری کہ بطحا در رہ اوست\nتو باش اینجا و با خاصان بیامیز\nکہ من دارم ہوای منزل دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدن تھک چکا ہے، مگر جان ابھی تک اس شہر (مدینہ منورہ ) کی جانب رواں دواں ہے، بطحا (مکہ مکرمہ ) جس کی راہ میں ہے۔ \nآپ یہاں (حرم شریف میں) اپنے خاص بندوں سے صحبت رکھیں، میں تو اپنے محبوب (صلعم) کے شہر کی خواہش رکھتا ہوں۔ (حضور اکرم (صلعم) کا ارشاد ہے کہ خواص اللہ تعالے کے لیے ہیں اور عامی میرے لیے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My body is tired but soul still flies, to that city on way Batha lies.\nYou live here now and meet the fine; my object great is friend of mine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

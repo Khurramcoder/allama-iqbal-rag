@@ -1,0 +1,102 @@
+{
+  "id": "59",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے خدای مہر و مہ خاک پریشانی نگر\nذرہ ئی در خود فرو پیچد بیابانی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مہر و مہ کے مالک! (ہم انسانوں کی) خاک پریشان کی طرف بھی دیکھیے ؛ ذرا اس بیابان پر نظر ڈالیے ، اس کا ایک ایک ذرہ اپنے اندر پیچ و تاب کھا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lord, who didst bring the stars to birth, look down upon my scattered earth; the atom doth itself enfold; this boundless wilderness behold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حسن بی پایان درون سینۂ خلوت گرفت\nآفتاب خویش را زیر گریبانی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کا حسن بے پایاں ہمارے سینے میں جلوت گزیں ہے؛ اپنے آفتاب جمال کو ہمارے گریبان کے اندر ملاحظہ فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In solitude within my breast immortal beauty lies at rest; beneath this envelope of clay regard the sun’s effulgent ray.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بر دل آدم زدی عشق بلاانگیز را\nآتش خود را بہ آغوش نیستانی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے دل آدم کو عشق بلا انگیز عطا کیا: اب اس آگ کو آغوش نیستاں میں دکھائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tumultuous love Thou didst impart to this my frail and mortal heart; see now Thy conflagration roll among the rushes of my soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شوید از دامان ہستی داغہای کہنہ را\nسخت کوشیہای این آلودہ دامانی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم اپنے دامن ہستی سے پرانے گناہوں کے داغ دھو رہا ہے؛ ذرا اس آلودہ دامن کی محنت سخت کو نگاہ میں رکھئیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Clothed in the robes of old disgrace note how I labour to efface by hard endeavour every stain, and wash life’s garment white again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خاک ما خیزد کہ سازد آسمان دیگری\nذرہ ناچیز و تعمیر بیابانی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری خاک اٹھتی ہے کہ نیا آسمان تعمیر کرے؛ دیکھیے یہ ذرہء ناچیز تعمیر بیابان کا حوصلہ رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My dust ascending in the air seeks a new heaven to prepare; this atom, That is naught, and less, would populate a wilderness!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "16",
+  "name": "عشرت امروز",
+  "name-en": "The Delight of Today",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ مجھ سے کہہ کہ اجل ہے پیام عیش و سرور \nنہ کھینچ نقشہ کیفیت شراب طہور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You should not tell me, ‘Death is a message of luxury and pleasure’; You should not draw the picture of Sharab-i-Tuhoor's* ecstasy.\n(Sharab-i-Tuhoor: This is the holy beverage, or wine of Paradise which, according to the Holy Qur’an is free from the evils of the earthly wines – 47:15; 76:21; 78:35 and 83:25 28.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فراق حور میں ہو غم سے ہمکنار نہ تو \nپری کو شیشہ الفاظ میں اتار نہ تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not feel grieved by separation from the Houri; do not present the Houri in the mirror of words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مجھے فریفتہ ساقی جمیل نہ کر \nبیان حور نہ کر، ذکر سلسبیل نہ کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not make me fascinated by the beautiful cup bearer; do not describe the Houri, do not relate the Salsabil’s* story’\n* One of the streams of Paradise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مقام امن ہے جنت، مجھے کلام نہیں \nشباب کے لیے موزوں ترا پیام نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not doubt Paradise being the place of peace; your message is not proper for the life's prime!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شباب، آہ! کہاں تک امیدوار رہے \nوہ عیش، عیش نہیں، جس کا انتظار رہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! How long should youth linger in hope; joy is not joy for which you remain waiting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وہ حسن کیا جو محتاج چشم بینا ہو \nنمود کے لیے منت پذیر فردا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What worth is the beauty which is in need of the discerning eye; which is obligated for the tomorrow for its manifestation?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عجیب چیز ہے احساس زندگانی کا \nعقیدہ 'عشرت امروز' ہے جوانی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Strange is the feeling for life: ‘Today's joy’ is the belief of youth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

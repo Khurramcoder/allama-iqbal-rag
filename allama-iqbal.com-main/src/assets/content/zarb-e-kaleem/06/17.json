@@ -1,0 +1,99 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آگ اس کی پھونک دیتی ہے برنا و پیر کو \nلاکھوں میں ایک بھی ہو اگر صاحب یقیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "برنا و پیر: جوان اور بوڑھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'Mong Muslim men, if one on firm belief has hold, his glance can set afire all, whether young or old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوتا ہے کوہ و دشت میں پیدا کبھی کبھی \nوہ مرد جس کا فقر خزف کو کرے نگیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ و دشت: پہاڑ اور بیابان۔ \nخزف: ایسی سیپی جس میں موتی نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Off and on men are born in waste or mountain range, who by their dint of Faqr pot-sherd to bezel change.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو اپنی سرنوشت اب اپنے قلم سے لکھ \nخالی رکھی ہے خامہ حق نے تری جبیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You can build up your luck, if courage you can show: For God has written naught with His pen on your brow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ نیلگوں فضا جسے کہتے ہیں آسماں \nہمت ہو پرکشا تو حقیقت میں کچھ نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This azure vast expanse that goes by name of sky if one has wings for flight, in fact, is not so high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بالائے سر رہا تو ہے نام اس کا آسماں \nزیر پر آگیا تو یہی آسماں، زمیں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is sky if it is above your head; if it is under your wings, it becomes earth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

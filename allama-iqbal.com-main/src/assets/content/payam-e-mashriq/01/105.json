@@ -1,0 +1,33 @@
+{
+  "id": "105",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بمنزل رھرو دل در نسازد\nبہ آب و آتش و گل در نسازد\nنپنداری کہ در تن آرمید است\nکہ این دریا بہ ساحل در نسازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The roving heart likes not at borne to stay, to be contained in water, fire, and clay;\nThink not that in the body is repose, this rolling sea comes to no shore to play.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

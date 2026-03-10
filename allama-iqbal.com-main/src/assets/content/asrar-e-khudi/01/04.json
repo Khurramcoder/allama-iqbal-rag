@@ -1,0 +1,971 @@
+{
+  "id": "04",
+  "name": "در بیان اینکہ خودی",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "در بیان اینکہ خودی از عشق و محبت استحکام می پذیرد",
+      "name-en": "Showing that the self is strengthened by love.",
+      "name-ur": "اس بیان میں کہ خودی عشق و محبت سے مستحکم ہوتی ہے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نقطۂ نوری کہ نام او خودی است\nزیر خاک ما شرار زندگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نقطہ ء نور جس کا نام خودی ہے ؛ یہی ہمارے بدن میں زندگی کا شرر ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The luminous point whose name is the self; is the life-spark beneath our dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از محبت می شود پایندہ تر\nزندہ تر سوزندہ تر تابندہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ (اللہ تعالے کی) محبت ہی سے زیادہ زندہ ، زیادہ پائندہ اور زیادہ سوزندہ ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By Love it is made more lasting, more living, more burning, more glowing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "از محبت اشتعال جوہرش\nارتقای ممکنات مضمرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت ہی سے اس کا جوہر نکھرتا ہے اور محبت ہی سے اس کے اندر پوشیدہ صلاحیتوں کی نشو و نما ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Love proceeds the radiance of its being. And the development of its unknown possibilities.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فطرت او آتش اندوزد ز عشق\nعالم افروزی بیاموزد ز عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت عشق ہی سے حرارت حاصل کرتی ہے؛ اور عشق ہی سے دنیا کو جگمگا دینے کا طریقہ سیکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its nature gathers fire from Love; Love instructs it to illumine the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق را از تیغ و خنجر باک نیست\nاصل عشق از آب و باد و خاک نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کو تیغ و خنجر کا کوئی خطرہ نہیں کیونکہ اس کی اصل (عناصر) آب و باد و خاک سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love fears neither sword nor dagger, Love is not born of water and air and earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در جہان ہم صلح و ہم پیکار عشق\nآب حیوان تیغ جوہر دار عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی تیغ جوہر دار آب حیات ہے؛ اسی سے دنیا میں صلح و آشتی ہے اور اسی سے جنگ و جدل",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love makes peace and war in the world, Love is the Fountain of Life, Love is the flashing sword of Death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از نگاہ عشق خارا شق شود\nعشق حق آخر سراپا حق شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی نگاہ پتھر کو توڑ دیتی ہے؛ اللہ تعالے کا عشق انسان کو 'بندہ ء مولا صفات' بنا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hardest rocks are shivered by Love's glance: Love of God at last becomes wholly God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عاشقی آموز و محبوبی طلب\nچشم نوحی قلب ایوبی طلب",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشقی سیکھ اور اپنے لیے محبوب ڈھونڈ ؛ مگر اس کے لیے چشم نوح (علیہ) اور قلب ایوب (علیہ) چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn thou to love, and seek a beloved: Seek an eye like Noah's, a heart like Job's!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کیمیا پیدا کن از مشت گلی\nبوسہ زن بر آستان کاملی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی کامل کے آستان پر بوسہ زن ہو کر (اس سے وابستگی اختیار کر کے) اپنی مشت خاک کو کیمیا بنا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Transmute thy handful of earth into gold; kiss the threshold of a Perfect Man!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "شمع خود را ہمچو رومی بر فروز\nروم را در آتش تبریز سوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی شمع کو رومی (رحمتہ) کی مانند روشن کر اور رم کو تبریز کی آگ میں جلا دے (رم سے مراد مولانا رومی اور تبریز سے آپ کے مرشد شمس تبریز کی صرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Rumi, light the candle and burn Rum in the fire of Tabriz!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ہست معشوقی نہان اندر دلت\nچشم اگر دارے بیا بنمایمت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے دل کے اندر ایک محبوب نہاں ہے، اگر نگاہ رکھتا ہے تو آ میں تجھے دکھاؤں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a beloved hidden within thine heart: I will show him to thee, if thou hast eyes to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "عاشقان او ز خوبان خوب تر\nخوشتر و زیباتر و محبوب تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے محبت کرنے والے محبوبوں سے زیادہ حسین زیادہ خوش وضع، اور پیارے ہو جاتے ہیں ؛ اس سے محبت کرنے والے محبوب تر ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His lovers are fairer than the fair, sweeter and comelier and more beloved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "دل ز عشق او توانا می شود\nخاک ھمدوش ثریا می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کے عشق سے دل قوّت پاتا ہے اور خاکی انسان کا رتبہ ثریا جتنا بلند ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By love of Him the heart is made strong and earth rubs shoulders with the Pleiades.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خاک نجد از فیض او چالاک شد\nآمد اندر وجد و بر افلاک شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور نجد کی خاک نے آپ (صلعم) کے فیض سے بلند رتبہ پایا اور افلاک تک پہنچ گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soil of Najd was quickened by his grace and fell into a rapture and rose to the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "در دل مسلم مقام مصطفی است\nآبروی ما ز نام مصطفی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور (صلعم) کا مقام مسلمان کے دل میں ہے؛ حضور (صلعم) ہی کے نام سے ہماری آبرو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the Muslim's heart is the home of Muhammad. All our glory is from the name of Muhammad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "طور موجے از غبار خانہ اش\nکعبہ را بیت الحرم کاشانہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "طور آپ (صلعم) کے گھر کے غبار کی ایک موج ہے؛ آپ (صلعم) کا حجرہ مبارک کعبہ کے لیے بیت الحرم (حرمت والا گھر) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sinai is but an eddy of the dust of his house; his dwelling-place is a sanctuary to the Ka'aba itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "کمتر از آنی ز اوقاتش ابد\nکاسب افزایش از ذاتش ابد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابد آپ (صلعم) کے اوقات کے ایک لمحہ سے بھی کمتر ہے؛ (بلکہ ) ابد نے آپ (صلعم) کی ذات (صفات) سے اپنی ابدیت پائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eternity is less than a moment of his time. Eternity receives increase from his essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بوریا ممنون خواب راحتش\nتاج کسرے زیر پای امتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) خواب راحت کے حضور لیے بوریا کو ممنون فرماتے ؛ (دوسری طرف) آپ (صلعم) کی امت نے کسری کا تاج پاؤں تلے روند ڈالا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He slept on a mat of rushes, but the crown of Chosroes was under his people's feet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در شبستان حرا خلوت گزید\nقوم و آئین و حکومت آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے شبستان حرا میں خلوت اختیار کی؛ اور ( ایک نئی) ملت، نیا آئین اور (نئے انداز کی) حکومت وجود میں لائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He chose the nightly solitude of Mount Hira; and he founded a state and laws and government.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ماند شبہا چشم او محروم نوم\nتا بہ تخت خسروی خوابیدہ قوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے کئی راتیں بے خوابی میں گذار دیں ؛ تب کہیں جا کر آپ (صلعم) کی امت نے تخت خسروی پر آرام پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He passed many a night with sleepless eyes in order that the Muslims might sleep on the throne of Persia.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "وقت ہیجا تیغ او آہن گداز\nدیدہ ی او اشکبار اندر نماز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنگ کے دوران آپ (صلعم) کی تلوار لوہے کو باآسانی کاٹ کے رکھ دیتی؛ نماز کے دوران آنجناب (صلعم) کی آنکھوں سے آنسوؤں کی جھڑیاں لگ جاتیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the hour of battle, iron was melted by the fash of his sword; in the hour of prayer, tears fell like rain from his eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "در دعای نصرت آمین تیغ او\nقاطع نسل سلاطین تیغ او",
+              "lang": "Original"
+            },
+            {
+              "_content": "نصرت کی دعا کے ساتھ آمین کہتے ہی آپ (صلعم) اپنی تلوار میان سے باہر نکال لیتے (صرف دعا پر اکتفا نہ کرتے) (چنانچہ) آنجناب (صلعم) کی تلوار نے بادشاہوں کا سلسلہ ختم کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When he prayed for Divine help, his sword answered‚ Amen and extirpated the race of kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "در جھان آئین نو آغاز کرد\nمسند اقوام پیشین در نورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے دنیا میں نیا آئین رائج فرمایا؛ اقوام قدیم ایران و روما کی (بالادستی کی) مسندیں لپیٹ دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He instituted new laws in the world; he brought the empires of antiquity to an end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "از کلید دین در دنیا گشاد\nہمچو او بطن ام گیتی نزاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے دین کی کنجی سے دنیا کا دروازہ کھولا ؛ زمانہ کے بطن سے آپ (صلعم) جیسا کوئی اور پیدا نہ ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the key of religion he opened the door of this world: The womb of the world never bore his like.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "در نگاہ او یکے بالا و پست\nبا غلام خویش بر یک خوان نشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی نگاہ میں پست و بالا ایک درجہ رکھتے تھے (عزت کی بنیاد صرف تقوی تھا)؛ (چنانچہ) آپ (صلعم) اپنے غلام کے ساتھ ایک دسترخوان پر بیٹھ کر کھانا کھاتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his sight high and low were one; he sat with his slave at one table.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "در مصافی پیش آن گردون سریر\nدختر سردار طی آمد اسیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنگ کے دوران اس بلند مرتبت شخصیت (صلعم) کے سامنے حاتم طائی کی بیٹی قید ی بن کر پیش ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The daughter of the chieftain of Tai was taken prisoner in battle and brought into that exalted presence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "پاے در زنجیر و ہم بے پردہ بود\nگردن از شرم و حیا خم کردہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے پاؤں میں زنجیرتھی، وہ با پردہ لباس نہ ہونے کے باعث شرم و حیا سے گردن جھکائے تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her feet in chains, unveiled; and her neck bowed with shame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "دخترک را چون نبی بے پردہ دید\nچادر خود پیش روی او کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) نے جب اس لڑکی کو بے پردہ دیکھا ؛ تو اپنی چادر سے اس کا سر ڈھانپ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the Prophet saw that the poor girl had no veil; he covered her face with his own mantle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ما از آن خاتون طی عریان تریم\nپیش اقوام جہان بے چادریم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم (اس دور کے مسلمان ) قبیلہ طے کی اس خاتون سے زیادہ عریاں ہیں؛ اقوام دنیا کے سامنے ہم بھی (عزت و احترام کی) چادر کے بغیر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are more naked than that lady of Tai; we are unveiled before the nations of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "روز محشر اعتبار ماست او\nدر جہان ہم پردہ دار ماست او",
+              "lang": "Original"
+            },
+            {
+              "_content": "روز قیامت آپ (صلعم) ہی (کی شفاعت ) پر ہمارا بھروسہ ہے؛ اس دنیا میں بھی آپ (صلعم) ہی ہمارے عیب ڈھانپنے والے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In him is our trust on the Day of Judgment; and in this world too he is our protector.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "لطف و قہر او سراپا رحمتی\nآن بیاران این باعدا رحمتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کا لطف و قہر دونوں سراپا رحمت ہیں؛ لطف دوستوں کے لیے رحمت ہے اور قہر دشمنوں کے لیے (انہیں برائی اور گناہ سے بچاتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both his favour and his wrath are entirely a mercy: That is a mercy to his friends and this to his foes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "آن کہ بر اعدا در رحمت گشاد\nمکہ را پیغام\"لاتثریب\" داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے اپنے دشمنوں پر بھی رحمت کے دروازے کھول دیے (فتح مکہ کے بعد ) قریش کو یہ فرما کر کہ ' آج تم پر کوئی تعزیر نہیں' انہیں معاف فرما دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He opened the gate of mercy to his enemies; he gave to Makkah the message, ‘No penalty shall be laid upon you.‛",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "ما کہ از قید وطن بیگانہ ایم\nچون نگہ نور دو چشمیم و یکیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم مسلمان وطن کی (جغرافیائی) حد بندیوں سے آزاد ہیں؛ ہم نگاہ کی مانند ہیں، جو دو آنکھوں کے نور سے مرکب ہونے کے باوجود ایک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We who know not the bonds of country; resemble sight, which is one though it be the light of two eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "از حجاز و چین و ایرانیم ما\nشبنم یک صبح خندانیم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم حجاز ، چین اور ایران کے شہری تو ہیں؛ مگر ایک ہی صبح خنداں (حضور اکرم (صلعم) کی شبنم ہیں (شبنم سے پھولوں کو تازگی ملتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We belong to the Hijaz and China and Persia; yet we are the dew of one smiling dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مست چشم ساقی بطحاستیم\nدر جہان مثل می و میناستیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم ساقیء بطحا کی کیف چشم سے سرشار ہیں ؛ دنیا میں ہماری مثال مئے اور مینا کی سی ہے (جو تعلق مینا اور مئے کا ہے، یہی حضور اکرم (صلعم) اور امت مسلمہ کا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are all under the spell of the eye of the cup bearer from Makkah; we are united as wine and cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "امتیازات نسب را پاک سوخت\nآتش او این خس و خاشاک سوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) نے نسلی امتیازات (مفاد) کو یکسر جلا دیا؛ حضور آنجناب (صلعم) نے ان خس و خاشاک سے باغ دنیا کو پاک کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He burnt clean away distinctions of lineage; his fire consumed this trash and rubble.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "چون گل صد برگ ما را بو یکیست\nاوست جان این نظام و او یکیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل صد برگ کی مانند ہماری خوشبو ایک ہی ہے؛ نظام اسلام کی جان حضور اکرم (صلعم) اور آپ (صلعم) ایک ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are like a rose with many petals but with one perfume: He is the soul of this society, and he is one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "سر مکنون دل او ما بدیم\nنعرۂ بے باکانہ زد افشا شدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم (امت مسلمہ ) حضور (صلعم) کے قلب میں پوشیدہ راز تھے؛ آنجناب (صلعم) نے نعرہ ء بیباکانہ (لا الہ الالہ) بلند فرمایا اور ہم ظاہر ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are the secret concealed in his heart: He spake out fearlessly, and we were revealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "شور عشقش در نے خاموش من\nمی تپد صد نغمہ در آغوش من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاموشی میں حضور (صلعم) کے عشق کا جوش و خروش ہے؛ میرے آغوش میں سینکڑوں نغمے پرورش پا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The song of love for him fills my silent reed; a hundred notes throb in my bosom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "من چہ گویم از تولایش کہ چیست\nخشک چوبی در فراق او گریست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کیا کہوں کہ آپ (صلعم) کی محبت کیا ہے؛ آپ (صلعم) کے فراق میں خشک لکڑی (حنانہ کا ستون) رونے لگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How shall I tell what devotion he inspires? A block of dry wood wept at parting from him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "ہستی مسلم تجلے گاہ او\nطور ہا بالد ز گرد راہ او",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان کا وجود آپ (صلعم) کی تجلیات کا مہبط ہے؛ آپ (صلعم) کی گرد راہ سے کئی طور پیدا ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim's being is where he manifests his glory: Many a Sinai springs from the dust on his path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "پیکرم را آفرید آئینہ اش\nصبح من از آفتاب سینہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کے آئینہ (ء قلب) نے مجھے وجود بخشا ؛ میری صبح آپ (صلعم) کے سینے کے آفتاب کی مرہون منت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My image was created by his mirror; my dawn rises from the sun of his breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "در تپید دمبدم آرام من\nگرم تر از صبح محشر شام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیہم تڑپ ہی میرے لیے تسکین کا باعث ہے؛ میری شام صبح محشر سے بھی زیادہ گرم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My repose is a perpetual fever; my evening hotter than the morning of Judgment Day:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "ابر آذار است و من بستان او\nتاک من نمناک از باران او",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) ابر بہار ہیں اور میں آپ (صلعم) کا باغ ہوں؛ میرے تاکستان کی تراوت آپ (صلعم) کی باران (رحمت) سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is the April cloud and I his garden; my vine is bedewed with his rain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "چشم در کشت محبت کاشتم\nاز تماشا حاصلی برداشتم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے محبت کی کھیتی میں نگاہ شوق بوئی؛ اور نظارہ جمال کی صورت میں پیداوار حاصل کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It sowed mine eye in the field of Love and reaped a harvest of vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "خاک یثرب از دو عالم خوشتر است\nاے خنک شہری کہ آنجا دلبر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مدینہ منوّرہ کی خاک دونوں جہانوں سے پیاری ہے؛ کیا ٹھنڈک پہنچانے والا ہے وہ شہر جہاں محبوب آرام فرما ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The soil of Medina is sweeter than both worlds: Oh, happy the town where dwell the Beloved!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "کشتہ ی انداز ملا جامیم\nنظم و نثر او علاج خامیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جامی کے انداز بیان پہ مفتوں ہوں؛ ان کی نظم اور نثر میری خامی کا علاج ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am lost in admiration of the style of Mulla Jami: His verse and prose are a remedy for my immaturity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "شعر لبریز معانی گفتہ است\nدر ثنای خواجہ گوہر سفتہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے لبریز معنی شعر کہا ہے: گویا حضور (صلعم) کی تعریف میں موتی پرو دیئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has written poetry overflowing with beautiful ideas; and has threaded pearls in praise of the Master-",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "\"نسخۂ کونین را دیباچہ اوست\nجملہ عالم بندگان و خواجہ اوست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'آپ (صلعم) کتاب کونین کا مقدمہ ہیں؛ سارا جہان غلام ہے صرف آپ (صلعم) آقا ہیں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Muhammad (S.A.W.) is the preface to the book of the universe: All the worlds are slaves and he is the Master.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "کیفیت ہا خیزد از صبہای عشق\nہست ہم تقلید از اسمای عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی شراب سے کئی کیفیتیں پیدا ہوتی ہیں؛ تقلید بھی عشق ہی کا ایک نام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the wine of Love spring many spiritual qualities: Amongst the attributes of Love is blind devotion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "کامل بسطام در تقلید فرد\nاجتناب از خوردن خربوزہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضرت بایزید بسطامی (رحمتہ) جو (محبت میں ) کامل تھے؛ وہ تقلید میں بھی بے مثال تھے۔ چنانچہ انہوں نے اس بنا پر خربوزہ کھانے سے اجتناب کیا کہ انہیں معلوم نہ تھا کہ حضور اکرم (صلعم) نے اسے کس طرح کھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "عاشقی ؟ محکم شو از تقلید یار\nتا کمند تو شود یزدان شکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو عاشق ہے؟ تو محبوب (صلعم) کی تقلید سے اپنے عشق کو محکم کر؛ تاکہ تو اللہ تعالے کو اپنی محبت کی کمند میں لا سکے۔ (ان سے کہیں: اگر تم اللہ تعالے سے محبت رکھتے ہو تو میری اتباع کرو، اللہ تعالے تم سے محبت کرے گا۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be a lover constant in devotion to thy beloved; that thou mayst cast thy nose and capture God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "اندکی اندر حرای دل نشین\nترک خود کن سوی حق ہجرت گزین",
+              "lang": "Original"
+            },
+            {
+              "_content": "تھوڑی دیر کے لیے اپنے دل کے غار حرا میں خلوت اختیار کر؛ اپنے آپ کو چھوڑ اور اللہ تعالے کی طرف ہجرت کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sojourn for a while on the Hira of the heart. Abandon self and flee to God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "محکم از حق شو سوی خود گام زن\nلات و عزای ہوس را سر شکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اللہ تعالے کی محبت سے محکم ہو کر اپنی طرف واپس آ؛ اور ہوس کے بتوں (لات و عزّی) کا سر توڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Strengthened by God, return to thy self and break the heads of the Lat and Uzza of sensuality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "لشکری پیدا کن از سلطان عشق\nجلوہ گر شو بر سر فاران عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی قوّت سے لشکر تیار کر اور عشق کے فاران کی چوٹی پر جلوہ گر ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the might of Love evoke an army, reveal thyself on the Faran of Love; that the Lord of the Ka‘ba may show thee favour",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "تا خدای کعبہ بنوازد ترا\nشرح\"انے جاعل\" سازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ رب کعبہ تجھے اپنی تجلی سے نواز دے؛ اور خلافت الہی کے بلند مرتبہ پر فائز کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And make thee the object of the text, ‘Lo, I will appoint a vicegerent on the earth.‛",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Self Is Strengthened By Love",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

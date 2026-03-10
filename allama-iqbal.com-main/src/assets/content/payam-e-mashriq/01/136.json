@@ -1,0 +1,34 @@
+{
+  "id": "136",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمین خاک در میخانۂ ما\nفلک یک گردش پیمانۂ ما\nحدیث سوز و ساز ما دراز است\nجہان دیباچہ افسانہ ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین ہمارے مئے خانہ (الست) کے دروازے کی خاک ہے، چرخ گرداں ہمارے پیمانے کی ایک گردش ہے۔\nہمارے سوز و ساز کی بات بہت طویل ہے، یہ جہان تو ہمارے افسانے کی محض تمہید ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth is mere dust at our tavern’s door, the sky our wine-cup going round, no more.\nThe story of our heart is long; so long the world seems to be but its opening song.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "35",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سریر کیقباد، اکلیل جم خاک\nکلیسا و بتستان و حرم خاک\nولیکن من ندانم گوہرم چیست\nنگاھم برتر از گردون تنم خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیقباد کا تخت ہو یا جمشید کا تاج سب خاک ہیں؛ کلیسا ، بتخانہ اور حرم سب خاک سے بنے ہوئے ہیں۔\nمعلوم نہیں میری نہاد کس سے ہے، میری نگاہ آسمان سے بلند تر ہے مگر تن خاک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The throne of Kaikobad and Jamshid’s crown, Church, temple, Kaaba – all dust to be thrown on the dust-heap. \nMy substance too is dust, but dust which my uplifted eyes disown.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

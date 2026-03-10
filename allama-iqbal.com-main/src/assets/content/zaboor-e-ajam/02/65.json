@@ -1,0 +1,102 @@
+{
+  "id": "65",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان رنگ و بو پیدا تو میگوئی کہ راز است این\nیکی خود را بتارش زن کہ تو مضراب و ساز است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان رنگ و بو سامنے عیاں ہے اور تو کہتا ہے یہ راز ہے؛ ذرا اس کے تار کو چھیڑ (کے دیکھ) یہ جہان تو ساز ہے اور تو اس کی مضراب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A secret ’tis, ’tis evident (Thou sayst) this world of hue and scent: Go, strike thyself upon its wire – Thou art the plectrum, it the lyre.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نگاہ جلوہ بدمست از صفای جلوہ می لغزد\nتو میگوئی حجابست این نقابست این مجاز است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "نگاہ جلوہ بدمست تو جلوے کی صفائی کے باعث قدم قدم پر پھسل رہی ہے؛ اور تو کہتا ہے یہ ح جاب ہے، یہ نقاب ہے، یہ مجاز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gaze disclosed in ecstasy trembles to view its purity, and yet thou sayst it is a veil. A covering, a thing unreal!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیا در کش طناب پردہ ہای نیلگونش را\nکہ مثل شعلہ عریان بر نگاہ پاکباز است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور اس نیلگوں پردے (آسمان) کی طنابیں کاٹ دے (اب اس کی ضرورت نہیں رہی)؛ کیونکہ نگاہ پاکباز پر حقیقت مثل شعلہ عریاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pull down the pole of the immense that struts heaven’s cerulean tents, for like a spark it naked lies before the contemplative eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرا این خاکدان من ز فردوس برین خوشتر\nمقام ذوق و شوقست این حریم سوز و ساز است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے لیے میری دنیا فردوس بریں سے خوش تر ہے؛ کیونکہ یہ مقام ذوق و شوق بھی ہے اور حریم سوز و ساز بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "High Paradise is not so fair as this clay garment that I wear; within this sanctuary of mine is holy fire, and joy divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زمانی گم کنم خود را زمانی گم کنم او را\nزمانی ہر دو را یابم چہ رازست این چہ رازست این",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی میں اپنے آپ کو گم کر دیتا ہوں اور کبھی اس کو گم کر دیتا ہوں؛ اور کبھی دونوں کو پا لیتا ہوں، معلوم نہیں یہ کیا راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I lose myself a little time, I lose awhile the great sublime, the twain discovering presently – O miracle, O mystery!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

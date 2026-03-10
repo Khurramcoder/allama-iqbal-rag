@@ -1,0 +1,119 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تیر و سنان و خنجر و شمشیرم آرزوست\nبا من میا کہ مسلک شبیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیر و سناں اور خنجر و شمشیر کی آرزو رکھتا ہوں؛ میرے ساتھ نہ آ کہ میں مسلک شبیر (رضی اللہ ) (شہادت ) کا جویا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I long for manly weapons – bow, dagger, spear and sword. O, do not come with me, for mine is Shabbir’s way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از بہر آشیانہ خس اندوزیم نگر\nباز این نگر کہ شعلۂ در گیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلے آشیانے کے لیے میرا تنکے اکٹھے کرنا دیکھ؛ پھر یہ دیکھ کہ میں ایسے شعلے کی آرزو رکھتا ہوں جو اسے جلا کر راکھ کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at me gathering straw for a nest, and look at me again, wishing for fire to burn it off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گفتند لب ببند و ز اسرار ما مگو\nگفتم کہ خیر نعرۂ تکبیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنے لگے : لب بند رکھ اور ہمارے اسرار ظاہر نہ کر۔ میں نے کہا: نہیں، میں تو نعرہء تکبیر بلند کرنا چاہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said: ‘Keep your lips sealed. Let not My secret be betrayed.’ I said: ‘O no, I must proclaim that You are great.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفتند ہر چہ در دلت آید ز ما بخواہ\nگفتم کہ بی حجابی تقدیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنے لگے : جو جی چاہے ہم سے مانگ ۔ میں نے کہا: اپنی تقدیر کو بے حجاب دیکھنا چاہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said: ‘Ask for whatever is your wish.’ I said: ‘I wish to know the mystery of fate.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از روزگار خویش ندانم جز این قدر\nخوابم ز یاد رفتہ و تعبیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی زندگی کے بارے میں صرف اتنا جانتا ہوں ؛ کہ بھولا ہوا خواب ہوں اور خواب کی تعبیر جاننے کا خواہشمند ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All that I know about my life is this: A dream forgotten, which I wish to have interpreted for me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کو آن نگاہ ناز کہ اول دلم ربود\nعمرت دراز باد ہمان تیرم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہاں ہے وہ نگاہ ناز جس نے پہلے پہل مجھ سے میرا دل لیا تھا؛ تیری عمر دراز ہو مجھے پھر اسی تیر (نگاہ) کی آرزو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O where is that alluring glance that captivated my heart first? God bless you, I desire that arrow once again.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

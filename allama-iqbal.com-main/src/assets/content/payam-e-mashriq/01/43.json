@@ -1,0 +1,34 @@
+{
+  "id": "43",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ خود باز آورد رند کہن را\nمی برنا کہ من در جام کردم\nمن این می چون مغان دور پیشین\nز چشم مست ساقی وام کردم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے جام میں جو جوان شراب ڈالی، وہ رند کہن کو دوبارہ ہوش میں لے آئی۔\nپہلے دور کے پیران مغاں کی مانند، میں نے بھی یہ شراب ساقی کی چشم مست سے قرض لی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I offer you a strange, new kind of wine, which makes old tipplers sober, sane and wise.\nAnd like the mystical Magi of old I borrowed it from the Cupbearer’s eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "05",
+  "name": "عورت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وجود زن سے ہے تصویر کائنات میں رنگ \nاسی کے ساز سے ہے زندگی کا سوز دروں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکنوں: پوشیدہ، چھپا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The picture that this world presents from woman gets its tints and scents'; she is the lyre that can impart pathos and warmth to human heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شرف میں بڑھ کے ثریا سے مشت خاک اس کی \nکہ ہر شرف ہے اسی درج کا در مکنوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "درج: ڈبہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her handful clay is superior far to Pleiades that so higher are for every man with knowledge vast, like gem out of her cask is cast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مکالمات فلاطوں نہ لکھ سکی، لیکن \nاسی کے شعلے سے ٹوٹا شرار افلاطوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Plato cannot hold discourse, nor can with thunderous voice declaim but Plato was a spark that broke from her fire that blazed like flame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Woman",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

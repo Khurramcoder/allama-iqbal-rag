@@ -1,0 +1,151 @@
+{
+  "id": "46",
+  "name": "تہذیب حاضر",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "تضمین بر شعر فیضی",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حرارت ہے بلاکی بادئہ تہذیب حاضر میں \nبھڑک اٹھا بھبوکا بن کے مسلم کا تن خاکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بادئہ تہذیب حاضر: موجودہ تہذیب کی شراب۔ \nبھبوکا بن کے: شعلہ بن کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Based on a Verse of Faizi)\n\nExtremely excessive is the heat of current civilization’s wine; the clay body of the Muslim has exploded into flames.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا ذرے کو جگنو دے کے تاب مستعار اس نے \nکوئی دیکھے تو شوخی آفتاب جلوہ فرما کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاب مستعار: مانگی ہوئی روشنی ؛ عارضی چمک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It made the speck into fire-fly by giving it borrowed light; just look at what the trickery of the splendid sun is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نئے انداز پائے نوجوانوں کی طبیعت نے \nیہ رعنائی، یہ بیداری، یہ آزادی، یہ بے باکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nature of the young generation has found new ways: This beauty, this alertness, this freedom, this fearlessness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تغیر آگیا ایسا تدبر میں، تخیل میں \nہنسی سمجھی گئی گلشن میں غنچوں کی جگر چاکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such a change has come about in planning and thought; bursting of the garden’s flower-buds in Love is considered trivial.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیا گم تازہ پروازوں نے اپنا آشیاں لیکن \nمناظر دلکشا دکھلا گئی ساحر کی چالاکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساحر: جادوگر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The newly flying birds have lost their nests but a pretty sight has been shown by magician’s cunningness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حیات تازہ اپنے ساتھ لائی لذتیں کیا کیا \nرقابت، خودفروشی، ناشکیبائی، ہوسناکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The new life brought with it ever changing pleasures: Rivalry, selling conscience, impatience, greed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فروغ شمع نو سے بزم مسلم جگمگا اٹھی \nمگر کہتی ہے پروانوں سے میری کہنہ ادراکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنہ ادراکی: پختہ سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Muslim’s assembly is glittering with the new candle’s light, but my old time wisdom is saying this to the moths:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تو اے پروانہ ! ایں گرمی ز شمع محفلے داری \nچو من در آتش خود سوز اگر سوز دلے داری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے پروانے تو نے یہ گرمی محفل کی شمع سے لی ہے؛ اگر دل میں سوز ہے تو میری طرح اپنی آگ میں جلنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O moth! You have derived this warmth from the assembly’s candle: Burn in your own fire like me if you have the warmth of the heart. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Present Civilization",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

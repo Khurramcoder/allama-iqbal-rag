@@ -1,0 +1,34 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا یک نکتۂ سر بستہ گویم\nاگر درس حیات از من بگیری\nبمیری گر بہ تن جانی ندارے\nوگر جانی بہ تن داری نمیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو مجھ سے زندگی کا سبق لینا چاہتا ہے، تو میں ایک ایسا نکتہ بیان کرتا ہوں جو سربستہ راز ہے۔\nاور اگر روح ہے تو تو کبھی نہیں مرتا (روح جو اللہ تعالے کے عشق سے مستنیر ہو)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To make you understand life’s mystery, I tell you one thing in all secrecy:\nYou die if you do not possess a soul; but if you do, you live eternally.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

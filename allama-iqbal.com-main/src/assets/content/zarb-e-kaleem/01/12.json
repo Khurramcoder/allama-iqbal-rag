@@ -1,0 +1,34 @@
+{
+  "id": "12",
+  "name": "ملائے حرم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عجب نہیں کہ خدا تک تری رسائی ہو \nتری نگہ سے ہے پوشیدہ آدمی کا مقام \nتری نماز میں باقی جلال ہے، نہ جمال \nتری اذاں میں نہیں ہے مری سحر کا پیام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not wonder if to God you find approach. You know not rank of man for which you need reproach.\nYour worship is devoid of grandeur, charm and grace. Your Call to Prayer at morn leaves cold and does not brace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mullah Of The Mosque",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

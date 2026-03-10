@@ -1,0 +1,154 @@
+{
+  "id": "02",
+  "name": "نوای حلاج",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "06",
+  "sectionName": "فلک مشتری",
+  "name-ur": "منصور حلاج کی صدا",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز خاک خویش طلب آتشے کہ پیدا نیست\nتجلی دگرے در خور تقاضا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آگ جو پیدا نہیں اسے اپنی خاک سے طلب کر کسی اور کی تجلّی اس قابل نہیں کہ اس کا تقاضا کیا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek from your own earth a fire as yet unseen, another’s apparition is unworthy of your demand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نظر بخویش چنان بستہ ام کہ جلوہ دوست\nجہان گرفت و مرا فرصت تماشا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنے آپ پر اس طرح نظر مرکوز کر رکھی ہے کہ اگرچہ محبوب کا جلوہ سارے جہان پر چھایا ہوا ہے مگر مجھے اس کے نظارے کی فرصت نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have so fastened on myself my gaze, that though the beauty of the Beloved fills all the world, I am left no time to contemplate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ ملک جم ندہم مصرع نظیری را\n\"کسی کہ کشتہ نشد از قبیلۂ ما نیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "نظیری کا یہ مصرع میں سلطنت جم کے عوض بھی نہ دوں؛ 'جو شخص مارا نہیں گیا وہ ہمارے قبیلے سے نہیں ہو سکتا'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I would not give for Jamshid’s realm that verse of Naziri: ‘He who is yet unslain belongs not to our tribe.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگرچہ عقل فسون پیشہ لشکری انگیخت\nتو دل گرفتہ نباشے کہ عشق تنہا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ عقل فسوں پیشہ نے لشکر بھرتی کر لیا ہے ؛ مگر تو غمگین نہ ہو کہ عشق بھی تنہا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though reason whose trade is wizardry mustered an army, your heart will not be dismayed, for Love is not alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو رہ شناس نئی وز مقام بیخبری\nچہ نغمہ ایست کہ در بربط سلیمی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ تو راہ شناس ہے اور نہ تجھے مقام کی خبر ہے؛ ورنہ وہ کون سا نغمہ ہے جو سلیمی کے ساز میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You know not the way and are uninformed of the stage; what melody is there that is not in Sulaima’s lute?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز قید و صید نہنگان حکایتی آور\nمگو کہ زورق ما روشناس دریا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہنگوں کو قید میں لانے اور شکار کرنے کی بات کر ؛ یہ مت کہہ کہ ہماری کشتی دریا سے آشنا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell a tale of the hunting and fettering of sharks: do not say, ‘Our skiff knows not the face of the sea.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مرید ہمت آن رہروم کہ پا نگذاشت\nبہ جادہ ئی کہ در و کوہ و دشت و دریا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایسے مسافر کی ہمت کا قائل ہوں جس نے اس راہ میں قدم نہ رکھا جہاں پہاڑوں ، صحراؤں اور دریاؤں کی رکاوٹیں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am disciple of the zeal of that wayfarer who never set foot on any high-road that ran over mountains, deserts and seas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "شریک حلقۂ رندان بادہ پیما باش\nحذر ز بیعت پیری کہ مرد غوغا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "شراب نوش رندوں کے حلقے میں شریک ہو جا مگر ایسے پیر کی بیعت سے پرہیز کر جس کی صحبت ہنگامہ خیز نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be partner with the ring of wine-bibbing dissolutes; beware of allegiance to a Master who is not a man of tumult.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Hallaj"
+}

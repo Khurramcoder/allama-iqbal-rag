@@ -1,0 +1,306 @@
+{
+  "id": "25",
+  "name": "مسلم",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر نفس اقبال تیرا آہ میں مستور ہے \nسینہ سوزاں ترا فریاد سے معمور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal! Every breath of yours is veiled in sighs; your burning breast is filled with complaint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نغمہ امید تیری بربط دل میں نہیں \nہم سمجھتے ہیں یہ لیلی تیرے محمل میں نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The song of hope does not exist in the harp of your heart; we think this Lailah does not exist in your camel-litter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گوش آواز سرود رفتہ کا جویا ترا \nاور دل ہنگامہء حاضر سے بے پروا ترا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your ear is the seeker of the sound of bygone lyre and your heart is unconcerned with today’s affairs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قصہ گل ہم نوایان چمن سنتے نہیں \nاہل محفل تیرا پیغام کہن سنتے نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your garden companions do not listen to the tale of roses; the assembly’s people do not listen to your old message.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے درائے کاروان خفتہ پا! خاموش رہ \nہے بہت یاس آفریں تیری صدا خاموش رہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O bell of the sleeping caravan! Be quiet your call is very frustrating! Be quiet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زندہ پھر وہ محفل دیرینہ ہو سکتی نہیں \nشمع سے روشن شب دوشینہ ہوسکتی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That old assembly cannot be brought back to life. The yesternight cannot be illuminated with candle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہم نشیں! مسلم ہوں میں، توحید کا حامل ہوں میں \nاس صداقت پر ازل سے شاہد عادل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Companion! I am a Muslim, I am the harbinger of Tawhid; since eternity I am the sincere testifier of this Truth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نبض موجودات میں پیدا حرارت اس سے ہے \nاور مسلم کے تخیل میں جسارت اس سے ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The warmth in the pulse of the universe is from this and the courage in the Muslim’s thought is from this.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "حق نے عالم اس صداقت کے لیے پیدا کیا\nاور مجھے اس کی حفاظت کے لیے پیدا کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God created the universe for this Truth and created me for its guardianship.\n(Allusion to the Holy Qur’an 51:56. True service to God implies firm belief in His Tawhid and other attributes, not only in words but by affirmation with the heart and by deeds in His cause and in the service of humanity as is required by the Holy Qur’an.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دہر میں غارت گر باطل پرستی میں ہوا \nحق تو یہ ہے حافظ ناموس ہستی میں ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I became the destroyer of false worship in the world; the truth is that I became the protector of Existence’ honour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "میری ہستی پیرہن عریانی عالم کی ہے \nمیرے مٹ جانے سے رسوائی بنی آدم کی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My life is the cover for the world’s nakedness; my destruction is the disgrace of the human race.\n(Allamah Iqbal sincerely believed that the decline and fall of the Muslim world to its present abject state is the cause of the ethical and moral degeneration of the whole human race. This, in its turn, is the cause of the evils in the present day world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "قسمت عالم کا مسلم کوکب تابندہ ہے \nجس کی تابانی سے افسون سحر شرمندہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim is the shining star of the universe’s destiny; the spell of the morning by whose brilliance is shy.\n(These two verses show the supremacy of Man in the creation of God. According to Allamah Iqbal’s concept of Khudi Man reaches perfection and the zenith of his spiritual progress by complete submission to God, which is what Islam is.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آشکارا ہیں مری آنکھوں پہ اسرار حیات \nکہہ نہیں سکتے مجھے نومید پیکار حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secrets of life are open to my eyes; I cannot be considered lacking hope in the battle of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "کب ڈرا سکتا ہے غم کا عارضی منظر مجھے \nہے بھروسا اپنی ملت کے مقدر پر مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can the transient scene of grief frighten me! Confidence in destiny of my Millat strengthens me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "یاس کے عنصر سے ہے آزاد میرا روزگار \nفتح کامل کی خبر دتیا ہے جوش کارزار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My world is free of the component of despair; the zeal for battle gives the news of complete victory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہاں یہ سچ ہے چشم بر عہد کہن رہتا ہوں میں \nاہل محفل سے پرانی داستاں کہتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yes, it is true I keep my eye on the old times; I relate the old story to the assembly’s audience.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "یاد عہد رفتہ میری خاک کو اکسیر ہے \nمیرا ماضی میرے استقبال کی تفسیر ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Memory of the past age is the elixir for my life; my past is the interpretation of my future.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "سامنے رکھتا ہوں اس دور نشاط افزا کو میں \nدیکھتا ہوں دوش کے آئینے میں فردا کو میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I keep that pleasurable period before me; I see the tomorrow in the mirror of today.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Muslim",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

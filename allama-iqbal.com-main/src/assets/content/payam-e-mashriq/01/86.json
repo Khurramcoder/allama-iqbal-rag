@@ -1,0 +1,34 @@
+{
+  "id": "86",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل من اے دل من ایدل من\nیم من کشتی من ساحل من\nچو شبنم بر سر خاکم چکیدی\nو یا چون غنچہ رستی از گل من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کیا کہوں کہ نیکی اور بدی کیا ہے؛ زباں لرزتی ہے کیونکہ معنی پیچدار ہیں۔\nشاخ کے باہر کانٹے بھی نظر آتے ہیں اور پھول بھی، مگر شاخ کے اندر نہ پھول ہے، نہ کانٹا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What maketh Foul and Fair, how shall I say? Tongue trembleth, such a riddle to declare:\nWithout the stem, thou seest rose and thorn; within, nor rose nor thorn is patent there.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

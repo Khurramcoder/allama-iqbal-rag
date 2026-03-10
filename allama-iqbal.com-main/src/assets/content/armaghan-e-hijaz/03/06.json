@@ -1,0 +1,66 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رندوں کو بھی معلوم ہیں صوفی کے کمالت\nہر چند کہ مشہور نہیں ان کے کرامات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wonders of Sufis are known to sots too, may not be famous their miracles new.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خود گیری و خودداری و گلبانگ انا الحق\nآزاد ہو سالک تو ہیں یہ اس کے مقامات",
+              "lang": "Original"
+            },
+            {
+              "_content": "انا الحق: میں حق ہوں۔\nگلبانگ: خوشگوار۔ \nسالک: تصوف کی راہ کی منزلیں۔ \nسالک: مسافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self hold, self respect and ‘I’m God’ Cry. If seeker is free, these are his ranks high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "محکوم ہو سالک تو یہی اس کا ہمہ اوست\nخود مردہ و خود مرقد و خود مرگ مفاجات!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمہ اوست: سب کچھ وہی ہے۔ \nمرقد: قبر۔ \nمرگ مفاجات: ناگہانی موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If seeker is slave, each thing* his Lord, he’s dead, he’s grave and sudden death’s chord.\n* Each thing is God and God is each thing is the belief of heathens. This is called pantheism or Hamaost – every where is He.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

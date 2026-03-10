@@ -1,0 +1,102 @@
+{
+  "id": "34",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مثل آئینہ مشو محو جمال دگران\nاز دل و دیدہ فرو شوی خیال دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "آئینہ کی مانند دوسروں کے حسن میں محو نہ ہو، دوسروں کا خیال اپنے دیدہ و دل سے نکال دے۔ (نہ کسی کی طرف نظر اٹھا کے دیکھ، نہ کسی کو اپنے دل میں جگہ دے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not be like a mirror, which is taken up with others’ beauty. Cast away the thought of others from your mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آتش از نالہ مرغان حرم گیر و بسوز\nآشیانی کہ نہادی بہ نہال دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص ! جس نے دوسروں کے درخت پر آشیانہ بنا رکھا ہے، حرم کے پرندوں کی فغاں سے اثر پذیر ہو اور اپنے آپ کو اس سے جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Acquire fire from the singing of the Harem birds, and burn away the nest that you have built in other people’s tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در جھان بال و پر خویش گشودن آموز\nکہ پریدن نتوان با پر و بال دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں اپنے بال و پر کھولنا سیکھ، دوسروں کے بال و پر سے اڑا نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world learn to unfurl your own wings, for you can never fly with others’ wings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرد آزادم و آن گونہ غیورم کہ مرا\nمی توان کشت بیک جام زلال دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں مرد آزاد ہوں اور اتنا غیور ہوں کہ مجھے دوسروں کا ایک جام (شراب) صافی دے کر ختم کیا جا سکتا ہے۔ (کسی کا احسان اٹھانا میری موت ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am an independent man and am so self-respecting too that you could kill me with a glass of water that belonged to someone else.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ایکہ نزدیک تر از جانی و پنہان ز نگہ\nہجر تو خوشترم آید ز وصال دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ ذات! جو ہماری رگ و جان سے قریب تر ہے، مگر ہماری نگاہ سے اوجھل ہے، مجھے آپ کا ہجر دوسروں کے وصل سے زیادہ پیارا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O You, closer to my soul than all else, yet hidden from my sight, your separation from me is dearer to me than union with all others.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

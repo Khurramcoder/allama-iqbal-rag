@@ -1,0 +1,65 @@
+{
+  "id": "06",
+  "name": "زمین و آسماں",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ممکن ہے کہ تو جس کو سمجھتا ہے بہاراں \nاوروں کی نگاہوں میں وہ موسم ہو خزاں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perhaps the part of year that spring you deem, in others' view destructive autumn it may seem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے سلسلہ احوال کا ہر لحظہ دگرگوں \nاے سالک رہ! فکر نہ کر سود و زیاں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The worldly affairs one pattern don't retain, so pilgrim wise, think not of loss and gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شاید کہ زمیں ہے یہ کسی اور جہاں کی \nتو جس کو سمجھتا ہے فلک اپنے جہاں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thing you take for sky of earthly tract perhaps is soil of some other world in fact.\n[Syed Akbar Ali Shah]",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Earth And The Sky"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "47",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یوں ہاتھ نہیں آتا وہ گوہر یک دانہ \nیک رنگی و آزادی اے ہمت مردانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O manly heart, the goal you seek is hard to gain like gem unique: Get firm resolve and freedom true, if aim of life you wish to woo.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یا سنجر و طغرل کا آئین جہاں گیری \nیا مرد قلندر کے انداز ملوکانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Sanjar great and Tughral just to rule and conquer learn you must: Or like a qalandar true and bold the wont and way of monarch hold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یا حیرت فارابی یا تاب و تب رومی \nیا فکر حکیمانہ یا جذب کلیمانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Farabi’s thirst for lore beget, or Rumi’s fever great and fret: You need a thinker’s lofty gaze, or Moses’ passion to amaze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یا عقل کی روباہی یا عشق ید اللہی \nیا حیلہ افرنگی یا حملہ ترکانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn the wolfish tricks and guile, be like Franks in wit and wile: Else own the passion of God’s Hand, or strike the foes like Tartar band.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یا شرع مسلمانی یا دیر کی دربانی \nیا نعرہ مستانہ، کعبہ ہو کہ بت خانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Act on Muslim law and rites, or sit in fane like acolytes: Be it the Shrine or temple high, ever like a drunkard cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "میری میں فقیری میں، شاہی میں غلامی میں \nکچھ کام نہیں بنتا بے جرأت رندانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In whatsoever state you be, a fettered thrall or monarch free: No wonder ever can be wrought, with Love, if courage be not fraught.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

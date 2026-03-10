@@ -1,0 +1,68 @@
+{
+  "id": "17",
+  "name": "نصیحت",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بچہء شاہیں سے کہتا تھا عقاب سالخورد \nاے تیرے شہپر پہ آساں رفعت چرخ بریں",
+              "lang": "Original"
+            },
+            {
+              "_content": "سالخورد: بوڑھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An eagle, advanced in years, advised an eaglet thus: O thou, whose wings may one day aspire to the heavens above.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے شباب اپنے لہو کی آگ میں جلنے کا نام \nسخت کوشی سے ہے تلخ زندگانی انگبیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "انگبیں: شہد، میٹھا۔\nتلخ: کڑوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be consumed in the fire of thy own youthful blood; endurance sweetens all the sourness of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جو کبوتر پر جھپٹنے میں مزا ہے اے پسر! \nوہ مزا شاید کبوتر کے لہو میں بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "More pleasure there is in pouncing upon thy prey, than in sucking the blood from its vanquished stillness.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "An Advice",
+  "credits": "English Translation by: Naim Siddiqui"
+}

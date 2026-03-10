@@ -1,0 +1,178 @@
+{
+  "id": "17",
+  "name": "انسان",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قدرت کا عجیب یہ ستم ہے!\nانسان کو راز جو بنایا\nراز اس کی نگاہ سے چھپایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What an ingenious tyranny of Nature it is! Man has been made a seeker of the Secret; The Secret has been concealed from his eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بے تاب ہے ذوق آگہی کا\nکھلتا نہیں بھید زندگی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The taste for awareness is restless; the secret of life is not un raveled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حیرت آغاز و انتہا ہے\nآئینے کے گھر میں اور کیا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Amazing is the alpha and omega of life*: What else is there in the mirror's house?\n(Alpha and Omega: Alpha is the first letter of the Greek alphabet. This word is also used for the brightest star in a constellation. Omega is the last letter of the Greek alphabet. The phrase is used for the most important person or entity, e.g. The New Testament, The Book of Revelations of Saint John the Divine, Chapter 1:8, in which Issa A.S. is supposed to have said to Saint John in his dream ‘I am Alpha and Omega, the beginning and the ending.’ In this verse Allamah uses this phrase to show the intrinsic value and elegance of Man, and also the miraculous way in which he was created by God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے گرم خرام موج دریا\nدریا سوئے سجر جادہ پیما",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The river stream is moving fast; the river is moving towards the ocean.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بادل کو ہوا اڑا رہی ہے\nشانوں پہ اٹھائے لا رہی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wind is blowing the cloud: Is bringing the cloud on its shoulders.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تارے مست شراب تقدیر\nزندان فلک میں پا بہ زنجیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stars are intoxicated with destiny's wine; they are chained in the prison of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خورشید، وہ عابد سحر خیز\nلانے والا پیام بر خیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun, that early rising devotee, that carrier of the message of ‘rise’!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مغرب کی پہاڑیوں میں چھپ کر\nپیتا ہے مے شفق کا ساغر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Concealed in the hills of the west is drinking wine in twilight's goblet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "لذت گیر وجود ہر شے\nسر مست مے نمود ہر شے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everything is enjoying its existence; it is intoxicated with manifestation's wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "کوئی نہیں غم گسار انساں\nکیا تلخ ہے روزگار انساں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None is sympathetic with Man! How bitter is the life of Man!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mankind",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

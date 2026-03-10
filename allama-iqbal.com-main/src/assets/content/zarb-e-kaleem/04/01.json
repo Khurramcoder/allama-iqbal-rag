@@ -1,0 +1,84 @@
+{
+  "id": "01",
+  "name": "دین و ہنر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سرود و شعر و سیاست، کتاب و دین و ہنر \nگہر ہیں ان کی گرہ میں تمام یک دانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "يک دانہ: منفرد۔\nسرود: موسیقی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Verse, music, rule, lore, creed and crafts enshrine, pearls sublime that with lustre glow and shine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ضمیر بندہ خاکی سے ہے نمود ان کی \nبلند تر ہے ستاروں سے ان کا کاشانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاشانہ: رہنے کی جگہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out from the brain of clay-born man they race, far higher than the stars, their dwelling place.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر خودی کی حفاظت کریں تو عین حیات \nنہ کر سکیں تو سراپا فسون و افسانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If they preserve the Self, life is ideal true, else life is tale or legend through and through.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہوئی ہے زیر فلک امتوں کی رسوائی \nخودی سے جب ادب و دیں ہوئے ہیں بیگانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Faith and word with Self lose contact, then nation’s self-esteem can't keep intact.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Religion And Crafts",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

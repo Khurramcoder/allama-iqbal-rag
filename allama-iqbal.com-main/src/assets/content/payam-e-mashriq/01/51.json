@@ -1,0 +1,34 @@
+{
+  "id": "51",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دلت می لرزد از اندیشۂ مرگ\nز بیمش زرد مانند زریری\nبہ خود باز آ خودی را پختہ تر گیر\nاگر گیری، پس از مردن نمیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا دل موت کی فکر سے لرز رہا ہے، اس کے خوف سے تو ہلدی کی مانند زرد ہے۔\nاپنے آپ میں واپس آ ، اپنی خودی کو مستحکم کر، اگر ایسا کرے گا، تو مرنے کے بعد بھی نہیں مرے گا (روح کو عشق الہی سے پختہ کر لے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your heart quakes with the fear of death: you pale at the mere thought of it. \nGo and acquire a selfhood and hold fast to it, If you do this, you will not die when you expire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

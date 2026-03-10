@@ -1,0 +1,33 @@
+{
+  "id": "71",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نماید آنچہ ہست این وادی گل\nدرون لالۂ آتش بجان چیست\nبچشم ما چمن یک موج رنگ است\nکہ می داند بہ چشم بلبلان چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا یہ وادیء گل وہی نظر آتی ہے ، جو وہ ہے؛ کیا یہ ہم جانتے ہیں کہ لالہء آتشیں کے اندر کیا ہے؟ \nہمیں تو چمن ایک موج رنگ نظر آتا ہے؛ کون جانتا ہے کہ بلبل کی آنکھ اسے کیا دیکھتی ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This vale of roses, is it as it seems? What makes the tulip’s fiery heart to glow?\nA sea of colours is the mead we view: How nightingales behold it, who can know?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

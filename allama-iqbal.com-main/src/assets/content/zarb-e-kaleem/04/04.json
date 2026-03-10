@@ -1,0 +1,34 @@
+{
+  "id": "04",
+  "name": "اپنے شعر سے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے گلہ مجھ کو تری لذت پیدائی کا \nتو ہوا فاش تو ہیں اب مرے اسرار بھی فاش \nشعلے سے ٹوٹ کے مثل شرر آوارہ نہ رہ \nکر کسی سینہ پر سوز میں خلوت کی تلاش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have a plaint gainst you, my verse, in self-display you take much delight; your coming forth from inmost heart, my secret all has brought to light.\nDon't roam about without some end having broken from the parent flame; in some breast which is full of warmth some niche for rest and shelter claim.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To His Own Verse",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

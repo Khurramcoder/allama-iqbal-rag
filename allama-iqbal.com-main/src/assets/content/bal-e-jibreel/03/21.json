@@ -1,0 +1,34 @@
+{
+  "id": "21",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چمن میں رخت گل شبنم سے تر ہے \nسمن ہے، سبزہ ہے، باد سحر ہے \nمگر ہنگامہ ہو سکتا نہیں گرم \nیہاں کا لالہ بے سوز جگر ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سمن: چنبیلی\nرخت گل: پھول کا لباس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dew-drops glisten on flowers that bloom in the spring; the breeze, the jasmine, and the rose have failed:\nTo raise the tumult of joy and liveliness, for flowers here lack the spark and fire of life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

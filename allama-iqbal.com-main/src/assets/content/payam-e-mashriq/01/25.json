@@ -1,0 +1,34 @@
+{
+  "id": "25",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رہے در سینۂ انجم گشائی\nولے از خویشتن ناآشنائی\nیکے بر خود گشا چون دانہ چشمے\nکہ از زیر زمین نخلے بر آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ستاروں کے اندر تو راستہ بنا لیتا ہے، مگر اپنے آپ سے نا آشنا ہے۔\nدانہ کی مانند ذرا اپنے آپ پر بھی آنکھ کھول، تا کہ زمین کے نیچے سے درخت بن کر نکلے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A stranger to your own identity, you seek new paths to the stars in the sky.\nOpen your eyes to yourself like a seed so that you come out of the earth a tree.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

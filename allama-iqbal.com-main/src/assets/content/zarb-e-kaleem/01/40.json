@@ -1,0 +1,85 @@
+{
+  "id": "40",
+  "name": "مہدی برحق",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سب اپنے بنائے ہوئے زنداں میں ہیں محبوس \nخاور کے ثوابت ہوں کہ افرنگ کے سیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاور: مشرق۔\nمحبوس: قیدی۔\nثوابت: جو حرکت نہ کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sedent nations of the East, or active dwellers of the West; are inmates of such dungeons that were built by them with zeal and zest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیران کلیسا ہوں کہ شیخان حرم ہوں \nنے جدت گفتار ہے، نے جدت کردار",
+              "lang": "Original"
+            },
+            {
+              "_content": "شيخان حرم: ملّا\nپيران کليسا : پادری۔ \nجدت: نیا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The priests who guide the Christian church and Elders who maintain the Shrine, lack newness of discourse and speech, bereft are they of actions fine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہیں اہل سیاست کے وہی کہنہ خم و پیچ \nشاعر اسی افلاس تخیل میں گرفتار",
+              "lang": "Original"
+            },
+            {
+              "_content": "خم و پيچ: داؤ ، ہیر پھیر۔ \nافلاس تخيل: خیالات کی کم مائیگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Experts in statecraft practise still the same antique guile and wily tricks; no flights of fancy the bard can claim to ideals low and mean he sticks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دنیا کو ہے اس مہدی برحق کی ضرورت \nہو جس کی نگہ زلزلہ عالم افکار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is time that expected Guide may soon appear oil worldly stage: His piercing glance in realm of thought would cause a violent storm to rage.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The True Guide",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

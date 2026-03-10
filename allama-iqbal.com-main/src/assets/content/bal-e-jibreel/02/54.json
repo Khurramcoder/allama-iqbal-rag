@@ -1,0 +1,113 @@
+{
+  "id": "54",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مری نوا سے ہوئے زندہ عارف و عامی \nدیا ہے میں نے انھیں ذوق آتش آشامی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Gnostic and the common throng new life have gained through my song: I have conferred relish fine on them for Love’s fiery wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حرم کے پاس کوئی اعجمی ہے زمزمہ سنج \nکہ تار تار ہوئے جامہ ہائے احرامی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some Ajami near the Holy Shrine did sadly sing this song and pine, ‘Alas! The robes by pilgrims worn to threads and pieces now are torn.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حقیقت ابدی ہے مقام شبیری \nبدلتے رہتے ہیں انداز کوفی و شامی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The place of Husain, the Martyr great is fact, not bound to Space or Date, though the Syrians and the Kufis may often change their wont and way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مجھے یہ ڈر ہے مقامر ہیں پختہ کار بہت \nنہ رنگ لائے کہیں تیرے ہاتھ کی خامی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gamblers who with you compete are deft of band and they can cheat: Your fumbling shaky hands, I fear, may bring about your ruin so drear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عجب نہیں کہ مسلماں کو پھر عطا کر دیں \nشکوہ سنجر و فقر جنید و بسطامی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wonder if the Muslims gain their ancient glory once again; Sanjar’s splendour pomp and state, the piety and faqr of mystics great.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قبائے علم و ہنر لطف خاص ہے، ورنہ \nتری نگاہ میں تھی میری ناخوش اندامی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The robe of art and lore I wear is through Your special bounty there: You know my coarse and homely frame, to honour great I have no claim.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

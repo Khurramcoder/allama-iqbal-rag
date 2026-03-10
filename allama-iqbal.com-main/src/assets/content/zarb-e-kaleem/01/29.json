@@ -1,0 +1,67 @@
+{
+  "id": "29",
+  "name": "دنیا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مجھ کو بھی نظر آتی ہے یہ بوقلمونی \nوہ چاند، یہ تارا ہے، وہ پتھر، یہ نگیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقلمونی: رنگا رنگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The diverse hues of world I can descry, here stone and gem, there moon and starry sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دیتی ہے مری چشم بصیرت بھی یہ فتوی \nوہ کوہ، یہ دریا ہے، وہ گردوں، یہ زمیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My insight also gives this verdict clear; these are hills, river, earth and sphere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حق بات کو لیکن میں چھپا کر نہیں رکھتا \nتو ہے، تجھے جو کچھ نظر آتا ہے، نہیں ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of facts so true, I strive to hide not aught, you are, all else a trick that eyes have wrought.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The World",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

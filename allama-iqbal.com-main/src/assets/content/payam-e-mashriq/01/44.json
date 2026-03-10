@@ -1,0 +1,34 @@
+{
+  "id": "44",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سفالم را می او جام جم کرد\nدرون قطرہ ام پوشیدہ یم کرد\nخرد اندر سرم بتخانہ ئی ریخت\nخلیل عشق دیرم را حرم کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شراب (محبت) نے میرے مٹی کے پیالے کو جام جم بنا دیا، میرے قطرہ کے اندر سمندر پوشیدہ کر دیا ۔\nخرد نے میرے دماغ میں بت خانہ کھڑا کیا، خلیل عشق نے اس بت کدہ کو حرم بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His wine turned my cup into Jamshid’s cup: A sea poured into me, a tiny drop.\nIn my head reason built an idol-house: Love’s Abram to a Kaaba raised it up.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

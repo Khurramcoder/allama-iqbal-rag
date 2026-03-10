@@ -1,0 +1,33 @@
+{
+  "id": "72",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو خورشیدی و من سیارۂ تو\nسراپا نورم از نظارۂ تو\nز آغوش تو دورم ناتمامم \nتو قرآنی و من سی پارۂ تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tojh sey door h’on – namokamil h’on; Tou Qur’an hai aur mein teyra siparah h’on.]\nI am a circling planet; Thou my sun, the light that bathes me by Thy glance is thrown: \nFar from Thy bosom I imperfect am, thou art the Book, one chapter I alone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

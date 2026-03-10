@@ -1,0 +1,198 @@
+{
+  "id": "01",
+  "name": "دعا",
+  "name-en": "Prayer",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "مسجد قرطبہ ميں لکھي گئي",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے یہی میری نماز، ہے یہی میرا وضو \nمیری نواوں میں ہے میرے جگر کا لہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A PRAYER: Written in the Mosque of Cordova.\nMy invocations are sincere and true, they form my ablutions and prayers due.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "صحبت اہل صفا، نور و حضور و سرور \nسر خوش و پرسوز ہے لالہ لب آبجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "لب آبجو: ندی کے کنارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One glance of guide such joy and warmth can grant, on marge of stream can bloom the tulip plant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "راہ محبت میں ہے کون کسی کا رفیق \nساتھ مرے رہ گئی ایک مری آرزو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One has no comrade on Love’s journey long save fervent zeal, and passion great and strong.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میرا نشیمن نہیں درگہ میر و وزیر \nمیرا نشیمن بھی تو، شاخ نشیمن بھی تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God, at gates of rich I do not bow, you are my dwelling place and nesting bough.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تجھ سے گریباں مرا مطلع صبح نشور \nتجھ سے مرے سینے میں آتش 'اللہ ھو'",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح نشور: قیامت کی صبح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your Love in my breast burns like Doomsday morn, the cry, He is God, on my lips is born.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تجھ سے مری زندگی سوز و تب و درد و داغ \nتو ہی مری آرزو، تو ہی مری جستجو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your Love, makes me fret with pain and pine, You are the only quest and aim of mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پاس اگر تو نہیں، شہر ہے ویراں تمام \nتو ہے تو آباد ہیں اجڑے ہوئے کاخ و کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاخ و کو: گلیاں اور محل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without You town appears devoid of life, when present, same town appears astir with strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پھر وہ شراب کہن مجھ کو عطا کہ میں \nڈھونڈ رہا ہوں اسے توڑ کے جام و سبو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For wine of gnosis I request and ask, to get some dregs I break the cup and glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چشم کرم ساقیا! دیر سے ہیں منتظر \nجلوتیوں کے سبو، خلوتیوں کے کدو",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوتي: مجلسی لوگ۔\nخلوتي: گوشہ نشین لوگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mystics’ gourds and commons’ pitchers wait for liquor of your Grace and Bounty great.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تیری خدائی سے ہے میرے جنوں کو گلہ \nاپنے لیے لامکاں، میرے لیے چار سو!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Against Your godhead I have a genuine plaint, for You the Spaceless, while for me restraint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "فلسفہ و شعر کی اور حقیقت ہے کیا \nحرف تمنا، جسے کہہ نہ سکیں رو برو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both verse and wisdom indicate the way which longing face to face can not convey.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

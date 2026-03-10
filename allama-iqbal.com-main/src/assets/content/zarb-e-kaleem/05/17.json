@@ -1,0 +1,67 @@
+{
+  "id": "17",
+  "name": "جمعیت اقوام مشرق",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پانی بھی مسخر ہے، ہوا بھی ہے مسخر \nکیا ہو جو نگاہ فلک پیر بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسخر: تسخیر کیا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West has made the wind and seas work through hard work, not chance; from West, the old blue' sky may turn its gaze and glance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دیکھا ہے ملوکیت افرنگ نے جو خواب \nممکن ہے کہ اس خواب کی تعبیر بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dream of such domains, ‘that have extensive range, 'bout which the Franks have dreamt, its purport right may change!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "طہران ہو گر عالم مشرق کا جینوا \nشاید کرہ ارض کی تقدیر بدل جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Tehran is made the Geneva of the East, the Fate or earthly globe may have some change at least. \n(Written in Shish Mehal, Bhopal)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "League Of The Nations Of The East",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

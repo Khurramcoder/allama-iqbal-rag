@@ -1,0 +1,119 @@
+{
+  "id": "64",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بگذر از خاور و افسونی افرنگ مشو\nکہ نیرزد بہ جوی اینہمہ دیرینہ و نو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق سے گذر جا اور مغرب سے مسحور نہ ہو؛ کیونکہ ان کے قدیم و جدید (علوم) کی قیمت دو جو کے برابر بھی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eschew the West, and do not be bewitched by Europe’s wizardry; not worth barley, in my view, is all her ancient and her new.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چون پرکاہ کہ در رھگذر باد افتاد\nرفت اسکندر و دارا و قباد و خسرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکندر، دارا ، قیقباد اور خسرو ؛ اس پر کاہ کی مانند ہیں جو راہگذر میں پڑا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mighty Darius, Iskandar, Khusrau and Kaikobad – all are a blade of grass upon the way swept by a passing wind, to-day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زندگی انجمن آرا و نگہدار خود است\nایکہ در قافلہ ئی بی ہمہ شو با ہمہ رو",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی انجمن آرا بھی ہے اور خود دار بھی؛ اے قافلے کے ساتھ چلنے والے سب کے ساتھ چل اور سب سے بے نیاز بھی رہ (شمع محفل کی طرح سب سے جدا ، سب کا رفیق)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is the self to beautify, to guard the self right jealously; upon a caravan thou art – fare on with all, but go apart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو فروزندہ تر از مہر منیر آمدہ ئی\nآنچنان زی کہ بہر ذرہ رسانی پرتو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو مہر منیر سے زیادہ چمکدار ہے؛ اس طرح زندگی بسر کر کہ ہر ذرّہ تک اپنی روشنی پہنچائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Radiant thou camest from the sky, far brighter than the sun on high; so live, that every mote may be illumined by thy brilliancy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آن نگینی کہ تو با اہرمنان باختہ ئی\nہم بہ جبریل امینی نتوان کرد گرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ قیمتی نگینہ جو تو نے شیطانوں کو ہار دیا ہے، اسے تو جبریل امین (علیہ) کے پاس بھی گروی نہیں رکھا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast not spared thy precious ring idly to Ahriman to fling – to pledge the which it were not well even to trusty Gabriel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از تنک جامی ما میکدہ رسوا گردید\nشیشہ ئی گیر و حکیمانہ بیاشام و برو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری کم مائیگی سے میکدہ رسوا ہو گیا ہے؛ پیالہ اٹھا ، ہوشمندی سے پی اور آگے چل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tavern is ashamed, because so narrow is become our glass; a beaker take, and prudently drink wine – and then be off with thee!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

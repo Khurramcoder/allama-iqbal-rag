@@ -1,0 +1,34 @@
+{
+  "id": "95",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کمال زندگی خواہی بیاموز\nگشادن چشم و جز بر خود نبستن\nفرو بردن جہان را چون دم آب\nطلسم زیر و بالا در شکستن",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کا کمال چاہتا ہے، لے سن ؛ آنکھ کھول کے رکھنا اور صرف اپنے آپ پر نظر رکھنا۔\nساری کائنات کو پانی کے گھونٹ پی جانا ؛ اور اس کے پست و بلند کے طلسم کو توڑ دینا (یہ ہے کمال (زندگی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wouldst thou the perfect life attain? Then learn on self alone to fix the opened eye;\nThe world to swallow in a single draught; to break the spell it is encompassed by.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

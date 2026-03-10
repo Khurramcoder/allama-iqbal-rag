@@ -1,0 +1,82 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تہ دام بھی غزل آشنا رہے طائران چمن تو کیا \nجو فغاں دلوں میں تڑپ رہی تھی، نوائے زیر لبی رہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوائے زير لبي: وہ گانا جو لبوں تک نہ آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wonder if the garden birds remained fond of poetry even under the net; the lament fluttering in hearts as silent song remained.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترا جلوہ کچھ بھی تسلی دل ناصبور نہ کر سکا \nوہ گریہ سحری رہا، وہی آہ نیم شبی رہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy Effulgence could not satisfy the restless heart at all; the same dawn’s lament remained, the same midnight sighs remained.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ خدا رہا نہ صنم رہے، نہ رقیب دیر حرم رہے \nنہ رہی کہیں اسد اللہی، نہ کہیں ابولہبی رہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither God, nor idols nor the rivals of temple and the Haram remained.\nNeither Ali’s prowess nor Abi Lahab’s infidelity remained.\n(This is a sad commentary on the disappearance of religion and the Love of God from the present day Man and the goals of his life.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرا ساز اگرچہ ستم رسیدئہ زخمہ ہائے عجم رہا \nوہ شہید ذوق وفا ہوں میں کہ نوا مری عربی رہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though my orchestra remained oppressed by Ajam’s plectrum; I am that martyr in fidelity’s cause whose song ever Arabic remained!\n(Allama Iqbal was one of those reformers who tried to remove the effect of non-Islamic thoughts and ideologies (Greek, Zoroastrian, Chinese, Hindu) from Islamic thinking. This verse refers to this and says that in spite of the deep influence of non-Islamic ideologies on Islam he has continued to keep his thinking purely Islamic.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

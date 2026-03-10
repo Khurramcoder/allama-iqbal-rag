@@ -1,0 +1,67 @@
+{
+  "id": "60",
+  "name": "مذہب",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اپنی ملت پر قیاس اقوام مغرب سے نہ کر \nخاص ہے ترکیب میں قوم رسول ہاشمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقوام مغرب: یورپی قومیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Judge not your nation on the criteria of Western nations; special in composition is the Hashimi Prophet’s (S.A.W.) nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ان کی جمعیت کا ہے ملک و نسب پر انحصار \nقوت مذہب سے مستحکم ہے جمعیت تری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Based on country and race is their organization; the force of din stabilizes your organization.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دامن دیں ہاتھ سے چھوٹا تو جمعیت کہاں \nاور جمعیت ہوئی رخصت تو ملت بھی گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the din’s skirt is lost, disappears the organization; and if organization departs also disappears the nation! ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Religion",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

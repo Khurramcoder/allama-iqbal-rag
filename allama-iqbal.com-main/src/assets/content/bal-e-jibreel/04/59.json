@@ -1,0 +1,56 @@
+{
+  "id": "59",
+  "name": "چیونٹی اور عقاب",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "چیونٹی",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں پائمال و خوار و پریشان و دردمند \nتیرا مقام کیوں ہے ستاروں سے بھی بلند؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "ANT: I am so miserable and forlorn: Why is your station loftier than the skies?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "عقاب",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو رزق اپنا ڈھونڈتی ہے خاک راہ میں \nمیں نہ سپہر کو نہیں لاتا نگاہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "EAGLE: You forage about in dusty paths; the nine heavens are as nothing to me!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Ant And The Eagle",
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,187 @@
+{
+  "id": "04",
+  "name": "نوای طاہرہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "06",
+  "sectionName": "فلک مشتری",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گر بتو افتدم نظر چھرہ بہ چہرہ، روبرو\nشرح دہم غم ترا نکتہ بہ نکتہ، موبمو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھ پر اس طرح نظر پڑے کہ تو میرے روبرو اور میرا چہرہ تیرے چہرے کے سامنے ہم؛ تو میں تیرے عشق کا غم نقطہ بہ نقطہ اور مو بہ مو یعنی پوری وضاحت سے بیان کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If ever confronting face to face my glance should alight on you I will describe to you my sorrow for you in minutest detail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از پی دیدن رخت ہمچو صبا فتادہ ام\nخانہ بخانہ در بدر، کوچہ بکوچہ کوبکو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا چہرہ دیکھنے کے لیے میں صبا کی مانند خانہ بخانہ ، در بدر، کوچہ بکوچہ اور گلی بگلی پھرا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That I may behold your cheek, like the zephyr I have visited house by house, door by door, lane by lane, street by street.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میرود از فراق تو خون دل از دو دیدہ ام\nدجلہ بہ دجلہ یم بہ یم، چشمہ بہ چشمہ جوبجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے فراق میں میری دونوں آنکھوں سے خون دل دجلہ دجلہ، سمندر سمندر، چشمہ چشمہ اور ندی ندی بہہ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through separation from you my heart’s blood is flowing from my eyes river by river, sea by sea, fountain by fountain, stream by stream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مہر ترا دل حزین بافتہ بر قماش جان\nرشتہ بہ رشتہ نخ بہ نخ، تار بہ تار پو بہ پو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل حزیں نے تیری محبت کو اپنی جان کی ایک ایک رگ، ایک ایک نخ ، ایک ایک تار ، ایک ایک پور پر بن لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My sorrowful heart wove your love into the fabric of my soul thread by thread, thrum by thrum, warp by warp, woof by woof.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در دل خویش طاہرہ، گشت و ندید جز ترا\nصفحہ بہ صفحہ لا بہ لا پردہ بہ پردہ تو بتو\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "طاہرہ نے اپنے دل کے اندر نظر ڈالی، مگر دل کے صفحہ صفحہ ، ورق ورق، پردہ پردہ اور تہ در تہ تیرے سوا اور کوئی نظر نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tahira repaired to her own heart, and saw none but you page by page, fold by fold, veil by veil, curtain by curtain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سوز و ساز عاشقان دردمند\nشورہای تازہ در جانم فکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان عاشقان دردمند کے سوز و ساز نے میری جان کے اندر نیا سوز برپا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ardour and passion of these anguished lovers cast fresh commotions into my soul;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مشکلات کہنہ سر بیرون زدند\nباز بر اندیشہ ام شبخون زدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانی مشکلات نے اپنا سر باہر نکالا اور میری سوچ پر شبخون مارا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ancient problems reared their heads and made assault upon my mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قلزم فکرم سراپا اضطراب\nساحلش از زور طوفانی خراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے فکر کا سمندر سراپا اضطراب بن گیا؛ اور طوفان کے زور سے اس کا ساحل ٹوٹ پھوٹ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ocean of my thought was wholly agitated; its shore was devastated by the might of the tempest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گفت رومی \"وقت را از کف مدہ\nایکہ میخواہی گشود ھر گرہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا، تو جو اپنی ہر مشکل کی کشود چاہتا ہے، وقت نہ گنوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘Do not lose any time, you who desire the resolution of every knot;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چند در افکار خود باشی اسیر\nاین قیامت را برون ریز از ضمیر\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کب تک اپنے افکار میں اسیر رہے گا؛ اس قیمت کو اپنے ضمیر سے باہر نکال پھینک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For long you have been a prisoner in your own thoughts, now pour this tumult out of your breast!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Tahira"
+}

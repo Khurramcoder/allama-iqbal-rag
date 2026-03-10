@@ -1,0 +1,136 @@
+{
+  "id": "37",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گنہکار غیورم مزد بی خدمت نمی گیرم\nاز آن داغم کہ بر تقدیر او بستند تقصیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں غیّور گنہگار ہوں بغیر محنت کے مزدوری لینا پسند نہیں کرتا؛ (مجھے مفت کی جنت پسند نہیں ) ؛ مگر افسوس ہے کہ میرے گناہ کو ابلیس کی تقدیر سے وابستہ کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A sinner proud am I; no need I take, except I work for it; I rage, because men say He writ predestinate my wilful deed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز فیض عشق و مستی بردہ ام اندیشہ را آنجا\nکہ از دنبالہ چشم مہر عالمتاب میگیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق و مستی کے فیض سے میں نے اپنے فکر کو اس بلندی تک پہنچا دیا ہے، کہ اس کی روشنی کے سامنے مہر عالمتاب بھی ہیچ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The surge of drunkenness and love hath lifted up my thoughts, to where the world-illuming sun doth stare amazed upon me as I rove.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "من از صبح نخستین نقشبند موج و گردابم\nچو بحر آسودہ میگردد ز طوفان چارہ برگیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں روز اوّل ہی سے موج گرداب کا متلاشی ہوں ، اگر میرا بحر حیات پر سکون ہو جائے تو میں خود طوفان کو آواز دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the first dawn my hand was made artist of whirlpool and wavecrest, and when the ocean lies at rest of the typhoon I gather aid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جہان را پیش ازین صد بار آتش زیر پا کردم\nسکون و عافیت را پاک می سوزد بم و زیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس سے پہلے جہان کو با ر ہا آتش شوق سے بیتاب کر چکا ہوں؛ میرے نغمے ایسے ہیں جو سکون و عافیت کو ختم کر دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred times before this day I set the universe afire; its peace and health destroys entire the ardent music that I play.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از آن پیش بتان رقصیدم و زنار بربستم\nکہ شیخ شہر مرد باخدا گردد ز تکفیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس لیے زنّار باندھ کر بتوں کے سامنے رقص کیا ، تا کہ شیخ شہر مجھ پر کفر کا فتوی لگا کر مرد با خدا بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before the idols I have danced and bound the girdle about me, till, thundering at my blasphemy, the city sheikh is God-entranced!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زمانی رم کنند از من زمانی بامن آمیزند\nدرین صحرا نمی دانند صیادم کہ نخچیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی وہ مجھ سے بھاگتے ہیں کبھی مجھ سے مل جاتے ہیں، میں نہیں جانتا کہ اس صحرا میں میں شکاری ہوں یا شکار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Anon they leap from me away, anon they follow in my train, for no man knoweth in this plain whether I hunter am, or prey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دل بی سوز کم گیرد نصیب از صحبت مردی\nمس تابیدہ ئی آور کہ گیرد در تو اکسیرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے سوز دل مردان با خدا کی صحبت سے کچھ حاصل نہیں کر پاتا، جب تک تانبا تپ نہ رہا ہو اس پر اکسیر اثر نہیں کرتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of Supermen’s society naught gains the heart that’s not aglow: Bring me thy molten brass and, lo! My elixir shall work in thee.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

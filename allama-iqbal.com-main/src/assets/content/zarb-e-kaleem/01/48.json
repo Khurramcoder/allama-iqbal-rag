@@ -1,0 +1,116 @@
+{
+  "id": "48",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تیری متاع حیات، علم و ہنر کا سرور \nمیری متاع حیات ایک دل ناصبور!",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل ناصبور: بیقرار دل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A restless aching heart that throbs with Love; is my life's only stock and hoard your joys of life consist of wealth and gold that worldly Science and Arts to you afford.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "معجزہ اہل فکر، فلسفہء پیچ پیچ \nمعجزہ اہل ذکر، موسی و فرعون و طور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The marvel wrought by thinkers wise and sage consists of problems stiff that thought provoke: Mount Sinai, Pharoah's rout and Moses' Staff are miracles worked by those who God invoke.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مصلحتاً کہہ دیا میں نے مسلماں تجھے \nتیرے نفس میں نہیں، گرمی یوم النشور",
+              "lang": "Original"
+            },
+            {
+              "_content": "یوم النشور: قیامت کا دن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have conferred a Muslim's name on you for sake of courtesy, custom and routine though your breath is quite bereft of heat of Reckoning Day that shall emit blazing sheen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ایک زمانے سے ہے چاک گریباں مرا \nتو ہے ابھی ہوش میں، میرے جنوں کا قصور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My vest is torn to shreds and pieces since long and this is due to my mind's frenzy great; your mind is still intact and sound, wherefore impute the blame to me and slate?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فیض نظر کے لیے ضبط سخن چاہیے \nحرف پریشاں نہ کہہ اہل نظر کے حضور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ought to keep your words within control, if you seek the bounteous glance of Guide: When you talk with those who insight own be courteous much, by conduct nice abide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خوار جہاں میں کبھی ہو نہیں سکتی وہ قوم \nعشق ہو جس کا جسور، فقر ہو جس کا غیور",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسور: بیباک، جراتمند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That nation cannot come to shame at all, nor shall e'er come across or face disgrace, whose youth are blessed with. pluck and courage great, and guard with zeal the prestige of their race.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

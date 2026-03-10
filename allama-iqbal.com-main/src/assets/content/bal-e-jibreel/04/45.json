@@ -1,0 +1,82 @@
+{
+  "id": "45",
+  "name": "جدائی",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سورج بنتا ہے تار زر سے \nدنیا کے لیے ردائے نوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun is weaving with golden thread a mantle of light about earth's head;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عالم ہے خموش و مست گویا \nہر شے کو نصیب ہے حضوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Creation hushed in ecstasy, as in the presence of the Most High.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دریا، کہسار، چاند تارے \nکیا جانیں فراق و ناصبوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can these know-stream, hill, moon, star – of separation's torturing scar?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شایاں ہے مجھے غم جدائی \nیہ خاک ہے محرم جدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mine is this golden grief alone, to this dust only is this grief known.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Separation",
+  "credits": "English Translation by: V G Kiernan"
+}

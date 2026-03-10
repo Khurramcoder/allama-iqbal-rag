@@ -1,0 +1,68 @@
+{
+  "id": "70",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صورت گری کہ پیکر روز و شب آفرید\nاز نقش این و آن بتماشای خود رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "خالق نے روز شب پیدا کیے ، اور ان کے ذریعے اپنی صفات کا جلوہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Artist, Whose vast mind both day and night designed, engraving these, displays upon Himself His gaze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "صوفی! برون ز بنگہ تاریک پا بنہ\nفطرت متاع خویش بہ سوداگری کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "صوفی! تاریک خانقاہ سے باہر نکل۔ (دیکھ) فطرت نے اپنا سارا متاع بازار میں لا کر سجا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sufi! Step out before thy dim and dusty store; nature has merchandise to offer – at what price!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صبح و ستارہ و شفق و ماہ و آفتاب\nبی پردہ جلوہ ہا بہ نگاہی توان خرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح ، شفق، ستارے، چاند آفتاب؛ (ان سب) کا بے پردہ جلوہ فقط ایک نگاہ سے خریدا جا سکتا ہے ۔ (نگاہ ہو تو بہائے نظارہ کچھ بھی نہیں ، کہ بیچتی نہیں فطرت جمال و زیبائی - اقبال)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Down, and the stars and moon, nightfall, the sun at noon – all these unveiled the eye for but one glance may buy!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

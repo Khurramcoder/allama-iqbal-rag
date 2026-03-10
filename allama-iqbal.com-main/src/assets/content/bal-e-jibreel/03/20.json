@@ -1,0 +1,33 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کے زور سے دنیا پہ چھا جا \nمقام رنگ و بو کا راز پا جا \nبرنگ بحر ساحل آشنا رہ \nکف ساحل سے دامن کھینچتا جا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Conquer the world with the power of selfhood, and solve the riddle of the universe. \nBe intimate with thy shores, like the sea, but avoid the surf around the boundless deep.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

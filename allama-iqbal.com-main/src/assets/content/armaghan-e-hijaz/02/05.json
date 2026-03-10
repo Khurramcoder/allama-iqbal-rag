@@ -1,0 +1,33 @@
+{
+  "id": "05",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد کی تنگ دامانی سے فریاد\nتجلی کی فراوانی سے فریاد\nگوارا ہے اسے نظارۂ غیر\nنگہ کی نا مسلمانی سے فریاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تنگ داماني: جھولی کا تنگ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beware! The wisdom’s shallow show! Beware! The vision’s heavy flow*!\nHe would tolerate yet the alien glance, Beware! Thus from his un-Muslim sense! \n\n* Because you won’t to be able to hold your self due to extreme pleasure of that vision (of God)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

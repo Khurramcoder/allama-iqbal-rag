@@ -1,0 +1,119 @@
+{
+  "id": "51",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرصت کشمکش مدہ این دل بی قرار را\nیک دو شکن زیادہ کن گیسوی تابدار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دل بے قرار کو تڑپنے کا موقعہ نہ دے؛ اس کے گرد اپنے پیچدار گیسوؤں کے ایک دو شکن اور بڑھا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave no quarter to resist to this restless heart of mine give Thy curls another twist, let Thy tresses intertwine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از تو درون سینہ ام برق تجلئی کہ من\nبا مہ و مہر دادہ ام تلخی انتظار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کی بدولت میرے سینے میں وہ برق تجلّی موجود ہے؛ جس کی وجہ سے مہ و مہر کے انتظار کی کی تلخی برداشت کر رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my heart Thy lightning shone radiant as flashing gold, which the expectant sun and moon marveled sorely to behold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ذوق حضور در جہان رسم صنم گری نہاد\nعشق فریب می دہد جان امیدوار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبوب کو دیکھنے کے شوق کی وجہ سے دنیا میں بتگری شروع ہوئی؛ دید کی خواہش نے انسان کو اس طرح فریب میں مبتلا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Holy joy to dwell with thee fashioned world idolatry; love with his deceitful art ever cheats the hopeful heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا بفراغ خاطری نغمۂ تازہ ئی زنم\nباز بہ مرغزار دہ طایر مرغزار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغزار آزادی سے محبت رکھنے والے کو ہر وہی آزادانہ فضا عطا فرما؛ تاکہ وہ تازہ نغمہ سرائ کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come the meadow-bird again to the green and meadowed plain that with mind devoid of care I may tune a sweet, new air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "طبع بلند دادہ ئی بند ز پای من گشای\nتا بہ پلاس تو دہم خلعت شہریار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے مجھے طبع بلند عطا فرمائی ہے تو میرے پاؤں کو زنجیر (غلامی) سے آزاد کیجیے ؛ تاکہ میں پادشاہ کے خلعت کو آپ کے بوریا پر قربان کر دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A high soul Thou gavest me; loose my bonds, and set me free? Kingly raiment I would spurn if Thy sackcloth I may earn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تیشہ اگر بسنگ زد این چہ مقام گفتگوست\nعشق بدوش می کشد این ہمہ کوہسار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیشہء فرہاد نے اگر پہاڑ کاٹ دیا تو اس میں تعجب کی کیا بات ہے؟ عشق تو سارا کہسار اپنے کندھے پر اٹھا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the axe (as legend says) cleave the rock, shall that amaze love upon his shoulder bears such a mountain-range of cares!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "35",
+  "name": "قبر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرقد کا شبستاں بھی اسے راس نہ آیا \nآرام قلندر کو تہ خاک نہیں ہے \nخاموشی افلاک تو ہے قبر میں لیکن \nبے قیدی و پہنائی افلاک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Darvesh feels no rest at all beneath the mound of clods and dust though abysmal dark the grave, its rigours yet bear he must.\nIn dark and dismal depths of grave silence of skies a. man can sense, but there he can never find environs free and Space.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Grave",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

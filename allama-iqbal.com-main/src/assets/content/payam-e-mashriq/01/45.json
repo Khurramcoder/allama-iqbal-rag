@@ -1,0 +1,34 @@
+{
+  "id": "45",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد زنجیری امروز و دوش است\nپرستار بتان چشم و گوش است\nصنم در آستین پوشیدہ دارد\nبرہمن زادۂ زنار پوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد نے آج کل کا زنّار پہن رکھا ہے، وہ چشم و گوش کے بتوں کی پجاری ہے ( حواس ظاہر سے حاصل شدہ تاثرات کو سب کچھ سمجھتی ہے۔\nاپنی آستین میں بت چھپائے ہوئے ہے، یہ زنّار پوش کسی برہمن کی اولاد (معلوم ہوتی) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To past and present reason is a slave; it worships images of eye and ear. \nIt always has an idol up its sleeve; it is a Brahmin bred and born, beware!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

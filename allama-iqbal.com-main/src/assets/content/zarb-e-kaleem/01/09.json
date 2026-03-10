@@ -1,0 +1,85 @@
+{
+  "id": "09",
+  "name": "اجتہاد",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہند میں حکمت دیں کوئی کہاں سے سیکھے \nنہ کہیں لذت کردار، نہ افکار عمیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عميق: گہرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no place in Ind where from to learn; the tenets that the Muslim Faith concern. They are devoid of zeal for godly acts, and are not wont to seek its basic facts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حلقہ شوق میں وہ جرات اندیشہ کہاں \nآہ محکومی و تقلید و زوال تحقیق!",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقليد: پیروی۔\nجرات انديشہ: سوچنے کی طاقت۔ \nزوال تحقيق: تحقیق کا نہ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mystics, who were keen their Faith to spread, are silent now and thought for them a dread. Alas! The state of bondage deprives of zest, slaves tread the beaten path and relinquish quest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خود بدلتے نہیں، قرآں کو بدل دیتے ہیں \nہوئے کس درجہ فقیہان حرم بے توفیق!",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقيہان حرم: مسلمان علماء۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The jurists are helpless to such extent can't change themselves, but would change Koran's content. How sad, the jurists can't shift their outlook, but would prefer to change the Holy Book.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ان غلاموں کا یہ مسلک ہے کہ ناقص ہے کتاب \nکہ سکھاتی نہیں مومن کو غلامی کے طریق!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These abject slaves opine and cling to creed that Holy Book is full of flaws indeed. They think it incomplete for this fact because it fails to teach the slavish tact.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ijtehad",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

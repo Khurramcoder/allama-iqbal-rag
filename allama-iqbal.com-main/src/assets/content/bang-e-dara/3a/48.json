@@ -1,0 +1,163 @@
+{
+  "id": "48",
+  "name": "شعاع آفتاب",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صبح جب میری نگہ سودائی نظارہ تھی \nآسماں پر اک شعاع آفتاب آوارہ تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At the dawn when my eye was enjoying the panorama I saw that a ray of the sun was wandering about.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں نے پوچھا اس کرن سے اے سراپا اضطراب! \nتیری جان ناشکیبا میں ہے کیسا اضطراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناشکيبا: بے صبر، بے چین، بے قرار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked the ray, ‘O head to foot restlessness! What kind of restlessness your impatient life has!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو کوئی چھوٹی سی بجلی ہے کہ جس کو آسماں \nکر رہا ہے خرمن اقوام کی خاطر جواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you a small little lightning, which the sky is nurturing to fall on the harvest of nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ تڑپ ہے یا ازل سے تیری خو ہے، کیا ہے یہ \nرقص ہے، آوارگی ہے، جستجو ہے، کیا ہے یہ؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this a flash, or your eternal nature, what is it? Is it a dance? Wandering? Seeking what is it?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خفتہ ہنگامے ہیں میری ہستی خاموش میں \nپرورش پائی ہے میں نے صبح کی آغوش میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘A sea of tumults is asleep in my silent life; my existence has been nurtured by the morning’s breeze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مضطرب ہر دم مری تقدیر رکھتی ہے مجھے \nجستجو میں لذت تنویر رکھتی ہے مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My destiny keeps me constantly restless. Taste for enlightenment keeps me busy in seeking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "برق آتش خو نہیں، فطرت میں گو ناری ہوں میں \nمہر عالم تاب کا پیغام بیداری ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am not fire-brand lightning, though by nature fire I am. Message of awakening from the world-illuminating sun I am!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سرمہ بن کر چشم انساں میں سما جائوں گی میں \nرات نے جو کچھ چھپا رکھا تھا، دکھلائوں گی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Becoming collyrium I shall enter the human eye; whatever night had hidden I shall show to the eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تیرے مستوں میں کوئی جویائے ہشیاری بھی ہے \nسونے والوں میں کسی کو ذوق بیداری بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Among your ecstatics is there any seeker of prudence also? Among the sleeping people is anyone with taste of awakening also?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Sun’s Ray",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

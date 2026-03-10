@@ -1,0 +1,875 @@
+{
+  "id": "09",
+  "name": "در اسرار شریعت",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نکتہ ہا از پیر روم آموختم\nخویش را در حرف او واسوختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے پیر رومی (رحمتہ) سے کئی نکات سیکھے ہیں، میں نے ان کے الفاظ (کی روح) کو اپنا لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The essence of the Shari’ah I have learnt many things from the Master of Rum, especially have I burnt myself in (the fire of) these words of his:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مال را گر بھر دین باشی حمول\n\"نعم مال صالح گوید رسول",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو مال کو دین کے لیے رکھتا ہے تو حضور اکرم (صلعم) کا ارشاد ہے کہ اچھے طریق سے کمایا ہوا مال کیا خوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘If you carry money for the sake of the Faith, that money is a blessing, says the Prophet.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گر نداری اندر این حکمت نظر \nتو غلام و خواجۂ تو سیم و زر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیری نظر اس حکمت پر نہیں ، پھر تو غلام ہے اور دولت تیری آقا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you don’t keep this point in mind, you are a slave and money is your lord.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از تہی دستان گشاد امتان\nاز چنین منعم فساد امتان",
+              "lang": "Original"
+            },
+            {
+              "_content": "دولت سے بے نیاز لوگ ہی امتوں کے کام سنوارتے ہیں، سیم و زر کے غلام دولتمند قوموں میں فساد کا باعث بنتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The welfare of the nations is in the hands of the poor, while the rich man causes disruption to the nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جدت اندر چشم او خوار است و بس\nکہنگی را او خریدار است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے دولتمند کی نظر میں جدّت بے معنی ہے، وہ صرف قدامت کا خریدار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his eyes, novelty is something mean; he buys only old things;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در نگاہش ناصواب آمد صواب\nترسد از ہنگامہ ہای انقلاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نظر میں نا خوب ، خوب ہے۔ وہ انقلاب کے ہنگاموں سے ڈرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is wrong he regards as right and is afraid of the upheavals of revolution.\n(This verse refers to the capitalist’s aversion to change and his striving to maintain the status quo at al cost.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خواجہ نان بندۂ مزدور خورد\nآبروی دختر مزدور برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا آقا اپنے مزدور غلام کی روٹی اور اس کی بیٹی کی آبرو چھین لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The capitalist usurps the portion of the labourer, and robs the honour of his daughter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "در حضورش بندہ می نالد چو نے\nبر لب او نالہ ہای پی بہ پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سامنے غلام بانسری کی طرح فریاد کرتا ہے، اس کے لبوں پر متواتر ہائے ہائے کی فریاد رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The labourer bewails before him like a reed, with constant cries issuing from his lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نے بجامش بادہ و نے در سبوست\nکاخہا تعمیر کرد و خود بکوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ مزدور کے جام میں شراب ہے نہ اس کے سبو میں ، وہ (دوسروں کے لیے) محلات تعمیر کرتا ہے اور خود کوٹھڑی میں رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His cup lacks wine; he builds palaces but is himself a homeless wanderer.\n(These verses refer to the capitalist’s blatant violation of moral values which, as Iqbal seems to imply, is the natural consequence of amassing of wealth when divorced, motivationally, from spiritual orientation.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اے خوش آن منعم کہ چون درویش زیست\nدر چنین عصری خدا اندیش زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ دولتمند جو درویش کی مانند زندگی بسر کرتا ہے؛ جو اس زمانے میں بھی اللہ تعالے کو یاد رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Praise be to the rich person who lives like a dervish and is God-oriented in an age like ours.\n(Iqbal characterizes the present age as lacking in spiritual orientation. If amidst such an environment, a person, having wealth, lives a simple life of piety and abstinence; surely it is a matter of great significance.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تا ندانی نکتۂ اکل حلال\nبر جماعت زیستن گردد وبال",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک تو حلال کمائی کا نکتہ نہ سمجھے تیری زندگی معاشرے کے لیے وبال ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless people understand the significance of a lawfully earned food, life of society becomes miserable.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "آہ یورپ زین مقام آگاہ نیست\nچشم او \"ینظر بنور اﷲ\" نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس یورپ اس مقام سے آگاہی نہیں رکھتا، اس کی آنکھ اللہ تعالے کے نور سےنہیں دیکھتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! Europe is not aware of this principle, her eyes do not see through God’s light;\n(Reference is to the famous tradition of the Prophet (PBUH): Fear the sagacity of the believer, for he sees through the light of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "او نداند از حلال و از حرام\nحکمتش خام است و کارش ناتمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ حلال و حرام میں امتیاز نہیں کرتا ، اس کا فلسفہ خام ہے اور اس کا کام نامکمل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She does not know lawful from unlawful, her wisdom is immature and all her activities defective.\n(Iqbal quotes in Bal-i Jibril Rumi’s verse: True knowledge is born of lawful food, love and compassion are born of lawful food.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "امتی بر امتے دیگر چرد\nدانہ این می کارد آن حاصل برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک قوم دوسری قوم پر پلتی ہے، دانہ یہ کاشت کرتی اور حاصل وہ لے جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One nation preys on another, one sows the seed, another takes away the harvest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "از ضعیفان نان ربودن حکمتست\nاز تن شان جان ربودن حکمتست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غریبوں سے روٹی چھین لینا اور ان کے بدن سے جان نکال لینا انکی ڈپلومیسی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is ‘wisdom’ to snatch food from the weak and to rob their body of the soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "شیوۂ تہذیب نو آدم دری است\nپردۂ آدم دری سوداگری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نئی تہذیب کا شیوہ انسانوں کی چیر پھاڑ ہے اور یہ کام وہ تجارت کے پردے میں سرانجام دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The way of the new culture is to murder people; and this killing is done under the garb of commerce.\n(Iqbal says: Believe me, Europe to-day is the greatest hindrance in the way of man’s ethical advancement (Reconstruction, p. 179). The reason for this, according to him, is that European culture is divorced from the spiritual basis of life, what he callsnur-i haqq here. A few lines earlier, he says in the same lecture: Humanity needs three things to-day-a spiritual interpretation of the universe, spiritual emancipation of the individual and basic principles of a universal import directing the evolution of human society on a spiritual basis.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "این بنوک این فکر چالاک یہود\nنور حق از سینۂ آدم ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بینک جو یہودیوں کی عیار سوچ کا نتیجہ ہیں، انسان کے سینے سے اللہ تعالے کا نور نکال لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These banks, the result of clever Jews’ thinking, have taken away God’s light from the heart of man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "تا تہ و بالا نگردد این نظام\nدانش و تہذیب و دین، سودای خام",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک یہ سودی نظام تہ و بالا نہ ہو دانش، تہذیب اور دین کی باتیں بے سود ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless this system is destroyed completely, knowledge, religion and culture are mere empty names.\n(Iqbal thinks that Western culture which is through and through secular in complexion cannot be expected to face the challenge of the new age. No change, superficial or far-reaching, can stave off its doom. What is needed is: total destruction of this culture. It is the same remedy that was suggested by Waliullah: total and complete revolution.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آدمی اندر جھان خیر و شر\nکم شناسد نفع خود را از ضرر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان خیر و شر میں آدمی اپنے نفع و نقصان میں تمیز نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world of good and evil, man seldom knows what is profitable to him and what is harmful;\n(Iqbal thinks that human reason is not capable of arriving at the universal moral truth for which man has to fall back upon revelation. Conclusions in the field of morality arrived at by human intellect are more often marred by the natural prejudices to which man is subject.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کس نداند زشت و خوب کار چیست\nجادۂ ہموار و ناہموار چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی نہیں جانتا کہ اچھائی اور برائی کیا ہے، صراط مستقیم کون سا ہے اور ٹیڑھا راستہ کون سا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nobody knows the right and wrong of an act, which path is straight and which crooked.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "شرع بر خیزد ز اعماق حیات\nروشن از نورش ظلام کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرع حیات کی گہرائیوں سے اٹھتی ہے اور اس کے نور سے کائنات کی تاریکیاں دور ہو جاتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Shari‘ah grows out of life’s bosom; its light illumines the darkness of the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گر جہان داند حرامش را حرام\nتا قیامت پختہ ماند این نظام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر لوگ شرع کی حرام کردہ اشیا ء کو حرام سمجھیں تو یہ نظام قیامت تک پختہ رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the world were to accept its judgment regarding what is forbidden, this system would endure for ever.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "نیست این کار فقیہان اے پسر\nبا نگاہے دیگری او را نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیٹے ! شرع کا معاملہ فقیہوں کے بس کی بات نہیں ؛ تو شرع کو دوسری نگاہ سے دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not for the jurists to evaluate it, O son, look at it in another way;\n(Looking in another way in contrast to the legal and formalistic attitude of the jurist, it is the penetrative insight born of spiritual regeneration which, though based on reason, goes beyond reason and is the essence of what Rumi and Iqbal call Faqr.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "حکمش از عدلست و تسلیم و رضاست\nبیخ او اندر ضمیر مصطفی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرع کا حکم عدل، تسلیم (احکام الہی کے سامنے سر تسلیم خم کر دینا) اور راضی برضا رہنا ہے، شرع کا بیج حضور اکرم (صلعم) کے قلب میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its legal formulations are based on justice and submission to Divine Will, its roots lie in the bosom of Mustafa (PBUH).\n(‘Bosom of Mustafa’; innermost heart of the Prophet, i.e. the revelation received by him from God on his heart, as stated in the Qur’an, xxvi 194)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "از فراق است آرزوہا سینہ تاب\nتو نمانی چون شود او بی حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اللہ تعالے سے فراق کے باعث وصل کی آرزوئیں سینے میں مچل رہی ہیں لیکن اگر وہ بے حجاب ہو جائے تو تو باقی نہیں رہتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is through ‘separation’ (from God) that desires warm the hearts. When ‘He’ manifests Himself, you will cease to exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "از جدائی گرچہ جان آید بلب\nوصل او کم جو رضای او طلب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ جدائی سے جان لبوں پر آئی ہوئی ہے مگر تو اس کے وصل کی بجائے اس کی رضا کا طالب رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This separation is no doubt hard to bear, try not to seek union with Him, rather submit to His will.\n(The ideal for Iqbal is not to seek unitive experience, experience of oneness with God, but to follow God’s Will which is given in concrete shape in the Shari’ah.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "مصطفی داد از رضای او خبر\nنیست در احکام دین چیزی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) نے اس کی رضا ہی کی خبر دی ہے، احکام دین میں اس کے سوائے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mustafa (PBUH) communicated His will to us; the injunctions of religion consist of nothing else.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "تخت جم پوشیدہ زیر بوریاست\nفقر و شاہی از مقامات رضاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جمشید کا تخت بوریے کے نیچے پوشیدہ ہے، فقر و شاہی رضا ہی کے مقامات ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The throne of Jamshid is hid under the mat (of a faqir), Faqr and political authority are both stations of (submission to God’s) Will;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "حکم سلطان گیر و از حکمش منال\nروز میدان نیست روز قیل و قال",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہ حقیقی کا حکم بجا لا ، اور شکایت نہ کر، میدان جنگ قیل و قال کی جگہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Accept the injunctions of the Shari’ah and do not complain the field of battle is not the place to argue why.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "تا توانی گردن از حکمش پیچ\nتا نپیچد گردن از حکم تو ہیچ",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں تک ہو سکے اس کی حکم عدولی نہ کر ، تا کہ کوئی اور تیری نافرمانی نہ کر سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So far as you can help, do not disobey its law, so that nobody may disobey your orders.\n(This verse reminds one of Sa’di’s well-known verse: You too should not disobey God’s commands, that others shouldn’t disobey your orders.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "از شریعت احسن التقویم شو\nوارث ایمان ابراھیم شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "احکام شریعت کی پابندی کر کے احسن التقویم کا مصداق اور ایمان ابرہیم (علیہ) کا وارث بن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be of the best make through the Shari’ah, and inheritor of Abraham’s faith.\n(Reference is to the Qur’anic verse: ‘Certainly We created man in the best make’ (xcv 4). But if he fails to follow the true path, he is brought to ‘the lowest of the low’. Islam has a particularly intimate relation with the personality of Abraham. The Qur’an states that Islam is the ‘faith of your father Abraham’ who ‘named you – Muslim…)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "پس طریقت چیست اے والاصفات\nشرع را دیدن بہ اعماق حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے والا صفات طریقت کیا ہے؟ شرع کو حیات کی گہرائیوں سے دیکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man of lofty attributes, what is Tariqah: To see the Shari‘ah in the recesses of life’s heart.\n(Tariqah, path: This is another term in mysticism that is sometimes opposed to Shari’ah. Iqbal tries to explain that Tariqah is Shari’ah when its laws are followed in their real spirit.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "فاش میخواہی اگر اسرار دین\nجز بہ اعماق ضمیر خود مبین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو دین کے اسرار فاش دیکھنا چاہتا ہے تو اسے اپنے ضمیر کی گہرائیوں کے علاوہ اور کہیں نہ دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you wish to see the essence of religion clearly, look but into the depth of your heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "گر نبینی، دین تو مجبوری است\nاینچنین دین از خدا مہجوری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو یوں نہیں دیکھے گا تو تیرا دین ( باہر سے ٹھونسا ہوا ) ہے اور ایسا دین اللہ تعالے سے دور کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you do not enjoy vision, your faith is only compulsion; such a religion is a veil between you and God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "بندہ تا حق را نبیند آشکار\nبر نمی آید ز جبر و اختیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک بندہ ، حق (صداقت) کو آشکار نہ دیکھے وہ جبر و قدر کے چکر سے باہر نہیں نکل سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If man does not see God fully manifest, he cannot rise higher than (the polarity of) free-will and determinism.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "تو یکی در فطرت خود غوطہ زن\nمرد حق شو بر ظن و تخمین متن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنی فطرت کے اندر غوطہ زن ہو کر حق تعالے کا (اطاعت شعار) بندہ بن اپنے ظن و تخمین پر نہ اترا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dive into your inner nature for a moment, become a man of truth, don’t rely on mere conjecture:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "تا ببینی زشت و خوب کار چیست\nاندر این نہ پردۂ اسرار چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو دیکھ لے گا کہ اعمال کی اچھائی اور برائی کیا ہے، اور اسرار کے ان نو پردوں (کائنات ) کے اندر کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That you may see the right and wrong of things, and know what secrets lie behind these nine veils.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "ہر کہ از سر نبی گیرد نصیب\nہم بہ جبریل امین گردد قریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص نبی کریم (صلعم) کے راز (شریعت) سے حصّہ پاتا ہے وہ جبریل امین (علیہ) (جو حکمت کی علامت ہيں ) کے بھی قریب ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who shares in the experiences of the Prophet (S.A.W.) gets close to the faithful Gabriel.\n(The angel Gabriel is described in the Qur’an as ‘the faithful spirit (ruh u1-amin) that has brought revelation on thy heart…’ xxvi. 193. ‘Close to Gabriel’ may signify that the person now enjoys the privilege of receiving direct revelation from God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "اے کہ مے نازی بہ قرآن عظیم\nتا کجا در حجرہ مے باشی مقیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مسلمان ! تو جو قرآن پاک پر فخر کرتا ہے کب تک حجرہ نشین رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who are proud of having the great Quran, how long will you sit (inactive) in cell?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "در جہان اسرار دین را فاش کن\nنکتہ شرع مبین را فاش کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(باہر نکل) دین کا راز اور شرع مبین کا نکتہ فاش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reveal to the world the essence of religion, and the significance of the clear Shari’ah;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "کس نگردد در جھان محتاج کس\nنکتہ شرع مبین این است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرع مبین کا نکتہ یہ ہے کہ دنیا میں کوئی انسان کسی دوسرے انسان کا محتاج نہ رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None need be dependent on another (for one’sprimary needs); this is the sum and substance of the clear Shari’ah.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "مکتب و ملا سخنہا ساختند\nمومنان این نکتہ را نشناختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "علماء اپنے مدرسوں میں محض باتیں بناتے ہیں ، نہ وہ اس نکتے کو سمجھتے ہیں نہ مومنوں کو سمجھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The jurists and the theologians have spun long tales; the faithful have failed to grasp this point.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "زندہ قومے بود از تأویل مرد\nآتش او در ضمیر او فسرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان زندہ قوم تھے مگر احکام دین کی تاویلوں نے انہیں موت سے ہمکنار کر دیا؛ ان کے ضمیر کے اندر جو آگ تھی وہ بجھ چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A living nation met its death due to misinterpretations, her heart lost fire (of life).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "صوفیان با صفا را دیدہ ام\nشیخ مکتب را نکو سنجیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے صوفیان باصفا کو دیکھا ہے اور علمائے مدارس کو بھی خوب پرکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen Sufis of pure heart and taken good stock of the teacher in school.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "عصر من پیغمبری ھم آفرید\nآنکہ در قرآن بغیر از خود ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دور نے ایک نبی (مرزا قادیان) بھی دیکھا ہے، وہ جسے قرآن پاک میں اپنے سوائے اور کچھ نظر نہ آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My age produced a prophet too, who could see in the Quran nothing but himself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "ہر یکی دانای قرآن و خبر\nدر شریعت کم سواد و کم نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب قرآن و حدیث کے عالم ہونے کے دعویدار ہیں مگر شریعت سے بے بہرہ اور اس کے راز دیکھنے سے بے بصر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every one of them is fully conversant with the Quran and the traditions; but they are totally unaware of the true significance of the Shari’ah.\n(Their knowledge is theoretical only; they lack fire of conviction and zeal for activity, for they have missed the true spirit of the message.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "عقل و نقل افتادہ در بند ہوس\nمنبرشان منبر کاک است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی عقل و نقل ہوس کے بند میں بندھی ہوئی ہے، ان کا منبر صرف کاک ہے (وہ صرف پیٹ کے بندے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason and tradition both have fallen prey to lust; their pulpit is a counter for the display of their wares.\n(‘Reason’ and ‘tradition’ stand for two kinds of knowledge into which pursuit of learning was divided in classical Islamic period, corresponding to what is called ‘aql and naql.The latter stands for all those aspects of learning that deal exclusively with religious problems, while the former refers to all those branches of learning that today come under the title of science and humanities.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "زین کلیمان نیست امید گشود\nآستین ہا بی ید بیضا چہ سود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان 'کلیموں' سے کوئی امید رکھنا لا حاصل ہے کہ وہ قوم کے حالات درست کر سکیں گے کیونکہ ان کی آستینیں ید بیضا سے خالی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no hope of salvation from these reformers. What is the use of the sleeve when it lacks the White Hand?\n(Kaliman, plural of Kalim, the title of Moses. Kalim in Iqbal stands for an ideal reformer, prophet, teacher. ‘White Hand’ is a miracle of Moses.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "کار اقوام و ملل ناید درست\nاز عمل بنما کہ حق در دست تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوموں اور ملتوں کے کام اس طرح نہیں سنورتے، اپنے عمل سے ثابت کر کہ حق (سچائی) تیرے پاس ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The problems of the nations cannot be set right by you, unless you prove by action that you are the bearer of truth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "The Essence Of The Shari’Ah",
+  "credits": "English Translation by: Jamil Naqvi"
+}

@@ -1,0 +1,409 @@
+{
+  "id": "05",
+  "name": "حکمت فرعونی",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حکمت ارباب دین کردم عیان\nحکمت ارباب کین را ہم بدان",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اہل ایمان کی حکمت ظاہر کی ہے اب کینہ دوز (فرعونوں) کی حکمت بھی سمجھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have unfolded the wisdom of the people of faith; now learn the wisdom of the people of malice.\n(People of malice, as distinguished from the people of faith, who pass their days totally divorced from the spiritual reality of life and are therefore involved only in material welfare, regard moral values absolutely irrelevant. The result is total moral anarchy in social life. Iqbal employs this contrast in several contexts.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حکمت ارباب کین مکر است و فن\nمکر و فن تخریب جان، تعمیر تن",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرعونوں کی ڈپلومیسی مکر و فن ہے، یعنی وہ روح کو بگاڑتے اور تن کو سنوارتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wisdom of the people of malice is deceit and artifice; what are deceit and artifice? They destroy the soul and build the body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حکمتی از بند دین آزادہ ئی\nاز مقام شوق دور افتادہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی پالیسی دین سے آزاد اور مقام شوق و محبت سے دور ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is wisdom that has freed itself from faith’s bonds and has strayed far away from the station of Love.\n(Station of love (maqam-i shauq) is loyalty to the spiritual values of life.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مکتب از تدبیر او گیرد نظام\nتا بکام خواجہ اندیشد غلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی تدبیر سے ایسا نظام تعلیم جاری کیا جاتا ہے، جس سے تعلیم یافتہ نوجوانوں کی سوچ اپنے آقاؤں کے مفاد کے مطابق ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The school follows in his (Pharaoh’s) ways so that the servant learns to think in line with the master’s desires.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شیخ ملت با حدیث دلنشین\nبر مراد او کند تجدید دین",
+              "lang": "Original"
+            },
+            {
+              "_content": "علمائے (سوء) دلنشین حدیثیں سنا کر اپنے آقاؤں کے مطابق دین کی تجدید کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The religious leader of the millat, in a charming way, reinterprets religion to his (Pharaoh’s) liking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از دم او وحدت قومی دو نیم\nکس حریفش نیست جز چوب کلیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکمت فرعونی کے فسوں سے قوم کی وحدت ٹکڑے ٹکڑے ہو جاتی ہے؛ عصائے موسی (علیہ) کے علاوہ اس کا کوئی علاج نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The unity of the people is sundered through his machinations; nothing can withstand him except Moses’ Staff.\n(Moses’ Staff is a reference to events in the life-history of Moses, where his staff helped him overcome the crises, first in combating the deceit of the magicians and then in crossing the river when pursued by Pharaoh and his hosts... Moses’ Staff, in Iqbal, therefore, stands for power, might, without acquiring which the people of the exploited societies cannot hope to meet successfully the challenge of the West, both political and economic.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "واے قومی کشتۂ تدبیر غیر\nکار او تخریب خود تعمیر غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قوم پر جو غیروں کی ڈپلومیسی کا شکار ہو کر اپنی تخریب کرے اور دوسروں کی تعمیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to a people that, prey to others’ stratagems, destroy themselves and build up others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "می شود در علم و فن صاحب نظر\nاز وجود خود نگردد با خبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ علم اور آرٹ میں تو صاحب نظر ہو جائے مگر اپنے آپ سے غافل رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They gain knowledge of science and art, but remain unaware of their own self-identity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نقش حق را از نگین خود سترد\nدر ضمیرش آرزوہا زاد و مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی آنگوٹھی کے نگینہ سے اللہ تعالے کا نقش مٹا دے اس کے ضمیر میں آرزوئیں پیدا ہوتی اور مرتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They erase the Lord’s impress from their signet; aspirations arise in their heart only to die away.\n(Lord’s impress, naqsh-i Haqq, God’s image. It stands for voluntary submission to God’s Will)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بے نصیب آمد ز اولاد غیور\nجان بتن چون مردہ ئی در خاک گور",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ غیرتمند اولاد سے بے نصیب رہے، اس کے بدن میں جان ایسے ہو جیسے قبر میں مردہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They are not blessed with a progeny imbued with a sense of honour; their children have souls in their bodies like corpses in graves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از حیا بیگانہ پیران کہن\nنوجوانان چون زنان مشغول تن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے بوڑھے حیا سے خالی ہوں اور نوجوان عورتوں کی طرح اپنے بدن کی آرائش میں مشغول رہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their old people lack modesty; the young are busy decking themselves out like women-folk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در دل شان آرزوہا بی ثبات\nمردہ زایند از بطون امہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان نوجوانوں کی آرزوؤں میں ثبات نہیں (کبھی کچھ سوچتے ہیں، کبھی کچھ) وہ اپنی ماؤں کے پیٹ ہی سے مردہ پیدا ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The desires that spring from their hearts are unstable; they are born dead from the wombs of their mothers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "دختران او بزلف خود اسیر\nشوخ چشم و خود نما و خردہ گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی قوم کی لڑائیاں اپنی زلف میں اسیر ، شوخ چشم، خود نما اور دوسروں کی سوچ سے متاثر ہوتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their daughters are caught in the snares of their curling locks, bold-eyed, fond of display and carping;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ساختہ پرداختہ دل باختہ\nابروان مثل دو تیغ آختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آرائش ، زیبائش اور دل بختگی کی شوقین ہوتی ہیں، ان کے ابرو یوں ہوتے ہیں جیسے دو کھینچی ہوئی تلواریں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well-dressed, with exquisite make-up, coquettish; their eyebrows like two unsheathed swords;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ساعد سیمین شان عیش نظر\nسینۂ ماہی بموج اندر نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے چاندی جیسے سفید بازو نظر کے لیے عیش (کا سامان مہیا کرتے) ہیں (انہیں دیکھنا یوں ہے) جیسے کوئی موج (آب) کے اندر مچھلی کا سینہ دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their white silvery forearms pleasing to the eyes; their bosoms showing like fish in water.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ملتی خاکستر او بی شرر\nصبح او از شام او تاریکتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایسی قوم ہے جس کی راکھ میں کوئی چنگاری باقی نہیں، اس کی صبح اس کی شام سے بھی زیادہ تاریک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation whose ashes are devoid of any live spark, whose morn is darker than its eve.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہر زمان اندر تلاش ساز و برگ\nکار او فکر معاش و ترس مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر دم روپے پیسے کی تلاش میں رہتی ہے، اس کا کام معاش کی فکر اور موت سے ڈرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is always in search of material goods, its only preoccupation is anxiety for livelihood and fear of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "منعمان او بخیل و عیش دوست\nغافل از مغزاند و اندر بند پوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دولتمند بخیل اور عیش پرست ہوتے ہیں، وہ (رسوم کے) چھلکے میں گرفتار اور ( حقیقت کے) مغز سے غافل ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its rich are miserly, pleasure-loving, intent upon seeking the shell, and neglectful of the kernel.\n(Kernel and shell: The distinction of what is visible, what appears to the eye, the apparent, the external and what is real, the hidden, the essence, is very much relevant in moral evaluation of one’s behaviour. Rumi has discussed this problem in hundred different contexts in which he tries to bring home to the people the value of the kernel in contrast to the shell, the intention behind one’s action rather than the action as it appears to our eyes.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "قوت فرمانروا معبود او\nدر زیان دین و ایمان سود او",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکمران کی قوّت ان کی معبود ہے، وہ دین و ایمان کے نقصان میں اپنا فائدہ دیکھتے ہیں (دینوی فائدہ کی خاطر دین و ایمان بیچ دیتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The might of its ruler is the object of its adoration, in loss of faith and belief lies its gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از حد امروز خود بیرون نجست\nروزگارش نقش یک فردا نبست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی قوم 'آج' (فوری مفاد) کی حد سے باہر نہیں نکلتی؛ اس کی زندگی میں ایک کل کا نقش بھی ثبت نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It never looks beyond its today and never creates a tomorrow for itself.\n(Iqbal thinks that a true leader is one who produces dissatisfaction among the people about the present and urges them on to a brighter and better future.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "از نیاکان دفتری اندر بغل\nالامان از گفتہ ہای بے عمل",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنے آباء (کے کارناموں ) کا دفتر بغل میں دبائے پھرتی ہے، مگر اس کے پاس باتیں ہی باتیں ہیں عمل کوئی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has the annals of its ancestors under its arms, but, alas! It only discourses on them without acting on them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "دین او عہد وفا بستن بغیر\nیعنی از خشت حرم تعمیر دیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دین غیروں سے عہد وفا باندھنا ہے، وہ گویا حرم ( کو گرا کر اس) کی اینٹوں سے بت کدہ تعمیر کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its creed is to offer loyalty to others, to build temples with the material of the mosque.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "آہ قومی دل ز حق پرداختہ\nمرد و مرگ خویش را نشناختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قوم پر جس نے اللہ تعالے سے دل ہٹا لیا، جو مر چکی ہے، مگر اپنی موت کو پہچانتی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! For a nation which has cut itself adrift from God, which is dead, but does not know that it is dead.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Wisdom Of The Pharaohs",
+  "credits": "English Translation by: Jamil Naqvi"
+}

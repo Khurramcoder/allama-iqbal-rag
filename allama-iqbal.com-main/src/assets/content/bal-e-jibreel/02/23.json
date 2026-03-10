@@ -1,0 +1,130 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری نگاہ فرومایہ، ہاتھ ہے کوتاہ \nترا گنہ کہ نخیل بلند کا ہے گناہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "نگاہ فرومايہ: ایسی نگاہ جو دور رس نہ ہو۔ \nنخيل: کھجور کے درخت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy vision and thy hands are chained, earth-bound, is it thy nature’s fault, or of the thought too high?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گلا تو گھونٹ دیا اہل مدرسہ نے ترا \nکہاں سے آئے صدا 'لا الہ الا اللہ'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The schoolmen have strangled thy nascent soul, and stifled the voice of passionate faith in thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خودی میں گم ہے خدائی، تلاش کر غافل! \nیہی ہے تیرے لیے اب صلاح کار کی راہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Absorb thyself in selfhood, seek the path of God, this is the only way for thee to find freedom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حدیث دل کسی درویش بے گلیم سے پوچھ \nخدا کرے تجھے تیرے مقام سے آگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask an unclad dervish what the heart doth say, may God show thee thy place in the world of men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "برہنہ سر ہے تو عزم بلند پیدا کر \nیہاں فقط سر شاہیں کے واسطے ہے کلاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If bare-headed, have a towering will, the crown is not for thee, but for the eagle alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہ ہے ستارے کی گردش، نہ بازی افلاک \nخودی کی موت ہے تیرا زوال نعمت و جاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When thou losest selfhood, thou losest power, too; blame not the stars and fate for thy fall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اٹھا میں مدرسہ و خانقاہ سے غم ناک \nنہ زندگی، نہ محبت، نہ معرفت، نہ نگاہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Monasteries and schools left me sad and dejected no life and no love; no vision and no knowledge.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

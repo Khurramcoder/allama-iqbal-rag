@@ -1,0 +1,196 @@
+{
+  "id": "04",
+  "name": "صوفی و ملا",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرفتم حضرت ملا ترش روست\nنگاہش مغز را نشناسد از پوست\nاگر با این مسلمانی کہ دارم\nمرا از کعبہ میراند حق او ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مانا کہ مولانا صاحب بد مزاج ہیں؛ مانا کہ ان کی نگاہ چھلکے کے اندر سے مغز کو نہیں پہچانتی ۔\n لیکن اگر وہ مجھ جیسے مسلمان کو : کعبہ سے باہر نکال دیں ، تو اس میں وہ حق بجانب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Mullah and Sufi are cross in deed; his eye seldom sees the pitch in its seed. \nIf this is the faith which I have in me; to oust me from Kaaba a right has he.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فرنگی صید بست از کعبہ و دیر\nصدا از خانقاہان رفت لاغیر\nحکایت پیش ملا باز گفتم \nدعا فرمود یا رب عاقبت خیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگی نے کعبہ و دیر (دونوں جگہ) سے (لوگ) شکار کر لیے؛ خانقاہوں سے صدا اٹھی کہ 'وہ غیر نہیں'۔ \n مولانا صاحب کی خدمت میں شکایت کی؛ تو انہوں نے دعا کے لیے ہاتھ اٹھا دیے : 'الہی ! اس کی عاقبت خیر ہو!'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the English subdued the mosque and fane; ‘no aliens are they’, said the convent’s brain.\nI told my fears to a Mullah when; ‘make his end well’, he just prayed then.1\n(Convent: Khanqah or monastry.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ بند صوفی و ملا اسیری\nحیات از حکمت قر ن نگیری \nبہ یاتش ترا کاری جز این نیست\nکہ از یسن او سان بمیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو صوفی و ملّا کی قید میں گرفتار ہے؛ قرآن پاک سے زندگی حاصل نہیں کرتا۔\nاسس کی آیات سے تجھے صرف اتنا سروکار ہے؛ کہ مرتے وقت یسن پڑھ لے، تاکہ جان آسانی سے نکل جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘To Mullah and Sufi thou art a slave; from insight of Quran no life you crave.\nYou need verses only at time of grief; that ‘Yasin’ would give death pangs a relief.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ز قر ن پیش خود ئینہ ویز\nدگرگون گشتہ ئی از خویش بگریز\nترازوئے بنہ کردار خود را\nقیامتہای پیشین را برانگیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "قرآن پاک کے آئینہ میں اپنے خد و خال دیکھ؛ تو یکسر بدل چکا ہے ، اپنے آپ سے گریز کر۔\nاپنا کردار جانچنے کے لیے (قرآن پاک کا) ترازو سامنے رکھ؛ اور پھر سے (دور اوّل کی سی ) قیامتیں برپا کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through the mirror of Quran see thy deeds; how changed it thee, change the life you lead.\nThus weigh in a scale thy actions and thought; get a sweeping change as the elders brought.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ز من بر صوفی و ملا سلامی\nکہ پیغام خدا گفتند ما را \nولی تأویل شان در حیرت انداخت\nخدا و جبرئیل و مصطفی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری طرف سے صوفی و ملّا کو سلام پہنچے ؛ کہ انہوں نے ہمیں اللہ تعالے کا پیغام سنایا ۔\nمگر اس کلام کی جو تاویل انہوں نے کی ؛ اس نے اللہ تعالے ، جبریل (علیہ) اور جناب رسول پاک (صلعم) سب کو حیرت میں ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I salute the Mullah and Sufi old; who gave me the message of God as told.\nIt tilled with wonder the meaning he drew; which God, His Prophet and Gabe never knew.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "(6)",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ز دوزخ واعظ کافر گری گفت\nحدیثی خوشتر از وی کافری گفت\nنداند ن غلام احوال خود را\nکہ دوزخ را مقام دیگری گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک واعظ کافر گر نے (جو بات بات پر دوسروں کو کافر کہتا تھا) دوزخ کی بات کہی؛ مگر کافر نے اس سے بھی دلچسپ بات کہی:\nیہ غلام (شائد) اپنے احوال نہیں جانتا ؛ جو دوزخ کو اوروں کا مقام بتاتا ہے (غلامی کی دوزخ کی زندگی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On hell kafir-maker Mullah spoke; on which a kafir in a nice way broke.\nThat slave knows not where he would go? Who is sending the rest in heirs long row.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "(7)",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "مریدی خود شناسی پختہ کاری\nبہ پیری گفت حرف نیش داری\nبمرگ ناتمامی جان سپردن\nگرفتن روزی از خاک مزاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک پختہ کار اور خود شناس مرید نے ؛ اپنے پیر سے یہ تیکھی بات کہی: \nخاک مزار سے روزی حاصل کرنا ؛ اپنے آپ کو مرگ ناتمام کے سپرد کرنا ہے (ایسا شخص نہ زندہ ہے ، نہ مردہ)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A well read disciple asked his guide; with a word in which a sting did hide.\nTo die for a life will it well behave? To make one’s living from bones of a grave.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "(8)",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "پسر را گفت پیری خرقہ بازی\nترا این نکتہ باید حرز جان کرد\nبہ نمرودان این دور شنا باش\nز فیض شان براہیمی توان کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک پیشہ ور پیر نے اپنے بیٹے سے کہا؛ تجھے یہ نکتہ اچھی طرح سے یاد رکھنا چاہیے: \nاس دور کے نمرودوں سے دوستی رکھ؛ (کیونکہ) ان کے فیض سے براہیمی کا ڈھونگ رچایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus spoke to his son a guide in patched robe; I tell thee a point after whole life’s probe.\nTo Nimrods of this age, know by face’ by God’s grace live with the Abram’s grace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "name-en": "Sufi And Mulla",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

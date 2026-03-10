@@ -1,0 +1,57 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "امیر کاروان آن اعجمی کیست؟\nسرود او بہ آہنگ عرب نیست\nزند آن نغمہ کز سیرابی او \nخنک دل در بیابانی توان زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے قافلہ سالار ! یہ عجمی کون ہے، (اقبال اپنی طرف اشارہ کرتے ہیں)، کہ جس کے نغموں کی لے عربی آہنگ سے مطابقت نہیں رکھتی۔ \nاس نے ایسا نغمہ گایا ہے جس کی سیرابی سے صحرا میں بھی دل کی ٹھنڈک سے زندگی بسر کی جا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who’s that Ajmi as head of caravan’ his tone varies from tune of desert’s man.\nHis tone up a charming, lilting song, that a cold heart feels more young and strong.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مقام عشق و مستی منزل اوست \nچہ آتش ہا کہ در آب و گل اوست\nنوای او بہ ہر دل سازگار است\nکہ در ہر سینہ قاشی از دل اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے بدن میں کیسی آگ پوشیدہ ہے، کہ عشق و مستی کا مقام ہی اس کی منزل ہے۔\nاس کا نغمہ ہر دل سے موافقت رکھتا ہے ، کیونکہ ہر سینے میں اسی کے دل کا ٹکڑا ہے (منزل مستقل چیز ہے، اس کے راستہ میں کئی مقام آتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A place in love and raptures was his aim; such fires were lit up in his muddy frame.\nHis cries chime in with every one’s heart, that every one shares his heart’s good part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

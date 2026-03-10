@@ -1,0 +1,34 @@
+{
+  "id": "32",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز مرغان چمن نا آشنایم\nبہ شاخ آشیان تنہا سرایم\nاگر نازک دلی از من کران گیر\nکہ خونم مے تراود از نوایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں باغ کے پرندوں سے نا واقف ہوں، آشیاں کی شاخ پر بیٹھا تنہا راگ آلاپ رہا ہوں۔\nاگر تو نازک دل ہے تو مجھ سے پرے رہ، کیونکہ میری نوا سے میرا خون ٹپک رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garden songsters’ chorus I, for one, do not join, but sing on my branch alone.\nIf you are weak, do not come near me; for in my song you will see my heart’s blood drawn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

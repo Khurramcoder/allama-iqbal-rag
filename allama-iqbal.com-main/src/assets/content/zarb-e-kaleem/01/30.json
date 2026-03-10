@@ -1,0 +1,34 @@
+{
+  "id": "30",
+  "name": "نماز",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بدل کے بھیس پھر آتے ہیں ہر زمانے میں \nاگرچہ پیر ہیں آدم، جواں ہیں لات و منات \nیہ ایک سجدہ جسے تو گراں سمجھتا ہے \nہزار سجدے سے دیتا ہے آدمی کو نجات!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In different garbs and various masks the idols re-appear in every age: They e'er retain their youth and gloss though man has grown old on this stage.\nProstration 'fore God you presume as irksome, tedious, burden great but mind, this homage sets you free from bonds of men, of might who prate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Prayer (Namaz)",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

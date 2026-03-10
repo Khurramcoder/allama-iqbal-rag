@@ -1,0 +1,97 @@
+{
+  "id": "43",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مکتبوں میں کہیں رعنائی افکار بھی ہے؟ \nخانقاہوں میں کہیں لذت اسرار بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The schools bestow no grace of fancy fine; Cloisters impart no glow of Love Divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "منزل راہرواں دور بھی، دشوار بھی ہے \nکوئی اس قافلے میں قافلہ سالار بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The goal that Travelers seek is far and wide, Alas! There is no chief to lead and guide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بڑھ کے خیبر سے ہے یہ معرکہ دین و وطن \nاس زمانے میں کوئی حیدر کرار بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No less than Khyber, the war of faith and land, but warrior like Ali is not at hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "علم کی حد سے پرے، بندہ مومن کے لیے \nلذت شوق بھی ہے، نعمت دیدار بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beyond the bounds of science for faithful thrall: Is bliss of love and sight of God withal?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیر میخانہ یہ کہتا ہے کہ ایوان فرنگ \nسست بنیاد بھی ہے، آئنہ دیوار بھی ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The chief of tavern thinks that West has raised: The house on shaking founds, whose walls are glazed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

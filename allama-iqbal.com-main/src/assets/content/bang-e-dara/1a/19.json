@@ -1,0 +1,342 @@
+{
+  "id": "19",
+  "name": "ایک آرزو",
+  "name-en": "A Desire",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دنیا کی محفلوں سے اکتا گیا ہوں یا رب\nکیا لطف انجمن کا جب دل ہی بجھ گیا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord! I have become weary of human assemblages! When the heart is sad no pleasure in assemblages can be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شورش سے بھاگتا ہوں، دل ڈھونڈتا ہے میرا\nایسا سکوت جس پر تقریر بھی فدا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek escape from tumult, my heart desires; the silence which speech may ardently love!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مرتا ہوں خامشی پر، یہ آرزو ہے میری\nدامن میں کوہ کے اک چھوٹا سا جھونپڑا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I vehemently desire silence, I strongly long that a small hut in the mountain's side may there be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آزاد فکر سے ہوں، عزلت میں دن گزاروں\nدنیا کے غم کا دل سے کانٹا نکل گیا ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "عزلت: تنہائی، گوشہ نشینی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Freed from worry I may live in retirement; freed from the cares of the world I may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لذت سرود کی ہو چڑیوں کے چہچہوں میں\nچشمے کی شورشوں میں باجا سا بج رہا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Birds' chirping may give the pleasure of the lyre; in the spring's noise may the orchestra's melody be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گل کی کلی چٹک کر پیغام دے کسی کا\nساغر ذرا سا گویا مجھ کو جہاں نما ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flower bud bursting may give God's message to me; showing the whole world to me this small wine-cup may be.\n(The flower bud bursting: This metaphor refers to the wine-cup of Jamshaid, a Persian king, who could see the whole world in it. This is one of the innumerable messages in `Allamah Iqbal's works through which he requires his readers to comprehend and enjoy the creative artistry of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہو ہاتھ کا سرھانا سبزے کا ہو بچھونا\nشرمائے جس سے جلوت، خلوت میں وہ ادا ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوت: ظاہر ہونا یعنی سب کے سامنے منظر عام پر رہنا۔ \nخلوت: جلوت کے بر عکس یعنی تنہائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My arm may be my pillow, and the green grass my bed be; putting the congregation to shame my solitude's quality be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مانوس اس قدر ہو صورت سے میری بلبل\nننھے سے دل میں اس کے کھٹکا نہ کچھ مرا ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مانوس: جان پہچان رکھنے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nightingale be so familiar with my face that her little heart harboring no fear from me may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "صف باندھے دونوں جانب بوٹے ہرے ہرے ہوں\nندی کا صاف پانی تصویر لے رہا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Avenues of green trees standing on both sides be; the spring's clear water providing a beautiful picture be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہو دل فریب ایسا کہسار کا نظارہ\nپانی بھی موج بن کر اٹھ اٹھ کے دیکھتا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The view of the mountain range may be so beautiful; to see it the waves of water again and again rising be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آغوش میں زمیں کی سویا ہوا ہو سبزہ\nپھر پھر کے جھاڑیوں میں پانی چمک رہا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The verdure may be asleep in the lap of the earth; water running through the bushes may glistening be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "پانی کو چھو رہی ہو جھک جھک کے گل کی ٹہنی\nجیسے حسین کوئی آئینہ دیکھتا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again and again the flowered boughs touching the water be; as if some beauty looking at itself in mirror be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "مہندی لگائے سورج جب شام کی دلھن کو\nسرخی لیے سنہری ہر پھول کی قبا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the sun apply myrtle to the evening's bride; the tunic of every flower may pinkish golden be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "راتوں کو چلنے والے رہ جائیں تھک کے جس دم\nامید ان کی میرا ٹوٹا ہوا دیا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When night's travelers falter behind with fatigue; their only hope my broken earthenware lamp may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بجلی چمک کے ان کو کٹیا مری دکھا دے\nجب آسماں پہ ہر سو بادل گھرا ہوا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May the lightning lead them to my hut; when clouds hovering over the whole sky be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پچھلے پہر کی کوئل، وہ صبح کی موذن\nمیں اس کا ہم نوا ہوں، وہ میری ہم نوا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The early dawn's cuckoo, that morning's mu’adhin; may my confidante he be, and may his confidante I be.\n(Mu’adhin: The person calling Muslims to congregational prayers. This is a beautiful metaphor calling the cuckoo as the herald of the morning prayer time.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "کانوں پہ ہو نہ میرے دیر وحرم کا احساں\nروزن ہی جھونپڑی کا مجھ کو سحر نما ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "سحر نما: صبح کا پتا دینے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I not be obligated to the temple or to the mosque; may the hut’s hole alone herald of morning’s arrival be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "پھولوں کو آئے جس دم شبنم وضو کرانے\nرونا مرا وضو ہو، نالہ مری دعا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the dew may come to perform the flowers’ ablution’ may wailing my supplication, weeping my ablution be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اس خامشی میں جائیں اتنے بلند نالے\nتاروں کے قافلے کو میری صدا درا ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this silence may my heart’s wailing rise so high that for stars’ caravan the clarion’s call my wailing be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ہر دردمند دل کو رونا مرا رلا دے\nبے ہوش جو پڑے ہیں، شاید انھیں جگا دے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May every compassionate heart weeping with me be; perhaps it may awaken those who may unconscious be",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

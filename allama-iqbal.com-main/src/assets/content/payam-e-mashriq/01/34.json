@@ -1,0 +1,34 @@
+{
+  "id": "34",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سکندر با خضر خوش نکتہ ئی گفت\nشریک سوز و ساز بحر و بر شو\nتو این جنگ از کنار عرصہ بینی\nبمیر اندر نبرد و زندہ تر شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکندر نے خضر سے کیا اچھی بات کہی، بحر و بر کے سوز و ساز میں حصّہ دار ہو۔\nتو اس جنگ کو کارزار (حیات) کے کنارے سے دیکھتا ہے، کشمکش حیات میں جان دے کر زندہ تر ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sikandar said to Khizar aptly: ‘Dive into the stormy sea of life and strive against the waves. \nWhy watch them from the shore? Jump in and die and be the more alive.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

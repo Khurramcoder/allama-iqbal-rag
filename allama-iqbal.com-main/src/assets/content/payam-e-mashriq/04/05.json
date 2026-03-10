@@ -1,0 +1,225 @@
+{
+  "id": "05",
+  "name": "صحبت رفتگان در عالم بالا",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "name-ur": "عالم بالا میں گزرے ہوؤں کی محفل۔",
+  "Para": [
+    {
+      "name": "تولستوی",
+      "name-en": "Tolstoy",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بارکش اہرمن لشکری شھریار\nاز پی نان جوین تیغ ستم بر کشید\nزشت بہ چشمش نکوست مغز نداند ز پوست\nمردک بیگانہ دوست سینۂ خویشان درید\nداروی بیہوشی است تاج، کلیسا، وطن\nجان خدا داد را خواجہ بجامی خرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "بادشاہ کی فوج کا سپاہی شیطان کا باربردار ہے، معمولی روٹی کے لیے ظلم کی تلوار چلاتا ہے۔\nبد اس کی نظروں میں نیک ہے، وہ مغز ا ور چھلکے میں فرق نہیں کرتا ، یہ احمق غیروں کا ہمدرد ہے اور اپنوں کا سینہ چیرتا ہے۔ \nاج ، کلیسا، اور وطن انسان کو بیہوش کر دینے والی ادویات (تصورات) ہیں۔آقا عوام کو یہ جام پلا کر ان سے اللہ تعالے کی عطا کردہ جان خرید لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ahriman’s hirelings, warriors of kings, draw oppression’s sword for a loaf of bread.\nEvil is their good, and the husk their food. Friends of others, these are their own kin’s foes.\nCountry, church and crown are narcotics grown by the masters to buy their slaves’ souls with.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "کارل مارکس",
+      "name-en": "Karl Marx",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رازدان جزو و کل از خویش نامحرم شد است\nآدم از سرمایہ داری قاتل آدم شد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان جو جزو و کل کا رازدان تھا، اپنے آپ سے نا محرم ہو چکا ہے، سرمایہ داری کی وجہ سے انسان، انسان کا قاتل بن گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For all his wisdom, man is not yet self-aware, and capitalism has rendered man man’s murderer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "ھگل",
+      "name-en": "Hegel",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جلوہ دہد باغ و راغ معنی مستور را\nعین حقیقت نگر حنطل و انگور را\nفطرت اضداد خیز لذت پیکار داد\nخواجہ و مزدور را، آمر و مأمور را",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ و راغ نے چھپے ہوئے معنی ظاہر کر دیے ، حنظل اور انگور کو عین حقیقت دیکھ۔\nاضداد پیدا کرنے والی فطرت نے خواجہ و مزدور اور آمر و مامور کو تصادم کی لذت دی (فلسفہ ء جدلیات کی طرف اشارہ ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reality is double-faced. The orchard and the desert are two aspects of it that one sees. To know the whole truth one must taste both grapes and bitter gourds.\nSo fond is Nature of antitheses that it has set at war employees and employers, slaves and lords.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "تولستوی",
+      "name-en": "Tolstoy",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عقل دو رو آفرید فلسفہ خود پرست\nدرس رضا میدہی بندۂ مزدور را",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل جس کے دو رخ ہیں ، اس نے خود پرستی کا فلسفہ ایجاد کیا ، کیا تو بندہ ء مزدور کو تقدیر پر راضی رہنے کا درس دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The two-faced intellect with its philosophy of egotism bids the worker suffer patiently.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "مزدک",
+      "name-en": "Mazdak",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دانۂ ایران ز کشت زار و قیصر بر دمید\nمرگ نو می رقصد اندر قصر سلطان و امیر\nمدتی در آتش نمرود می سوزد خلیل\nتا تہی گردد حریمش از خداوندان پیر\nدور پرویزی گذشت اے کشتۂ پرویز خیز\nنعمت گم گشتۂ خود را ز خسرو باز گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایران کا دانہ زار اور قیصر کی کھیتی سے اگا، اب سلطان اور امیر کے محلات میں نئی موت رقص کر رہی ہے۔ \nخلیل (علیہ) ایک مدت تک آتش نمرود میں جلتا ہے ، تب کہیں اس کا حرم پرانے خداوندوں سے خالی ہوتا ہے۔ \nپرویز کا دور گزر گیا ، اے قتیل پرویز اٹھ، اپنی گم شدہ نعمت اس سے واپس لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iran’s seed sprouts forth from the soil of the empires of the Kaisers and the Czars. Death dances a new dance in kings’ and rich men’s palaces.\nFor ages does an Abraham burn in a Nimrod’s fire before he can cast out old idols from the sanctuary of his Lord.\nGone is the age of Parvez, wake up now, O victims of his tyranny. Wrest back from him the good things he deprived you of.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "کوہکن",
+      "name-en": "Kohkan",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نگار من کہ بسی سادہ و کم آمیز است\nسیتزہ کیش و ستم کوش و فتنہ انگیز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا محبوب جو بہت سادہ اور کم آمیز ہے ، جھگڑالو ، ظالم اور فتنہ انگیز بھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though outwardly so simple and so shy, my loved one is a tyrant, sly and full of mischief and deceit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "برون او ھمہ بزم و درون او ہمہ رزم\nزبان او ز مسیح و دلش ز چنگیز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ظاہر میں بزم آرا (صلح جو) ہے، لیکن اندر سے سر تا پا جنگ (و جدل) ہے، اس کی زبان مسیح جیسی اور دل چنگیز کا سا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She looks all amity, but is a fighter in reality. Like Christ’s her tongue is sweet: Her heart is hard like that of Genghis Khan, that cruel man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گسست عقل و جنون رنگ بست و دیدہ گداخت\nدر آ بہ جلوہ کہ جانم ز شوق لبریز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل گئی، جنوں نے رنگ باندھا اور میری آنکھوں سے آنسو ٹپکنے لگے ، اپنا جلوہ دیکھا کیونکہ میری جان شوق سے لبریز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My intellect has broken down: My madness will soon reach its crown; my vision has dissolved in tears. Appear to me: I pine for you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "اگرچہ تیشۂ من کوہ را ز پا آورد\nہنوز گردش گردون بکام پرویز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میرے تیشے نے پہاڑ کو منہدم کر دیا، لیکن ابھی تک آسمان پرویز ہی کے حق میں گردش کر رہا ہے (زمانہ اسی کے موافق ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My pickaxe has laid low a hill at your command; but still the world appears to favour Parvez, as you do.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ز خاک تا بفلک ہر چہ ہست رہ پیماست\nقدم گشای کہ رفتار کاروان تیز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک سے آسمان تک جو کچھ بھی ہے ، سفر میں ہے ، (تو بھی) قدم اٹھا کیونکہ کارواں کی رفتار (بہت) تیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From earth to sky all things seem running in a race. The caravan moves fast: make haste, increase your pace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "name-en": "An Assemblage In The Other World",
+  "credits": "English Translation by: M. Hadi Husain"
+}

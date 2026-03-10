@@ -1,0 +1,66 @@
+{
+  "id": "01",
+  "name": "مرد فرنگ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہزار بار حکیموں نے اس کو سلجھایا \nمگر یہ مسئلہ زن رہا وہیں کا وہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To solve this riddle thinkers have much tried, their efforts all so far it has defied.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قصور زن کا نہیں ہے کچھ اس خرابی میں \nگواہ اس کی شرافت پہ ہیں مہ و پرویں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No doubt, to woman's faith and conduct clear, the Pleiades and moon do witness bear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فساد کا ہے فرنگی معاشرت میں ظہور \nکہ مرد سادہ ہے بیچارہ زن شناس نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This vice in Frankish way of life we find, men fools and blind, can't read a woman's mind.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Frankish Man",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

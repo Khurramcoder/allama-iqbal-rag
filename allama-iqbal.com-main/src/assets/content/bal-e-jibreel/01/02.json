@@ -1,0 +1,115 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر کج رو ہیں انجم، آسماں تیرا ہے یا میرا \nمجھے فکر جہاں کیوں ہو، جہاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کج رو: ٹیڑھا چلنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the stars stray from their path, the sky is Yours, not mine.\nWhy should I worry for the world? The world is Yours, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگر ہنگامہ ہائے شوق سے ہے لامکاں خالی \nخطا کس کی ہے یا رب! لامکاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the realm beyond space is empty of passion and longing,\nwhose fault is it, my Lord? That world is Yours, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اسے صبح ازل انکار کی جرات ہوئی کیونکر \nمجھے معلوم کیا، وہ راز داں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How did he dare to refuse You at the dawn of creation?\nHow could I know? That secret was Yours, not mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "محمد بھی ترا، جبریل بھی، قرآن بھی تیرا \nمگر یہ حرف شیریں ترجماں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرف شيريں: میٹھے الفاظ، اشارہ ہے اپنی شاعری کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Muhammad is Yours, Gabriel is Yours, the Qur’an is Yours.\nBut these sweet words that explain it—are they Yours, or mine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اسی کوکب کی تابانی سے ہے تیرا جہاں روشن \nزوال آدم خاکی زیاں تیرا ہے یا میرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسي کوکب: اسی ستارے، مراد ہے انسان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is man’s light that brightens Your universe.\nIf mankind falls into decline, is the loss Yours or mine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ترے شیشے میں مے باقی نہیں ہے \nبتا، کیا تو مرا ساقی نہیں ہے \nسمندر سے ملے پیاسے کو شبنم \nبخیلی ہے یہ رزاقی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your cup holds no wine anymore.\nTell me—are You still my Cupbearer, or not?\nTo give a thirsty man a dewdrop while the ocean is full\nThat is miserliness, not the generosity of a Sustainer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

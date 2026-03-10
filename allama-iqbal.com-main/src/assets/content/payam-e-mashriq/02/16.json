@@ -1,0 +1,120 @@
+{
+  "id": "16",
+  "name": "کبر و ناز",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یخ، جوی کوہ را ز رہ کبر و ناز گفت\nما را ز مویۂ تو شود تلخ روزگار",
+              "lang": "Original"
+            },
+            {
+              "_content": "برف نے از رہ تکبر پہاڑی ندی سے کہا؛ تیری نرمی (و نزاکت) سے ہماری زندگی تلخ ہو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said snow in cold superior syllables to the mountain stream: ‘O babbler, I am weary of your meaningless uproar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گستاخ می سرائی و بیباک میروی\nہر سال شوخ دیدہ و آوارہ تر ز پار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو گستاخی سے گاتی اور بے باکی سے چلتی ہے؛ ہر سال پہلے سے زیادہ شوخ چشم اور آوارہ ہوتی جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You talk so impudently and you walk so saucily, and ever bolder are your gait and glances than before.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شایان دودمان کہستانیان نئے\nخود را مگوی دخترک ابر کوہسار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کوہستان میں رہنے والوں کے خاندان کی شان کے شایان نہیں؛ اپنے آپ کو ابر کوہسار کی بیٹی نہ کہا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are not fit to be a member of our family; so never claim to be a creature whom the mountain bore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گردندہ و فتندہ و غلطندہ ئی بخاک\nراہ دگر بگیر و برو سوی مرغزار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو خاک پر گرتی ، گھومتی اور لوٹ پوٹ ہوتی ہے؛ دوسری راہ اختیار کر اور مرغزار کی جانب چل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You roam and roll and tumble like an urchin in the dust. Go to the felds and plains and let us hear of you no more.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت آب جو چنین سخن دل شکن مگوی\nبر خویشتن مناز و نھال منی مکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "ندی نے کہا ایسی دل شکن باتیں نہ کر؛ اپنے آپ پر فخر کر (اپنے اندر) تکبر کا درخت نہ اگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stream replied, ‘O do not speak such hurtful words to me. Do not be so proud and, what is more, do not be a boor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "من میروم کہ در خور این دودمان نیم\nتو خویش را ز مہر درخشان نگاہ دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تو جا رہی ہوں کیونکہ اس خاندان کے شایان نہیں ؛ تو اپنے آپ کو آفتاب درخشاں سے بچانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I go because the mountain household is too high for me; but you be careful lest the sun should melt you to the core.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Vanity",
+  "credits": "English Translation by: M. Hadi Husain"
+}

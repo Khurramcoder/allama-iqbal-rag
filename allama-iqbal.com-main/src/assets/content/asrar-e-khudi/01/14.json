@@ -1,0 +1,358 @@
+{
+  "id": "14",
+  "name": "حکایت الماس و زغال",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "name-ur": "الماس اور کوئلے کی حکایت۔",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از حقیقت باز بگشایم دری\nبا تو می گویم حدیث دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایک بار پھر حقیقت کا دروازہ کھولتا ہوں ؛ تمہیں ایک اور کہانی سناتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now I will open one more gate of Truth; I will tell thee another tale.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفت با الماس در معدن، زغال\nاے امین جلوہ ہای لازوال",
+              "lang": "Original"
+            },
+            {
+              "_content": "کان میں کوئلے نے الماس سے کہا؛ تو لازوال جلوں کو اپنے اندر سمیٹے ہوئے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The coal in the mine said to the diamond; O thou entrusted with splendours eve lasting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ھمدمیم و ہست و بود ما یکیست\nدر جہان اصل وجود ما یکیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اکٹھے رہتے ہيں اور ہماری زندگی بھی ایک جیسی ہے؛ دنیا میں ہمارے وجود کی اصل بھی ایک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are comrades, and our being is one; the source of our existence is the same.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "من بکان میرم ز درد ناکسی\nتو سر تاج شہنشاہان رسی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کان کے اندر ہی بے بسی کے عالم میں مر جاتا ہوں ؛ اور تو پادشاہوں کے تاج تک جا پہنچتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet while I die here in the anguish of worthlessness; thou art set on the crowns of emperors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "قدر من از بد گلی کمتر ز خاک\nاز جمال تو دل آئینہ چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدصورتی کے باعث میں خاک سے بھی کمتر ہوں ؛ تیرے حسن سے آئینے کا دل بھی ٹکڑے ٹکڑے ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My stuff is so vile that I am valued less than earth; whereas the mirror's heart is rent by thy beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "روشن از تاریکی من مجمر است\nپس کمال جوہرم خاکستر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری تاریکی سے انگیٹھی روشن ہوتی ہے؛ میرے جوہر کا کمال (بس) راکھ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My darkness illumines the chafing dish; then my substance is incinerated at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پشت پا ہر کس مرا بر سر زند\nبر متاع ہستیم اخگر زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر شخص میرے سر پر پاؤں رکھتا ہے؛ ہر شخص میری متاع حیات کو چنگاری ڈال کر جلا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every one puts the sole of his foot on my head; and covers my stock of existence with ashes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بر سروسامان من باید گریست\nبرگ و ساز ہستیم دانی کہ چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری حالت ایسی ہے جس پر رویا جائے ؛ کیا تو نے کبھی غور کیا کہ میرے وجود کی حقیقت کو جلا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My fate must needs be deplored; dost thou know what is the gist of my being?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "موجہ ی دودی بہم پیوستہ ئی\nمایہ دار یک شرار جستہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں دھوئیں کی ایک لہر ہوں جس کے اجزا آپس میں پیوستہ ہیں اور جس کا سرمایہ ایک اڑتی ہوئی چنگاری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a condensed wavelet of smoke; endowed with a single spark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مثل انجم روی تو ہم خوی تو\nجلوہ ہا خیزد ز ہر پھلوی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا چہرہ اور تیرے خصائل ستاروں جیسے ہیں ؛ تیرے ہر پہلو سے جلوے اٹھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both in feature and nature thou art star-like; splendours rise from every side of thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "گاہ نور دیدہ ی قیصر شوے\nگاہ زیب دستہ ی خنجر شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی تو پادشاہ کی آنکھ کا نور بن جاتا ہے اور کبھی خنجر کے دستے کی زیبائش ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now thou become'st the light of a monarch's eye; now thou adornest the haft of a dagger.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گفت الماس اے رفیق نکتہ بین\nتیرہ خاک از پختگی گردد نگین",
+              "lang": "Original"
+            },
+            {
+              "_content": "الماس نے کہا اے نکتہ بیں ساتھی! (بات یہ ہے کہ) تاریک مٹی پختگی سے نگینہ بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O sagacious friend!’ said the diamond; ‘Dark earth, when hardened, becomes in dignity as a bezel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تا بہ پیرامون خود در جنگ شد\nپختہ از پیکار مثل سنگ شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ مٹی اپنے ارد گرد سے متصادم ہوتی ہے تو اس جنگ سے پتھر کی مانند پختہ ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having been at strife with its environment; it is ripened by the struggle and grows hard like a stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "پیکرم از پختگی ذوالنور شد\nسینہ ام از جلوہ ہا معمور شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا وجود بھی پختگی سے ہی نورانی ہو گیا ہے؛ اور میرا سینہ جلوں سے معمور ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'Tis this ripeness that has endowed my form with light; and filled my bosom with radiance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "خوار گشتی از وجود خام خویش\nسوختی از نرمی اندام خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنے خام وجود کے باعث ذلیل و خوار ہوا ہے؛ اور اپنے بدن کی نرمی کے سبب جلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because thy being is immature, thou hast become abased; because thy body is soft, thou art burnt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "فارغ از خوف و غم و وسواس باش\nپختہ مثل سنگ شو الماس باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوف و غم اور وسواس سے فارغ ہو جا؛ پتھر کی مانند پختہ ہو کر الماس بن جا (خوف، حزن اور وسواس انسان کو کمزور بناتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be void of fear, grief, and anxiety; be hard as a stone, be a diamond!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "می شود از وی دو عالم مستنیر\nہر کہ باشد سخت کوش و سختگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کوئی سخت کوش اور سخت گیر ہے اس سے دوروں جہان روشن ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whosoever strives hard and grips tight; the two worlds are illumined by him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "مشت خاکی اصل سنگ اسود است\nکو سر از جیب حرم بیرون زد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنگ اسود جس نے بیت اللہ شریف کی جیب سے باہر سر نکالا ہوا ہے، اس کی اصل بھی ایک مشت خاک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A little earth is the origin of the Black Stone; which puts forth its head in the Ka‘bah:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "رتبہ اش از طور بالا تر شد است\nبوسہ گاہ اسود و احمر شد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا مرتبہ طور سے بھی بڑھ کر ہو گیا ہے؛ سب کالے گورے انسان اسے بوسہ دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its rank is higher than Sinai; it is kissed by the swarthy and the fair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "در صلابت آبروی زندگی است\nناتوانی، ناکسے ناپختگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کی آبرو پختگی اور محکمی سے ہے؛ کمزوری اور بے چارگی ناپختگی ہی کا نام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In solidity consists the glory of Life; weakness is worthlessness and immaturity.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Story Of The Diamond And The Coal",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

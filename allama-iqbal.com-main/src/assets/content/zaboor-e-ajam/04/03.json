@@ -1,0 +1,493 @@
+{
+  "id": "03",
+  "name": "در فن تعمیر مردان آزاد",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "04",
+  "sectionName": "در بیان فنون لطیفۂ غلامان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یک زمان با رفتگان صحبت گزین\nصنعت آزاد مردان ہم ببین",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک لمحہ کے لیے گزرے ہوؤں کی صحبت اختیار کر اور آزاد مردوں کا فن بھی دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A slave, a follower shy of new ideas, is satisfied with status quo and he ceases to be a creative being. On the other hand, a freeman is never satisfied with the world he inherits. He wants change; constantly endeavours for improvement. He is an embodiment of creativity. In the last part of Bandgi Namah Allamah showed a glimpse of free man to draw contrast between him and slave.\nSpare a moment for the company of those who have passed away; see the art (works) of free men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خیز و کار ایبک و سوری نگر\nوا نما چشمی اگر داری جگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیرے اندر حوصلہ ہے تو اپنی آنکھ کھول، اٹھ اور قطب الدین ایبک اور شیر شاہ سوری کے کرشمے دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open your eyes and see at miracles performed by Qutbuddin Aibek and Sher Shah Suri, if you have the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خویش را از خود برون آوردہ اند\nاین چنین خود را تماشا کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے تعمیرات میں اپنے آپ کو ظاہر کر کے خود اپنا نظّارہ کیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The displayed their inner selves through construction (creativity) and then sought satisfaction by looking at their own creations (through eyes of others).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سنگہا با سنگہا پیوستہ اند\nروزگاری را بہ آنی بستہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے پتّھر کو پتّھر سے وابستہ کر کے پورے عہد کو ایک لمحہ میں مقید کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By arranging stones along stones; they captured eternity in a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دیدن او پختہ تر سازد ترا\nدر جھان دیگر اندازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان تعمیرات کو دیکھنا تمہاری شخصیت کو پختہ تر بناتا، اور تمہیں ایک اور جہان میں لے جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Watching their creations (works) strengthens your personality; it takes you to another world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نقش سوی نقشگر می آورد\nاز ضمیر او خبر می آورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فن اپنے فنکار کی طرف لے جاتا ہے اور اس کے ذہن رسا کا پتہ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Art (symbol) takes you towards artist (creator); provides access into artist’s mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہمت مردانہ و طبع بلند\nدر دل سنگ این دو لعل ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان عمارتوں کو دیکھنے سے ان کے پتّھر وں میں، ہمّت مردانہ اور طبع بلند کے دو قیمتی موتی نظر آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pearls of sustained manly effort and noble nature can be seen in the stones these buildings (creations).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سجدہ گاہ کیست این از من مپرس\nبی خبر روداد جان از تن مپرس",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے نہ پوچھ یہ شاہکار کس کا سجدہ گاہ ہیں ، بے خبر! روح کے احوال کو بدن کیا بتا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t ask me whose place of worship these masterpieces become; O ignorant! Body cannot describe the tale of spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "واے من از خویشتن اندر حجاب\nاز فرات زندگی ناخوردہ آب",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس ہے مجھ پر کہ میں اپنے آپ سے حجاب میں ہوں، (اپنے آپ کو ظاہر نہیں کر سکا) میں نے زندگی کے دریا سے پانی نہیں پیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe me! I am hidden from myself (I have not been able to discover myself); I have yet to drink from the stream of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "واے من از بیخ و بن بر کندہ ئی\nاز مقام خویش دور افکندہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس مجھ پر کہ میں نے اپنی بنیادیں کھود دی ہیں، اور اپنے مقام سے دور جا پڑا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe me! I regret digging (demolishing) my foundations; and I have fallen away from my (distinguished) position.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "محکمی ہا از یقین محکم است\nواے من شاخ یقینم بی نم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "استحکام ، یقیں محکم ہی سے حاصل ہوتا ہے، افسوس کہ میری شاخ یقیں سوکھ چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stability accrues from strong faith; regretfully the branch of my faith has gone dry (has died).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در من آن نیروی الا اﷲ نیست\nسجدہ ام شایان این درگاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر الا الہ کی قوّت نہیں، میرا سجدہ اس درگاہ کے لائق نہيں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I lack the strength of illallah (of the true faith, that there is no god except Allah); so my prostration is not worth this high shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "یک نظر آن گوھر نابی نگر\nتاج را در زیر مہتابی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک نظر اس گوہر نایاب کو دیکھ، تاج محل کا چاندنی رات میں نظّارہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have a glance at this rare jewel; look at Taj Mahal in moonlit night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "مرمرش ز آب روان گردندہ تر\nیک دم آنجا از ابد پایندہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا سنگ مرمرآب رواں سے بھی زیادہ تیز رو ہے (اس پر نظر نہیں ٹھہرتی) وہاں کا ایک لمحہ ابد سے پائندہ تر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its marble is shinier that the running (spring) water (it is difficult to focus on its dazzle); a moment of his world is longer than eternity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عشق مردان سر خود را گفتہ است\nسنگ را با نوک مژگان سفتہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اس عمارت کے ذریعے ) عشق مرداں نے اپنا بھید کہا ہے، (گویا ) پتھروں کو پلکوں کی نوک سے پرو دیا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret of True Love has been expressed (through their works); as if stone slabs have been laced (arranged) with the help of eyelashes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "عشق مردان پاک و رنگین چون بہشت\nمی گشاید نغمہ ہا از سنگ و خشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق مرداں بہشت کی مانند پاک اور رنگیں ہے، وہ سنگ و خشت سے نغمے پیدا کر لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love is clean and colourful like heavens; it produces songs with (the help of) stones and bricks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "عشق مردان نقد خوبان را عیار\nحسن را ھم پردہ در ہم پردہ دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق مرداں محبوبوں ( کے جمال ) کی قیمت کا معیار ہے، وہ حسن کے چہرے سے پردہ بھی اٹھاتا ہے اور حسن کی حفاظت بھی کرتا ہے۔ (پردہ در اور پردہ دار)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love is reflection (criterion) of the beauty; he (lover) reveals the beauty and then guards it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ہمت او آنسوی گردون گذشت\nاز جہان چند و چون بیرون گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ہمّت افلاک سے آگے بڑھ جاتی ہے، وہ اس جہان چندوچوں سے باہر نکل جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His perseverance takes him beyond heavens; his world (endeavours) cross the barriers of ifs and buts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "زانکہ در گفتن نیاید آنچہ دید\nاز ضمیر خود نقابی بر کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیونکہ جو کچھ وہ دیکھتا ہے وہ الفاظ میں نہیں سماتا، اس لیے وہ اپنے اندرون سے نقاب اٹھا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever he sees cannot be described in words; so (without uttering a world) he exposes beauty of his inner-self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از محبت جذبہ ہا گردد بلند\nارج می گیرد ازو ناارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت سے جذبات میں بلندی پیدا ہوتی ہے، یہ بے قدر و قیمت کی قیمت بڑھا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love elevates the passions (to new heights); because of that the worthless becomes precious.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "بی محبت زندگی ماتم ھمہ\nکاروبارش زشت و نامحکم ھمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت کے بغیر زندگی سر تا پا ماتم ہے، اس کا سارا کاروبار قبیح و نا پختہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without True Love life is eternal wailing; its entire affairs are rendered corrupt and unstable.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "عشق صیقل می زند فرہنگ را\nجوہر آئینہ بخشد سنگ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق ، عقل کو چمکا دیتا ہے، وہ پتھّر کو آئینے کی طرح شفاف بنا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love sharpens the common sense; it imparts shining glaze to the (rough surface) of stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اھل دل را سینۂ سینا دہد\nبا ھنرمندان ید بیضا دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق سے اہل دل کا سینہ جلوہ گاہ سینا بن جاتا ہے، وہ ہنرمند وں کو یدبیضا عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love turns the heart into Mount Sinai; it gives brightness to the hand of the artist (like that Mose’s hand; he starts performing miracles).\\",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "پیش او ہر ممکن و موجود مات\nجملہ عالم تلخ و او شاخ نبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے سامنے تمام ممکنات و موجودات ہیچ ہیں، ساری دنیا تلخ ہے اور صرف عشق مصری کی ڈلی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All realities and possibilities become ordinary in True Love; entire world is bitter (in taste); only True Love is sweet like sugar cube.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گرمی افکار ما از نار اوست\nآفریدن جان دمیدن کار اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے افکار کی گرمی آتش عشق سے ہے، پیدا کرنا اور اس میں روح پھونکنا عشق ہی کا کام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fire of True Love (transmits) warmth into the thinking; True Love moulds a body (out of dust) and then grants it soul (life).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "عشق مور و مرغ و آدم را بس است\nعشق تنہا ہر دو عالم را بس است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چیوئٹی، پرندے اور انسان سب کے لیے عشق کافی ہے، 'اکیلا عشق دونوں جہانوں کے لیے بس ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love is sufficient for insects, birds and humans; True Love alone is better than two worlds (this and the world hereafter).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "دلبری بی قاہری جادوگری است\nدلبری با قاہری پیغمبری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلبری (جمال) بغیر قاہری (جلال) کے (محض) جادوگری ہے، دلبری قاہری کے ساتھ ہو تو پیغمبری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Love without power (to captivate) is magic (illusion, deception); Love with power is prophecy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "ہر دو را در کار ہا آمیخت عشق\nعالمی در عالمی انگیخت عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق اپنے کاموں میں ان دونوں کو ملا دیتا ہے، اور اس طرح اس جہان کے اندر ایک نیا جہان پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True Love combines the two (characteristics) into one; and then creates a new world in this ancient world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "On The Architecture Of Free Men"
+}

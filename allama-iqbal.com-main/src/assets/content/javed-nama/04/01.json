@@ -1,0 +1,493 @@
+{
+  "id": "01",
+  "name": "فلک زہرہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "04",
+  "sectionName": "فلک زہرہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در میان ما و نور آفتاب\nاز فضای تو بتو چندین حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند اور نور آفتاب کے درمیان تہ در تہ فضا کے کئی حجاب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Between us and the light of the sun there hang how many veils of space fold upon fold!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیش ما صد پردہ را آویختند\nجلوہ ہای آتشین را بیختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سامنے سینکڑوں پردے لٹکا دیے گئے ہیں اور اس طرح اپنے آتشیں جلوں کو پیچ در پیچ بنا دیا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred curtains have been suspended before us, intertwisted firework displays,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تا ز کم سوزے شود دل سوز تر\nسازگار آید بشاخ و برگ و بر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ کم سوزی سے دل میں اور زیادہ سوز پیدا ہو؛ اور یہ سوز (شجر حیات) کی شاخوں، پتّوں اور پھل کے لیے مفید ثابت ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That the passionless heart may grow in fervor and become pleasing, like a tree bearing branches, leaves, and fruit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از تب او در عروق لالہ خون\nآب جو از رقص او سیماب گون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی تپش سے گل لالہ کی رگوں میں خون ہے؛ اس کے رقص سے ندی سیماب کی مانند بے قرار رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through its glow blood leaps in the tulip’s veins, its dance transmutes the stream to quicksilver.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہمچنان از خاک خیزد جان پاک\nسوی بے سوئی گریزد جان پاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی طرح خاکی بدن میں جان پاک نمودار ہوتی ہے اور چار سو سے بے جہت کی جانب حرکت کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even so the pure spirit rises from the dust, the pure spirit flees towards whither towards is not;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در رہ او مرگ و حشر و نشر و مرگ\nجز تب و تابی ندارد ساز و برگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان پاک کی راہ میں موت، دوبارہ زندہ ہونا اور حشر و موت تب و تاب کے سوائے اور کوئی سامان نہیں رکھتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On that road are but death and resurrection, resurrection and death, no other provision save fever and glowing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "در فضائی صد سپہر نیلگون\nغوطہ پیھم خوردہ باز آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "يہ جان پاک سینکڑوں نیلگوں آسمانوں کی فضا میں پیہم غوطے لگاتی اور باہر آتی رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Into that expanse of a hundred azure heavens plunging continually, it surges out anew;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خود حریم خویش و ابراہیم خویش\nچون ذبیح اﷲ در تسلیم خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "يہ جان پاک آپ ہی اپنا حرم ہے اور آپ اپنا ابراہیم (معمار حرم) آپ ہی ذبیح اللہ کی طرح اپنے سامنے سر تسلیم خم کرنے والی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Itself its own sanctuary, its own Abraham, self-offering, like him who was sacrificed to God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پیش او نہ آسمان نہ خیبر است\nضربت او از مقام حیدر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نو آسمان اس کے سامنے نو خیبر ہیں ؛ اپنی ضرب حیدری سے وہ انہیں فتح کرتی جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before it the nine heavens are nine Khaibars, its smiling is of the stature of Haidar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "این ستیز دمبدم پاکش کند\nمحکم و سیار و چالاکش کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر لمحہ کی یہ کشمکش اسے پاکیزہ، محکم، سرگرم سفر اور ہوشیار بناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is this incessant conflict that purifies the spirit, makes it firm, speedy, nimble,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "می کند پرواز در پہنای نور\nمخلبش گیرندۂ جبریل و حور",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ نور کی فضا میں پرواز کرتی ہے؛ اس کا پنجہ جبریل و حور کا شکار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It spreads its wings in the broadness of light, its talons seize Gabriel and the houris,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تاز \"ما زاغ البصر\" گیرد نصیب\nبر مقام \"عبدہ\" گردد رقیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ ما زاغ البصر سے نصیب پاتی ہے اور مقام عبدہ کی ہمسر بنتی ہے (جناب رسول پاک (صلعم) کی معراج کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That it may take its share in the eye swerved out and stand guardian in the ranks of God’s servants.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "از مقام خود نمیدانم کجاست\nاین قدر دانم کہ از یاران جداست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا میرا مقام کہاں ہے؛ اتنا جانتا ہوں کہ وہ دوستوں سے الگ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know where my own station is, I only know that it is apart from all friends.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اندرونم جنگ بے خیل و سپہ\nبیند آنکو ہمچو من دارد نگہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر لشکر و فوج کے بغیر جنگ جاری رہتی ہے؛ اسے وہی دیکھ سکتا ہے جو میری طرح صاحب نگاہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deep within me rages a war without horsemen and armies; he well descries it who has vision like me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بیخبر مردان ز رزم کفر و دین\nجان من تنہا چو زین العابدین",
+              "lang": "Original"
+            },
+            {
+              "_content": "لوگ کفر و دین کی اس جنگ سے بے خبر ہیں ؛ میری جان حضرت زین العابدین (رضی اللہ ) کی مانند تنہا (اسے دیکھ رہی) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men are ignorant of the conflict between unbelief and faith, my soul is lonely, like Zain al-Abidin;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "از مقام و راہ کس آگاہ نیست\nجز نوای من چراغ راہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اس دور میں) کوئی شخص راستے اور منزل سے آگاہ نہیں؛ سوائے میری آواز کے اور کوئی راستے کا چراغ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None is apprised of the station and the way, but for my song there is no lamp to light the path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "غرق دریا طفلک و برنا و پیر\nجان بساحل بردہ یک مرد فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بچے، جوان اور بوڑھے سب دریائے (غفلت) میں غرق ہیں ؛ صرف ایک مرد فقیر (اقبال) جان بچا کر ساحل تک پہنچ سکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Infant, youth, old man-all are drowned in the sea, only one poor soul has won his way to the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بر کشیدم پردہ ہای این وثاق\nترسم از وصل و بنالم از فراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس حریم (کائنات) کے پردے ہٹا دیئے ہیں؛ وصل سے ڈرتا ہوں اور فراق میں آہ و زاری کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have drawn aside the curtains of this tent; I am fearful of union, and lament for separation",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "وصل ار پایان شوق است الحذر\nاے خنک آہ و فغان بے اثر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر وصل سے شوق ختم ہو جائے تو خدا اس سے بے اثر آہ و فغاں کہیں بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If union be the end of yearning, beware; how blessed the sighs and vain lamentations!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "راہرو از جادہ کم گیرد سراغ\nگر بجانش سازگار آید فراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر راہرو کو فراغت راس آ جائے ؛ تو پھر وہ راستہ معلوم کرنے کی کوشش نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wayfarer searches little for the high-road if to be carefree is congenial to his soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آن دلے دارم کہ از ذوق نظر\nہر زمان خواہد جہانی تازہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں وہ دل رکھتا ہوں جو ذوق نظر کے سبب ہر لمحہ جہان تازہ کا طلبگار رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul is such that, for the joy of gazing, it every moment desires a new world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "رومی از احوال جان من خبیر\nگفت \"می خواہی دگر عالم بگیر!",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے جو میری جان کی کیفیت سے باخبر ہے؛ کہا: اور جہان چاہیے ؟ یہ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi, well aware of the states of my soul, said ‘Do you desire another world? Take it!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "عشق شاطر، ما بدستش مہرہ ایم\nپیش بنگر در سواد زھرہ ایم\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق شاطر ہے، ہم اس کے ہاتھ میں مہرے ہیں ؛ سامنے دیکھ ہم زہرہ کے ماحول میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is cunning, and we are counters in his hand; look ahead-we are in the land of Venus.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "عالمے از آب و خاک او را قوام\nچون حرم اندر غلاف مشک فام",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایسا جہان ہے جس کا قوام آب و خاک سے ہے؛ یہ حرم کی طرح مشک فام (سیاہ) غلاف میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world too subsists on water and clay, a sanctuary enveloped in purest musk;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "با نگاہ پردہ سوز و پردہ در\nاز درون میغ و ماغ او گذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پردہ سوز اور پردہ پھاڑ دینے والی نگاہ کے ساتھ اس کے بادلوں اور دھند میں سے گذر جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a glance that burns and rends all veils pass within its clouds and mists",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "اندرو بینی خدایان کہن\nمی شناسم من ہمہ را تن بتن",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں تو پرانے خدایان باطل پائے گا؛ ان میں سے ایک ایک کو خوب پہچانتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And you will see therein the ancient gods; I know them all, one by one;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "بعل و مردوخ و یعوق و نسروفسر\nرم خن و لات و منات و عسروغسر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بعل، مردوخ، یعوق، نسر، فسر، رم خن، لات، منات، عسر، غسر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Baal, Marduk, Ya‘uq, Nasr, Fasr, Ramkhan, Lat, Manat, Asr, Ghasr;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بر قیام خویش می آرد دلیل\nاز مزاج این زمان بے خلیل\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دور حاضر کے توحید سے خالی مزاج کو اپنے دوبارہ واپس آنے کی دلیل سمجھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every one of them offers proof of its immortality in the temper of this age that knows no Abraham.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Sphere Of Venus"
+}

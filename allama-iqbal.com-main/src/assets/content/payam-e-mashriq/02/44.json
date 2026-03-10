@@ -1,0 +1,66 @@
+{
+  "id": "44",
+  "name": "چیستان شمشیر",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آن سخت کوش چیست کہ گیرد ز سنگ آب\nمحتاج خضر مثل سکندر نمی شود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Name that very keen contender which draws luster just like water from a stone, but which, unlike Alexander, does not owe it to a Khizr as a boon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مثل نگاہ دیدۂ نمناک پاک رو\nدر جوی آب و دامن او تر نمی شود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And which, like a tear-washed vision, purified by that ablution, is agleam, neat and clean and clear and limpid, with its raiment quite unwetted in midstream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مضمون او بہ مصرع برجستہ ئی تمام\nمنت پذیر مصرع دیگر نمی شود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its theme needs no longer statement than a single line, if trenchant.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Riddle Of The Sword",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نگہ الجھی ہوئی ہے رنگ و بو میں \nخرد کھوئی گئی ہے چار سو میں \nنہ چھوڑ اے دل فغان صبح گاہی \nاماں شاید ملے، اللہ ھو میں!",
+              "lang": "Original"
+            },
+            {
+              "_content": "فغان صبح گاہي: صبح سویرے اللہ کو یاد کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Distracted are thy eyes in myriad ways; distracted is thy reason in many pursuits.\nForsake not, O heart, thy morning sighs! Chanting His name, thou mayest save thy soul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

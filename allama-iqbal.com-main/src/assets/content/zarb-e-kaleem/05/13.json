@@ -1,0 +1,67 @@
+{
+  "id": "13",
+  "name": "غلاموں کے لیے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حکمت مشرق و مغرب نے سکھایا ہے مجھے \nایک نکتہ کہ غلاموں کے لیے ہے اکسیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both wisdoms of the East and West have given to me of their best: Both of them to me have taught a point with Elixir's virtues fraught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دین ہو، فلسفہ ہو، فقر ہو، سلطانی ہو \nہوتے ہیں پختہ عقائد کی بنا پر تعمیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It may be philosophy or creed, Derveshhood or else kingly breed; through sound beliefs they grow mature, get built on founds so firm and sure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حرف اس قوم کا بے سوز، عمل زار و زبوں \nہو گیا پختہ عقائد سے تہی جس کا ضمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زار و زبوں: ذلیل و خوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of ripe beliefs, if nations' heart has no share or allotted part; such mortals are devoid of glow; their acts are mean, debased and low.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "For Slaves",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "21",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ لذت یارب اندر ہست و بود است\nدل ہر ذرہ در جوش نمود است\nشکافد شاخ را چون غنچۂ گل\nتبسم ریز از ذوق وجود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی میں کیا لذت ہے، ہر ذرے کا دل شوق نمود سے جوش میں ہے۔\nجب کلی شاخ کو پھاڑ کر سامنے آتی ہے ، تو ذوق نمود (کی تسکین) سے مسکرا رہی ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What joy it is, O God, to be, just be! Each atom’s heart feels this joy gratefully.\nWhen a bud bursts forth from its mother-branch, its smile of happiness is good to see.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

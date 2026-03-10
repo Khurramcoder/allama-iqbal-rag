@@ -1,0 +1,33 @@
+{
+  "id": "20",
+  "name": "اقبال",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فردوس میں رومی سے یہ کہتا تھا سنائی \nمشرق میں ابھی تک ہے وہی کاسہ، وہی آش \nحلاج کی لیکن یہ روایت ہے کہ آخر \nاک مرد قلندر نے کیا راز خودی فاش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hallaj relates that thus at last a man in India has appeared who with efforts firm and strong, the webs that hid the Self has cleared.\nIn Eden Sinai to Rumi told that people living in the East, still eat their bread and beans from begging cups they have not made progress least.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Iqbal"
+}

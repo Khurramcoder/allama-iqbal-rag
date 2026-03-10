@@ -1,0 +1,34 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل من روشن از سوز درون است\nجہان بین چشم من از اشک خون است\nز رمز زندگے بیگانہ تر باد\nکسی کو عشق را گوید جنون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل سوز درون سے روشن ہے؛ اشک خون کے باعث میری آنکھ جہان بیں ہے۔\nجو شخص عشق کو جنوں کہتا ہے، اسے سر حیات سے بےگانہ تر سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is bright with burning inwardly, mine eye weeps blood, yet all the world does see;\nLet him still less Life’s mystery attain who says that Love is but insanity!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

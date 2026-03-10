@@ -1,0 +1,137 @@
+{
+  "id": "03",
+  "name": "دعا",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یارب درون سینہ دل با خبر بدہ\nدر بادہ نشۂ را نگرم آن نظر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے رب! مجھے دل باخبر عطا فرما! مجھے ایسی نظر دے کہ شراب میں نشہ دیکھ لوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I pray thee, Lord; to me impart within my breast a conscious heart: Give me the vision to divine the rapture pulsing through the wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این بندہ را کہ با نفس دیگران نزیست\nیک آہ خانہ زاد مثال سحر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا یہ بندہ جس نے کسی سے زندگی مستعار لینا قبول نہیں کیا؛ اسے سحر کی مانند آہ خانہ زاد عطا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It never pleased me, to receive another’s breath that I might live: Give me a breath as light as morn, a sigh that in the home was born.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سیلم، مرا بجوی تنک مایہ ئی مپیچ\nجولانگہے بوادی و کوہ و کمر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سیلاب ہوں ، مجھے کسی چھوٹی ندی کے حوالے نہ کر؛ مجھے ایسی وسعت دے کہ پہاڑوں، وادیوں اور میدانوں کو اپنے آغوش میں لے سکوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a torrent: do not set me dribbling in a rivulet, but give my waters space to spill o’er valley broad and spreading hill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سازی اگر حریف یم بیکران مرا\nبااضطراب موج، سکون گہر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ نے مجھے بیکراں سمندر بنایا ہے ؛ تو پھر اضطراب موج کے ساتھ سکون گوہر بھی عطا فرمایے! (اوپر موجوں کی سی کشمکش ہو، لیکن اندر ایسے پر سکون ہو جیسے صدف کے اندر موتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is it thy will to fashion me a rival to the boundless sea, amid the tumult of the main grant me the pearl’s repose to gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شاہین من بصید پلنگان گذاشتی\nہمت بلند و چنگل ازین تیز تر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میرے شاہین کو چیتوں کے شکار پر چھوڑا ہے؛ تو اسے بلند ہمت دیجیے اور اس کے پنجے کو اور تیز کر دیجیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou had’st the falcon that I am follow the leopard for his game: Give me high will, a sharper claw, to win my victim to my maw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "رفتم کہ طایران حرم را کنم شکار\nتیری کہ نافکندہ فتد کارگر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس لیے نکلا ہوں کہ طائران حرم کو شکار کروں؛ مجھے ایسا تیر عطا فرمایئے جو چلائے بغیر ہی کارگر ہو جائے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The small fowl of the Sanctuary I marked my precious prey to be: Grant me an arrow that, unsped, unerring flies, and strikes them dead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خاکم بہ نور نغمۂ داود بر فروز\nہر ذرہ مرا پر و بال شرر بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک کو نغمہء داؤد (علیہ) سے چمکا دیجیے؛ میرے بدن کے ہر ذرہ کو شر ر بنا دیجیے کہ وہ اڑتا پھرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Illuminate my lifeless clay with anthems David used to play; let all my atoms swiftly spring upborne upon an ember’s wing.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Invocation",
+  "credits": "English Translation by: A.J. Arberry"
+}

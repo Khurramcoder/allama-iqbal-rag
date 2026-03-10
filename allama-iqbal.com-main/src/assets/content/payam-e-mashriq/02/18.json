@@ -1,0 +1,69 @@
+{
+  "id": "18",
+  "name": "حکمت و شعر",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بوعلی اندر غبار ناقہ گم\nدست رومی پردۂ محمل گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بو علی سینا ناقہ کے غبار ہی میں گم ہو کر رہ گیا ہے، رومی (رحمتہ) کا ہاتھ پردہء محمل (معنی) تک جا پہنچا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bu Ali got lost in the dust kicked up by Layla’s dromedary. Rumi’s hand seized the curtain of her litter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این فرو تر رفت و تا گوہر رسید\nآن بگردابی چو خس منزل گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی (بحر حیات میں) گہرا گیا اور گوہر تک پہنچا، بو علی نے تنکے کی مانند گرداب ہی کو منزل بنا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This one dived deeper, deeper still, till he came upon the pearl he was after. But the other got caught in a whirlpool like a piece of straw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حق اگر سوزی ندارد حکمت است\nشعر میگردد چو سوز از دل گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "حقیقت میں اگر سوز نہ ہو تو فلسفہ ہے، اگر دل سے سوز حاصل کر لے تو شعر بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the truth has no fervour, it is plain philosophy. If it has the proper fervour, it is poetry.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Philosophy And Poetry",
+  "credits": "English Translation by: M. Hadi Husain"
+}

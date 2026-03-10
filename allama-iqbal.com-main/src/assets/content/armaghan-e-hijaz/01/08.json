@@ -1,0 +1,133 @@
+{
+  "id": "08",
+  "name": "آواز غیب",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آتی ہے دم صبح صدا عرش بریں سے\nکھویا گیا کس طرح ترا جوہر ادراک!",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوہر ادراک: وہ قوّت جس کی نورانیت سے انسان کائنات کی ضروری باتوں کا علم حاصل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At dawn thus echoes a voice beyond sky: How you lost the essence of ken and pry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کس طرح ہوا کند ترا نشتر تحقیق\nہوتے نہیں کیوں تجھ سے ستاروں کے جگر چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "کند: جو تیز نہ رہا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The knife of thy hunt how you made blunt, the shining stars why you could ne’er hunts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو ظاہر و باطن کی خلافت کا سزاوار\nکیا شعلہ بھی ہوتا ہے غلام خس و خاشاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "خس و خاشاک: گھاس پھوس۔\nسزاوار: لائق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To thy heritage, goes the caliphate, can flame be tied to tuft and hays fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مہر و مہ و انجم نہیں محکوم ترے کیوں\nکیوں تری نگاہوں سے لرزتے نہیں افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars, sun and moon thy slaves are not why, from thee shivers not, why not the whole sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اب تک ہے رواں گرچہ لہو تیری رگوں میں\nنے گرمی افکار، نہ اندیشہ بے باک",
+              "lang": "Original"
+            },
+            {
+              "_content": "انديشہ بے باک: بےخوف سوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That blood still runs in thy veins though, no heat of thoughts nor a smashing dash so.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "روشن تو وہ ہوتی ہے، جہاں بیں نہیں ہوتی\nجس آنکھ کے پردوں میں نہیں ہے نگہ پاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A lucent eye though, but lacks seeing sense, the eye which lacks a holy guide’s glance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "باقی نہ رہی تیری وہ آئینہ ضمیری\nاے کشتہء سلطانی و ملائی و پیری!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No longer looks now thy crystal conscience; O prey of king’s an mullah, and Pir’s guidance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mysterious Voice",
+  "credits": "English Translation by: Q A Kabir"
+}

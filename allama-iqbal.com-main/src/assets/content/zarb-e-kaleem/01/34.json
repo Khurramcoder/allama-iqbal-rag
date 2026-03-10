@@ -1,0 +1,66 @@
+{
+  "id": "34",
+  "name": "مستی کردار",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صوفی کی طریقت میں فقط مستی احوال \nملا کی شریعت میں فقط مستی گفتار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mystic mode has naught except the inner changes of the heart. The talk of Mullah on his creed is merely piece of fiery art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شاعر کی نوا مردہ و افسردہ و بے ذوق \nافکار میں سرمست، نہ خوابیدہ نہ بیدار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Poet's song of zeal; bereft is dead and struck with frost: To outward eyes he seems awake, though in thoughts completely lost.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ مرد مجاہد نظر آتا نہیں مجھ کو \nہو جس کے رگ و پے میں فقط مستی کردار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! My eyes do not behold the Holy Knight whose fervour high may cause his blood to seethe and boil in veins that lend such might to thigh.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Fervour For Action",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

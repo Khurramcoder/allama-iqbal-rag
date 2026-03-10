@@ -1,0 +1,120 @@
+{
+  "id": "12",
+  "name": "خاتمہ",
+  "name-en": "Conclusion",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو شمشیری ز کام خود برون آ\nبرون آ، از نیام خود برون آ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو تلوار ہے اپنی نیام سے باہر آ، باہر آ، اپنی نیام سے باہر آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a sword, come out of your cover, come out of your sheath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نقاب از ممکنات خویش برگیر\nمہ و خورشید و انجم را بہ برگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی ممکنات سے پردہ ہٹا، چاند سورج، اور ستاروں کو مسخر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Remove the veil from your potentialities; take hold of the moon, the sun and the stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شب خود روشن از نور یقین کن\nید بیضا برون از آستین کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی ذات کو نور یقین سے روشن کر، اپنی آستین سے ید بیضا باہر نکال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Illumine your night by the light of faith; take your white hand out of the armpit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کسی کو دیدہ را بر دل گشود است\nشراری کشت و پروینی درود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے دل پر اپنی نگاہ رکھی ، اس نے شرر بویا اور پروین (ستارہ) حاصل کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who has opened his eyes on the heart has sown a spark and reaped a fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شراری جستہ ئی گیر از درونم\nکہ من مانند رومی گرم خونم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر سے اٹھتے ہوئے شرارے کو لے لے، میں رومی کی مانند گرم خون ہوں۔ (میرے اندر شرارے نکل رہے ہیں۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have a spark from my innermost heart, for my heart is as fiery as Rumi’s.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وگرنہ آتش از تہذیب نوگیر\nبرون خود بیفروز، اندرون میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر مجھ سے کچھ نہیں لیتا تو پھر تہذیب نو کی آتش لے لے، اور اس سے اپنا ظاہر چمکا اور اندر سے مر جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Otherwise get fire from the new Culture of the West, adorn your exterior and bring spiritual death on you.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "74",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دماغم کافر زنار دار است\nبتان را بندہ و پروردگار است\nدلم را بین کہ نالد از غم عشق\nترا با دین و آئینم چہ کار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دماغ زنّار دار (بت پرست) کافر ہے؛ بت بناتا بھی ہے اور ان کی پرستش بھی کرتا ہے۔\nتو میرے دل کو دیکھ جو غم عشق سے نالہ و فریاد کر رہا ہے؛ تجھے میرے دین و مسلک سے کیا کام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A girdled infidel, this brain of mine, it worships idols of its own design: \nRegard my heart, weeping for Passion’s grief – what is to thee my way, my Faith divine?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

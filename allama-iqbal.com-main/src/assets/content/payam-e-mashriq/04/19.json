@@ -1,0 +1,108 @@
+{
+  "id": "19",
+  "name": "شعرا",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "برونینگ",
+      "name-en": "Browning",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بی پشت بود بادۂ سر جوش زندگی\nآب خضر بگیرم و در ساغر افکنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کا بادہء سر جوش کسمپرسی کی حالت میں تھا ، میں نے خضر سے آب (حیات) لیا اور ساغر میں ڈال کر پیش کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There was nothing to fortify life’s effervescent wine: I took some aqua vitae from Khizr and added it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "بایرن",
+      "name-en": "Byron",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از منت خضر نتوان کرد سینہ داغ\nآب از جگر بگیرم و در ساغر افکنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خضر کے احسان سے اپنے سینے کو داغ داغ نہیں کیا جا سکتا، میں جگر سے پانی (خون) لیتا ہوں اور ساغر میں ڈالتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should one be obliged to Khizr for his aqua’s loan? I poured a little of my heart’s blood into the wine-cup.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "غالب",
+      "name-en": "Ghalib",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "\"تا بادہ تلخ تر شود و سینہ ریش تر\nبگدازم آبگینہ و در ساغر افکنم\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ شراب اور تلخ ہو اور سینہ اور زیادہ زخمی ہو، میں سرخی کا شیشہ پگھلا کر ساغر میں ڈال دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To make the wine still bitterer and my chest still more sore, I melted the glass itself and added it to my wine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "رومی",
+      "name-en": "Rumi",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آمیزشی کجا گہر پاک او کجا\nاز تاک بادہ گیرم و در ساغر افکنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آمیزش کہاں اور اس ( شراب) کی پاکیزگی ء فطرت کہاں، میں انگور سے شراب لیتا ہوں اور (بغیر کسی آمیزش کے) ساغر میں ڈال دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can dilutions be as good as the real stuff itself? I pressed wine out of grapes direct and filled my cup with it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "Poets",
+  "credits": "English Translation by: M. Hadi Husain"
+}

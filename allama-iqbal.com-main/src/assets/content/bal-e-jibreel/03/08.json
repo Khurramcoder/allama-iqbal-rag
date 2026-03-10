@@ -1,0 +1,33 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کوئی دیکھے تو میری نے نوازی \nنفس ہندی، مقام نغمہ تازی \nنگہ آلودہ انداز افرنگ \nطبیعت غزنوی، قسمت ایازی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wish someone saw how I play the flute – the breath is Indian, the tune Arabian!\nMy vision has a taint of the Western style; I am a Ghaznavi by temper, but my fate is that of an Ayaz!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

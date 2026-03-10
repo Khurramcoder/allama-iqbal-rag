@@ -1,0 +1,102 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عاشق آن نیست کہ لب گرم فغانی دارد\nعاشق آنست کہ بر کف دو جہانی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشق وہ نہیں جو ہر دم آہ و فغاں میں لگا رہے، عاشق وہ ہے جو دونوں جہانوں کو اپنی ہتھیلی پر اٹھا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Never lover true is he who lamenteth dolefully; lover he, who in his bold hath the double world controlled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عاشق آن است کہ تعمیر کند عالم خویش\nدر نسازد بہ جھانی کہ کرانی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشق وہ ہے جو اپنی دنیا خود تعمیر کرتا ہے، وہ ایسے جہان پر قانع نہیں رہتا جو محدود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lover true is passionate Selfbood’s world to recreate, not content to be enfurled by a bounded, finite world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دل بیدار ندادند بہ دانای فرنگ\nاین قدر ہست کہ چشم نگرانی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانائے فرنگ کو دل بیدار تو عطا نہیں ہوا ، اتنا ہے کہ اسے دیکھنے والی آنکھ مل گئی ہے (ذات تک نہیں پہنچ سکا، کائنات تک رہ گیا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wakeful heart was never given Europe’s scientist.by heaven; all that God has marked him by is the speculative eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق ناپید و خرد می گزدش صورت مار\nگرچہ در کاسۂ زر لعل روانی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق ناپید ہے اور خرد اسے سانپ کی مانند ڈس رہی ہے، حالانکہ وہ جام زرّیں میں شراب ارغواں رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love he knows not, and the brain snake like bites into his vein, even though his golden cup flowing ruby filleth up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "درد من گیر کہ در میکدہا پیدانیست\nپیر مردی کہ می تند و جوانی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری شراب کی تلچھٹ سے فائدہ اٹھا ، کیونکہ اب مئے کدوں میں کوئی ایسا پیر مرد باقی نہیں جو (میری طرح) تند و تیز شراب رکھتا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take the lees I give; for lo! In the taverns that I know aged vintner never more stands, the young, fierce wine to pour.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

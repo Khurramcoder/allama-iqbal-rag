@@ -1,0 +1,85 @@
+{
+  "id": "30",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درین چمن دل مرغان زمان زمان دگر است\nبشاخ گل دگر است و بہ آشیان دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس باغ میں پرندوں کا دل لمحہ بہ لمحہ نیا رنگ اختیار کرتا ہے، شاخ گل پر وہ اور طرح (چہچہاتا ) ہے اور آشیاں میں اور طرح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the heart of the birds, that range this garden, is ever change; ‘Tis one with the rose at breast, an other within the nest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بخود نگر گلہ ہای جھان چہ میگوئی\nاگر نگاہ تو دیگر شود جھان دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی طرف دیکھ، دنیا کی کیا شکائت کرتا ہے، اگر تیری نگاہ بدل جائے ، تو جہان بھی بدل جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look thou to thyself intent; of the world what cause to lament? There’s a different world to see, be there change of sight in thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ ھر زمانہ اگر چشم تو نکو نگرد\nطریق میکدہ و شیوۂ مغان دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیری آنکھ غور سے دیکھے تو ہر زمانے میں ، شراب خانے کے طور طریقے اور پیر مغاں کا ا نداز اور ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each moment, if but thine eye regardeth attentively, changeth the tavern road and the Magian’s wonted mode.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ میر قافلہ از من دعا رسان و بگوی\nاگرچہ راہ ہمان است کاروان دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "امیر قافلہ کو میری دعا پہنچا کر کہیں ، اگرچہ راہ وہی ہے مگر کارواں اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan’s leader, greet with my blessing, and then repeat: ‘Though the way unchanged remain, ‘Tis a different caravan!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

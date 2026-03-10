@@ -1,0 +1,114 @@
+{
+  "id": "03",
+  "name": "حضرت انسان",
+  "name-en": "Revered Human",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہاں میں دانش و بینش کی ہے کس درجہ ارزانی\nکوئی شے چھپ نہیں سکتی کہ یہ عالم ہے نورانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In world in plenty is wisdom and sight, none can be hidden as the world has light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کوئی دیکھے تو ہے باریک فطرت کا حجاب اتنا\nنمایاں ہیں فرشتوں کے تبسم ہائے پنہانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So thin are nature veils if one gets eye, so vivid are angels smiling on sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ دنیا دعوت دیدار ہے فرزند آدم کو\nکہ ہر مستور کو بخشا گیا ہے ذوق عریانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world gives a call to man for His sight, each hid, given taste, to come to limelight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہی فرزند آدم ہے کہ جس کے اشک خونیں سے\nکیا ہے حضرت یزداں نے دریاوں کو طوفانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is Adam’s son, from his tears of blood; the God gave to rivers a taste for flood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فلک کو کیا خبر یہ خاکداں کس کا نشیمن ہے\nغرض انجم سے ہے کس کے شبستاں کی نگہبانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who lives on this earth what does the sky know, for whom a night watch? For whom the stars glow?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اگر مقصود کل میں ہوں تو مجھ سے ماورا کیا ہے\nمرے ہنگامہ ہائے نو بہ نو کی انتہا کیا ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What lies beyond me? If I’m the whole aim! What is the new pale of my uproars game?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

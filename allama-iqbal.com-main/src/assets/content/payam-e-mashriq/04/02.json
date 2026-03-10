@@ -1,0 +1,35 @@
+{
+  "id": "02",
+  "name": "جمعیت الاقوام",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بر فتد تا روش رزم درین بزم کہن\nدردمندان جھان طرح نو انداختہ اند\nمن ازین بیش ندانم کہ کفن دزدی چند\nبہر تقسیم قبور انجمنی ساختہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "(کہا جاتا ہے کہ) دنیا کے بہی خواہوں نے نئی روش کی بنیاد رکھی ہے ، تاکہ اس بزم کہن (دنیا) سے جنگ کا چلن ختم ہو۔\nمگر میں اس سے زیادہ نہیں جانتا کہ چند کفن چوروں نے، آپس میں قبریں بانٹنے کے لیے ایک انجمن بنائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the end that wars may cease on this old planet, the suffering peoples of the world have founded a new institution.\nSo far as I see it amounts to this: A number of undertakers have formed a company to allot the graves.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The League Of Nations",
+  "credits": "English Translation by: R.A. Nicholson"
+}

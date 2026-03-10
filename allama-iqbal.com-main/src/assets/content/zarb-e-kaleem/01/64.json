@@ -1,0 +1,68 @@
+{
+  "id": "64",
+  "name": "امرائے عرب سے",
+  "name-en": "To the Arab Nobles",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کرے یہ کافر ہندی بھی جرات گفتار\nاگر نہ ہو امرائے عرب کی بے ادبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Amirs of Arabian lands don't take it for a slur or slight; this Muslim from the land of Ind may speak with vigour great and might.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ نکتہ پہلے سکھایا گیا کس امت کو؟\nوصال مصطفوی، افتراق بولہبی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مصطفوي: مصطفے (صلعم) کا پیغام اتفاق۔ وصال\nافتراق بولہبي: ابو لہب کا پیغام نفاق پھیلانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who were the people whom at first God's apostle preached kinship close? Division amongst them was infused by men, like Bu Lahab the like.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہیں وجود حدود و ثغور سے اس کا\nمحمد عربی سے ہے عالم عربی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ثغور: حدیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their existence does not rest at all on borders long and deserts vast Arabian lands subsist because of blessings of Arabia's Prophet Last.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

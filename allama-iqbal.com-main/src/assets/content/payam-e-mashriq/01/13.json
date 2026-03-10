@@ -1,0 +1,33 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ من انجام و نے آغاز جویم\nہمہ رازم جھان راز جویم\nگر از روی حقیقت پردہ گیرند\nھمان بوک و مگر را باز جویم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not seek the beginning or the end; I am full of mystery and seek the realm of mysteries. \nEven if the face of truth were unveiled, I would still seek the same ‘perhaps’ and ‘maybe’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

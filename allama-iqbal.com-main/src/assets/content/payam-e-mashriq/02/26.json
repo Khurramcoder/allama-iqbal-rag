@@ -1,0 +1,69 @@
+{
+  "id": "26",
+  "name": "کرمک شبتاب",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم کرمک شبتاب می گفت\nنہ آن مورم کہ کس نالد ز نیشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے سنا جگنو کہہ رہا تھا؛ میں چیونٹی نہیں ہوں کہ کوئی میرے کانٹے سے فریاد کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hear the glow-worm said to itself, ‘I am not an insect that hurts with its sting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "توان بی منت بیگانگان سوخت\nنپنداری کہ من پروانہ کیشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوسروں کے احسان کے بغیر بھی جلا جا سکتا ہے؛ مت سمجھ کہ میں پروانے کی مانند ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One can burn in one’s own fire. So do not regard me as a moth that has to fling itself into a flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر شب تیرہ تر از چشم آہوست\nخود افروزم چراغ راہ خویشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر رات چشم آہو سے بھی زیادہ کانی ہے؛ تو میں اپنا راستہ روشن کرنے کے لیے خود اپنا چراغ جلاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the night be dark as deer’s eyes, I light my path myself.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Glow-Worm",
+  "credits": "English Translation by: M. Hadi Husain"
+}

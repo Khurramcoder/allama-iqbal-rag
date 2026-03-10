@@ -1,0 +1,136 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "برون زین گنبد در بستہ پیدا کردہ ام راہی\nکہ از اندیشہ برتر می پرد آہ سحر گاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس گنبد در بستہ سے اوپر نکل جانے کا راستہ پیدا کیا ہے، کیونکہ آہ سحر گاہ کی پرواز فکر سے بلند تر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beyond heaven’s shuttered dome I have found a way to come where swifter than thought may fly the breath of a morning sigh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو اے شاہین نشیمن در چمن کردی از آن ترسم\nہوای او ببال تو دہد پرواز کوتاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے شاہین ! تو نے چمن میں نشیمن بنا لیا ہے، مجھے ڈر ہے کہ اس کی آب و ہوا تیری پرواز کوتاہ نہ کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Falcon thou art, and hast made thy nest in the grassy glade, and? Its air, I am fearful, might foreshorten thy pinion’s flight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غباری گشتہ ئی آسودہ نتوان زیستن اینجا\nبباد صبحدم در پیچ و منشین بر سر راہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو غبار بھی ہو چکا ہے تو آرام سے نہ بیٹھ، سر راہ نہ پڑا رہ، بلکہ باد سحر سے مل جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Art thou dust become? It is clear thou canst not be resting here; on the breeze of the morning ride, sit not by the roadway side.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز جوی کہکشان بگذر ز نیل آسمان بگذر\nز منزل دل بمیرد گرچہ باشد منزل ماہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوئے کہکشاں سے بھی گزر جا ، نیلگوں آسمان سے بھی گزر جا، منزل دل کی موت ہے خواہ وہ چاند ہی کی منزل کیوں نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the stream of the stars arise and cross the Nile of the skies; for the heart must die right soon if it lodge, though it be in the moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اگر زان برق بی پروا درون او تہی گردد\nبہ چشمم کوہ سینا می نیرزد با پرکاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر طور سینا کا اندرون برق تجلّی سے خالی ہو جائے ، تو میری نظر میں وہ پر کاہ کے برابر نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let its breast no longer beam with the rockless lightning’s gleam, less worth than a straw reckon I the mountain of Sinai.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چسان آداب محفل را نگہ دارند و می سوزند\nمپرس از ما شہیدان نگاہ بر سر راہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آداب محفل کو کس طرح ملحوظ رکھتے ہیں ، ( مگر محبوب کے سامنے اف نہیں کرتے) ، ہم سے یہ بات نہ پوچھیں ہم تو نگاہ سر راہ کے شاہد ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How men may the manners keep of the throng, yet consuming leap ask not of us, whom the gaze of the passing fair one slays.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پس از من شعر من خوانند و دریابند و میگویند\nجہانی را دگرگون کرد یک مرد خود آگاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے بعد لوگ میرے شعر پڑھتے ہیں اور سمجھتے ہیں ، ایک مرد خود آگاہ نے جہان کو بالکل بدل ڈالا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I am dead, this may lay men will recite, and say: ‘One man, who was self-aware, transformed a world everywhere’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

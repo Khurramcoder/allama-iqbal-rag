@@ -1,0 +1,65 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سمجھا لہو کی بوند اگر تو اسے تو خیر\nدل آدمی کا ہے فقط اک جذبۂ بلند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well if you took it a drop of blood, the heart of man is but a high verve’s flood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گردش مہ و ستارہ کی ہے ناگوار اسے\nدل آپ اپنے شام و سحر کا ہے نقش بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "نقش بند: نقشہ بنانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Sun and Moon changes he would thus hate, the heart itself paints his morn and eve’s fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس خاک کے ضمیر میں ہے آتش چنار\nممکن نہیں کہ سرد ہو وہ خاک ارجمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart in whose conscience burns the oak’s fire, you can not cool down that noble heart’s fire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "82",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کرا جوئی چرا در پیچ و تابی\nکہ او پیداست تو زیر نقابی\nتلاش او کنی جز خود نبینی\nتلاش خود کنی جز او نیابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل ! اے میرے دل ! اے میرے دل ! اے میرے سمندر، اے میری کشتی، اے میرے ساحل!\nکیا تو میری خاک بدن پر شبنم کی طرح ٹپکا تھا؟ یا میری مٹی کے اندر سے غنچے کی طرح پیدا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart! My heart! My heart! My ocean, my boat, my shore!\nDid you fall like dew on my dusty being, or did you sprout like a bud out of my soil?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

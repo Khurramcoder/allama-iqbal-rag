@@ -1,0 +1,84 @@
+{
+  "id": "19",
+  "name": "مخلوقات ہنر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے یہ فردوس نظر اہل ہنر کی تعمیر \nفاش ہے چشم تماشا پہ نہاں خانہ ذات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The craftsmen by their tact have built such works that Eden jealous make: The eyes endowed with sight can see; states hid that stir the heart and rake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ خودی ہے، نہ جہان سحر و شام کے دور \nزندگانی کی حریفانہ کشاکش سے نجات",
+              "lang": "Original"
+            },
+            {
+              "_content": "حريفانہ کشاکش: آپس میں تصادم اور کھینچا تانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no Self nor usual change of morn and night at all is found: The Muslims have got rid entire of combats and shun such a round.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آہ، وہ کافر بیچارہ کہ ہیں اس کے صنم \nعصر رفتہ کے وہی ٹوٹے ہوئے لات و منات!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! The infidel poor still pays homage to his idols old; though their broken state lie knows, yet oil him they retain their hold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو ہے میت، یہ ہنر تیرے جنازے کا امام \nنظر آئی جسے مرقد کے شبستاں میں حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرقد کے شبستاں: قبر کی خواب گاہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a corpse and your art the leader of your funeral rite: In pitch dark bed-room of the grave, of life the fellow catches sight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Creations Of Art",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

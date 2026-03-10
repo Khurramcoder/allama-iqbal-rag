@@ -1,0 +1,136 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "این جہان چیست صنم خانۂ پندار من است\nجلوۂ او گرو دیدۂ بیدار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان کیا ہے؟ فقط میرے پندار کا صنم خانہ ہے؛ اس کا جلوہ صرف میری دید کا رہین منّت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the world? The temple of my thought, the seen projection of my wakeful eye;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہمہ آفاق کہ گیرم بہ نگاہی او را\nحلقہ ئی ہست کہ از گردش پرگار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سارا آفاق، جس کا احاطہ میں ایک نگاہ سے کر لیتا ہوں ، یہ گویا میری نگاہ کی گردش پرکار کا دائرہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its far horizons, instant to espy, a circle by my spinning compass wrought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہستی و نیستی از دیدن و نا دیدن من\nچہ زمان و چہ مکان شوخی افکار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشیائے کائنات کا ہونا یا نہ ہونا میرے دیکھنے یا نہ دیکھنے پر موقوف ہے؛ زماں ہو یا مکاں؟ سب میری شوخیء افکار کے مرہون منت ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I behold, or not, is aught, or naught; time, space, within my mind;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از فسون کاری دل سیر و سکون غیب و حضور\nاینکہ غماز و گشایندہ اسرار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشیاء کا چلنا یا ٹھہرنا ، نظر آنا یا نہ آنا ، سب میرے فکر کی فسوں کاری ہے؛ یہ جہاں فقط میرے اسرار کا غمّاز اور انہیں افشا کرنے والا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Audacious lie, movement, repose, are my heart’s wizardry whereby are secrets known, and mysteries taught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آن جہانی کہ درو کاشتہ را می دروند\nنور و نارش ھمہ از سبحہ و زنار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جہان (آخرت) جس میں یہاں بوئے گئے اعمال کی فصل کاٹیں گے؛ اس (کی جنت) کا نور میری ہی تسبیح و زنّار (ایمان و کفر) کا اثر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That other world, where reaped is all our sown, its light and fire are of my rosary made;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ساز تقدیرم و صد نغمۂ پنہان دارم\nہر کجا زخمۂ اندیشہ رسد تار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں (انسان) ساز تقدیر ہوں ، اور میرے اندر سینکڑوں نغمے پنہاں ہیں؛ میرا تار وہاں تک پہنچتا ہے، جہاں تک میرے مضراب فکر کی رسائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am fate’s instrument, whose antiphon responds to every string thought ever played;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اے من از فیض تو پایندہ نشان تو کجاست\nاین دو گیتی اثر ماست جہان تو کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ ذات، جس کے فیض سے میں پائیندہ ہوں! آپ کا نشان کہاں ہے؟ یہ دونوں جہان (دنیا اور آخرت) تو میرے اثر سے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is Thy sign? In Thee my life is stayed; where is Thy world? These twain are mine alone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

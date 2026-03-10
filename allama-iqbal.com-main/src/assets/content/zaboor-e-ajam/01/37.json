@@ -1,0 +1,136 @@
+{
+  "id": "37",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوای خانہ و منزل ندارم\nسر راہم غریب ہر دیارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ مجھے گھر کی خواہش ہے نہ منزل کی؛ ہمیشہ کا مسافر اور ہر شہر میں اجنبی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At home to loiter never did me please, A rover I, stranger in every land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سحر می گفت خاکستر صبا را\nفسرد از باد این صحرا شرارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے وقت راکھ نے باد صبا سے کہا: 'اس صحرا کی ہوا نے میری آگ بجھا دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At dawn, the ashes thus addressed the breeze: ‘This desert’s air put out my flaming brand;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گذر نرمک، پریشانم مگردان\nز سوز کاروانے یادگارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا آہستہ گذر ، مجھے بکھیر نہ دے؛ کیونکہ میں سوو کارواں کی یادگار ہوں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pass gently; scatter me not with Thy hand; I yet recall the caravans’s unease.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز چشمم اشک چون شبنم فرو ریخت\nکہ من ھم خاکم و در رہگذارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سن کر میری آنکھ سے شبنم کی طرح آنسو ٹپکنے لگے؛ کہ میں ابھی تو خاک ہوں اور راہگذر میں پڑا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My tears, like dew, trickled upon the sand, I, too, being dust on the world’s passages.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بگوش من رسید از دل سرودی\nکہ جوی روزگار از چشمہ سارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پر میرے کام میں یہ خوشگوار آواز آئی: (غمگیں نہ ہو) زمانے کی ندی کا وجود میرے چشمے کے دم سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then in my heart I heard a soft voice sing: The stream of time did from my fountain spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ازل تاب و تب پیشنیۂ من\nابد از ذوق و شوق انتظارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ازل میرے تب و تاب پیشینہ کا مظہر ہے؛ اور ابد میرے انتظار کے ذوق و شوق سے عبارت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The past is all my fever and fire of yore, the future all that I am yearning for:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "میندیش از کف خاکی میندیش\nبجان تو کہ من پایان ندارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی کف خاک کے بارے میں فکرمند نہ ہو ، بالکل فکرمند نہ ہو؛ تیری جان کی قسم! میری کوئی انتہا نہیں '۔ (یہ قلب کی آواز تھی۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think not upon thy dust, O think no more – Lo, by the life, I know no perishing!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

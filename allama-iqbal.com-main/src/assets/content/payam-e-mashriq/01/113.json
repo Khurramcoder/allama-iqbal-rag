@@ -1,0 +1,34 @@
+{
+  "id": "113",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل من رازدان جسم و جان است\nنپنداری اجل بر من گران است\nچہ غم گر یک جہان گم شد ز چشمم\nہنوز اندر ضمیرم صد جہان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسم و جان کا راز میرے دل کے اندر چھپا ہے؛ مت سمجھ کہ میں موت سے خوفزدہ ہوں۔ \nاگر میری آنکھ سے ایک جہان گم ہوا تو کیا غم؛ ابھی میرے ضمیر کے اندر سینکڑوں جہاں پنہاں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think not I grieve to die: The riddle of body and soul I have read plain.\nWhat care though one world vanish from mine eye, when hundreds in my consciousness remain?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: R.A. Nicholson"
+}

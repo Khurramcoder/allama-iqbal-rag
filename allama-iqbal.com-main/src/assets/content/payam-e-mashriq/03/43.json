@@ -1,0 +1,136 @@
+{
+  "id": "43",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شعلہ در آغوش دارد عشق بی پروای من\nبر نخیزد یک شرار از حکمت نازای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا عشق بے نیاز اپنی آغوش میں شعلہ رکھتا ہے، مگر میرے بانجھ فلسفے کے اندر سے ایک شرربھی پیدا نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My love in its abandon has a live flame in its arms. My sterile wisdom cannot raise a single spark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چون تمام افتد سراپا ناز می گردد نیاز\nقیس را لیلی ہمی نامند در صحرای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب نیاز تکمیل پہ لے تو وہ سراپا ناز بن جاتا ہے، ہمارے صحرا میں قیس کو لیلی ہی کہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s meekness, when complete, is one with Beauty’s pride. So in my desert Qais is given Layla’s name.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہر دھلیز تو از ہندوستان آوردہ ام\nسجدۂ شوقی کہ خون گردید در سیمای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی دہلیز کے لیے میں ہندوستان سے وہ سجدہ ء شوق لایا ہوں ، جس کے لیے میری جبیں میں (ہزاروں بیتاب سجدے) خوں ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From India have I come with an urge to prostrate myself on your threshold – an urge which has turned to blood in my brow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تیغ لا در پنجہ این کافر دیرینہ دہ\nباز بنگر در جھان ہنگامۂ الای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کافر دیرینہ کے ہاتھ میں لا کی تیغ دیں، پھر دیکھیں کہ میں جہان میں الا سے کیا ہنگامہ برپا کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Put into this old unbeliever’s hand the sword of la, and then see how the tumult of my Illa rages in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گردشی باید کہ گردون از ضمیر روزگار\nدوش من باز آرد اندر کسوت فردای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کی ایسی گردش ہونی چاہیئے کہ وہ زمانے کے ضمیر کے اندر سے میرے (اسلام کے) ماضی کو میرے مستقبل کے لباس میں لے آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There ought to be a revolution for the heavens to bring again out of time’s womb my yesterdays in my tomorrow’s guise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از سپہر بارگاہت یک جہان وافر نصیب\nجلوہ ئی داری دریغ از وادی سینای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی بارگاہ بلند سے ایک جہان وافر فیض پا رہا ہے، لیکن میری وادیء سینا آپ (صلعم) کے جلوے سے محروم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whole world benefits from Your abounding grace, but You do not grant my Sinai any theophany at all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "با خدا در پردہ گویم با تو گویم آشکار\nیا رسول اﷲ او پنھان و تو پیدای من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے سے میں چھپا کر کہتا ہوں لیکن آپ (صلعم) برملا عرض کرتا ہوں : یا رسول اللہ ! وہ میرے لیے پنہاں ہے اور آپ (صلعم) ظاہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In veiled terms do I say to God, but to you, Prophet of God, openly, that He is all that is concealed from me, and you all that is manifest.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

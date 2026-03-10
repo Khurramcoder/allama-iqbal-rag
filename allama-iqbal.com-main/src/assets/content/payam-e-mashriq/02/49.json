@@ -1,0 +1,222 @@
+{
+  "id": "49",
+  "name": "طیارہ",
+  "name-en": "Aeroplane",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سر شاخ گل طایری یک سحر\nہمی گفت با طایران دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے وقت پھولوں کی ٹہنی پر بیٹھا ہوا ایک پرندہ ، دوسرے پرندوں سے کہہ رہا تھا:",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perched on a rosebush branch one morning, a bird said to other birds:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "\"ندادند بال آدمے زادہ را\nزمین گیر کردند این سادہ را\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'آدم کی اولاد کو پر و بال عطا نہیں ہوئے، اس سادہ منش کو زمین پر چلنے والا ہی بنایا گیا ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The son of man has not been given wings, and so this poor fool is earthbound.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدو گفتم اے مرغک باد سنج\nاگر حرف حق با تو گویم مرنج",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اسے کہا: ' اے ہوا میں اڑنے والے پرندے، اگر میں تجھ سے سچی بات کہوں تو ناراض نہ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to him: ‘O little bird, who talk so airily, do not mind if I speak the truth to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز طیارہ ما بال و پر ساختیم\nسوی آسمان رہگذر ساختیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے ہوائی جہاز کو بال و پر بنا لیا ہے، اور (اس طرح) آسمان کی طرف اپنا راستہ نکال لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have made of the aeroplane our wings, and so have found a way to heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چہ طیارہ آن مرغ گردون سپر\nپر او ز بال ملک تیز تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا ہوائی جہاز کیا ہے؟ آسمان تک پہنچنے والا ایسا پرندہ جس کے پر فرشتوں سے بھی زیادہ تیز رفتار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a sky-soaring bird? Is this our aeroplane, with speedier wings than angels’ wings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ پرواز شاہین بہ نیرو عقاب\nبہ چشمش ز لاہور تا فاریاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس میں شاہین کی پرواز اور عقاب کی قوّت ہے، لاہور سے فاریاب تک کا فاصلہ اس کی نظروں میں رہتا ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In flight a royal falcon and an eagle in sheer strength, with far-flung regions in its range!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بگردون خروشندہ و تند جوش\nمیان نشیمن چو ماہی خموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "فضا میں جوش و خروش سے چلتا ہے، جب نشیمن (ایر پورٹ) پر ہوتا ہے تو مچھلی کی طرح خاموش ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While in the sky, it thunders and it roars; but in its nest it is as quiet as a fish.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خرد ز آب و گل جبرئیل آفرید\nزمین را بگردون دلیل آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "گویا خرد نے پانی اور مٹی سے جبریل کی تخلیق کی ہے اور زمین سے آسمان تک لے جانے والا (رہبر) بنایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our wisdom has created Gabriels from common clay, and has made of the earth a proof of heaven.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چو آن مرغ زیرک کلامم شیند\nمرا یک نظر آشنایانہ دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس دانشمند پرندے نے میری بات سنی تو مجھ پر ایک دوستانہ نظر ڈالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On hearing my speech that wise bird looked at me in a knowing way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "پرش را بہ منقار خارید و گفت\nکہ من آنچہ گوئی ندارم شگفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے پروں کو چونچ سے کھجایا اور کہا کہ تو نے جو کچھ کہا ہے میں اس سے ناراض نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then, scratching his wings with his beak, he said: ‘I do not marvel at your words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "مگر اے نگاہ تو بر چون و چند\nاسیر طلسم تو پست و بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اے وہ جس کی نگاہ کیوں اور کتنا (دلائل اور کمی بیشی) پر ہے اور پست و بلند جس کے طلسم میں اسیر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But tell me, O you, who can see the how and why of things, whose magic holds sway over everything.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "\"تو کار زمین را نکو ساختی\nکہ با آسمان نیز پرداختی\"\n سعدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نے زمین کے معملات درست کر لیے ہیں کہ اب آسمان پر اڑنا شروع کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Be it high, be it low, have you done well your tasks on earth that you are meddling with the sky?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

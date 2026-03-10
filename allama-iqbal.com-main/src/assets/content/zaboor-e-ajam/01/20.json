@@ -1,0 +1,136 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نظر بہ راہ نشینان سوارہ می گذرد\nمرا بگیر کہ کارم ز چارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا محبوب راستے میں بیٹھے ہوؤں پر ایک نظر ڈال کے سوار گذر جاتا ہے؛ مجھے سنبھا لیے کہ اس کی نظر نے میرا تو کام تمام کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a glance at us who sit by the way He goes riding by: Conceive, if Thou canst, my soul’s dismay sore distraught am I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ دیگران چہ سخن گسترم ز جلوۂ دوست\nبیک نگاہ مثال شرارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کسی سے جلوہ ء دوست کی کیا بات کروں ؛ وہ تو میری نظر کے سامنے سے شرر کی مانند گذر جاتا ہے (میں اسے پوری طرح دیکھ نہیں پاتا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What have I to tell of the lovely fair unto anyone? With a gaze as swift as a spark in the air He is past and gone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رہی بہ منزل آن ماہ سخت دشوار است\nچنانکہ عشق بدوش ستارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس چاند کی منزل تک پہنچنے کا راستہ بہت دشوار ہے؛ (مگر عشق کے لیے کہ یہ مشکل نہیں) کیونکہ عشق ستاروں کے اوپر سے گذر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the friend’s abode it is hard to tread and the road is far; but love rides high, and is quickly sped on the back of a star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز پردہ بندی گردون چہ جای نومیدیست\nکہ ناوک نظر ما ز خارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "گردوں کی پردہ بندی سے نا امید ہونے کی ضرورت نہیں ؛ ہماری نظر کا تیر تو سنگ خارا کو بھی پار کر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What cause to despair, though the circling sky be wrapped in a veil? It will pierce a rock, the audacious eye, and it cannot fail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یمی است شبنم ما کہکشان کنارۂ اوست\nبیک شکستن موج از کنارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری شبنم (متاع قلیل ) ایسا سمندر ہے جس کا کنارا کہکشاں ہے؛ اس کی موج ساحل (کہکشاں) سے ٹکرا کر اور اوپر نکل جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our sprinkled dew is an ocean wide, and the sky its shore; let a lone wave break, and its swelling tide shall yet higher soar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بخلوتش چو رسیدی نظر بہ او مگشا\nکہ آن دمی است کہ کار از نظارہ می گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تو اس کی خلوت میں پہنچے تو اس کے چہرے کی طرف مت دیکھ؛ کیونکہ وہ ایسا وقت ہوتا ہے کہ جب کام نظارے کے بس کا نہیں رہتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Thou shalt stand with Him face to face, do not lift thine eyes; for sight is vain in that holy place, and the vision dies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "من از فراق چہ نالم کہ از ہجوم سرشک\nز راہ دیدہ دلم پارہ پارہ مے گذرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں فراق کی کیا شکایت کروں جب کہ میرا دل ہی نہیں ؛ وہ تو پارہ پارہ ہو کر آنسوؤں کی صورت میں آنکھوں کے راستے باہر نکل چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How should I weep, though sorrow sears? For my broken heart is borne on the flood of my bitter tears, and wi1l soon depart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

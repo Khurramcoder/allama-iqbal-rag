@@ -1,0 +1,84 @@
+{
+  "id": "54",
+  "name": "نبوت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں نہ عارف، نہ مجدد، نہ محدث،نہ فقیہ \nمجھ کو معلوم نہیں کیا ہے نبوت کا مقام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A gnostic, revivalist, jurist or expert in Prophet's maxims I do not claim; as such a Prophet's rank and state in terms precise I can't proclaim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہاں، مگر عالم اسلام پہ رکھتا ہوں نظر \nفاش ہے مجھ پہ ضمیر فلک نیلی فام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Despite these things I always keep on Muslim lands my watchful eye to me are known the secrets hid in depths of this azure sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عصر حاضر کی شب تار میں دیکھی میں نے \nیہ حقیقت کہ ہے روشن صفت ماہ تمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "روشن صفت ماہ تمام: پورے چاند کی طرح روشن، مراد ہے بالکل واضح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In present age, so full of dusk I have beheld this fact so stark that peeps like bright and full grown moon from sky that wears the mantle dark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ نبوت ہے مسلماں کے لیے برگ حشیش \nجس نبوت میں نہیں قوت و شوکت کا پیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "برگ حشیش: بھنگ کی پتّی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seer, inspired by God, who fails to prompt to deeds of might and main, is just akin to leaf of hemp that makes oblivious to loss or gain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Prophethood",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

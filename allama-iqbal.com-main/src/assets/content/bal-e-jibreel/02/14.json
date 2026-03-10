@@ -1,0 +1,129 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل بیدار فاروقی، دل بیدار کراری \nمس آدم کے حق میں کیمیا ہے دل کی بیداری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A heart awake to man imparts Umar’s brains and Hyder’s manly parts: If watchful heart a man may hold, his dross is changed to sterling gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل بیدار پیدا کر کہ دل خوابیدہ ہے جب تک \nنہ تیری ضرب ہے کاری، نہ میری ضرب ہے کاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beget a heart alive and sound, for, if it be in slumber bound, you cannot strike a deadly blow, nor even I can daring show.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مشام تیز سے ملتا ہے صحرا میں نشاں اس کا \nظن و تخمیں سے ہاتھ آتا نہیں آہوئے تاتاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If sense of smell be full and stunted, the musk-deer never can be hunted: If bereft of sense of smelling true, surmise and guess can yield no clue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس اندیشے سے ضبط آہ میں کرتا رہوں کب تک \nکہ مغ زادے نہ لے جائیں تری قسمت کی چنگاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My sighs no more I can withhold, when Muslims’ sloth I do behold: If Muslims do not mend their way, magians their luck might steal away.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خداوندا یہ تیرے سادہ دل بندے کدھر جائیں \nکہ درویشی بھی عیاری ہے، سلطانی بھی عیاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These simple thralls of Yours, O Lord, from every house and door are barred: For kings, no less the acolytes, are fraudulent and hypocrites.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مجھے تہذیب حاضر نے عطا کی ہے وہ آزادی \nکہ ظاہر میں تو آزادی ہے، باطن میں گرفتاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The freedom that this age does grant does ever freedom’s essence want: Though freedom seems to outward sight, yet is no less than prison tight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو اے مولائے یثرب! آپ میری چارہ سازی کر \nمری دانش ہے افرنگی، مرا ایماں ہے زناری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord of Yathrib! Cure provide for doubts that in my breast abide: My wisdom to the West is due, girdled my faith like Brahman true.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

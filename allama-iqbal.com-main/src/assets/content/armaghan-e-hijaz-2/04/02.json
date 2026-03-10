@@ -1,0 +1,57 @@
+{
+  "id": "02",
+  "name": "زمانہ فتنہ ہا ورد و بگذشت",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمانہ فتنہ ہا ورد و بگذشت\nخسان را در بغل پرورد و بگذشت\nدو صد بغداد را چنگیزی او\nچو گور تیرہ بختان کرد و بگذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے نے کئی فتنے پیدا کئے اور آگے بڑھ گیا، اس نے اپنی بغل میں خس و خاشاک (کم قیمت لوگوں ) کی پرورش کی اور گزر گیا۔\nاس کی چنگیزی نے سینکڑوں بغداد سیا ہ بختوں کی گور کی مانند ویران کئے اور وہ (بے پروائی سے ) آگے بڑھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With times came unrest which passed so quick, it reared great satans and passed so quick.\nMany Baghdads were raped by tyrants’ greal; it leveled their graves and passed like spate (reference to Changaiz Khan).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بسا کس اندوہ فردا کشیدند \nکہ دی مردند و فردا را ندیدند\nخنک مردان کہ در دامان امروز\nہزاران تازہ تر ہنگامہ چیدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "'بہت سے ایسے لوگ آئندہ کے غم میں گرفتار رہے (میں یہ کروں گا کہتے رہے) ، جو ماضی ہی میں مر گئے ، انہوں نے مستقبل نہ دیکھا ' (کچھ کر نہ سکے)۔ \nمبارک ہیں وہ لوگ جنہوں نے اپنے 'آج' کے دامن میں ہزاروں نئے ہنگامے چنے (جنہوں نے اپنی زندگی میں عملا کچھ کر کے دکھایا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who had fears for the future days, they died yesterday before coming days. \nLucky are those whose dress of today, is booming with success day by day.\n(Iqbal has taken the first two lines from a verse of Amir Khisro with basic thought: To whom future looms with fears and gloom, to mankind thus they bring only doom.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حقیقت ازلی ہے رقابت اقوام \nنگاہ پیر فلک میں نہ میں عزیز، نہ تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The discord that prevails among the nations is an eternal truth: This old and tyrant whirling dome for none of us has any ruth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی میں ڈوب، زمانے سے نا امید نہ ہو \nکہ اس کا زخم ہے درپردہ اہتمام رفو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dive into the abyss of Self and do not yield before despair the wounds that: world on you inflicts is secret means of their repair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رہے گا تو ہی جہاں میں یگانہ و یکتا \nاتر گیا جو ترے دل میں لاشریک لہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یگانہ و یکتا: دوسروں سے منفرد اور مختلف۔ \nلاشریک لہ: اللہ تعالے کا کوئی شریک نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If this truth that God has no peer sinks down in inner part of heart; you shall excel in grandeur all, in world affairs shall play great part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

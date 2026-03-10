@@ -1,0 +1,180 @@
+{
+  "id": "06",
+  "name": "طارق کی دعا",
+  "name-en": "Tariq’s Prayer",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "اندلس کے ميدان جنگ ميں",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ غازی، یہ تیرے پر اسرار بندے \nجنھیں تو نے بخشا ہے ذوق خدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "TARIQ’s PRAYER: In the Battlefield of Andalusia.\nThese warriors, victorious, these worshippers of Thine, whom Thou hast granted the will to win power in Thy name.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دو نیم ان کی ٹھوکر سے صحرا و دریا \nسمٹ کر پہاڑ ان کی ہیبت سے رائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who cleave rivers and woods in twain; whose terror turns mountains into dust!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دو عالم سے کرتی ہے بیگانہ دل کو \nعجب چیز ہے لذت آشنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They care not for the world; they care not for its pleasures; in their passion, in their zeal, in their love for Thee, O Lord!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شہادت ہے مطلوب و مقصود مومن \nنہ مال غنیمت نہ کشور کشائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشور کشائي: حکمرانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They aim at martyrdom, not the rule of the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خیاباں میں ہے منتظر لالہ کب سے \nقبا چاہیے اس کو خون عرب سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خياباں: پھولوں کی کیاری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Red flower in the flower-bed (Spain) is waiting since long; it requires an apron made of Arab blood",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کیا تو نے صحرا نشینوں کو یکتا \nخبر میں، نظر میں، اذان سحر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast united warring tribes; in thought, in deed, in prayer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "طلب جس کی صدیوں سے تھی زندگی کو \nوہ سوز اس نے پایا انھی کے جگر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The burning fire that life had sought; for centuries, was found in them at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کشاد در دل سمجھتے ہیں اس کو \nہلاکت نہیں موت ان کی نظر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They think of death, not as life’s end; but as the ennobling of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "دل مرد مومن میں پھر زندہ کر دے \nوہ بجلی کہ تھی نعرہ لاتذر، میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bring the heart in the chest of true believer back to life; lightening that lied in cry of La-tazar. (Reference to prayer of Noah (A.S.) in which he had prayed for replacing darkness of infidelity with the light of belief).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "عزائم کو سینوں میں بیدار کردے \nنگاہ مسلماں کو تلوار کردے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Awaken in them an iron will; and make their eye a sharpened sword.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

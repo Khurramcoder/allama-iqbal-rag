@@ -1,0 +1,33 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بکویش رہ سپاری اے دل ایدل\nمرا تنھا گذاری اے دل ایدل\nدمادم آرزوہا آفرینی\nمگر کاری نداری اے دل ایدل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O heart, my heart, unto His street thou’rt gone! O heart, my heart, thou leavest me alone; \nEach instant thou createst new desires: O heart, hast thou naught other to be done?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

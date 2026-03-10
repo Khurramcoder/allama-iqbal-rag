@@ -1,0 +1,113 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صد نالۂ شبگیری صد صبح بلا خیزی\nصد آہ شرر ریزی یک شعر دل آویزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred nights of wailing, a hundred mornings of travail, a hundred fire-emitting sighs: The product? One poignant verse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در عشق و ہوسناکی دانی کہ تفاوت چیست\nآن تیشۂ فرہادی این حیلۂ پرویزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know how you can tell love from lust? The former is Farhad’s pickaxe, the latter is Parvez’s guile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "با پردگیان بر گوکاین مشت غبار من\nگردیست نظر بازی خاکیست بلا خیزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell those behind the inner curtain this: The handful of dust that is; I is dust that sees, is dust that raises storms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہوشم برد اے مطرب مستم کند ایساقی\nگلبانگ دل آویزی از مرغ سحر خیزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A pleasing song sung by an early morning bird intoxicates me and enraptures me, O saki, O musician.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از خاک سمرقندی ترسم کہ دگر خیزد\nآشوب ھلاکوئی، ہنگامۂ چنگیزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Samarkand, I fear, there may arise again the threat of a Hulaku or the terror of a Genghis Khan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مطرب غزلی، بیتی از مرشد روم آور\nتا غوطہ زند جانم در آٹش تبریزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O singer, sing a ghazal or a couplet of the holy guide of Rum, so that my soul may be immersed in the fire of Tabriz.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

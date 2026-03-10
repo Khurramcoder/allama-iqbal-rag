@@ -1,0 +1,100 @@
+{
+  "id": "36",
+  "name": "خوشحال خاں کی وصیت",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قبائل ہوں ملت کی وحدت میں گم \nکہ ہو نام افغانیوں کا بلند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the tribes be lost in the unity of the nation, so that the Afghans gain prestige!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "محبت مجھے ان جوانوں سے ہے \nستاروں پہ جو ڈالتے ہیں کمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The youth to whom the stars are not out of bounds are the ones I love indeed:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مغل سے کسی طرح کمتر نہیں \nقہستاں کا یہ بچہء ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "قہستاں: افغانستان کا ایک پہاڑی علاقہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In no way is this child of the mountains inferior to the Mughal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہوں تجھ سے اے ہم نشیں دل کی بات \nوہ مدفن ہے خوشحال خاں کو پسند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I tell you my secret, O Comrade: Khush-hal Khan would much like that his burial place be far from the reaches;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اڑا کر نہ لائے جہاں باد کوہ \nمغل شہسواروں کی گرد سمند!",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرد سمند: دوڑتے ہوئے گھوڑوں کی اڑائی ہوئی گرد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of the dust blown by the Mughal cavalry, carried by the mountain wind.\n\nKhushhal Khan Khattak was a famous Pashtu nationalist poet, who mobilized the tribes and formed a coalition to fight for freedom of Afghanistan frm Moghal emporers. Omly Afridis remained with him till last. About one hundred poems of his were translated in to English and published in London in 1862.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Last Testament Of Khush-Hal Khan Khattak",
+  "credits": "English Translation by: Naim Siddiqui"
+}

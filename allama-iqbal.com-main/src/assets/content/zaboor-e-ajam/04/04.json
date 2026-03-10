@@ -1,0 +1,732 @@
+{
+  "id": "01",
+  "name": "مصوری",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "04",
+  "sectionName": "در بیان فنون لطیفۂ غلامان",
+  "Para": [
+    {
+      "name": "مصوری",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ہمچنان دیدم فن صورت گری\nنے براہیمی درو نے آزری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے مصوّری کو بھی دیکھا ہے ، نہ اس میں ابراہیمی ہے نہ آزری۔ (نہ یہ پرانی روایات توڑتی ہے، نہ نئے انداز کی تصاویر بناتی ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "PAINTINGS \nI see the case of Painting (of slaves) quite similar; it is neither the work of Abraham (idol-smashing) nor of Adhar (idol-carving). (It neither breaks old traditions, nor introduces new one)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "راہبی در حلقۂ دام ہوس\nدلبرے با طایرے اندر قفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہیں راہب دکھایا ہے جو دام ہوس میں پھنسا ہوا ہے، کہیں محبوب کو پنجرے میں بند پرندے کے ساتھ دکھایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Somewhere) a priest is shown trapped in the lust of baser passion; (at places) a beloved is shown (imprisoned) in a cage with a bird.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "خسروے پیش فقیرے خرقہ پوش\nمرد کوہستانیی ہیزم بدوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہیں بادشاہ دلق پوش فقیر کے سامنے (مودّب) کھڑا ہے، کہیں کوہستانی شخص لکڑیاں اٹھاے ہوے (جا رہا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Somewhere) a king is respectfully (sitting) in front of a beggar in rags; (at places) a highlander is shown carrying firewood on shoulders.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "نازنینی در رہ بتخانہ ئی\nجوگئی در خلوت ویرانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہیں مندر کی طرف جاتی ہوئی نازنین ہے، کہیں ویرانے میں بیٹھا جوگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Somewhere) beautiful young lady is going to a temple; (at places) a hermit is sitting alone in the solitude (desolation) of his cell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "پیرکی از درد پیری داغ داغ\nآنکہ اندر دست او گل شد چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہیں بوڑھا آدمی، جو درد پیری سے بے حال ہے، اس کے ہاتھ میں بجھا ہوا چراغ دکھایا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Somewhere) an old man suffering from burden of old age carrying an extinguished candle (of life) in his hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "مطربی از نغمۂ بیگانہ مست\nبلبلی نالید و تار او گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا ساز نواز جو دوسروں کے راگ سے مست ہو، ایسی بلبل جس نے فریاد کی اور اس کا تار ہی ٹوٹ گیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A musician absorbed in listening alien song; like nightingale wailing (for mercy) like a musical instrument with broken strings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "نوجوانے از نگاہی خوردہ تیر\nکودکے بر گردن بابای پیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "نگاہ کے تیر سے گائل نوجوان یا بوڑھے کی گردن پر سوار بچہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A youth hurt by arrows (hurled from the bow of beautiful) eyes of the beloved; (like a) child (riding) on the neck of a grandfather.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "می چکد از خامہ ہا مضمون موت\nہر کجا افسانہ و افسون موت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے مو قلم موت ہی کی منطر کشی کرتے ہیں ، ان کی ہر تصویر میں موت ہی کی کہانی یا افسوں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their brushes paint nothing but death scenes; every painting tells a story of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "علم حاضر پیش آفل در سجود\nشک بیفزود و یقین از دل ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جدید علم غروب ہونے والوں کے سامنے سر بسجود ہے ، یہ شک بڑھاتا اور یقین کو دل سے نکالتا ہے ۔ (حضرت ابراہیم (علیہ) کے واقعہ کی طرف اشارہ ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Modern knowledge prostrates in front of the fleeting (passing); it increases apprehensions (doubts) and diminishes trust (in God) (pointing towards the episode of Prophet Ibrahim, AS)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "بی یقین را لذت تحقیق نیست\nبی یقین را قوت تخلیق نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے یقین میں تحقیق کا شوق پیدا نہیں ہوتا ہے، نہ بے یقین کوئی نئی چیز تخلیق کر سکتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Quest for (truth) does not sprout in individuals without faih; those without faith cannot be creative.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "بی یقین را رعشہ ہا اندر دل است\nنقش نو آوردن او را مشکل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے یقین کا دل ہر وقت خوف سے کانپتا رہتا ہے، اس کے لیے (تصویر میں) نیا تخّیل لانا مشکل ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heart of those without faith trembles perpetually; it is difficult for him to come out with new (novel) ideas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "از خودی دور است و رنجور است و بس\nرہبر او ذوق جمہور است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خودی سے دور ہے اس لیے ہر وقت افسردہ خاطر ہی رہتا ہے ، اس کے پیش نظر صرف عوام کا ذوق ہوتا ہے ۔ (وہ عوام کے ذوق کی تربیت کرنے کی بجاۓ اس کی تقلید کرتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is far away from self-awareness and remains sick at heart; he is conscious of masses’ likes and dislikes (he is a follower, not a leader).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "حسن را دریوزہ از فطرت کند\nرہزن و راہ تہی دستی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ فطرت سے حسن کی گداگری کرتا ہے، راہزن ہے اور مفلس پر ڈاکہ ڈالتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He begs beauty from the external nature (instead of creating it himself); he is a robber who robs the poor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "حسن را از خود برون جستن خطاست\nآنچہ می بایست پیش ما کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حسن کو اپنے سے باہر تلاش کرنا غلطی ہے ، جو کچھ ہونا چاہئیے وہ ہمارے سامنے کہاں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seeking beauty from outside oneself is a mistake; what ought to be is not outside (oneself).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "نقشگر خود را چو با فطرت سپرد\nنقش او افکند و نقش خود سترد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب کوئی مصوّر اپنے آپ کو فطرت کے سپرد کر دیتا ہے، تو وہ صرف فطرت کی نقّالی کرتا ہے، اپنی طرف سے کوئی نئی چیز پیدا نہیں کرتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a painter surrenders oneself to Nature; then he only copies (duplicates), he cannot create new things.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "یک زمان از خویشتن رنگی نزد\nبر زجاج ما گہی سنگی نزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کبھی نقش کو اپنا رنگ نہیں دیتا، کبھی ہمارے شیشے پر پتھر کی ضرب نہیں لگاتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He could not manifest his own self (in his works); he did not strike the glass of heart with a stone (he cannot move or touch the hearts of those who see his pictures).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "فطرت اندر طیلسان ہفت رنگ\nماندہ بر قرطاس او با پای لنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کینوس پر اپنے قلم سے، مختلف رنگوں میں فطرت کی ادھوری نقّالی کرتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature wrapped in multicoloured robe remains limping (incomplete) in his works.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "بی تپش پروانۂ کم سوز او\nعکس فردا نیست در امروز او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا پروانہ کم سوز اور بغیر تپش کے ہے، اس کے حال میں مستقبل کی کوئی جھلک نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His moth lacks (inner) warmth; his today (present) has no reflection (glimpse) of tomorrow (future).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "از نگاہش رخنہ در افلاک نیست\nزانکہ اندر سینہ دل بیباک نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نگاہ افلاک کو نہیں چیر سکتی، کیونکہ اس کے سینے میں دل بے باک نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His sight (vision) cannot penetrate skies; because heart in his chest is not daring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "خاکسار و بی حضور و شرمگین\nبی نصیب از صحبت روح الامین",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ (ہر وقت) احساس کمتری میں مبتلا پراگندہ ذہن اور اپنے کیے پر شرمندہ رہتا ہے ، کیونکہ وہ روح الامین (علیہ) کی صحبت (کے فیض) سے محروم ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is earth-rooted, shy and without experience of ecstasy (suffers from inferiority complex and perversion); because he is deprived of company of Rooh-ul-Ameen (contact with the world of spirit).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "فکر او نادار و بی ذوق ستیز\nبانگ اسرافیل او بی رستخیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا فکر تہی دامن اور جدوجہد کے ذوق کے بغیر ہے، اس کی آواز صور سے قیامت برپا نہیں ہوتی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His thinking is hollow (lacks depth) and has no desire for struggle; his voice cannot bring about any resurrection.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "خویش را آدم اگر خاکی شمرد\nنور یزدان در ضمیر او بمرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر انسان اپنے آپ کو صرف خاکی سمجھے، تو اس کے اندر کا خدائی نور مردہ ہو جاتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a human being deems himself earthly; the Divine light (spirit) in him dies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "چون کلیمی شد برون از خویشتن\nدست او تاریک و چوب او رسن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا کلیم جب اپنے آپ سے باہر آتا ہے تو اس کا یدبیضا تاریک اور عصا محض رسّی ہوتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When (such a) Moses comes out; his bright hand turns dark and his staff (stick) turns into a (thin) rope.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "زندگی بی قوت اعجاز نیست\nہر کسی دانندۂ این راز نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوّت اعجاز کے بغیر زندگی نہیں ، مگر ہر کوئی اس راز کو نہیں سجھتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life without the capacity for new creations, but everyone does not know this secret.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "آن ہنرمندی کہ بر فطرت فزود\nراز خود را بر نگاہ ما گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو ہنرمند (آرٹسٹ) فطرت کی پر اضافہ کرتا ہے، وہ ہماری نگاہ پر اپنا راز کو نہیں سمجھتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Artist that adds to (the beauty of) Nature; he reveals his inner secrets of his vision before us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "گرچہ بحر او ندارد احتیاج\nمیرسد از جوی ما او را خراج",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ فطرت کے بحر کو ہماری ضرورت نہیں، لیکن جب ہم اس کے سمندر سے اپنی ندی نکالتے ہیں ، تو وہ اسے خراج (تحسین) پیش کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although his boundless ocean does not need anything; yet our rivulets contribute to it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "چین رباید از بساط روزگار\nہر نگاہ از دست او گیرد عیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بساط روزگار کے شکن دور کرتا ہے، اس کے ہاتھ کا بنایا ہوا نقش ہر محبوب کے لیے معیار تصوّر ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Such artist) removes wrinkles (transforms) the old values; his works are (ideals for) true standard of beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "حور او از حور جنت خوشتر است\nمنکر لات و مناتش کافر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی حور ، حور جنت سے بہتر ہے اور اس کے لات و منات کا منکر ( یعنی اس کی بت گری کے معیار کو تسلیم نہ کرنے والا) کافر ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His houri is more charming than the houri of paradise; one who does not recognize his Lat and Manat (idols which were kept in Haram have been used as reference) is a non-believer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "آفریند کائنات دیگری\nقلب را بخشد حیات دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ نئی کائنات تخلیق کرتا ہے، وہ قلب کو نئی زندگی بخشتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He creates new universe; he gives new life to the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "بحر و موج خویش را بر خود زند\nپیش ما موجش گہر می افکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا سمندر ہے جو اپنی موج سے نبرد آزما ہے، تب اس کی موج ہمارے سامنے موتی لا ڈالتی ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is (like) an ocean that is in encounter with his own waves; then waves throw pearls (on shores) in front of us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "زان فراوانی کہ اندر جان اوست\nہر تہی را پر نمودن شأن اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ذات کے اندر جو فراوانی ہے، اسکی وجہ سے ہر خالی کو پر کر دینا اس کی شان ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is because of the bountifulness of its nature that it fills every emptiness (nourishes the impoverished).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "فطرت پاکش عیار خوب و زشت\nصنعتش آئینہ دار خوب و زشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت پاک خوب و ناخوب کا معیار ہے اور اسکی تخلیق خوب و ناخوب کو واضح کر تی ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His pious nature is measure for right and wrong; his works elaborate difference between beautiful and ugly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "عین ابراھیم و عین آزر است\nدست او ہم بت شکن ہم بتگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ابراہیم بھی ہے اور آزر بھی، اس کا ہاتھ بت شکن بھی ہے اور بت گر بھی ۔ (یعنی وہ آرٹ کے پرانے معیار توڑ کر نئے معیار قائم کرتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is like Abraham as well as Adhar; he is idol-breaker and idol-maker at the same time (he breaks old trends and sets new ones).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "ہر بنای کہنہ را بر می کند\nجملہ موجودات را سوہان زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر پرانی بنیاد کو اکھاڑ پھینکتا ہے، وہ ساری موجودات کو تیز کر دیتا ہے۔ ( موجودات کو نیا رنگ دیتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He uproots every old foundation; resets his surroundings (and gives them new colours).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "در غلامی تن ز جان گردد تہی\nاز تن بی جان چہ امید بہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں بدن، جان سے خالی ہوتا ہے، اور تن بے جان سے بھلائی کی کیا امّید رکھی جا سکتی ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery the body is without soul; what good can be expected from soulless body?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "ذوق ایجاد و نمود از دل رود\nآدمی از خویشتن غافل رود",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل میں ایجاد اور اظہار کا ذوق باقی نہیں رہتا، آدمی اپنے آپ سے غافل ہو جاتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His heart is rendered with no creative desire; (such a person) becomes unaware of his self (existence).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "جبرئیلی را اگر سازی غلام\nبر فتد از گنبد آئینہ فام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو جبریل (علیہ) کو غلام بنا لے ، تو وہ بھی ( آسمان کے) گنبد آئینہ فام سے نیچے گر پڑے گا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you enslave Gabriel; even he would fall on earth from heights of heavens.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "کیش او تقلید و کارش آزری ست\nندرت اندر مذہب او کافری ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام کا مسلک تقلید اور اس کا کام بت گری ہے، اس کے مذہب میں ندرت ( نئی چیز پیدا کرنا) کافری شمار ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slave is a follower and he is idol-carver; in his religion creativity is considered infidelity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "تازگیہا وہم و شک افزایدش\nکہنہ و فرسودہ خوش می آیدش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نئی چیزیں اس کا وہم و شک بڑھا دیتی ہیں، وہ کہنہ اور فرسودہ پر خوش رہتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Novelties add to his suspicions and apprehensions; he remains happy with old and obsolete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "چشم او بر رفتہ از آیندہ کور\nچون مجاور رزق او از خاک گور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نظر صرف ماضی پر رہتی ہے اور وہ مستقبل کے بارے میں اندھا ہوتا ہے، مجاور کی طرح وہ اپنا رزق قبر کی مٹی سے حاصل کرتا ہے ۔ (مردہ روایات کا پجاری بن جاتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He remains focused on the past and blind (oblivious) about future; he seeks livelihood from the dust of grave like a majawar (he follows old traditions).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "گر ہنر این است مرگ آرزوست\nاندرونش زشت و بیرونش نکوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر یہہی ہنر ہے، تو اس میں آرزو کی موت ہے، ایسے ہنر کا اندرون مکروہ اور بیرون خوبصورت ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If this is art, then it is death of hope (aspirations); essence of such art is dark (disgusting) but its appearance is beautiful.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "طایر دانا نمیگردد اسیر\nگرچہ باشد دامی از تار حریر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سمجھدار پرندہ اسیر نہیں ہوتا خواہ جال ریشمی ہو، ( سمجھدار لوگ ایسے آرٹ سے متاثر نہیں ہوتے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wise bird never gets trapped even if the net is made of silk (deceptively attractive); (wise people are not impressed by such art).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Painting",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "65",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وفا ناآشنا بیگانہ خو بود\nنگاہش بیقرار از جستجو بود\nچو دید او را پرید از سینۂ من\nندانستم کہ دست آموز او بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تو نا آشنا اور بے گانہ خو تھا ؛ اس کی نگاہ (کسی اور کی) جستجو میں بے قرار تھی۔ \n جب اسے دیکھا ، تو میرے سینے سے اڑ کر نکال گیا ؛ مجھے معلوم نہ تھا کہ اس کے ہاتھ کا سدھایا ہوا (پرندہ) ہے (اپنے دل کے بارے میں کہہ رہے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stranger it was, nor faithfulness did know, its gaze was restless, searching to and fro:\nWhen it beheld Him, from my breast it flew – I knew not that His hand had taught it so.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

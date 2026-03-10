@@ -1,0 +1,102 @@
+{
+  "id": "23",
+  "name": "انتداب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہاں فرشتہ تہذیب کی ضرورت ہے \nنہیں زمانہ حاضر کو اس میں دشواری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not hard to find in present age the place which needs culture's angelic sage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جہاں قمار نہیں، زن تنک لباس نہیں \nجہاں حرام بتاتے ہیں شغل مے خواری",
+              "lang": "Original"
+            },
+            {
+              "_content": "تنک لباس: کم لباس ، نیم عریاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where dice and drink are both by law forbid, and women keep their bodies fully hide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدن میں گرچہ ہے اک روح ناشکیب و عمیق \nطریقہ اب و جد سے نہیں ہے بیزاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناشکيب و عميق: بے صبر اور گہری۔ \nاب و جد: باپ دادا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although my body has a deep restless heart, yet forbears' wont no disgust can impart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جسور و زیرک و پردم ہے بچہ بدوی \nنہیں ہے فیض مکاتب کا چشمہ جاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسور: بہادر۔ \nبچہ بدوي: عرب کے بدو کا بیٹا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although deprived of School's beneficial fount on Bedouin’s wit and courage we can count.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نظروران فرنگی کا ہے یہی فتوی \nوہ سرزمیں مدنیت سے ہے ابھی عاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نظروران: دانشمند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wise 'mong Franks this verdict declare of culture Arab lands are fully bare.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Tutelage",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

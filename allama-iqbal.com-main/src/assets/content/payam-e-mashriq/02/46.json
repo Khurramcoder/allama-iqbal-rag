@@ -1,0 +1,138 @@
+{
+  "id": "46",
+  "name": "بہ مبلغ اسلام در فرنگستان",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "name-ur": "فرنگستان میں اسلام کے مبلغ سے۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمانہ باز برافروخت آتش نمرود\nکہ آشکار شود جوھر مسلمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے نے پھر آتش نمرود جلائی ہے، تاکہ مسلمان کا جوہر ظاہر ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time has rekindled Nimrod’s fire so that the mettle of Islam may once again be proved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بیا کہ پردہ ز داغ جگر بر اندازیم\nکہ آفتاب جہانگیر شد ز عریانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ اپنے داغ جگر سے پردہ ہٹائیں ، تاکہ وہ ظاہر ہو کر آفتاب جہانگیر بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come; let us lift the veil from our heart’s wound, for it is the sun’s nakedness that makes it shine over the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہزار نکتہ زدی پیش دلبران فرنگ\nگداختی صنمان را بہ علم برہانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے فرنگی محبوبوں کے سامنے ہزار نکتے پیش کئے ، (اپنے) علمی دلائل کے ساتھ (پتھر کے) بتوں کو نرم کر دیا (مگر اس سے کچھ حاصل نہ ہوا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have made many subtle points before the charmers of the West, and melted many idols’ hearts with the heat of your arguments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خبر ز شھر سلیمی بدہ حجازی را\nشرار شوق فشان در ضمیر تورانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(تجھے چاہئیے کہ) حجازی کو شہر سلیمی کی خبر دے، تورانی کے ضمیر میں شوق کا شرر ڈالے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, now give some news of the city of Sulayma to the people of Hijaz, and fling a spark into the dead, cold conscience of the people of Turan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "رہ عراق و خراسان زن اے مقام شناس\nببزم اعجمیان تازہ کن غزل خوانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مقام شناس! عراق اور خراساں کی راہ اختیار کر ، عجمیوں کی بزم میں غزل خوانی کا آغاز کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O knower of maqam, strike the note of Iraq and Khurasan; revive the singing of ghazals in the assemblies of the ‘Ajamis.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بسے گذشت کہ در انتظار زخمہ وریست\nچہ نغمہ ہا کہ نہ خون شد بہ ساز افغانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانہ گزر گیا کہ وہ زخمہ ور کے انتظار میں ہیں، (ماضی میں) ساز افرنگی سے کیا کیا خون ریز نغمے نہ پھوٹے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a long time since the Afghan’s lute awaits the plectrum’s strokes. What melodies have turned to blood, pent up within its breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حدیث عشق بہ اہل ہوس چہ میگوئی\nبہ چشم مور مکش سرمۂ سلیمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل ہوس (فرنگیوں ) کے سامنے کیا عشق کی بات کرتا ہے، (ایسا نہ کر) یہ تو چیونٹی کی آنکھ میں سلیمانی سرمہ لگانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why tell Love’s story to a people given to lust? Why put the surma of wise Solomon into ants’ eyes?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To A Muslim Missionary In England",
+  "credits": "English Translation by: M Hadi Hussain"
+}

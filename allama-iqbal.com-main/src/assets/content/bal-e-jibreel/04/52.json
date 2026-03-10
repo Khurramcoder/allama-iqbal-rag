@@ -1,0 +1,162 @@
+{
+  "id": "52",
+  "name": "شاہیں",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیا میں نے اس خاک داں سے کنارا \nجہاں رزق کا نام ہے آب و دانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a scorner of the earth; where life is a handful of grains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بیاباں کی خلوت خوش آتی ہے مجھ کو \nازل سے ہے فطرت مری راہبانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My nature, like a hermit’s, loves wild solitude; I have saintly nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ باد بہاری، نہ گلچیں، نہ بلبل \nنہ بیماری نغمہ عاشقانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No breeze for me, no nightingale; no song of love, no song in the air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خیابانیوں سے ہے پرہیز لازم \nادائیں ہیں ان کی بہت دلبرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wing away from gardens, embowered with flowers enticing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوائے بیاباں سے ہوتی ہے کاری \nجواں مرد کی ضربت غازیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In wilderness the winds sharpen my ethereal flight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حمام و کبوتر کا بھوکا نہیں میں \nکہ ہے زندگی باز کی زاہدانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hunger not for birds of prey; mine is an austere life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جھپٹنا، پلٹنا، پلٹ کر جھپٹنا \nلہو گرم رکھنے کا ہے اک بہانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To swoop, withdraw and swoop again is only a pretext to keep up the heat of the blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "یہ پورب، یہ پچھم چکوروں کی دنیا \nمرا نیلگوں آسماں بیکرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O East and west are for petty birds; mine is the world of boundless skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پرندوں کی دنیا کا درویش ہوں میں \nکہ شاہیں بناتا نہیں آشیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I stoop not to make a nest; I am a dervish among the birds.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Eagle",
+  "credits": "English Translation by: Mustansir Mir"
+}

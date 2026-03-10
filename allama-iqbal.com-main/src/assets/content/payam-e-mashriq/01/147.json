@@ -1,0 +1,33 @@
+{
+  "id": "147",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز شاخ آرزو بر خوردہ ام من\nبہ راز زندگی پے بردہ ام من\nبترس از باغبان اے ناوک انداز\nکہ پیغام بھار آوردہ ام من",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have consumed the fruit of Passion’s tree. And understood Life’s inmost mystery; \nLo, I have brought the message of the spring; beware the Gardener, Lord of archery!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,566 @@
+{
+  "id": "07",
+  "name": "فلسفہ غم",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "میاں فضل حسین صاحب بیرسٹرایٹ لاء لاہور کے نام",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گو سراپا کیف عشرت ہے شراب زندگی\nاشک بھی رکھتا ہے دامن میں سحاب زندگی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the wine of life is the embodiment of pleasure; the cloud of life carries tears also in its skirt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "موج غم پر رقص کرتا ہے حباب زندگی\nہے 'الم' کا سورہ بھی جزو کتاب زندگی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bubble of life dances on the wave of grief; ‘Alam’s’ Surah* is also part of the Book of Life.\n(Allusion to the Holy Qur’an: 94: 5-6.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ایک بھی پتی اگر کم ہو تو وہ گل ہی نہیں\nجو خزاں نادیدہ ہو بلبل، وہ بلبل ہی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By losing even a single petal the rose ceases to be rose; if the nightingale is unaware of autumn it ceases to be nightingale.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آرزو کے خون سے رنگیں ہے دل کی داستاں\nنغمہ انسانیت کامل نہیں غیر از فغاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart’s story is coloured with Longing’s blood; the human music is incomplete without lament’s cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دیدہ بینا میں داغ غم چراغ سینہ ہے \nروح کو سامان زینت آہ کا آئینہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the discerning eye the grief’s scar is insight; for the soul sigh’s mirror is beauty’s accompaniment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حادثات غم سے ہے انساں کی فطرت کو کمال\nغازہ ہے آئینہء دل کے لیے گرد ملال",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Incidents of grief give perfection to human nature; the dust of anguish is rouge for the heart’s mirror.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "غم جوانی کو جگا دیتا ہے لطف خواب سے\nساز یہ بیدار ہوتا ہے اسی مضراب سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Youth is awakened from sleep’s pleasure by grief; this orchestra wakes up with this plectrum alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "طائر دل کے لیے غم شہپر پرواز ہے\nراز ہے انساں کا دل غم انکشاف راز ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the heart’s bird grief is the strongest feather. The human heart is a secret whose disclosure is grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "غم نہیں غم، روح کا اک نغمہء خاموش ہے\nجو سرود بربط ہستی سے ہم آغوش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grief is not distress, but is the soul’s silent song, which is locked in the embrace of existence’ harp.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "شام جس کی آشنائے نالہء 'یا رب' نہیں\nجلوہ پیرا جس کی شب میں اشک کے کوکب نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose night is not acquainted with ‘Ya Rab’s’* plaint! Whose night does not manifest the stars of tears!\n(This expression is used by true believers in the hour of their distress and trial.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "جس کا جام دل شکست غم سے ہے ناآشنا\nجو سدا مست شراب عیش و عشرت ہی رہا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose heart’s cup does not know breaking with grief! Who always remained ecstatic with pleasure and exhilaration!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہاتھ جس گلچیں کا ہے محفوظ نوک خار سے\nعشق جس کا بے خبر ہے ہجر کے آزار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gardener whose hand is safe from thorn’s tip; whose love is unaware of the pathos of separation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کلفت غم گرچہ اس کے روز و شب سے دور ہے\nزندگی کا راز اس کی آنکھ سے مستور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though grief’s affliction is far from his life; the secret of life is concealed from his eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اے کہ نظم دہر کا ادراک ہے حاصل تجھے\nکیوں نہ آساں ہو غم و اندوہ کی منزل تجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the one with comprehension of life’s affairs! Why should not grief and sorrow be easy for you?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہے ابد کے نسخہ دیرینہ کی تمہید عشق\nعقل انسانی ہے فانی، زندہء جاوید عشق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is the introduction to the Eternity’s old treatise; human intellect is mortal but Love is eternally alive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "عشق کے خورشید سے شام اجل شرمندہ ہے\nعشق سوز زندگی ہے، تا ابد پائندہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The evening of death is no match to the sun of Love. Love is the warmth of life and lasts till eternity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "رخصت محبوب کا مقصد فنا ہوتا اگر \nجوش الفت بھی دل عاشق سے کر جاتا سفر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If annihilation had been intended for the departed beloved; Love’s zeal would have also departed from the Lover’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "عشق کچھ محبوب کے مرنے سے مر جاتا نہیں\nروح میں غم بن کے رہتا ہے، مگر جاتا نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love does not die by the beloved’s death; it stays in the soul as grief but does not die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہے بقائے عشق سے پیدا بقا محبوب کی\nزندگانی ہے عدم ناآشنا محبوب کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lover’s immortality is the beloved’s immortality; the beloved’s life is unacquainted with mortality.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "آتی ہے ندی جبین کوہ سے گاتی ہوئی\nآسماں کے طائروں کو نغمہ سکھلاتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spring comes singing from the mountain top teaching the art of singing to the birds of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آئنہ روشن ہے اس کا صورت رخسار حور\nگر کے وادی کی چٹانوں پر یہ ہو جاتا ہے چور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its mirror is bright like the Houri’s cheek, but falling on valley’s rocks it is shattered.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "نہر جو تھی، اس کے گوہر پیارے پیارے بن گئے\nیعنی اس افتاد سے پانی کے تارے بن گئے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The river’s pearls ever more beautiful became; that is by this fall they water’s stars became.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "جوئے سیماب رواں پھٹ کر پریشاں ہو گئی\nمضطرب بوندوں کی اک دنیا نمایاں ہو گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The river of flowing mercury spread and became scattered; a whole entire world of restless drops became manifest;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "ہجر، ان قطروں کو لیکن وصل کی تعلیم ہے\nدو قدم پر پھر وہی جو مثل تار سیم ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But separation is the training for reunion to those drops, after a while the same river is running like a silver string.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ایک اصلیت میں ہے نہر روان زندگی\nگر کے رفعت سے ہجوم نوع انساں بن گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flowing river of life is of the same origin; falling from high it became the concourse of humanity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "پستی عالم میں ملنے کو جدا ہوتے ہیں ہم\nعارضی فرقت کو دائم جان کر روتے ہیں ہم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the depths of this world we part to reunite, but we cry considering temporary parting as permanent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "مرنے والے مرتے ہیں لیکن فنا ہوتے نہیں\nیہ حقیقت میں کبھی ہم سے جدا ہوتے نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the dead do die they do not perish; really they do not get separated from us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "عقل جس دم دہر کی آفات میں محصور ہو\nیا جوانی کی اندھیری رات میں مستور ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Intellect be surrounded in worldly calamities, or when it be besieged in the dreary night of youth;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "دامن دل بن گیا ہو رزم گاہ خیر و شر\nراہ کی ظلمت سے ہو مشکل سوئے منزل سفر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the heart’s skirt be the battle field of good and evil; when journey to the goal be difficult in road’s darkness;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "خضر ہمت ہو گیا ہو آرزو سے گوشہ گیر\nفکر جب عاجز ہو اور خاموش آواز ضمیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the Khizar of courage may be resigned from longing; when Intellect be helpless and conscience a silent voice;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "وادی ہستی میں کوئی ہم سفر تک بھی نہ ہو\nجادہ دکھلانے کو جگنو کا شرر تک بھی نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When not a single fellow-traveler be in the vale of life; when not even fire-fly’s spark to show the way there be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "مرنے والوں کی جبیں روشن ہے اس ظلمات میں\nجس طرح تارے چمکتے ہیں اندھیری رات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The foreheads of the dead brighten up in this darkness as stars are shining in the darkness of the night.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "name-en": "The Philosophy Of Grief",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

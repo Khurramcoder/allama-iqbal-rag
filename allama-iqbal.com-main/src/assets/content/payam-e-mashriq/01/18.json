@@ -1,0 +1,34 @@
+{
+  "id": "18",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گذشتی تیز گام اے اختر صبح\nمگر از خواب ما بیزار رفتی\nمن از ناآگہی گم کردہ راھم\nتو بیدار آمدی بیدار رفتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے ستارے! تو تیزی سے گزر جاتا ہے؛ شاید تو ہماری خواب (غفلت) سے بیزار ہے۔\nمیں (حقیقت) نہ سمجھنے کے باعث گم کردہ راہ ہوں؛ تو بیدار آتا ہے اور بیدار ہی جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Swift-paced thou hast departed, star of dawn! Perchance disgusted that we slumbered on: \nIt was through ignorance I lost the way – wakeful thou earnest, wakeful thou art gone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

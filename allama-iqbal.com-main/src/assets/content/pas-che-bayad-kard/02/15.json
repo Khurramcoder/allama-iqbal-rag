@@ -1,0 +1,665 @@
+{
+  "id": "15",
+  "name": "خطاب بہ اقوام سرحد",
+  "name-en": "Address to the Frontier Tribes",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "سرحد کے قبائل سے خطاب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے ز خود پوشیدہ خود را بازیاب\nدر مسلمانی حرامست این حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنے آپ سے پوشیدہ ہے، اپنے آپ کو دوبارہ پا لے، مسلمانی میں ایسا پردہ حرام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who are hidden to your own self, discover yourself. In the Islamic Faith concealment is tabu.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رمز دین مصطفی دانی کہ چیست\nفاش دیدن خویش را شاہنشی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو جانتا ہے کہ دین مصطفے (صلعم) کا راز کیا ہے ؟ یہ کہ اپنے آپ کو برملا دیکھنا بادشاہی ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Known you the secret of the Prophet’s Deen? Seeing one’s self explicitly is being right royal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چیست دین ؟ دریافتن اسرار خویش\nزندگی مرگ است بی دیدار خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین کیا ہے؟ اپنی شخصیت کے اسرار دریافت کرنا ۔ اپنے دیدار کے بغیر زندگی موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the Deen (Din)? Finding out your self’s secrets. Life is sheer death without beholding your self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آن مسلمانی کہ بیند خویش را\nاز جھانی برگزیند خویش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مسلمان جو اپنے آپ کو دیکھ لیتا ہے وہ سمجھ لیتا ہے کہ وہ سارے جہان سے برتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That Muslim who keens his self selects himself only out of the whole world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از ضمیر کائنات آگاہ اوست\nتیغ لا موجود ’’الا اﷲ‘‘ اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا مسلمان ہی ضمیر کائنات سے آگاہ ہوتا ہے، وہی لاموجود 'الاللہ ' کی تیغ بنتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He knows the very nature of the universe. He is the sword yclept: ‘There is naught Existent except God.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در مکان و لامکان غوغای او\nنہ سپہر آوارہ در پہنای او",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکان و لا مکان میں اسی کا غوغا ہے۔ یہ سارے آسمان اسی کی وسعت میں پھرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both space and hyper-space are full of this tumult; the nine skies are straggling in its expanse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تا دلش سری ز اسرار خداست\nحیف اگر از خویشتن ناآشناست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ مسلمان کا قلب اللہ تعالے کے اسرار میں سے ایک سرّ ہے اس لیے ایسے مسلمان پر افسوس ہے جو اپنے سے بے خبر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as his heart is a secret out of the secrets of God, alack if he sees not his own self!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بندۂ حق وارث پیغمبران\nاو نگنجد در جہان دیگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا بندہ پیغمبروں کا وارث ہے۔ وہ دوسروں کے جہان میں نہیں سماتا۔ (وہ اپنا جہان خود پیدا کرتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The votary of God is heir to prophets; he is not contained in the world of objects.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تا جھانی دیگری پیدا کند\nاین جھان کہنہ را برہم زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ وہ نیا جہان پیدا کرتا ہے اس لیے پہلے اس پرانے جہان کو درہم برہم کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In order that he should create another world, he shatters this old, weather beaten one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "زندہ مرد از غیر حق دارد فراغ\nاز خودی اندر وجود او چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ انسان غیر اللہ سے فراغت حاصل کر چکا ہے ، اس کے وجود کے اندر خودی کا چراغ روشن ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A live person is free from fealty to others than God. There is a lamp lighted in him by the ego.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پای او محکم بہ رزم خیر و شر\nذکر او شمشیر و فکر او سپر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خیر و شر کی جنگ میں وہ ثابت قدم رہتا ہے، ذکر اس کی شمشیر ہے اور فکر اس کا ڈھال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His foot is firm in the strife between good and bad; his remembrance of God is the scimitar and his contemplation the shield.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "صبحش از بانگی کہ برخیزد ز جان\nنی ز نور آفتاب خاوران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی صبح آفتاب مشرق کی روشنی سے نہیں بلکہ اس بانگ اذان سے ہے جو اس کی جان کے اندر سے پیدا ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His morning is by a call which arises from the depth of his soul, not by the light of the orient sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "فطرت او بی جہات اندر جہات\nاو حریم و در طوافش کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان چار سو کے اندر اس کی فطرت جہات سے بالا تر ہے۔ وہ حریم ہے اور ساری کائنات اس کا طواف کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His nature is sans directions in the midst of dimensions; his is the sanctuary round which the world revolves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ذرہ ئی از گرد راہش آفتاب\nشاہد آمد بر عروج او کتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی گرد راہ کا ہر ذرّہ آقتاب ہے، کتاب اللہ اس کے عروج پر گواہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A particle from his path is the sun; the Book bears testimony to his lofty status.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "فطرت او را گشاد از ملت است\nچشم او روشن سواد از ملت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی صلاحیتیں ملّت کے ذریعے وسعت پذیر ہوتی ہیں۔ اس کی آنکھ کی روشنی ملّت ہی سے بڑھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His nature finds exposition by the millat making his eye bright therewith. His eye is lustrous by this corporate body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اندکی گم شو بہ قرآن و خبر\nباز اے نادان بخویش اندر نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا قرآن و سنت کے اندر گم ہو جا، پھر اے نادان اپنی طرف نگاہ ڈال (کہ تو کس حد تک اس معیار پر پورا اترتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be lost a bit in the Qur’an and Traditions, O ignorant one! Then plunge into your own covert self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در جہان آوارہ ئی بیچارہ ئی\nوحدتی گم کردہ ئی صد پارہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جہان میں آوارہ اور بے چارہ ہے، اپنی وحدت گم کر کے ٹکڑے ٹکڑے ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lost you are in the world bewildered and confounded; losing your unity you are blown into bits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بند غیر اﷲ اندر پای تست\nداغم از داغی کہ در سیمای تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے پاؤں میں غیر اللہ کی زنجیر پڑی ہے، تیری پیشانی پر غیر اللہ کی غلامی کا جو داغ ہے اس سے میرا دل داغ داغ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The manacle of ‘other-than-God’ binds your feet. Alas, this mark of bondage on your forehead!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "میر خیل ! از مکر پنھانی بترس\nاز ضیاع روح افغانی بترس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سالار لشکر تو دشمنوں کی خفیہ سازشوں سے ہوشیار رہ اور اس بات سے ڈر کہ کہیں روح افغانی جاتی نہ رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leader of the people, be afraid of this inner mischief; be afraid of the deterioration, of the Afghan spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ز آتش مردان حق می سوزمت\nنکتہ ئی از پیر روم آموزمت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تجھے مردان حق کی آگ سے گرماتا ہوں، تیرے سامنے پیر روم کا ایک نقطہ بیان کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let me kindle you with the fire of godly folk teaching you by the precept of the master saint of Rumi.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "’’رزق از حق جو ، مجو از زید و عمر\nمستی از حق جو ، مجو از بنگ و خمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے سے رزق مانگ، عیرے غیرے سے نہ مانگ ۔ مستی اللہ تعالے (کے عشق) سے مانگ ، منشیات سے حاصل نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Seek livelihood from the Lord, not this and that, seek stimulation from Him, not from hemlock and wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گل مخر گل را مخور گل را مجو\nزانکہ گل خوار است دائم زرد رو",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ مٹی (مادیّت ) خرید، نہ مٹی کھا، نہ مٹی طلب کر، کیونکہ مٹی خوار ہے اور ہمیشہ زردرو رہتی ہے (اور اس کا طلبگار بھی ہمیشہ ذلیل و خوار رہتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek not mud, eat it not and seek it not. For the mire is foul and always pale in hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "دل بجو تا جاودان باشی جوان\nاز تجلی چہرہ ات چون ارغوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو دل کی تلاش کر تا کہ ہمیشہ جواں رہے اور تیرا چہرہ حق تعالے کی تجلّی سے سرخ رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek the heart so that you always remain young, your face crimson with refulgence divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "بندہ باش و بر زمین رو چون سمند\nچون جنازہ نی کہ بر گردن برند‘‘",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کا بندہ بن اور زمین پر گھوڑے کی طرح چل۔ جنازہ نہ بن کہ لوگ تجھے اپنی گردن پر اٹھاۓ پھریں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be a man and move about the earth like a steed, not like a dead corpse carried on the shoulders.”",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "شکوہ کم کن از سپہر لاجورد\nجز بہ گرد آفتاب خود مگرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیلے آسمان کی گردش کا شکوہ نہ کر، آفتاب کے علاوہ اور کسی کے گرد نہ گھوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Complain little of the cerulean sky; revolve not round anything except your sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "از مقام ذوق و شوق آگاہ شو\nذرہ ئی ؟ صیاد مہر و ماہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق و شوق کے مقام سے آگہی حاصل کر، ذرّے سے مہر و ماہ کا شکاری بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become aware of the lofty station of spiritual ardour. If a mere mote, become the hunter of the sun and moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "عالم موجود را اندازہ کن\nدر جھان خود را بلند آوازہ کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اپنے معیار سے ) جہان موجود کو پرکھ اور دنیا میں اپنی اہمیّت قائم کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take measure of the present world and raise aloft your voice therein.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "برگ و ساز کائنات از وحدتست\nاندرین عالم ، حیات از وحدت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "توحید ہی کائنات کی متاع ہے، اسی سے جہان میں زندگی ہے (جتنا کسی کا اللہ تعالے سے تعلق ہے اتنا ہی زندگی سے بہرہ ور ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The coherence of this world is by unity alone, life herein means unity in this subterranean world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "در گذر از رنگ و بوہای کہن\nپاک شو از آرزوہای کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرا نے رنگ و بو (روایات) کو چھوڑ، فرسودہ آرزوؤں سے پاک ہو جا (صرف اللہ تعالے ہی کی آرزو کر)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave off these scents and hues old. Purge yourself of antiquated aspirations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "این کہن سامان نیرزد با دو جو\nنقشبند آرزوے تازہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پرانے آسمان کی قیمت دو جو کے برابر بھی نہیں اس لیے (اپنے دل پر) نئی آرزو منقّش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All this stuff is not worth even a barley grain. Devise anew live aspiration.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "زندگی بر آرزو دارد اساس\nخویش را از آرزوی خود شناس",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو پر ہی زندگی کی بنیاد ہے، اپنے آپ کو اپنی آرزو سے پہچان ( آرزو کی نوعیت ہی انسان کا مقام متعیّن کرتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For life has its base therein. Develop your identity by this aspiration of yours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "چشم و گوش و ہوش ، تیز از آرزو\nمشت خاکی لالہ خیز از آرزو",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی سے آنکھ، کان اور فہم تیز ہوتے ہیں، آرزو ہی سے مشت خاک کے اندر گلہاۓ لالہ پیدا ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye, ears and senses are all sharpened by it. A pinch of dust gives rise to tulips thereby.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ہر کہ تخم آرزو در دل نکشت\nپایمال دیگران چون سنگ و خشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنے دل کے اندر آرزو کا بیج نہ بویا وہ سنگ و خشت کی طرح دوسروں کے پاؤں تلے روندا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who does not sow the seed of aspiration in his heart; becomes downtrodden by others like rocks and stones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "آرزو سرمایۂ سلطان و میر\nآرزو جام جھان بین فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی سلطان و میر کا سرمایہ ہے اور یہی فقیر کے لیے جام جہان بین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Aspiration is the wherewithal of kings and lords; it is the discerning cup of a mendicant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "آب و گل را آرزو آدم کند\nآرزو ما را ز خود محرم کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی مشت خاک کو آدم بناتی ہے، آرزو ہی ہمیں اپنے آپ سے آگاہ کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is this turns water and clay, the physical self; into a human being.\nIt is that which acquaints us with ourselves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "چون شرر از خاک ما بر می جہد\nذرہ را پہنای گردون میدہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہماری خاک سے شرر کی مانند بھڑکتی ہے اور اس ذرّے کو گردوں کی وسعت عطا کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a spark leaps up from our body’s dust, it grants a mote the vast expanse of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "پور آزر کعبہ را تعمیر کرد\nاز نگاہی خاک را اکسیر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آذر کے بیٹے ( خلیل اللہ) نے کعبہ تعمیر کیا اور ایک نگاہ سے خاک کو اکسیر بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The son of Azar, Abraham, constructed the Kaaba, thereby converting the earth to alchemy with just a glance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "تو خودی اندر بدن تعمیر کن\nمشت خاک خویش را اکسیر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بھی اپنے بدن کے اندر خودی تعمیر کر اور اپنی مشت خاک کو اکسیر بنا دے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You too build a self in your corporeal frame and convert a pinch of dust of your self into alchemy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Jamil Naqvi"
+}

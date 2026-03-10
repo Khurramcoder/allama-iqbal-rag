@@ -1,0 +1,831 @@
+{
+  "id": "01",
+  "name": "پیام",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از من اے باد صبا گوی بہ دانای فرنگ\nعقل تا بال گشود است گرفتار تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے باد صبا! میری طرف سے فرنگ کے دانا سے کہو ، جب سے (تمہاری ) عقل نے بال و پر کھولے ہیں، وہ اور زیادہ گرفتار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O morning breeze, convey this to the Western sage from me: With wings unfolded, Wisdom is a captive all the more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "برق را این بہ جگر میزند آن رام کند\nعشق از عقل فسون پیشہ جگردار تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ برق کو جگر پر لیتا ہے اور وہ اسے رام کرتی ہے؛ عشق ساحر کا پیشہ عقل سے زیادہ جگردار (حوصلہ مند) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It tames the lightning, but Love lets it strike its very heart: In courage Love excels that clever sorcerer by far.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چشم جز رنگ گل و لالہ نبیند ورنہ\nآنچہ در پردۂ رنگ است پدیدار تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آنکھ ، سوائے گل و لالہ کے رنگ کے اور کچھ نہیں دیکھتی ، ورنہ جو کچھ رنگ کے پردہ میں ہے، وہ زیادہ ظاہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye sees just the colour of the tulip and the rose; but far more obvious, could we see it, is the flower’s core.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عجب آن نیست کہ اعجاز مسیحا داری\nعجب این است کہ بیمار تو بیمار تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تعجب اس پر نہیں کہ تو اعجاز مسیحا رکھتا ہے، تعجب کی بات یہ ہے کہ تیرے (علاج سے) مریض کا مرض بڑھ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not strange that you have the Messiah’s healing touch: What is strange is your patient is the more sick for your cure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دانش اندوختہ ئی دل ز کف انداختہ ئی\nآہ زان نقد گرانمایہ کہ در باختہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے دانش تو جمع کر لی ، مگر دل کو ہاتھ سے چھوڑ دیا، افسوس! اس قیمتی سرمایہ پر جو تو نے ہار دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you have gathered knowledge, you have thrown away the heart; with what a precious treasure you have thought it fit to part!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حکمت و فلسفہ کاریست کہ پایانش نیست\nسیلی عشق و محبت بہ دبستانش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکمت و فلسفہ ایسا کام ہے جو اتھاہ ہے، مگر اس مدرسہ میں عشق و محبت کے تھپیڑے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The courting of philosophy is a vain quest, indeed; for in its school Love’s lofty regimen is not decreed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیشتر راہ دل مردم بیدار زند\nفتنہ ئی نیست کہ در چشم سخندانش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بالعموم یہ (فلسفہ) بیدار اشخاص کے دلوں کو غارت کرتا ہے، کون سا فتنہ ہے، جو اس کی چشم فتنہ زا میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such are its blandishments; it leads astray the pupil’s heart: There is no mischief its coquettish glances do not breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "دل ز ناز خنک او بہ تپیدن نرسد\nلذتی در خلش غمزۂ پنھانش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل کی ٹھنڈی آگ دل کو تڑپنا نہیں سیکھاتی ، نہ اس کے غمزہء پنہاں میں کوئی لطف ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But its cold fire can never set the seeker’s heart aflame: It cannot give the heart Love’s sweet pain, though it makes it bleed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "دشت و کہسار نوردید و غزالی نگرفت\nطوف گلشن ز دو یک گل بگریبانش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(فلسفہ) جنگلوں اور پہاڑوں میں پھرا (در در کی خاک چھانی) مگر غزل (حقیقت) کو نہ پا سکا۔ (سارے) باغ کے چکر لگائے مگر گریبان میں ایک پھول نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though it has roamed the deserts, it has captured no gazelle; though it has searched the garden, it has not a rose for meed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چارہ این است کہ از عشق گشادی طلبیم\nپیش او سجدہ گذاریم و مرادی طلبیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "علاج یہ ہے کہ عشق سے مدد لیں ، اس کے سامنے سجدہ کریں اور اس سے مراد مانگیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wisest thing that we can do is to appeal to Love; for our desires’ fulfillment we should always kneel to Love.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "عقل چون پای درین راہ خم اندر خم زد\nشعلہ در آب دوانید و جہان برہم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل نے جب اس پیچ در پیچ راہ میں قدم رکھا ، تو پانی میں شعلہ دوڑا دیا اور دنیا کو درہم برہم کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wisdom, since it set foot on life’s labyrinthine way, has set the sea on fire and made the whole world go awry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "کیمیا سازی او ریگ روان را زر کرد\nبر دل سوختہ اکسیر محبت کم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی کیمیا سازی نے اڑتی ہوئی ریت کو سونا بنا دیا، مگر کسی دل سوختہ پر اکسیر نہ ڈالی کہ وہ کندن بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its alchemy converted worthless grains of sand to gold; but oh! It gave the wounded heart no love-balm to apply.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "واے بر سادگی ما کہ فسونش خوردیم\nرھزنی بود کمین کرد و رہ آدم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس ! ہماری سادگی پر کہ ہم عقل کے فریب میں آ گئے ، حالانکہ وہ رہزن تھی، جس نے گھات لگا کر آدم کو راستہ میں لوٹ لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! We were so foolish as to let it steal our wits: It waylaid us, subjecting us to highway robbery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہنرش خاک بر آورد ز تہذیب فرنگ\nباز آن خاک بہ چشم پسر مریم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ہنر نے تہذیب فرنگ کی خاک اڑا دی، پھر وہ دھول ابن مریم کی آنکھ میں ڈال دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It raised up much dust from the civilization of the West to cast into that civilization’s Holy Saviour’s eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شرری کاشتن و شعلہ درون تا کی؟ \nعقدہ بر دل زدن و باز گشودن تا کے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرر کاشت کر کے اس سے شعلہ حاصل کرنا کب تک؟ دل پر گرہ ڈالنا اور پھر اسے کھولنا کب تک؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O how long can you go on sowing sparks and reaping flames, and tying up your heart in knots which bear new-fangled names?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "عقل خود بین دگر و عقل جہان بین دگر است\nبال بلبل دگر و بازوی شاہین دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو دیکھنے والی عقل اور ہے، جہان پر نگاہ رکھنے والی عقل اور ہے، بلبل کے پر اور ہیں، شاہیں کا بازو اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self-absorbed and world-regarding wisdom are two things. The nightingale and falcon have two different kinds of wings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "دگر است آنکہ برد دانۂ افتادہ ز خاک\nآنکہ گیرد خورش از دانۂ پروین دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین پر گرے ہوئے دانہ کو چننے والا اور (پرندہ) ہے، اور وہ (پرندہ) اور ہے جو دانہء پروین (ستارہ) سے خوراک حاصل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is one thing to pick up stray grain lying on the ground; another to peck at gems in the Pleiades’ earrings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "دگر است آنکہ زند سیر چمن مثل نسیم\nآنکہ در شد بہ ضمیر گل و نسرین دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو نسیم کی مانند ( اوپر ہی اوپر) باغ کی سیر کرتا ہے اور ہے، اور وہ جو گل و نسرین (پھولوں) کے اندر داخل ہو جائے، وہ اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is one thing to roam the garden like the morning breeze; another to delve in the rose’s inmost ponderings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "دگر است آنسوی نہ پردہ گشادن نظری\nاین سوی پردہ گمان و ظن و تخمین دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نو پردوں (والے آسمان) کے دوسری طرف دیکھنا اور بات ہے، اور پردوں کے اس طرف ظن و تخمین (میں مبتلا رہنا) اور چیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is one thing to let doubt and conjecture bog you down; another to look up and see celestial happenings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "اے خوش آن عقل کہ پہنای دو عالم با اوست\nنور افرشتہ و سوز دل آدم با اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس عقل کی کیا بات ہے، جس کے ساتھ دونوں جہان کی وسعت ہے، جو فرشتے کا نور بھی رکھتی ہے اور آدم (علیہ) کا سوز دل بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Blest is the Wisdom which has both the worlds in its domain, which calls man’s heart’s fire as well as the angels’ light its own.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ما ز خلوت کدۂ عشق برون تاختہ ایم\nخاک پا را صفت آینہ پرداختہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے عشق کے خلوت کدہ سے نکل کر یلغار کی ہے، ہم وہ ہیں جنہوں نے پاؤں تلے روندی جانے والی خاک کو آئینہ کی مانند شفاف بنا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We, since we issued forth out of the sacred shrine of Love, have burnished mirror-bright the very dust beneath our feet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "در نگر ہمت ما را کہ بہ داوی فکنیم\nدو جہان را کہ نہان بردہ عیان باختہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا حوصلہ دیکھیں کہ ہم نے ایک ہی داؤ و میں ، دونوں جہانوں کو جو ہم نے نہاں لیے تھے، کھلے بندوں ہار دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O look at our adventurousness in the game of life; for we have robbed the wealth of both the worlds and boldly staked it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "پیش ما میگذرد سلسلۂ شام و سحر\nبر لب جوی روان خیمہ بر افروختہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلسلہء شام و سحر ہمارے سامنے سے گزر رہا ہے، ہم نے (وقت کی) جوئے رواں کے کنارے خیمہ لگایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We watch the day-and-night procession move before our eyes, with our tents pitched right on the margin of a running streamlet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "در دل ما کہ برین دیر کہن شبخون ریخت\nآتشے بود کہ در خشک و تر انداختہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دل نے اس دیر کہن (دنیا) پر شبخون مارا، ایک آگ تھی جو ہم نے خشک و تر میں لگا دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once in our heart, which launched a night-raid on this ancient fane, there was a fire which we breathed into all things, dry or wet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "شعلہ بودیم، شکستیم و شرر گردیدیم\nصاحب ذوق و تمنا و نظر گردیدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم شعلہ تھے، ٹوٹے اور شرر بن گئے ، صاحب ذوق صاحب تمنا اور صاحب نظر بن گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We were a flame; we flickered, broke down and became a spark: And since then we burn fitfully, with yearnings vague and dark.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "عشق گردید ہوس پیشہ و ہر بند گسست\nآدم از فتنہ او صورت ماہی در شست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(پھر) عشق، ہوس ہو گیا اور اس نے سارے بندھن توڑ دیے ، اور اس کے فتنے نے آدمی کو مچھلی کی مانند شکار کر لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love learned the greedy ways of earthly lust and burst all bounds: It caught men in its toils as fish are caught by fishermen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "رزم بر بزم پسندید و سپاہی آراست\nتیغ او جز بہ سر و سینۂ یاران ننشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے بزم پر رزم (جنگ) کو پر تر جیح دی اور فوجیں تیار کیں ، مگر اس کی تلوار دوستوں ہی کے سر و سینہ پر برسی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Preferring war to peace, it reared up armies everywhere, which plunged their swords into the hearts of their own kith and kin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "رھزنی را کہ بنا کرد جہانبانی گفت\nستم خواجگی او کمر بندہ شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے جس رہزنی کی بنیاد ڈالی ، اسے جہانبانی کا نام دیا ۔ اس کی آقائی کے مظالم نے محکوموں کی کمر توڑ دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gave the name of empire to its acts of banditry; and heavy sat its yoke on those who lived in its domain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بی حجابانہ ببانگ دف و نے می رقصد\nجامی از خون عزیزان تنک مایہ بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہ ہوس پرست) کمزور عزیزوں کے خون سے پر جام ہاتھ میں لیے ، دف و نے (ساز) کی آواز پر بیدلی سے رقص کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now, holding in its hand a goblet full of human blood, it dances madly to the tune of flute and tambourine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "وقت آن است کہ آئین دگر تازہ کنیم\nلوح دل پاک بشوئیم و ز سر تازہ کنیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقت آ گیا ہے کہ کہ ہم نیا آئین بروئے کار لائیں ، دل کی تختی دھو ڈالیں اور اس پر از سر نو رقم کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is high time that we washed clean the tablet of our heart: It is high time that with a clean slate we made a fresh start.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "افسر پادشہی رفت و بہ یغمائی رفت\nنے اسکندری و نغمۂ دارائی رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہت کا تخت گیا اور لوٹ کھسوٹ کا شکار ہوا ، سکندری کا ساز اور دارائی کا گیت گایا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The royal crown has passed into the hands of highwaymen. Hushed is the song of Darius; mute is Alexander’s flute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "کوہکن تیشہ بدست آمد و پرویزی خواست\nعشرت خواجگی و محنت لالائی رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرہاد ہاتھ میں تیشہ لیے آیا اور حکومت پرویز کا مد‏عی ہوا، حکمرانی کی عشرت اور غلامی کی محنت کا دور گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Farhad has changed his pickaxe for the sceptre of Parvez. Gone are the joy of mastership, the toil of servitude.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "یوسفی را ز اسیری بہ عزیزی بردند\nہمہ افسانہ و افسون زلیخائی رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یوسف کو قید خانہ سے نکال کر عہدہ امارت عطا ہوا، زلیخا کی ساری کہانی اور جادوگری (بیچ میں سے) نکل گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Freed from his bondage, Joseph sits on Pharaoh’s high throne: The tales and wiles of Potiphar’s wife cannot win her suit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "راز ہائی کہ نہان بود ببازار افتاد\nآن سخن سازی و آن انجمن آرائی رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ راز جو پوشیدہ تھے ، بازار میں آ پڑے ، (ہر کسی کی زبان پر آ گئے) سخن سازی اور انجمن آرائی کا دور جاتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Old secrets that were veiled stand unveiled in the market-place: No longer are they subjects of debate for the elite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "چشم بگشای اگر چشم تو صاحب نظر است\nزندگی در پی تعمیر جھان دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آنکھ کھول ، اگر تیری آنکھ صاحب نظر ہے (اور دیکھ کہ) زندگی کا ایک نیا جہان تعمیر کرنے کی فکر میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unveil your eyes and you will see that in full view of you life is creating for itself a world completely new.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "من درین خاک کہن گوہر جان می بینم\nچشم ہر ذرہ چو انجم نگران می بینم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں (دنیا کی) خاک کہن میں جان کا موتی دیکھ رہا ہوں (نئی زندگی کے اثار دیکھ رہا ہوں) مجھے ہر ذرّہ کی آنکھ ستارہ کی مانند دیکھتی ہوئی نظر آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this our ancient dust I find the pure gold of the soul: Each atom of it is a star’s eye with the power to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "دانہ ئی را کہ بہ آغوش زمین است ہنوز\nشاخ در شاخ و برومند و جوان می بینم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ دانہ جو ابھی زمین کے اندر ہے، میں اسے جوان، شاخ در شاخ اور پھلدار دیکھ رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In every grain of sand lodged in the womb of mother earth I see the promise of a many-branched fruit-laden tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "کوہ را مثل پر کاہ سبک می یابم\nپر کاہی صفت کوہ گران می بینم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(مغربی تہذیب کے) پہاڑ کو تنکے کی مانند ہلکا پاتا ہوں ، اور پر کاہ کو وزنی پہاڑ دیکھ رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I find the mountain as light as a tiny blade of grass, and heavy as a mountain seems a blade of grass to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "انقلابی کہ نگنجد بہ ضمیر افلاک\nبینم و ہیچ ندانم کہ چسان می بینم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ انقلاب جو آسمانوں کے ضمیر کے میں نہیں سماتا، میں اسے دیکھ رہا ہوں اور کوئی نہیں جانتا کہ کیسے دیکھ رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A revolution too big for the universe’s mind I see, I know not how: I see it just about to be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "خرم آنکس کہ درین گرد سواری بیند\nجوھر نغمہ ز لرزیدن تاری بیند",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوش نصیب ہے وہ شخص جو گرد میں (پنہاں) سوار دیکھ لیتا ہے، تار (ساز ) کے لرزنے سے نغمہ کا جوہر بھانپ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O happy he who sees the horseman, not the dust alone, who in the throbbing of the strings sees music’s essence drawn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "زندگی جوی روان است و روان خواہد بود\nاین می کہنہ جوان است و جوان خواہد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی بہتی ہوئی ندی ہے اور یہ ہمیشہ بہتی رہے گی، یہ پرانی شراب جوان (تیز) ہے اور جوان ہی رہے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is, and as long as it lasts, will be a running stream: This old wine’s youthful effervescense will always be new.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "آنچہ بود است و نباید ز میان خواہد رفت\nآنچہ بایست و نبود است ھمان خواہد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو تھا ، اور نہیں ہونا چاہیے تھا، وہ درمیان سے نکل جائے گا، اور جو ہونا چاہیے تھا اور نہیں ہوا، وہ ضرور ہو کے رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What has been but should not have been will not be any more: What should have been but has not been will be – it must be so.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "عشق از لذت دیدار سراپا نظر است\nحسن مشتاق نمود است و عیان خواہد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ادھر) عشق (حسن ازل کے) دیدار کی لذت کے باعث سراپا نظر (انتظار میں ہے) ، (ادھر) حسن اظہار کا شوق رکھتا ہے اور وہ ضرور ظاہر ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is all eyes for Beauty’s revelations yet to be: And Beauty, fond of self-display, must always be on view:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "آن زمینی کہ برو گریۂ خونین زدہ ام\nاشک من در جگرش لعل گران خواہد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سرزمین جہاں میں نے اپنے خون آلودہ آنسو ٹپکائے ہیں، اس کے جگر میں میرے آنسو قیمتی لعل بن کے رہیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deep in the earth that I have watered with my blood-stained tears my teardrops will remain embedded, gems of a rich hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "مژدۂ صبح درین تیرہ شبانم دادند\nشمع کشتند و ز خورشید نشانم دادند",
+              "lang": "Original"
+            },
+            {
+              "_content": "'مجھے اس تاریک رات میں صبح کی خوشخبری دی گئی ہے، شمع بجھا دی گئی ہے اور (طلوع ہونے والے ) آفتاب کا نشان دکھا دیا گیا ہے'۔ (تہذیب فرنگ کی تباہی اور نئے دور اسلام کی آمد کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I see in the dark night a portent of the coming dawn. My candle has been put out, but to greet the rising sun.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "name-en": "A Message (To The West)",
+  "credits": "English Translation by: M. Hadi Husain"
+}

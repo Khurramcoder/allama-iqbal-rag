@@ -1,0 +1,100 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آزاد کی رگ سخت ہے مانند رگ سنگ\nمحکوم کی رگ نرم ہے مانند رگ تاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A free man’s veins are hard like the stone’s veins, the veins of ruled are soft like veins of soft canes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "محکوم کا دل مردہ و افسردہ و نومید\nآزاد کا دل زندہ و پرسوز و طرب ناک",
+              "lang": "Original"
+            },
+            {
+              "_content": "طرب ناک: خوشی سے بھرا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A slave’s heart is dead, sad and hopeless hence, the free’s heart alive with flames of joys sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آزاد کی دولت دل روشن، نفس گرم\nمحکوم کا سرمایہ فقط دیدۂ نم ناک",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیدئہ نم ناک: آنسو بھری آنکھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A lucent heart, free man’s wealth and verves worm, the wealth of ruled just a weeping eyes form.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "محکوم ہے بیگانۂ اخلص و مروت\nہر چند کہ منطق کی دلیلوں میں ہے چالک",
+              "lang": "Original"
+            },
+            {
+              "_content": "مروت: اچھا سلوک۔\nاخلاص: خالص۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The slave lacks sincerity and generosity though he be adept in argumentation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ممکن نہیں محکوم ہو آزاد کا ہمدوش\nوہ بندۂ افلک ہے، یہ خواجہ افلک",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندئہ افلاک: آسمانوں کا غلام\nہمدوش: برابر۔ \nخواجہ افلاک: آسمانوں کا آقا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A ruled can not make with free man a tie, this is slave of sky, he’s master of sky.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

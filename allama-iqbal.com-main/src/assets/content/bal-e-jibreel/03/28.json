@@ -1,0 +1,33 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کبھی تنہائی کوہ و دمن عشق \nکبھی سوز و سرور و انجمن عشق \nکبھی سرمایہ محراب و منبر \nکبھی مولا علی خیبر شکن عشق!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To be God is to do a million tasks; to be God, no doubt, is a wearisome headache. \nBut-pardon me, O Lord! To be a man, is not a headache, but a heartache.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

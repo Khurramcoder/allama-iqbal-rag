@@ -1,0 +1,98 @@
+{
+  "id": "53",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرم فغاں ہے جرس، اٹھ کہ گیا قافلہ \nوائے وہ رہرو کہ ہے منتظر راحuلہ!",
+              "lang": "Original"
+            },
+            {
+              "_content": "راحلہ:سواری۔ \nجرس:گھنٹی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise! The bugle calls! It is time to leave! Woe be to the traveller who still awaits!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تیری طبیعت ہے اور، تیرا زمانہ ہے اور \nتیرے موافق نہیں خانقہی سلسلہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The confines of a monastery suit thee not: The times have changed, thou seest, and so hast thou.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دل ہو غلام خرد یا کہ امام خرد \nسالک رہ، ہوشیار! سخت ہے یہ مرحلہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thorny is the path, O seeker of salvation! Whether thy heart is the slave or the master of reason.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس کی خودی ہے ابھی شام و سحر میں اسیر \nگردش دوراں کا ہے جس کی زباں پر گلہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The selfhood of one who bemoans all change, is yet a prisoner of time, shackled by days and nights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیرے نفس سے ہوئی آتش گل تیز تر \nمرغ چمن! ہے یہی تیری نوا کا صلہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O songbird! Thy song is well rewarded when it infuses fire into the rose’s bloom.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "30",
+  "name": "سرود حرام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ میرے ذکر میں ہے صوفیوں کا سوز و سرور \nنہ میرا فکر ہے پیمانہ ثواب و عذاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My remembrance lacks the warmth and zeal that mystics oft attain my thought is not a scale at all for deeds deserving need or pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خدا کرے کہ اسے اتفاق ہو مجھ سے \nفقیہ شہر کہ ہے محرم حدیث و کتاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wish that jurist of the town, who knows the rules that Prophet taught and is adept at Book revealed, to my own point of view be brought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر نوا میں ہے پوشیدہ موت کا پیغام \nحرام میری نگاہوں میں ناے و چنگ و رباب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناے: بانسری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If in the music or its strains tile message of decease is hid such music of harp, reed and lute in view of mine is quite forbid.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Unlawful Music",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

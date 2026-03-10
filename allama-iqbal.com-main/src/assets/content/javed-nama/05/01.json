@@ -1,0 +1,459 @@
+{
+  "id": "01",
+  "name": "اہل مریخ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "05",
+  "sectionName": "فلک مریخ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چشم را یک لحظہ بستم اندر آب\nاندکی از خود گسستم اندر آب",
+              "lang": "Original"
+            },
+            {
+              "_content": "پانی کے اندر میں نے ایک لحظہ کے لیے اپنی آنکھ بند کی اور تھوڑا سا اپنے آپ سے دور ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For an instant I closed my eyes in the waters, for a little in the depths I broke away from myself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رخت بردم زی جہانی دیگری\nبا زمان و با مکانے دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک نئے جہان میں پہنچ گیا جس کے زمان و مکاں مختلف ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bore my baggage towards another world, with another time, another space.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آفتاب ما بہ آفاقش رسید\nروز و شب را نوع دیگر آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا آفتاب اس کے افاق تک پہنچا؛ اور وہاں نئی قسم کے دن رات پیدا کئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our sun reached its horizons, creating a different kind of night and day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تن ز رسم و راہ جان بیگانہ ایست\nدر زمان و از زمان بیگانہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(مریخ) بن جان کی کیفیات سے بے خبر ہے؛ یہ زمان میں رہتے ہوئے بھی زمان سے نا آشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body is a stranger to the spirit’s wont and way which dwells in time, yet is a stranger to time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جان ما سازد بہر سوزی کہ ہست\nوقت او خرم بہر روزی کہ ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری جان ہر سوز کے ساتھ موافقت اختیار کر لیتی ہے؛ جو بھی دن آئے اس میں اس کا وقت مسرت سے گزر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our soul accords with every fire there is, its time rejoices in every day there is;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "می نگردد کہنہ از پرواز روز\nروزہا از نور او عالم فروز",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مرور ایام سے کہنہ نہیں ہوتی؛ بلکہ دن اس کے نور سے دنیا کو چمکا دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It grows not old with the flight of time; the days illumine the world through its light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "روز و شب را گردش پیہم ازوست\nسیر او کن زانکہ ہر عالم ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "روز و شب کی گردش پیہم جان کی وجہ سے ہے؛ اس کی سیر کر کیونکہ ہر جہان اسی سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ceaseless revolution of day and night from it derives; make it your journey, for the very world springs from it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مرغزاری با رصدگاہ بلند\nدور بین او ثریا در کمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں مرغزار دیکھا جس میں ایک بلند رسدگاہ تھی ؛ جس کی دور بین ثرّیا کو اپنی گرفت میں لیے ہوئے تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A broad meadow with a tall observatory whose telescope lassoed the Pleiades;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خلوت نہ گنبد خضراست این\nیا سواد خاکدان ماست این",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سوچنے لگا کہ یہ نو آسمانوں کی خلوت ہے یا ہماری زمین کا ماحول ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this the nine-domed retreat of Khizr, or is it the dark territory of our earth?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گاہ جستم وسعت او را کران\nگاہ دیدم در فضای آسمان",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی میں اس کی وسعت کا کنارا ڈھونڈتا کبھی آسمان کی فضا کی طرف دیکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now I searched for the bounds of its immensity, anon I gazed upon the expanse of heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پیر روم آن مرشد اہل نظر\nگفت \"مریخ است این عالم نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے جو اہل نظر کے مرشد ہیں کہا؛ 'یہ مریخ ہے اس کا عالم دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sage of Rum, that guide of the visionaries, spoke: ‘Behold, this world is Mars;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چون جہان ما طلسم رنگ و بوست\nصاحب شہر و دیار و کاخ و کوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں بھی ہمارے جہان کی طرح رنگ و بو کا طلسم موجود ہے؛ اس جہان میں بھی شہر، آبادیاں اور مکان و محل موجود ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like our world, it is a talisman of colours and scents, having cities and habitations, palaces and streets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ساکنانش چون فرنگان ذوفنون\nدر علوم جان و تن از ما فزون",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں کے رہنے والے فرنگیوں کی طرح ہنرمند اور جان و تن کے علوم میں ہم سے بڑھے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its dwellers are skilled in many arts, like the Franks, excelling us in physical and psychical sciences.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بر زمان و بر مکان قاہرترند\nزانکہ در علم فضا ماہرترند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی گرفت زمان و مکان پر ہم سے بڑھ کر ہے کیونکہ وہ علم فضا میں ہم سے زیادہ ماہر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have greater dominion over time and place because they are cleverer at the science of space;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بر وجودش آنچنان پیچیدہ اند\nہر خم و پیچ فضا را دیدہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے فضا پر اتنا غور کیا ہے کہ اس کے ہر خم و پیچ سے با خبر ہو چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have so penetrated into its essence that they have seen its every twist and turn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "خاکیان را دل بہ بند آب و گل\nاندرین عالم بدن در بند دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اہل زمین کے دل بدن کے بندھن میں ہیں ؛ لیکن اس جہان میں بدن دل کے زیر اثر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth’s dwellers-their hearts are bound to water and clay; in this world, body is in bondage to heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "چون دلی در آب و گل منزل کند\nہر چہ می خواہد بہ آب و گل کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب دل جسم کے اندر مقیم ہوتا ہے تو جو چاہتا ہے بدن کے ساتھ کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a heart makes its lodging in water and clay, with water and clay it makes what it wills;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "مستی و ذوق و سرور از حکم جان\nجسم را غیب و حضور از حکم جان",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستی، ذوق و سرور جان کی نسبت سے ہے ؛ بدن کا غائب و حضور بھی جان ہی کے تحت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intoxication, joy, happiness are at the disposal of the soul, the soul determines the body’s absence and presence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در جھان ما دو تا آمد وجود\nجان و تن آن بے نمود آن با نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے جہان میں وجود کے دو حصّے ایک جان اور دوسرا تن ہے؛ ایک نظر نہیں آتا اور دوسرا نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In our world, existence is a duality, soul and body, the one invisible, the other visible;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "خاکیان را جان و تن مرغ و قفس\nفکر مریخی یک اندیش است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم خاکیوں کے لیے جان اور تن ، پرندے اور پنجرے کی طرح ہیں ؛ اہل مریخ کی سوچ کے لیے اندر بس یک اندیشی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For terrestrials, soul and body are bird and cage, whereas the thought of Martians is unitive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "چون کسی را میرسد روز فراق\nچسصت تر می گردد از سوز فراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہاں کسی کا روز فراق آ جاتا ہے تو وہ سوز فراق سے اور زیادہ چست ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the day of separation arrives for any, he becomes livelier from the flame of separation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "یک دو روزی پیشتر از آن مرگ\nمی کند پیش کسان اعلان مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "موت کے وقت سے ایک دو دن پہلے وہ موت کا اعلان کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A day or two before the day of death he proclaims his decease to his fellows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "جانشان پروردۂ اندام نیست\nلاجرم خو کردۂ اندام نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی جان بدن کی پروردہ نہیں ہے اس لیے وہ بدن کی اتنی عادی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their soul is not nourished by the body; therefore it has not become habituated to the body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "تن بخویش اندر کشیدن مردن است\nاز جہان در خود رمیدن مردن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں بدن کو اپنے اندر سمو لینا اور اے جہان سے اپنے آپ میں سمت جانا ہی موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Death is to draw in the body; death is to flee from the world into one’s self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "برتر از فکر تو آمد این سخن\nزانکہ جان تست محکوم بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اے زندہ رود) یہ بات تیری سمجھ سے بالا تر ہے؛ کیونکہ تیری جان بدن کی محکوم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This discourse is too high for your thought because your soul is dominated by your body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "رخت اینجا یکدو دم باید گشاد\nاینچین فرصت خدا کس را نداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں یہاں ایک دو لمحے کس لیے ٹھہرنا چاہئے ؛ اللہ تعالے نے کسی اور کو ایسا موقع عطا نہیں فرمایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You must wander here for a moment or two; God gives not such an opportunity to everyone.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Sphere Of Mars: THE MARTIANS"
+}

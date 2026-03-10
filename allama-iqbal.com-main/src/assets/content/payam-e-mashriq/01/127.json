@@ -1,0 +1,34 @@
+{
+  "id": "127",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ غم داری، حیات دل ز دم نیست\nکہ دل در حلقہ بود و عدم نیست\nمخور اے کم نظر اندیشۂ مرگ\nاگر دم رفت دل باقی است غم نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غم کیا، دل کی زندگی محض سانس سے نہیں؛ دل حلقہء ہست و نیست سے باہر ہے۔ \nاے کم نظر موت کی فکر نہ کر؛ اگر دم نکل بھی گیا تو دل باقی ہے، غم کیا!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why sorrowest thou? The heart lives not by breath; it is not chained to Being and to Death. \nFear not to die, O thou of little sight – though the breath stop, the heart continueth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

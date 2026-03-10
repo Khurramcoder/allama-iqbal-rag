@@ -1,0 +1,84 @@
+{
+  "id": "53",
+  "name": "باغی مرید",
+  "name-en": "The Rebellious Disciple",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہم کو تو میسر نہیں مٹی کا دیا بھی \nگھر پیر کا بجلی کے چراغوں سے ہے روشن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am not blessed even with a kerosene lamp; but the pir’s home is decked with chandeliers imported.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شہری ہو، دہاتی ہو، مسلمان ہے سادہ \nمانند بتاں پجتے ہیں کعبے کے برہمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "کعبے کے برہمن: مراد ہے خاندانی پیر زادے مخدوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim is naive, whether urban or rural; and the Brahmins of Kaaba are worshipped by him like idols.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نذرانہ نہیں، سود ہے پیران حرم کا \nہر خرقہء سالوس کے اندر ہے مہاجن",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرقہء سالوس: مکر و فریب کا لباس۔ \nمہاجن: سود کا کاروبار کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The deceitful holy robes disguise a userer; the offerings he gets, are interest compounded.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میراث میں آئی ہے انھیں مسند ارشاد \nزاغوں کے تصرف میں عقابوں کے نشیمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "زاغ: کوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pontifical throne is theirs by descent; the eagles’ abodes are in the possession of crows. \n(Translate by V G Kiernan)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": "13",
+  "name": "اہل ہنر سے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مہر و مہ و مشتری، چند نفس کا فروغ \nعشق سے ہے پائدار تیری خودی کا وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun, the Jupiter and the moon shine moments few, lose light so soon.\nYour Ego's being grows much strong by dint of Love and lasts for long.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تیرے حرم کا ضمیر اسود و احمر سے پاک \nننگ ہے تیرے لیے سرخ و سپید و کبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبود: نیلا۔\nاسود و احمر: کالا اور گورا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The conscience of your sacred Shrine 'Twixt red and black ne'er draws a line. Distinction of red, white and blue is source of great disgrace for you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیری خودی کا غیاب معرکہ ذکر و فکر \nتیری خودی کا حضور عالم شعر و سرود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "روح اگر ہے تری رنج غلامی سے زار \nتیرے ہنر کا جہاں دیر و طواف و سجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In solitude with zeal pursue worship and thought with respect due. The time your Self itself displays, the world with song and music sways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اور اگر باخبر اپنی شرافت سے ہو \nتیری سپہ انس و جن، تو ہے امیر جنود",
+              "lang": "Original"
+            },
+            {
+              "_content": "انس و جن: انسان اور جن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you grow conscious of your rank, I tell in words so plain and frank ‘Mankind and genii shall form your host as chief you shall hold highest post’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To Craftsmen",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

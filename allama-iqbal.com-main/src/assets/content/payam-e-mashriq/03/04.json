@@ -1,0 +1,187 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا ز دیدۂ بینا شکایت دگر است\nکہ چون بجلوہ در آئی حجاب من نظر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے دیدہء بینا سے اور (قسم کی) شکایت ہے، کہ جب تک جلوہ افروز ہوتا ہے تو میری نگاہ ہی حجاب بن جاتی ہے (دیکھنے کی تاب نہیں لا سکتی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have this odd complaint against my seeing eyes: When You unveil Yourself, my sight acts as a veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ نوریان ز من پا بہ گل پیامی گوی\nحذر ز مشت غباری کہ خویشتن نگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ خاکی انسان کی طرف سے نوری فرشتوں کو پبغام دو، اس مشت خاک (آدم) سے ڈرنا چاہیے جو اپنے اوپر نگاہ رکھنے والی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From me, a creature of mere clay, tell creatures of light this: Beware a pinch of dust which is aware of its identity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نوا زنیم و بہ بزم بہار می سوزیم\nشرر بہ مشت پر ما ز نالہ سحر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم گیت گاتے ہوئے بزم بہار میں جل رہے ہیں ، ہماری صبح کی فریاد ہی ہمارے پروں کے لیے شرر بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We sing and burn in spring’s assembly hall. Our morning song has set our wings aflame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز خود رمیدہ چہ داند نوای من ز کجاست\nجہان او دگر است و جہان من دگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص اپنے آپ سے گریزاں ہو وہ کیا جانے کہ میری نوا کہاں سے ہے، اس کا جہان اور ہے، میرا جہان اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can one who has lost himself know where my songs come from? My world is not his world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مثال لالہ فتادم بگوشۂ چمنی\nمرا ز تیر نگاہی نشانہ بر جگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں گل لالہ کی مانند (خوں شدہ) گوشہء چمن میں گرا پڑا ہوں، کیونکہ محبوب کے تیر نگاہ نے میرے جگر کو اپنا نشانہ بنایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I fell in a nook of the garden, bleeding like a tulip. A dart from someone’s eyes struck at my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ کیش زندہ دلان زندگی جفا طلبی است\nسفر بہ کعبہ نکردم کہ راہ بی خطر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ دلوں کے مذہب میں زندگی مشکل پسندی (کا نام) ہے، میں نے کعبہ کا سفر (اس لیے) نہ کیا، کیونکہ راستہ میں کوئی خطرہ نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In living men’s creed life is a pursuit of hardships. I have not visited the Ka‘bah. Why not? Because the journey is so safe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہزار انجمن آراستند و بر چیدند\nدرین سراچہ کہ روشن ز مشعل قمر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مسافر خانہ (دنیا) جو چاند کی قندیل سے روشن ہے، اس میں ہزار ہا انجمنیں آراستہ اور برخواست ہوئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Untold assemblies have been organised, only to be dissolved, in this small halting-place illumined by the moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ز خاک خویش بہ تعمیر آدمی بر خیز\nکہ فرصت تو بقدر تبسم شرر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی خاک سےتعمیر کےلیے اٹھ کھڑا ہو، کیونکہ تجھےصرف اتنی ہی فرصت ہے جیسے شرر کی مسکراہٹ (چمک)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise and make a man out of the dust you are. The time allowed to you is only the duration of a spark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "اگر نہ بوالہوسی با تو نکتہ ئی گویم\nکہ عشق پختہ تر از نالہ ہای بی اثر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو بوالہوس نہیں تو میں تجھے ایک نکتہ بتاتا ہوں، کہ نالہ ہائے بے اثر سے عشق اور پختہ ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Assuming you are not a man of lust, let me give you a tip: Love gathers strength from plaints that go without effect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نوای من بہ عجم آتش کہن افروخت\nعرب ز نغمۂ شوقم ہنوز بی خبر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نوا نے عجم میں پھر پرانی آگ (اسلام کی) روشن کر دی ہے، لیکن عرب ابھی تک میرے نغمہء شوق سے بے خبر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My song has relit old fires in Persia, but Arabia is still a stranger to my ardent lays.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

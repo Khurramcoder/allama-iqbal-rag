@@ -1,0 +1,34 @@
+{
+  "id": "76",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کم سخن غنچہ کہ در پردۂ دل رازی داشت\nدر ہجوم گل و ریحان غم دم سازی داشت\nمحرمی خواست ز مرغ چمن و باد بہار\nتکیہ بر صحبت آن کرد کہ پروازی داشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم سخن کلی اپنے دل میں راز چھپائے (بیٹھی تھی) ، ہجوم گل و ریحان میں اسے ہمدم نہ ملنے کا غم تھا۔ \n(پھر) اس نے مرغ چمن اور باد بہار سے ہمدمی کی توقع رکھی، (گویا) ان پر تکّیہ کیا جو (پرواز کر) جانے والے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silent rosebud in her heart had a secret, veiled apart, suffered countless aches and woes buffeted by thyme and rose.\nSo she sought, to keep her word, breeze of spring and meadow-bird, putting faith in these (yet both soared on wing) to guard her troth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

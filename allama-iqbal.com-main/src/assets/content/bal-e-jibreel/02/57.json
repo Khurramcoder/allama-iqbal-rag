@@ -1,0 +1,101 @@
+{
+  "id": "57",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تھا جہاں مدرسہ شیری و شاہنشاہی \nآج ان خانقہوں میں ہے فقط روباہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "روباہي: لومڑی کی خصلت، چالاکی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cloisters, once the rearing place of daring men and royal breed, Alas! Now nothing else impart – to foxy ways they pay much heed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نظر آئی نہ مجھے قافلہ سالاروں میں \nوہ شبانی کہ ہے تمہید کلیم اللہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شباني: گلہ بانی ، بھیڑ بکریاں چرانے کا کام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The chiefs who lead the caravan train, of that virtue quite are blank, which is found in shepherd’s task and leads to Moses’ noble rank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لذت نغمہ کہاں مرغ خوش الحاں کے لیے \nآہ، اس باغ میں کرتا ہے نفس کوتاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغ خوش الحاں: خوش آواز پرندہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can the birds with voices sweet the thrilling joy of song attain? Alas! The birds in hostile mead cannot their breath for long sustain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ایک سرمستی و حیرت ہے سراپا تاریک \nایک سرمستی و حیرت ہے تمام آگاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One type of rapture and surprise is darkness deep and pitch complete; the other rapture and surprise with love and knowledge is replete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "صفت برق چمکتا ہے مرا فکر بلند \nکہ بھٹکتے نہ پھریں ظلمت شب میں راہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صفت برق:آسمانی بجلی کی طرح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thoughts sublime that soar aloft, like the flash of lightning, show the way: Lest travelers in the dark of night should miss the track and go astray.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

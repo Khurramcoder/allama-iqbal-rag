@@ -1,0 +1,50 @@
+{
+  "id": "02",
+  "name": "ایک سوال",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کوئی پوچھے حکیم یورپ سے\nہند و یوناں ہیں جس کے حلقہ بگوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let some one ask this question from the wise of West, whom Greece and India, as their guide and master hold:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا یہی ہے معاشرت کا کمال\nمرد بے کار و زن تہی آغوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is it the highest social mode by them evolved, the males unemployed, fair sex to procreation cold?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Question",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

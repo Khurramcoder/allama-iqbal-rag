@@ -1,0 +1,119 @@
+{
+  "id": "40",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نظر تو ہمہ تقصیر و خرد کوتاہی\nنرسی جز بہ تقاضای کلیم اللہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری نظر ساری کی ساری خطا ہے اور تیری خرد کوتاہ، کلیم اللہ کے تقاضے (حسن ازل کے دیدار کی خواہش) کے بغیر تو کہیں نہیں پہنچ سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your seeing is all error, your wisdom all defect. You never will get anywhere except through revelation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "راہ کور است بخود غوطہ زن اے سالک راہ\nجادہ را گم نکند در تہ دریا ماہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سالک راہ! راستہ تاریک ہے تو اپنے اندر غوطہ زن ہو، مچھلی دریا کی تہ میں راستہ گم نہیں کر دیتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The path is blind. Dive into yourself, traveler. Fish never lose their way deep in the sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حاجتی پیش سلاطین نبرد مرد غیور\nچہ توان کرد کہ از کوہ نیاید کاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد غیور پادشاہوں کے سامنے اپنی حاجت نہیں لے جاتا، کیا کرے ، پہاڑ تنکا نہیں بن سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A self-respecting man does not go with his needs to kings. A mountain cannot stoop to be a leaf of grass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مگذر از نغمۂ شوقم کہ بیابی در وی\nرمز درویشی و سرمایۂ شاہنشاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے نغمہء شوق کو نظر انداز نہ کر، کیونکہ تو اس میں درویشی کی رمز بھی پائے گا اور شہنشاہی کا سرمایہ بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not pass by my song, for in it you will find the secret of ascetic living and the treasured wealth of royalty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نفسم با تو کند آنچہ بہ گل کرد نسیم\nاگر از لذت آہ سحری آگاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو آہ سحر کی لذت سے آگاہ ہے، تو میرا نغمہ تجھ پر اسی طرح اثر انداز ہو گا جس طرح باد نسیم گل پر اثر انداز ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My breath will do to you what morning breezes do to buds, if you know how delectable are morning sighs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے فلک چشم تو بیباک و بلا جوست ہنوز\nمی شناسم کہ تماشای دگر میخواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے آسمان! تیری آنکھ میں سختی اور خطر پسندی ہے، مجھے یوں نظر آتا ہے جیسے تو کسی نئے تماشے کا خواہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O heavens, your eyes have still a pitiless, foreboding look. I fear that you intend to stage one more grim show.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

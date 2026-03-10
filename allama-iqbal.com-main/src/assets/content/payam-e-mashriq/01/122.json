@@ -1,0 +1,34 @@
+{
+  "id": "122",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہزاران سال با فطرت نشستم\nبہ او پیوستم و از خود گسستم\nولیکن سر گذشتم این دو حرفست\nتراشیدم، پرستیدم، شکستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ہزاروں سال فطرت کےساتھ رہا ہوں، میں نے اپنے ساتھ تعلق منقطع کیا اور اس کے ساتھ تعلق بنایا۔\nلیکن میری سرگزشت ان دو حرفوں میں آ جاتی ہے، میں نے (تصوّرات کے) بت تراشے ، ان کی پوجا کی، پھر انہیں توڑ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With Nature my relations are age-old. I gave myself up to it heart and soul. \nBut my age-long romance with it is told in these few words: I carved, adored and broke.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

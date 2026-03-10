@@ -1,0 +1,166 @@
+{
+  "id": "26",
+  "name": "پیام صبح",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اجالا جب ہوا رخصت جبین شب کی افشاں کا\nنسیم زندگی پیغام لائی صبح خنداں کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "افشاں: ستارے سے جو عورتیں آرائش کے لیے بالوں میں لگاتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the sparkling of the night's forehead's decoration disappeared; the zephyr of life with the news of the happy morning appeared.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جگایا بلبل رنگیں نوا کو آشیانے میں\nکنارے کھیت کے شانہ ہلایا اس نے دہقاں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It awakened the nightingale of flowery song in its nest. It shook the shoulder of the farmer on the field's edge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "طلسم ظلمت شب سورہء والنور سے توڑا\nاندھیرے میں اڑایا تاج زر شمع شبستاں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It broke the spell of darkness of night’s talisman with Surah al-Noor.* It robbed the golden crown of bed-chamber's candle in the dark.\n* Allusion to the Holy Qur'an 24:35 – It means that the real darkness of the night, which is a metaphor for the lack of knowledge of the unseen spiritual universe, is broken only with the Divine Light referred to in the above verse of the Holy Qur'an…)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پڑھا خوابیدگان دیر پر افسون بیداری\nبرہمن کو دیا پیغام خورشید درخشاں کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوابیدگان دیر: بتخانے میں سونے والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It chanted the magic of awakening on those sleeping in the temple. It gave the Brahman the tidings of the bright sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوئی بام حرم پر آ کے یوں گویا موذن سے\nنہیں کھٹکا ترے دل میں نمود مہر تاباں کا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arriving at the mosque's roof it said to the Mu’adhdhin (Mouazzin): ‘Do you not fear appearance of the resplendent sun?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پکاری اس طرح دیوار گلشن پر کھڑے ہو کر\nچٹک او غنچہ گل! تو موذن ہے گلستاں کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "چٹک او غنچہ گل: کےاے پھول کی ڈوڈی کھل جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Climbing the garden's wall it cried this to the rose-bud: ‘Burst! You are the Mu'adhdhin of the morning O rose-bud’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دیا یہ حکم صحرا میں چلو اے قافلے والو\nچمکنے کو ہے جگنو بن کے ہر ذرہ بیاباں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gave the command in the wilderness ‘Move O Caravan’! ‘Every dust speck will shine like fire-fly in the wilderness’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سوئے گور غریباں جب گئی زندوں کی بستی سے\nتو یوں بولی نظارا دیکھ کر شہر خموشاں کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "گور غریباں: کے سوئے",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it reached the cemetery from the living's habitation; witnessing the spectacle of the cemetery it spoke thus:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ابھی آرام سے لیٹے رہو، میں پھر بھی آئوں گی\nسلادوں گی جہاں کو خواب سے تم کو جگائوں گی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Remain lying in comfort still, come again shall I; make the whole world sleep, wake you up shall I (Allusion to the morning of the Day of Resurrection).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Message Of Dawn",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

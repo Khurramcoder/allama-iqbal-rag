@@ -1,0 +1,161 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقل گو آستاں سے دور نہیں \nاس کی تقدیر میں حضور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though reason to the portal guide, yet entry to it is denied.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل بینا بھی کر خدا سے طلب \nآنکھ کا نور دل کا نور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beg God to grant a lighted heart, for light and sight are things apart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علم میں بھی سرور ہے لیکن \nیہ وہ جنت ہے جس میں حور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though knowledge lends to mind a glow, no houris its Eden can ever show.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیا غضب ہے کہ اس زمانے میں \nایک بھی صاحب سرور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How strange that in the present time; no one owns the joy sublime!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اک جنوں ہے کہ باشعور بھی ہے \nاک جنوں ہے کہ باشعور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some passions leave the mind intact, while others make it blind to fact.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ناصبوری ہے زندگی دل کی \nآہ وہ دل کہ ناصبور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart from unrest gets its life, what pity if it knows no strife!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بے حضوری ہے تیری موت کا راز \nزندہ ہو تو تو بے حضور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You die because from God you flee, if living, linked with God shall be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہر گہر نے صدف کو توڑ دیا \nتو ہی آمادہ ظہور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pearls have all their covering cleft, of urge to show you are bereft.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ارنی میں بھی کہہ رہا ہوں، مگر \nیہ حدیث کلیم و طور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Show unto me, though I too cry, it is not tale of Moses and Sinai.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

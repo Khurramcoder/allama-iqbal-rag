@@ -1,0 +1,119 @@
+{
+  "id": "03",
+  "name": "نوای غالب",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "06",
+  "sectionName": "فلک مشتری",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "\"بیا کہ قاعدۂ آسمان بگردانیم\nقضا بگردش رطل گران بگردانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ آسمان کا دستور بدل دیں ؛ پیمانہء شراب کی گردش سے قضا تبدیل کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, let us change the rule of heaven, let us change fate by revolving a heavy measure of wine;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگر ز شحنہ بود گیر و دار نندیشیم\nوگر ز شاہ رسد ارمغان بگردانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر کوتوال کی طرف سے پکڑ دھکڑ ہو تو اس کی فکر نہ کریں ؛ اگر شاہ کی طرف سے تحفہ آئے ، تو اسے لوٹا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the police-captain makes trouble, we will not worry, and if the king himself sends a present, we will reject it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر کلیم شود ہمزبان سخن نکنیم\nوگر خلیل شود میہمان بگردانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر کلیم (علیہ) بات کرے تو اس سے ہم سخن نہ ہوں ؛ اگر خلیل (علیہ) مہمان بن کےآئے تو اسے لوٹا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Moses converse with us, we will not say a word; though Abraham be our host, we will decline him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بجنگ باج ستانان شاخساری را\nتہی سبد ز در گلستان بگردانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاخساروں سے پھول چننے والوں کو باغ کے دروازے سے خالی ٹوکری کے ساتھ زبردستی واپس کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Battling, the tribute-snatchers of the grove we will turn away from our garden’s gate with empty basket;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ صلح بال فشانان صبحگاہی را\nز شاخسار سوی آشیان بگردانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبحدم مائل بہ پرواز پرندوں کو آرام سے شاخوں سے آشیانوں کی طرف واپس بھیج دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Peacefully, the birds that flutter their wings at dawn we will send back from the grove to their nests.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز حیدریم من و تو ز ما عجب نبود\nگر آفتاب سوی خاوران بگردانیم\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری اور تیری نسبت حیدری (رحمتہ) ہے؛ اگر ہم آفتاب کو مشرق کی جانب لوٹا دیں ، تو یہ کوئی تعجب کی بات نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You and I are of Haidar, so no wonder would it be if we turn back the sun towards the East.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Ghalib"
+}

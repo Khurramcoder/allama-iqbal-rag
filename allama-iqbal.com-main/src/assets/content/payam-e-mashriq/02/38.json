@@ -1,0 +1,105 @@
+{
+  "id": "38",
+  "name": "نامۂ عالمگیر",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "بہ یکی از فرزندانش کہ دعای مرگ پدر میکرد ",
+      "name-ur": "اپنے بیٹوں میں سے ایک کے نام جو باپ کے مرنے کی دعا کیا کرتا ہے۔",
+      "name-en": "To one of his sons who used to pray for the father’s death.",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ندانی کہ یزدان دیرینہ بود\nبسی دید و سنجید و بست و گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نہیں جانتا کہ اللہ تعالے بہت قدیم ہیں؛ انہوں نے بہت کچھ دیکھا جانچا اور کئی معاملات کو ختم کیا یا سلجھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know that to punish and reward has been from old the business of the Lord?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز ما سینہ چاکان این تیرہ خاک\nشنید است صد نالۂ درد ناک",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے اس تیرہ خاک (دنیا) کے مصیبت زادگان کے بہت نالہ ہائے دردناک سنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has heard many anguishing laments from this benighted planet’s residents,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بسی ہمچو شبیر در خون نشست\nنہ یک نالہ از سینۂ او گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کئی شبیر (رضی اللہ ) کی مانند خون میں نہا گئے مگر اللہ تعالے کے سینے سے کوئی نالہ بلند نہ ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But did a cry escape His lips? Oh no. Like Shabbir He has seen streams of blood flow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ از گریۂ پیر کنعان تپید\nنہ از درد ایوب آہی کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہ حضرت یعقوب (علیہ) کی گریہ و زاری سے متاثر ہوئے نہ انہوں نے ایوب (علیہ) کے درد سے آہ بھری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While Jacob wept, He looked on unimpressed; and by Job’s wailing He was not distressed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مپندار آن کہنہ نخچیر گیر\nبدام دعای تو گردد اسیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گماں نہ رکھ کہ وہ پرانا شکاری ؛ تیری دعا کے دام میں پھنس جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not think that you ever can ensnare that seasoned Hunter with your foolish prayer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Alamgir’s Letter",
+  "credits": "English Translation by: M. Hadi Husain"
+}

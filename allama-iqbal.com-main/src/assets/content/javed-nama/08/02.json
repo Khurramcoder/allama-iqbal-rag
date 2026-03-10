@@ -1,0 +1,494 @@
+{
+  "id": "02",
+  "name": "حرکت بجنت الفردوس",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "جنت الفردوس کی طرف روانگی۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در گذشتم از حد این کائنات\nپا نھادم در جہان بے جہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس کائنات کی حد سے گزر گیا اور میں نے بے جہات جہان کے اندر قدم رکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I passed beyond the bounds of this universe and set foot in the undimensioned world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بے یمین و بے یسار است این جہان\nفارغ از لیل و نہار است این جہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان دائیں بائیں اور دن رات کے بغیر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A world without both right and left, a world devoid of night and day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پیش او قندیل ادراکم فسرد\nحرف من از ہیبت معنی بمرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جہان دیکھ کر میری سمجھ کا چراغ گل ہو گیا؛ معنی کی ہیبت سے یارائے الفاظ نہ رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before it the lantern of my perception dimmed, my words died in awe of the meaning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "با زبان آب و گل گفتار جان\nدر قفس پرواز میآید گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان کی باتیں آب و گل کی زبان سے ادا نہیں کی جا سکتیں ؛ پرندے کے لیے قفس کے اندر پرواز کرنا بہت مشکل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To speak of the spirit with the tongue of water and clay – it is very hard to soar in a cage!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اندکے اندر جھان دل نگر\nتا ز نور خود شوی روشن بصر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا اپنے دل کے جہان پر نگاہ ڈال ؛ تاکہ تیری بصارت اپنے نور سے روشن ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Regard a little while the world of the heart that you may win clear vision by the light of the Self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چیست دل یک عالم بے رنگ و بوست\nعالم بے رنگ و بو بے چار سوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل کیا ہے؟ بے رنگ و بو اور بے چار سو جہان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the heart? A world without colour and scent, a world without colour and scent and without dimensions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ساکن و ہر لحظہ سیار است دل\nعالم احوال و افکار است دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل ساکن بھی ہے اور ہر لحظہ سیار بھی؛ یہ کیفیات اور افکار کا جہان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart is at rest, yet every moment in motion; the heart is a world of spiritual states and thoughts.\nا",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از حقایق تا حقایق رفتہ عقل\nسیر او بے جادہ و رفتار و نقل",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل بغیر راستے، رفتا اور نقل مکانی کے ایک حقیقت سے دوسری حقیقت کی طرف بڑھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason makes its way from fact to fact; it travels without highroad and tramping and transport;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "صد خیال و ہر یک از دیگر جداست\nاین بگردون آشنا آن نارساست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(قلب کے اندر) سینکڑوں خیالات آتے ہیں اور ہر ایک دوسرے سے جدا ہے؛ کوئی گردوں آشنا اور کوئ نا رسا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred images, each different from the other, this one acquaint with heaven, that one unattaining.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "کس نگوید این کہ گردون آشناست\nبر یمین آن خیال نارساست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر کوئی شخص یہ نہیں کہتا کہ گردوں آشنا خیال نا رسا خیال کے دائیں یا (بائیں) جانب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one says that this which is acquaint with heaven is on the right hand of that unattaining image,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "یا سروری کاید از دیدار دوست\nنیم گامی از ہوای کوی اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ کوئی یہ کہتا ہے کہ دیدار دوست سے جو سرور حاصل ہوتا ہے وہ کوئے یار کی خواہش سے نصف قدم کے فاصلے پر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or that the joy which comes from beholding the beloved is but half a pace from the air of His street.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چشم تو بیدار باشد یا بخواب\nدل ببیند بے شعاع آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری آنکھ بیدار ہو یا خواب میں، تیرا قلب آفتاب کی روشنی کے بغیر دیکھتا رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your eyes may be wakeful or asleep; the heart sees without the rays of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آن جہان را بر جہان دل شناس\nمن چگویم زانچہ ناید در قیاس",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنت کو جہان دل کی مثال سے سمجھ کیونکہ جو کچھ میں کہہ رہا ہوں وہ قیاس سے ماورا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Know that world by the world of the heart – yet what shall I say of what defies analogy?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اندر آن عالم جھانی دیگری\nاصل او از کن فکانی دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم آخرت مختلف جہان ہے؛ اس کی بنیاد اور کن فکان پر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that universe was another world whose origin was from another Divine fiat;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "لازوال و ھر زمان نوع دگر\nناید اندر وھم و آید در نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ لا زوال ہے اور ہر زمان اس کی نوعیت بدلتی رہتی ہے؛ وہ سمجھ میں نہیں آتا البتہ اسے دیکھا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Undecaying, and every moment transformed, unimaginable, yet there clearly visible;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہر زمان او را کمالے دیگری\nہر زمان او را جمالے دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر لحظہ اس کا نیا کمال اور نیا جمال نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment clothed in a new perfection, every moment clad in a new beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "روزگارش بے نیاز از ماہ و مہر\nگنجد اندر ساحت او نہ سپہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا زمانہ چاند سورج سے بے نیاز ہے؛ اس کی وسعت کے اندر نو آسمان سما جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its time had no need of moon and sun; in its expanse the nine spheres are contained.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ہر چہ در غیب است آید روبرو\nپیش از آن کز دل بروید آرزو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل کے اندر کسی چیز کی خواہش پیدا ہوتے ہی وہ چیز غائب سے خود بخود آ موجود ہو گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever is in the Unseen comes face to face even before the desire for it issues from the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در زبان خود چسان گویم کہ چیست\nاین جہان نور و حضور و زندگیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی زبان میں کیا کہوں کہ وہ جہان کیا ہے؛ حنت، حور، حضور اور زندگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can I tell in my own tongue what it is, this world? It is light, and presence, and life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "لالہ ھا آسودہ در کہسار ہا\nنہر ھا گردندہ در گلزار ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے پہاڑوں میں لالے کے پھول تر و تازہ ہیں؛ اور اس کے باغات میں نہریں رواں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulips repose amidst the mountains, rivers meander in the rose -gardens;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "غنچہ ہای سرخ و اسپید و کبود\nاز دم قدوسیان او را گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کی سرخ و سفید اور نیلی کلیاں نفس ملکوتی سے کھلتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Buds crimson, white and blue blossom with the breath of the holy ones;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "آبہا سیمین، ہوا ہا عنبرین\nقصرھا با قبہ ہای زمردین",
+              "lang": "Original"
+            },
+            {
+              "_content": "شفاف پانی ، عنبریں ہوا ، زمردیں گنبدوں والے محل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its waters silver, the air ambergris, palaces with domes of emerald,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "خیمہ ہا یاقوت گون زرین طناب\nشاہدان با طلعت آئینہ تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یاقوتی رنگ کے خیمے جن کی طنابیں سنہری تھیں ؛ ان کے اندر آئینے کی طرح چمکتے ہو‏ئے چہرے والی حوریں فروکش تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tents of ruby with golden ropes, beauties with countenances radiant as a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گفت رومی \"اے گرفتار قیاس\nدر گذر از اعتبارات حواس",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا 'اے گرفتار قیاس، اپنے ہوس کے مشاہدات سے آگے بڑھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "رومی نے کہا 'اے گرفتار قیاس، اپنے ہوس کے مشاہدات سے آگے بڑھ۔",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "از تجلی کارہای خوب و زشت\nمی شود آن دوزخ این گردد بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کی تجلّی سے اچھے اعمال بہشت میں تبدیل ہو جاتے ہیں اور برے اعمال دوزخ کی صورت اختیار کر لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Acts fair and foul derive out of manifestation, the latter turning to Hell, the former to Heaven;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "این کہ بینی قصر ہای رنگ رنگ\nاصلش از اعمال و نے از خشت و سنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جو تو رنگا رنگ محل دیکھ رہا ہے ان کی اصل اعمال سے ہے، اینٹ پتھر سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These many-coloured palaces you behold are built of deeds, not of bricks and stones;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "آنچہ خوانی کوثر و غلمان و حور\nجلوۂ این عالم جذب و سرور",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنہیں تو کوثر ، غلمان اور حوریں کہتا ہے یہ عالم جذب و سرور کے جلوے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What you call Kauthar and page and houri are the reflection of this world of ecstasy and joy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "زندگی اینجا ز دیدار است و بس\nذوق دیدار است و گفتار است و بس\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں کی زندگی بس دیدار (جمال) ہے، دیدار اور گفتار کا ذوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Here life is the Beatific Vision, naught else, the bliss of seeing and speaking with the Beloved.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Departure For The Garden Of Paradise"
+}

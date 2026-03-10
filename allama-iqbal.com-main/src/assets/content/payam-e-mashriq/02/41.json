@@ -1,0 +1,86 @@
+{
+  "id": "41",
+  "name": "عشق",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقلے کہ جہان سوزد یک جلوۂ بیباکش\nاز عشق بیاموزد آئین جھانتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل جس کا جلوہ ء بے باک دنیا کو جلا دیتا ہے؛ اس نے جہان کو روشن کرنے کا طریقہ عشق سے سیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Intellect, which, if it chose, could set the universe aflame, learns from Love to illuminate, instead of burning up, its frame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق است کہ در جانت ہر کیفیت انگیزد\nاز تاب و تب رومی تا حیرت فارابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی کی تڑپ اور چمک سے لے کر فارابی کی حیرت تک جتنی کیفیات ہیں وہ سب عشق ہی تیرے دل کے اندر پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Love it is that your soul owes its heightened states’ engenderment – from Rumi’s ardent passion to Farabi’s solemn wonderment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این حرف نشاط آور می گویم و میرقصم\nاز عشق دل آساید با اینہمہ بیتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یہ پرسرور حرف (شعر) گاتا ہوں اور رقص کرتا ہوں ، کہ عشق کی ساری بیتابیوں کے باوجود دل اسی سے سکون پاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I sing these joy-inspiring words – I sing them and dance with delight – Love is a balsam for the heart despite its soul-tormenting might.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر معنی پیچیدہ در حرف نمی گنجد\nیک لحظہ بدل در شو شاید کہ تو دریابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "سارے مشکل معنی الفاظ میں نہیں سماتے؛ ایک لمحہ کے لیے اپنے دل کے اندر نظر ڈال شاید تو انہیں پا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not every subtle point can be expressed in words. Consult a while your own heart: maybe you will see my point made in the heart’s own style.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Love",
+  "credits": "English Translation by: M. Hadi Husain"
+}

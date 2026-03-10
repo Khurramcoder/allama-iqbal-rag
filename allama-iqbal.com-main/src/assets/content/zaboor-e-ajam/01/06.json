@@ -1,0 +1,102 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غزل سرای و نواہای رفتہ باز آور\nبہ این فسردہ دلان حرف دل نواز آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی غزل چھیڑیے اور پرانی نوا واپس لائیے ! ہم افسردہ دلوں سے دلنواز باتیں کیجیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O bring me back the singing, the airs of long ago; bring back the sweet, sad music to set cold hearts aglow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کنشت و کعبہ و بتخانہ و کلیسا را\nہزار فتنہ از آن چشم نیم باز آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "کنشت (یہود کی عبادت گاہ ) ، کعبہ ، بتخانہ اور کلیسا میں ؛ اپنی چشم نیم باز سے ہزار ہا ہنگامے پیدا کیجیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Too hushed is mosque and temple, too silent church and shrine; stir up a thousand tumults with that dark glance of Thine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز بادہ ئی کہ بخاک من آتشے آمیخت\nپیالہ ئی بجوانان نو نیاز آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "(آپ کی محبت کی) وہ شراب ، جس نے میری خاک میں آگ بھر دی ہے؛ اس کا ایک پیالہ مے نیازمند جوانوں کو بھی عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fill me the fiery goblet that made my dust to flame: Youth thirsts anew, desirous, and youth shall quaff the same.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نئی کہ دل ز نوایش بسینہ می رقصد\nمئی کہ شیشۂ جان را دہد گداز آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی نے ہو ، جس کی لے سے سینے کے اندر دل رقص کرنے لگے؛ ایسی شراب ہو، جو شیشہء قلب میں گداز پیدا کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pipe that sets a dancing the heart within the breast, the wine that moves the spirit and melts and soul oppressed:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ نیستان عجم باد صبحدم تیز است\nشرارہ ئی کہ فرو می چکد ز ساز آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "عجم کے نیستاں میں باد صبحدم بہت تیز ہے؛ ساز سے شرارے برسانے چاہیں (جو اس نیستاں میں آگ لگا دیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soft amid Persia’s rushes the breeze of morning sings: Bring me the spark that trickles from those melodious strings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

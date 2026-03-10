@@ -1,0 +1,117 @@
+{
+  "id": "12",
+  "name": "نگاہ شوق",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ کائنات چھپاتی نہیں ضمیر اپنا \nکہ ذرے ذرے میں ہے ذوق آشکارائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آشکارائي: ظاہر ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Contents of soul this world can not conceal, for every mote has longing to reveal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کچھ اور ہی نظر آتا ہے کاروبار جہاں \nنگاہ شوق اگر ہو شریک بینائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The course of life some what distinct appears, if eager looks and sight become corn peers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اسی نگاہ سے محکوم قوم کے فرزند \nہوئے جہاں میں سزاوار کار فرمائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کار فرمائي: حکومت۔\nسزاوار: حقدار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The members of a subject race by dint of glance, its gloss and grace, have acquired the right and claim to rule and get renown and fame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اسی نگاہ میں ہے قاہری و جباری \nاسی نگاہ میں ہے دلبری و رعنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The glance has might to cause defeat, it has the strength, its foes to beat; we see through glance great charm and grace; it brings the lovers face to face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اسی نگاہ سے ہر ذرے کو، جنوں میرا \nسکھا رہا ہے رہ و رسم دشت پیمائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دشت پيمائي: بیابان میں پھرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through self-same glance my craze imparts to motes and their most inner parts, the wont and mode of wandering tramps, who pay no heed to need of camps.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نگاہ شوق میسر نہیں اگر تجھ کو \nترا وجود ہے قلب و نظر کی رسوائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If fervent glance and vision keen you have not met or ever seen; your being is a source of shame on heart and sight can bring a blame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Eager Glance",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

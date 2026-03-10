@@ -1,0 +1,102 @@
+{
+  "id": "03",
+  "name": "آشکارا می شود روح ہندوستان",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "07",
+  "sectionName": "فلک زحل",
+  "name-ur": "روح ہندوستان ظاہر ہوتی ہے۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آسمان شق گشت و حوری پاک زاد\nپردہ را از چہرہ خود بر گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان شق ہو گیا، اور ایک پاکیزہ حور نے اپنے چہرے سے پردہ ہٹایا (ظاہر ہوئی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Houri descended from heavens and she removed niqaab from her face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در جبینش نار و نور لایزال\nدر دو چشم او سرور لایزال",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی جبین میں سرمدی نور و نار اور اس کی آنکھوں میں سرور لا یزال تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She had ever-lasting shine on her forehead and her two eyes had bright with ecstasy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حلہ ئی در بر سبکتر از سحاب\nتار و پودش از رگ برگ گلاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا لباس بادل سے زیادہ لطیف تھا ، جس کے تار و پود ش گلاب کی پتّی کی رگ سے تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her dress was lighter than thin cloud which was woven of threds made of rose-petals.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "با چنین خوبی نصبیش طوق و بند\nبر لب او نالہ ہای درد مند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس خوبی کے باوجود اس کی قسمت میں طوق و بند یعنی غلامی تھی اور اس کے لب پر اندوہناک فریاد تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت رومی \"روح ہند است این نگر\nاز فغانش سوزہا اندر نگر\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا یہ روح ہند ہے جس کی فغاں سے جگر پھٹا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said this is the spirit of India; its cries tear apart the heart of the listener.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Spirit Of India Appears"
+}

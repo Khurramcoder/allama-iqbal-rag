@@ -1,0 +1,101 @@
+{
+  "id": "54",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می دیرینہ و معشوق جوان چیزی نیست\nپیش صاحب نظران حور و جنان چیزی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانی شراب اور جواں معشوق کوئی چیز نہیں ، اصحاب نظر کے لیے حور جاں کی کوئی وقعت نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The young beloved, the ancient wine, the maids of Paradise; these joys men reckon rare and fine charm not the truly wise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہرچہ از محکم و پایندہ شناسی گذرد\nکوہ و صحرا و بر و بحر و کران چیزی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہروہ چیز جسے تو محکم و پائندہ سمجھتا ہے وہ بے ثبات ہے، کوہ و صحرا ہوں یا بر و بحر ان کی کوئی حقیقت نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whate’er eternal thou dost deem, mountain, and sea, and shore, land, plain, whate’er assured doth seem, these pass, and are no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دانش مغربیان فلسفۂ مشرقیان\nہمہ بتخانہ و در طوف بتان چیزی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل مغرب کی دانش ہو یا اہل مشرق کا فلسفہ ، یہ سب بت کدے ہیں اور بتوں کے طواف سے کچھ حاصل نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The learning of the Westerner, the East’s philosophy; all is an idol-house of prayer – and idols nothing be!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از خود اندیش و ازین بادیہ ترسان مگذر\nکہ تو ہستی و وجود دو جہان چیزی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے بارے میں فکر کر اور اس ویرانہ (دنیا) سے نہ گھبرا ، ہستی صرف تیری ہے، دونوں جہاں کوئی چیز نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cross not this desert terrified; fix on thy self thy thought; thou only art, and all beside, yea, all the world, is naught!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در طریقی کہ بنوک مژہ کاویدم من\nمنزل و قافلہ و ریگ روان چیزی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ راستہ جو میں نے اپنی پلکوں سے تراشا ہے اس میں نہ کوئی منزل ہے، نہ قافلہ، نہ کوئی ریگ رواں (وقت)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon this way mine eyelashes have quarried out of stone, nor stage nor caravan there is, and shifting sands are none.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

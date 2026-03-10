@@ -1,0 +1,68 @@
+{
+  "id": "22",
+  "name": "امتحان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہا پہاڑ کی ندی نے سنگ ریزے سے \nفتادگی و سرا فگندگی تری معراج!",
+              "lang": "Original"
+            },
+            {
+              "_content": "فتادگی: ایک جگہ پڑے رہنا، عاجزی۔ \nسرا فگندگی: سر جھکانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus mountain stream to pebble spake: ‘This lowly state for height you take.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترا یہ حال کہ پامال و درد مند ہے تو \nمری یہ شان کہ دریا بھی ہے مرا محتاج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are tread upon and suffer deal, how nice! My need the rivers feel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہاں میں تو کسی دیوار سے نہ ٹکرایا \nکسے خبر کہ تو ہے سنگ خارہ یا کہ زجاج",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنگ خارہ: ایک قسم کا سخت پتھر۔ \nزجاج: شیشہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You never clashed against a wall, don't know, a stone or glass to call’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Examination",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

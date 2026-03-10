@@ -1,0 +1,113 @@
+{
+  "id": "09",
+  "name": "بچے کی دعا",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لب پہ آتی ہے دعا بن کے تمنا میری\nزندگی شمع کی صورت ہو خدایا میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My longing comes to my lips as supplication of mine. O God! May like the candle be the life of mine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دور دنیا کا مرے دم سے اندھیرا ہو جائے\nہر جگہ میرے چمکنے سے اجالا ہو جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May the world's darkness disappear through the life of mine! May every place light up with the sparkling light of mine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہو مرے دم سے یونہی میرے وطن کی زینت\nجس طرح پھول سے ہوتی ہے چمن کی زینت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May my homeland through me attain elegance as the garden through flowers attains elegance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زندگی ہو مری پروانے کی صورت یا رب\nعلم کی شمع سے ہو مجھ کو محبت یا رب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May my life like that of the moth be, O Lord! May I love the lamp of knowledge, O Lord!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہو مرا کام غریبوں کی حمایت کرنا\nدردمندوں سے ضعیفوں سے محبت کرنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May supportive of the poor my life's way be! May loving the old, the suffering my way be!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مرے اللہ! برائی سے بچانا مجھ کو\nنیک جو راہ ہو اس رہ پہ چلانا مجھ ک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God! Protect me from the evil ways; show me the path leading to the good ways!\n\nThe mention of Allamah’s poetical works for children is far from complete without the poems he wrote and recited in public gatherings organized for fund-raising for the orphans. The poet decided not to include those poems in any of the books published by him. These were ‘omitted’ for the reasons best known to Allamah; possibly it was because the poems were written for a specific purpose and he had seen that being fulfilled spontaneously to his entire satisfaction. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Child's Invocation",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

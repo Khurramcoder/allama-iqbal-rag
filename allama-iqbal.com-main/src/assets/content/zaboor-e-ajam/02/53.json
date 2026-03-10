@@ -1,0 +1,65 @@
+{
+  "id": "53",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دیار شوق کہ درد آشناست خاک آنجا\nبہ ذرہ ذرہ توان دیدہ جان پاک آنجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the abode of passion, where the dust is fraught with pain, shineth in every atom there pure spirit without stain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "می مغانہ ز مغ زادگان نمی گیرند\nنگاہ می شکند شیشہ ہای تاک آنجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No Magian wine from Magian boy the revelers there take; one glance of rapture and of joy each fragile glass doth break.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ ضبط جوش جنون کوش در مقام نیاز\nبہوش باش و مرو با قبای چاک آنجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let madness surge not in thee so when thou dost stand at prayer; keep firm thy reason; do not go with shredded raiment there!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

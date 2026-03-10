@@ -1,0 +1,33 @@
+{
+  "id": "61",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میارا بزم بر ساحل کہ آنجا\nنوای زندگانے نرم خیز است\nبہ دریا غلت و با موجش در آویز\nحیات جاودان اندر ستیز است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t arrange a party on the shore, for there the song of life is gentle and soft. \nRoll with the ocean and contend with its waves: Struggle and combat give eternal life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

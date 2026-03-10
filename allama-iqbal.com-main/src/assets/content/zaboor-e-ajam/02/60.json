@@ -1,0 +1,119 @@
+{
+  "id": "60",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دم مرا صفت باد فرودین کردند\nگیاہ را ز سرشکم چو یاسمین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سانس کو باد بہاراں کی صفت عطا ہوئی ہے: اور میرے آنسو ؤں نے گیاہ کو چنبیلی بنا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soft my breath doth pass soft as April airs; Jasmine-sweet the grass springeth from my tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نمود لالۂ صحرا نشین ز خونابم\nچنانکہ بادۂ لعلی بہ ساتگین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ ء صحرائی کا سرخ رنگ میرے خون کی وجہ سے ہے؛ کیونکہ میرا پیالہ مئے سرخ سے بھر دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desert tulip glows with the blood I shed as in beaker shews wine all ruby-red.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بلند بال چنانم کہ بر سپہر برین\nہزار بار مرا نوریان کمین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس قدر بلند باز ہوں کہ ؛ فرشتے کئی بار میری گھات میں بیٹھے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soareth so my flight o’er the highest sphere that the souls of light seek to trap me there.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فروغ آدم خاکی ز تازہ کاریہاست\nمہ و ستارہ کنند آنچہ پیش ازین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم خاکی کی شان نت نئے کاموں سے ہے ؛ اس کے برعکس مہ و ستارہ وہی کرتے ہیں جو پہلے سے کرتے آئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Labours ever new make man’s dust to glow; moon and star still do as long time ago.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چراغ خویش بر افروختم کہ دست کلیم\nدرین زمانہ نہان زیر آستین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنا چراغ اس لیے جلایا ہے کیونکہ اس زمانے میں ید بیضا آستین میں چھپا دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My self’s lamp I lit, now that Moses’ hand men have hidden it ’neath the wristlet-band.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در آبسجدہ و یاری ز خسروان مطلب\nکہ روز فقر نیاکان ما چنین کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کی جناب میں سر بسجود ہو اور پادشاہوں سے مدد نہ مانگ ؛ ہمارے بزرگ مشکل وقت میں یہی کرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, O come to prayer; court no prince’s door: so our fathers were when the world was poor.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,161 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہوں کیا آرزوئے بے دلی مجھ کو کہاں تک ہے\nمرے بازار کی رونق ہی سودائے زیاں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What should I say how much Longing for dejection I have? The elegance of my market is only up to the ardent desire for losing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ مے کش ہوں فروغ مے سے خود گلزار بن جائوں\nہوائے گل فراق ساقی نامہرباں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the sot who himself becomes garden by the Wine’s Light. Rose’s love is only up to the departure of the unkind cup bearer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چمن افروز ہے صیاد میری خوشنوائی تک\nرہی بجلی کی بے تابی، سو میرے آشیاں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hunter’s enhancement of garden’s beauty is till start of my melodies; as for the thunderbolts’ restlessness, it is up to my nest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ مشت خاک ہوں، فیض پریشانی سے صحرا ہوں\nنہ پوچھو میری وسعت کی، زمیں سے آ سماں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am that handful of dust, which is changed to wilderness by distress’ grace. Do not ask me of my span; it is from the earth to the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جرس ہوں، نالہ خوابیدہ ہے میرے ہر رگ و پے میں\nیہ خاموشی مری وقت رحیل کارواں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the bell, complaint is asleep in my whole nature; the silence of mine only is up to the caravan’s departure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سکون دل سے سامان کشود کار پیدا کر\nکہ عقدہ خاطر گرداب کا آب رواں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a tranquil heart create means of attaining your aims, because the whirlpool’s knot is only up to the water’s flow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چمن زار محبت میں خموشی موت ہے بلبل!\nیہاں کی زندگی پابندی رسم فغاں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silence is death in the garden of Love, O nightingale this life is only up to observance of the wailing’s custom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "جوانی ہے تو ذوق دید بھی، لطف تمنا بھی\nہمارے گھر کی آبادی قیام میہماں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In youth, there is Sight’s zeal as well as Longing’s pleasure. The happiness of our house is only up to the guest’s presence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "زمانے بھر میں رسوا ہوں مگر اے وائے نادانی!\nسمجھتا ہوں کہ میرا عشق میرے رازداں تک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Disgraced though I am in the whole world but, O ignorance; I understand that my Love is known only to my confidante.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

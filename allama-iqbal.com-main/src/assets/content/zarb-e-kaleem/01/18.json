@@ -1,0 +1,151 @@
+{
+  "id": "18",
+  "name": "جہاد",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فتوی ہے شیخ کا یہ زمانہ قلم کا ہے \nدنیا میں اب رہی نہیں تلوار کارگر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the verdict of the Shaikh that pen is stronger than the sword: ‘The sword has lost its might and force, tile pen has gained a firmer hold’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "لیکن جناب شیخ کو معلوم کیا نہیں؟ \nمسجد میں اب یہ وعظ ہے بے سود و بے اثر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But does not the august Shaikh take cognizance of this bitter fact: That this lecturing in the mosque can never make the least effect?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیغ و تفنگ دست مسلماں میں ہے کہاں \nہو بھی، تو دل ہیں موت کی لذت سے بے خبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تفنگ: بندوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In hands of Muslims of the world, where can the gun and sword be seen? If equipped with such deadly arms, to suffer death they won't be keen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کافر کی موت سے بھی لرزتا ہو جس کا دل \nکہتا ہے کون اسے کہ مسلماں کی موت مر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At sight of heathen's natural death, if one with fear and fright is filled; no one directs a man like that to get in Holy War be killed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تعلیم اس کو چاہیے ترک جہاد کی \nدنیا کو جس کے پنجہ خونیں سے ہو خطر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پنجہ خونيں: خون سے بھرا ہوا ہاتھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man, whose bloody claws for world with risk and danger much are fraught; must avoid the Holy Wars, to give up wars he must be taught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "باطل کی فال و فر کی حفاظت کے واسطے \nیورپ زرہ میں ڈوب گیا دوش تا کمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فال و فر: شان و شوکت۔ \nدوش تا کمر: کندھے سے کمر تک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West is bent to mount a guard on false, untrue pretentious show. It is armed with weapons dread, is clad in mail from top to toe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہم پوچھتے ہیں شیخ کلیسا نواز سے \nمشرق میں جنگ شر ہے تو مغرب میں بھی ہے شر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کليسا نواز: گرجا نواز، عیسائیوں کو خوش کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We like to ask the holy Shaikh, who holds the shrine in high esteem; if war for West is heinous crime, how far in East can harmless seem?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "حق سے اگر غرض ہے تو زیبا ہے کیا یہ بات \nاسلام کا محاسبہ، یورپ سے درگزر",
+              "lang": "Original"
+            },
+            {
+              "_content": "محاسبہ: پوچھ گچھ، احتساب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man concerned with truth alone can never this much proper deem that East for sins must reckoning face, but crimes by West may lighter seem.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Holy War",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

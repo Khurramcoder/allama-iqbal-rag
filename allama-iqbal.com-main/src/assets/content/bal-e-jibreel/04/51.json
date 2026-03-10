@@ -1,0 +1,35 @@
+{
+  "id": "51",
+  "name": "فلسفی",
+  "name-en": "Philosopher",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بلند بال تھا، لیکن نہ تھا جسور و غیور \nحکیم سر محبت سے بے نصیب رہا \nپھرا فضاوں میں کرگس اگرچہ شاہیں وار \nشکار زندہ کی لذت سے بے نصیب رہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "بال: اونچا اڑنے والا۔ بلند\nجسور و غيور: جسارت والا ۔ \nکرگس: گدھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He could fly high but he wasn’t daring and passionate, the sage remained a stranger to the secret of Love.\nThe vulture roamed around the air like an eagle, but could not get acquainted with the taste of a fresh prey.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

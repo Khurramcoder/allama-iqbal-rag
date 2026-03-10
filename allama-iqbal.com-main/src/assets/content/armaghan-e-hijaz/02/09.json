@@ -1,0 +1,33 @@
+{
+  "id": "09",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تمیز خار و گل سے آشکارا\nنسیم صبح کی روشن ضمیری\nحفاظت پھول کی ممکن نہیں ہے\nاگر کانٹے میں ہو خوئے حریری",
+              "lang": "Original"
+            },
+            {
+              "_content": "حريري: ریشمی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From knowledge of thorns and buds which shoot, the conscience of breeze at dawn is cute. \nIt is possible not to guard the blooms, if the thorns have got a silken broom.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "45",
+  "name": "جمہوریت",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "متاع معنی بیگانہ از دون فطرتان جوئی\nز موران شوخی طبع سلیمانی نمی آید\nگریز از طرز جمہوری غلام پختہ کاری شو\nکہ از مغز دو صد خر فکر انسانی نمی آید",
+              "lang": "Original"
+            },
+            {
+              "_content": "و پست فطرت لوگوں (اہل مغرب ) سے ایسی متاع طلب کرتا ہے جس کے معنی (اصلیت) ہمارے لیے اجنبی ہیں۔ (تجھے معلوم ہونا چاہیے کہ) چیونٹیوں کے اندر طبع سلیمان کی شوخی پیدا نہیں ہو سکتی۔\nطرز حمہوری سے گریز کر ، کسی مرد پختہ کار کا دامن پکڑ، کیونکہ دو سو گدھے مل کر بھی ایک انسان کی طرح نہیں سوچ سکتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You seek the treasures of an alien philosophy from common, low-grade people, themselves poor of mind. Ants crawling on the ground cannot attain the heights of wisdom of a Solomon.\nAvoid the method of democracy; become the bondman of someone of ripe intelligence; for a few hundred donkeys cannot have, combined, the brains of one man, of one homosapiens.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Democracy",
+  "credits": "English Translation by: M. Hadi Husain"
+}

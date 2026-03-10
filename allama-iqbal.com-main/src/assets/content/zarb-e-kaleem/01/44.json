@@ -1,0 +1,85 @@
+{
+  "id": "44",
+  "name": "اے روح محمد",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شیرازہ ہوا ملت مرحوم کا ابتر\nاب تو ہی بتا، تیرا مسلمان کدھر جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابتر: بکھر گیا۔\nشيرازہ: انتظام و ضبط۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bonds that in past, like bundle knit, the Faithful Fold, have now been split: O God sent Guide, let Muslims know, what to do and where to go?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ لذت آشوب نہیں بحر عرب میں\nپوشیدہ جو ہے مجھ میں، وہ طوفان کدھر جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آشوب: شورش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Arabian Sea is quite bereft; of stir, there rise no waves and 'crest the tempest that in me is hid has no place to spread and skid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر چند ہے بے قافلہ و راحلہ و زاد\nاس کوہ و بیاباں سے حدی خوان کدھر جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "زاد: سفر کا سامان۔\nراحلہ: سواری۔ \nحدي خوان: اونٹوں کو محو سفر رکھنے کے لیے گانا گانے والا شخص (شاعر کا اپنی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Caravan has left the tramp alone, but mount or food he does not own; where can the singing cameleer go, who rides on hill and waste to and fro.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس راز کو اب فاش کر اے روح محمد\nآیات الہی کا نگہبان کدھر جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soul, whom God for message chose! This secret hid to me disclose; some light on this problem throw, where may the guard of God's portents go?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Invocation To The Soul Of Muhammad (S.A.W.)",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

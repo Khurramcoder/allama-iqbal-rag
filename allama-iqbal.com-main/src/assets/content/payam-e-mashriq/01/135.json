@@ -1,0 +1,34 @@
+{
+  "id": "135",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ضمیر ین فکان غیر از تو کس نیست\nنشان بی نشان غیر از تو کس نیست\nقدم بیباک تر نہ در رہ زیست\nبہ پہنای جہان غیر از تو کس نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان ہست و بود کا ضمیر (معنیء پہچان) تیرے سوائے اور کوئی نہیں ، صرف تو ہی اس بے نشاں (اللہ تعالے ) کا نشان ہے۔\nراہ حیات میں دلیرانہ قدم رکھ ، اس جہان کی وسعتوں میں تیرے سوائے اور کوئی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the meaning of God’s fait, ‘Be’, the only clue to Being’s mystery. \nTread life’s path more intrepidly; advance: There is no one but you in this expanse.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

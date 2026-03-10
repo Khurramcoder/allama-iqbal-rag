@@ -1,0 +1,80 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسلمان فاقہ مست و ژندہ پوش است\nز کارش جبرئیل اندر خروش است\nبیا نقش دگر ملت بریزیم\nکہ این ملت جہان را بار دوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "موجودہ مسلمان فاقہ مست اور گدڑی پوش ہے، اس کی حالت دیکھ کر جبریل امین بھی فریاد کناں ہیں۔ \nآ کہ ہم نئی ملت کی بنیاد رکھیں، کیونکہ یہ ملت تو دنیا کے لیے بار دوش ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim gloats in hunger and patches; to Gabriel his deeds are sheer scratches.\nCome, fashion and form a new nation’s norm, this nation is a burden on world’s arm.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دگر ملت کہ کاری پیش گیرد\nدگر ملت کہ نوش از نیش گیرد\nنگردد با یکی عالم رضامند\nدو عالم را بہ دوش خویش گیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی ملت جو کچھ کر کے دکھائے ، ایسی ملت جو زہر سے تریاق حاصل کرے (مشکلات سے نئی زندگی پائے)۔\nجو ایک جہان پر اکتفا نہ کرے، بلکہ دونوں جہانوں کو اپنے کندھوں پر اٹھائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation again whom duty is dear, who makes a clean honey from venom clear.\nHe agreed not on one world norm, and held the two worlds on his arm.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دگر قومی کہ ذکر لاالہش\nبرآرد از دل شب صبحگاہش \nشناسد منزلش را آفتابی\nکہ ریگ کہکشان روبد ز راہش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ قوم جس کا ورد لاالہ ، رات کے اندر سے اپنی صبح پیدا کر لے ۔ \nآفتاب بھی اس کی منزل کو پہچانے، اور اس کی راہ سے کہکشاں کی ریت صاف کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation again whose hearts would adorn, La Ilah’s jewels from midnight to morn.\nHer place the sun knows on skies and lands, and sweeps for her the Milky Way sands.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

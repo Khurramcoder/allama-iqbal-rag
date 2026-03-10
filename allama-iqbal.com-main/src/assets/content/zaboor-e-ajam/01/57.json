@@ -1,0 +1,119 @@
+{
+  "id": "57",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ فغان نہ لب گشودم کہ فغان اثر ندارد\nغم دل نگفتہ بہتر ہمہ کس جگر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے فغاں کے لیے لب نہیں کھولے کیونکہ فغاں اثر نہیں رکھتی ، غم دل نہ کہنا ہی بہتر ہے کیونکہ ہر شخص میں اس کی برداشت کا حوصلہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No lament, no sigh I uttered; naught avail laments and sighs; best unspoken, the heart’s sorrow; there be few to sympathize.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ حرم چہ دیر ہر جا سخنی ز آشنائی\nمگر اینکہ کس ز راز من و تو خبر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا حرم اور کیا دیر ، ہر جگہ محبت کے چرچے ہیں، مگر بات یوں ہے کہ میرے اور آپ کے راز اور کوئی نہیں جانتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the shrine and in the temple there is love-talk every where, yet through all the world none knoweth this great secret that we share.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہ ندیدنی است اینجا کہ شرر جہان ما را\nنفسی نگاہ دارد، نفسے دگر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بات دیکھی نہیں جاتی کہ شرر ہمارے حہان کو ایک لمحہ دیکھتا ہے اور دوسرے لمحہ دیکھنے سے محروم ہو جاتا ہے (ہماری زندگی بھی شرر کی مانند عارضی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Here are things too fine for vision; as the sparks that upward soar guard our world for a brief moment, and the next it is no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو ز راہ دیدۂ ما بہ ضمیر ما گذشتی\nمگر آنچنان گذشتی کہ نگہ خبر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ میری آنکھوں کے راستے میرے دل میں بس گئے ، مگر آنکھوں سے اس طرح گزرے کہ نگاہ کو بھی خبر نہ ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Coming by the path of seeing Thou didst past into my mind, but so sudden was Thy passing in that hour my eyes were blind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کس ازین نگین شناسان نگذشت بر نگینم\nبتو می سپارم او را کہ جہان نظر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان جوہریوں میں سے کوئی بھی میرے نگینے (کی قیمت) تک نہ پہنچ سکا ، میں اسے آپ ہی کے سپرد کرتا ہوں کیونکہ اہل جہاں صاحب نظر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They that tell the worth of jewels would not heed my jeweled ring; since the world will not regard it, unto thee my gem I bring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قدح خرد فروزی کہ فرنگ داد ما را\nہمہ آفتاب لیکن اثر سحر ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگ نے ہمیں جو خرد کو چمکانے والی شراب کا پیالہ دیا ہے، ہے تو وہ آفتاب، مگر رات کی تاریکی کو دور نہیں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, the goblet mind-illuming that the West hath given me, all the sun’s aglow within it; of the dawn no sign I see.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

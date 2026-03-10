@@ -1,0 +1,172 @@
+{
+  "id": "43",
+  "name": "نیا شوالا",
+  "name-en": "The New Temple",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سچ کہہ دوں اے برہمن! گر تو برا نہ مانے\nتیرے صنم کدوں کے بت ہو گئے پرانے",
+              "lang": "Original"
+            },
+            {
+              "_content": "صنم کدہ: بت خانہ، مندر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I tell the truth O Brahman! If it does not displease you! The idols of your temple have become anachronistic.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اپنوں سے بیر رکھنا تو نے بتوں سے سیکھا\nجنگ و جدل سکھایا واعظ کو بھی خدا نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have learnt grudge with your own people from the idols; God also has taught fighting to Muslim preachers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تنگ آ کے میں نے آخر دیر و حرم کو چھوڑا\nواعظ کا وعظ چھوڑا، چھوڑے ترے فسانے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Becoming tired, I finally abandoned the temple and the Haram; I abandoned the preacher's sermons, as well as your stories.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پتھر کی مورتوں میں سمجھا ہے تو خدا ہے\nخاک وطن کا مجھ کو ہر ذرہ دیوتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You take the stone idols to contain God; every speck of the homeland's dust is holy to me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آ، غیریت کے پردے اک بار پھر اٹھا دیں\nبچھڑوں کو پھر ملا دیں نقش دوئی مٹا دیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "غيريت: غیر ہونا، بیگانہ ہونا۔ \nنقش دوئي: دو ہونے کا نشان، جدائی، بیگانکی کا نقش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come! Let us again roll up the curtains of strangeness. Let us unite the separated ones, let us remove the disunion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سونی پڑی ہوئی ہے مدت سے دل کی بستی\nآ، اک نیا شوالا اس دیس میں بنا دیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart's habitation is lying barren since long. Let us build a new temple in this country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دنیا کے تیرتھوں سے اونچا ہو اپنا تیرتھ\nدامان آسماں سے اس کا کلس ملا دیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "تيرتھ: ہندوؤں کا مقدس مقام۔ \nکلس: گنبد کے اوپر کی کلغی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let our shrine be higher than the world's shrines. Let us make its spire as high as the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہر صبح اٹھ کے گائیں منتر وہ مٹیھے مٹیھے\nسارے پجاریوں کو مے پیت کی پلا دیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let our morning's incantations be so sweet every morning that all worshipers be ecstatic with the Love's wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "شکتی بھی شانتی بھی بھگتوں کے گیت میں ہے\nدھرتی کے باسیوں کی مکتی پریت میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "شانتي: اطمینان، آرام۔\nشکتي: طاقت، قوّت۔\nباسي: بسنے والا، رہنے والا۔\nپريت: محبت۔\nمکتي: نجات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The power and tranquillity is in the devotees' song. The salvation of the denizens of the earth is in Love",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

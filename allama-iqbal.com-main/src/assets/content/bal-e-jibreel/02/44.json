@@ -1,0 +1,97 @@
+{
+  "id": "44",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حادثہ وہ جو ابھی پردہ افلاک میں ہے \nعکس اس کا مرے آئینہ ادراک میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Events as yet folded in the scroll of Time reflect in the mirror of my perception.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ ستارے میں ہے، نے گردش افلاک میں ہے \nتیری تقدیر مرے نالہ بے باک میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither the planets, nor the spinning skies; only my bold song can tell you your destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یا مری آہ میں کوئی شرر زندہ نہیں \nیا ذرا نم ابھی تیرے خس و خاشاک میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either my sighs are devoid of fire, or else your straw and thorns as yet retain some sap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیا عجب میری نوا ہائے سحر گاہی سے \nزندہ ہو جائے وہ آتش کہ تری خاک میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet perchance my morning song may quicken the fire that your dust contains:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "توڑ ڈالے گی یہی خاک طلسم شب و روز \nگرچہ الجھی ہوئی تقدیر کے پیچاک میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dust that will break the spell of the passing time one day, though it is entangled in the skein of Fate as yet.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

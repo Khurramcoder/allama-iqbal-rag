@@ -1,0 +1,33 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ میرا رونق محفل کہاں ہے \nمری بجلی، مرا حاصل کہاں ہے \nمقام اس کا ہے دل کی خلوتوں میں \nخدا جانے مقام دل کہاں ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the moving spirit of my life? The thunder-bolt, the harvest of my life?\nHis place is in the solitude of the heart, but I know not the place of the heart within.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

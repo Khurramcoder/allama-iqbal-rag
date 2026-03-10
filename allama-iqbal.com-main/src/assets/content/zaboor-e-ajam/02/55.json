@@ -1,0 +1,119 @@
+{
+  "id": "55",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قلندران کہ بہ تسخیر آب و گل کوشند\nز شاہ باج ستانند و خرقہ می پوشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "قلندر جو دنیا کی تسخیر میں کوشاں رہتے ہیں ؛ بظاہر وہ خرقہ پہنتے ہیں لیکن پادشاہوں سے خراج وصول کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Qalandars, who to their sway water strive to win and clay, from the monarch tribute bear though the beggar’s robe they wear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ جلوت اند و کمندی بہ مہر و مہ پیچند\nبہ خلوت اند و زمان و مکان در آغوشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ جلوت میں ہوتے ہیں تو مہر و ماہ پر کمند پھینکتے ہیں؛ اور جب خلوت میں ہوتے ہیں تو زمان و مکان ان کی آغوش میں ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They appear, and round the sun and the moon their rope is spun; they retire, and in their breast time and Space repose at rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بروز بزم سراپا چو پرنیان و حریر\nبروز رزم خود آگاہ و تن فراموشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوستوں میں ریشم و کمخواب کی طرح نرم ہوتے ہیں؛ مگر جنگ کے دوران بدن سے بے پرواہ اور جوش جہاد میں مست ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the revel rules the day bright as shimmering silks are they; yet when battle is toward for the sacrifice prepared.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نظام تازہ بچرخ دو رنگ می بخشند\nستارہ ہای کہن را جنازہ بر دوشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بوڑھے آسمان کو نیا نظام عطا کرتے ہیں؛ اور اس کے پرانے ستاروں کا جنازہ نکال دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A new order they devise for the broad and dappled skies, bear the ancient stars and all on their backs to funeral.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زمانہ از رخ فردا گشود بند نقاب\nمعاشران ہمہ سر مست بادۂ دوشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانہ مستقبل کے چہرے سے نقاب الٹ چکا ہے ؛ مگر لوگ ابھی تک ماضی کی شراب سے مست ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time hath from her face untied morrow’s veil, to lay aside; yet to-day men still delight in the wine of yesternight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بلب رسید مرا آن سخن کہ نتوان گفت\nبحیرتم کہ فقیہان شہر خاموشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے وہ بات کہہ دی ہے جو کہی نہیں جا سکتی تھی؛ حیران ہوں کہ فقیہان شہر ابھی تک کیوں خاموش ہیں ۔ (انہوں نے میرے خلاف فتوی کیوں نہیں دیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hovers on my lip the word that must never be declared; strange, the learned of the town silent are, nor even frown!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

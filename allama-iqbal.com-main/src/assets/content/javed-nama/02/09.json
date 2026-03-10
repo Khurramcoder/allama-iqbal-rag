@@ -1,0 +1,482 @@
+{
+  "id": "09",
+  "name": "طاسین مسیح رویای حکیم طالسطایی",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "name-en": "TASIN OF CHRIST: Vision of the sage Tolstoy",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در میان کوہسار ہفت مرگ\nوادی بے طایر و بے شاخ و برگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہسار ہفت مرگ کے اندر ایک ایسی وادی ہے جہاں نہ کوئی پرندہ ہے اور نہ کوئی درخت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the midst of the mountain-range of Seven Deaths is a valley where no bird stirs, no branches, no leaf;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاب مہ از دود گرد او چو قیر\nآفاب اندر فضایش تشنہ میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دھوئیں سے چاند کی چمک تارکول کی طرح ہو گئی ہے؛ اس کی فضا میں سورج بھی (روشنی کے لیے) پیاسا مر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The smoke encircling it turns the moon’s light to pitch, the sun in its broad heavens seems dying of thirst.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رود سیماب، اندر آن وادی روان\nخم بہ خم مانند جوی کہکشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس وادی کے اندر سیماب کی ندی کہکشاں کی مانند پیچ و خم کھاتی ہوئی رواں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A river of quicksilver flows through that valley meandering like the stream of the Milky Way.\nپ",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پیش او پست و بلند راہ ہیچ\nتند سیر و موج موج و پیچ پیچ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس تیز رواں موج در موج، اور پیچ در پیچ ندی کے سامنے راستے کے پست و بلند ہیچ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before it the hollows and heights of the road are nothing, so swift its current, wave on wave, twist on twist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غرق در سیماب مردی تا کمر\nبا ہزاران نالہ ہای بے اثر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس ندی میں ایک شخص کمر تک سیماب میں غرق ؛ ہزاروں بے اثر نالہ و شیون کرتا ہوا کھڑا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man stood, drowned up to his waist, in that quicksilver uttering a thousand ineffectual laments,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قسمت او ابر و باد و آب نے\nتشنہ و آبی بجز سیماب نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی قسمت میں ابر، ہوا اور پانی نہ تھے؛ وہ پیاسا تھا، مگر وہاں سوائے سیماب کے کوئی پانی نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rain, wind and water were not his portion – athirst he, and no water save the quicksilver.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "برکران دیدم زنے نازک تنی\nچشم او صد کاروان را رہزنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کنارے پر ایک نازک بدن عورت دیکھی؛ جس کی آنکھ سینکڑوں کاروانوں کو لوٹ لینے والی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the bank I espied a slim-bodied woman whose eyes would have waylaid a hundred caravans,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کافری آموز پیران کنشت\nاز نگاہش زشت خوب و خوب زشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو پیران کلیسا کو کافری سکھاتی تھی ؛ اور جس کی نگاہ نا خوب کو خوب اور خوب کو نا خوب بنا دیتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One that taught infidelity to the Church-elders, her glance turned ugly to beautiful, beautiful to ugly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گفتمش تو کیستی نام تو چیست\nاین سراپا نالہ و فریاد کیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے پوچھا تو کون ہے، تیرا نام کیا ہے اور یہ کون ہے جو سراپا نالہ و فریاد بنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to her, ‘Who are you? What is your name? What is this utter lamentation and weeping?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گفت در چشمم فسون سامری است\nنامم افرنگین و کارم ساحری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا میری آنکھ میں سامری کا جادو ہے؛ میرا نام افرنگین اور کام ساحری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She said, ‘In my eye is the spell of the Samiri; my name is Ifrangin, my profession is wizardry.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ناگہان آن جوی سیمین یخ ببست\nاستخوان آن جوان در تن شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناگہاں وہ سیماب کی ندی یخ بستہ ہو گئی ؛ اور اس جوان کے بدن کی ہڈیاں ٹوٹ گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All of a sudden that silvery stream froze, the bones of that youth broke in his body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "بانگ زد اے واے بر تقدیر من\nواے بر فریاد بے تأثیر من",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ چلّایا ہائے افسوس میری تقدیر اور میری بے تاثیر فریاد پر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He cried aloud, ‘Alas, alas for my destiny! Alas for my ineffectual lamentation!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گفت افرنگین \"اگر داری نظر\nاندگی اعمال خود را ھم نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "افرنگین نے کہا، اگر تو نظر رکھتا ہے پر ذرا اپنے اعمال کو بھی دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ifrangin said, ‘If you have eyes to see, look a little also at your own deeds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "پور مریم آن چراغ کائنات\nنور او اندر جہات و بے جہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مریم کا بیٹا جو چراغ کائنات تھا؛ اور جس کا نور مکان و لا مکان میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Son of Mary, that Lamp of all creation whose light lit up the world dimensioned and undimensioned.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آن فلاطوس آن صلیب آن روی زرد\nزیر گردون تو چہ کردی او چہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا زرد چہرہ، صلیب اور فلاطوس کو پیش نظر رکھ پھر مجھے بتا کہ دنیا میں اس نے کیا کیا، اور تو نے کیا کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That Pilate, and that cross, that pallid face – what wrought you, what wrought he beneath the skies!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اے بجانت لذت ایمان حرام\nاے پرستار بتان سیم خام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جس کی جان پر لذّت ایمان حرام ہے؛ اے وہ شخص جو بتان سیم و خام کا پجاری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You, to whose soul the joy of faith is forbidden, worshipper of idols fashioned of raw silver,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "قیمت روح القدس نشناختی\nتن خریدی نقد جان در باختی\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے روح القدس کی قیمت نہ پہچانی ؛ بدن خرید لیا اور روح ہار دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You did not know the worth of the Holy Spirit, you bought the body, gambled away the soul!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "طعنۂ آن نازنین جلوہ مست\nآن جوان را نشتر اندر دل شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جلوہ مست نازنین کا طعنہ اس جوان کے دل کے اندر نشتر کی طرح ٹوٹ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The reproach of that fair woman, drunken with blandishment, was a lancet that pierced the youth’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "گفت \"اے گندم نمای جو فروش\nاز تو شیخ و برہمن ملت فروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا، اے گندم نما جو فروش تیری وجہ سے شیخ و برہمن ملت فروش بن چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘You who display wheat and sell barley, because of you Shaikh and Brahmin sell their own country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "عقل و دین از کافریھای تو خوار\nعشق از سوداگریھای تو خوار",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل و دین تیری کافری سے اور عشق تیرے تاجرانہ انداز سے ذلیل و خوار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your infidelities have debased reason and religion, your profit-mongerings have cheapened love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "مہر تو آزار و آزار نہان\nکین تو مرگ است و مرگ ناگہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری محبت بیماری ہے اور پنہاں بیماری؛ تیری دشمنی مرگ ہے اور مرگ ناگہاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your love is torment, and secret torment at that; your hatred is death, and sudden death at that!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "صحبتی با آب و گل ورزیدہ ئے\nبندہ را از پیش حق دزدیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے آب و گل (دنیا ) سے صحبت اختیار کر رکھی ہے اور تو بندے کو حق تعالے کے حضور سے چرا لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have associated with water and clay, you have stolen away God’s servant from Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "حکمتے کو عقدۂ اشیا کشاد\nبا تو غیر از فکر چنگیزی نداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ حکمت (سائنس) جس نے اشیاء کی ماہیت کا عقدہ وا کیا ؛ تجھے اس نے چنگیزی سوچ کے علاوہ اور کچھ نہیں دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wisdom, which loosened the knots of things, to you has given only thoughts of devastation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "داند آن مردی کہ صاحب جوہر است\nجرم تو از جرم من سنگین تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مرد جو کوئی جوہر رکھتا ہے، سمجھتا ہے کہ تیرا جرم میرے جرم سے زیادہ سنگین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man whose substance is true knows well your crime is heavier than my crime.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "از دم او رفتہ جان آمد بتن\nاز تو جان را دخمہ میگردد بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "عیسی (علیہ) کی پھونک سے بدن سے نکلی ہوئی جان واپس آ جاتی تھی؛ اور تیری وجہ سے بدن جان کا قبرستان بن گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His breath restored the departed soul to the body; you make the body a mausoleum for the soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "آنچہ ما کردیم با ناسوت او\nملت او کرد با لاہوت او",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ ہم نے عیسی (علیہ) کے بدن کے ساتھ کیا؛ عیسائیوں نے اس کی روح کے ساتھ وہی کچھ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What we have done unto His humanity His community has done unto His divinity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "مرگ تو اہل جہان را زندگی است\nباش تا بینی کہ انجام تو چیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری موت اہل جہان کے لیے زندگی ہے؛ ذرا ٹھہر پھر تجھے اپنا انجام معلوم ہو جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your death is life for the people of the world: wait now, and see what your end shall be!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

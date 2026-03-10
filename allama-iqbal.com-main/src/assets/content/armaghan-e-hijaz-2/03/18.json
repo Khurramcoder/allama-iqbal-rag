@@ -1,0 +1,81 @@
+{
+  "id": "18",
+  "name": "خاتمہ",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ از ساقی نہ از پیمانہ گفتم\nحدیث عشق بیباکانہ گفتم\nشنیدم نچہ از پاکان امت\nترا با شوخے رندانہ گفتم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے (شاعروں کی مانند) نہ ساقی کی بات کی ہے، نہ پ یمانے کی؛ میں نے تو عشق کی بات کی ہے اور وہ بھی بے کرانہ انداز میں۔\nجو کچھ میں نے امت کے پاکباز بزرگوں سے سنا تھا ؛ وہ شوخیء رندانہ سے کہہ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I talk not of bearer nor of bowl hence; this love theme, I say in a frank parlance. \nFrom Holies of Ummah what e’er I hold; in their own frank style to thee I have told. \n(Here Iqbal’s setting of words is so wonderful that it was difficult to convey that sweet lush (of words) to the readers. According to Webster’s Collegeate Dictionary ‘Parlance’ means language, a style or manner of speaking or writing as Military parlance. However, the archaic words (old use) are allowed to be used in poetry for special purposes only.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بخود باز او دامان دلے گیر\nدرون سینہ خود منزلی گیر\nبدہ این کشت را خونابۂ خویش\nفشاندم دانہ من تو حاصلی گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہے تو اپنے آپ کی طرف واپس آ اپنے دل کا دامن تھام لے؛ اور اپنے ہی سینے کو اپنی منزل بنا۔\nاب اپنے (دل کی) کھیتی کو اپنے خون سے سینچ ؛ دانہ میں نے بکھیر دیا ہے، اب پیداوار تو سمیٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Back to ego turn, and back to heart look; make the self’s own place in thy bosom nook.\nTreat this tillage with moist of blood and tear. Eat the harvest thus, I throw my seeds here.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حرم جز قبلہ قلب و نظر نیست\nطواف او طواف بام و در نیست\nمیان ما و بیت اللہ رمزیست\nکہ جبریل امین را ھم خبر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرم تو قلب و نظر کا قبلہ ہے؛ اس کا طواف محض مکان کا طواف نہیں۔\nہمارے اور بیت اللہ شریف کے درمیان جو راز ہے ؛ اس سے جبریل امین (علیہ) بھی با خبر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For heart and eyes course, the ‘Harem’ is the aim; its round is not the round of door’an roof’s frame.\nIn us and God’s House there hids a hint so; which Gabe, the Trustee may not even know.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "The Finish",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

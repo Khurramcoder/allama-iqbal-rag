@@ -1,0 +1,133 @@
+{
+  "id": "42",
+  "name": "تضمین بر شعر ابوطالب کلیم",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خوب ہے تجھ کو شعار صاحب ثیرب کا پاس \nکہہ رہی ہے زندگی تیری کہ تو مسلم نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب ثيرب: محمد (صلعم)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your regard for the ways of the Lord of Yathrib is strange; your life is exhibiting that you are not a Muslim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جس سے تیرے حلقہء خاتم میں گردوں تھا اسیر \nاے سلیماں! تیری غفلت نے گنوایا وہ نگیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "حلقہء خاتم: انگوٹھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What made heavens contained in your ring’s circle? O Sulaiman (A.S.)! That jewel is lost by your negligence!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ نشان سجدہ جو روشن تھا کوکب کی طرح \nہوگئی ہے اس سے اب ناآشنا تیری جبیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That mark of prostration which used to shine like a star; your forehead has now become unacquainted with that mark!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دیکھ تو اپنا عمل، تجھ کو نظر آتی ہے کیا \nوہ صداقت جس کی بے باکی تھی حیرت آفریں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just look at your actions, do you envisage that candor whose fearlessness was always wonderful.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیرے آبا کی نگہ بجلی تھی جس کے واسطے \nہے وہی باطل ترے کاشانہء دل میں مکیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your ancestors’ eye was the thunderbolt for falsehood; the same falsehood is now lodged in your breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غافل! اپنے آشیاں کو آ کے پھر آباد کر \nنغمہ زن ہے طور معنی پر کلیم نکتہ بیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O negligent one come and inhabit in your abode again; the discerning Kalim is singing on the spiritual Toor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "سرکشی باہر کہ کردی رام او باید شدن، \nشعلہ ساں از ہر کجا برخاستی، آنجانشیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے جس سے بغاوت کی اب پھر اس کی اطاعت کر لے، تو جس مقام سے شعلے کی طرح بلند ہوا تھا پھر اسی پر مرتکز ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You must be subservient to whom you had become rebellious: From wherever you departed like flame, turn back to it.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Poem Based On A Verse Of Abu Talib Kalim",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "48",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بگو جبریل را از من پیامی\nمرا آن پیکر نوری ندادند\nولی تاب و تب ما خاکیان بین\nبہ نوری ذوق مہجوری ندادند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبریل کو میری طرف سے پیغام دو، مجھے تم جیسا پیکر نوری تو عطا نہیں ہوا۔\nلیکن ذرا ہم خاکیوں کی چمک دمک دیکھ، (اللہ تعالے سے ) دوری کا جو سوز و لطف ہمیں ملا ہے، نوری اس سے محروم ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Go and tell this to Gabriel from me: Though not all light like him, I yet aspire to God. \nThis keeps my dust alight; but it does not keep cold creatures of light afire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

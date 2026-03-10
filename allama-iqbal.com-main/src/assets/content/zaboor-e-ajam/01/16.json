@@ -1,0 +1,136 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فصل بہار این چنین بانگ ہزار این چنین\nچہرہ گشا، غزل سرا، بادہ بیار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی فصل بہار! اور بلبلوں کے ترنم کا شور! (میرے محبوب ! ) تو بھی اپنے چہرے سے نقاب اٹھا، موسم کے مطابق (محبت کا ) گیت سنا، اور (عشق کی) شراب پلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the season of the spring and nightingales are carolling; O smile on me, and chant a song, and freely pass the wine along.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اشک چکیدہ ام ببین ہم بہ نگاہ خود نگر \nریز بہ نیستان من برق و شرار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ٹپکتے ہوئے آنسو دیکھ! پھر اپنی نگاہ کی طرف نظر کر! پھر اس نگاہ سے میرے نیستاں پر برق شرر گرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold the tears that I have shed, then on Thy beauty turn Thy head; O set my heart of reeds afire with the swift lightning of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "باد بہار را بگو پے بہ خیال من برد\nوادی و دشت را دہد نقش و نگار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی باد بہار سے کہیں کہ وہ میرے افکار کی پیروی کرے؛ وادی و دشت میں میری طرح کے نقش و نگار بنائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And bid the breeze of spring, I pray, unto my fancy take its way and paint the valley and the plain with beauteous images again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زادۂ باغ و راغ را از نفسم طراوتی\nدر چمن تو زیستم با گل و خار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آپ کے چمن میں گل و خار کے درمیان اس طرح زندگی گذاری ؛ کہ باغ و راغ کے سارے پودوں اور پھولوں کو میرے نفس سے تراوت ملی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Flower in the mead that blossometh, receive new freshness from my breath; amid Thy bower, since I was born, I lived beside the rose and thorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عالم آب و خاک را بر محک دلم بسای\nروشن و تار خویش را گیر عیار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس عالم آب و خاک کو میرے دل کی کسوٹی پر پرکھیں؛ اور یوں اس کے روشن ہوا ، تو یہ دنیا روشن ہے، اگر اس سے میرا دل تاریک ہوا، تو یہ تاریک ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On my heart’s touchstone then assay this world of water and of clay; my heart shall prove a mirror bright reflecting all Thy shade and light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دل بکسی نباختہ با دو جہان نساختہ\nمن بحضور تو رسم روز شمار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں قیامت کے روز آپ کے حضور قلب سلیم لے کر حاضر ہوں گا؛ نہ میں نے اور کو دل دیا ہو گا اور نہ دونون جہانوں کو محبوب رکھا ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou ’st never gambled with Thy heart, nor of the world had any part; when in Thy presence I would be, what day of reckoning I see!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فاختہ کہن صفیر نالۂ من شنید و گفت\nکس نسرود در چمن نغمۂ پار این چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانے گیت گانے والی ایک فاختہ نے میرا نالہ سونا ، تو کہا : کسی اور نے چمن میں پچھلے سال کا نغمہ اس طرح نہیں گایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The aged ringdove in the glade hearkened to my lament, and said, ‘No songbird ever carolled here so sweet an air of yesterday.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

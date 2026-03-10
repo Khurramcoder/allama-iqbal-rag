@@ -1,0 +1,100 @@
+{
+  "id": "27",
+  "name": "ہندی اسلام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے زندہ فقط وحدت افکار سے ملت \nوحدت ہو فنا جس سے وہ الہام بھی الحاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وحدت افکار: خیالات کی یگانگت ۔ \nالحاد: کفر، بے دینی۔\nالہام: خدا کا پیغام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oneness of thought and Faith alone can make a Society last for long: That revelation is schism indeed that fails to make this bond much strong.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وحدت کی حفاظت نہیں بے قوت بازو \nآتی نہیں کچھ کام یہاں عقل خدا داد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oneness of thought and Faith can be defended with arms robust and strong. The wit that God bestows on man does not befriend a man for long.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے مرد خدا! تجھ کو وہ قوت نہیں حاصل \nجا بیٹھ کسی غار میں اللہ کو کر یاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man of God, you lack such strength, go seek retreat in cave forlorn; arid sit there like a hermit old, worship Almighty Lord night and morn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مسکینی و محکومی و نومیدی جاوید \nجس کا یہ تصوف ہو وہ اسلام کر ایجاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوميدي جاويد: ہمیشہ کی ناامیدی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Devise such faith whose mystic thought may have mien meek and slavish trend. And side by side there may persist despair that has no bound and end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ملا کو جو ہے ہند میں سجدے کی اجازت \nناداں یہ سمجھتا ہے کہ اسلام ہے آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The leave allowed to Muslim Priest to bow and bend, 'fore God to pray makes that artless fellow think that Ind is free from foreign sway.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Indian Islam",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

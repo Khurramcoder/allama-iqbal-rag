@@ -1,0 +1,392 @@
+{
+  "id": "02",
+  "name": "مجلس خدایان اقوام قدیم",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "04",
+  "sectionName": "فلک زہرہ",
+  "name-ur": "گذشتہ اقوام کے بتوں کی مجلس۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آن ہوای تند و آن شبگون سحاب\nبرق اندر ظلمتش گم کردہ تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تند و تیز ہوا اور سیاہ تاریک بادل؛ جس کی سیاہی میں برق بھی اپنی چمک گم کر چکی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That tempestuous wind, those night black clouds – in their darkness the lightning itself had lost its lustre;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "قلزمے اندر ہوا آویختہ\nچاک دامان و گہر کم ریختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "گویا ہوا میں ایک ایسا سمندر آویزاں تھا ؛ جس کا دامن چاک چاک تھا، مگر اس میں سے موتی نہیں گرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An ocean suspended in their air, its skirt rent, few pearls pouring;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "ساحلش ناپید و موجش گرم خیز\nگرم خیز و با ہواہا کم ستیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ساحل ناپید تھا اور موج گرم خیز تھی ؛ مگر وہ ہواؤں سے بہت کم ٹکراتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its shore invisible, its waves high-surging, high-surging, powerless to battle with the winds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "رومی و من اندر آن دریای قیر\nچون خیال اندر شبستان ضمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی اور میں اس دریائے سیاہ کے اندر سے اس طرح داخل ہو گئے جیسے شبستان ضمیر میں خیال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi and I in that sea of pitch were as phantoms in the bedchamber of the mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "او سفر ہا دیدہ و من نو سفر\nدر دو چشمم ناصبور آمد نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے سفر دیکھے ہوئے تھے اور میں نو سفر تھا؛ میری دونوں آنکھوں کی نظر بے صبر ہو رہی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He much-travelled, I new to travel, my eyes impatient to gaze abroad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ہر زمان گفتم نگاہم نارساست\nآن دگر عالم نمی بینم کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بار بار کہتا، میری نگاہ وہاں تک نہیں پہنچ رہی؛ وہ نیا جہان کہاں ہے، مجھے نظر نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Continually I cried: ‘My sight is inadequate, I do not see where the other world may be!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "تا نشان کوہسار آمد پدید\nجویبار و مرغزار آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ سلسلہء کوہ اور ندیوں اور مرغزاروں کے نشانات ظاہر ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Presently a mountain-range appeared, a river, a broad meadow appeared,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "کوہ و صحرا صد بہار اندر کنار\nمشکبار آمد نسیم از کوہسار",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ و صحرا سینکڑوں بہاریں اپنے آغوش میں لیے تھے ؛ پہاڑوں سے آنے والی نسیم میں خوشبو رچی بسی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mountain and plain embracing a hundred springtides – fragrant with musk came the breeze from the hills.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "نغمہ ہای طایران ہم نفس\nچشمہ زار و سبزہ ہای نیم رس",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک طرف پرندوں کے جھنڈ نغمہ زن تھے ؛ دوسری طرف چشمے تھے اور نیا اگا ہوا سبزہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Songs of birds conspiring together, fountains, and verdant herbs half-grown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "تن ز فیض آن ہوا پایندہ تر\nجان پاک اندر بدن بینندہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس ہوا کے فیض سے تن اور مضبوط تر ہوتا تھا اور جان پاک کو نظر ملتی تھی،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body was fortified by the emanation of that air, the pure spirit in the flesh keener of vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "از سر کہ پارہ ئی کردم نظر\nخرم آن کوہ و کمر آن دشت و در",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ایک پہاڑی پر سے نظر ڈالی ؛ اس کوہ و کمر اور دشت و در کا نظارہ بہت پیارا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I fixed my gaze on the top of a mountain; a joyful the mountain, the slope, the stretching plain;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "وادی خوش بے نشیب و بے فراز\nآب خضر آرد بخاک او نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "سامنے ایک خوبصورت وادی تھی جس میں کوئی نشیب و فراز نہ تھا ؛ اس وادی کا پانی اس قدر عمدہ تھا کہ خضر (علیہ) کا آب حیات بھی اس کے سامنے سر نیاز خم کرتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A lovely valley, even, not sinking nor rising – the water of Kbizr would have need of such a land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "اندرین وادی خدایان کہن\nآن خدای مصر و این رب الیمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس وادی کے اندر پرانے باطل خدا تھے؛ کوئی مصر کا خدا تھا کوئی یمن کا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this valley were the ancient gods, there the God of Egypt, here the Lord of Yemen;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "آن ز ارباب عرب این از عراق\nاین الہ الوصل و آن رب الفراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی عرب کے خداؤں میں سے تھا کوئی عراق کا کوئی وصل کا دیوتا تھا اور کوئی فراق کا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There a Lord of the Arabs, here of Iraq, this one the god of union, that the god of separation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "این ز نسل مہر و داماد قمر\nآن بہ زوج مشتری دارد نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سورج کی نسل سے تھا اور وہ چاند کی دیوی کا شوہر تھا؛ وہ مشتری سے شادی کا خواہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Here an offspring of the sun, and the moon’s son-in-law, another looking to the consort of Jupiter;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "ان یکے در دست او تیغ دو رو\nوان دگر پیچیدہ مارے در گلو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دیوتا کے ہاتھ میں دو دھاری تلوار ہے؛ اس دیوتا نے سانپ کو اپنے گلے میں ڈالا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One holding a two-edged sword in his hand, another with a serpent wreathed about his throat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "ہر یکی ترسندہ از ذکر جمیل\nہر یکے آزردہ از ضرب خلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر یہ سب اللہ پاک کے ذکر جمیل سے خوف زدہ اور ضرب خلیل (علیہ) سے آزردہ خاطر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each one was trembling at the Beautiful Name, each wounded by the smiting of Abraham.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "گفت مردوخ آدم از یزدان گریخت\nاز کلیسا و حرم نالان گریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مردوخ نے کہا، ابن آدم کلیسا و حرم سے نالہ و فریاد کرتا ہوا آیا ہے اور اللہ تعالے سے دور ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mardukh said: ‘Man has fled from God, fled from church and sanctuary, lamenting;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "تا بیفزاید بہ ادراک و نظر\nسوی عھد رفتہ باز آید نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور دیکھو کہ اب وہ اپنی سمجھ و نظر میں اضافہ کرنے کے لیے پرانے دور کی طرف واپس آ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And to augment his vision and perception turns his gaze backwards to the past age.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "می برد لذت ز آثار کہن\nاز تجلی ہای ما دارد سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ آثار قدیمہ سے لذّّت حاصل کرتا ہے اور باطل خداؤں کی تجلّیات کی باتیں کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He takes delight in ancient relics, makes speeches about our theophanies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "روزگار افسانۂ دیگر گشاد\nمی وزد زان خاکدان باد مراد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس زمانے نے ایک اور افسانے کا باب کھولا ہے اور خاکدان (دنیا) سے ہمارے موافق ہوا آ رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time has revealed a new legend; a favourable wind is wafting from younder earth.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "بعل از فرط طرب خوش میسرود\nبر خدایان رازہای ما گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہ سن کر) بعل نے خوشی کا ایک گیت گایا اور خدایان باطل پر اپنے راز کھولے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Baal in excess of joy chanted sweetly Unveiling our secrets to the gods.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Assembly Of The Gods Of The Ancient Peoples"
+}

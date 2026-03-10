@@ -1,0 +1,85 @@
+{
+  "id": "44",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بدہ آندل کہ مستی ہای او از بادۂ خویش است\nبگیر آندل کہ از خود رفتہ و بیگانہ اندیش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ایسا دل عطا فرمائیے جو اپنی شراب سے مست ہو؛ یہ دل لے لیجیے جو از خود رفتہ ہے اور دوسروں کے افکار رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give me the heart whose rapture fine flames from a draught of its own wine, and take the heart that, self-effaced, by alien fancy is embraced.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بدہ آندل بدہ آن دل کہ گیتی را فراگیرد\nبگیر این دل بگیر این دل کہ در بند کم و بیش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ایسا دل عطا فرمائیے جو زمانے کو اپنے اندر سمو لے؛ یہ دل لے لیجیے جو نفع نقصان کے چکر میں پڑا رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give me the heart, give me the heart that of the world will have no part; I yield the heart right gladly o’er that is a slave to less and more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مرا اے صید گیر از ترکش تقدیر بیرون کش\nجگر دوزی چہ می آید از آن تیری کہ در کیش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے میرے مالک ! مجھے تقدیر کے ترکش باہر نکالیے ؛ جو تیر ترکش کے اندر ہو وہ کیسے جا کر جگر پر لگ سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O draw me forth, Thou huntsman bold, out of fate’s quiver Thou dost hold; except the shaft be put to bow, how shall it lay the quarry low?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نگردد زندگانی خستہ از کار جہان گیری\nجہانی در گرہ بستم جہانی دیگری پیش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہانگیری سے زندگی میں کمزور ی واقعہ نہیں ہوتی؛ (دیکھیئے ) ایک جہان میں نے گرہ میں باندھ رکھا ہے اور دوسرا میرے سامنے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This life is ne’er a weary thing while there be worlds for conquering: behold, one world lies bound and tied – into another world I ride.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

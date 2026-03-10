@@ -1,0 +1,34 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مہ و ستارہ کہ در راہ شوق ہم سفرند\nکرشمہ سنج و ادا فہم و صاحب نظرند\nچہ جلوہ ہاست کہ دیدند در کف خاکی\nقفا بجانب افلاک سوی ما نگرند",
+              "lang": "Original"
+            },
+            {
+              "_content": "چند ستارے جو راہ شوق میں ہمارے ہم سفر ہیں، وہ کرشمہ سنج، ادا فہم اور صاحب نظر ہیں۔\nمعلوم نہیں انہیں ہماری مشت غبار میں کیا جلوے نظر آتے ہیں ، کہ آسمان کی جانب پیٹھ کئے ہماری طرف دیکھ رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the roadway of desire, swift to gaze and to aspire, glance-assaying, clear of bead, moon and star together tread.\nSay, what visions of delight in the dust amazed their sight, that they turned them from the skies and have fixed on us their eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

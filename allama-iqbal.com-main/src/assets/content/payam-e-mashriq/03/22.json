@@ -1,0 +1,119 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حسرت جلوۂ آن ماہ تمامی دارم\nدست بر سینہ نظر بر لب بامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس ماہ کامل کے جلوے کی حسرت رکھتا ہوں؛ ہاتھ سینے پر رکھے نظر بام پر لگائے (انتظار میں ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O I long for a sight of that full moon. So I stand hand on heart, eyes fixed on a house-top.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حسن می گفت کہ شامی نپذیرد سحرم\nعشق می گفت تب و تاب دوامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "حسن کہتا تھا کہ میری سحر، شام قبول نہیں کرتی (میں لازوال ہوں) ؛ عشق کہتا تھا میری تب و تاب لا یزال (دائمی) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘My day’, said Beauty, ‘knows no evening.’ ‘I burn eternally’, said Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ بہ امروز اسیرم نہ بہ فردا نہ بہ دوش\nنہ نشیبی نہ فرازی نہ مقامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میں آج کا اسیر ہوں نہ کل کا؛ نہ میں نشیب و فراز رکھتا ہوں، نہ کوئی منزل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a prisoner of no yesterday, of no tomorrow, no today; I have no station, high or low.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بادۂ رازم و پیمانہ گساری جویم\nدر خرابات مغان گردش جامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بادہء راز ہوں اور ہم پیالہ ڈھوندتا ہوں؛ خرابات مغاں میں اپنا جام گردش میں رکھتا ہوں (تاکہ کوئی ساتھی مل جائے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the wine of mystery in search of one to drink me up. So in the Magi’s wine-house I rotate like a wine-cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بی نیازانہ ز شوریدہ نوایم مگذر\nمرغ لاہوتم و از دوست پیامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری شوریدہ نوا سے عدم توجہی اختیار نہ کر؛ مرغ لاہوت ہوں اور دوست سے پیغام لے کے آیا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not pass unconcernedly by my distracted song, for I am a celestial bird charged with a message from the Friend.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پردہ برگیرم و در پردہ سخن میگویم\nتیغ خونریزم و خود را بہ نیامی دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنے تئیں پردے میں رکھا ہوا ہے، کناتہ بات کرتا ہوں ؛ تیغ خون ریز ہوں، مگر اپنے آپ کو نیام میں رکھتا ہوں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I draw the curtain and behind it speak. O I am a blood-shedding sword, but I keep myself sheathed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "13",
+  "name": "نسیم صبح",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز روی بحر و سر کوھسار می آیم\nولیک می نشناسم کہ از کجا خیزم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tripping over mountain-tops and skipping over seas, I come no one knows from where, and bring tidings of spring’s coming,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دہم بہ غمزدہ طایر پیام فصل بہار\nتہ نشیمن او سیم یاسمن ریزم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As it were, to the autumn-weary birds, lining their nests with the silver of white lilies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ سبزہ غلتم و بر شاخ لالہ می پیچم\nکہ رنگ و بو ز مسامات او بر انگیزم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I roll on the grass and frolic with the tulip-branches, coaxing smells and colours – flowers – out of them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خمیدہ تا نشود شاخ او ز گردش من\nبہ برگ لالہ و گل نرم نرمک آویزم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gently do I stroke the petals of the tulip and the rose, lest their stems should bend under my weight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چو شاعری ز غم عشق در خروش آید\nنفس نفس بہ نوا ہای او در آمیزم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a poet breaks into song with the frenzy of love’s sorrow, with his breath I join my own.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Morning Breeze",
+  "credits": "English Translation by: M. Hadi Husain"
+}

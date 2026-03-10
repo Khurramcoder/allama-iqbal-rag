@@ -1,0 +1,35 @@
+{
+  "id": "42",
+  "name": "سیاست",
+  "name-en": "Politics",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس کھیل میں تعیین مراتب ہے ضروری \nشاطر کی عنایت سے تو فرزیں، میں پیادہ \nبیچارہ پیادہ تو ہے اک مہرئہ ناچیز \nفرزیں سے بھی پوشیدہ ہے شاطر کا ارادہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مراتب: مرتبہ کی جمع۔\nتعيين: مقرر کرنا۔ \nفرزيں: وزیر؛ شطرنج کے کھیل میں وہ مہرہ جس کا درجہ بادشاہ کے بعد ہوتا ہے۔ \nپيادہ: شطرنج کا سب سے چھوٹا مہرہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ranks must be determined for this game; let you be the firzine and I the pawn by the grace of the chess-player.\nThe pawn, indeed, is an insignificant token; even the farzine is not privy to the chess-player’s strategy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رات مچھر نے کہہ دیا مجھ سے \nماجرا اپنی ناتمامی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Last night the mosquito related to me the whole story of his failures.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مجھ کو دیتے ہیں ایک بوند لہو \nصلہ شب بھر کی تشنہ کامی کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘They give me only one drop of blood in return for the whole night’s labour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اور یہ بسوہ دار، بے زحمت \nپی گیا سب لہو اسامی کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسامي: کاشتکار۔\nبسوہ دار: مراد ہے زمیندار ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And this land owner without any effort sucked all the blood of the cultivator.’ ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

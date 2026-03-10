@@ -1,0 +1,103 @@
+{
+  "id": "15",
+  "name": "کرم کتابی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم شبی در کتب خانۂ من\nبہ پروانہ می گفت کرم کتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے سنا ایک رات میرے کتب خانہ میں ؛ کتابی کیڑا پروانے سے کہہ رہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hear that in my library one night a bookworm spoke thus to a moth:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ اوراق سینا نشیمن گرفتم\nبسی دیدم از نسخۂ فاریابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بو علی سینا کے (لکھے ہوئے) اوراق میں بھی رہا ہوں؛ فارابی کے کئی نسخے بھی دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have long lodged in Sina’s tomes and have consumed much of Farabi’s manuscript.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نفہمیدہ ام حکمت زندگی را\nہمان تیرہ روزم ز بی آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(مگر) میں زندگی کی حکمت نہیں سمجھ سکا؛ اور ابھی تک میرے دن آفتاب کے بغیر تاریک ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But I have not learned anything about life’s mystery, and am just as much in the dark about it as before.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نکو گفت پروانۂ نیم سوزی\nکہ این نکتہ را در کتابی نیابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پروانہء نیم سوز نے اسے کیا خوب جواب دیا ، یہ نکتہ تجھے کتابوں میں نہیں ملے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The half-burnt moth gave it a fine reply: ‘You will not find life’s mystery explained in books.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تپش می کند زندہ تر زندگی را\nتپش می دہد بال و پر زندگی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "تپش ، زندگی کو اور زندہ تر کرتی ہے، (اور) تپش ہی زندگی کو بال و پر عطا کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, here it is: What gives to life intensity is ardency. It lends life wings with which to fly.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Bookworm",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "78",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل من در طلسم خود اسیر است\nجہان از پرتو او تاب گیر است\nمپرس از صبح و شامم ز آفتابی\nکہ پیش روزگار من پریر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل اپنے طلسم میں اسیر ہے؛ میرا جہان اس کے پرتو سے روشنی حاصل کرتا ہے۔\nمجھ سے اس صبح و شام کی بات نہ کر؛ جو آفتاب سے پیدا ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart to its own spell is prisoner; the world is lightened by its radiance fair. \nSeek not my dawn and even in a sun that ere my rising shone a many year.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

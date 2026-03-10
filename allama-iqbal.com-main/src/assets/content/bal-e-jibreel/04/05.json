@@ -1,0 +1,131 @@
+{
+  "id": "05",
+  "name": "ہسپانیہ",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہسپانیہ تو خون مسلماں کا امیں ہے \nمانند حرم پاک ہے تو میری نظر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spain! You are the trustee of the Muslim blood: In my eyes you are sanctified like the Harem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پوشیدہ تری خاک میں سجدوں کے نشاں ہیں \nخاموش اذانیں ہیں تری باد سحر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prints of prostration lie hidden in your dust; silent calls to prayers in your morning air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "روشن تھیں ستاروں کی طرح ان کی سنانیں \nخیمے تھے کبھی جن کے ترے کوہ و کمر میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ و کمر: پہاڑ اور اس کا دامن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In your hills and vales were the tents of those; the tips of whose lances were bright like the stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پھر تیرے حسینوں کو ضرورت ہے حنا کی؟ \nباقی ہے ابھی رنگ مرے خون جگر میں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is more henna needed by your pretties? My lifeblood can give them some colour!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیونکر خس و خاشاک سے دب جائے مسلماں\nمانا، وہ تب و تاب نہیں اس کے شرر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can a Muslim be put down by the straw and grass; even if his flame has lost its heat and fire!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غرناطہ بھی دیکھا مری آنکھوں نے و لیکن \nتسکین مسافر نہ سفر میں نہ حضر میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eyes watched Granada as well, but the traveller’s content neither in journey nor in rest:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دیکھا بھی دکھایا بھی، سنایا بھی سنا بھی \nہے دل کی تسلی نہ نظر میں، نہ خبر میں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw as well as showed, I spoke as well as listened; neither seeing nor learning brings calm to the heart!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Spain",
+  "credits": "English Translation by: Naeem Siddiqui"
+}

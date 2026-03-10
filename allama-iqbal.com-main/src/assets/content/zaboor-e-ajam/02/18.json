@@ -1,0 +1,119 @@
+{
+  "id": "18",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرشتہ گرچہ برون از طلسم افلاک است\nنگاہ او بتماشای این کف خاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ فرشتہ طلسم افلاک سے باہر ہے ، تا ہم اس کی نظر اس کف خاک (اولاد آدم) کی کوشش و محبت پر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the Angel dwells beyond the talisman of the skies, yet on this hand of dust in fond affection rest his eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گمان مبر کہ بیک شیوہ عشق می بازند\nقبا بدوش گل و لالہ بی جنون چاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گماں نہ کر کہ عشق کا ایک ہی انداز ہے، گل و لالہ کی قبا بغیر جنوں کے بھی چاک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think not upon one fashion goes the game of lore forlorn; sane are the tulip and the rose and yet their robe is torn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حدیث شوق ادا میتوان بخلوت دوست\nبہ نالہ ئی کہ ز آلایش نفس پاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت دوست میں شوق کی بات اس نالہ سے ادا کی جا سکتی ہے، جو نفسانی خواہشات کی آلائش سے پاک رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tale of passion told may be where the Friend sojourneth alone, with a lament that’s free of all defiling breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "توان گرفت ز چشم ستارہ مردم را\nخرد بدست تو شاہین تند و چالاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تمہارے ہاتھ میں خرد ایک تند و چالاک شاہین ہے، جس کی مدد سے ستاروں کی آنکھ سے پتلی نکالی جا سکتی ہے (تو اپنی مضمر صلاحیتوں سے پردہ اٹھا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So from a star a man may clutch the apple of its eye; mind is a falcon at his touch eager and swift to fly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گشای چہرہ کہ آنکس کہ لن ترانی گفت\nہنوز منتظر جلوۂ کف خاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیونکہ وہ ذات جس نے لن ترانی کہا تھا ابھی تک اس بات کی منتظر ہے کہ کوئی انسان اپنے اندر اس کا جلوہ دیکھنے کی استعداد پیدا کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unveil thy face; for He who spoke, ‘Thou shalt not gaze on Me’ a hand of dust in view to take still waiteth patiently.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "درین چمن کہ سرود است و این نوا ز کجاست\nکہ غنچہ سر بگریبان و گل عرقناک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس چمن میں انسان کی عظمت کا گیت کس نے گایا اور یہ آواز کہاں سے آئی، جسے سن کر غنچہ احساس کمتری سے سر بگریباں اور پھول کا چہرہ ندامت سے عرقناک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who sang within the flowery mead? Say, whence his anthem came that lo! The rosebud hides her head, the roses blush for shame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

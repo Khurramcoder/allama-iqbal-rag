@@ -1,0 +1,34 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ ہر کس از محبت مایہ دار است\nنہ با ہر کس محبت سازگار است\nبروید لالہ با داغ جگر تاب\nدل لعل بدخشان بی شرار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر چیز محبت کی دولت سے بہراور نہیں؛ نہ ہر شخص کو محبت سازگار ہے۔ \nگل لالہ داغ جگر تاب لیے پیدا ہوتا ہے؛ مگر لعل بدخشاں کا دل شرر کے بغیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not every soul of Love hath capital, not every spirit respondeth to Love’s call.\nThe tulip flowereth with a branded breast; the ruby’s heart hath not a spark at all.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

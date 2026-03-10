@@ -1,0 +1,81 @@
+{
+  "id": "40",
+  "name": "سنیما",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہی بت فروشی، وہی بت گری ہے \nسنیما ہے یا صنعت آزری ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cinema or new fetish-fashioning, idol-making and mongering still?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ صنعت نہ تھی، شیوئہ کافری تھا \nیہ صنعت نہیں، شیوئہ ساحری ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Art, men called that olden voodoo: Art, they call this mumbo-jumbo.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ مذہب تھا اقوام عہد کہن کا \nیہ تہذیب حاضر کی سوداگری ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That-antiquity’s poor religion: This-modernity's pigeon-plucking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ دنیا کی مٹی، یہ دوزخ کی مٹی \nوہ بت خانہ خاکی، یہ خاکستری ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That-earth's soil: this-soil of Hades; dust, their temple; ashes, ours.\n(Translate by V G Kiernan)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Cinema"
+}

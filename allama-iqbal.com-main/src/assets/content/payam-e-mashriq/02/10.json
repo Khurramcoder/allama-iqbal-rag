@@ -1,0 +1,35 @@
+{
+  "id": "10",
+  "name": "زندگی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شبی زار نالید ابر بھار\nکہ این زندگی گریۂ پیھم است\nدرخشید برق سبک سیر و گفت\nخطا کردہ ئی خندۂ یکدم است\nندانم بہ گلشن کہ برد این خبر\nسخنہا میان گل و شبنم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "رات ابر بہار بہت رویا کہنے لگا کہ یہ زندگی گریہء پیہم ہے۔ \nتیز بجلی چمکی اور اس نے کہا تو غلط کہتا ہے کہ یہ تو ایک لمحہ کی ہنسی ہے۔ \nمعلوم نہیں کس نے یہ خبر باغ تک پہنچا دی، پھول اور شبنم اس پر جھگڑا کر رہے ہیں (پھول کہتا ہے زندگی ہنسی ہے، شبنم کہتی ہے نہیں یہ رونا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One night the spring cloud tearfully complained: ‘A ceaseless shedding of tears is this life.’\nBut lightning, flashing quickly, intervened: ‘O no, it is a momentary laugh.’ \nWho bore this to the garden I do not know; but there is talk between the rose and dew.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Life",
+  "credits": "English Translation by: M Hadi Hussain"
+}

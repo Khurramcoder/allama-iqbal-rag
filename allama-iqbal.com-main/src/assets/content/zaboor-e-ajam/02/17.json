@@ -1,0 +1,129 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوس ہنوز تماشا گر جہانداری است\nدگر چہ فتنہ پس پردہ ہای زنگاری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Greed is acting still his play this world to dominate; what new turbulence, I pray, behind Heaven’s veil doth wait?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمان زمان شکند آنچہ می تراشد عقل\nبیا کہ عشق مسلمان و عقل زناری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now and now Mind breaketh through what idols it designed; come, for Love believeth true and infidel is Mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "امیر قافلہ ئی سخت کوش و پیہم کوش\nکہ در قبیلۂ ما حیدری ز کراری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou’rt the Leader of the train; then labour fiercely still; in our tribe, he rule doth gain who hath a warrior’s will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو چشم بستی و گفتی کہ این جہان خوٍابست\nگشای چشم کہ این خواب خواب بیداری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast closed thine eyes, and said, ‘The world’s a dream, no less’: Ope thine eyes; this dream-abed is all of wakefulness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بخلوت انجمنی آفرین کہ فطرت عشق\nیکی شناس و تماشا پسند بسیاری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In thy solitude, alone, create a company: Love, that’s made to know the One, the many loves to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تپید یک دم و کردند زیب فتراکش\nخوشا نصیب غزالی کہ زخم او کاری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But an instant quivered be ere to the saddle bound – fortunate gazelle, to he so singled out to wound!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بباغ و راغ گہر ہای نغمہ می پاشم\nگران متاع و چہ ارزان ز کند بازاری است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the garden and the mead I sow my jeweled air; precious goods, yet cheap indeed when there are none to hear.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry."
+}

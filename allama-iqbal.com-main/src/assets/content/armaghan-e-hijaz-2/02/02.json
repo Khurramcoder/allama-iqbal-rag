@@ -1,0 +1,57 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گناہ عشق و مستی عام کردند\nدلیل پختگان را خام کردند\nبہ آہنگ حجازی می سرایم \nنخستین بادہ کاندر جام کردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق و مستی کا گناہ عام کر دیا ہے، پختہ کاروں کی دلیل خام ثابت ہوئی۔ \nمیں حجازی لے میں (اس شراب کے) گیت گا رہا ہوں جو سب سے پہلے جام میں ڈالی گئی (یعنی شراب الست)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To love’an rapture* sins gave a common sense, and made ripes’** wisdom a raws logic hence. \nI sing songs hey! To Makkan tunes gay, since wine in cup was poured on the first day. \n\n* Some people tauntingly say that the mystic’s Ishq and Masti (Love and raptures) is a sin a; they flee from responsibilities of life, which are also a must for every body. \n**Ripes: Philosophers. \n\nThe 4th line of this quatrain has been taken by Iqbal from Iraqi, whose full name is Fakhr-ud-Din Ibrahim Iraqi. He died at Damascus in 688 Hijra, where he had finally settled. He also visited Multan with a hand of Qalandars (ascetics) and accepted the initiation of Khawaja Baha-ud-Din Zakriya.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ پرسی از مقاما ت نوایم \nندیمان کم شنا سند از کجا یم\nکشادم رخت خود را اندرین دشت\nکہ اندرخلوتش تنہا سرا یم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم میری نوا کے 'مقا مات' (راگ کی اصطلاح) کے متعلق کیا پوچھتے ہو، میرے دوستوں کو بھی خبر نہیں کہ میں کہاں سے ہوں۔ \nمیں نے اپنا سامان اس ویرانے میں کھول دیا ہے، تاکہ اس کی تنہائی میں اکیلا گاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ask the spots where I played my jazz there; my friends know little I came up from where.\nI opened my baggage in desert’s heat, where I am singing in his lone retreat.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

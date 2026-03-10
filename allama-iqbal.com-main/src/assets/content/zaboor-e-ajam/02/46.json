@@ -1,0 +1,102 @@
+{
+  "id": "46",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بر دل بیتاب من ساقی می نابی زند\nکیمیا ساز است و اکسیری بسیمابی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساقی نے میرے دل بیتاب پر (عشق کی) مئے ناب ڈالی ہے، وہ کیمیا ساز ہے، اس نے سیماب پر اکسیر ڈال کے اسے زر خالص بنا دیا ہے (دل بیتاب کو سیماب کہا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Saqi, pouring his pure wine upon my restless heart converts this quicksilver of mine to gold, by magic art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من ندانم نور یا نار است اندر سینہ ام\nاین قدر دانم بیاض او بہ مہتابی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا کہ میرے سینے کے اندر نور ہے یا نار ، البتہ یہ جانتا ہوں کہ اس کی روشنی میں چاندنی ملی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know if it be light within my breast, or flame; I only know its radiance white shines with a moonlike gleam.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بر دل من فطرت خاموش می آرد ہجوم\nساز از ذوق نوا خود را بہ مضرابی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فطرت خاموش آپ میرے دل پر یورش کرتی ہے، گویا نوا کے شوق سے ساز خود مضراب سے ٹکراتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature, all hushed, doth suddenly my quiet heart assail; the instrument in ecstasy playeth its own sweet scale.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غم مخور نادان کہ گردون در بیابان کم آب\nچشمہ ہا دارد کہ شبخونی بہ سیلابی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے خبر ! غم نہ کھا ، خشک بیاباں میں بھی فطرت نے ایسے چشمے رکھے ہوئے ہیں جو زور میں سیلاب کو شرما دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grieve not, thou fool; the starry skies within this desert waste have many founts, that secret rise and to the torrent haste.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ایکہ نوشم خوردہ ئی از تیزی نیشم مرنج\nنیش ھم باید کہ آدم را رگ خوابی زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جس نے میری شیریں باتوں سے لطف اٹھایا ہے، تو میری تلخ باتوں سے ناراض نہ ہو۔ نیشتر بھی ضروری ہے تا کہ آدم کی نیند کھول کر اسے بیدار کیا جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O thou who didst my sweet wine take, grieve not at my sharp sting; it needs my sting, that I may wake man from his slumbering.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

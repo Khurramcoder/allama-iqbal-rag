@@ -1,0 +1,479 @@
+{
+  "id": "06",
+  "name": "در بیان اینکہ چون خودی",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "در بیان اینکہ چون خودی از عشق و محبت محکم میگردد، قوای ظاہرہ و مخفیہ نظام عالم را مسخر می سازد",
+      "name-en": "The Self Is Strengthened By Love It Gains Dominion Over The Outward And Inward Forces Of The Universe",
+      "name-ur": "اس بیان میں کہ جب خودی عشق و محبت سے مستحکم ہو جاتی ہے تو وہ نظام عالم کی ظاہری اور مخفی قوّتوں کو مسخر کر لیتی ہے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از محبت چون خودی محکم شود\nقوتش فرماندہ عالم شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب خودی عشق الہی سے مستحکم ہو جاتی ہے؛ تو اس کی قوّت زمانے کی فرمانروا بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the self is made strong by Love; its power rules the whole world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیر گردون کز کواکب نقش بست\nغنچہ ہا از شاخسار او شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بوڑھا آسمان جس نے ستاروں سے آرائش کی ہے، اس کی شاخوں کے غنچے (ستارے) ٹوٹ گرتے ہیں۔ (عام طور سے خیال کیا جاتا ہے کہ انسانوں کی قسمت ستاروں کی گردش سے وابستہ ہے۔ اقبال فرماتے ہیں کہ جو شخص اپنی خودی مستحکم کر لیتا ہے وہ خود تقدیر کا فرمانروا ہو جاتا ہے اور ستارے اس کے سامنے بے معنی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Heavenly Sage who adorned the sky with stars; plucked these buds from the bough of the self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پنجہ ی او پنجہ ے حق می شود\nماہ از انگشت او شق می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ہاتھ اللہ تعالے کا ہاتھ ہو جاتا ہے، اس (صلعم) کی انگلی کےاشارے سے چاند دو ٹکڑے ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its hand becomes God's hand, the moon is split by its fingers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در خصومات جہان گردد حکم\nتابع فرمان او دارا و جم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا شخص دنیا کے معاملات کے فیصلے کرتا ہے؛ دارا و جم جیسے پادشاہ بھی اس کے حکم سے تابع فرمان ہوتے ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the arbitrator in all the quarrels of the world; its command is obeyed by Darius and Jamshid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "با تو می گویم حدیث بوعلی\nدر سواد ہند نام او جلے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تمہیں بو علی قلندر (رحمتہ اللہ) کا واقعہ سناتا ہوں؛ اطراف ہند میں ان کا نام مشہور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will tell thee a story of Bu Ali, whose name is renowned in India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آن نوا پیرای گلزار کہن\nگفت با ما از گل رعنا سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "'باغ کہن ' کے اس ترانے سنانے والے نے ہم سے 'گل رعنا' کی بات کہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Him who sang of the ancient rose-garden and discoursed to us about the lovely rose:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خطہ ی این جنت آتش نژاد\nاز ہوای دامنش مینو سواد",
+              "lang": "Original"
+            },
+            {
+              "_content": "(جنت کا یہ خطہ) جو بت پرستی کے باعث آتش نہاد بنا ہوا تھا ؛ اس کے دامن کی ہوا سے واقعی بہشت کا ٹکڑا بن گیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The air of his fluttering skirt; made a Paradise of this fire-born country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کوچک ابدالش سوی بازار رفت\nاز شراب بوعلی سرشار رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا مرید بازار کی طرف گیا ، وہ حضرت بو علی کی شراب (معرفت) سے سرمست تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His young disciple went one day to the bazaar – The wine of Bu Ali's discourse had turned his head.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "عامل آن شھر می آمد سوار\nہمرکاب او غلام و چوبدار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس شہر کے حاکم کی سواری بھی ادھر سے گزری؛ حاکم کے ساتھ کئی غلام اور چوبدار تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The governor of the city was coming along on horseback; his servant and staff-bearer rode beside him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "پیشرو زد بانگ اے ناہوشمند\nبر جلو داران عامل رہ مبند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان میں سے ایک نے آواز دی کہ اے بے سمجھ! حاکم کے ہمراہیوں کا راستہ نہ روک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The forerunner shouted, ‘O senseless one! Do not get in the way of the governor's escort!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "رفت آن درویش سر افکندہ پیش\nغوطہ زن اندر یم افکار خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر وہ درویش سر جھکائے اپنے افکار میں مست اسی طرح چلتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the dervish walked on with drooping head, sunk in the sea of his own thoughts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چوبدار از جام استکبار مست\nبر سر درویش چوب خود شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوسری طرف سے چوبدار اپنے تکبر میں مست تھا ؛ اس نے درویش کے سر پر لاٹھی دے ماری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The staff-bearer, drunken with pride, broke his staff on the head of the dervish;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "از رہ عامل فقیر آزردہ رفت\nدلگران و ناخوش و افسردہ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیر حکمران کے ہاتھوں آزردہ خاطر ، رنجیدہ ، ناخوش اور افسردہ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who stepped painfully out of the governor's way. Sad and sorry, with a heavy heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "در حضور بوعلے فریاد کرد\nاشک از زندان چشم آزاد کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے حضرت بو علی کے سامنے فریاد کی اور آنکھوں سے آنسو بہائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He came to Bu Ali and complained and released the tears from his eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "صورت برقی کہ بر کہسار ریخت\nشیخ سیل آتش از گفتار ریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فریاد سن کر شیخ پہاڑ پر گرنے والی بجلی کی مانند اپنی گفتگو سے شعلہ بار ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like lightning that falls on mountains, the Shaykh poured forth a fiery torrent of speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "از رگ جاں آتش دیگر گشود\nبا دبیر خویش ارشادی نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساتھ ہی اس کے اندر سے ایک اور طرح کی آگ نے سر اٹھایا؛ اپنے منشی کو بلا کر فرمایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He let loose from his soul a strange fire; he gave an order to his secretary:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "خامہ را بر گیر و فرمانی نویس\nاز فقیری سوی سلطانی نویس",
+              "lang": "Original"
+            },
+            {
+              "_content": "قلم اٹھا اور فقیر سے پادشاہ کی طرف فرمان لکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take thy pen and write a letter from a dervish to a sultan!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بندہ ام را عاملت بر سر زدہ است\nبر متاع جان خود اخگر زدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے درویش کو تیرے عامل نے سر پر لاٹھی ماری ہے؛ گویا اس نے ایسا کام کیا ہے جو اس کی متاع جان کو جلا دے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Say, 'Thy governor has broken my servant's head; he has cast burning coals on his own life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "باز گیر این عامل بد گوھری\nورنہ بخشم ملک تو با دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بد نہاد عامل کو یہاں سے واپس بلا؛ ورنہ میں پیری بادشاہت کسی اور کو دے دوں گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arrest this wicked governor, or else I will bestow thy kingdom on another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "نامہ ی آن بندہ ی حق دستگاہ\nلرزہ ہا انداخت در اندام شاہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس خدا رسیدہ بندے کے مکتوب نے بادشاہ کے بدن پر کپکپی طاری کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The letter of the saint who had access to God; caused the monarch to tremble in every limb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "پیکرش سرمایہ ی آلام گشت\nزرد مثل آفتاب شام گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے رگ و پے میں رنج و غم کا طوفان امڈ آیا؛ اور اس کا چہرہ آفتاب شام کی طرح زرد پڑ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His body was filled with aches, he grew as pale as the evening sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "بہر عامل حلقہ ی زنجیر جست\nاز قلندر عفو این تقصیر جست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے حاکم کی گرفتاری کا حکم جاری کیا اور قلندر سے اپنی غلطی کی معافی کا خواستگار ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He sought out a handcuff for the governor and entreated Bu Ali to pardon this offence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "خسرو شیرین زبان، رنگین بیان\nنغمہ ہایش از ضمیر\"کن فکان\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "امیر خسرو جو شیریں زبان اور رنگین بیان تھے؛ جن کے نغمے گویا ضمیر کائنات کے اندر سے پھوٹتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Khusrau, the sweet-voiced eloquent poet, whose harmonies flow from the mind;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "فطرتش روشن مثال ماہتاب\nگشت از بہر سفارت انتخاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جن کی فطرت چاندنی کی مانند روشن تھی ، انہیں اپنا سفیر بنا کر بھیجا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And whose genius hath the soft brilliance of moonlight; was chosen to be the king’s ambassador.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "چنگ را پیش قلندر چون نواخت\nاز نوائی شیشہ ی جانش گداخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب امیرخسرو نے قلندر کے سامنے ساز سے نغمہ گایا ؛ تو ان کی آواز نے درویش کے شیشہء جاں کو پگھلا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When he entered Bu Ali’s presence and played his lute, kis song melted the faqir’s soul like glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "شوکتی کو پختہ چون کہسار بود\nقیمت یک نغمہ ی گفتار بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سطوت جو پہاڑ کی مانند مستحکم تھی؛ ایک نغمہ نے اسے خرید لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One strain of Poesy bought the grace of a kingdom that was firm as a mountain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "نیشتر بر قلب درویشان مزن\nخویش را در آتش سوزان مزن",
+              "lang": "Original"
+            },
+            {
+              "_content": "درویشوں کے دل کو زخمی نہ کر؛ ایسا کرنا اپنے آپ کو جلتی ہوئی آگ میں ڈالنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not wound the heart of dervishes; do not throw thyself into burning fire!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

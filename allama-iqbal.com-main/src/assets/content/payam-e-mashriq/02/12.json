@@ -1,0 +1,154 @@
+{
+  "id": "12",
+  "name": "سرود انجم",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہستی ما نظام ما\nمستی ما خرام ما\nگردش بی مقام ما\nزندگے دوام ما\nدور فلک بکام ما می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری ہستی، ہمارا نظام؛ ہماری مستی، ہمارا خرام ؛ ہماری گردش بے مقام، ہ ماری زندگیء دوام۔\nہماری خاطر دور فلک ، (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Order is our very being; rapture for us is our moving our revolving with no stopping is for us life everlasting. \nEach of us is Fortune’s darling. So we watch things and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "06",
+          "Text": [
+            {
+              "_content": "جلوہ گہ شہود را\nبتکدۂ نمود را\nرزم نبود و بود را\nکشکمش وجود را\nعالم دیر و زود را می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوہ گہء شہود (دنیا) کو؛ اس بتکدہ ء نمود (دنیا) کو؛ رزم نبود و بود کو؛ کشمکش وجود کو۔ \nعالم دیر و زود کو، دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of appearances, temple-house of images, battle ground for all that is – all each other’s enemies.\nAnd Time’s odd priorities: We watch all this and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گرمے کار زار ہا\nخامی پختہ کار ہا\nتاج و سریر و دار ہا\nخواری شھریار ہا\nبازی روزگارہا می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کارزار کی گرمیاں ؛ پختہ کاروں کی کامیابیاں ؛ تاج و تخت و پھانسیاں؛ شہریاروں کی خواریاں۔\nزمانے کے کھیل، (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nations’ armed hostilities, utter follies of the wise; crowns and thrones and stakes, the rise and fall of ruling dynasties.\nTime’s fantastic gimmickries – we watch all this and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "Text": [
+            {
+              "_content": "خواجہ ز سروری گذشت\nبندہ ز چاکری گذشت\nزاری و قیصری گذشت\nدور سکندری گذشت\nشیوۂ بتگری گذشت می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خواجہ کی خواجگی گئی؛ بندے کی چاکری گئی؛ زاری و قیصری گئی؛ شان سکندری گئی۔ \nرسم بت گری گئی، (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Masters are no longer masters; slaves no longer are in halters; gone are all the Gzars and Kaisers, all the conquering Alexanders.\nGone too are the idol-makers. We watch all this and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "خاک خموش و در خروش\nسست نہاد و سخت کوش\nگاہ بہ بزم نا و نوش\nگاہ جنازہ ئی بدوش\nمیر جھان و سفتہ گوش می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان خاموش بھی اور (جوش و ) خروش میں بھی، کمزور بدن مگر سخت محنتی، کبھی عیش و عشرت میں ، کبھی کندھوں پر جنازہ اٹھائے ۔ \nحکمران و غلام (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silent and uproarious, lazy and industrious, sometimes quite hilarious, and sometimes lugubrious.\nMan, earth-lord, is slave to us. We watch his ways and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "Text": [
+            {
+              "_content": "تو بہ طلسم چون و چند\nعقل تو در گشاد و بند\nمثل غزالہ در کمند\nزار و زبون و دردمند\nما بہ نشیمن بلند می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو 'کیسے' اور 'کتنے' کے جادو میں گرفتار ہے؛ تیری زار و زبون و دردمند عقل؛ کمند میں گرفتار ہرن کی مانند حالات کے بند کھولنے میں لگی رہتی ہے۔\nاپنے ہی نشیمن بلند سے، (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You caught in the magic circle of a world that is a riddle, willing victim of a double intellect, itself a puzzle.\nWe high up, free from all trouble: We watch all this and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پردہ چرا ظہور چیست؟\nاصل ظلام و نور چیست؟\nچشم و دل و شعور چیست؟\nفطرت ناصبور چیست؟\nاین ھمہ نزد و دور چیست می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(حقیقت کا) پردہ ہے کیوں؟ ظہور کیا؟ اصل سیاہ و نور ہے کیا؟ چشم و دل و شعور ہے کیا؟ (انسان کی) فطرت نا صبور ہے کیا؟ \nیہ سب نزد و دور ہے کیا؟ دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why this veiled and why that veilless? What is light and what is darkness? Eye and heart and conscious process? Why is human nature restless? \nWhat is distance and what nearness? We think all this and move on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "Text": [
+            {
+              "_content": "بیش تو نزد ما کمی\nسال تو پیش ما دمے\nاے بکنار تو یمی\nساختہ ئی بہ شبنمی\nما بہ تلاش عالمی می نگریم و میرویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسے تو زیادہ مدت سمجھتا ہے، وہ ہمارے ہاں کم ہے؛ تیرے سال ہمارے لیے ایک لمحہ ہیں؛ تیرے پہلو میں (دل کا) سمندر موجود ہے؛ مگر تو شبنم (دنیا ) پر راضی ہو گیا ہے۔\nہم (ایک اور) عالم کی تلاش میں (سب کچھ) دیکھتے چلے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is much for you for us is, little: for us your year passes, in an instant. O you with seas in your bosom, why do you seize dewdrops? \nConquer these vast spaces, where to new worlds we move on.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Song Of The Stars",
+  "credits": "English Translation by: M Hadi Hussain"
+}

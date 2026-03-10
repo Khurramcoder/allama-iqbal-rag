@@ -1,0 +1,146 @@
+{
+  "id": "55",
+  "name": "پھولوں کی شہزادی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کلی سے کہہ رہی تھی ایک دن شبنم گلستاں میں \nرہی میں ایک مدت غنچہ ہائے باغ رضواں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day the dew in the garden was saying to the flower bud: ‘I lived for a long time among the flower buds of Paradise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تمھارے گلستاں کی کیفیت سرشار ہے ایسی \nنگہ فردوس در دامن ہے میری چشم حیراں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The condition of your garden is so elegant; the Paradise’s sight is concealed in my bewildered eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سنا ہے کوئی شہزادی ہے حاکم اس گلستاں کی \nکہ جس کے نقش پا سے پھول ہوں پیدا بیاباں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have heard that some princess is the ruler of this garden with whose foot-prints the wilderness would produce flowers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کبھی ساتھ اپنے اس کے آستاں تک مجھ کو تو لے چل \nچھپا کر اپنے دامن میں برنگ موج بو لے چل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some day take me with you up to her palace; take me concealed in your skirt like fragrance.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کلی بولی، سریر آرا ہماری ہے وہ شہزادی \nدرخشاں جس کی ٹھوکر سے ہوں پتھر بھی نگیں بن کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flower bud said: ‘On the throne is that princess of ours by whose kick even stones become resplendent jewels.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مگر فطرت تری افتندہ اور بیگم کی شان اونچی \nنہیں ممکن کہ تو پہنچے ہماری ہم نشیں بن کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But your nature is bright and princess’ rank is elegant. It is not possible that you reach her in company with me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پہنچ سکتی ہے تو لیکن ہماری شاہزادی تک \nکسی دکھ درد کے مارے کا اشک آتشیں بن کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However you can reach up to our princess by becoming the hot tear of some afflicted person.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نظر اس کی پیام عید ہے اہل محرم کو \nبنا دیتی ہے گوہر غم زدوں کے اشک پیہم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her glance is the message of ‘Eid to the Muharram’s people; turns the continuous tears of afflicted people into pearls.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Princess Of Flowers",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

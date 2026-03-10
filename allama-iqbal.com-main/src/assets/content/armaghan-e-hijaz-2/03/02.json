@@ -1,0 +1,81 @@
+{
+  "id": "02",
+  "name": "خودی",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کسی کو بر خودے زد لاالہ را\nز خاک مردہ رویاند نگہ را\nمدہ از دست دامان چنین مرد\nکہ دیدم در کمندش مہر و مہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنی خودی پر لاالہ کی ضرب لگائی؛ اس نے اپنی مردہ خاک (بدن) سے نگاہ پیدا کر لی۔\n ایسے شخص کا دامن نہ چھوڑ ؛ میں نے مہر و مہ کو اس کی کمند (تصرف) میں دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who makes Ego firm by ‘Lailah’s tie; from lifeless sands can make a seeing eye.\nLose not ever that man’s greatest boon; in whose reach I see the Sun and Moon.*\n* Iqbal has been looking for a fit man always and here he pinpoints the qualities of that great man.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو اے نادان دل آگاہ دریاب\nبخود مثل نیاکان راہ دریاب\nچسان مومن کند پوشیدہ را فاش\nز لا موجود الا اللہ دریاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نادان! تو دل آگاہ حاصل کر؛ (اور) اپنے بزرگوں کی مانند اپنے آپ تک رسائی حاصل کر۔\nمومن پوشیدہ رازوں کو کس طرح فاش کرتا ہے؛ یہ نکتہ لا موجود الا اللہ سے سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O ignorant man get a knowing heart; in wake of thy elders learn thy own part.\nFlow can a ‘momin’ tell His Secret act; from ‘La’ got the Allah’s positive fact’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل تو داغ پنھانی ندارد\nتب و تاب مسلمانی ندارد\nخیابان خودی را دادہ ئی آب\nاز آن دریا کہ طوفانی ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا دل (محبت کا ) داغ پنہاں نہیں رکھتا ؛ یہ مسلمان (کے دل) کی چمک اور حرارت سے خالی ہے۔\n(کیونکہ) تو نے خودی کے خیابان کو اس دریا سے سیراب کیا ہے، جو بغیر طوفان کے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy heart keeps not that hidden scar. A Muslim’s shine it lacks so far.\nYou always water the Soil of Ego; from a lake which knows no furious flow.*\n(Literal: From a lake which knows no flood and great wave which sweeps every thing.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Self",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

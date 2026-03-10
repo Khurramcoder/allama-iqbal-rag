@@ -1,0 +1,83 @@
+{
+  "id": "02",
+  "name": "زمانہ حاضر کا انسان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق ناپید و خرد میگزدش صورت مار\nعقل کو تابع فرمان نظر کر نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میگزدش صورت مار: سانپ کی طرح کاٹنے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In heart of man of present age, no Love of God is found at all; wit stings him like a furious snake, his glance cannot his mind enthrall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ڈھونڈنے والا ستاروں کی گزرگاہوں کا\nاپنے افکار کی دنیا میں سفر کر نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though man aspires to find the track of stars that roam in sky and tread Alas! Man has completely failed to map the world of mind or head.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اپنی حکمت کے خم و پیچ میں الجھا ایسا\nآج تک فیصلہ نفع و ضرر کر نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In intricacies of his thought he is embroiled; is clear and plain, so he is not as yet aware of what is loss and what is gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جس نے سورج کی شعاعوں کو گرفتار کیا\nزندگی کی شب تاریک سحر کر نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man has harnessed rays of the Sun, much gain from them he has drawn, but he can not transform the dark and dismal night of life to dawn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Man Of Present Age",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

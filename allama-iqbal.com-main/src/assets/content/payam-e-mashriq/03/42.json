@@ -1,0 +1,136 @@
+{
+  "id": "42",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگرچہ زیب سرش افسر و کلاہی نیست\nگدای کوی تو کمتر ز پادشاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اس کا سر تاج و کلاہ سے مزیّن نہیں ، مگر تیری گلی کا گدا کسی پادشاہ سے کم نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although he does not wear a crown or diadem, the beggar in Your street is no less than a king.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بخواب رفتہ جوانان و مردہ دل پیران\nنصیب سینۂ کس آہ صبحگاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوان (غفلت کی) نیند میں پڑے ہیں اور بوڑھے مردہ دل ہیں ، صبح کی آہ و زاری کسی کے نصیب میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The young are sleeping, while the old are dead of heart. There is nobody in whose lot are morning sighs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ این بہانہ بدشت طلب ز پا منشین\nکہ در زمانۂ ما آشنای راہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بہانہ کر کے دشت طلب میں بیٹھ نہ جا، کہ ہمارے زمانے میں کوئی ایسا شخص نہیں جو آشنائے راہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not sit down on seekings road on this pretext that in our age there is no one who knows the path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز وقت خویش چہ غافل نشستہ ئی دریاب\nزمانہ ئی کہ حسابش ز سال و ماہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنے وقت کے بارے میں کیوں غافل بیٹھا ہوا ہے ، اٹھ اور ایسا زماں پا لے جس کا حساب مہ و سال سے بے نیاز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How unconcerned you are about your time! Learn of a time incalculable in terms of months and years.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "درین رباط کہن چشم عافیت داری\nترا بہ کشمکش زندگی نگاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پرانی سرائے (دنیا) میں عافیت کی آرزو رکھتا ہے، کیا زندگی کی کشمکش پر تیری نگاہ نہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this old inn you look for peace! It seems that you do not know of the struggle for existence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گناہ ما چہ نویسند کاتبان عمل\nنصیب ما ز جہان تو جز نگاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کراما کاتبین ہمارا گناہ کیا لکھیں گے، آپ کے جہاں سے ہمارے نصیب سوائے نگاہ کے اور کچھ نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can the angel-scribes record about our sins? For our lot in Your world was nothing but spectator-ship.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیا کہ دامن اقبال را بدست آریم\nکہ او ز خرقہ فروشان خانقاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ ہم اقبال کا دامن تھام لیں ، کیونکہ وہ خانقاہ کے خرقہ فروشوں سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come; let us catch hold of the skirt of Iqbal’s robe, for he is not one of those men who go about in patched-up dresses at saints’ shrines.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

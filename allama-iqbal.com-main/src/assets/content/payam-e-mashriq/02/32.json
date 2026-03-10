@@ -1,0 +1,98 @@
+{
+  "id": "32",
+  "name": "زندگی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پرسیدم از بلند نگاہی حیات چیست\nگفتا مئی کہ تلخ تر او نکوتر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked a lofty sage what Life might be. ‘The wine whose bitterest cup is best’, said he.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفتم کہ کرمک است و ز کل سر برون زند\nگفتا کہ شعلہ زاد مثال سمندر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said I, ‘A vile worm rearing head from mire.’ Said he, ‘A salamander born of fire.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گفتم کہ شر بفطرت خامش نھادہ اند\nگفتا کہ خیر او نشناسی ہمین شر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Its nature steeped in evil’, I pursued. Said he, ’Tis just this evil makes it good.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفتم کہ شوق سیر نبردش بمنزلی\nگفتا کہ منزلش بہمین شوق مضمر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘It winds not to the goal, though it aspire.’ ‘The goal’, said he, ‘lies hid in that desire.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفتم کہ خاکی است و بخاکش ہمی دہند\nگفتا چو دانہ خاک شکافد گل تر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said I, ‘Of earth it comes, to earth it goes.’ Said he, ‘The seed bursts earth, and is the rose.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Life",
+  "credits": "English Translation by: R.A. Nicholson"
+}

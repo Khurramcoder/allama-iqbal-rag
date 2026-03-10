@@ -1,0 +1,66 @@
+{
+  "id": "31",
+  "name": "وحی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقل بے مایہ امامت کی سزاوار نہیں \nراہبر ہو ظن و تخمیں تو زبوں کار حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poor intellect can't be fit to be your guide in life if led by guess and doubt disruption may get rife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فکر بے نور ترا، جذب عمل بے بنیاد \nسخت مشکل ہے کہ روشن ہو شب تار حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your zeal infirm and weak, unlit your thoughts by light it is too hard to illume your life's dark dismal night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خوب و ناخوب عمل کی ہو گرہ وا کیونکر \nگر حیات آپ نہ ہو شارح اسرار حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Twixt actions good and bad it's hard to draw a line, unless life undertakes such subtle points to define.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Revelation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ میں اعجمی نہ ہندی، نہ عراقی و حجازی \nکہ خودی سے میں نے سیکھی دوجہاں سے بے نیازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I don't belong to Fars or Hind, to Iraq or Hejaz don't trace my breed. The Self to me this much has taught spurn both the worlds and pay no heed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو مری نظر میں کافر، میں تری نظر میں کافر \nترا دیں نفس شماری، مرا دیں نفس گدازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نفس شماري: سانس گننا۔ \nنفس گدازي: سانس کو گرم کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a heathen in my view, the same to you may seem my creed: To count the breath, your Faith and goal, while melting breath my job and deed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو بدل گیا تو بہتر کہ بدل گئی شریعت \nکہ موافق تدرواں نہیں دین شاہبازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تدرواں: چکوروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your change, no doubt, is good and well, and so your change of Moslem Creed. This Faith is meant for men, like hawks, it suits not pheasants' quivering breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ترے دشت و در میں مجھ کو وہ جنوں نظر نہ آیا \nکہ سکھا سکے خرد کو رہ و رسم کارسازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہ و رسم کارسازي: کام سنوارنے والے طریقے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such passionate Love of God and craze, in wilds and wastes has not caught my sight; whose magic force and rapture great, the faults of reason may set right.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ جدا رہے نوا گر تب و تاب زندگی سے \nکہ ہلاکی امم ہے یہ طریق نے نوازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوا گر: گانے والا۔ \nہلاکي امم: قوموں کی حلاکت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A poet must ne'er keep aloof from noisy fretful stream of life; the bard, who shuns the facts and truths, can't make the nation face its strife.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

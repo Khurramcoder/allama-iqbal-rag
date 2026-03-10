@@ -1,0 +1,1189 @@
+{
+  "id": "34",
+  "name": "تصویر درد",
+  "name-en": "Picture of Pain",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہیں منت کش تاب شنیدن داستاں میری\nخموشی گفتگو ہے بے زبانی ہے زباں میری",
+              "lang": "Original"
+            },
+            {
+              "_content": "منت کش تاب شنيدن: سننے کی طاقت کا احسان اٹھانے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My story is not indebted to the patience of being heard. My silence is my talk, my speechlessness is my speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ دستور زباں بندی ہے کیسا تیری محفل میں\nیہاں تو بات کرنے کو ترستی ہے زباں میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does this custom of silencing exist in your assembly? My tongue is tantalized to talk in this assembly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اٹھائے کچھ ورق لالے نے، کچھ نرگس نے، کچھ گل نے\nچمن میں ہر طرف بکھری ہوئی ہے داستاں میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some leaves were picked up by the tulip, some by the narcissus, some by the rose. My story is scattered around everywhere in the garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اڑالی قمریوں نے، طوطیوں نے، عندلبوں نے\nچمن والوں نے مل کر لوٹ لی طرز فغاں میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The turtle-doves, parrots, and nightingales pilfered away; the garden's denizens jointly robbed away my plaintive way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ٹپک اے شمع آنسو بن کے پروانے کی آنکھوں سے\nسراپا درد ہوں حسرت بھری ہے داستاں میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Candle! Drip like tears from the eye of the moth; head to foot pathos I am, full of longing is my story.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "الہی! پھر مزا کیا ہے یہاں دنیا میں رہنے کا\nحیات جاوداں میری، نہ مرگ ناگہاں میری",
+              "lang": "Original"
+            },
+            {
+              "_content": "حيات جاوداں: ہمیشہ کی زندگی۔ \nمرگ ناگہاں: اچانک موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God! What is the pleasure of living so in this world? Neither the eternal life, nor the sudden death is mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مرا رونا نہیں، رونا ہے یہ سارے گلستاں کا\nوہ گل ہوں میں، خزاں ہر گل کی ہے گویا خزاں میری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is not only my wailing, but is that of the entire garden; I am a rose, to me every rose' autumn is my autumn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "دریں حسرت سرا عمریست افسون جرس دارم\nز فیض دل تپیدنہا خروش بے نفس دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری ذات تو ایک انتباہ کرنے والی گھنٹی کی طرح سے ہے اس لیے کہ جب تڑپتا ہوں تو اس کا اظہار بھی پورے جوش و خروش کے ساتھ اپنے اشعار میں کرتا ہوں، لیکن افسوس یہ ہے کہ انتباہ کے باوجود میری آہ و زاری پر کوئی کان نہیں دھرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘In this grief-stricken land, in life-long spell of the caravan's bell I am. From the palpitating heart's bounties the silent clamor I have.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ریاض دہر میں نا آشنائے بزم عشرت ہوں\nخوشی روتی ہے جس کو، میں وہ محروم مسرت ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world's garden unaware of pleasant company I am. Whom happiness still mourns, that hapless person I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مری بگڑی ہوئی تقدیر کو روتی ہے گویائی\nمیں حرف زیر لب، شرمندہء گوش سماعت ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرف زير لب: جو بات اتنی آہستہ کہی جائے کہ سنائی نہ دے۔ \nشرمندہء گوش سماعت: جو بات کان تک نہ پہنچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speech itself sheds tears at my ill luck; silent word, longing for an eager ear I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پریشاں ہوں میں مشت خاک، لیکن کچھ نہیں کھلتا\nسکندر ہوں کہ آئینہ ہوں یا گرد کدورت ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a mere handful of scattered dust but I do not know whether Alexander or a mirror or just dust and scum I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یہ سب کچھ ہے مگر ہستی مری مقصد ہے قدرت کا\nسراپا نور ہو جس کی حقیقت، میں وہ ظلمت ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Despite all this my existence is the Divine Purpose; embodiment of light is whose reality, that darkness I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خزینہ ہوں، چھپایا مجھ کو مشت خاک صحرا نے\nکسی کیا خبر ہے میں کہاں ہوں کس کی دولت ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a treasure, concealed in the wilderness dust; no one knows where I am, or whose wealth I am?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "نظر میری نہیں ممنون سیر عرصہء ہستی\nمیں وہ چھوٹی سی دنیا ہوں کہ آپ اپنی ولایت ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ممنون: احسان مند۔ \nسير عرصہء ہستي: زندگی کے میدان کی سیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My insight is not obligated to the stroll of existence that small world I am whose sovereign myself I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "نہ صہاہوں نہ ساقی ہوں نہ مستی ہوں نہ پیمانہ\nمیں اس میخا نہء ہستی میں ہر شے کی حقیقت ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "صہبا: شراب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither wine, nor cup-bearer, nor ecstasy, nor goblet I am; but the truth of everything in the existence' tavern I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "مجھے راز دو عالم دل کا آئینہ دکھاتا ہے\nوہی کہتا ہوں جو کچھ سامنے آنکھوں کے آتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart’s mirror shows me both worlds’ secrets; I relate exactly what I witness before my eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "عطا ایسا بیاں مجھ کو ہوا رنگیں بیانوں میں\nکہ بام عرش کے طائر ہیں میرے ہم زبانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am bestowed with such speech among the elegant speakers that the birds of the Arsh’s roof are concordant with me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "اثر یہ بھی ہے اک میرے جنون فتنہ ساماں کا\nمرا آ ئینہ دل ہے قضا کے راز دانوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنون فتنہ ساماں: وہ دیوانگی جو فتنے اٹھائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This also is an effect of my tumultuous love that my heart’s mirrors are Destiny’s confidante.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "رلاتا ہے ترا نظارہ اے ہندوستاں! مجھ کو\nکہ عبرت خیز ہے تیرا فسانہ سب فسانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your spectacle makes me shed tears, O India! Your tales are admonitory among all the tales.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "دیا رونا مجھے ایسا کہ سب کچھ دے دیا گویا\nلکھا کلک ازل نے مجھ کو تیرے نوحہ خوانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Conferring the wailing on me is like conferring everything; since eternity Destiny’s pen has put me where all your mourners are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "نشان برگ گل تک بھی نہ چھوڑ اس باغ میں گلچیں\nتری قسمت سے رزم آرائیاں ہیں باغبانوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "رزم آرائياں: لڑائی کے لیے صفیں باندھنا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O gardener do not leave even the rose-petals’ trace in this garden! By your misfortune war preparations are afoot among the gardeners.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "چھپاکر آستیں میں بجلیاں رکھی ہیں گردوں نے\nعنادل باغ کے غافل نہ بیٹھیں آشیانوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "عنادل:عندلیب کی جمع، بلبلیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky has kept thunderbolts concealed up its sleeve; garden’s nightingales should not slumber in their nests.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "سن اے غافل صدا میری، یہ ایسی چیز ہے جس کو\nوظیفہ جان کر پڑھتے ہیں طائر بوستانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Listen to my call, O imprudent one! This is something which the birds in gardens are reciting like the daily prayers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "وطن کی فکر کر ناداں مصیبت آنے والی ہے\nتری بربادیوں کے مشورے ہیں آسمانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think of the homeland, O ignorant one! Hard times are coming; conspiracies for your destruction are afoot in the heavens.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ذرا دیکھ اس کو جو کچھ ہو رہا ہے، ہونے والا ہے\nدھرا کیا ہے بھلا عہد کہن کی داستانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pay attention to what is happening and what is going to happen; what good there is in repeating the tales of the old glories?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "یہ خاموشی کہاں تک؟ لذت فریاد پیدا کر\nزمیں پر تو ہو اور تیری صدا ہو آسمانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long will you remain silent? Create taste for complaint! You should be on the earth, so your cries be in the heavens!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "نہ سمجھو گے تو مٹ جائو گے اے ہندوستاں والو\nتمھاری داستاں تک بھی نہ ہو گی داستانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You will be annihilated if you do not understand O people of India! Even your tales will disappear from the world’s chronicles. (Isn’t it more relevant for Muslims of today’s Pakistan than it was for Indian Muslims about a century ago?)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "یہی آئین قدرت ہے، یہی اسلوب فطرت ہے\nجو ہے راہ عمل میں گام زن، محبوب فطرت ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسلوب فطرت: قدرت کا دستور۔ \nگام زن: چلنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the law of Nature, this is the order of Nature; those who tread dynamism’s path, are the darlings of Nature.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ہویدا آج اپنے زخم پنہاں کر کے چھوڑوں گا\nلہو رو رو کے محفل کو گلستاں کر کے چھوڑوں گا",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہويدا: ظاہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will surely exhibit all my hidden wounds today; I will surely change assembly to a garden with blood-mixed tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "جلانا ہے مجھے ہر شمع دل کو سوز پنہاں سے\nتری تاریک راتوں میں چراغاں کر کے چھوڑں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have to light every heart’s candle with hidden pathos; I will surely create bright illumination in your darkness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "مگر غنچوں کی صورت ہوں دل درد آشنا پیدا\nچمن میں مشت خاک اپنی پریشاں کر کے چھوڑں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So that love-cognizant hearts be created like rose-buds; I will surely scatter around my handful of dust in the garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "پرونا ایک ہی تسبیح میں ان بکھرے دانوں کو\nجو مشکل ہے، تو اس مشکل کو آساں کر کے چھوڑوں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If stringing these scattered pearls in a single rosary is difficult, I will surely make this difficult task easy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "مجھے اے ہم نشیں رہنے دے شغل سینہ کاوی میں\nکہ میں داغ محبت کو نمایاں کر کے چھوڑوں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Companion! Leave me alone in the soul-searching effort as I will surely exhibit this mark of the ardent Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "دکھا دوں گا جہاں کو جو مر ی آنکھوں نے دیکھا ہے\nتجھے بھی صورت آئینہ حیراں کر کے چھوڑوں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will show the world what my eyes have seen; I will surely make you also bewildered like a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "جو ہے پردوں میں پنہاں، چشم بینا دیکھ لیتی ہے\nزمانے کی طبیعت کا تقاضا دیکھ لیتی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The discerning eye sees every thing covered in veils; it does see the exigencies of the nature of times.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "کیا رفعت کی لذت سے نہ دل کو آشنا تو نے\nگزاری عمر پستی میں مثال نقش پا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مثال نقش پا: پاؤں کے نشان کی طرح یعنی پست۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have not acquainted your heart with pleasure of dignity. You have passed your entire life in humility like foot-prints.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "رہا دل بستہء محفل، مگر اپنی نگاہوں کو\nکیا بیرون محفل سے نہ حیرت آشنا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل بستہء محفل: محفل کا شیدائی۔ \nحيرت آشنا: حیرانی سے آشنائی رکھنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You always remained entangled inside the assembly, but have not acquainted yourself with the world outside the assembly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "فدا کرتا رہا دل کو حسنیوں کی ادائوں پر\nمگر دیکھی نہ اس آئینے میں اپنی ادا تو نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have continued loving the charm of material beauties, but you have never seen your own elegance in this mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "تعصب چھوڑ ناداں! دہر کے آئینہ خانے میں\nیہ تصویریں ہیں تیری جن کو سمجھا ہے برا تو نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give up prejudice O imprudent one! In the world's glass housel they are your own pictures which you have taken as evil ones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "سراپا نالہ بیداد سوز زندگی ہو جا\nسپند آسا گرہ میں باندھ رکھی ہے صدا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سپند آسا: حرمل کے دانے کی طرح کا جڑی بوٹی کا ایک بیج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become embodiment of the wail of tyranny of life's pathos! You have concealed sound in your pocket like the rue seed.\n(Rue: This is a perennial evergreen European shrub, (Ruta graveolens, Family Rutaceae). Its seeds when roasted crack and jump. The metaphor is used for a person who is restless in pursuing a just cause.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "صفائے دل کو کیا آرائش رنگ تعلق سے\nکف آئینہ پر باندھی ہے او ناداں حنا تو نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Clarity of heart has nothing to do with external decorations O imprudent one! You have applied myrtle to mirror's palm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "زمیں کیا آسماں بھی تیری کج بینی پہ روتا ہے\nغضب ہے سطر قرآں کو چلیپا کر دیا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چليپا: سولی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not only the earth even the sky is bewailing your imprudence. It is outrageous that you have twisted the Qur'an's lines!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "زباں سے گر کیا توحید کا دعوی تو کیا حاصل\nبنایا ہے بت پندار کو اپنا خدا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بت پندار: تصوّر کا بت یعنی تصوّر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To what purpose is your claim to monotheism! You have made the idol of self conceit your deity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "کنویں میں تو نے یوسف کو جو دیکھا بھی تو کیا دیکھا\nارے غافل! جو مطلق تھا مقید کر دیا تو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مقيد: قید کیا ہوا۔\nمطلق: پوری طرح آزاد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What did you see even if you saw Yusuf in the well? O imprudent one! You have made the Absolute confined.\n(This is an allusion to the Holy Qur'an 12:19. The traveler in the caravan who saw Yusuf A.S. saw him as a man, perhaps as a source of profit by sale on account of being extraordinarily handsome. However, he failed to recognize his greatness as a prophet of God, which is the highest stage to which a human being can rise. By extending the analogy ‘Allamah Iqbal means that we see only the ritual part in religion and do not comprehend religion's higher values, and by doing so we have reduced the absolute Truth of the Holy Qur’an to mere rituals.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "ہوس بالائے منبر ہے تجھے رنگیں بیانی کی\nنصیحت بھی تری صورت ہے اک افسانہ خوانی کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are greedy of flowery style even at the pulpit. Your advice also is a form of story telling.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "دکھا وہ حسن عالم سوز اپنی چشم پرنم کو\nجو تڑپاتا ہے پروانے کو، رلواتا ہے شبنم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Show that universally illuminating Beauty to your weeping eye, which renders the moth highly agitated, which makes the dew weep like eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "نرا نظارہ ہی اے بوالہوس مقصد نہیں اس کا\nبنایا ہے کسی نے کچھ سمجھ کر چشم آدم کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "بوالہوس: ہوس میں الجھا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mere seeing is not its purpose O greedy one! Some One has made the human eye with some purpose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "اگر دیکھا بھی اس نے سارے عالم کو تو کیا دیکھا\nنظر آئی نہ کچھ اپنی حقیقت جام سے جم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even if he viewed the whole world, what did he see? Jam could not see his own reality in the wine cup.\n(Jam: This is the abbreviation for the name of a famous Persian monarch, Jamshid who is believed to have possessed a wine cup in which he could see the whole world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "شجر ہے فرقہ آرائی، تعصب ہے ثمر اس کا\nیہ وہ پھل ہے کہ جنت سے نکلواتا ہے آدم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sectarianism is the tree, prejudice is its fruit. This fruit caused expulsion of A’dam (A.S.) from Paradise.\n(This is an allusion to the Holy Qur'an 2:35-39. Iblis misguided A’dam A.S. to eat the forbidden fruit on account of his jealousy and prejudice against him. This prejudice of Iblis brought about the descent of A’dam A.S. from Paradise to earth, which is sometimes described as a punishment, based on the biblical story.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "نہ اٹھا جذبہء خورشید سے اک بر گ گل تک بھی\nیہ رفعت کی تمنا ہے کہ لے اڑتی ہے شبنم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not even a single rose-petal could rise by sun's attraction. It is the longing for elegance which raises the dew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "پھرا کرتے نہیں مجروح الفت فکر درماں میں\nیہ زخمی آپ کر لیتے ہیں پیدا اپنے مرہم کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجروح الفت: محبت کے زخمی۔ \nفکر درماں: علاج کی فکر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those wounded by Love do not wander in search of cure. These wounded ones themselves create their own cure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "محبت کے شرر سے دل سراپا نور ہوتا ہے\nذرا سے بیج سے پیدا ریاض طور ہوتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart gets complete illumination by the spark of Love. The Toor's flower bed is raised from the Love's small seed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "دوا ہر دکھ کی ہے مجروح تیغ آرزو رہنا\nعلاج زخم ہے آزاد احسان رفو رہنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزاد احسان رفو: زخم سلوانے کا احسان نہ لینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every malady's cure is to remain wounded with Longing's sword. Wound's remedy is to remain free from obligation to stitching.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "شراب بے خودی سے تا فلک پرواز ہے میری\nشکت رنگ سے سیکھا ہے میں نے بن کے بو رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the Bekhudi's wine up to the celestial world is my flight. From disappearance of colour I have learnt to remain fragrance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "تھمے کیا دیدئہ گریاں وطن کی نوحہ خوانی میں\nعبادت چشم شاعر کی ہے ہر دم با وضو رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "بنائیں کیا سمجھ کر شاخ گل پر آشیاں اپنا\nچمن میں آہ! کیا رہنا جو ہو بے آبرو رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To what purpose should we make our nest in the rose-branch? Ah! How can we live with constant disgrace in the garden?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "جو تو سمجھے تو آزادی ہے پوشیدہ محبت میں\nغلامی ہے اسیر امتیاز ماو تو رہنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسير امتياز ماو تو: ما و تو کے فرق کا قیدی، ایک دوسرے میں فرق کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you understand, independence is veiled in Love. Slavery is to remain imprisoned in the net of schism.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "یہ استغنا ہے، پانی میں نگوں رکھتا ہے ساغر کو\nتجھے بھی چاہیے مثل حباب آبجو رہنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "استغنا: بے پروائی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Contentment is what keeps the cup submerged in water. You should also remain like the bubble in the stream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "نہ رہ اپنوں سے بے پروا، اسی میں خیر ہے تیری\nاگر منظور ہے دنیا میں او بیگانہ خو رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is best for you not to remain indifferent to yours own O apathetic person! If you want to remain alive in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "شراب روح پرور ہے محبت نوع انساں کی\nسکھایا اس نے مجھ کو مست بے جام و سبو رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soul-invigorating wine is the Love of the human race; it has taught me to remain ecstatic without the wine cup and the pitcher.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "محبت ہی سے پائی ہے شفا بیمار قوموں نے\nکیا ہے اپنے بخت خفتہ کو بیدار قوموں نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بخت خفتہ: سوئی ہوئی قسمت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sick nations have been cured only through Love. Nations have warded off their adversity through Love.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "بیابان محبت دشت غربت بھی، وطن بھی ہے\nیہ ویرانہ قفس بھی، آشیانہ بھی، چمن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دشت غربت: بے وطنی کا صحرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The expanse of Love is at once foreign land and homeland; this wilderness is the cage, the nest, as well as the garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "محبت ہی وہ منزل ہے کہ منزل بھی ہے، صحرا بھی\nجرس بھی، کارواں بھی، راہبر بھی، راہزن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is the only stage which is the stage as well as the wilderness; it is the bell, the caravan, the leader as well as the robber.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "مرض کہتے ہیں سب اس کو، یہ ہے لیکن مرض ایسا\nچھپا جس میں علاج گردش چرخ کہن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everybody calls it an illness, but it is such an illness in which the cure for all ills and misfortunes is concealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "جلانا دل کا ہے گویا سراپا نور ہو جانا\nیہ پروانہ جو سوزاں ہو تو شمع انجمن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart's pathos in a way is to become embodiment of Light; if this moth burns it is also the assembly's candle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "وہی اک حسن ہے، لیکن نظر آتا ہے ہر شے میں\nیہ شیریں بھی ہے گویا بیستوں بھی، کوہکن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Beauty is just one but appears in everything; it is Shirin, the sky, as well as the mountain digger (Farhad is called here the mountain digger).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "اجاڑا ہے تمیز ملت و آئیں نے قوموں کو\nمرے اہل وطن کے دل میں کچھ فکر وطن بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Distinction of sects and governments has destroyed nations. Is there any concern for the homeland in my compatriot's hearts?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "سکوت آموز طول داستان درد ہے ورنہ\nزباں بھی ہے ہمارے منہ میں اور تاب سخن بھی ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکوت آموز: خاموشی سکھانے والا، چپ کرا دینے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prolonging the tale of my woes calls for silence, otherwise the tongue in my mouth as well as the ability to speak is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "نمیگردید کوتہ رشتہء معنی رہا کر دم\nحکایت بود بے پایاں، بخاموشی ادا کر دم",
+              "lang": "Original"
+            },
+            {
+              "_content": "مضمون کا سلسلہ مختصر نہ ہوتا تھا اس لیے میں نے اسے چھوڑ دیا، یہ ایسا بیان تھا جو لامحدود تھی، لہذا اس کے بغیر اور کوئی چارہ نہ تھا کہ خاموشی اختیار کر لوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Take not this meaningful tale as related by me is the story was endless, but related with silence is.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

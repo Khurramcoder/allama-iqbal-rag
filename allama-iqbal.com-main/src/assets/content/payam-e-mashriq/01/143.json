@@ -1,0 +1,33 @@
+{
+  "id": "143",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عجم از نغمہ ام آتش بجان است\nصدای من درای کاروان است\nحدی را تیز تر خوانم چو عرفی\nکہ رہ خوابیدہ و محمل گران است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul of Persia kindles at my song, the caravan moves on, my call is strong;\nLike Urfi I will lift a livelier lilt, for heavy is the load, the way sleeps long.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

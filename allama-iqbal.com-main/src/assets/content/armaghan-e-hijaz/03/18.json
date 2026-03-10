@@ -1,0 +1,33 @@
+{
+  "id": "18",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آں عزم بلند آور آں سوز جگر آور\nشمشیر پدر خواہی بازوے پدر آور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تم اپنے باپ کی تلوار چاہتے ہو تو اپنے باپ کا سے مضبوط بازو، بلند ارادہ اور حرارت جگر بھی پیدا کرو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Get a higher will and a burning heart, if dad’s sword you wish get his arm’s art.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

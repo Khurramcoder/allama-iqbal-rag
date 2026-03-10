@@ -1,0 +1,1822 @@
+{
+  "id": "05",
+  "name": "تمہید زمینی: آشکارا می شود روح حضرت رومی و شرح میدہد اسرار معراج را",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "01",
+  "sectionName": "جاوید نامہ",
+  "name-en": "Prelude On Earth: The Spirit of Rumi appears and explains the mystery of the Ascension",
+  "name-ur": "تمہید زمینی\nمولانا رومی (رحمتہ ) کی روح ظاہر ہوتی ہے اور معراج کے اسرار کی شرح بیان کرتی ہے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق شور انگیز بے پروای شہر\nشعلۂ او میرد از غوغای شہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "(جناب رسول پّاک (صلعم) کے بوجود مبارک کی صورت میں یہ مضمون موزوں ہے)\n\nشور برپا کرنے والا عشق شہر سے بے پرواہ ہے؛ شہر کے شور و غل میں اس کا شعلہ بجھ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tumulutous love, indifferent to the city; for in the city’s clangour its flame dies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خلوتے جوید بدشت و کوہسار\nیا لب دریای ناپیدا کنار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ یا تو دشت و کوہسار میں خلوت ڈھونڈتا ہے یا بحر بے کراں کے ساحل پر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seeks solitude in desert and mountain-range or on the shore of an unbounded sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "من کہ در یاران ندیدم محرمی\nبر لب دریا بیاسودم دمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں نے احباب میں کوئی محرم راز نہ دیکھا ؛ میں تھوڑی دیر کے لیے ذہنی سکوں کے لیے دریا کے کنارے پر چلا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I, who saw among my friends none to confide in, rested a moment on the shore of the sea:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بحر و ہنگام غروب آفتاب\nنیلگون آب از شفق لعل مذاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "دریا اور غروب آفتاب کا منظر ؛ نیلگوں پانی شفق کے رنگ سے لعل سیال بنا ہوا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sea, and the hour of the setting sun; the blue water was a liquid ruby in the gloaming.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کور را ذوق نظر بخشد غروب\nشام را رنگ سحر بخشد غروب",
+              "lang": "Original"
+            },
+            {
+              "_content": "غروب کا منظر اندھوں کو بھی ذوق نظر اور شام کو رنگ سحر عطا کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sunset gives to the blind man the joy of sight, sunset gives to evening the hue of dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "با دل خود گفتگوہا داشتم\nآرزوہا جستجوہا داشتم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے دل کی بات کر رہا تھا؛ میرے اندر آرزوئیں اور امنگیں مچل رہی تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I held conversation with my heart; I had many desires, many requests.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آنے و از جاودانی بے نصیب\nزندہ و از زندگانی بے نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سوچ رہا تھا کہ میری زندگی پل بھر کی ہے، مجھے حیات جاویدانی نصیب نہیں اگرچہ میں زندہ ہوں مگر زندگانی سے بے نصیب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A thing of the moment, unsharing immortality, a thing living, unsharing life itself,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تشنہ و دور از کنار چشمہ سار\nمی سرودم این غزل بے اختیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کنارے آب حیات سے دور اور پیاسا تھا ؛ میں نے بس اختیارانہ یہ غزل گانا شروع کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thirsty, and yet far from the rim or the fountain, involuntarily I chanted this song.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "غزل",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بگشای لب کہ قند فراوانم آرزوست\nبنمای رخ کہ باغ و گلستانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے لب کھولیے کہ مجھے قند فراواں کی آرزو ہے؛ اپنا چہرہ دکھائیے کہ میں باغ گلستان کی آرزو رکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "GHAZAL\n\nOpen your lips, for abundant sugar-candy is my desire; show your cheek, for the garden and rosebed are my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "یک دست جام بادہ و یک دست زلف یار\nرقصی چنین میانۂ میدانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک ہاتھ میں جام شراب ہو، اور ایک ہاتھ میں زلف یار پھر میں میدان کے درمیان رقص کروں یہ میری آرزو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In one hand a flask of wine, in the other the beloved’s tress; such a dance in the midst of the maidan is my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "گفتی ز ناز بیش مرنجان مرا، برو\nآن گفتنت کہ بیش مرنجانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے ناز سے کہا کہ 'جا مجھے زیادہ تنگ نہ کر' ؛ مجھے تیری یہی بات سننے کی آرزو ہے کہ مجھے زیادہ تنگ نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You said, ‘Torment me no more with your coquetry: begone!’ That saying of yours, ‘Torment me no more, ‘ is my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے عقل تو ز شوق پراکندہ گوی شو\nاے عشق نکتہ ہای پریشانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے عقل تو شوق محبت سے بہکی بہکی باتیں کرنے والی ہو جا؛ اے عشق تیرے پریشان کر دینے والے نکات سننے کی آرزو رکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O reason, become out of yearning a babbler of words confused; O love, distracted subtleties are my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "این آب و نان چرخ چو سیل است بیوفا\nمن ماہیم نہنگم و عمانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قسمت کا دیا ہوا رزق سیلاب کی طرح بے وفا ہے؛ میں مچھلی ہوں نہنگ و بحر کی آرزو رکھتا ہوں (کہ میں وہاں سے اپنا رزق خود تلاش کروں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This bread and water of heaven are fickle as a torrent; I am a fish, , a leviathan-Oman is my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "جانم ملول گشت ز فرعون و ظلم او\nآن نور جیب موسی عمرانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرعون اور اس کے ظلم سے میرا دل بہت ملول ہے؛ مجھے موسی (علیہ) کے ید بیضا کی آرزو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul has grown aweary of Pharaoh and his tyranny; that light in the breast of Moses, Imran’s son, is my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "دی شیخ با چراغ ہمی گشت گرد شہر\nکز دیو و دد ملولم و انسانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل شیخ چراغ ہاتھ میں لیے سارے شہر میں گھوما کہ میں شیطانوں اور درندوں سے دل برداشتہ کسی انسان کی آرزو رکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Last night the Elder wandered about the city with a lantern saying, ‘I am weary of demon and monster: man is my desire.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "زین ہمرہان سست عناصر دلم گرفت\nشیر خدا و رستم دستانم آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کمزور منش ہمراہیوں سے دل گرفتہ ہوں؛ میں شیر خدا اور رستم کی قوّت والے انسانوں کا جویا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is sick of these feeble-spirited fellow-travellers; the Lion of God and Rustam-i Dastan, are my desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "گفتم کہ یافت می نشود جستہ ایم\nگفت آنکہ یافت می نشود آنم آرزوست\nرومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کہا 'ایسا انسان نہیں ملتا ہم نے بھی بہت تلاش کی' کہنے لگا 'جو نہیں ملتا مجھے اسی کی آرزو ہے' - رومی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘The thing we quested after is never attained.’ He said, ‘The unattainable – that thing is my desire!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "موج مضطر خفت بر سنجاب آب\nشد افق تار از زیان آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے قرار موج پانی کے (بستر ) پر سو گئی ؛ آفتاب غروب ہونے سے افق تاریک ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The restless wave slept on the grey water, the sun vanished, dark grew the horizon:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "از متاعش پارہ ئی دزدید شام\nکوکبی چون شاہدی بالای بام",
+              "lang": "Original"
+            },
+            {
+              "_content": "شام نے آفتاب کی متاع سے ایک ٹکڑا چرا لیا؛ ایک ستارہ جیسے بالائے بام محبوب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Evening stole a portion of its capital and a star stood like a witness above the roof.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "روح رومے پردہ ہا را بر درید\nاز پس کہ پارہ ئی آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح رومی پردے چاک کر کے پہاڑی کے پیچھے سے نمودار ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit of Rumi rent the veils asunder; from behind a mountain mass he became visible;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "طلعتش رخشندہ مثل آفتاب\nشیب او فرخندہ چون عہد شباب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا چہرہ آفتاب کی مانند روشن تھا؛ ان کی پیری جوانی کی سی آب و تاب رکھتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His face shining like the sun in splendour, his white hairs radiant as the season of youth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "پیکری روشن ز نور سرمدی\nدر سراپایش سرور سرمدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا پیکر نور سرمدی سے روشن تھا؛ نہیں وہ سراپا سرور سرمدی تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A figure bright in a light immortal, robed from head to foot in everlasting joy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "بر لب او سر پنھان وجود\nبند ہای حرف و صوت از خود گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے لبوں پر وجود کے پوشیدہ راز (کا بیان) تھا؛ انہوں نے الفاظ اور آواز کے بندھن کھولے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon his lips the hidden secret of Being; loosed from itself the chains of speech and sound:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "حرف او آئینہ ئی آویختہ\nعلم با سوز درون آمیختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے الفاظ یوں تھے جیسے سامنے آئینہ آویزاں ہو اور ان میں علم کے ساتھ سوز درون کی امیزش تھی (نہ الفاظ تھے نہ آواز مگر معنی سامنے نظر آ رہے تھے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His speech was as a suspended mirror, knowledge commingled with an inward fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گفتمش موجود و ناموجود چیست\nمعنی محمود و نامحمود چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے پوچھا موجود اور نا موجود کیا ہے؟ محمود و نا محمود کے معنی کیا ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked him, ‘What is the existent, the non-existent? What is the meaning of praiseworthy and unpraiseworthy?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "گفت موجود آنکہ می خواہد نمود\nآشکارائی تقاضای وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے کہا موجود وہ ہے جو نمود چاہتا ہے؛ اپنے آپ کو ظاہر کرنا وجود کا تقاضا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘The existent is that which wills to appear: manifestation is all the impulse of Being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زندگی خود را بخویش آراستن\nبر وجود خود شہادت خواستن",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی اپنے آپ کو اپنی نظروں میں آراستہ کرنا اور اپنے وجود پر شہادت طلب کرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life means to adorn oneself in one’s self, to desire to bear witness to one’s own being;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "انجمن روز الست آراستند\nبر وجود خود شہادت خواستند",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے نے بھی روز الست انجمن آراستہ کی اور اپنے وجود پر شہادت چاہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The concourse on the day primordial arrayed desired to bear witness to their own being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "زندہ ئی یا مردہ ئی یا جان بلب\nاز سہ شاہد کن شہادت را طلب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو زندہ ہے یا مردہ ہے یا جان بلب ہے؛ تین شاہدوں سے شہادت طلب کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether you be alive, or dead, or dying – for this seek witness from three witnesses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "شاہد اول شعور خویشتن\nخویش را دیدن بنور خویشتن",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہد اوّل اپنا شعور ہے؛ یعنی اسے اپنے آپ کو اپنے نور سے دیکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The first witness is self-consciousness, to behold oneself in one’s own light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "شاہد ثانے شعور دیگری\nخویش را دیدن بنور دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہد دوم دوسروں کا شعور ہے یعنی اپنے آپ کو دوسروں کے نور سے دیکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The second witness is the consciousness of another, to behold oneself in another’s light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "شاہد ثالث شعور ذات حق\nخویش را دیدن بنور ذات حق",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہد سوم حق تعالے کا شعور یعنی اپنے آپ کو حق تعالے کس نور سے دیکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The third witness is the consciousness of God’s essence, to behold oneself in the light of God’s essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "پیش این نور ار بمانی استوار\nحی و قائم چون خدا خود را شمار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اللہ تعالے کے نور کے سامنے قائم رہے تو اپنے آپ کو اللہ تعالے کی طرح حیّ و قیّوم سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you remain fast before this light, count yourself living and abiding as God!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "بر مقام خود رسیدن زندگی است\nذات را بے پردہ دیدن زندگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے مقام پر پہنچنا اور ذات باری تعالے کو بے پردہ دیکھنا زندگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is to attain one’s own station, life is to see the Essence without a veil;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مرد مومن در نسازد با صفات\nمصطفی راضی نشد الا بہ ذات",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد مومن صفات پر قناعت نہیں کرتا؛ حضور اکرم (صلعم) دیدار ذات سے مطمئن ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The true believer will not make do with Attributes – the Prophet was not content save with the Essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "چیست معراج آرزوی شاہدی\nامتحانی روبروی شاہدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "معراج کیا ہے؟ شاہد کی آرزو، کہ اس کے روبرو اپنا امتحان کیا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is Ascension? The desire for a witness, an examination face-to-face of a witness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "شاہد عادل کہ بے تصدیق او\nزندگی ما را چو گل را رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے شاہد عادل جس کی تصدیق کے بغیر زندگی ہمارے لیے ایسی ہے جیسی پھول کے لیے رنگ و بو (ناپائیدار)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A competent witness without whose confirmation life to us is like colour and scent to a rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "در حضورش کس نماند استوار\nور بماند ہست او کامل عیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کے حضور میں کوئی شخص قائم نہیں رہا، اور جو رہا ہے وہ کامل و اکمل ہے (رسول اللہ صلعم)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that Presence no man remains firm, or if he remains, he is of perfect assay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "ذرہ ئی از کف مدہ تابی کہ ہست\nپختہ گیر اندر گرہ تابی کہ ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ذرہ بھی ہے تو اپنی چمک کو ہاتھ سے نہ دے؛ بلکہ اسے اپنی گرہ میں مظبوتی سے باندھ کے رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give not away one particle of the glow you have, knot tightly together the glow within you;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "تاب خود را بر فزودن خوشتر است\nپیش خورشید آزمودن خوشتر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ذرے کے لیے) اپنی چمک میں اضافہ کرنا اور اسے آفتاب کے سامنے آزمانا خوش تر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fairer it is to increase one’s glow, fairer it is to increase one’s glow, fairer it is to test oneself before the sun;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "پیکر فرسودہ را دیگر تراش\nامتحان خویش کن موجود باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے پیکر فرسودہ کی نئے سرے سے تراش خراش کر؛ اپنے امتحان کے ذریعے اپنے آپ کو موجود ثابت کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then chisel anew the crumbled form; make proof of yourself; be a true being!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "این چنین موجود محمود است و بس\nورنہ نار زندگی دود است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنے آپ کو اس طرح موجود ثابت کیا ؛ وہی محمود ہے؛ اس کے بغیر زندگی کی آتش محض دھواں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Only such an existent is praiseworthy, otherwise the fire of life is mere smoke.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "باز گفتم پیش حق رفتن چسان\nکوہ خاک و آب را گفتن چسان",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر میں نے پوچھا: اللہ تعالے کے سامنے پیش ہونا کیسے ہے؟ اس خاک و آب کے پہاڑ کو کیسے توڑا جا سکتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked again, ‘How shall one go before God? How may one split the mountain of clay and water?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "آمر و خالق برون از امر و خلق\nما ز شست روزگاران خستہ حلق",
+              "lang": "Original"
+            },
+            {
+              "_content": "آمر و خالق (اللہ) آمر و خالق سے باہر ہے؛ ہمارے حلق میں زمانے کا کانٹا پھنسا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Orderer and Creator is outside Order and Creation; we - our throats are strangled by the noose of Fate.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "گفت اگر سلطان ترا آید بدست\nمی توان افلاک را از ہم شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا: 'اگر تجھے سلطان میسّر آ جائے؛ تو افلاک کی حدود کو بھی توڑا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘If you obtain the Authority you can break through the heavens easily.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "باش تا عریان شود این کائنات\nشوید از دامان خود گرد جہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "انتظار کر یہاں تک کہ یہ کائنات بے پردہ سامنے آ جائے؛ اور اپنے دامن سے اطراف (مکان) کی گرد دھو ڈالے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wait till the day creation all is naked and has washed from its skirt the dust of dimension;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "در وجود او نہ کم بینی نہ بیش\nخویش را بینی ازو، او را ز خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور تو اس کے وجود کو کم نہ دیکھے، نہ زیادہ ؛ اپنی تعیّن اس سے کر اور اس کی تعیّن اپنے آپ سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then you will see neither waxing nor waning in its being, you will see yourself as of it, and it of you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "نکتۂ \"الا بسلطان\" یاد گیر\nورنہ چون مور و ملخ در گل بمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "الا بسلطان کا نکتہ یاد رکھ؛ ورنہ کیڑوں مکوڑوں کی طرح مٹی کے اندر ہی مر جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Recall the subtlety Except with an authority or die in the mire like an ant or a locust!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "از طریق زادن اے مرد نکو\nآمدی اندر جھان چار سو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نیک شخص تو اس جہان چار سو میں پیدائش کے ذریعے آیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was by way of birth, excellent man, that you came into this dimensioned world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "ہم برون جستن بزادن میتوان\nبندہا از خود گشادن میتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے باہر نکلنا اور اپنے بند کھولنا بھی ایک نئی پیدائش کے ذریعے ہی ممکن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By birth it is possible also to escape, it is possible to loosen all fetters from oneself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "لیکن این زادن نہ از آب و گل است\nداند آن مردی کہ او صاحبدل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن اس پیدائش کا تعلق آب و گل سے نہیں ؛ صاحب دل مرد اس نکتے کو اچھی طرح جانتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But such a birth is not of clay and water – that is known to the man who has a living heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "آن ز مجبوری است، این از اختیار\nآن نھان در پردہ ہا این آشکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی پیدائش مجبوری سے ہے، اور دوسری پیدائش اپنے اختیار سے ؛ پہلی پیدائش پردوں میں پنہاں ہے اور دوسری علانیہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The first birth is by constraint, the second by choice; the first is hidden in veils, the second is manifest;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "آن یکی با گریہ، این با خندہ ایست\nیعنی آن جویندہ، این یابندہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی پیدائش روتے ہوئے ہوتی ہے اور دوسری ہنستے ہوئے یعنی پہلی پیدائش کے وقت جستجو ہے اور دوسرا پیدائش کے وقت مقصد پا لینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The first happens with weeping, the second with laughter, for the first is a seeking, the second a finding;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "آن سکون و سیر اندر کائنات\nاین سراپا سیر بیرون از جہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی پیدائش کے بعد انسان مادی کائنات کے اندر ٹہرتا اور چلتا ہے؛ دوسری پیدائش سرا پا لا مکانی سیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The first is to dwell and journey amidst creation, the second is utterly outside all dimensions;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "آن یکی محتاج روز و شب است\nوان دگر روز و شب او را مرکب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی میں روز و شب (زمان) کی محتاجی سے دوسری میں زمان کو بطور سواری استعمال کرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The first is in need of day and night, the second-day and night are but its vehicle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "زادن طفل از شکست اشکم است\nزادن مرد از شکست عالم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بچہ شکست شکم سے وجود میں آتا ہے؛ مرد شکست عالم سے پیدا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A child is born through the rending of the womb, a man is born through the rending of the world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "ہر دو زادن را دلیل آمد اذان\nآن بلب گویند و این از عین جان",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں پیدائشوں کا ثبوت اذان سے ہے؛ پہلی پیدائش کے وقت زبان سے اذان دی جاتی ہے، جب کہ دوسری پیدائش کے وقت اعماق جان سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The call to prayer signalizes both kinds of birth, the first is uttered by the lips, the second of the very soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "جان بیداری چو زاید در بدن\nلرزہ ہا افتد درین دیر کہن\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب بدن کے اندر جان بیدار پیدا ہوتی ہے تو اس پرانے بتخانہ (کائنات) پر لرزہ طاری ہو جاتا ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whenever a watchful soul is born in a body this ancient inn the world trembles to its foundations!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "گفتم این زادن نمیدانم کہ چیست\nگفت شأنی از شون زندگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کہا: 'میں نہیں سمجھا کہ یہ پیدا ہونا کیسے ہے؟ ' رومی نے جواب دیا کہ یہ حیات کی مختلف شیون میں سے ایک شان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘I know not what manner of birth this is.’ He said, ‘It is one of the high estates of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "شیوہ ہای زندگی غیب و حضور\nآن یکی اندر ثبات آن در مرور",
+              "lang": "Original"
+            },
+            {
+              "_content": "غائب و حضور زندگی کے انداز ہیں؛ غائب (خلوت) میں ثبات ہے اور حضور (جلوت) میں حرکت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life plays at vanishing and then reappearing – one role is constant, the other transitory;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "گہ بجلوت می گدازد خویش را\nگہ بخلوت جمع سازد خویش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی بندہ جلوت میں نبرد آزما ہو کر اپنا پورا زور لگا دیتا ہے؛ اور کبھی خلوت میں اپنی شخصیت کی تثبیت کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now life dissolves itself in manifestation, anon it concentrates itself in solitude.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "جلوت او روشن از نور صفات\nخلوت او مستنیر از نور ذات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی جلوت اللہ تعالے کی صفات کے نور سے روشن ہیں؛ اور اس کی خلوت نور ذات سے منوّر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its manifestation shines with the light of the Attributes, its solitude is lit up by the light of the Essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "عقل او را سوی جلوت می کشد\nعشق او را سوی خلوت می کشد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل اسے جلوت کی طرف اور عشق اسے خلوت کی طرف لے جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason draws life towards manifestation, love draws life towards solitude.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "عقل ھم خود را بدین عالم زند\nتا طلسم آب و گل را بشکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل بھی اس کائنات سے نبرد آزما ہوتی ہے تاکہ مادیت کے طلسم کو توڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason likewise hurls itself against the world to shatter the talisman of water and clay;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "می شود ہر سنگ رہ او را ادیب\nمی شود برق و سحاب او را خطیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر سنگ اسے سبق سکھاتا ہے؛ بجلی اور بادل اس کے لیے لیکچرار بنتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every stone on the road becomes its preceptor, lightning and cloud preach sermons to it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "چشمش از ذوق نگہ بیگانہ نیست\nلیکن او را جرأت رندانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل کی آنکھ ذوق نگاہ سے عاری نہیں ؛ مگر وہ جراءت رندانہ سے محروم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its eye is no stranger to the joy of seeing, but it possesses not the drunkard’s boldness;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "پس ز ترس راہ چون کوری رود\nنرم نرمک صورت موری رود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس لیے وہ راستے کے (خطرات ) سے ڈرتی ہوئی اندھے کی مانند چلتی ہے؛ اس کی رفتار چیونٹی کی طرح آہستہ آہستہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Therefore, fearing the road, it gropes like a blind man, softly, gently it creeps along, just like an ant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "تا خرد پیچیدہ تر بر رنگ و بوست\nمیرود آہستہ اندر راہ دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ خرد رنگ و بو کی دلدادہ ہے اس لیے وہ اللہ تعالے کی راہ میں بھی آہستہ آہستہ چلتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as reason is involved with colour and scent showly it proceeds upon the path to the Beloved;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "کارش از تدریج می یابد نظام\nمن ندانم کی شود کارش تمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا کام تدریجا آگے بڑھنا ہے؛ میں نہیں جانتا کہ وہ لب اپنا مقصد پائے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its affairs achieve some order gradually – I do not know when they will ever be completed!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "می نداند عشق سال و ماہ را\nدیر و زود و نزد و دور راہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر عشق سال و ماہ دیر و زود (زمان) اور نزد و دور (مکان) کو کچھ نہیں سمجھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love knows nothing of months and years, late and soon, near and far upon the road.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "عقل در کوہی شکافی میکند\nیا بگرد او طوافے می کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل پہاڑ میں شگاف ڈال دیتی ہے یا اس کے گرد طواف کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason drives a fissure through a mountain, or else makes a circuit around it;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "کوہ پیش عشق چون کاہی بود\nدل سریع السیر چون ماہی بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے سامنے پہاڑ تنکے کی مانند ہے؛ (عشق سے ) قلب چاند کی طرح تیز رفتار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before love the mountain is like a straw, the heart darts as swiftly as a fish.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "عشق، شبخونی زدن بر لامکان\nگور را نادیدہ رفتن از جھان",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق لا مکان پر شبخون مارتا اور اس دنیا سے قبر دیکھے بغیر رخصت ہونا ہے (عشق پر موت طاری نہیں ہوتی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love means, to make assault upon the Infinite, without seeing the grave to flee the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "زور عشق از باد و خاک و آب نیست\nقوتش از سختی اعصاب نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی قوّت عناصر بدن (ہوا، خاک، پانی) یا سختیء اعصاب سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s strength is not of air and earth and water, its might derives not from toughness of sinew;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "عشق با نان جوین خیبر گشاد\nعشق در اندام مہ چاکی نہاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے جو کی روٹی کھا کر خیبر فتح کیا ؛ عشق نے چاند کو دو ٹکڑے کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "love conquered Khaibar on a loaf of barley, love clove asunder the body of the moon,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "کلہ نمرود بے ضربی شکست\nلشکر فرعون بے حربی شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے بغیر ضرب کے نمرود کا جبڑا توڑ دیا اور جنگ کے بغیر فرعون کے لشکر کو شکست دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Broke Nimrod’s cranium without a blow, without a battle shattered Pharaoh’s hosts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "عشق در جان چون بچشم اندر نظر\nہم درون خانہ ھم بیرون در",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق، جان میں اس طرح ہے، جیسے آنکھ میں نظر ؛ جو گھر کے اندر بھی ہے اور باہر بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love in the soul is like sight it in the eye, be it within the house or without the door;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "عشق ہم خاکستر و ہم اخگر است\nکار او از دین و دانش برتر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق راکھ بھی ہے اور انگارہ بھی؛ اس کا کام دین و دانش سے برتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is at once both ashes and spark, its work is loftier than religion and science.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "عشق سلطان است و برہان مبین\nہر دو عالم عشق را زیر نگین",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق سلطان (قوّت) بھی ہے اور واضح دلیل بھی؛ دونوں جہان عشق کے زیر نگین ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is authority and manifest proof, both worlds are subject to the seal – ring of love;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "لا زمان و دوش فردائی ازو\nلامکان و زیر و بالائے ازو",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق لا زمان ہے، مگر ماضی و حال (زمان) اسی سے ہے؛ عشق لا مکان ہے، مگر بلندی و پستی (مکان) اسی سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Timeless it is, and yesterday and tomorrow spring from it, placeless it is, and under and over spring from it;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "چون خودی را از خدا طالب شود\nجملہ عالم مرکب او راکب شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب عشق اللہ تعالے سے خودی کا طالب ہوا ؛ تو ساری دنیا سواری بنی اور وہ اس کا سوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it supplicates God for selfhood all the world becomes a mount, itself the rider.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "آشکارا تر مقام دل ازو\nجذب این دیر کہن باطل ازو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مقام دل، عشق سے اور آشکار ہوتا ہے؛ عشق سے قدیم بتخانہ (دنیا) کی کشش کو باطل بنا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through love, the heart’s status becomes clearer; through love, the draw of this ancient inn becomes void.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "Text": [
+            {
+              "_content": "عاشقان خود را بہ یزدان میدہند\nعقل تأویلی بہ قربان میدہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشق لوگ اپنے آپ کو اللہ کے سپرد کر دیتے اور تاویل کرنے والی عقل کی قربانی دے دیتے ہیں۔(عشق فرمودہء قاصد سے سبک گام عمل؛ عقل سمجھی ہی نہیں معنیء پیغام ابھی۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lovers yield themselves up to God, give interpretative reason as an offering.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "Text": [
+            {
+              "_content": "عاشقی از سو بہ بے سوئی خرام\nمرگ را بر خویشتن گردان حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو عاشق ہے تو اطراف (مکان) سے لا مکان کی طرف چل؛ اور موت کو اپنے اوپر حرام سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you a lover? Proceed from direction to directionlessness; make death a thing prohibited to yourself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "اے مثال مردہ در صندوق گور\nمی توان برخاستن بے بانگ صور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جو مردے کی طرح قبر کے صندوق میں بند ہے! سن کہ (قبر سے ) آواز صور کے بغیر بھی اٹھایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who are like a dead man in the grave’s coffer, resurrection is possible without the sound of the Trumpet!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "Text": [
+            {
+              "_content": "در گلو داری نواہا خوب و نغز\nچند اندر گل بنالی مثل چغز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے گلے میں عمدہ اور خوب نغمے موجود ہیں ؛ تو لب تک مٹی کے اندر مینڈک کی مانند روتا رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have in your throat melodies sweet and delicate; how long will you croak like a frog in the mud?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "Text": [
+            {
+              "_content": "بر مکان و بر زمان اسوار شو\nفارغ از پیچاک این زنار شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمان و مکان پر سوار ہو کر اس زنّار کی گرفت سے آزاد ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Boldly ride upon space and time, break free of the convolutions of this girdle;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "175",
+          "Text": [
+            {
+              "_content": "تیز تر کن این دو چشم و این دو گوش\nہر چہ می بینی نیوش از راہ ہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی ان دو آنکھوں اور دو کانوں کو اور تیز کر؛ اور جو کچھ دیکھے اسے ہوشمندی سے اپنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sharpen your two eyes and your two ears – whatever you see, digest by way of the understanding.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "آن کسی کو بانگ موران بشنود\nہم ز دوران سر دوران بشنود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص چیونٹی کی آواز سن لیتا ہے؛ وہ زمانہ سے اس کے اسرار بھی سن سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The man who hears the voice of the ants also hears from Time the secret of Fate.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "Text": [
+            {
+              "_content": "آن نگاہ پردہ سوز از من بگیر\nکو بچشم اندر نمیگردد اسیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے وہ نگاہ حاصل کر جو آنکھ میں مقید نہیں رہتی؛ بلکہ پردوں کو جلا دیتی ہے (راز ہائے درون پردہ دیکھ لیتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take from me the glance that burns the veil, the glance that becomes not the eye’s prisoner.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "\"آدمی دید است باقی پوست است\nدید آن باشد کہ دید دوست است\nجملہ تن را در گداز اندر بصر\nدر نظر رو، در نظر رو، در نظر\"\nرومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "'آدمی فقط نگاہ ہے، باقی بدن نرا چھلکا ہے؛ اور نگاہ وہ ہے جو دوست (حق تعالے) کا دیدار کرے۔\nاپنے سارے بدن کو پگھلا کر نگاہ بنا لے؛ نگاہ حاصل کر، نگاہ حاصل کر'۔رومی \n(لوں لوں وچ ہون صد صد چشماں - حضرت سلطان باہو)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Man is but sight, the rest is mere skin; true sight signifies seeing the Beloved.\nDissolve the whole body into sight – go to gazing, go to gazing, go to gaze!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "تو ازین نہ آسمان ترسی، مترس\nاز فراخای جہان ترسی مترس",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ان نو آسمانوں سے ڈرتا ہے؟ نہ ڈر ؛ تو کائنات کی وسعت سے ڈرتا ہے؟ نہ ڈر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you afraid of these nine heavens? Fear not; are you afraid of the world’s immensity? Fear not.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "187",
+          "Text": [
+            {
+              "_content": "چشم بگشا بر زمان و بر مکان\nاین دو یک حال است از احوال جان",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمان و مکان پر ذرا نظر ڈال؛ یہ دونوں روح کے لا تعداد شیون میں سے ایک حال (شان) ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open wide your eyes upon Time and Space, for these two are but a state of the soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "Text": [
+            {
+              "_content": "تا نگہ از جلوہ پیش افتادہ است\nاختلاف دوش و فردا زادہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ نگاہ جلوہ کے سبب عاجز و درماندہ ہے (جلوے کی تاب نہیں لا سکتی) اس لیے اس نے ماضی و حال کا اختلاف پیدا کر لیا ہے۔( نگاہ جلوہ بدمست از صفائے جلوہ می لغزد ؛ تو می گوئی نقاب است ایں، حجاب است ایں، مجاز است ایں – اقبال)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since first the gaze advanced on manifestation the alternation of yesterday and tomorrow was born.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "191",
+          "Text": [
+            {
+              "_content": "دانہ اندر گل بہ ظلمت خانہ ئی\nاز فضای آسمان بیگانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانہ جب مٹی کی تاریکی میں (ہوتا ہے تو وہ) فضائے آسمان سے بے خبر ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seed lying in the soil’s house of darkness a stranger to the vast expanse of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "193",
+          "Text": [
+            {
+              "_content": "ہیچ میداند کہ در جای فراخ\nمی توان خود را نمودن شاخ شاخ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کیا وہ جانتا ہے کہ اس پہنائی میں اپنے آپ کو شاخ در شاخ کیا جا سکتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does it not know that in an ample space it can display itself, branch by branch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "Text": [
+            {
+              "_content": "جوہر او چیست یک ذوق نموست\nہم مقام اوست این جوہر ہم اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ذوق فقط ذوق نمود ہے؛ یہی جوہر اس کا مقام (متعین کرتا) ہے اور یہی وہ خود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is its substance? A delight in growing; this substance is both its station and itself.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "197",
+          "Text": [
+            {
+              "_content": "ایکہ گوئی محمل جان است تن\nسر جان را در نگر بر تن متن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے بدن روح کا محمل ہے؛ ایسا نہ کہہ ؛ روح کا بھید سمجھ، تن پر غرور نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who say that the body is the soul’s vehicle, consider the soul’s secret; tangle not with the body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "199",
+          "Text": [
+            {
+              "_content": "محملی نی، حالی از احوال اوست\nمحملش خواندن فریب گفتگوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اس کا محمل نہیں بلکہ اس کے احوال (شیون) میں سے ایک حال (شان) ہے؛ اسے محمل کہنا فریب گفتگو ہے۔(ارتباط حرف و معنی، اختلاط جان و تن - اقبال)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not a vehicle, it is a state of the soul; to call it its vehicle is a confusion of terms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "201",
+          "Text": [
+            {
+              "_content": "چیست جان جذب و سرور و سوز و درد\nذوق تسخیر سپہر گرد گرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح کیا ہے؟ جذب و سرور و سوز و درد؛ گھومنے والے آسمان (کائنات) کو مسخر کرنے کا ذوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the soul? Rapture, joy, burning and anguish, delight in mastering the revolving sphere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "203",
+          "Text": [
+            {
+              "_content": "چیست تن با رنگ و بو خو کردن است\nبا مقام چار سو خو کردن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدن کیا ہے؟ جہان رنگ و بو اور مقام چار سو (دنیا) پر راضی ہو جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the body? Habit of colour and scent, habit of dwelling in the world’s dimensions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "205",
+          "Text": [
+            {
+              "_content": "از شعور است این کہ گوئی نزد و دور\nچیست معراج ؟ انقلاب اندر شعور",
+              "lang": "Original"
+            },
+            {
+              "_content": "نزدیک و دور مکان کے تصوّر کا تعلق شعور سے ہے؛ معراج کیا ہے؟ شعور کے اندر انقلاب پیدا ہو جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your near and far spring out of the senses; what is Ascension? A revolution in sense,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "207",
+          "Text": [
+            {
+              "_content": "انقلاب اندر شعور از جذب و شوق\nوارہاند جذب و شوق از تحت و فوق",
+              "lang": "Original"
+            },
+            {
+              "_content": "شعور کے اندر انقلاب جذب و شوق (عشق) سے پیدا ہوتا ہے؛ جذب و شوق انسان کو پستی و بلندی (مکان) سے آزاد کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A revolution in sense born of rapture and yearning; rapture and yearning liberate from under and over.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "209",
+          "Text": [
+            {
+              "_content": "این بدن با جان ما انباز نیست\nمشت خاکی مانع پرواز نیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بدن ہماری روح کا شریک کار نہیں ؛ نہ یہ روح کی پرواز میں رکاوٹ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This body is not the associate of the soul; a handful of earth is no impediment to flight.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ]
+}

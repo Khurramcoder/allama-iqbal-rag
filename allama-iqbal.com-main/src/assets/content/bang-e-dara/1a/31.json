@@ -1,0 +1,124 @@
+{
+  "id": "31",
+  "name": "موج دریا",
+  "name-en": "Wave of the River",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مضطرب رکھتا ہے میرا دل بے تاب مجھے\nعین ہستی ہے تڑپ صورت سیماب مجھے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيماب: پارہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My impatient heart keeps me relentlessly restless; like mercury agitation is the essence of life to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "موج ہے نام مرا، بحر ہے پایاب مجھے\nہو نہ زنجیر کبھی حلقہء گرداب مجھے",
+              "lang": "Original"
+            },
+            {
+              "_content": "پاياب: تھوڑا پانی جس سے آومی پیدل گزر جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wave is my name, the sea is fordable to me; the whirlpool's circle would never be a chain to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آب میں مثل ہوا جاتا ہے توسن میرا\nخار ماہی سے نہ اٹکا کبھی دامن میرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "توسن: گھوڑا۔\nخار ماہي: مچھلی پکڑنے والا کانٹا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My steed speeds in the water like wind. The fishing tackle has never caught my skirt.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میں اچھلتی ہوں کبھی جذب مہ کامل سے\nجوش میں سر کو پٹکتی ہوں کبھی ساحل سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذب مہ کامل: پورے چاند کی کشش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes I jump up due to attraction of the full moon; sometimes in excitement I strike my head on the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوں وہ رہرو کہ محبت ہے مجھے منزل سے\nکیوں تڑپتی ہوں، یہ پوچھے کوئی میرے دل سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the traveler who loves destination; someone should ask me why I always jump.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زحمت تنگی دریا سے گریزاں ہوں میں\nوسعت بحر کی فرقت میں پریشاں ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fleeing from the discomfort of the narrow river I am upset by separation from the ocean's vastness I am.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

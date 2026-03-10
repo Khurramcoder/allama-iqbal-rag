@@ -1,0 +1,34 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نوای عشق را ساز است آدم\nکشاید راز و خود رازست آدم\nجہان او آفرید این خوبتر ساخت\nمگر با ایزد انباز است آدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوائے عشق کے لیے آدم ساز ہے (عشق کے نغمے انسان ہی کے قلب سے پھوٹتے ہیں)، یہ (خالق حقیقی کا) راز وا کرتا ہے، مگر خود بھی راز ہے۔ \nاللہ تعالے نے جہان پیدا کیا، یہ اسے خوب تر بناتا ہے؛ گویا یہ خالق کا شریک کار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the voice of love Adam is music; he reveals secrets, but he is a secret himself. \nGod created the world, but Adam made it better – Adam, perhaps, is God’s co-worker.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

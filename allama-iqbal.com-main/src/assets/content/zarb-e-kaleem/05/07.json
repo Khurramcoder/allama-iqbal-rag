@@ -1,0 +1,84 @@
+{
+  "id": "07",
+  "name": "نفسیات غلامی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شاعر بھی ہیں پیدا، علما بھی، حکما بھی \nخالی نہیں قوموں کی غلامی کا زمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wise and bards in bondage both are born, of such births, the age of slavery is not shorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مقصد ہے ان اللہ کے بندوں کا مگر ایک \nہر ایک ہے گو شرح معانی میں یگانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرح معاني ميں يگانہ: معنوں کی وضاحت کرنے میں بےمثال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These men of God have merely single aim, their interpretation of verse, unique they claim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہتر ہے کہ شیروں کو سکھا دیں رم آہو \nباقی نہ رہے شیر کی شیری کا فسانہ،",
+              "lang": "Original"
+            },
+            {
+              "_content": "رم آہو: ہرنوں کی طرح بھاگ جانا، بزدلی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much good to teach the lion timid deer's flight, none may recall the legends of lion's might.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کرتے ہیں غلاموں کو غلامی پہ رضامند \nتاویل مسائل کو بناتے ہیں بہانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They make the thralls contented with their state, they make excuses, when Faith's affairs relate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Psychology Of Bondage",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

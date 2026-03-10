@@ -1,0 +1,31 @@
+{
+  "id": "134",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمین را رازدان آسمان گیر\nمکان را شرح رمز لامکان گیر\nپرد ہر ذرہ سوی منزل دوست\nنشان راہ از ریگ روان گیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

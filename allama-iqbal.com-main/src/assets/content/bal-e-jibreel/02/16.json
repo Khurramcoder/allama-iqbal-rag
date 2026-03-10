@@ -1,0 +1,130 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میر سپاہ ناسزا، لشکریاں شکستہ صف \nآہ! وہ تیر نیم کش جس کا نہ ہو کوئی ہدف",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہدف: نشانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A recreant captain, a battle-line thrown back, the arrow hanging target-less and slack!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیرے محیط میں کہیں گوہر زندگی نہیں \nڈھونڈ چکا میں موج موج، دیکھ چکا صدف صدف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nowhere near you that shell which holds life’s pearl; I have dragged the waves and searched the ocean’s track.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق بتاں سے ہاتھ اٹھا، اپنی خودی میں ڈوب جا \nنقش و نگار دیر میں خون جگر نہ کر تلف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Plunge in your self, on idols dote no more, pour our no more heart’s blood for paint to deck their shrines.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کھول کے کیا بیاں کروں سر مقام مرگ و عشق \nعشق ہے مرگ با شرف، مرگ حیات بے شرف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I unveil the courts of Love and Death: Death – life dishonoured; Love – death for honour’s sake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "صحبت پیر روم سے مجھ پہ ہوا یہ راز فاش \nلاکھ حکیم سر بجیب، ایک کلیم سر بکف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I gleaned in Rumi’s company: one bold heart is worth of learned heads the whole tame pack.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مثل کلیم ہو اگر معرکہ آزما کوئی \nاب بھی درخت طور سے آتی ہے بانگ' لا تخف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once more that voice from Sinai’s tree would cry fear not! If some new Moses led the attack.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خیرہ نہ کر سکا مجھے جلوہ دانش فرنگ \nسرمہ ہے میری آنکھ کا خاک مدینہ و نجف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No glitter of Western science could dazzle my eyes: The dust of Medina stains, like collyrium, black.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

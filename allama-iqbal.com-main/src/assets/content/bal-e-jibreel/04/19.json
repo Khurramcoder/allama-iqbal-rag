@@ -1,0 +1,1654 @@
+{
+  "id": "19",
+  "name": "ساقی نامہ",
+  "name-en": "The Cupbearer's Epistle",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوا خیمہ زن کاروان بہار\nارم بن گیا دامن کوہسار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spring’s caravan has pitched its tent at the foot of the mountain, making it look like the fabled garden of Iram.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گل و نرگس و سوسن و نسترن\nشہید ازل لالہ خونیں کفن",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوسن:چنبیلی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a riot of flowers – iris, rose, narcissus, lily, eglantine, and tulip in its martyr’s gory shroud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہاں چھپ گیا پردۂ رنگ میں\nلہو کی ہے گردش رگ سنگ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The landscape is all covered with a multicoloured sheet, and colour flows even in the veins of stones like blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فضا نیلی نیلی، ہوا میں سرور\nٹھہرتے نہیں آشیاں میں طیور",
+              "lang": "Original"
+            },
+            {
+              "_content": "طيور:پرندے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breezes blow intoxicatingly in a blue sky, so that the birds do not feel like remaining in their nests and fly about.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ جوئے کہستاں اچکتی ہوئی\nاٹکتی، لچکتی، سرکتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوئے کہستاں: پہاڑی ندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at that hill-stream. How it halts and bends and glides and swings around.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اچھلتی، پھسلتی، سنبھلتی ہوئی\nبڑے پیچ کھا کر نکلتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And then, collecting itself; surges up and rushes on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رکے جب تو سل چیر دیتی ہے یہ\nپہاڑوں کے دل چیر دیتی ہے یہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "سل : پتھر، چٹان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should it be stemmed, it would cut open the hills’ hearts and burst the rocks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ذرا دیکھ اے ساقی لالہ فام\nسناتی ہے یہ زندگی کا پیام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This hill-stream, my fair saki, has a message to give us concerning life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پلا دے مجھے وہ مئے پردہ سوز\nکہ آتی نہیں فصل گل روز روز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Attune me to this message and, come, let us celebrate the spring, which comes but once a year.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "وہ مے جس سے روشن ضمیر حیات\nوہ مے جس سے ہے مستی کائنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give me that wine whose heat burns up the veils of hidden things, whose light illuminates life’s mind;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "وہ مے جس میں ہے سوزوساز ازل\nوہ مے جس سے کھلتا ہے راز ازل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose strength intoxicates the universe, whose effervescence was Creation’s source.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اٹھا ساقیا پردہ اس راز سے\nلڑا دے ممولے کو شہباز سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come lift the veil off mysteries, and make a mere wagtail take eagles on.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زمانے کے انداز بدلے گئے\nنیا راگ ہے، ساز بدلے گئے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The times have changed; so have their signs. New is the music, and so are the instruments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہوا اس طرح فاش راز فرنگ\nکہ حیرت میں ہے شیشہ باز فرنگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The magic of the West has been exposed, and the magician stands aghast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "پرانی سیاست گری خوار ہے\nزمیں میر و سلطاں سے بیزار ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The politics of the ancient regime are in disgrace: world is tired of kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گیا دور سرمایہ داری گیا\nتماشا دکھا کر مداری گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The age of capitalism has passed, the juggler, having shown his tricks, has gone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "گراں خواب چینی سنبھلنے لگے\nہمالہ کے چشمے ابلنے لگے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Chinese are awaking from their heavy sleep. Fresh springs are bubbling forth from Himalayan heights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "دل طور سینا و فاراں دو نیم\nتجلی کا پھر منتظر ہے کلیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cut open is the heart of Sinai and Faran, and Moses waits for a renewed theophany.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "مسلماں ہے توحید میں گرم جوش\nمگر دل ابھی تک ہے زنار پوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim, zealous though about God’s unity, still wears the Hindu’s sacred thread around his heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تمدن، تصوف، شریعت، کلام\nبتان عجم کے پجاری تمام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In culture, mysticism, canon law and dialectical theology: He worships idols of non-Arab make.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "حقیقت خرافات میں کھو گئی\nیہ امت روایات میں کھو گئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The truth has been lost in absurdities, and in traditions is this ummah rooted still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "لبھاتا ہے دل کو کلام خطیب\nمگر لذت شوق سے بے نصیب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The preacher’s sermon may beguile your heart, but there is no sincerity, no warmth in it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "بیاں اس کا منطق سے سلجھا ہوا\nلغت کے بکھیڑوں میں الجھا ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a tangled skein of lexical complexities, sought to be solved by logical dexterity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "وہ صوفی کہ تھا خدمت حق میں مرد\nمحبت میں یکتا، حمیت میں فرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sufi, once foremost in serving God, unmatched in love and ardency of soul;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "عجم کے خیالات میں کھو گیا\nیہ سالک مقامات میں کھو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has got lost in the maze of Ajam’s ideas: At half-way stations is this traveller stuck.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بجھی عشق کی آگ، اندھیر ہے\nمسلماں نہیں، راکھ کا ڈھیر ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gone out is the fire of love. O how sad! The Muslim is a heap of ashes, nothing more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "شراب کہن پھر پلا ساقیا\nوہی جام گردش میں لا ساقیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Saki, serve me that old wine again, let that old cup go round once more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "مجھے عشق کے پر لگا کر اڑا\nمری خاک جگنو بنا کر اڑا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lend me the wings of Love and make me fly. Turn my dust to fireflies that flit about.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "خرد کو غلامی سے آزاد کر\nجوانوں کو پیروں کا استاد کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Free young men’s minds from slavery, and make them mentors of the old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "ہری شاخ ملت ترے نم سے ہے\nنفس اس بدن میں ترے دم سے ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The millat’s tree is green thanks to your sap: You are its body’s breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "تڑپنے پھٹرکنے کی توفیق دے\nدل مرتضی، سوز صدیق دے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give it the strength to vibrate and to throb; lend it the heart of Murtaza, the fervour of Siddiq.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "جگر سے وہی تیر پھر پار کر\nتمنا کو سینوں میں بیدار کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drive that old arrow through its heart which will revive desire in it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "ترے آسمانوں کے تاروں کی خیر\nزمینوں کے شب زندہ داروں کی خیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شب زندہ داروں:عبادت گذار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Blest be the stars of Your heavens; blest be those who spend their nights praying to You.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "جوانوں کو سوز جگر بخش دے\nمرا عشق، میری نظر بخش دے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Endow the young with fervent souls; grant them my vision and my love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مری ناو گرداب سے پار کر\nیہ ثابت ہے تو اس کو سیار کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ثابت:رکی ہوئی، ساکن۔\nناؤ:کشتی۔ \nسيار:متحرک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a boat in a whirlpool, stuck in one place. Rescue me and grant me mobility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "بتا مجھ کو اسرار مرگ و حیات\nکہ تیری نگاہوں میں ہے کائنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell me about the mysteries of life and death, for Your eye spans the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "مرے دیدۂ تر کی بے خوابیاں\nمرے دل کی پوشیدہ بے تابیاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sleeplessness if my tear-shedding eyes; the restless yearnings hidden in my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مرے نالۂ نیم شب کا نیاز\nمری خلوت و انجمن کا گداز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The prayerfulness of my cries at midnight; my melting into tears in solitude and company.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "امنگیں مری، آرزوئیں مری\nامیدیں مری، جستجوئیں مری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My aspirations, longings and desires; my hopes and quests;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "مری فطرت آئینۂ روزگار\nغزالان افکار کا مرغزار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "افکار غزالان: خیالات کے ہرن، خیالات۔\nMy mind that mirrors the times (A field for thought’s gazelles to roam);",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "مرا دل، مری رزم گاہ حیات\nگمانوں کے لشکر، یقیں کا ثبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "رزم گاہ: میدان جنگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart, which is a battlefield of life, where legions of doubt war with faith.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "یہی کچھ ہے ساقی متاع فقیر\nاسی سے فقیری میں ہوں میں امیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Saki, these are all my wealth; possessing them, I am rich in my poverty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "مرے قافلے میں لٹا دے اسے\nلٹا دے، ٹھکانے لگا دے اسے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Distribute all these riches in my caravan, and let them come to some good use.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "دما دم رواں ہے یم زندگی\nہر اک شے سے پیدا رم زندگی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In constant motion is the sea of life. All things display life’s volatility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "اسی سے ہوئی ہے بدن کی نمود\nکہ شعلے میں پوشیدہ ہے موج دود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is life that puts bodies forth, just as a whiff of smoke becomes a flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "گراں گرچہ ہے صحبت آب و گل\nخوش آئی اسے محنت آب و گل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unpleasant to it is the company of matter, but it likes to see its striving to improve itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "یہ ثابت بھی ہے اور سیار بھی\nعناصر کے پھندوں سے بیزار بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is fixed, yet in motion, straining at the leash to get free of the elements.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "یہ وحدت ہے کثرت میں ہر دم اسیر\nمگر ہر کہیں بے چگوں، بے نظیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A unity imprisoned in diversity, it is unique in every form and shape.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "یہ عالم، یہ بت خانۂ شش جہات\nاسی نے تراشا ہے یہ سومنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world, this six-dimensioned idol-house, this Somnat is all of its fashioning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "پسند اس کو تکرار کی خو نہیں\nکہ تو میں نہیں، اور میں تو نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not its way to repeat itself: You are not I, I am not you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "من و تو سے ہے انجمن آفرین\nمگر عین محفل میں خلوت نشیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With you and me and others it has formed assemblies, but is solitary in their midst.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "چمک اس کی بجلی میں تارے میں ہے\nیہ چاندی میں، سونے میں، پارے میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It shines in lightning, in the stars, in silver, gold and mercury.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "اسی کے بیاباں، اسی کے ببول\nاسی کے ہیں کانٹے، اسی کے ہیں پھول",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its the wilderness, its are the trees, its are the roses, its are the thorns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "کہیں اس کی طاقت سے کہسار چور\nکہیں اس کے پھندے میں جبریل و حور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It pulverises mountains with its might, and captures Gabriel and houris in its noose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "کہیں جرہ شاہین سیماب رنگ\nلہو سے چکوروں کے آلودہ چنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "چنگ: پنجے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a silver-grey, brave falcon here, its talons covered with the blood of partridges.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "کبوتر کہیں آشیانے سے دور\nپھڑکتا ہوا جال میں ناصبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناصبور: انتہائی بیتاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And over there, far from its nest, a pigeon helplessly aflutter in a snare.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "فریب نظر ہے سکون و ثبات\nتڑپتا ہے ہر ذرئہ کائنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stability is an illusion of eyes, for every atom in the world pulsates with change.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "ٹھہرتا نہیں کاروان وجود\nکہ ہر لحظہ ہے تازہ شان وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan of life does not halt anywhere, for every moment life renews itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "سمجھتا ہے تو راز ہے زندگی\nفقط ذوق پرواز ہے زندگی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you think life is great mystery? No, it is only a desire to soar aloft.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "بہت اس نے دیکھے ہیں پست و بلند\nسفر اس کو منزل سے بڑھ کر پسند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has seen many ups and downs, but likes to travel rather than to reach the goal;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "سفر زندگی کے لیے برگ و ساز\nسفر ہے حقیقت، حضر ہے مجاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضر: سفر کے بر عکس، ساکن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For travelling is life’s outfit: it is real, while rest is appearance, nothing more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "الجھ کر سلجھنے میں لذت اسے\nتڑپنے پھٹرکنے میں راحت اسے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life loves to tie up knots and then unravel them. Its pleasure lies in throbbing and in fluttering.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "ہوا جب اسے سامنا موت کا\nکٹھن تھا بڑا تھامنا موت کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it found itself face to face with death, it learned that it was hard to ward it off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "اتر کر جہان مکافات میں\nرہی زندگی موت کی گھات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So it descended to this world, where retribution is the law, and lay in wait for death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "مذاق دوئی سے بنی زوج زوج\nاٹھی دشت و کہسار سے فوج فوج",
+              "lang": "Original"
+            },
+            {
+              "_content": "زوج زوج: جوڑا جوڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of its love of duality, it sorted all things out in pairs, and then arose, host after host, from mountains and from wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "گل اس شاخ سے ٹوٹتے بھی رہے\nاسی شاخ سے پھوٹتے بھی رہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was a branch from which flowers kept shedding and bursting forth afresh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "سمجھتے ہیں ناداں اسے بے ثبات\nابھرتا ہے مٹ مٹ کے نقش حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ignorant think that life’s impress is Ephemeral, but it fades only to emerge anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "بڑی تیز جولاں، بڑی زورد رس\nازل سے ابد تک رم یک نفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "تيز جولاں: تیز چلنے والی \nزود رس: جلد پہنچنے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Extremely fleet-footed, it reaches its goal instantly. From time’s beginning to its end is but one moment’s way for it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "زمانہ کہ زنجیر ایام ہے\nدموں کے الٹ پھیر کا نام ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time, chain of days and nights, is nothing but a name for breathing in and breathing out.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "یہ موج نفس کیا ہے تلوار ہے\nخودی کیا ہے، تلوار کی دھار ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is this whiff of air called breath? A sword and selfhood is that sword’s sharp edge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "خودی کیا ہے، راز درون حیات\nخودی کیا ہے، بیداری کائنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the self? Life’s inner mystery, the universe’s waking up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "خودی جلوہ بدمست و خلوت پسند\nسمندر ہے اک بوند پانی میں بند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self, drunk with display, is also fond of solitude; an ocean in a drop.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "اندھیرے اجالے میں ہے تابناک\nمن و تو میں پیدا، من و تو سے پاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It shines in light and darkness both; displayed in individuals, yet free from them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "ازل اس کے پیچھے، ابد سامنے\nنہ حد اس کے پیچھے، نہ حد سامنے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behind it is eternity without beginning, and before it is Eternity without an end; it is unlimited both ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "زمانے کے دریا میں بہتی ہوئی\nستم اس کی موجوں کے سہتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Swept on by the waves of time’s stream, and at the mercy of their buffeting;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "تجسس کی راہیں بدلتی ہوئی\nوما دم نگاہیں بدلتی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It yet changes the course of its quest constantly, renewing its way of looking at things.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "سبک اس کے ہاتھوں میں سنگ گراں\nپہاڑ اس کی ضربوں سے ریگ رواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For it huge rocks are light as air: It smashes mountains into shifting sand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "سفر اس کا انجام و آغاز ہے\nیہی اس کی تقویم کا راز ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقويم: ثبات، مضبوطی ، استحکام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both its beginning and its end are journeying, for constant motion is its being’s law.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "کرن چاند میں ہے، شرر سنگ میں\nیہ بے رنگ ہے ڈوب کر رنگ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a ray of light in the moon and a spark in stone. It dwells in colours, but is colourless itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "اسے واسطہ کیا کم و بیش سے\nنشب و فراز وپس و پیش سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has nothing to do with more or less, with light and low, with fore and aft.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "ازل سے ہے یہ کشمکش میں اسیر\nہوئی خاک آدم میں صورت پذیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since time’s beginning it was struggling to emerge, and finally emerged in the dust that is man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "خودی کا نشیمن ترے دل میں ہے\nفلک جس طرح آنکھ کے تل میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in your heart that the Self has its abode, as the sky is reflected in the pupil of the eye.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "165",
+          "Text": [
+            {
+              "_content": "خودی کے نگہباں کو ہے زہر ناب\nوہ ناں جس سے جاتی رہے اس کی آب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To one who treasures his self, bread won at the cost of self-respect is gall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "Text": [
+            {
+              "_content": "وہی ناں ہے اس کے لیے ارجمند\nرہے جس سے دنیا میں گردن بلند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He values only bread he gains with head held high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "فرو فال محمود سے درگزر\nخودی کو نگہ رکھ، ایازی نہ کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرو فال: شان و شوکت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Abjure the pomp and might of a Mahmud; preserve your self, do not be an Ayaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "Text": [
+            {
+              "_content": "وہی سجدہ ہے لائق اہتمام\nکہ ہو جس سے ہر سجدہ تجھ پر حرام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Worth offering is only that prostration which makes all others forbidden acts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "Text": [
+            {
+              "_content": "یہ عالم، یہ ہنگامۂ رنگ و صوت\nیہ عالم کہ ہے زیر فرمان موت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world, this riot of colours and of sounds, which is under the sway of death;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "یہ عالم، یہ بت خانۂ چشم و گوش\nجہاں زندگی ہے فقط خورد و نوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This idol-house of eye and ear, in which to live is but to eat and drink,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "Text": [
+            {
+              "_content": "خودی کی یہ ہے منزل اولیں\nمسافر! یہ تیرا نشیمن نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is nothing but the Self’s initial stage. O traveller, it is not your final goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "تری آگ اس خاک داں سے نہیں\nجہاں تجھ سے ہے، تو جہاں سے نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک داں:مٹی کا گھر ، مراد ہے یہ دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire that is you has not come out of this heap of dust. You have not come out of this world; it has come out of you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "183",
+          "Text": [
+            {
+              "_content": "بڑھے جا یہ کوہ گراں توڑ کر\nطلسم زمان و مکاں توڑ کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Smash up this mountainous blockade, go further on and break out of this magic ring of time and space.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "خودی شیر مولا، جہاں اس کا صید\nزمیں اس کی صید، آسماں اس کا صید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God’s lion is the self; its quarry are both earth and sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "187",
+          "Text": [
+            {
+              "_content": "جہاں اور بھی ہیں ابھی بے نمود\nکہ خالی نہیں ہے ضمیر وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There are a hundred worlds still to appear, for Being’s mind has not drained of its creative capabilities.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "Text": [
+            {
+              "_content": "ہر اک منتظر تیری یلغار کا\nتری شوخی فکر و کردار کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All latent worlds are waiting for releasing blows from your dynamic action and exuberant thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "191",
+          "Text": [
+            {
+              "_content": "یہ ہے مقصد گردش روزگار\nکہ تیری خودی تجھ پہ ہو آشکار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the purpose of the revolution of the spheres that your selfhood should be revealed to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "193",
+          "Text": [
+            {
+              "_content": "تو ہے فاتح عالم خوب و زشت\nتجھے کیا بتاوں تری سرنوشت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the conqueror of this world of good and evil. How can I tell you the whole of your long history?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "Text": [
+            {
+              "_content": "حقیقت پہ ہے جامۂ حرف تنگ\nحقیقت ہے آئینہ، گفتار زنگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Words are but a strait-jacket for reality: Reality is a mirror, and speech the coating that makes it opaque.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "197",
+          "Text": [
+            {
+              "_content": "فروزاں ہے سینے میں شمع نفس\nمگر تاب گفتار کہتی ہے، بس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Breath’s candle is alight within my breast, but my power of utterance cries halt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "199",
+          "Text": [
+            {
+              "_content": "اگر یک سر موے برتر پرم\nفروغ تجلی بسوزدپرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میری اڑان مقررہ حد سے بال برابر بھی اونچی ہو جائے تو نور مطلق کی آتشیں تجلّی میرے بال و پر جلا کر خاک کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Should I fly even a hairbreadth too high, the blaze of glory would burn up my wings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

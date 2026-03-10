@@ -1,0 +1,82 @@
+{
+  "id": "49",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فطرت نے نہ بخشا مجھے اندیشہ چالاک \nرکھتی ہے مگر طاقت پرواز مری خاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On me no subtle brain though Nature spent, my dust hides strength to dare the high ascent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ خاک کہ ہے جس کا جنوں صیقل ادراک \nوہ خاک کہ جبریل کی ہے جس سے قبا چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That frantic dust whose eye outranges reason; dust by whose madness Gabriel’s rose is rent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ خاک کہ پروائے نشیمن نہیں رکھتی \nچنتی نہیں پہنائے چمن سے خس و خاشاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That will not creep about its garden gathering straw for a nest – un-housed and yet content.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس خاک کو اللہ نے بخشے ہیں وہ آنسو \nکرتی ہے چمک جن کی ستاروں کو عرق ناک",
+              "lang": "Original"
+            },
+            {
+              "_content": "عرق ناک: پانی پانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And Allah to this dust a gift of tears whose brightness shames the constellations, lent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

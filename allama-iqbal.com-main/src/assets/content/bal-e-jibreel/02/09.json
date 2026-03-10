@@ -1,0 +1,98 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق سے پیدا نوائے زندگی میں زیر و بم \nعشق سے مٹی کی تصویروں میں سوز وم بہ دم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through Love the song of Life begets its rhythmic flow: From Love the shapes of clay derive an endless glow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آدمی کے ریشے ریشے میں سما جاتا ہے عشق \nشاخ گل میں جس طرح باد سحر گاہی کا نم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love makes its way to all the pores in human flesh: Like dewy wind of morn that makes the rose twig fresh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اپنے رازق کو نہ پہچانے تو محتاج ملوک \nاور پہچانے تو ہیں تیرے گدا دارا و جم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If man denies his God, on kings he has to fawn: By trust in God, the kings to his door are drawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل کی آزادی شہنشاہی، شکم سامان موت \nفیصلہ تیرا ترے ہاتھوں میں ہے، دل یا شکم!",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکم: پیٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Free heart lends kingly state, to belly death is due: Decide which of the two is better in your view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے مسلماں! اپنے دل سے پوچھ، ملا سے نہ پوچھ \nہوگیا اللہ کے بندوں سے کیوں خالی حرم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim, search your heart, of mullah don’t ask it: ‘The sacred House of God, the righteous why have quit?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

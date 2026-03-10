@@ -1,0 +1,131 @@
+{
+  "id": "02",
+  "name": "حقیقت حسن",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خدا سے حسن نے اک روز یہ سوال کیا\nجہاں میں کیوں نہ مجھے تو نے لازوال کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beauty one day put this question to God: Why did you not make me eternal in the world?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ملا جواب کہ تصویر خانہ ہے دنیا\nشب دراز عدم کا فسانہ ہے دنیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The answer was that the world is like a picture gallery. The world is the story of the long night of annihilation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہوئی ہے رنگ تغیر سے جب نمود اس کی\nوہی حسیں ہے حقیقت زوال ہے جس کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the nature of change is the basis of its display; only that is beautiful whose reality is decline.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہیں قریب تھا، یہ گفتگو قمر نے سنی\nفلک پہ عام ہوئی، اختر سحر نے سنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اختر سحر: صبح کا تارا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon was somewhere near and it heard this conversation; it became well-known in the heaven, the morning star heard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سحر نے تارے سے سن کر سنائی شبنم کو\nفلک کی بات بتا دی زمیں کے محرم کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having heard from the star the morning related it to the dew, it exposed the celestial world’s secret to earth’s confidante.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بھر آئے پھول کے آنسو پیام شبنم سے\nکلی کا ننھا سا دل خون ہو گیا غم سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flower’s eye started weeping from the dew’s message; the flower bud’s little heart was injured by this sorrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چمن سے روتا ہوا موسم بہار گیا\nشباب سیر کو آیا تھا، سوگوار گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spring weeping from the garden departed: Youth had come for amusement, sad it departed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Reality Of Beauty",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

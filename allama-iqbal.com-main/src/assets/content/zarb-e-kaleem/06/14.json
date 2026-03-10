@@ -1,0 +1,83 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بے جرات رندانہ ہر عشق ہے روباہی \nبازو ہے قوی جس کا، وہ عشق یداللہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یداللہی: اللہ کا ہاتھ ؛ مراد ہے ایسا عشق جس میں مومن کا ہاتھ اللہ کا ہاتھ بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without a toper's courage, Love consists of naught save trick and guile; a man, whose Love of God is great, has brawny arms and is agile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جو سختی منزل کو سامان سفر سمجھے \nاے وائے تن آسانی ! ناپید ہے وہ راہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas the love of case and rest among the pilgrims seems profound; a man, who journey's toils may deem, as steed and food, is nowhere found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وحشت نہ سمجھ اس کو اے مردک میدانی! \nکہسار کی خلوت ہے تعلیم خود آگاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O men of plains do not think that I teach the beastly mode and art the lonely desert arid the mounts the man Self knowledge can impart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دنیا ہے روایاتی، عقبی ہے مناجاتی \nدر باز دو عالم را، این است شہنشاہی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "در باز دو عالم را: دونوں دنیاؤں کو چھوڑ دے۔\nاین است: یہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world observes traditions old, in world to come mere hymns can serve; forge both worlds and stick to God, if kingly grandeur you wish to deserve.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "07",
+  "name": "نگاہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہار و قافلہ لالہ ہائے صحرائی \nشباب و مستی و ذوق و سرود و رعنائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spring has come with tulips wild; they seem like carvans on the move. The youth, their charm and ecstatic joy of colossal worth and value prove.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اندھیری رات میں یہ چشمکیں ستاروں کی \nیہ بحر، یہ فلک نیلگوں کی پہنائی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشمکيں ستاروں کي: ستاروں کی جگمگاہٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sea that has no bound or marge, and azure sky that seems so high, when pitch dark night has upper hand, they gleam and glint like stars in sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سفر عروس قمر کا عماری شب میں \nطلوع مہر و سکوت سپہر مینائی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "عروس قمر: چاند کی دلہن۔\nعماري: ہاتھی کا ہودہ ، اونٹ کا کجاوہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How nice the bride-like moon appears, while touring sky in van of night at morn, the sun presents a scene much grand in sky so blue and bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نگاہ ہو تو بہائے نظارہ کچھ بھی نہیں \nکہ بیچتی نہیں فطرت جمال و زیبائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One must have eyes to see these sights which vie with each in bloom and grace; for Nature is not wont to sell the charm appearing on her face.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Vision",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

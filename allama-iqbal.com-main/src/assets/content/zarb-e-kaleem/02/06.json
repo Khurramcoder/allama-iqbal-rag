@@ -1,0 +1,35 @@
+{
+  "id": "06",
+  "name": "مغربی تہذیب",
+  "name-en": "Western Civilization",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فساد قلب و نظر ہے فرنگ کی تہذیب \nکہ روح اس مدنیت کی رہ سکی نہ عفیف \nرہے نہ روح میں پاکیزگی تو ہے ناپید \nضمیر پاک و خیال بلند و ذوق لطیف",
+              "lang": "Original"
+            },
+            {
+              "_content": "عفیف: پاکیزہ، پاکدامن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The culture that prevails in West corrupts the heart and gaze of man, its soil is full or stains and spots that at leisure one can scan.\nIf soul of man becomes defiled, of conscience clean it gets bereft. It soon forgets high aims and ends; no taste refined in it is left.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

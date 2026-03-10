@@ -1,0 +1,58 @@
+{
+  "id": "16",
+  "name": "تلاش رزق",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پریدن از سر بامی بہ بامی\nنبخشد جرہ بازان را مقامی\nز نخچیری کہ جز مشت پری نیست\nہمان بہتر کہ میری درکنامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(کووں کی طرح رزق کی خاطر) ایک چھت سے دوسری چھت تک اڑنا نر بازوں کو زیب نہیں دیتا۔\nاس شکار سے جو مٹھی بھر پر کے سوا ئے کچھ نہیں ؛ یہی بہتر ہے کہ تو اپنے گھونسلے میں مر جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the hawks too fly for roof to roof race*; amongst the birds of prey they find no place.\nFor a hunt of few wings and a bit flesh; it is better to die in aerey’s mesh.\n* It is below one’s dignity to knock door to door for help.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگر خود را بچشم محرمانہ\nنگاہ ماست ما را تازیانہ\nتلاش رزق از ن دادند ما را\nکہ باشد پر گشودن را بھانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو گہری نظر سے دیکھ؛ ہماری (محاسبہ کی) نگاہ ہی ہمارے لیے تازیانہ ہے۔\nرزق کی تلاش ہمیں اس لیے دی گئی ہے ؛ تاکہ ہمیں اپنے پر کھولنے کا بہانہ ملے (اپنی قوتیں آزمانے کا موقعہ ملے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hawk said to another hawk as follows: See thy own self with a seeing eye; this eye is a whip for us to fly; \nThis eye is a lash for a hunting dash; an excuse for wings to pounce in a flash.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Search For Food And Living",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

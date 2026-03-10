@@ -1,0 +1,67 @@
+{
+  "id": "53",
+  "name": "لاہور و کراچی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نظر اللہ پہ رکھتا ہے مسلمان غیور \nموت کیا شے ہے، فقط عالم معنی کا سفر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For Muslim true Death has no dread; to realm of souls, he straight is led.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ان شہیدوں کی دیت اہل کلیسا سے نہ مانگ \nقدر و قیمت میں ہے خوں جن کا حرم سے بڑھ کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیت: خون بہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't ask the rulers of this land to grant blood price for martyred band. Their blood is precious and divine like precincts of the Holy Shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آہ! اے مرد مسلماں تجھے کیا یاد نہیں \nحرف لا تدع مع اللہ الھاً آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! The Muslim forgot the lesson that to him was taught. He was ordained to cry to none save to God Unique and One.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Lahore And Karachi",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "57",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز خوب و زشت تو ناآشنایم\nعیارش کردہ ئی سود و زیان را\nدرین محفل ز من تنھا تری نیست\nبہ چشم دیگری بینم جھان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیرے (عام انسان کے) خوب و ناخوب سے نہ آشنا ہوں؛ تو نے نفع و نقصان کو (زندگی کا) معیار ٹھہرا لیا ہے۔\nاس محفل (جہان) میں مجھ سے زیادہ تنہا اور کوئی نہیں؛ (کیونکہ) میں اس جہان کو اور نظر سے دیکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know thy Ugly and thy Fair: Thou takest Gain and Loss to measure by. \nI am the loneliest in this company; I view the vast world with another eye.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

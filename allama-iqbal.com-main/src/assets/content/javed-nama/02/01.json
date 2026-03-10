@@ -1,0 +1,556 @@
+{
+  "id": "01",
+  "name": "فلک قمر",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "این زمین و آسمان ملک خداست\nاین مہ و پروین ہمہ میراث ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ زمین و آسمان اللہ تعالے کی ملکیّت ہیں؛ (اس لیے) یہ مہ و پروین ہماری میراث ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This earth and heaven are the Kingdom of God, this moon and Pleiades are our patrimony;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اندرین رہ ہر چہ آید در نظر\nبا نگاہ محرمی او را نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس راہ میں جو بھی نظر آئے ؛ اسے اپنوں کی نگاہ سے دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever thing meets your gaze upon this road, regard it with the eye of intimacy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون غریبان در دیار خود مرو\nاے ز خود گم اندکی بیباک شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے شہر میں اجنبیوں کی طرح نہ پھر ؛ اے اپنے آپ کو گم کیے ہوئے شخص ذرا بے باکی اختیار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Go not about your own dwelling like a stranger – you who are lost to yourself, be a little fearless!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "این و آن حکم ترا بر دل زند\nگر تو گوئی این مکن آن کن،کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب تیرے حکم کو دل و جان سے مانتے ہیں؛ اگر تو ان سے کہے یہ کرو، وہ نہ کرو، تو (اسی طرح) کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This and that impose your command on their hearts; if you say ‘Don’t do this, do that,’ they obey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نیست عالم جز بتان چشم و گوش\nاینکہ ہر فردای او میرد چو دوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان، چشم و گوش کے بتوں کے علاوہ اور کچھ نہیں؛ یعنی اس کا ہر آنے والا کل گذشتہ کل کی طرح مر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is nothing but idols of eye and ear; its every morrow will die like yesterday.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در بیابان طلب دیوانہ شو\nیعنی ابراہیم این بتخانہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیابان کی تلاش میں دیوانہ ہو جا؛ یعنی اس بتخانہ کا ابراہیم بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Plunge like a madman into the desert of the Quest, that is to say, be the Abraham of this idol-house!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چون زمین و آسمان را طی کنی\nاین جہان و آن جہان را طی کنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تو اس زمین و آسمان اور اس جہان اور اس جہان کو طے کر لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When you have travelled all through earth and heaven, when you have traversed this world and the other,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از خدا ہفت آسمان دیگر طلب\nصد زمان و صد مکان دیگر طلب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اللہ تعالے سے اور سات آسمان اور سینکڑوں نئے زمین و مکان طلب کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek from God another seven heavens, seek a hundred other times and spaces.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بے خود افتادن لب جوی بہشت\nبے نیاز از حرب و ضرب خوب و زشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہشت کی نہر کے کنارے نیکی اور بدی کی کشمکش سے بے نیاز پڑے رہنا (کوئی زندگی نہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Self-lost to sink on the bank of the river of Paradise, quit of the battle and buffetting of good and evil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گر نجات ما فراغ از جستجوست\nگور خوشتر از بہشت رنگ و بوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر نجات کا مطلب جستجو سے نجات پانا ہے؛ تو پھر اس بہشت رنگ و بو سے قبر بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If our salvation be the cessation of searching, better the grave than a heaven of colours and scents.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اے مسافر جان بمیرد از مقام\nزندہ تر گردد ز پرواز مدام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مسافر! قیام سے روح مر جاتی ہے؛ اور پرواز مدام سے روح اور زندہ ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Traveller! The soul dies of dwelling at rest, it becomes more alive by perpetual soaring.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہم سفر با اختران بودن خوش است\nدر سفر یک دم نیاسودن خوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ستاروں کا ہمسفر ہونا اور سفر میں ذرا آرام نہ کرنا باعث مسرّت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Delightful it is to travel along with the stars, delightful not to rest one moment on the journey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تا شدم اندر فضاہا پی سپر\nآنچہ بالا بود، زیر آمد نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں فضاؤں میں مصروف سفر ہوا؛ تو جو کچھ بالا تھا وہ نیچے نظر آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I had tramped through the vastness of space that which was once above now appeared below me,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "تیرہ خاکی برتر از قندیل شب\nسایۂ من بر سر من اے عجب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاریک خاک (زمین) رات کی قندیل سے برتر (دکھائی دی) اے عجب! میرا سایہ میرے سر پر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A dark earth loftier than the lamp of night, my shadow (O marvel! ) flung above my head;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہر زمان نزدیک تر نزدیکتر\nتا نمایان شد کہستان قمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم ہر لحظہ فلک قمر سے نزدیک ہوتے گئے؛ یہاں تک کہ اس کے پہاڑ نظر آنے لگے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All the while nearer and nearer still until the mountains of the Moon became visible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گفت \"رومی از گمانہا پاک شو\nخوگر رسم و رہ افلاک شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا! 'وہم و گمان چھوڑ اور اپنے آپ کو افلاک کے رسم و راہ (قوائد ) کا خوگر بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘Cleanse yourself of all doubts, grow used to the manners and ways of the spheres",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ماہ از ما دور و با ما آشناست \nاین نخستین منزل اندر راہ ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند ہم سے دور ہے، مگر ہمارا آشنا ہے؛ یہ ہمارے راستہ کی پہلی منزل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon is far from us, yet it is our familiar; this is the first stage upon our road;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "دیر و زود روزگارش دیدنی است\nغارہای کوہسارش دیدنی است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مکان و زمان اور اس کے کوہسار کے غار دیکھنے کے قابل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seen must be the late and soon of its time, seen must be the caverns of its mountains.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آن سکوت آن کوہسار ہولناک\nاندرون پر سوز و بیرون چاک چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کوہسار اور وہاں کا سکوت ہوہناک تھا ؛ چاند کا اندرون پرسوز اور بیرون چاک چاک تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That silence, that fearful mountain-range, inwardly full of fire, outwardly riven and ravined!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "صد جبل از خافطین و یلدرم\nبر دہانش درد و نار اندر شکم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں خافطین اور یلدرم کی قسم کے سینکڑوں پہاڑ تھے، جن کے دہانوں پر دھواں اور اندر آگ تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred peaks, such as Khaftin and Yildirim, smoke in their mouths and fire in their bellies;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "از درونش سبزہ ئی سر بر نزد\nطایری اندر فضایش پر نزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند کی سر زمین کے اندر سے سبزہ نہیں اگا تھا ؛ نہ اس کی فضا میں کوئی پرندہ پر مارتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of its bosom not a blade of grass sprang, no bird fluttered in its empty spaces;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ابر ہا بے نم، ہوا ہا تند و تیز\nبا زمین مردہ ئے اندر ستیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "نمی کے بغیر بادل اور تند و تیز ہوائیں، وہاں کی مردہ زمین سے جنگ آزما تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Clouds without moisture, winds swift and sword-sharp ever doing battle with a dead earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "عالم فرسودہ ئی بے رنگ و صوت\nنے نشان زندگی در وی نہ موت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ فرسودہ جہان رنگ اور آواز کے بغیر تھا؛ نہ وہاں زندگی کا نشان تھا، نہ موت کا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A worn-out world without colour and sound, no sign of life therein, neither of death,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "نے بنافش ریشۂ نخل حیات\nنے بہ صلب روزگارش حادثات",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اس کی ناف میں نخل حیات کا ریشہ تھا؛ اور نہ اس کے زمانہ کی صلب میں حادثات (کا وجود)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No root of the palm tree of life in its navel, no events hidden in the thighs of its time;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گرچہ ہست از دودمان آفتاب\nصبح و شام او نزاید انقلاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ چاند آفتاب ہی کے خاندان سے ہے ؛ مگر اس کے صبح و شام کوئی انقلاب نہیں لاتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though it is a member of the family of the sun its dawn and evening beget no revolution",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "گفت رومی \"خیز و گامی پیش نہ\nدولت بیدار را از کف مدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا اٹھ! اور قدم بڑھا، ہاتھ آئی دولت بیدار نہ گنوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘Rise, and take a step forward, do not let slip this wakeful fortune.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "باطنش از ظاہر او خوشتر است\nدر قفار او جہانی دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند کا اندرون اس کے بیرون سے خوشتر ہے؛ اس کے غاروں میں ایک اور جہان آباد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its interior is fairer than its exterior, another world lurks hidden in its hollows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "ہر چہ پیش آید ترا اے مرد ہوش\nگیر اندر حلقہ ہای چشم و گوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ہوشمند ! جو کچھ تیرے سامنے آئے؛ اسے اپنے چشم و گوش کے حلقوں میں سمیٹ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever presents itself to you, man of sense, seize it in the rings of the eye and the ear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "چشم اگر بیناست ہر شی دیدنی است\nدر ترازوی نگہ سنجیدنی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم اگر بینا ہو، تو ہر شے دیکھنے اور تراوزئے نگاہ میں تولنے کے قابل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the eye has vision, everything is worth seeing, worthy to be weighed in the glance’s balance.\nہ",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "ہر کجا رومی برد آنجا برو\nیک دو دم از غیر او بیگانہ شو\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں تجھے رومی لے جائے، اس کے ساتھ چل؛ ایک دو لمحہ کے لیے رومی کے علاوہ باقی سب سے بیگانہ ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wheresoever Rumi leads, there go; be estranged a moment or two from all but he.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "دست من آہستہ سوی خود کشید\nتند رفت و بر سر غاری رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے آہستہ سے میرا ہاتھ اپنی جانب کھینچا ؛ پھر تیز چل کر ایک غار کے دہانے تک پہنچ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gently he drew my hand towards him, then swiftly he sped to the mouth of a crater.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "The Sphere Of The Moon"
+}

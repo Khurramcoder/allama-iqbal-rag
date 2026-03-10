@@ -1,0 +1,116 @@
+{
+  "id": "34",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جب عشق سکھاتا ہے آداب خود آگاہی \nکھلتے ہیں غلاموں پر اسرار شہنشاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When through the Love man conscious grows of respect self-awareness needs, though in chains, he learns at once the regal mode and kingly deeds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عطار ہو، رومی ہو، رازی ہو، غزالی ہو \nکچھ ہاتھ نہیں آتا بے آہ سحر گاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Rumi, Attar, Ghazzali and Razi, one may be mystic great or wise, but none can reach his goal and aim without the help of morning sighs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نومید نہ ہو ان سے اے رہبر فرزانہ! \nکم کوش تو ہیں لیکن بے ذوق نہیں راہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرزانہ: عقلمند، دانا۔ \nکم کوش: کم کوشش کرنے والا ، تن آسان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No need for leaders sage and great to lose all hope of Muslim true: Though amiss this pilgrim be, yet can burn on fire like rue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے طائر لاہوتی! اس رزق سے موت اچھی \nجس رزق سے آتی ہو پرواز میں کوتاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "طائر لاہوتی: تصوّف میں آخری منزل لا ہوت ہے، یعنی وہ مقام جہاں اللہ تعالے کے سوا اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Bird, that yearn to merge with God*, you must keep this truth in sight; to suffer death is nobler far than bread that clogs your upward flight.\n\n* Contrary to the translation, Iqbal’s phrase simply means the bird that flies to the Throne of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دارا و سکندر سے وہ مرد فقیر اولی \nہو جس کی فقیری میں بوئے اسد اللہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A person poor and destitute, who walks in steps of God’s Lion bold, is more exalt’d than monarchs great: He spurns the worldly wealth and gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آئین جوانمردں، حق گوئی و بے باکی \nاللہ کے شیروں کو آتی نہیں روباہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "روباہی: لومڑی جیسی عادت، چالاکی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men bold and firm uphold the truth and let no fears assail their hearts: No doubt, the mighty Lions of God know no tricks and know no arts.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

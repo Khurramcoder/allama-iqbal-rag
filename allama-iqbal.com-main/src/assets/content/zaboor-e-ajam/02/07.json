@@ -1,0 +1,136 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمانہ قاصد طیار آن دلآرام است\nچہ قاصدی کہ وجودش تمام پیغام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانہ اس محبوب (اللہ تعالے ) کا تیز رو قاصد ہے، کیا قاصد ہے کہ اس کا سارا وجود ہی پیغام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time is the winged messenger of the Heart’s Desire; wondrous herald! Tidings fair is his life entire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گمان مبر کہ نصیب تو نیست جلوۂ دوست\nدرون سینہ ہنوز آرزوی تو خام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گمان نہ کر کہ تیرے نصیب میں جلوہء دوست نہیں ، (بات یہ ہے کہ ) ابھی تیرے سینے میں آرزو ناپختہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Think not, thou shalt never win the Beloved to view: The desire thy breast within still is raw, and new!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرفتم این کہ چو شاہین بلند پروازی\nبہوش باش کہ صیاد ما کہن دام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مانا کہ تو شاہین کی طرح بلند پرواز ہے؛ مگر ہوشیار رہ کہ ہمارا صیاد پرانا شکاری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well I know that thou dost soar hawk-like high in air; yet beware the Fowler, for ancient is his snare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ اوج مشت غباری کجا رسد جبریل\nبلند نامی او از بلندی بام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبریل امین اس مشت خاک کی عظمت کہاں پا سکتے ہیں کہ، ان کی بلند نامی تو بلندیء مقام کے سبب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How may Gabriel aspire where Man’s dust shall fly? If his present fame is higher: ‘Tis his roof that’s high!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو از شمار نفس زندہ ئی نمیدانی\nکہ زندگی بہ شکست طلسم ایام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم سانس گن گن کے زندگی بسر کر رہے ہو ،کیا تمہیں معلوم نہیں کہ زندگی طلسم ایّام توڑنے کا نام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All thy life is breath to take, knowing not, frail man, that true living is to break the days’ talisman.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز علم و دانش مغرب ہمین قدر گویم\nخوش است آہ و فغان تا نگاہ ناکام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب کے علم و دانش کے متعلق میں یہی کہہ سکتا ہوں کہ جب تک نگاہ (حسن ازل کا نظارہ پانے میں) ناکام ہے، آہ و فغاں خوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of the science of the West this much I will speak: Sweet are sighs and tears expressed while the gaze is weak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "من از ہلال و چلیپا دگر نیندیشم\nکہ فتنۂ دگری در ضمیر ایام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اب ہلال و صلیب کی چپقلش کا خطرہ نہیں ، کیونکہ زمانے کی تہ سے ایک نیا فتنہ ابھر رہا ہے ( غالبا کیمونزم کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O’er the Crescent and the Cross I am raised sublime; other tumult now doth toss in the brain of Time.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

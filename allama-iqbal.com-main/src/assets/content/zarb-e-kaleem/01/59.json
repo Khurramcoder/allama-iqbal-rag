@@ -1,0 +1,148 @@
+{
+  "id": "59",
+  "name": "مرد مسلمان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہرلحظہ ہے مومن کی نئی شان، نئی آن \nگفتار میں، کردار میں، اللہ کی برہان!",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہان: نشان، حجت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim true gets grandeur new with moment's change and every hour; by words and deeds he gives a proof of Mighty God, His reach and power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قہاری و غفاری و قدوسی و جبروت \nیہ چار عناصر ہوں تو بنتا ہے مسلمان",
+              "lang": "Original"
+            },
+            {
+              "_content": "قہاری: جس سے دشمن ڈر جائے ۔ \nغفار: بادشاہ، خطا کاروں سے درگزر کرنے والا۔ \nقدوسی: کردار کی پاکیزگی والا۔ \nجبروت: عظمت اور بزرگی والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To rout the foes, to grant them reprieve, do pious deeds and show great might are four ingredients that make a Muslim Devout who shuns not fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہمسایہء جبریل امیں بندئہ خاکی \nہے اس کا نشیمن نہ بخارا نہ بدخشان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With Gabriel trusted and steadfast this clay-born man has kinship close, a dwelling in some land or clime for himself Muslim never chose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ راز کسی کو نہیں معلوم کہ مومن \nقاری نظر آتا ہے، حقیقت میں ہے قرآن!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This secret yet none has grasped that Muslim Scripture reads so sweet practising rules by it prescribed, becomes its pattern quite complete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "قدرت کے مقاصد کا عیار اس کے ارادے \nدنیا میں بھی میزان، قیامت میں بھی میزان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Faithful acts on aims and ends that Nature keeps before its sight in world he sifts the good and bad, in future shall judge wrong and right.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جس سے جگر لالہ میں ٹھنڈک ہو، وہ شبنم \nدریاوں کے دل جس سے دہل جائیں، وہ طوفان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While dealing with friends and mates, he is dew that thirst of tulip slakes: When engaged with his foes in fight, like torrent strong makes rivers shake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فطرت کا سرود ازلی اس کے شب و روز \nآہنگ میں یکتا صفت سورئہ رحمن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The charm of Nature's eternal song in Muslim's life, no doubt is found like chapter Rahman of the Koran, is full of sweet melodious sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بنتے ہیں مری کارگہ فکر میں انجم \nلے اپنے مقدر کے ستارے کو تو پہچان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such thoughts that shine like lustrous stars my brain, like workshop, can provide, you can select the star you like, so that your Fate this star may guide.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

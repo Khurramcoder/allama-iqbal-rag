@@ -1,0 +1,35 @@
+{
+  "id": "04",
+  "name": "فلسفہ و سیاست",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فلسفی را با سیاست دان بیک میزان مسنج\nچشم آن خورشید کوری دیدۂ این بی نمی\nآن تراشد قول حق را حجت نا استوار\nوین تراشد قول باطل را دلیل محکمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفی کو سیاست دان کے ساتھ ایک ترازو میں نہ رکھ، فلسفی کی آنکھ خورشید دیکھنے سے اندھی ہے، سیاست دان کی آنکھ میں نمی نہیں۔ \nفلسفی سچی بات کے لیے نا پختہ دلیل تراشتا ہے، جب کہ سیاست دان قول باطل کے لیے پکّی دلیل گھڑتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Philosopher with statesman weigh not thou: Those are sun-blinded, these are tearless eyes.\nOne shapes a false argument for his truth, the other a block of logic for his lies.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Philosophy And Politics",
+  "credits": "English Translation by: R.A. Nicholson"
+}

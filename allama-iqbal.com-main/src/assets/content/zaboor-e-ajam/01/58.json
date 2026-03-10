@@ -1,0 +1,102 @@
+{
+  "id": "58",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ما کہ افتندہ تر از پرتو ماہ آمدہ ایم\nکس چہ داند کہ چسان اینہمہ راہ آمدہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم جو چاندنی سے زیادہ خاک افتادہ ہیں؛ کسی کو کیا معلوم کہ ہم نے یہ ساری راہ کس طرح طے کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tremulous as the moon-light to our far abode we came; and no man knoweth how we trod this road.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "با رقیبان سخن از درد دل ما گفتی\nشرمسار از اثر نالہ و آہ آمدہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے رقیب سے آپ نے ہمارے درد دل کی بات کہہ دی؛ ہم اپنے آہ و نالہ کے اثر سے شرمسار ہیں۔ (شاید رقیبوں سے فرشتے مراد ہوں، کیونکہ وہ بھی خلافت ارضی کے خواہاں تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of our heart’s grief Thou speakest to the watchful spies; we came with lamentation shameful of our sighs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پردہ از چہرہ بر افکن کہ چو خورشید سحر\nبہر دیدار تو لبریز نگاہ آمدہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "چہرے سے پردہ اٹھائیے کہ ہم آفتاب صبح کی مانند: آپ کے دیدار کے لیے ہمہ تن نگاہ کھڑے ہیں۔ (آفتاب کو لبریز نگاہ کہا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unveil Thy hidden beauty! As the dawning sun all eyes to gaze upon thee early we run.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عزم ما را بہ یقین پختہ ترک ساز کہ ما\nاندرین معرکہ بی خیل و سپاہ آمدہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے عزم کو ایمان سے اور زیادہ پختہ کیجیے ؛ کیونکہ ہم اس معرکہ (ء حق و باطل) میں بغیر لشکر یا فوج کے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Confirm our resolution with a stronger faith: We come unhorsed, narmoured to this field of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو ندانی کہ نگاہی سر راہی چہ کند\nدر حضور تو دعا گفتہ براہ آمدہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نہیں جانتے کہ نگاہ سر راہ کیا کرتی ہے؛ ہم آپ کے حضور ہدیہء نیاز پیش کر کے باہر آ گئے ہیں (اور راستہ میں کھڑے ہو گئے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a far gaze may fashion art Thou not aware? So fared we in Thy presence, on our lips a prayer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

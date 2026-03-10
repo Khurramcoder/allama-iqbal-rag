@@ -1,0 +1,34 @@
+{
+  "id": "62",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در این صحرا گذر افتاد شاید کاروانی را\nپس از مدت شنیدم نغمہ ہای ساربانی را\nاگر یک یوسف از زندان فرعونی برون آید\nبغارت میتوان دادن متاع کاروانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "بڑی مدت کہ بعد میں ساربان کا نغمہ سن رہا ہوں ؛ شاید اس صحرا سے کوئی کاروان گذر رہا ہے۔ \nاگر فرعون کے قید خانے سے ایک یوسف باہر آ جائے ؛ تو اس پر کاروان کا سارا مال و متاع قربان کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It chanced within the desert nigh a caravan was passing by, and presently there reached my ear the leader’s carol, loud and clear.\n‘If from some Pharaoh’s dark redoubt a Joseph might at last come out, open for all to plunder lies a caravan of merchandise.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

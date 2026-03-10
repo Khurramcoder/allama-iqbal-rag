@@ -1,0 +1,98 @@
+{
+  "id": "61",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شعور و ہوش و خرد کا معاملہ ہے عجیب \nمقام شوق میں ہیں سب دل و نظر کے رقیب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge and reason work in manner strange; in case of Love ’gainst heart and sight they range.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں جانتا ہوں جماعت کا حشر کیا ہو گا \nمسائل نظری میں الجھ گیا ہے خطیب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The end of Muslim folk I know full well’ on theoretic points their preachers dwell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگرچہ میرے نشیمن کا کر رہا ہے طواف \nمری نوا میں نہیں طائر چمن کا نصیب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though bird of mead hovers my lodge around; yet has no share of my melodious sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سنا ہے میں نے سخن رس ہے ترک عثمانی \nسنائے کون اسے اقبال کا یہ شعر غریب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Turks, I hear, between the lines can read; who can this verse so odd convey with speed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سمجھ رہے ہیں وہ یورپ کو ہم جوار اپنا \nستارے جن کے نشیمن سے ہیں زیادہ قریب!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم جوار: ہمسایہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You take the West for neighbour sweet and dear; though Stars to land of yours are close and near.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

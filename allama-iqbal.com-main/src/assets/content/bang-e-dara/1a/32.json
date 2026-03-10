@@ -1,0 +1,358 @@
+{
+  "id": "32",
+  "name": "رخصت اے بزم جہاں",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رخصت اے بزم جہاں! سوئے وطن جاتا ہوں میں\nآہ! اس آباد ویرانے میں گھبراتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Adapted from Ralph Waldo Emerson)\nFarewell O worldly companions! I am going to my homeland. I am feeling unhappy in this well populated wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بسکہ میں افسردہ دل ہوں، درخور محفل نہیں\nتو مرے قابل نہیں ہے، میں ترے قابل نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "درخور محفل: محفل کے قابل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am very much dejected, unsuitable for assemblies I am; neither you are suitable for me nor suitable for you I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "قید ہے، دربار سلطان و شبستان وزیر\nتوڑ کر نکلے گا زنجیر طلائی کا اسیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The king's audience and the minister's bed-chamber each is a prison; the golden chain's prisoner will break himself free from this prison.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گو بڑی لذت تری ہنگامہ آرائی میں ہے\nاجنبیت سی مگر تیری شناسائی میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though much pleasure is in embellishing your assembly, but some kind of strangeness is in your acquaintance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مدتوں تیرے خود آرائوں سے ہم صحبت رہا\nمدتوں بے تاب موج بحر کی صورت رہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود آرائوں: خود پسند لوگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I remained long in company of your self centered people; I remain restless for long like the waves of the ocean.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مدتوں بیٹھا ترے ہنگامہ عشرت میں میں\nروشنی کی جستجو کرتا رہا ظلمت میں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I remained long in your luxury gatherings; I remained long searching for light in the darkness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مدتوں ڈھونڈا کیا نظارئہ گل خار میں\nآہ، وہ یوسف نہ ہاتھ آیا ترے بازار میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I searched long for the rose' sight among thorns; Ah! I have not found that Yusuf in your market place.\n(Yusuf (A.S.) possessed both material and spiritual beauty, which has become proverbial in Islamic literature. Looking for and not getting Yusuf (A.S.) is metaphorically used for searching for and failing to find some invaluable object such as knowledge.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چشم حیراں ڈھونڈتی اب اور نظارے کو ہے\nآرزو ساحل کی مجھ طوفان کے مارے کو ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The perplexed eye for another scene is searching; as storm-stricken my eye for coast is searching.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چھوڑ کر مانند بو تیرا چمن جاتا ہوں میں\nرخصت اے بزم جہاں! سوئے وطن جاتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leaving your garden like fragrance I am going. Farewell! O worldly company I am going to the homeland.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گھر بنایا ہے سکوت دامن کہسار میں\nآہ! یہ لذت کہاں موسیقی گفتار میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have made my home in the quietness of the mountain side. Ah! I do not get this pleasure in conversation's music!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ہم نشین نرگس شہلا، رفیق گل ہوں میں\nہے چمن میرا وطن، ہمسایہء بلبل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Associate of Nargis-i-Shahlah, and rose's companion I am; the garden is my homeland, nightingale's associate I am.\n(Nargis-i-Shahlah: The narcissus which is reddish-blue instead of white or yellow. Nargis-i-Shahlah is invaluable on account of being very rare.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "شام کو آواز چشموں کی سلاتی ہے مجھے\nصبح فرش سبز سے کوئل جگاتی ہے مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sound of the spring's music lulls me to sleep. The morning cuckoo from the green carpet wakes me up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بزم ہستی میں ہے سب کو محفل آرائی پسند\nہے دل شاعر کو لیکن کنج تنہائی پسند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "کنج: کونہ، گوشہ۔ \nEveryone in the world assemblage social life likes the poet's heart but the solitude's corner likes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہے جنوں مجھ کو کہ گھبراتا ہوں آبادی میں میں\nڈھونڈتا پھرتا ہوں کس کو کوہ کی وادی میں میں؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am verged on lunacy by being perturbed in habitations, for whom I am searching, roaming in the mountain valleys?\\",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شوق کس کا سبزہ زاروں میں پھراتا ہے مجھے\nاور چشموں کے کنارے پر سلاتا ہے مجھے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose love makes me roam in the meadows? And makes me sleep on the spring's banks?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "طعنہ زن ہے تو کہ شیدا کنج عزلت کا ہوں میں\nدیکھ اے غافل! پیامی بزم قدرت کا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You taunt me that fond of the corner of retirement I am. Look O imprudent one! Messenger of Nature's assembly I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہم وطن شمشاد کا، قمری کا میں ہم راز ہوں\nاس چمن کی خامشی میں گوش بر آواز ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "گوش بر آواز: آواز پر کان لگائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Compatriot of the elms, turtle dove's confidante I am! In this garden's silence in the state of anxiety I am!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "کچھ جو سنتا ہوں تو اوروں کو سنانے کے لیے\nدیکھتا ہوں کچھ تو اوروں کو دکھانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I do hear something it is only to tell others. If I do see something it is only to show others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "عاشق عزلت ہے دل، نازاں ہوں اپنے گھر پہ میں\nخندہ زن ہوں مسند دارا و اسکندر پہ میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشق عزلت ميں: تنہائی کا عاشق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is a lover of retirement, proud of my home I am. Scoffing at the thrones of Dara and Sikandar I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "لیٹنا زیر شجر رکھتا ہے جادو کا اثر\nشام کے تارے پہ جب پڑتی ہو رہ رہ کر نظر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How enchanting is the act of lying under the trees, as now and then my sight falls at the evening star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "علم کے حیرت کدے میں ہے کہاں اس کی نمود\nگل کی پتی میں نظر آتا ہے راز ہست و بود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where in the strange house of learning can this be seen! The secret of universe can only in the rose petal be seen.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Farewell O World's Congregation!",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,210 @@
+{
+  "id": "10",
+  "name": "چاند اور تارے",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ڈرتے ڈرتے دم سحر سے\nتارے کہنے لگے قمر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being scared by the approaching dawn, stars started saying to the moon:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نظارے رہے وہی فلک پر\nہم تھک بھی گئے چمک چمک کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The same scenes have continued in the sky; we became even tired of continuous shining.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کام اپنا ہے صبح و شام چلنا\nچلنا چلنا، مدام چلنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our duty is moving morning till night; moving, moving, continuously moving.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بے تاب ہے اس جہاں کی ہر شے\nکہتے ہیں جسے سکوں، نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everything in this universe is restless: What is known as rest does not exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "رہتے ہیں ستم کش سفر سب\nتارے، انساں، شجر، حجر سب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Remain oppressed by the moving all; stars, mankind, trees, rocks and all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہوگا کبھی ختم یہ سفر کیا\nمنزل کبھی آئے گی نظر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Will this journey ever finish? Will destination be ever visible?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کہنے لگا چاند، ہم نشینو\nاے مزرع شب کے خوشہ چینو!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon started saying: ‘O Companions’! ‘O gleaners of the field of night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "جنبش سے ہے زندگی جہاں کی\nیہ رسم قدیم ہے یہاں کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In motion is the life of the universe; this is an age old custom of this place.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہے دوڑتا اشہب زمانہ\nکھا کھا کے طلب کا تازیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The horse of time is ever running, flogged by the desire for search.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اس رہ میں مقام بے محل ہے\nپوشیدہ قرار میں اجل ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Resting on this path is inappropriate; concealed in the rest's cloak is death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "چلنے والے نکل گئے ہیں\nجو ٹھہرے ذرا، کچل گئے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who were moving have moved away! Those halting a little, have been trampled!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "انجام ہے اس خرام کا حسن\nآغاز ہے عشق، انتہا حسن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The reward for this moving is Beauty; Love is the beginning, the end is Beauty.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Moon And Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

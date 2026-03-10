@@ -1,0 +1,34 @@
+{
+  "id": "78",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ سواد دیدۂ تو نظر آفریدہ ام من\nبہ ضمیر تو جھانی دگر آفریدہ ام من\nہمہ خاوران بخوابی کہ نہان ز چشم انجم\nبہ سرود زندگانی سحر آفریدہ ام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے تیری آنکھوں میں نظر پیدا کی ہے، میں نے تیرے ضمیر کے اندر نیا جہان تخلیق کیا ہے۔\nشام مشرق خوابیدہ ہے، مگر میں نے ستاروں کی موجودگی ہی میں (یعنی وقت سے پہلے) اپنے سرود زندگانی (اشعار) سے سحر پیدا کر دی ہے۔ (مشرق سے عموما مراد مسلمان ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have imparted insight to the pupil of your eye, and created a new world in your self;\nAll the East is asleep; hidden from the eyes of the stars, I have created morning by the melody of life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

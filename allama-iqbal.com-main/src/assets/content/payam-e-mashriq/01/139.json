@@ -1,0 +1,34 @@
+{
+  "id": "139",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز پیش من جہان رنگ و بو رفت\nزمین و آسمان و چار سو رفت\nتو رفتی اے دل از ہنگامۂ او\nو یا از خلوت آباد تو او رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سامنے یہ جہان رنگ و بو باقی نہیں ؛ نہ زمین ہے ، نہ آسمان، نہ چار سو۔ \nاے دل ! تو اس جہان کے ہنگامے سے کنارہ کش ہو گیا ہے؛ یا جہان (خود) تیرے خلوت آباد سے نکل گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world of colour and of fragrancy; earth, sky, dimension, all are gone from me: \nDidst thou desert His tumult, O my heart or hath He left thee to thy privacy?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

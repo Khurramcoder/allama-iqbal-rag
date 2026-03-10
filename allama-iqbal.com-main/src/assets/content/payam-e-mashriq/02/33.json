@@ -1,0 +1,205 @@
+{
+  "id": "33",
+  "name": "حکمت فرنگ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شنیدم کہ در پارس مرد گزین\nادا فہم رمز آشنا نکتہ بین",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے سنا کہ فارس میں ایک برگزیدہ شخص، جو ادا فہم ، رمز آشنا اور نکتہ بیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The story goes that in Iran a worthy man, intelligent and wise;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بسی سختی از جان کنی دید و مرد\nبر آشفت و جان شکوہ لبریز برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے مرنے سے پہلے جان کنی بہت سخت دیکھی، (اس لیے) وہ ناراضگی اور شکوہ سے لبریز جان لے کر یہاں سے رخصت ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Died, suffering great agonies, departing with a heart full of distress and smart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ نالش در آمد بہ یزدان پاک\nکہ دارم دلی از اجل چاک چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "(موت کے بعد) اس نے اللہ تعالے کی جانب میں دعوی دائر کیا، کہ (فرشتہ ء) اجل کی سختی سے میرا دل پاش پاش ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He went up to God’s throne and said: ‘God I am one grieved at the way that I was made to die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کمالی ندارد بہ این یک فنی\nنداند فن تازۂ جان کنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرشتہ ء موت کا ایک ہی کام ہے (مگر) وہ اس میں بھی کمال حاصل نہیں کر سکا، اس نے ابھی جان قبض کرنے کا کوئی جدید فن نہیں سیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your angel of death is supposed to be a specialist, and yet he has no expertise, no knowledge of the new skills that exist in the fine art of killing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "برد جان و ناپختہ در کار مرگ\nجہان نو شد و او ہمان کہنہ برگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جان تو نکال لیتا ہے مگر ابھی اس کام میں ناپختہ ہے، دنیا نئی ہو گئی مگر وہ ابھی وہی پرانا انداز اپنائے پھرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He kills, but does it so clumsily. The world is going rapidly ahead, but his growth has stopped dead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "فرنگ آفریند ہنرہا شگرف\nبر انگیزد از قطرہ ئی بحر ژرف",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگیوں نے عجیب و غریب ہنر ایجاد کر لیے ہیں، وہ قطرے سے بھی بے پایاں سمندر نکال لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West develops wonderful new skills in this as in so many other fields. Fine are the ways it kills, and great are its skill’s yields.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کشد گرد اندیشہ پرگار مرگ\nہمہ حکمت او پرستار مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگی موت کی پرکار کو اپنی سوچ کے گرد گھوماتا ہے، اس کا سارا فلسفہ موت کا پرستار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has encompassed even thought with death. Death is all its philosophies’ life-breath; it is what all its sciences devise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "رود چون نہنگ آبدوزش بہ یم\nز طیارۂ او ہوا خوردہ بم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی آبدوز سمندر کے نیچے مگرمچھ کی طرح چلتی ہے، اس کے ہوائی جہاز ہوا کے تمانچے کھاتے ہیں (فضا میں اڑتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its submarines are crocodiles, with all their predatory wiles. Its bombers rain destruction from the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نبینی کہ چشم جہان بین ہور\nہمی گردد از غاز او روز کور",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا آپ نہیں دیکھتے کہ سورج کی جہاں بین آنکھ ، فرنگیوں کے غازے تاریک دن میں تبدیل ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its gases so obscure the sky they blind the sun’s world-seeing eye. Its guns deal death so fast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تفنگش بہ کشتن چنان تیز دست\nکہ افرشتۂ مرگ را دم گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی بندوق مارنے میں اتنی تیز ہے کہ فرشتہء موت بھی دم بخود رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Angel of Death stands aghast, quite out of breath in coping with this rate of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "فرست این کہن ابلہ را در فرنگ\nکہ گیرد فن کشتن بی درنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بوڑھے بیوقوف (عزازیل ) کو فرنگستان میں بھیجئے ، کہ فوری جان نکالنے کا فن سیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dispatch this old fool to the West to learn the art of killing fast – and best.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Wisdom Of The West",
+  "credits": "English Translation by: M. Hadi Husain"
+}

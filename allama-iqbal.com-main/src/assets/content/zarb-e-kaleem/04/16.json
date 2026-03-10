@@ -1,0 +1,100 @@
+{
+  "id": "16",
+  "name": "سرود",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آیا کہاں سے نالہ نے میں سرود مے \nاصل اس کی نے نواز کا دل ہے کہ چوب نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چوب نے: لکڑی جس سے بانسری بنتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whence does the zest of liquor come in mournful tune of hollow reed is its main-spring the player's heart, or does it from the pipe proceed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل کیا ہے، اس کی مستی و قوت کہاں سے ہے \nکیوں اس کی اک نگاہ الٹتی ہے تخت کے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the source of heart's great might, wherefore to rapture it is prone; how does it topple with a glance the firm and mighty Achamenian throne?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کیوں اس کی زندگی سے ہے اقوام میں حیات \nکیوں اس کے واردات بدلتے ہیں پے بہ پے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does the heart bestow fresh life on nations on verge of decline: Why do its states, have constant change, are points that no one can divine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیا بات ہے کہ صاحب دل کی نگاہ میں \nجچتی نہیں ہے سلطنت روم و شام و رے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why is it that in eyes of man on whom God has bestowed a heart, the realms of Syria, Rome and Rai are fake effects in the mart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جس روز دل کی رمز مغنی سمجھ گیا \nسمجھو تمام مرحلہ ہائے ہنر ہیں طے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغني: نغمہ گانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The day the minstrel grasps this point which is hid in depths of heart, take it for granted, you have traversed all the stages required by art.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Melody",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

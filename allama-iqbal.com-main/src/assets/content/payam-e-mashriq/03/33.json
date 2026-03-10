@@ -1,0 +1,68 @@
+{
+  "id": "33",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تب و تاب بتکدۂ عجم نرسد بسوز و گداز من\nکہ بیک نگاہ محمد عربی گرفت حجاز من",
+              "lang": "Original"
+            },
+            {
+              "_content": "بتکدہ ء (افکار ) عجم کی چمک دمک میرے سوز و گداز کو نہیں پہنچ سکتی ، حضور اکرم (صلعم) نے ایک نگاہ سے میرے (دل کے) حجاز کو فتح کر لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The animation in the idol-temple of ‘Ajam does not match the great ardour of my heart, for with one glance Muhammad of Arabia has conquered the Hijaz that is in me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چکنم کہ عقل بھانہ جو گرہی بہ روی گرہ زند\nنظری کہ گردش چشم تو شکند طلسم مجاز من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کیا کروں؟ میری بہانہ ساز عقل الجھنوں پر الجھنیں بڑھا رہی ہے، حضور (صلعم)! مجھ پر نظر (کرم) فرمائیں کہ آپ کی نگاہ سے میرے مجاز کا طلسم ٹوٹ جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What shall I do? The wily intellect has tied me up in knots. One glance, I pray. The motion of your eye perhaps will break its fiction’s spell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نرسد فسونگری خرد بہ تپیدن دل زندہ ئی\nز کنشت فلسفیان در آ بحریم سوز و گداز من",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد کی جادو گری، دل زندہ کی تڑپ کو نہیں پہنچتی ، فلسفیوں کے کنشت (یہودیوں کا معبد) سے میرے سوز و ساز کے حرم میں آ جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The magic tricks of reason do not touch the fervour of a living heart. Forsake the temple of philosophy, and come into the sanctum of my heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

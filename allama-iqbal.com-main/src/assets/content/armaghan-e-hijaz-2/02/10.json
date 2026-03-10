@@ -1,0 +1,149 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گریبان چاک و بے فکر رفو زیست\nنمی دانم چسان بے آرزو زیست\nنصیب اوست مرگ ناتمامی \nمسلمانی کہ بے اللہ ہو زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا گریبان پھٹا ہوا ہے، مگر اسے اس کے چاک سینے کی فکر نہیں؛ میں نہیں جانتا کہ وہ آرزو کے بغیر کیسے زندگی بسر کر رہا ہے۔\nوہ مسلمان جو اللہ ہو کے بغیر زندگی بسر کرتا ہے؛ اس کی قسمت میں نامکمل موت ہے (نہ وہ زندوں میں ہے، نہ مردوں میں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His collar is torn, he cares no darn, I know not a life, so bore, forlorn.\nTo him is destined, a death so dry, fie a Muslim’s life, sans ‘Allah Hoo’ cry.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حق آن دہ کہ مسکین و اسیر است\nفقیر و غیرت او دیر میر است\nبروی او در میخانہ بستند \nدر این کشور مسلمان تشنہ میر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) اس کی حق رسی کریں، وہ مسکین و اسیر ہے؛ فقیر ہے، اور اس کی غیرت کبھی کی مر چکی ہے۔ \nاس پر میکد ے (روحانیت) کا دروازہ بند کر دیا گیا؛ اس ملک میں مسلمان پیاسا مر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give him his dues, of a captive and meek, a beggar whose honour is since long dead.\nThe doors of a tavern are closed on weak, the Muslims are dying from thirst on bed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دگر پاکیزہ کن آب و گل او\nجہانی آفرین اندر دل او\nہوا تیز و بدامانش دو صد چاک\nبیندیش از چراغ بسمل او",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) اس کی فطرت کو دوبارہ پاکیزہ کر دیں؛ اس کے دل میں نیا جہان پیدا فرما دیں۔ \nہوا تیز ہے اور اس کے دامن میں دو سو چاک ہیں؛ آپ (صلعم ) اس کے بجھتے ہوئے چراغ کی فکر کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Refine his morals and life once more, infuse a world new in his heart’s core.\nFrom violent storms, his clothes are torn, fear from his lamp, though wavers and worn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عروس زندگی در خلوتش غیر\nکہ دارد در مقام نیستی سیر\nگنہکاریست پیش از مرگ در قبر\nنکیرش از کلیسا، منکر از دیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کی دلہن اس کی خلوت گاہ میں اجنبی ہے (وہ زندگی سے لطف نہیں اٹھا رہا)؛ کیونکہ وہ نیستی کے مقام کی سیر میں مصروف ہے۔ \nوہ ایسا گنہگار ہے جو موت سے پہلے ہی قبر میں پہنچ چکا ہے؛ اس کے نکیر کلیسا ہیں اور منکر مندر سے (منکر نکیر قبر میں آ کر سوال کرتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bride of life, in him is not his own, she comes out then from limbe’s lover line.\nEntombed before death like sinner in chain, torn among the angels of church and fane.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بہ چشم او نہ نور و نے سرور است\nنہ دل در سینۂ او ناصبور است\nخدا آن امتے را یار بادا\nکہ مرگ او ز جان بے حضور است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی آنکھ میں نہ نور ہے نہ سرور؛ نہ اس کے سینے میں دل بے قرار۔\nخدا اس امت کا مددگار ہو؛ کہ اس کی موت جان بے حضور (عشق الہی) سے خالی ہونے کے باعث ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His eyes are void of a glamour and glee, no restive heart in his bosom I see.\nGod be a friend of the unlucky race, who vanished from scene being out of His grace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "(6)",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "مسلمان زادہ و نامحرم مرگ\nز بیم مرگ لرزان تا دم مرگ\nدلی در سینہ چاکش ندیدم\nدم بگسستہ ئی بود و غم مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مسلمان زادہ ہو کر موت سے ناواقف ہے ؛ تا دم مرگ موت کے خوف سے کانپتا رہتا ہے۔ \nمجھے اس کے سینہ ء چاک میں دل نظر نہیں آیا ؛ البتہ وہاں اکھڑا ہوا سانس اور موت کا خوف ضرور دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though born as Muslim yet knows not the death, from fear of death shivers to his last breath;\nI didn’t peep though through his bosom’s slit; the fear of death has weaken’d his grit.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

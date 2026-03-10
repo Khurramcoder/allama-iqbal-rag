@@ -1,0 +1,33 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مکانی ہوں کہ آزاد مکاں ہوں \nجہاں بیں ہوں کہ خود سارا جہاں ہوں \nوہ اپنی لامکانی میں رہیں مست \nمجھے اتنا بتا دیں میں کہاں ہوں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Am I bound by space, or beyond space? A world-observer, or a world myself? \nLet Him remain happy in His Infinitude, but condescend to tell me where I am.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

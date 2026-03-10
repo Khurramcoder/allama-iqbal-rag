@@ -1,0 +1,34 @@
+{
+  "id": "50",
+  "name": "شیخ مکتب سے",
+  "name-en": "To School Headmaster",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شیخ مکتب ہے اک عمارت گر \nجس کی صنعت ہے روح انسانی \nنکتہء دلپذیر تیرے لیے \nکہہ گیا ہے حکیم قاآنی \nپیش خورشید بر مکش دیوار \nخواہی ار صحن خانہ نورانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "'اگر تو اپنے گھر کا صحن روشن رکھنا چاہتا ہے تو ایسی دیوار نہ بنا جو سورج کی روشنی کو روک دے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The headmaster is an architect whose material is the human soul.\nA good advice has been left for you by the sage Qa‘ani:\n‘Do not raise a wall against the Sun if you wish the courtyard illuminated.’\n(Translate by V G Kiernan)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

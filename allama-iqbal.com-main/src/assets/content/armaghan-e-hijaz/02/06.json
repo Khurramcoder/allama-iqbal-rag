@@ -1,0 +1,32 @@
+{
+  "id": "06",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہا اقبال نے شیخ حرم سے\nتہ محراب مسجد سو گیا کون\nندا مسجد کی دیواروں سے آئی\nفرنگی بت کدے میں کھو گیا کون؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal once said to Sheikh of Holy home: Who is sleeping now under the mosque a dome.\nI heard a voice then from the mosque’s lane, who is lost now in the Tina’s lane.\n(Tina is a dim of Christina. Teenic, Tina, Xina are diminutives of China.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

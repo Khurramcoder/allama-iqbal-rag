@@ -1,0 +1,102 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز ہر نقشی کہ دل از دیدہ گیرد پاک میآیم\nگدای معنی پاکم تہی ادراک می آیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنے آپ کو ہر اس نقش سے پاک رکھا ہے جو نگاہ کے ذریعے دل پر وارد ہو؛ چونکہ میں آپ کے حسن پاکیزہ کا گدا ہوں اس لیے اپنا ادراک صاف رکھتا ہوں (قرآن پاک میں نگاہ نیچی رکھنے کا حکم ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of every image that the heart takes from the eye – I have no part; perception weigheth not with me, I beg for pure reality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گہی رسم و رہ فرزانگی ذوق جنون بخشد\nمن از درس خرد مندان گریبان چاک میآیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی فرزانگی کے طور طریقے بھی ذوق جنوں بخش دیتے ہیں ؛ بسا اوقات اہل دانش کی باتیں سن کر میں گریبان چاک کر کے ان کی مجلس سے باہر آگیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Anon a touch of madness lies in the conventions of the wise; I come with collar torn, a fool, for all I went to wisdom’s school.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گہی پیچد جہان بر من گہی من بر جہان پیچم\nبگردان بادہ تا بیرون ازین پیچاک میآیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی جہان مجھے اپنی لپیٹ میں لے لیتا ہے اور کبھی میں جہان کو اپنی لپیٹ میں لے لیتا ہوں؛ آپ جام آگے بڑھائیں تاکہ میں اس کشمکش سے باہر نکلوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Anon I wrap me in the world, anon about me ‘tis enfurled; pass round the wine, and pass again, that I may break this tangled skein.\\",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ اینجا چشمک ساقی نہ آنجا حرف مشتاقی\nز بزم صوفی و ملا بسی غمناک می آیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں صوفی و ملّا دونوں کی بزم سے غمناک نکلا ہوں ؛ نہ یہاں کوئی رمز محبت ہے ، نہ وہاں کوئی شوق کی بات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No Saki’s glance enchants me here, nor any talk of love sincere; from mullah’s board and Sufi’s feast I nothing gain but care increased.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "رسد وقتی کہ خاصان ترا با من فتدکاری\nکہ من صحرائیم پیش ملک بیباک می آیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقت آ گیا ہے کہ آپ کے خاص الخاص بندوں سے میرا معاملہ ہو؛ کیونکہ میں صحرائی ہوں اور ہر حکمران کے سامنے بے باکانہ گفتگو کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Th time that they had much to do with me, Thy choice and favoured few: The desert was my upbringing; I fearless stride before the king.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

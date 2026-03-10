@@ -1,0 +1,66 @@
+{
+  "id": "20",
+  "name": "عصر حاضر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پختہ افکار کہاں ڈھونڈنے جائے کوئی \nاس زمانے کی ہوا رکھتی ہے ہر چیز کو خام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where from a man can find ripe thoughts in present age? The weather of this park no ripeness can presage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مدرسہ عقل کو آزاد تو کرتا ہے مگر \nچھوڑ جاتا ہے خیالات کو بے ربط و نظام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seats of learning give the mind of pupils’ scope but leave the thoughts of youth unlinked by thread or rope.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مردہ، 'لا دینی افکار سے افرنگ میں عشق \nعقل بے ربطی افکار سے مشرق میں غلام!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The love of God is dead by unbelief 'mong Franks through lack of link in thoughts, East shackles wears on shanks.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Modern Age",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

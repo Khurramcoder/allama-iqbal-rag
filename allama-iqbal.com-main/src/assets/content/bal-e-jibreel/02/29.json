@@ -1,0 +1,129 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "افلاک سے آتا ہے نالوں کا جواب آخر \nکرتے ہیں خطاب آخر، اٹھتے ہیں حجاب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the heavens comes an answer to our long cries at last: the heavens break their silence, the curtains rise at last!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "احوال محبت میں کچھ فرق نہیں ایسا \nسوز و تب و تاب اول، سوزو تب و تاب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Little of change love’s fortunes inherit: born in anguish and fire, in fire and anguish its end it buys at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں تجھ کو بتاتا ہوں، تقدیر امم کیا ہے \nشمشیر و سناں اول، طاوس و رباب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The destiny of nations I chart for you: At first the sword and spear; the zither’s, the lute’s soft sighs at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میخانہ یورپ کے دستور نرالے ہیں \nلاتے ہیں سرور اول، دیتے ہیں شراب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Outlandish are the customs that Europe’s tavern knows! It steeps men first in pleasure, the wine supplies at last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیا دبدبہ نادر، کیا شوکت تیموری \nہو جاتے ہیں سب دفتر غرق م ے ناب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be it the awe of Nadir, be it the glory of a Tamerlane: At last all exploits are drowned in a barrel of wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خلوت کی گھڑی گزری، جلوت کی گھڑی آئی \nچھٹنے کو ہے بجلی سے آغوش سحاب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cloistered hour is over, the arena’s hour begins; the lightning comes to asunder those cloudy skies at last!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تھا ضبط بہت مشکل اس سیل معانی کا \nکہہ ڈالے قلندر نے اسرار کتاب آخر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was too hard to withhold the flood of these truths, at last the Qalandar revealed the secrets of the Book.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M.D. Taseer"
+}

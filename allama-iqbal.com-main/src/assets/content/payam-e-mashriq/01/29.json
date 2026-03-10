@@ -1,0 +1,34 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا از خویشتن بیگانہ سازد\nمن آن آبی طربناکی ندارم\nبہ بازارم مجو دیگر متاعی\nچو گل جز سینۂ چاکی ندارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں وہ مسرت انگیز شراب نہیں رکھتا، جو تجھے اپنا آپ بھلا دے۔ \nمیرے بازار میں کوئی اور سامان نہ ڈھونڈ ، میں بھی پھول کی مانند سینہء چاک کے علاوہ اور کچھ نہیں رکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not sell the stuff that generates forgetfulness and that inebriates.\nA rent breast like a flower’s is all I have to offer, nothing that exhilarates.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

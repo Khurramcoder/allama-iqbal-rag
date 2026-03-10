@@ -1,0 +1,154 @@
+{
+  "id": "14",
+  "name": "جلال و گوتہ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نکتہ دان المنے را در ارم\nصحبتی افتاد با پیر عجم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنت میں جرمن دانشور (گوئتے ) کی پیر عجم (رومی) سے ملاقات ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In paradise that perceptive German happened upon the Master of the East.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شاعری کو ہمچو آن عالی جناب\nنیست پیغمبر ولی دارد کتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جرمن شاعر بھی اس بلند مرتبت (شخصیت) کی مانند ، پیغمبر تو نہیں لیکن کتاب رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is a poet of such stature! Though not a prophet, he is possessed of scripture!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خواند بر دانای اسرار قدیم\nقصۂ پیمان ابلیس و حکیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر نے اسرار قدیم کے دانا (رومی) کے سامنے ، ابلیس حکیم کے پیمان کا قصّہ پڑھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the one who knew divine secrets he read about the pact of Iblis and the doctor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت رومی اے سخن را جان نگار\nتو ملک صید استی و یزدان شکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا اے وہ شخص جو سخن کو روح سے مزیّن کرتا ہے، تو فرشتوں سے لے کر حق تعالے تک کو اپنے فکر میں اسیر کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘You who bring words to life, and hunt angels and God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فکر تو در کنج دل خلوت گزید\nاین جہان کہنہ را باز آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا فکر دل کی گہرائیوں میں اتر جاتا ہے ، تو نے جہان قدیم کا از سر نو پیدا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your thought has made its home in the inner recesses of the heart, and created this old world anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سوز و ساز جان بہ پیکر دیدہ ئی\nدر صدف تعمیر گوہر دیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے پیکر میں جان کا سوز و ساز دیکھا ہے، تو نے صدف کے اندر گوہر بنتے دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At one and the same time in the body’s frame, you have seen the tranquility and the restlessness of the soul; you have been a witness to the birth of the pearl in the shell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہر کسی از رمز عشق آگاہ نیست\nہر کسی شایان این درگاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر کوئی رمز عشق سے آگاہ نہیں، ہر کوئی درگاہ عشق کے شایان نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not everyone knows the secret of love; or is fit to reach these portals.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "\"داند آن کو نیکبخت و محرم است\nزیرکی ز ابلیس و عشق از آدم است\" \nرومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "'صرف خوش بخت اورمحرم (اسرار) ہی جانتا ہے، کہ چالاکی ابلیس سے ہے اور عشق آدم (علیہ) سے '",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘He who is blest, and a confidant, knows that cunning comes from Iblis and love from Adam.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Jalal And Goethe",
+  "credits": "English Translation by: Mustansir Mir"
+}

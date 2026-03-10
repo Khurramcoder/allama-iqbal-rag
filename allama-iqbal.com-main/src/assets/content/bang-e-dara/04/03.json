@@ -1,0 +1,33 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شیخ صاحب بھی تو پردے کے کوئی حامی نہیں \nمفت میں کالج کے لڑکے ان سے بدظن ہو گئے \nوعظ میں فرما دیا کل آپ نے یہ صاف صاف \n\"پروہ آخر کس سے ہو جب مرد ہی زن ہو گئے\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Shaikh also is not a supporter of women’s seclusion; the college boys unnecessarily suspicious of him became.\nHe clearly stated in the sermon yesterday: ‘From whom would women be secluded if men women became’ \n(Humorous reference to the clean-shaved faces adopted by men in the Indian Sub-continent following Lord Curzon. The word used in the original is ‘zan’, which is the Persian word for ‘woman’. There is a pun in ‘zan’ and ‘Curzon’.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

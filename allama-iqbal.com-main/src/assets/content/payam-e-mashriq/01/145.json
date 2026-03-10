@@ -1,0 +1,33 @@
+{
+  "id": "145",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا مثل نسیم آوارہ کردند\nدلم مانند گل صد پارہ کردند\nنگاہم را کہ پیدا ہم نبیند\nشہید لذت نظارہ کردند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a wanderer like the breeze of morn, rose-like my heart is into fragments torn.\nMy glance, which cannot see the evident, a martyr to the joy of sight is borne.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

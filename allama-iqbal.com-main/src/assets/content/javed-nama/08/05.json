@@ -1,0 +1,1734 @@
+{
+  "id": "05",
+  "name": "در حضور شاہ ہمدان",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "شاہ ہمدان کے حضور",
+  "Para": [
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از تو خواھم سر یزدان را کلید\nطاعت از ما جست و شیطان آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ سے ذات باری تعالے کے اس راز کی کلید چاہتا ہوں کہ خود شیطان پیدا کیا اور ہم سے اطاعت چاہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek from you the key to the secret of God: He sought from us obedience, and created Satan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زشت و ناخوش را چنان آراستن\nدر عمل از ما نکوئی خواستن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک طرف گناہ اور برائی کو دل فریب بنایا دوسری طرف ہم سے نیکی چاہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So to adorn the hideous and unlovely and to demand of us comeliness of works;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "از تو پرسم این فسون سازی کہ چہ\nبا قمار بدنشین بازی کہ چہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ سے پوچھتا ہوں کہ یہ فسون سازی کیا ہے؛ بد نہاد ساتھی کے ساتھ جواء کھیلنے کا کیا مطلب!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I ask you, what is this magic-mongering, what this dicing with an evil adversary?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مشت خاک و این سپہر گرد گرد\nخود بگو می زیبدش کاری کہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشت خاک (انسان ) اور یہ چرخ گرداں ؛ آپ ہی کہیں کہ کیا کام اللہ تعالے کو زیب دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A handful of dust, against yon revolving sphere – tell me now, did it beseem Him so to do?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کار ما، افکار ما، آزار ما\nدست با دندان گزیدن کار ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے اعمال اور ہمارے افکار ہمارے لیے باعث آزار ہیں؛ ہمارا کام صرف دانتوں سے اپنا ہاتھ کاٹنا (اظہار حیرت و ملامت) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our labour, our thoughts, our anguish is but to bite our hands in despair.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بندہ ئی کز خویشتن دارد خبر\nآفریند منفعت را از ضرر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بندہ جو اپنی قوّتوں کا احساس رکھتا ہے؛ وہ نقصان سے بھی نفع حاصل کر لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man who is fully aware of himself creates advantage out of loss.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بزم با دیو است آدم را وبال\nرزم با دیو است آدم را جمال",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیطان کے ساتھ دوستی آدم کے لیے عذاب ہے؛ مگر شیطان سے مقابلہ کرنے میں آدم کا حسن نکھرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To sup with the Devil brings disaster to a man; to wrestle with the Devil brings him glory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خویش را بر اہرمن باید زدن\nتو ہمہ تیغ آن ہمہ سنگ فسن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو شیطان کے مقابل لانا چاہئیے ؛ تو سراپا تیغ ہے اور وہ سان (جس سے تلوار تیز کی جاتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One must strike oneself against Ahriman; you are a sword, he is the whetstone;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تیز تر شو تا فتد ضرب تو سخت\nورنہ باشی در دو گیتی تیرہ بخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنی تلوار کو اور تیز کر تاکہ تیرا وار سخت پڑے ، ورنہ تو دونوں جہانوں میں سیاہ بخت رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become sharper, that your stroke may be hard, else you will be unfortunate in both worlds.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "زیر گردون آدم آدم را خورد\nملتے بر ملتے دیگر چرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے نیچے آدمی آدمی کو کھا رہا ہے؛ قومیں قوموں کو لوٹ رہی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under the heavens man devours man, nation grazes upon another nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "جان ز اہل خطہ سوزد چون سپند\nخیزد از دل نالہ ہای دردمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل کشمیر کے حالات دیکھ کر میری جان سپند (حرمل) کی طرح تڑپتی ہے اور میرے دل سے درد بھرے نالے اٹھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul burns like rue for the people of the Vale; cries of anguish mount from my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "زیرک و دراک و خوش گل ملتی است\nدر جہان تر دستی او آیتی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ قوم زیرک اور تیز ہے، خوش شکل ہے؛ ان کی ہنرمندی دنیا کے لیے مثال ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They are a nation clever, perceptive, handsome, their dexterity is proverbial,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ساغرش غلطندہ اندر خون اوست\nدر نے من نالہ از مضمون اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اس کا ساغر اس کے اپنے ہی خون میں ڈوبا ہوا ہے؛ میری نے سے اسی کے احوال کی فریاد نکل رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet their cup rolls in their own blood; the lament in my flute is on their behalf.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "از خودی تا بے نصیب افتادہ است\nدر دیار خود غریب افتادہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ خودی سے بے نصیب ہے اس لیے اپنے ہی ملک کے اندر اجنبی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since they have lost their share of selfhood they have become strangers in their own land;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "دستمزد او بدست دیگران\nماہی رودش بہ شست دیکران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا مزدوری کرنے والا ہاتھ دوسروں کے ہاتھ میں ہے، اس کی ندی کی مچھلی دوسروں کے کانٹے میں گرفتار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their wages are in the hands of others, the fish of their river in other men’s nets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کاروانہا سوی منزل گام گام\nکار او نا خوب و بے اندام و خام",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوسری قوموں کے قافلے قدم بقدم منزل کی جانب بڑھ رہے ہیں مگر اہل کشمیر کے معملات نا خوب، خام اور ان گھڑت ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravans move step by step to the goal; but still their work is ill-done, unformed, immature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "از غلامی جذبہ ہای او بمرد\nآتشے اندر رگ تاکش فسرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی سے اس کے جذبات مر چکے ہیں، اور اس کے انگور کی رگ میں آتش حیات افسردہ ہو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through servitude their aspirations have died, the fire in the veins of their vine is quenched.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "تا نپنداری کہ بود است اینچین\nجبہہ را ہموارہ سود است اینچنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ نہ سمجھ کہ یہ ہمیشہ سے اسی طرح ناصیہ فرسائی کرتا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But do not think that they were always so, their brows ever lowered thus to the dust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در زمانی صف شکن ہم بودہ است\nچیرہ و جانباز و پر دم بودہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی زمانے میں یہ لوگ صف شکن ، جنگجو ، جانباز اور حوصلہ مند رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once upon a time they too were warlike folk, valiant, heroic, ardent in battle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کوہہای خنگ سار او نگر\nآتشین دست چنار او نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشمیر کے برف پوش پہاڑ اور آتشیں دست چنار کو دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold her mountains turbaned in white; behold the fiery hands of her chenars;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در بہاران لعل میریزد ز سنگ\nخیزد از خاکش یکی طوفان رنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خطہ موسم بہار میں پتھروں سے لعل رنگ پھول اگاتا ہے اور اس کی خاک سے ایک طوفان رنگ اٹھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In springtime rubies leap down from the rocks, a flood of colour rises from her soil;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "لکہ ھای ابر در کوہ و دمن\nپنبہ پران از کمان پنبہ زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے پتھروں اور وادیوں میں بادل کے ٹکڑے اس طرح پھرتے ہیں جیسے دھنیے کی کمان سے دھنی ہوئی روئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stippled clouds cover mountain and valley like cotton-flocks strewn from a carder’s bow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "کوہ و دریا و غروب آفتاب\nمن خدارا دیدم آنجا بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے پہاڑ ، دریا اور غروب آفتاب کا منظر اتنا خوبصورت ہے کہ وہاں اللہ تعالے کا جمال بے نقاب نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mountain and river, and the setting of the sun: there I behold God without a veil",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "با نسیم آوارہ بودم در نشاط\n\"بشنو از نے\" می سرودم در نشاط",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں وہاں کے نشاط باغ میں آوارہ پھرتا ہوا خوشی سے مثنوی مولانا روم کے اشعار گا رہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wandered with the zephyr in Nishat chanting as I roved, ‘Listen to the reed’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مرغکی می گفت اندر شاخسار\nبا پشیزی می نیرزد این بہار",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاخوں میں بیٹھے ہوئے ایک پرندے نے مجھ سے کہا ، یہ بہار دمڑی کی بھی قیمت نہیں رکھتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A bird perched in the branches was singing: ‘This springtide is not worth a penny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "لالہ رست و نرگس شہلا دمید\nباد نو روزی گریبانش درید",
+              "lang": "Original"
+            },
+            {
+              "_content": "باد بہار نے اس سرزمین کا گریبان پھاڑ دیا ہے ، گل لالہ نے سر نکالا ہے اور سیاہ چشم نرگس پوچھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip has blossomed, the dark-eyed narcissus is in bloom, the breeze of Nauruz has torn their skirts;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "عمرھا بالید ازین کوہ و کمر\nنستر از نور قمر پاکیزہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں کے پرندوں اور وادیوں کے اندر سے چنبیلی کے پھول جو چاندنی سے پاکیزہ تر ہیں سالہا سال سے کھل رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For many ages from this mountain and valley have sprung daisies purer than the light of the moon,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "عمر ہا گل رخت بر بست و گشاد\nخاک ما دیگر شہاب الدین نزاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھولوں کو کھلتے اور مرجھاتے عمریں گذر گئیں ، لیکن ہماری خاک سے کوئی اور شہاب الدین پیدا نہ ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For many ages the rose has packed and unpacked her baggage, yet our earth has not begotten a second Shihab al-Din.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "نالۂ پر سوز آن مرغ سحر\nداد جانم را تب و تاب دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مرغ سحر کے نالہء پرسوز نے میری جان میں نئی تڑپ اور نیا جوش پیدا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The passionate lament of that bird of dawn filled my heart with new fire and fever.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "تا یکی دیوانہ دیدم در خروش\nآنکہ برد از من متاع صبر و ہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں میں نے ایک دیوانے کو یہ اشعار پڑھتے دیکھا، اس کی آواز نے میرے صبر و ہوش کی متاع غارت کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Presently I beheld a madman, whose threnody robbed me of all endurance and reason.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "\"بگذر ز ما و نالۂ مستانہ ئی مجوی\nبگذر ز شاخ گل کہ طلسمی است رنگ و بوے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں ہمارے حال پر چھوڑ دے ہم سے نالہء مستانہ کی خواہش نہ رکھ، شاخ گل کی بات چھوڑ یہ رنگ و بو محض طلسم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Pass us by, and seek not an impassioned lament, pass from the rose-twig, that talisman of colour and scent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "گفتی کہ شبنم از ورق لالہ می چکد\nغافلی دلی است اینکہ بگرید کنار جوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے کہ شبنم گل لالہ کی پتّی سے ٹپکی ہے، غافل یہ تو دل ہے جو ندی کے کنارے بیٹھا رو رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You said that dew was dripping from the tulip’s petals; nay, it is a feckless heart weeping beside the river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "این مشت پر کجا و سرود اینچنین کجا\nروح غنی است ماتمی مرگ آرزوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مشت پر کہاں اور اس قسم کا گیت کہاں ؛ یہ تو غنی کی روح ہے جو مرگ آرزو کا ماتم کر رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What have these few feathers to do with such a chant? It is the spirit of Ghani mourning the death of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "باد صبا اگر بہ جنیوا گذر کنی،\nحرفی ز ما بہ مجلس اقوام باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "باد صبا اگر جنیوا کی طرف تیرا گذر ہو ؛ تو مجلس اقوام تک ہماری یہ بات پہنچا دینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zephyr, if you should pass over Geneva speak a word from me to the League of Nations:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "دہقان و کشت و جوی و خیابان فروختند\nقومی فروختند و چہ ارزان فروختند\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "دہقان، اس کی کھیتی، ندیاں، پھولوں کی کیاریاں سب کو فروخت کر دیا؛ ساری قوم کو فروخت کر دیا اور کس قدر ارزاں فروخت کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have sold farmer and cornfield, river and garden, they have sold a people, and at a price how cheap.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
+      "Verse": [
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "با تو گویم رمز باریک اے پسر\nتن ہمہ خاک است و جان والا گہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیٹے میں تجھے ایک باریک نکتہ بتاتا ہوں ؛ بدن محض خاک ہے اور جان قیمتی چیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will tell you a subtle mystery, my son: the body is all clay, the soul a precious pearl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "جسم را از بہر جان باید گداخت\nپاک را از خاک می باید شناخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسم کو جان کی خاطر فروخت (قربان) کیا جا سکتا ہے؛ پاک (روح) اور خاک (بدن) میں امتیاز کرنا چاہیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body must be melted for the sake of the soul; the pure must be distinguished from the clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "گر ببری پارۂ تن را ز تن\nرفت از دست تو آن لخت بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو بدن سے اس کا ٹکڑا الگ کر دے؛ تو بدن کا وہ ٹکڑا ہمیشہ کے لیے ضائع ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you cut off a part of the body from the body, that slice of the body will be lost to you;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "لیکن آن جانی کہ گردد جلوہ مست\nگر ز دست او را دہی آید بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن وہ جان جو جلوہء جمال حق سے مست ہو جائے؛ اگر تو اسے ہاتھ سے دے دے تو وہ تیرے ہاتھ آ جاتی ہے (شہید زندہ ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the soul which is drunk with vision – if you give it away, it will return to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "جوہرش با ہیچ شی مانند نیست\nہست اندر بند و اندر بند نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان کے جوہر کی کوئی مثال نہیں؛ وہ (بدن کی) قید میں ہوتے ہوئے بھی آزاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul’s substance resembles nothing else; it is in bonds, and yet not in bonds;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "گر نگھداری بمیرد در بدن\nور بیفشانے، فروغ انجمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو جان کو بچا بچا کر رکھے تو یہ بدن میں مر جاتی ہے؛ اگر تو اسے (حق پر) شمار کرتا ہے تو پھر یہ انجمن کا نور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you watch over it, it dies in the body, and if you scatter it, it illuminates the gathering.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "چیست جان جلوہ مست اے مرد راد\nچیست جان دادن ز دست ایمرد راد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے جوانمرد جان جلوہ مست کیا ہے؟ اور ہاتھ سے جان دے دینے کے کیا معنی ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What, noble sir, is the soul ‘drunk with vision’? What does it mean to ‘give the soul away’?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "چیست جان دادن بحق پرداختن\nکوہ را با سوز جان بگداختن",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان دینا حق کے لیے جان کی بازی لگا دینا اور پہاڑ کو اس کے سوز سے پگھلا دینا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To give away the soul is to surrender it to God, it means melting the mountain with the soul’s flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "جلوہ مستی خویش را دریافتن\nدر شبان چون کوکبی بر تافتن",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوہ مستی؟ اپنے آپ کو پا لینا اور دنیا کی شب تاریک میں ستارے کی مانند چمکنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Drunk with vision’ means discovering one’s self, shining like a star in the night-season:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "خویش را نایافتن نابودن است\nیافتن خود را بخود بخشودن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو نہ پانا ، معدوم ہونا ہے؛ اپنے آپ کو پا لینا ، خود کو زندگی عطا کرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not to discover one’s self is not to exist, to discover is to bestow the self on the Self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "ہر کہ خود را دید و غیر از خود ندید\nرخت از زندان خود بیرون کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنے آپ کو دیکھا اور اپنے سوائے اور کسی کو نہ دیکھا ، وہ اپنے قید خانے سے باہر نکل آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whosoever has seen himself and has seen naught else has drawn forth the load from the self’s prison;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "جلوہ بد مستی کہ بیند خویش را\nخوشتر از نوشینہ و داند نیش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جلوہ مست جو اپنے آپ کو دیکھ لیتا ہے (اپنی صلاحیتوں سے آگاہ ہو جاتا ہے) وہ (مشکلات کے) نیش کو (آسودگی کے) شہد سے خوشتر سمجھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘drunk with vision’ who beholds himself deems the sting sweeter than the honey;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "در نگاہش جان چو باد ارزان شود\nپیش او زندان او لرزان شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "(وہ جان کو نایاب نہیں سمجھتا بلکہ) ہوا کی طرح ارزاں سمجھتا ہے ، اس کے سامنے اس کے گرد بنایا ہوا حصار ٹوٹ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his eyes the soul is cheap as the air, before him the walls of his prison tremble;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "تیشۂ او خارہ را بر مے درد\nتا نصیب خود ز گیتی می برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا تیشہ پتھر کو توڑ دیتا ہے یہاں تک کہ وہ زمانے سے اپنا حصّہ لے لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His axe shivers the granite rock so that he takes his share of the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "تا ز جان بگذشت جانش جان اوست\nورنہ جانش یکدو دم مہمان اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ جان سے گذر جاتا ہے تو جان (ہمیشہ کے لیے) اس کی جان بن جاتی ہے ورنہ یہ جان تو ایک دو دم کی مہمان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When he gives up the soul, his soul is truly his, otherwise his soul is his guest but for a moment or two.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "گفتہ ئی از حکمت زشت و نکوی\nپیر دانا نکتۂ دیگر بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے نیکی اور بدی کی حکمت بیان کر دی ہے؛ اے پیر دانا، اب ایک اور نکتہ سمجھائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have spoken of the wisdom of foul and fair; learned sage, expound a further subtlety.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "مرشد معنی نگاہان بودہ ئی\nمحرم اسرار شاہان بودہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ معنی پر نگاہ رکھنے والوں کے مرشد اور بادشاہوں کے رموز کے محرم تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You were the guide of those who behold the inner meanings you were the confidant of the secrets of kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "ما فقیر و حکمران خواہد خراج\nچیست اصل اعتبار تخت و تاج",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم محتاج ہیں اور حکمران ہم سے خراج مانگتا ہے؛ تخت و تاج کی حیثیت کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are poor men, and the ruler demands tribute; what is the origin of the sanction of throne and crown?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "شاہ ہمدان",
+      "name-en": "Shah-i Hamadan",
+      "Verse": [
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "اصل شاہی چیست اندر شرق و غرب\nیا رضای امتان یا حرب و ضرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق و مغرب میں پادشاہت کی حقیقت کیا ہے؟ یا قوموں کی مرضی یا جنگ و جدل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the origin of Kingship in East and West? Either the consent of the peoples, or war and violence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "فاش گویم با تو اے والا مقام\nباج را جز با دو کس دادن حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے والا مقام! میں تجھے صاف صاف بتاتا ہوں، دو اشخاص کے علاوہ کسی کو خراج ادا کرنا حرام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Exalted sir, I will speak with you plainly; it is forbidden to pay tribute save to two persons:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "یا \"اولی الامری\" کہ \"منکم\" شأن اوست\nآیۂ حق حجت و برہان اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا وہ اولی الامر جو منکم کے تحت آئے؛ قرآن پاک کی آیت اس کے حق میں دلیل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Either those in authority as being among you, whose proof and demonstration is the verse of God,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "یا جوانمردی چو صرصر تند خیز\nشہر گیر و خویش باز اندر ستیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا خراج کا حقدار وہ جوانمرد ہے جو باد صرصر کی طرح تند و تیز شہر گیر اور معرکہء حق و باطل میں اپنی جان کی بازی لگا دینے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or else a hero swift-rising like a hurricane who seizes cities, and stakes himself in the battle,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "روز کین کشور گشا از قاہری\nروز صلح از شیوہ ہای دلبری",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو میدان جنگ میں قوّت سے فتح حاصل کرنے والا ہو اور امن میں انداز دلبری رکھتا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the day of war conquering the land by force of arms, on the day of peace by the winning ways of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "می توان ایران و ہندوستان خرید\nپادشاہی را ز کس نتوان خرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایران و ہندوستان کو خریدا جا سکتا ہے مگر پادشاہی کو کسی سے خریدا نہیں جا سکتا۔(پادشاہی قوّت بازو ہی سے حاصل کی جا سکتی ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You might indeed purchase Iran and India, but kingship cannot be bought from any man;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "جام جم را اے جوان باہنر\nکس نگیرد از دکان شیشہ گر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ہنرمند جوان! کبھی کسی نے جام جم کو شیشہ گر کی دکان سے نہیں خریدا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Virtuous friend, the Cup of Jamshid none shall procure from the glassmaker’s shop,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "ور بگیرد مال او جز شیشہ نیست\nشیشہ را غیر از شکستن پیشہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور اگر کوئی وہان سے خریدتا ہے تو اس کا مال محض شیشہ ہے؛ ٹوٹ جانے والی چیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or if he procures aught, all he owns is glass, and glass has no other property but to break.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "غنی",
+      "name-en": "Ghani",
+      "Verse": [
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "ہند را این ذوق آزادی کہ داد\nصید را سودای صیادی کہ داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہند کو یہ ذوق آزادی کس نے دیا ہے؟ شکار کو شکاری کا جنون کس نے عطا کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who gave to India this yearning for freedom? Who gave the quarry this passion to be the hunter?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "آن برہمن زادگان زندہ دل\nلالۂ احمر ز روی شان خجل",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ زندہ دل برہمن زادے ہی تو ہیں، جن کے چہروں کی سرخی گل لالہ کو شرمسار کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those scions of Brahmins, with vibrant hearts, whose glowing cheeks put the red tulip to shame;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "تیزبین و پختہ کار و سخت کوش\nاز نگاہشان فرنگ اندر خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تیز بین ، پختہ کار اور سخت کوش ہیں؛ ان کی نگاہ سے انگریز فریادی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Keen of eye, mature and strenuous in action whose very glance puts Europe into commotion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "اصلشان از خاک دامنگیر ماست\nمطلع این اختران کشمیر ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی اصل ہماری خاک دامن گیر سے ہے؛ یہ ستارے آسمان کشمیر سے طلوع ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their origin is from this protesting soil of ours, the rising-place of these stars is our Kashmir.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "خاک ما را بے شرر دانی اگر\nبر درون خود یکی بگشا نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ہماری خاک کو بے شرر سمجھتا ہے؛ تو ذرا اپنے اندرون پر نظر ڈال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you suppose our earth is without a spark, cast a glance for a moment within your heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "اینہمہ سوزی کہ داری از کجاست\nاین دم باد بھاری از کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سارا سوز جو تیرے اندر ہے یہ کہاں سے آیا؟ اس باد بہاری کے جھونکے کہاں سے تھے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whence comes all this ardour you possess, whence comes this breath of the breeze of spring?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "این ہمان باد است کز تأثیر او\nکوہسار ما بگیرد رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ وہی ہوا ہے جس کی تاثیر سے ہمارے کوہسار رنگ و بو پاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is from the selfsame wind’s influence that our mountains derive their colour and scent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "ہیچ میدانی کہ روزی در ولر\nموجہ ئی می گفت با موج دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تجھے معلوم ہے کہ ایک دن جھیل ولر میں ایک موج دوسری موج سے کہہ رہی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you not know what one day a wave said to another wave in Lake Wular?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "چند در قلزم بہ یکدیگر زنیم\nخیز تا یک دم بساحل سر زنیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کب تک جھیل کے اندر آپس میں متلاطم رہیں گی ؛ اٹھ کہ ہم ایک لمحہ کے لیے ساحل سے ٹکرائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘How long shall we strike at each other in this sea? Rise up; let us break together against the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "زادۂ ما یعنی آن جوی کہن\nشور او در وادے و کوہ و دمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے اندر پیدا ہونے والی وہ پرانی ندی ؛ جس کا شور وادیوں، پہاڑوں اور میدانوں میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our child, that is to say, yon Ancient River fills with its roar valley and mountains and meadow;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "ہر زمان بر سنگ رہ خود را زند\nتا بنای کوہ را بر می کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر لمحہ راستے کے پتھروں سے ٹکراتی ہے؛ یہاں تک کہ پتھر کے اندر سے بھی اپنا راستہ بنا لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Continually it smites the rocks on its path until it uproots the fabric of the mountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "آن جوان کو شہر و دشت و در گرفت\nپرورش از شیر صد مادر گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ دریا جو شہروں ، جنگلوں اور آبادیوں کو لپیٹ میں لے لیتا ہے، سینکڑوں ندیوں کے پانی سے پرورش پاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That youth who seized cities, deserts and plains took his nurture from the milk of a hundred mothers;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "سطوت او خاکیان را محشری است\nاین ہمہ از ماست، نے از دیگری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(دریائے جہلم کی) شوکت انسانوں کے لیے محشر بپا کر دیتی ہے، یہ ہمارے اندر ہی سے نکلا ہے، کسی اور جگہ سے نہیں نکلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its majesty strikes terror into mortal hearts; all this is from us, not from any other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "زیستن اندر حد ساحل خطاست\nساحل ما سنگی اندر راہ ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساحل کے اندر محدود رہنا غلطی ہے؛ ہمارا ساحل ہمارے لیے سنگ راہ بنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To live in the bounds of the shore is a sin; our shore is but a stone in our path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "با کران در ساختن مرگ دوام\nگرچہ اندر بحر غلتی صبح و شام",
+              "lang": "Original"
+            },
+            {
+              "_content": "کناروں کے اندر رہنا مرگ دوام ہے؛ خواہ سمندر کے اندر ہم موجیں باہم متلاطم کیوں نہ رہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To accommodate oneself to the shore is eternal death, even though you roll in the sea morning and evening;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "زندگی جولان میان کوہ و دشت\nاے خنک موجی کہ از ساحل گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کوہ و دشت کے درمیان جولانیاں دکھانے کا نام ہے؛ مبارک ہے وہ موج جو ساحل سے آگے گذر گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is to leap amidst mountain and desert – happy is the wave that has transgressed the shore!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "ایکہ خواندی خط سیمای حیات\nاے بہ خاور دادہ غوغای حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے (زندہ رود) تو نے زندگانی کی پیشانی پر رقم تقدیر پڑھی ہے؛ تو نے اہل مشرق کو ہنگامہ عطا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who have read the lines on the brow of Life, you who have given to the East the tumult of Life,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "اے ترا آہی کہ می سوزد جگر\nتو ازو بیتاب و ما بیتاب تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے اندر وہ آہ ہے جس نے جگر کو جلا دیا اگر تو اس آہ سے بے تاب ہے تو ہم تجھ سے زیادہ بے تاب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who have a sigh that consumes the heart, stirring you to restlessness and us still more,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "اے ز تو مرغ چمن را ہای و ہو\nسبزہ از اشک تو می گیرد وضو",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ کے پرندے تیری وجہ سے ہا و ہو میں مصروف ہیں؛ سبزہ تیرے آنسوؤں سے وضو کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From you the birds in the meadow learned their threnody; in your tears the grasses make ablution;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "ایکہ از طبع تو کشت گل دمید\nاے ز امید تو جانہا پر امید",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری طبع رواں سے کیاریوں میں پھول کھلتے ہیں؛ تیری امید نے دوسروں کو بھی پر امید کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of your genius the field of roses blossomed, out of your hope many souls are filled with hope.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "کاروانھا را صدای تو درا\nتو ز اھل خطہ نومیدی چرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاروانوں کے لیے تیری آواز بانگ رحیل ہے؛ تو اہل کشمیر سے کیوں نا امید ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your cry is a bell urging the caravans; why then do you despair of the dwellers in the Vale?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "165",
+          "Text": [
+            {
+              "_content": "دل میان سینۂ شان مردہ نیست\nاخگر شان زیر یخ افسردہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشمیریوں کے سینوں میں دل مر نہیں گیا ؛ ان کا انگارہ برف کے نیچے بجھ نہیں گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their hearts are not dead in their breasts; their embers are not extinguished under the ice;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "Text": [
+            {
+              "_content": "باش تا بینی کہ بے آواز صور\nملتے بر خیزد از خاک قبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا ٹھہر؛ تو ابھی دیکھ لے گا کہ صور کی آواز کے بغیر اہل کشمیر قبروں کے اندر سے اٹھ کھڑے ہوں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wait till you see, without the sound of the Trumpet, a nation rising out of the dust of the tomb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "غم مخور اے بندۂ صاحب نظر\nبر کش آن آہی کہ سوزد خشک و تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صاحب نظر غم نہ کھا بلکہ اپنے اندر سے وہ آہ نکال جو خشک و تر کو جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not grieve then, visionary; breathe out that sigh consuming all, dry and moist alike;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "Text": [
+            {
+              "_content": "شہر ہا زیر سپہر لاجورد\nسوخت از سوز دل درویش مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نیلے آسمان کے نیچے بہت سے شہر کسی درویش کے دل کی آہ سے جل چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many cities beneath the turquoise heaven have been consumed by the flame of a dervish heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "Text": [
+            {
+              "_content": "سلطنت نازکتر آمد از حباب\nاز دمی او را توان کردن خراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلطنت بلبلے سے بھی زیارہ نازک چیز ہے؛ اسے ایک پھونک سے برباد کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dominion is frailer than a bubble and can be destroyed by a single breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "175",
+          "Text": [
+            {
+              "_content": "از نوا تشکیل تقدیر امم\nاز نوا تخریب و تعمیر امم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوا ہی سے قوموں کی تقدیر کی تشکیل ہوتی ہے اور اسی سے ان کی تعمیر و تخریب بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The destinies of nations have been shaped by a song, by a song nations are destroyed and rebuilt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "نشتر تو گرچہ در دلہا خلید\nمر ترا چونانکہ ہستی کس ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر چہ تیرے کلام کا تیر دلوں میں پیوست ہو چکا ہے؛ مگر کسی نے تجھے تیری حقیقی صورت میں نہیں دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though your lancet has pierced men’s hearts, none has perceived you as you truly are;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "Text": [
+            {
+              "_content": "پردۂ تو از نوای شاعری است\nآنچہ گوئی ماورای شاعری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعری تیرا پردہ ہے ورنہ جو کچھ تو کہتا ہے وہ شاعری سے ماورا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your melody springs from a poet’s song, but what you utter transcends poesy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "تازہ آشوبی فکن اندر بہشت\nیک نوا مستانہ زن اندر بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک نوائے مستانہ سے بہشت کے اندر ایک نیا ہنگامہ برپا کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stir up a new tumult in Paradise; strike up an intoxicating air in Paradise!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "183",
+          "Text": [
+            {
+              "_content": "با نشئہ درویشی در ساز و دمادم زن\nچون پختہ شوی خود را بر سلطنت جم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تشنہ ء درویشی کے ساتھ موافقت اختیار کر اور دما دم لگا رہ؛ جب پختہ ہو جائے تو اپنے آپ کو سلطنت جم کے مقابلے پر لے آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Habituate yourself to the dervish wine and quaff it continuously; when you become riper, hurl yourself at the dominion of Jamshid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "گفتند جہان ما آیا بتو می سازد\nگفتم کہ نمی سازد گفتند کہ برہم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوچھنے لگے ، کیا ہمارا جہان تیرے موافق ہے؟ میں نے کہا نہیں ؛ کہنے لگے اسے برہم کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They said, ‘This world of ours-does it agree with you?’ I said, ‘It does not agree’. They said, ‘Then break it to pieces’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "187",
+          "Text": [
+            {
+              "_content": "در میکدہ ہا دیدم شایستہ حریفی نیست\nبا رستم دستان زن با مغچہ ہا کم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میکدے میں جا کر دیکھا ہے کوئی شائستہ ندیم نہیں ہے؛ مغبچوں سے واسطہ نہ رکھ، قوّت رستم رکھنے والوں سے پنجہ لڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the taverns I have seen there is not one worthy adversary; grapple with Rustam-i Dastan, have done with Magian boys!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "Text": [
+            {
+              "_content": "اے لالہ صحرائی تنہا نتوانی سوخت\nاین داغ جگر تابی بر سینہ آدم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے لالہ ء صحرائی تنہا نہیں جلا جا سکتا ؛ اپنا یہ داغ جگر تاب آدم کے سینے کو بھی عطا کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulip of the wilderness, you cannot burn alone; strike this heart-enflaming brand upon the breast of man;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "191",
+          "Text": [
+            {
+              "_content": "تو سوز درون او تو گرمے خون او\nباور نکنی چاکی در پیکر عالم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس کا سوز درون ہے، تو ہی اس کی گرمیء خون ہے اگر اعتبار نہیں تو پیکر کائنات کو چیر کر دیکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the ardour of his bosom, the heat of his blood – do you not believe me? Then tear apart the flesh of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "193",
+          "Text": [
+            {
+              "_content": "عقل است چراغ تو در راہگذاری نہ\nعشق است ایاغ تو با بندۂ محرم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر عقل تیرا چراغ ہے تو اس کو سر راہ رکھ دے؛ اگر عشق تیرا پیالہ ہے تو صرف محرم راز سے مل کر پی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is reason your lamp? Set it on the path to shine; or is love your cup? Quaff it with the intimate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "195",
+          "Text": [
+            {
+              "_content": "لخت دل پر خونی از دیدہ فرو ریزم\nلعلی ز بدخشانم بردار و بخاتم زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی آنکھوں سے دل پر خون کے ٹکڑے آنسوؤں کی صورت میں گرا رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I pour forth from my eyes the bloody gouts of my heart; my ruby of Badakhshan – pick it up, and set it in your ring.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "name-en": "In The Presence Of Shah-I Hamadan"
+}

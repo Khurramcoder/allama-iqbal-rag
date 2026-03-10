@@ -1,0 +1,732 @@
+{
+  "id": "15",
+  "name": "در معنی اینکہ پختگی سیرت ملیہ از اتباع آئین الہیہ است",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "02",
+  "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ کردار کی پختگی شریعت کے اتباع سے ہے۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در شریعت معنی دیگر مجو\nغیر ضو در باطن گوھر مجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "شریعت میں کوئی اور معنی نہ ڈھونڈ؛ گوہر کے باطن میں بھی چمک کے سوا اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek thou no other meaning in the Law, nor look save light to find within the gem;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این گہر را خود خدا گوہر گر است\nظاہرش گوہر بطونش گوہر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "شریعت ایسا موتی ہے جسے خود اللہ تعالے نے بنایا ہے؛ اس کا ظاہر بھی موتی ہے اور باطن بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God was the jeweller who fashioned forth this jewel, diamantine through and through.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علم حق غیر از شریعت ہیچ نیست\nاصل سنت جز محبت ہیچ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "سچا علم شریعت کے علاوہ اور کچھ نہیں اور سنت رسول پاک (صلعم) کی بنیاد محبت کے علاوہ اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Law is the only knowledge of the Truth, Love the sole basis of the Prophet’s (S.A.W.) code;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فرد را شرع است مرقات یقین\nپختہ تر از وی مقامات یقین",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد کے لیے شرع ایمان کا زینہ ہے؛ اسی سے ایمان کے مقامات میں پختگی آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The individual through Law attains a faith maturer, and more fair adorned.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ملت از آئین حق گیرد نظام\nاز نظام محکمی خیزد دوام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت کو بھی شریعت ہی سے نظام حاصل ہوتا ہے اور نظام محکم اسے دوام عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rule of Law secures an ordered life to all the nation, which established rule condition is of its continuance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قدرت اندر علم او پیداستی\nہم عصا و ھم ید بیضاستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شریعت کے علم ہی سے (عمل پر) قدرت حاصل ہوتی ہے؛ یہ ایسا ( قوت کا نشان ) اور ید بیضا (نور ہدایت) بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Power is patent in its knowledge, this the sign of Moses’ staff and potent hand;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "با تو گویم سر اسلام است شرع\nشرع آغاز است و انجام است شرع",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یہ کہتا ہوں کہ اسلام کا راز شرع ہے؛ شرع ہی آغاز اور شرع ہی انجام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So I declare the secret of Islam is Law, in which all things begin and end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے کہ باشی حکمت دین را امین\nبا تو گویم نکتہ ی شرع مبین",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو دین کی حکمت کا امانتدار ہے میں تمہیں شرع مبین کا نکتہ بتاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since thou art called to be a guardian of the Faith’s wisdom, I will tell to thee a subtle truth of the perspicuous Law.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چون کسی گردد مزاحم بے سبب\nبا مسلمان در ادای مستحب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر کوئی مسلمان کے مستحب ادا کرنے کے راستے میں بے سبب رکاوٹ بنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If any Muslim be engaged upon a meritorious act, and causelessly therein be challenged;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مستحب را فرض گرادنیدہ اند\nزندگی را عین قدرت دیدہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو مستحب کو فرض قرار دے دیا گیا ہے؛ گویا زندگی کو عین قدرت عمل قرار دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Forthwith it becomes his sacred duty to discharge the same; power is deemed the very spring of Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "روز ہیجا لشکر اعدا اگر\nبر گمان صلح گردد بے خطر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر جنگ کے دوران دشمن کا لشکر صلح کے گمان پر اپنے آپ کو بے خطر سمجھنا شروع کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon the day of battle, if the foe supposing truce is imminent, neglects his army’s marshalling,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گیرد آسان روزگار خویش را\nبشکند حصن و حصار خویش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سہل انگاری اختیار کر لے اور اپنے دفاعی انتظامات ختم کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And casually confronts his fortune, breaking down the walland citadel of his defence;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تا نگیرد باز کار او نظام\nتاختن بر کشورش آمد حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جب تک وہ دوبارہ اپنا نظام (دفاع) درست نہ کر لے اس کے ملک پر حملہ کرنا حرام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Until his order is restored, to march against his unarmed country is prohibited.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "سر این فرمان حق دانی کہ چیست\nزیستن اندر خطرہا زندگیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تجھے معلوم ہے کہ اللہ تعالے کے اس حکم کا راز کیا ہے، یہ کہ خطروں میں جینا ہی زندگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowest thou then the mystery of this Divine commandment? Life not living is except we live in danger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شرع می خواہد کہ چون آئی بجنگ\nشعلہ گردی واشکافی کام سنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرع یہ چاہتی ہے کہ جب تو جنگ کے لیے آئے تو شعلہ بن کر پتھر میں شگاف کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Law requires that when to war thou comest, thou shalt blaze a fiery torch, and split the throat of rock.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آزماید قوت بازوی تو\nمی نہد الوند پیش روی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرع تیرے قوت بازو کو آزماتی ہے؛ تیرے سامنے (مشکلات ) کا پہاڑ رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Law tries the power of the strong right arm; confronting thee with Alond’s massive height;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "باز گوید سرمہ ساز الوند را\nاز تف خنجر گداز الوند را",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر کہتی ہے کہ اس پہاڑ کو ریزہ ریزہ کر دے؛ اپنے خنجر کی گرمی سے اسے پگھلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It bids thee pound into collyrium that craggy mount, and with the ardent breath drawn from thy throat its flint to liquefy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نیست میش ناتوانی لاغری\nدرخور سر پنچہ ی شیر نری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کمزور اور لاغر بھیڑ ، شیر نر کے پنجہ کے لائق نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lean and feeble sheep is scarce a prey worthy the tiger’s claw;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "باز چون با صعوہ خوگر می شود\nاز شکار خود زبون تر می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب باز ممولے کے شکار کا عادی ہو جائے؛ تو وہ اپنے شکار سے بھی زیادہ عاجز و خوار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or if the hawk consorts with sparrows, meaner-spirited, than its poor victims it shall soon become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شارع آئین شناس خوب و زشت\nبہر تو این نسخہ ی قدرت نوشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جناب رسول اللہ (صلعم) نے جو خوب و زشت کے آئین شناس ہیں تیرے لیے شریعت کا یہ نسخہ جو تجھے عمل پر قدرت عطا کرتا ہے تحریر فرمایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Lawgiver, to whom all fair and foul was fully known, this recipe of power for thee prescribed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "از عمل آہن عصب می سازدت\nجای خوبی در جہان اندازدت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ عمل کے ذریعے تیرے اعصاب کو آہنی بناتا ہے اور تجھے دنیا میں بلند مقام عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By toil the nerves are steeled, and thou art raised to eminence in the world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "خستہ باشی استوارت می کند\nپختہ مثل کوہسارت می کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو کمزور ہے تو یہ تجھے استوار کر دیتا ہے اور پہاڑ کی مانند پختہ بنا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or be thou wounded, this will make thee strong, Yea, and mature as a firm mountain-chain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ہست دین مصطفی دین حیات\nشرع او تفسیر آئین حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) کا دین ہی دین فطرت ہے؛ اور شرع محمدی (صلعم) آئین حیات کی تفسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Full life’s religion is Muhammad’s (S,A,W.) faith, \nhis code the commentary on life’s law;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گر زمینی آسمان سازد ترا\nآنچہ حق می خواہد آن سازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو پست ہے تو یہ نسخہء شریعت تجھے آسمان جیسی بلندی عطا کرتا ہے؛ اللہ تعالے نے جو کچھ تمہیں کہا (کنتم خیرا لامۃ) تمہیں وہی بنا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be though earth-lowly, it shall lift thee up high as the heavens, and will fashion thee harmonious to God’s summons.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "صیقلش آئینہ سازد سنگ را\nاز دل آہن رباید زنگ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "شریعت کا صیقل پتھر کو آئینہ بنا دیتا ہے ؛ اور لوہے کے دل سے زنگ دور کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rough rock is polished to a mirror by this faith, \nand this unrests the steel’s corroding heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تا شعار مصطفی از دست رفت\nقوم را رمز بقا از دست رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب حضور اکرم (صلعم) کا شعار (شریعت) ہاتھ سے نکل گیا تو قوم رمز بقا سے محروم ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now when the Prophet’s (S,A,W,) watchword passed from ken, \nhis people held no more the secret key to their continuance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "آن نہال سربلند و استوار\nمسلم صحرائی اشتر سوار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شتر سوار صحرائی مسلمان جو درخت کی مانند سربلند و استوار تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That lusty sprout tall and firm-rooted; Muslim of the wastes (mounted on camel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "پای تا در وادی بطحا گرفت\nتربیت از گرمی صحرا گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وادیء بطحا میں رہائش پذیر تھا اور جس نے گرمیء صحرا سے تربیت پائی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who in Batha’s vale took his first steps) that by the desert warmth was nourished up,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آن چنان کاہید از باد عجم\nہمچو نے گردید از باد عجم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ باد عجم سے نے کی طرح کمزور ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now fanned by Persia’s breeze is so diminished, that it hath become thin as a reed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "آنکہ کشتی شیر را چون گوسفند\nگشت از پامال موری دردمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو شیر کو بکری کی طرح کمزور سمجھ کر مار دیتا تھا ؛ اب چیونٹی کے پاؤں تلے آ کر آہ و پکار کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who was wont to slay tigers like sheep now winces at the ant trampled unwittingly;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "آنکہ از تکبیر او سنگ آب گشت\nاز صفیر بلبلی بیتاب گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی تکبیر سے پتھر پانی ہو جاتے تھے اب وہ بلبل کی آواز سے گبھرا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who in joy, Allahu Akbar crying, turned the rock to running water, trembles at the note of amorous nightingales;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "آنکہ عزمش کوہ را کاہی شمرد\nبا توکل دست و پای خود سپرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کا عزم پہاڑ کو تنکا سمجھتا تھا اب اس نے توکّل کے نام پر اپنے ہاتھ پاؤں باندھ لیے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He whose high will reckoned the mountain trifling as a straw, commits himself entire to abject trust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "آنکہ ضربش گردن اعدا شکست\nقلب خویش از ضربہای سینہ خست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے ہاتھ کی ضرب دشمنوں کی گردن توڑ دیتی تھی؛ اب وہ سینہ کوبی سے اپنے قلب کو زخمی کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He whose firm blow once broke his foemen’s neck, his heart is wounded by his own breast’s beat;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "آنکہ گامش نقش صد ہنگامہ بست\nپای اندر گوشہ ی عزلت شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے نقش قدم سے سینکڑوں ہنگامے وابستہ تھے اب وہ گوشہء عجلت میں پاؤں توڑ کے بیٹھ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He whose bold tread a hundred tumults limned, now cowers in retirement from the world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "آنکہ فرمانش جہان را ناگزیر\nبر درش اسکندر و دارا فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کا حکم دنیا پر چلتا تھا ، جس کے دروازے پر سکندر و دارا فقیروں کی مانند کھڑے رہتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He whose command none dared to disobey, before whose door great Alexander stood A suppliant, and Darius begged his bread;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "کوشش او با قناعت ساز کرد\nتا بہ کشکول گدائی ناز کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب اس نے اپنی کوشش کو قناعت کے سپرد کر دیا ہے؛ یہاں تک کہ وہ کشکول گدائی پر ناز کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His ardour is attuned to mean content, his boast the proffered bowl of mendicants.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "شیخ احمد سید گردون جناب\nکاسب نور از ضمیرش آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیخ احمد سرہندی (رحمتہ) جن کا آستانہ آسمان کی طرح بلند ہے آفتاب بھی ان کے نور سے کسب ضیا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Shaykh Ahmad, Sayyid lofty as the spheres, from whose keen brain the sun’s selfborrowed light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "گل کہ می پوشد مزار پاک او\nلاالہ گویان دمد از خاک او",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے مزار پاک کو جو پھول ڈھانپے ہوئے ہیں وہ اس خاک سے لاالہ پڑھتے ہوئے اگتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The roses that bedeck his holy grave, no other god but God breathe from his dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "با مریدی گفت اے جان پدر\nاز خیالات عجم باید حذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے اپنے ایک مرید سے کہا کہ اے جان من! عجمی خیالات سے بچنا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus spoke to a disciple: ‘O though life of thy dear father, it behoves us all that we beware of Persia’s fantasies;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "زانکہ فکرش گرچہ از گردون گذشت\nاز حد دین نبی بیرون گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "گو فکر عجم آسمان کی بلندیوں سے بھی آگے نکل گیا ہے؛ لیکن وہ دین نبی (صلعم) کی حدود سے بھی تجاوز کر گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Persia’s thoughts the heavens have surpassed, they equally transgress the boundaries set by the Prophet’s (S.A.W.) Faith.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "اے برادر این نصیحت گوش کن\nپند آن آقای ملت گوش کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے بھائی ! اس نصیحت کو اچھی طرح سن اور ملت کے پاسبان (مجدد) کی اس بات کو حرز جان بنا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Brother, give ear to his sage counsel, and attentively, receive the rede of a protagonist of our community;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "قلب را زین حرف حق گردان قوی\nبا عرب در ساز تا مسلم شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے قلب کو اس قول راست سے مضبوط کر (عجمی خیالات چھوڑ کر) عربی اخلاق ستودہ اختیار کر تاکہ تو صیحح معنوں میں مسلمان بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take these wise words to fortify thy heart; conform thyself, with Arab ways, to be a Muslim true.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "That Maturity Of Communal Life Derives From Following The Divine Law"
+}

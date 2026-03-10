@@ -1,0 +1,34 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تنی پیدا کن از مشت غباری\nتنی محکم تر از سنگین حصاری\nدرون او دل درد آشنائی\nچو جوئے در کنار کوہساری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی خاک کی مٹھی سے ایسا بدن پیدا کر؛ جو سنگین حصار سے زیادہ پختہ ہو۔\nمگر اس کے اندر درد سے آشنا دل ہو؛ جیسے کوہسار کے اندر ندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Build, with your handful of dust, a body stronger than a rock fortress; \nAnd inside this body let there be a heart that feels sorrow – like a stream flowing by a mountain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

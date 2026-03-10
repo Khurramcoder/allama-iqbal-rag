@@ -1,0 +1,102 @@
+{
+  "id": "42",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کشیدی بادہ ہا در صحبت بیگانہ پی در پی\nبنور دیگران افروختی پیمانہ پی در پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے غیروں کی صحبت میں پے بہ پے جام لنڈھائے ، اور اپنے پیمانہ (ادراک ) کو دوسروں کی روشنی سے چمکانے کی کوشش کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Too oft was thy light with strangers to take wine, to suffer others’ light within the bowl to shine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز دست ساقی خاور دو جام ارغوان در کش\nکہ از خاک تو خیزد نالۂ مستانہ پی در پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب ساقیء خاور کے ہاتھ سے بھی ایک دو لالہ گوں جام پی لے؛ تاکہ تیری خاک سے پے بہ پے مستانہ نالے اٹھیں (ساقیء خاور شاید اپنے آپ کو کہا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The orient wine-bearer hands thee the purple cup; drink! Let the drunkard’s air from thy parched earth mount up!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دلی کو از تب و تاب تمنا آشنا گردد\nزند بر شعلہ خود را صورت پروانہ پی در پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ دل جو تب و تاب تمنّا سے آشنا ہو جائے ، وہ اپنے ہی شعلہ پر پے بہ پے پروانہ وار گرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart that knoweth well the fever of desire moth-like will hover still about the candle’s fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز اشک صبحگاہی زندگی را برگ و ساز آور\nشود کشت تو ویران تا نریزی دانہ پی در پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے آنسوؤں سے اپنی زندگی کی آبیاری کر؛ اگر تو اس میں پے بہ پے دانہ ہائے عشق نہ گرائے گا تو تیری کھیتی ویران ہو جائے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sprinkle thy morning tears upon life’s desert plain; new harvest scarce appears except thou sow thy grain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بگردان جام و از ہنگامہ افرنگ کمتر گوی\nہزاران کاروان بگذشت ازین ویرانہ پی در پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جام آگے بڑھا اور افرنگ کی بات چھوڑ؛ اس دنیا سے ہزاروں کاروان گزر چکے ہیں ( یہ بھی اب جانے والے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pass wine! Speak not to me of Europe’s tumult vast; caravans countlessly that desolation passed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,214 @@
+{
+  "id": "46",
+  "name": "ایک پرندہ اور جگنو",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سر شام ایک مرغ نغمہ پیرا\nکسی ٹہنی پہ بیٹھا گا رہا تھا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نغمہ پیرا: گانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Early in the evening a song bird sitting on a branch was singing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چمکتی چیز اک دیکھی زمیں پر\nاڑا طائر اسے جگنو سمجھ کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It saw a glowing object on the ground; considering it a fire fly flew down to it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہا جگنو نے او مرغ نواریز!\nنہ کر بے کس پہ منقار ہوس تیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "نواریز: راگ برسانے والا۔ \nمنقار ہوس: لالچ کی چونچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire-fly said to the singing bird: ‘O singing bird, do not kill a helpless creature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تجھے جس نے چہک، گل کو مہک دی\nاسی اللہ نے مجھ کو چمک دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who gave chirping to you, and fragrance to the rose; the same God gave the glittering light to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لباس نور میں مستور ہوں میں\nپتنگوں کے جہاں کا طور ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستور: چھپا ہوا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am clad in the apparel of light. I am the Toor of the insects' world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چہک تیری بہشت گوش اگر ہے\nچمک میری بھی فردوس نظر ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہشت گوش: کانوں کی جنت یعنی دلکش۔ \nفردوس نظر: مراد ہے بہت خوبصورت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If your chirping is the ear's pleasure; my brightness also is the sight's pleasure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پروں کو میرے قدرت نے ضیا دی\nتجھے اس نے صدائے دل ربا دی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ضیا: چمک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature has given light to my wings; it has given fascinating voice to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تری منقار کو گانا سکھایا\nمجھے گلزار کی مشعل بنایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He taught singing to your beak; He made me the torch of the garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "چمک بخشی مجھے، آواز تجھ کو\nدیا ہے سوز مجھ کو، ساز تجھ کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He bestowed glitter upon me, voice upon you; conferred warmth upon me and music upon you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مخالف ساز کا ہوتا نہیں سوز\nجہاں میں ساز کا ہے ہم نشیں سوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Warmth is not the opposite of music; everywhere warmth is the associate of music.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "قیام بزم ہستی ہے انھی سے\nظہور اوج و پستی ہے انھی سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The assembly of existence is based on these alone. All the world's manifestations are through these alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہم آہنگی سے ہے محفل جہاں کی\nاسی سے ہے بہار اس بوستاں کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world's assembly is based on harmony alone. The bloom of this garden is based on this alone.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Bird And The Fire Fly",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

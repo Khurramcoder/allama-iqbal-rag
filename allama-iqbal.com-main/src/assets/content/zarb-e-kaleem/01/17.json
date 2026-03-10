@@ -1,0 +1,83 @@
+{
+  "id": "17",
+  "name": "آزادی شمشیر کے اعلان پر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سوچا بھی ہے اے مرد مسلماں کبھی تو نے \nکیا چیز ہے فولاد کی شمشیر جگردار",
+              "lang": "Original"
+            },
+            {
+              "_content": "شمشیر جگردار: جوہر والی تلوار جو بے پناہ کاٹ رکھتی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim, did you ever think or feel what is meant by piercing sword of steel?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس بیت کا یہ مصرع اول ہے کہ جس میں \nپوشیدہ چلے آتے ہیں توحید کے اسرار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the first hemistich of this verse that God's Oneness shows in form so terse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہے فکر مجھے مصرع ثانی کی زیادہ \nاللہ کرے تجھ کو عطا فقر کی تلوار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My anxiety for the second half is greater though, may God the sword of Faqr on you bestow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قبضے میں یہ تلوار بھی آجائے تو مومن \nیا خالد جانباز ہے یا حیدر کرار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Muslim true can get this sword in hold; he is Ali the Lion of God, or Khalid bold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "On The Occasion Of Permission To Keep Sword",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

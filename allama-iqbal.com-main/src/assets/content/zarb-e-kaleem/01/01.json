@@ -1,0 +1,35 @@
+{
+  "id": "01",
+  "name": "صبح",
+  "name-en": "Morning",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ سحر جو کبھی فردا ہے کبھی ہے امروز \nنہیں معلوم کہ ہوتی ہے کہاں سے پیدا \nوہ سحر جس سے لرزتا ہے شبستان وجود \nہوتی ہے بندہ مومن کی اذاں سے پیدا",
+              "lang": "Original"
+            },
+            {
+              "_content": "شبستان وجود: انسانی جسم کا یا کائنات کا سیاہ خانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The morn that shifts so soon tomorrow new, whence it comes is only known to few: \nThe dark abode of being is shook by morn, which by Muslim's Call to prayer is born.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

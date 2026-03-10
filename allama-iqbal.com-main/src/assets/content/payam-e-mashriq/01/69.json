@@ -1,0 +1,34 @@
+{
+  "id": "69",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان ما کہ پایانے ندارد\nچو ماہی در یم ایام غرق است\nیکی بر دل نظر وا کن کہ بینی\nیم ایام در یک جام غرق است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری دنیا جس کا کوئی کنارہ نہیں؛ زمانے کے سمندر میں مچھلی کی طرح غرق ہے۔\nلیکن ذرا اپنے دل پر نظر ڈال ؛ زمانے کا سمندر اس ایک جام میں سمایا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our infinite world – of old Time’s ocean swallows it up (like fish).\nLook once in thy heart, and behold Time’s ocean sunk in a cup.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: R.A. Nicholson"
+}

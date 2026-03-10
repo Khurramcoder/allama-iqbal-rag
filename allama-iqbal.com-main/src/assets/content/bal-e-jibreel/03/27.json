@@ -1,0 +1,33 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کبھی آوارہ و بے خانماں عشق \nکبھی شاہ شہاں نوشیرواں عشق \nکبھی میداں میں آتا ہے زرہ پوش \nکبھی عریان و بے تیغ و سناں عشق!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love seeks sometimes the solitude of hills; at other times, the tuneful chords of life.\nSometimes pent in the corner of a mosque, at other times it fights like the Tiger of God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

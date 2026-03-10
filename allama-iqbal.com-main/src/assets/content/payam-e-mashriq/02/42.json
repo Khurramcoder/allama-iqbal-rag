@@ -1,0 +1,86 @@
+{
+  "id": "42",
+  "name": "بندگی",
+  "name-en": "Servitude or Worship",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دوش در میکدہ ترسا بچہ بادہ فروش\nگفت از من سخنی دار چو آویزہ بگوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل رات مئے کدہ میں ایک شراب فروش عیسائی بچّہ نے کہا، میں تجھے ایک بات بتاتا ہوں اسے اپنے پلّے باندھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Last night an infidel wine-vendor said to me ‘attend to the wise counsel I give and hold fast to it.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مشرب بادہ گساران کہن این بود است\nکہ تو از میکدہ خیزی ہمہ مستی ہمہ ہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانے مئے نوشوں کا یہ مشرب رہا ہے، کہ تو مئے کدے سے نکلے تو ہمہ مستی اور ہمہ ہوش ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The custom of the drinkers of the past was to go from the tavern drunk quite merrily, but in their senses still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "من نگویم کہ فروبند لب از نکتۂ شوق\nادب از دست مدہ بادہ بہ اندازہ بنوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں کہتا کہ محبت کی بات کہنے سے لب بند رکھ، مگر اتنا ضرور ہے کہ اپنے ظرف کے مطابق پی اور (بات کہتے وقت) ادب کو ہاتھ سے نہ چھوڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not ask that you should not say your heart’s say; but say it with all due respect and only drink what you can carry well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرد راہیم ولی ذوق طلب جوہر ماست\nبندگی با ہمہ جبروت خدائی مفروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ ہم گرد راہ ہیں مگر (حقیقت کی) جستجو کا ذوق ہماری سرشت میں ہے اس بندگی کو جبروت خدائی کے عوض بھی نہ دے (مقام بندگی دے کر نہ لوں شان خداوندی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As for God’s role, O it is grand; but let me tell you, dust that we are, striving is our quality: I would not barter it for God’s finality.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

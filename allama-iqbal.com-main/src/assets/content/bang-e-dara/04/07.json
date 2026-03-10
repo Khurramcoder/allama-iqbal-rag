@@ -1,0 +1,65 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تہذیب کے مریض کو گولی سے فائدہ! \nدفع مرض کے واسطے پل پیش کیجیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The patient of civilization will not be cured by the goli; for curing of the malady you should present him with pill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تھے وہ بھی دن کہ خدمت استاد کے عوض \nدل چاہتا تھا ہدیہء دل پیش کیجیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There was a time when in exchange for the teacher’s services one wanted that the gift of the heart he should present!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدلا زمانہ ایسا کہ لڑکا پس از سبق \n!\"کہتا ہے ماسٹر سے کہ \"بل پیش کیجیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Times have changed so much that the pupil after the lesson says to the teacher: ‘You should present the bill’. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

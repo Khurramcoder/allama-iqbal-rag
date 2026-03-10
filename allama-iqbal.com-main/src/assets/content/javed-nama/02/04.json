@@ -1,0 +1,289 @@
+{
+  "id": "04",
+  "name": "جلوۂ سروش",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرد عارف گفتگو را در ببست\nمست خود گردید و از عالم گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد عارف (وشوا متر) نے گفتگو کا دروآزہ بند کر دیا؛ وہ اپنے آپ میں مست ہو گیا اور عالم سے اپنا تعلق منقطع کر لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There upon the wise man ceased his discourse; self-intoxicated, he broke away from the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ذوق و شوق او را ز دست او ربود\nدر وجود آمد ز نیرنگ شہود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ذوق و شوق نے اسے بے خود کر دیا (یعنی) ظاہر کے طلسم سے اپنے اندر گم ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ecstasy and yearning snatched him out of his own hands. Then came into being, by the magic of divine vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "با حضورش ذرہ ہا مانند طور\nبے حضور او نہ نور و نے ظہور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی توجہ سے ذرّے طور کی مانند نظر آتے تھے؛ جب اس نے توجہ ہٹا لی تو وہاں نور تھا نہ ظہور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it is present the motes become like Mount Sinai, without its presence there is nor light nor manifestation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نازنینے در طلسم آن شبے\nآن شبے بے کوکبے را کوکبے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس رات کے طلسم کے اندر ایک نازنین نمودار ہوئی؛ جو اس ستاروں سے محروم رات کے اندر ستارے کی طرح چمک رہی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Sarosh arrives): A delicate creature in the talisman of that night, a star shining upon that starless night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سنبلستان دو زلفش تا کمر\nتاب گیر از طلعتش کوہ و کمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی دونوں زلفوں کے سنبلستان کمر تک لٹکے ہوئے تھے ؛ اس کے چہرے سے کوہ و کمر روشنی حاصل کرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hyacinth-curls of his two tresses reached his waist, mountains and foothills drew brilliance from his face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غرق اندر جلوۂ مستانہ ئی\nخوش سرود آن مست بے پیمانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جلوہء مستانہ میں غرق تھی؛ اس مست بے پیمانہ نے دلپذیر نغمہ چھیڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wholly drowned in a drunken epiphany, drunken without wine, he chanted melodiously.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پیش او گردندہ فانوس خیال\nذوفنون مثل سپہر دیر سال",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سامنے خیال اس طرح گردش کرتا تھا کہ بوڑھے آسمان کی گردش کی طرح اس کے اندر سے کئی فنون پیدا ہوتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before him the lantern of the imagination span around, full of wiles as the ancient sphere of heaven;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اندر آن فانوس پیکر رنگ رنگ\nشکرہ بر گنجشک و بر آہو پلنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس رنگا رنگ پیکر فانوس کے اندر ؛ شکرہ چڑیا پر اور چیتا آہو پر جھپٹتا نظر آتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that lantern appeared a form of many hues, hawk pouncing on sparrow, panther seizing deer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "من بہ رومی گفتم اے دانای راز\nبر رفیق کم نظر بگشای راز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رومی سے کہا اے دانائے راز اپنے کم نظر ساتھی کو بتا کہ یہ کیا راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to Rumi, ‘You who know the secret, reveal the secret to your companion of little vision.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گفت \"این پیکر چو سیم تابناک\nزاد در اندیشۂ یزدان پاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا اس چاندی کی طرح چمکتے ہوئے پیکر نے خدائے پاک کی مشیت میں جنم لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘This form like unto flashing silver was born in the thought of the holy God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "باز بیتابانہ از ذوق نمود\nدر شبستان وجود امید فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر یہ پیکر ذوق نمود سے بیتاب ہو کر شبستان وجود میں اتر آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Impatiently, out of the joy of self- manifestation, he came down into the dormitory of existence,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہمچو ما آوارہ و غربت نصیب\nتو غریبی، من غریبم، او غریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بھی ہماری طرح آوارہ اور سفر نصیب ہے؛ تو بھی مسافر ہے میں بھی مسافر ہوں اور یہ بھی مسافر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like ourselves a wanderer, exile his portion – you are an exile, I am an exile, he is an exile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "شأن او جبریلی و نامش سروش \nمی برد از ہوش و می آرد بہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شان جبریلی ہے اور نام سروش؛ یہ بے خود کر کے ہوش میں لاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His rank is that of Gabriel, his name is Sarosh, he transports from sense, and restores to sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "غنچۂ ما را گشود از شبنمش\nمردہ آتش، زندہ از سوز دمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شبنم سے ہماری کلی کھلتی ہے؛ اس کے سانس کے سوز سے بجھی ہوئی آگ بھڑک اٹھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was his dew that opened our bud, the fire of his breath kindled the dead ember.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "زخمۂ شاعر بہ ساز دل ازوست\nچاکہا در پردۂ محمل ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی کی وجہ سے شاعر اپنے ساز دل کو مضراب سے چھیڑتا ہے؛ اسی کی وجہ سے محمل کا پردہ چاک چاک ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet’s plectrum striking the chords of the heart is of him, and it is he who rends the veil shrouding the Kaaba.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "دیدہ ام در نغمۂ او عالمے\nآتشے گیر از نواے او دمے\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کے نغمہ کے اندر ایک نیا عالم دیکھا ہے؛ تو بھی ایک لحظہ کے لیے حرارت حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Within his melody I have glimpsed an entire universe now take fire for a moment from his song.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Epiphany Of Sarosh"
+}

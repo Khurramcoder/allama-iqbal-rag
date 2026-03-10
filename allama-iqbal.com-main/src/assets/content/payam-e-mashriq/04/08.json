@@ -1,0 +1,86 @@
+{
+  "id": "08",
+  "name": "بایرن",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مثال لالہ و گل شعلہ از زمین روید\nاگر بخاک گلستان تراود از جامش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس کے جام سے گلستان کی مٹی میں (کچھ شراب) ٹپکے، تو زمین سے لالہ و گل کی مانند شعلہ پیدا ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Flames would spring up, just as rose and tulip do, from the garden’s soil, if you poured a drop or two on it from his cup, always on the boil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نبود در خور طبعش ہوای سرد فرنگ\nتپید پیک محبت ز سوز پیغامش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی طبع کو فرنگستان کی ٹھنڈک (بے سوز) آب و ہوا راس نہ آتی ، (مگر ) اس کے پیغام کے سوز سے محبت کا قاصد تڑپ اٹھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "England’s chilly climate did not suit his spirit. His heart’s message’s great ardour set aflame love’s messenger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خیال او چہ پریخانہ ئی بنا کرد است\nشباب غش کند از جلوہ لب بامش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے فکر نے کیا پری خانہ بنایا ہے ، کہ اس کے جلوہ ء لب بام سے شباب ہوش و ہواس کھو بیٹھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a fairyland of beauty was created by his fancy! Seeing his epiphanies, youth goes into ecstasies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گذاشت طایر معنی نشیمن خود را\nکہ سازگار تر افتاد حلقۂ دامش",
+              "lang": "Original"
+            },
+            {
+              "_content": "معنی کے پرندے نے اپنا نشیمن چھوڑ دیا ہے، کیونکہ بائرن کے دام نے اپنے دام کا حلقہ اسے زیادہ پسند آ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But his genius, that high-soaring bird, left its nest to fall into a snare, which it preferred to soaring in the air.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Byron",
+  "credits": "English Translation by: M. Hadi Husain"
+}

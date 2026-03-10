@@ -1,0 +1,459 @@
+{
+  "id": "13",
+  "name": "خفتگان خاک سے استفسار",
+  "name-en": "Inquiry from the Sleepers of the Grave",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مہر روشن چھپ گیا، اٹھی نقاب روئے شام\nشانہ ہستی پہ ہے بکھرا ہوا گیسوئے شام",
+              "lang": "Original"
+            },
+            {
+              "_content": "استفسار: سوال۔\nنقاب روئے شام: شام کے چہرے پر پردہ۔\nگيسوئے شام: شام کی زلفیں ، مراد ہے اندھیرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bright sun is hidden; the night shows its face. The night's hair is spread on shoulders of the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ سیہ پوشی کی تیاری کس کے غم میں ہے\nمحفل قدرت مگر خورشید کے ماتم میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيہ پوشي: ماتم میں کالا لباس پہننا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This black dress is preparation for some one's mourning; perhaps the Nature's assemblage for the sun is mourning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کر رہا ہے آسماں جادو لب گفتار پر\nساحر شب کی نظر ہے دیدہ بیدار پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساحر: جادوگر۔ \nلب گفتار: بولنے والا ہونٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky is casting a spell over the talking lip; the night's magician is watching the awakened eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غوطہ زن دریاے خاموشی میں ہے موج ہوا\nہاں، مگر اک دور سے آتی ہے آواز درا",
+              "lang": "Original"
+            },
+            {
+              "_content": "غوطہ زن: ڈبکی لگانے والی، ڈوبی ہوئی۔ \nآواز درا: قافلے کی گھنٹی کی آواز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wind current is submerged in the river of silence; however, the tolling bell's sound comes from the distance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل کہ ہے بے تابی الفت میں دنیا سے نفور\nکھنچ لایا ہے مجھے ہنگامہ عالم سے دور",
+              "lang": "Original"
+            },
+            {
+              "_content": "نفور:نفرت کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heart which in love's turmoil is evading the world; has dragged me here far from the maddening crowd.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "منظر حرماں نصیبی کا تماشائی ہوں میں\nہم نشین خفتگان کنج تنہائی ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرماں نصيبي: محرومی، مایوسی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the spectator of the spectacle of disappointments; I am the associate of those sleeping in solitude's corner.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تھم ذرا بے تابی دل! بیٹھ جانے دے مجھے\nاور اس بستی پہ چار آ نسو گرانے دے مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O My restlessness! Wait and let me rest awhile and let me shed a few tears at this habitation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے مے غفلت کے سر مستو، کہاں رہتے ہو تم\nکچھ کہو اس دیس کی آ خر، جہاں رہتے ہو تم",
+              "lang": "Original"
+            },
+            {
+              "_content": "O those steeped in a swoon, ‘Where are you? Tell me something of the land where you live.",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "وہ بھی حیرت خانہ امروز و فردا ہے کوئی؟\nاور پیکار عناصر کا تماشا ہے کوئی؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "حيرت خانہ: حیرانی کا مقام۔ \nامروز و فردا: آج کل۔ \nپيکار عناصر: عنصروں کی لڑائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is that world also one of prevarication? Is that world also one of denizens' struggle?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آدمی واں بھی حصار غم میں ہے محصور کیا؟\nاس ولا یت میں بھی ہے انساں کا دل مجبور کیا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "حصار غم: غم کی چار دیواری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is Man engulfed by sorrow in that land also? Is Man's heart suppressed and helpless in that land also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "واں بھی جل مرتا ہے سوز شمع پر پروانہ کیا؟\nاس چمن میں بھی گل و بلبل کا ہے افسانہ کیا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does the moth burn itself in candle's love in that land also? Does the tale of flower and nightingale exist in that garden also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یاں تو اک مصرع میں پہلو سے نکل جاتا ہے دل\nشعر کی گر می سے کیا واں بھی پگل جاتاہے دل؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world a single hemistich perturbs the heart: Does there also the warmth of verse soften the heart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "رشتہ و پیوند یاں کے جان کا آزار ہیں\nاس گلستاں میں بھی کیا ایسے نکیلے خار ہیں؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world's relations and alliances life's woes are: Are similar sharp thorns present in that garden also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اس جہاں میں اک معیشت اور سو افتاد ہے\nروح کیا اس دیس میں اس فکر سے آزاد ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "افتاد: مصیبت، آفت۔\nمعيشت: زندگی، روزگار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The daily bread and a million calamities this world has: Does the soul freedom from anxieties in that world has?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "کیا وہاں بجلی بھی ہے، دہقاں بھی ہے، خرمن بھی ہے؟\nقافلے والے بھی ہیں، اندیشہ رہزن بھی ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرمن: کھلیان، غلّے کا ڈھیر۔ \nانديشہ رہزن: ڈاکو کا خوف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are the thunder, the farmer, the harvest there also? Are the caravan and the robber's fear there also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "تنکے چنتے ہیں و ہاں بھی آ شیاں کے واسطے؟\nخشت و گل کی فکر ہوتی ہے مکاں کے واسطے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "خشت و گل: اینٹ اور گارا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do birds collect bits of straw for nests there also? Is the search for bricks and clay for house there also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "واں بھی انساں اپنی اصلیت سے بیگانے ہیں کیا؟\nامتیاز ملت و آئیں کے دیوانے ہیں کیا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت و آئيں: قوم اور شرع کا فرق۔ امتياز",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are the humans unaware of their reality there also? Are they after nations' and customs' discrimination there also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "واں بھی کیا فریاد بلبل پر چمن روتا نہیں؟\nاس جہاں کی طرح واں بھی درد دل ہوتا نہیں؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does garden not cry at the nightingale's wail there also? Like this world is there no sympathy in that world also?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "باغ ہے فردوس یا اک منزل آرام ہے؟\nیا رخ بے پردہ حسن ازل کا نام ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "حسن ازل: وہ حسن جو اس دنیا کی پیدائش سے پہلے موجود تھا یعنی حسن باری تعالے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does the Paradise a garden or a restful mansion constitute? Or does the Eternal Beauty's Unveiled Face it constitute?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کیا جہنم معصیت سوزی کی اک ترکیب ہے؟\nآگ کے شعلوں میں پنہاں مقصد تاویب ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "معصيت سوزي: گناہوں کو جلانا۔\nتاديب: سزا، گوشمالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does hell a method of burning away sins constitute? Or it in flames of fire a way of discipline constitute?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "کیا عوض رفتار کے اس دیس میں پرواز ہے؟\nموت کہتے ہیں جسے اہل زمیں، کیا راز ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has walking given way to speedy flying in that world? What is the secret of what is called death by denizens of this world?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "اضطراب دل کا ساماں یاں کی ہست و بود ہے\nعلم انساں اس ولایت میں بھی کیا محدود ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہست و بود: رہنا سہنا، زندگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life eases the heart's restlessness in this world: Is human knowledge also restricted in that world?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "دید سے تسکین پاتا ہے دل مہجور بھی؟\n'لن ترانی' کہہ رہے ہیں یا وہاں کے طور بھی؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہجور: ہجر کا مارا ہوا، جدا۔\nتراني': ' تو مجھے ہرگز نہ دیکھ سکے گا'، اشارہ ہے واقعہء طور کی طرف، لن'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does the separated heart get satisfaction by sight there also? Are ‘Lan Tarani’ saying the Toor of that land also?\n(This alludes to the Holy Qur’an 7:142-143. It means that Man is unable to see God in this material world and prophets are no exception to this.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "جستجو میں ہے وہاں بھی روح کو آرام کیا؟\nواں بھی انساں ہے قتیل ذوق استفہام کیا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "قتيل: مارا ہوا۔ \nذوق استفہام: پوچھنے کی لذّت ۔ سوال کا شوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does the soul get solace in longing there also? Is man a victim of desire to learn there also?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "آہ! وہ کشور بھی تاریکی سے کیا معمور ہے؟\nیا محبت کی تجلی سے سراپا نور ہے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "معمور: بھری ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! Is that land also filled with darkness? Or with Love's light is completely illuminated?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تم بتا دو راز جو اس گنبد گرداں میں ہے\nموت اک چبھتا ہوا کانٹا دل انساں میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "گنبد گرداں: گھومنے والا گنبد، آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell us what the secret under this rotating dome is. Death a pricking sharp thorn in the human breast is.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

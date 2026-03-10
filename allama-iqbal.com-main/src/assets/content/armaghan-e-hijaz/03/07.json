@@ -1,0 +1,84 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نکل کر خانقاہوں سے ادا کر رسم شبیری\nکہ فقر خانقاہی ہے فقط اندوہ و دلگیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "رسم شبیری: وہ رسم جو حضرت امام حسین (رضی اللہ) نے کربلا میں ادا کی۔ \nفقر خانقاہی: مراد ہے موجودہ پیری مریدی۔\nفقط اندوہ و دلگیری: صرف رنج و ملال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Get out from tombs, revive rites of Hussain, the content of tombs is sigh and sob’s tan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترے دین و ادب سے آ رہی ہے بوئے رہبانی\nیہی ہے مرنے والی امتوں کا عالم پیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "بوئے رہبانی: تارک دنیا کی بو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy faith and gab’s gift has the hermit’s scent, for dying nations it is old age bent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شیاطین ملوکیت کی آنکھوں میں ہے وہ جادو\nکہ خود نخچیر کے دل میں ہو پیدا ذوق نخچیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق نخچیری: شکار ہو جانے کی چاہت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Satans of kings have magic in eye; that hunt likes to be a hunt by and by.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چہ بے پروا گذشتند از نواے صبحگاہ من\nکہ برد آں شور و مستی از سیہ چشمان کشمیری!",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری صبح کے وقت کی آواز سے اہل کشمیر اس طرح بے پرواہ ہو کر گزرے ہیں کہ جیسے ان کی سیاہ آنکھوں سے کوئی وہ شور و مستی لے گیا ہو جس سے وہ دوسروں پر جادو کر سکتے تھے۔ مراد یہ ہے کہ یہی کشمیری جو آج غلامی اور بے بسی کی زندگی بسر کر رہے ہیں کبھی آزاد اور زندگی کے ہر شعبے میں سرفراز تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They paid no heed to my midnight sigh; he took all the booze from Kashmir’s eye.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

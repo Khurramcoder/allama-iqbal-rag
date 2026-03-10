@@ -1,0 +1,101 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لا دینی و لاطینی، کس پیچ میں الجھا تو \nدارو ہے ضعیفوں کا 'لاغالب الا ھو'",
+              "lang": "Original"
+            },
+            {
+              "_content": "اغالب الا ھو: اللہ کے سوائے اور کوئی غالب نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In maze of Latin script and sin, your bearings, no doubt, you have lost belief that none has might save God, is cure for weak that acts so fast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "صیاد معانی کو یورپ سے ہے نومیدی \nدلکش ہے فضا، لیکن بے نافہ تمام آہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے نافہ تمام آہو: تمام ہرن بغیر مشک کے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man who likes to hunt the facts must quit all hopes of West, is clear its atmosphere is full of charm, but one can't find musk-yielding deer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بے اشک سحر گاہی تقویم خودی مشکل \nیہ لالہ پیکانی خوشتر ہے کنار جو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقویم: قیام، مضبوطی، \nالہ پیکانی: یہاں مراد ہے خودی۔ \nکنار جو: ندی کے کنارے ؛ مراد ہے سحر گاہی کے آنسو،۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self of man derives much strength from tears he sheds at early morn much good that tulip, like the dart, the marge of some brook may adorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "صیاد ہے کافر کا، نخچیر ہے مومن کا \nیہ دیر کہن یعنی بتخانہ رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This idol-house of hue and scent, or fane so ancient, old and hoar hunts hose who don't believe in God, on Muslims has effect no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے شیخ، امیروں کو مسجد سے نکلوا دے \nہے ان کی نمازوں سے محراب ترش ابرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترش ابرو: ناراض، خفا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Shaikh, get all the rich expelled from precincts of the Holy mosque\nFor niche of mosque is angry with them all for their much impious task.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

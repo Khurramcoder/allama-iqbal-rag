@@ -1,0 +1,83 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شام کی سرحد سے رخصت ہے وہ رند لم یزل \nرکھ کے میخانے کے سارے قاعدے بالائے طاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشارہ ہے فرانس کی افواج ( جو ہمیشہ نشہ میں رہتی تھيں) کا شام کی سرحد سے واپسی کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That eternal rind has departed from the border of Syria shelving away all the rules and etiquette of the tavern.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ اگر سچ ہے تو ہے کس درجہ عبرت کا مقام \nرنگ اک پل میں بدل جاتا ہے یہ نیلی رواق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If so, how much is this the occasion for admonition; the blue sky changes its colours in a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حضرت کرزن کو اب فکر مداوا ہے ضرور \nحکم برداری کے معدے میں ہے درد لایطاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "درد لايطاق: شدید درد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Curzon certainly would be concerned with remedial measures; in the belly of obedience has started unequaled convulsion.\n(Curzon: He was the British Foreign Secretary during the period 1920-25 when an effort was made to settle the Middle East problem to the detriment of the Arabs and advantage of Jews. The part played by Sir Agha Khan III is referred to in the last verse.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وفد ہندستاں سے کرتے ہیں سرآغا خاں طلب \nکیا یہ چورن ہے پےء ہضم فلسطین و عراق؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sir Agha Khan * is demanding the delegation from India: Is this the digestive for devouring Iraq and Palestine.\n* Reference to Sir Sultan Muhammad Shah the Agha Khan III who was a veteran statesman of the Indian sub-continent and played an important role in the politics of India, particularly that of Muslims, including the settlement of the Middle East problem, to which reference is made in the last line of the poem.) ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

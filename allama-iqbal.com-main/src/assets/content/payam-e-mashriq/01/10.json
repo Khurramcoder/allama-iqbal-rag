@@ -1,0 +1,34 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سحر می گفت بلبل باغبان را\nدرین گل جز نہال غم نگیرد\nبہ پیری میرسد خار بیابان\nولی گل چون جوان گردد بمیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبل نے صبح کے وقت باغبان سے کہا؛ اس مٹی میں سوائے غم کے پودے کے اور کچھ نہیں اگتا۔ \nبیابان کا کانٹا بڑھاپے کو پہنچ جاتا ہے؛ مگر (گلستان کا) پھول جب جوان ہوتا ہے، تو مر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nightingale said to the gardener at dawn: ‘Only the tree of sorrow can take root in this soil. \nThe wild thorn reaches a ripe age, but the rose dies when it is still young’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

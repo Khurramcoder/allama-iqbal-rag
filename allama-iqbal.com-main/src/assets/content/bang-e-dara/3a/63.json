@@ -1,0 +1,146 @@
+{
+  "id": "63",
+  "name": "پھول",
+  "name-en": "Flower",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تجھے کیوں فکر ہے اے گل دل صد چاک بلبل کی \nتو اپنے پیرہن کے چاک تو پہلے رفو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O flower! Why do you care for the nightingale’s wounded heart! First you should darn the slits of your own shirt!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تمنا آبرو کی ہو اگر گلزار ہستی میں \nتو کانٹوں میں الجھ کر زندگی کرنے کی خو کرلے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you long for respect in the rose garden of existence; you should get accustomed to living entangled in thorns!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صنوبر باغ میں آزاد بھی ہے، پا بہ گل بھی ہے \nانھی پابندیوں میں حاصل آزادی کو تو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The juniper in the garden is free as well as chained to the soil; you should acquire freedom within these constraints!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تنک بخشی کو استغنا سے پیغام خجالت دے \nنہ رہ منت کش شبنم نگوں جام وسبو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With contentment give message of embarrassment to miserliness: Do not remain obliged to dew, you should empty the cup and the bottle!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہیں یہ شان خودداری، چمن سے توڑ کر تجھ کو \nکوئی دستار میں رکھ لے، کوئی زیب گلو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It does not befit self respect that being picked from the garden you should be put in some turban or pinned to some collar!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چمن میں غنچہ گل سے یہ کہہ کر اڑ گئی شبنم \nمذاق جور گلچیں ہو تو پیدا رنگ و بو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dew disappeared from garden saying to the flower bud: If you love gardener’s oppression, you should create beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگر منظور ہو تجھ کو خزاں ناآشنا رہنا \nجہان رنگ و بو سے، پہلے قطع آرزو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you want to remain unacquainted with autumn; first you should abandon the desire for the beauty’s world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اسی میں دیکھ، مضمر ہے کمال زندگی تیرا \nجو تجھ کو زینت دامن کوئی آئینہ رو کر لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look, in this alone is concealed your life’s perfection! If you should be the decoration of some beauty’s robe!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

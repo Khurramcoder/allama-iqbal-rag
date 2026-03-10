@@ -1,0 +1,102 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "باز بر رفتہ و آیندہ نظر باید کرد\nہلہ برخیز کہ اندیشہ دگر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے ماضی و مستقبل پر دوبارہ نظر ڈالنی چاہیے ؛ خبردار اٹھ دوبارہ غور و فکر کرنا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sleeper, rise thou up, and fast! Once again upon the past and the future fix thy gaze; Thou must think on other ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق بر ناقۂ ایام کشد محمل خویش\nعاشقی ؟ راحلہ از شام و سحر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق ناقہء ایام پر اپنا محمل باندھتا ہے؛ اگر تو عاشق ہے تو تجھے شام و سحر پر سواری کرنی چاہیے (ایام کا مرکب نہیں ، راکب ہے قلندر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love hath laid his heavy load on Time’s saddle to the road: Art thou lover? In thy need eve and dawn must be thy steed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پیر ما گفت جہان بر روشی محکم نیست\nاز خوش و ناخوش او قطع نظر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے استاد نے ہمیں سمجھایا کہ جہان ایک روش پر قائم نہیں رہتا؛ اس کی پسند و نا پسند کو نظر انداز کرنا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Elder said, ‘This world below in no certain gait doth go; we must close our eyes, nor care what is foul herein, or fair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو اگر ترک جہان کردہ سر او داری\nپس نخستین ز سر خویش گذر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو صرف ترک جہان کے ذریعے اس تک پہنچنا چاہتا ہے تو یہ نا کافی ہے؛ پہلے تجھے اپنے سر کی قربانی دینا پڑے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘If, the world being wholly spurned, unto Him thy mind is turned, first of all the things to do is thy own life to forgo.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفتمش در دل من لات و منات است بسی\nگفت این بتکدہ را زیر و زبر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس سے کہا کہ میرے دل میں بہت سے لات و منات بسے ہوئے ہیں؛ اس نے کہا اس بتکدے کو تہ و بالا کرنا ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Ah, within my heart’, said I, ‘yet unbroken idols lie’: ‘Then this temple’, answered he, ‘must be shattered utterly!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

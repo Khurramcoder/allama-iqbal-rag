@@ -1,0 +1,33 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کچھ غم نہیں جو حضرت واعظ ہیں تنگ دست \nتہذیب نو کے سامنے سر اپنا خم کریں \nرد جہاد میں تو بہت کچھ لکھا گیا \nتردید حج میں کوئی رسالہ رقم کریں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It does not matter if the preacher is poor; he should bend to the new civilization.\nMuch has been written on cancellation of jihad*; he should write a tract on cancellation of Hajj.\n*This is sarcasm on the publication of literature in the Indian sub-continent seeking excuses to divert the attention of the Muslims from the aspect of jihad technically known as ‘qital’. This was very prominent in the literature produced by the Qadiyani Community, especially the literature produced by the community’s founder, Mirza Ghulam Ahmad of Qadiyan.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "56",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نفس شمار بہ پیچاک روزگار خودیم\nمثال بحر خروشیم و درکنار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اپنے زمانے کے پھندے میں پھنسے ہوئے سانس گن رہے ہیں؛ سمندر کی طرح جوش و خروش دیکھاتے ہیں، مگر کناروں سے باہر نہیں جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One by one we count our breath on the narrow road to death; like a raging sea we roar as we walk along the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگرچہ سطوت دریا امان بکس ندہد\nبخلوت صدف او نگاہدار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ سمندر کی سطوت سے کسی کو امان نہیں؛ مگر ہم صدف کے اندر پڑے ہوئے موتی کی طرح اپنی ذات کا تحفظ کیے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the terror of the sea gives to none security, in the secret of the shell self-preserving we may dwell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز جوہری کہ نہان است در طبیعت ما\nمپرس صیرفیان را کہ ما عیار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری طبیعت کے اندر جو جوہر نہاں ہے اس کے بارے میں صرّافوں سے نہ پوچھ؛ ہم خود ہی اس کی قیمت جانتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask them not to price the heart, money-changers of the mart; we can estimate alone the true merit of our stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ از خرابۂ ما کس خراج می خواہد\nفقیر راہ نشینیم و شہریار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری خرابہ زمین سے کوئی خراج طلب نہیں کرتا؛ ہم فقیر راہ نشین ہیں اور آپ اپنے بادشاہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tribute none is asked of us for our fiefdom ruinous; beggars sitting by the road, we are princes of our- blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "درون سینۂ ما دیگری چہ بوالعجبی است\nکرا خبر کہ توئی یا کہ ما دچار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سینے کے اندر کوئی اور! حیرانی کی بات ہے؛ کیا خبر کہ آپ ہیں یا ہم خود اپنے آپ سے دو چار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is one (O wonderful!) dwells beside me in my soul; who shall say, if it be thee or myself, I meet in me?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گشای پردہ ز تقدیر آدم خاکی\nکہ ما بہ رھگذر تو در انتظار خودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم خاکی کی تقدیر سے پردہ ہٹائیے کہ ہم آپ کے راہگذر میں بیٹھے ہوئے اپنا انتظار کر رہے ہیں ۔ (خدا شناسی ہی سے انسان تعمیر شخصیت کے بلند ترین مقامات تک پہنچتا ہے۔ )",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Draw aside fate’s veil, I pray, from this Adam shaped of clay; on Thy path precipitate for our coming we await.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

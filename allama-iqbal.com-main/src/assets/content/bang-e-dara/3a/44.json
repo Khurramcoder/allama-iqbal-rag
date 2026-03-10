@@ -1,0 +1,130 @@
+{
+  "id": "44",
+  "name": "ارتقا",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ستیزہ کار رہا ہے ازل سے تا امروز \nچراغ مصطفوی سے شرار بولہبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Struggle has continued from eternity till the present day between the lamp of Mustafvi and the spark of Bu Lahab.’\n(He was one of the uncles of the Holy Prophet (S.A.W.) but was still one of the strongest enemies of him and of Islam.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حیات شعلہ مزاج و غیور و شور انگیز \nسرشت اس کی ہے مشکل کشی، جفا طلبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is flame-tempered, high-minded and fervent; its nature is resolving difficulty, bearing cruelty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سکوت شام سے تا نغمہ سحر گاہی \nہزار مرحلہ ہائے فعان نیم شبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the evening’s quietude till the morning’s song there are many a stage of the midnight wailing!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کشا کش زم و گرما، تپ و تراش و خراش \nز خاک تیرہ دروں تا بہ شیشہ حلبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Struggle exists between the heat and cold, throbbing and shaping from the dark dust to the polished glass of Halab!\n(Halab or Aleppo was a famous place for the manufacture of quality glassware.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مقام بست و شکت و فشار و سوز و کشید\nمیان قطرئہ نیسان و آتش عنبی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The phenomena of making and breaking, squeezing, heating and distilling exist between the drop of spring rain and the heat of the grape wine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اسی کشاکش پیہم سے زندہ ہیں اقوام \nیہی ہے راز تب و تاب ملت عربی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nations live by this continuous struggle alone; this alone is the secret of the Arab nation’s struggle!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مغاں کہ دانہء انگور آب می سازند \nستارہ می شکنند، آفتاب می سازند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The tavern-keepers making wine from the grape; break the stars and construct the sun.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Evolution",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

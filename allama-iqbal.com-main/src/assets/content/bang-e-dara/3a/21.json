@@ -1,0 +1,98 @@
+{
+  "id": "21",
+  "name": "انسان",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "منظر چمنستاں کے زیبا ہوں کہ نازیبا \nمحروم عمل نرگس مجبور تماشا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sights of the garden may or may not be beautiful; the narcissus, unable to act, forced to watching is!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رفتار کی لذت کا احساس نہیں اس کو \nفطرت ہی صنوبر کی محروم تمنا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It does not appreciate the pleasure of movement; the very nature of juniper devoid of longing is!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تسلیم کی خوگر ہے جو چیز ہے دنیا میں \nانسان کی ہر قوت سرگرم تقاضا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever is in the world is accustomed to submission; every power of Man busy in pressing for his Longing is!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اس ذرے کو رہتی ہے وسعت کی ہوس ہر دم \nیہ ذرہ نہیں، شاید سمٹا ہوا صحرا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This speck remains incessantly ambitious of expansion; not a speck but perhaps the constricted wilderness he is!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چاہے تو بدل ڈالے ہےئت چمنستاں کی \nیہ ہستی دانا ہے، بینا ہے، توانا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If he wills he can change the face of the garden; this entity wise, clear-sighted and powerful is!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Human Race",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,131 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کی شوخی و تندی میں کبر و ناز نہیں \nجو ناز ہو بھی تو بے لذت نیاز نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the coquetry and fierceness of the self there is no pride, there are no airs. Even if there are airs, then they are not without the pleasure of submission.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نگاہ عشق دل زندہ کی تلاش میں ہے \nشکار مردہ سزاوار شاہباز نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye of love is in search of the living heart; hunting for carrion does not befit up to the royal hawk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مری نوا میں نہیں ہے ادائے محبوبی \nکہ بانگ صور سرافیل دل نواز نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my song there is no charming and romantic grace, for the blast of the trumpet of Israfil is not meant to please the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سوال مے نہ کروں ساقی فرنگ سے میں \nکہ یہ طریقہ رندان پاک باز نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will not ask for wine from the Frank, saki, for this is not the way of the pure-hearted profligates.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوئی نہ عام جہاں میں کبھی حکومت عشق \nسبب یہ ہے کہ محبت زمانہ ساز نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rule of love has never been widespread in the world. The reason is this – that love is no time-server.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اک اضطراب مسلسل، غیاب ہو کہ حضور \nمیں خود کہوں تو مری داستاں دراز نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "غياب: غائب ہونا، غیر حاضر ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One continual anxiety; whether absent or present! If I tell it myself, my story is not long.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگر ہو ذوق تو خلوت میں پڑھ زبور عجم \nفغان نیم شبی بے نوائے راز نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "زبور عجم: علامہ کی مشہور فارسی کتاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you desire then read the Persian Psalms; in seclusion; the midnight lament is not bereft of secrets.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: D.J. Matthews"
+}

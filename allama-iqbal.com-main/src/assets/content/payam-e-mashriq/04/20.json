@@ -1,0 +1,154 @@
+{
+  "id": "20",
+  "name": "خرابات فرنگ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دوش رفتم بہ تماشای خرابات فرنگ\nشوخ گفتاری رندی دلم از دست ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل میں خرابات فرنگ کا تماشا دیکھنے چلا گیا، وہاں ایک رند کی شوخ گفتاری نے میرا دل لبھا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Last night, while I was in the tavern of the West, I was delighted by a witty thing a drinker said.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفت این نیست کلیسا کہ بیابی در وی\nصحبت دخترک زہرہ وش و نای و سرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا کہ یہ کلیسا نہیں جہاں تجھے ، خوبصورت محبوبہ ، شراب اور راگ و رنگ میسّر آ جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘This place is not a church’, said he, ‘that you should find here pretty girls and organ music and sweet songs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این خرابات فرنگ است و ز تأثیر میش\nآنچہ مذموم شمارند، نماید محمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خرابات فرنگ ہے ، اس کی شراب کی تاثیر سے ، ہر بری چیز اچھی نظر آنے لگتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the tavern of the West, where wine has the effect of making things that are considered bad seem good,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نیک و بد را بہ ترازوی دگر سنجیدیم\nچشمہ ئی داشت ترازوی نصاری و یہود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اچھے اور برے کو ایک اور ترازو سے تولتے ہیں ، (کیونکہ ) نصاری و یہود کا ترازو پاسنگ رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have weighed good and evil on another kind of scales. The scales of the Jews and the Christians were askew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خوب، زشت است اگر پنجۂ گیرات شکست\nزشت، خوب است اگر تاب و توان تو فزود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اچھی چیز بری ہے، اگر وہ تیری کلائی مروڑ دے ، اور بری چیز اچھی ہے اگر اس سے تیری تاب و تواں میں اضافہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is good in you will be bad, if you should break your fist. What is bad in you will be good, if you increase your might.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تو اگر در نگری جز بہ ریا نیست حیات\nہر کہ اندر گرو صدق و صفا بود نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو غور سے دیکھے تو زندگی ریا کے سوا اور کچھ نہیں ، جو چیز صدق و صفا کی گروی ہو وہ نہ ہونے کے برابر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you look carefully, you will find life is all hypocrisy. Whoever follows the path of truth and sincerity just ceases to exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دعوی صدق و صفا پردۂ ناموس ریاست\nپیر ما گفت مس از سیم بباید اندود",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ہمارا ) صدق و صفا کا دعوی ریا کے 'ناموس' کا پردہ ہے، (کیونکہ) ہمارا استاد کہتا ہے کہ تانبے پر چاندی کی ملمع کاری ضروری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Claims of truth and sincerity are only covers for hypocrisy. Our master says that brass must have on it a silver plate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "فاش گفتم بتو اسرار نہانخانۂ زیست\nبہ کسے باز مگو تا کہ بیابی مقصود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے تو زندگی کے اندرکے اسرار تیرے سامنے کھول کر بیان کر دیے ہیں، اب یہ اسی اور کو نہیں بتائے تاکہ تو اپنا مقصود پا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have revealed to you the secret of success in life. Let no one know of it, if you care for success.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Tavern Of The West",
+  "credits": "English Translation by: M. Hadi Husain"
+}

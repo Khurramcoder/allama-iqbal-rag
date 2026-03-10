@@ -1,0 +1,83 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آدم کا ضمیر اس کی حقیقت پہ ہے شاہد \nمشکل نہیں اے سالک رہ ! علم فقیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O pilgrim, who tread mystic path, your goal with case you can attain man's conscience can bear out this fact that Faqr's high rank isn't hard to gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فولاد کہاں رہتا ہے شمشیر کے لائق \nپیدا ہو اگر اس کی طبیعت میں حریری",
+              "lang": "Original"
+            },
+            {
+              "_content": "حریر: ریشم، مراد ہے نرمی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The steel can never make or forge a sharp and sturdy sword at all if steel is smooth and soft, like silk, such toys, true sword one can not call.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خود دار نہ ہو فقر تو ہے قہر الہی \nہو صاحب غیرت تو ہے تمہید امیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Faqr possesses no self esteem, it means God Mighty's ire and wrath if respect for Self keeps in view, to riches great it paves the path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "افرنگ ز خود بے خبرت کرد وگرنہ \nاے بندئہ مومن ! تو بشیری، تو نذیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ز خود بے خبرت کرد: انگریز نے تجھے اپنے آپ سے بیگانہ کر دیا ہے۔ افرنگ\nبشیری: خوشخبری سنانے والا۔ \nنذیری: ڈرانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Franks have made you oblivious to Self, otherwise O Believer True, you are the bearer of happy news, and warn the sinners 'gainst their due.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

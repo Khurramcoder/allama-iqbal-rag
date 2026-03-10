@@ -1,0 +1,98 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نگاہ وہ نہیں جو سرخ و زرد پہچانے \nنگاہ وہ ہے کہ محتاج مہر و ماہ نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That glance can not be termed as true which draws; a line 'twixt red and pale that sight is true which does not like the light of Sun or Moon to 'vail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فرنگ سے بہت آگے ہے منزل مومن \nقدم اٹھا! یہ مقام انتہائے راہ نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The aim and goal of Muslim true is far beyond the bounds of West; take longer steps and walk space, as this site is not meant for rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کھلے ہیں سب کے لیے غربیوں کے میخانے \nعلوم تازہ کی سرمستیاں گناہ نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The marts that sell the wine in West always keep their doors ajar: The rapture caused by knowledge new is removed from sin much afar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اسی سرور میں پوشیدہ موت بھی ہے تری \nترے بدن میں اگر سوز 'لاالہ' نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If your frame is bereft or heat which words, ‘No god but He impart’, then bear in mind this well-known fact. Your soul from body may depart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سنیں گے میری صداخانزاد گان کبیر؟ \nگلیم پوش ہوں میں صاحب کلاہ نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "خانزاد گان کبیر: بڑے خاندانوں کے فرزند۔ \nپوش : گدڑی پہنے ہوئے۔ گلیم",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sons of Khans, who own high rank, shall listen to my humble sound though I am dressed in rags and sack and wear no cap or turban round.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

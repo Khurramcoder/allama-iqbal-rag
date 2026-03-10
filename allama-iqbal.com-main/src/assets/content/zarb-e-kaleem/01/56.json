@@ -1,0 +1,67 @@
+{
+  "id": "56",
+  "name": "مکہ اور جنیوا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس دور میں اقوام کی صحبت بھی ہوئی عام \nپوشیدہ نگاہوں سے رہی وحدت آدم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In present age the League has been contrived, but sight of man from oneness is deprived.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تفریق ملل حکمت افرنگ کا مقصود \nاسلام کا مقصود فقط ملت آدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تفریق ملل: قوموں کا نفاق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The aim and end the Franks before them keep, has caused in several states such rupture deep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مکے نے دیا خاک جنیوا کو یہ پیغام \nجمعیت اقوام کہ جمعیت آدم!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Makkah this question to Geneva posed: ‘Is League of Man, or diverse states composed?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Makkah And Geneva",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

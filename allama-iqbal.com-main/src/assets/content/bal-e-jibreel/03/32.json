@@ -1,0 +1,32 @@
+{
+  "id": "32",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خدائی اہتمام خشک و تر ہے \nخداوندا! خدائی درد سر ہے \nولیکن بندگی، استغفراللہ! \nیہ درد سر نہیں، درد جگر ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "To be God is to do a million tasks;\nTo be God, no doubt, is a wearisome headache;\nBut-pardon me, O Lord-to be a man,\nIs not a headache, but a heartache."
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

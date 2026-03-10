@@ -1,0 +1,149 @@
+{
+  "id": "14",
+  "name": "شمع و پروانہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پروانہ تجھ سے کرتا ہے اے شمع پیار کیوں\nیہ جان بے قرار ہے تجھ پر نثار کیوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Candle! Why does the moth love you? Why is this restless soul devoted to you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سیماب وار رکھتی ہے تیری ادا اسے\nآداب عشق تو نے سکھائے ہیں کیا اسے؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "سیماب وار: پارہ کی طرح بے قرار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your charm keeps it restless like mercury. Did you teach it the etiquette of Love?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کرتا ہے یہ طواف تری جلوہ گاہ کا\nپھونکا ہوا ہے کیا تری برق نگاہ کا؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It circumambulates the site of your manifestation. Is it inspired with the fire of your lightning?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آزار موت میں اسے آرام جاں ہے کیا؟\nشعلے میں تیرے زندگی جاوداں ہے کیا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزار موت: مرنے کا دکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do the woes of death give it the peace of life? Does your flame possess the quality of eternal life?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غم خانہ جہاں میں جو تیری ضیا نہ ہو\nاس تفتہ دل کا نخل تمنا ہرا نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "نخل تمنا: آرزو کا درخت۔\nتفتہ دل: جلا ہوا دل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you do not brighten this sorrowful world; this burning heart's tree of Longing may not green up.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گرنا ترے حضور میں اس کی نماز ہے\nننھے سے دل میں لذت سوز و گداز ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Falling before you is the prayer of this little heart; the taste for impassioned Love knows this little heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کچھ اس میں جوش عاشق حسن قدیم ہے\nچھوٹا سا طور تو یہ ذرا سا کلیم ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has some zeal of the Primeval Beauty's Lover; you are a small Toor, it is a small Kalim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پروانہ، اور ذوق تماشائے روشنی\nکیڑا ذرا سا، اور تمنائے روشنی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moth and the taste for the Sight of the Light! This small insect and the Longing for the Light!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Candle And The Moth",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

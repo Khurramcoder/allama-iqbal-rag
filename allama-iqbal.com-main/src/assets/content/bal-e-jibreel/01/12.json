@@ -1,0 +1,131 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ضمیر لالہ مے لعل سے ہوا لبریز \nاشارہ پاتے ہی صوفی نے توڑ دی پرہیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By dint of spring the poppy-cup, with vintage red is over-flown: With her advent the hermit too temperance to the wind hath thrown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بچھائی ہے جو کہیں عشق نے بساط اپنی \nکیا ہے اس نے فقیروں کو وارث پرویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When great and mighty force of Love at some place its flag doth raise, beggars dressed in rags and sack become heirs true to King Parvez.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پرانے ہیں یہ ستارے، فلک بھی فرسودہ \nجہاں وہ چاہیے مجھ کو کہ ہو ابھی نوخیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Antique the stars and old the dome in which they roam about and move: I long for new and virgin soil where my mettle I may prove.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کسے خبر ہے کہ ہنگامہ نشور ہے کیا \nتری نگاہ کی گردش ہے میری رستاخیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہنگامہ نشور: قیامت کا شور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stir and roar of Judgement Day hath no dread for me at all: Thine roving glance doth work on me like the Last Day’s Trumpet Call.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ چھین لذت آہ سحر گہی مجھ سے \nنہ کر نگہ سے تغافل کو التفات آمیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Snatch not from me the blessing great of sighs heaved at early morn: With a casual loving look weaken not thine fierce scorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دل غمیں کے موافق نہیں ہے موسم گل \nصدائے مرغ چمن ہے بہت نشاط انگیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "نشاط انگیز: خوشی سے لبریز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My sad and broken heart disdains the spring and dower that she brings: Too joyous the song of nightingale! I feel more gloomy when it sings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حدیث بے خبراں ہے، تو با زمانہ بساز \nزمانہ با تو نسازد، تو با زمانہ ستیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unwise are those who tell and preach accord with times and the age. If the world befits you not, a war against it you must wage.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

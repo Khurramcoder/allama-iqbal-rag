@@ -1,0 +1,34 @@
+{
+  "id": "117",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل من بی قرار آرزوئی\nدرون سینۂ من ہای و ہوئی\nسخن اے ہمنشین از من چہ خواہی\nکہ من با خویش دارم گفتگوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل آرزو سے بے قرار ہے؛ میرے سینے میں ہا و ہو (کا ہنگامہ) بپا ہے۔\nاے ہمنشین تو مجھ سے ہمکلامی کی توقع نہ رکھ ؛ میں تو ہر وقت اپنے آپ سے گفتگو میں مشغول ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is all the yearning of unrest, tumult and agitation fill my breast; \nWhat discourse, comrade, seekest thou of me? All I would say, is to my self addressed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

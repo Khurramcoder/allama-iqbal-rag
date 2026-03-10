@@ -1,0 +1,34 @@
+{
+  "id": "52",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز پیوند تن و جانم چہ پرسی\nبہ دام چند و چون در می نیایم\nدم آشفتہ ام در پیچ و تابم\nچو از آغوش نے خیزم نوایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تن و جان کے اختلاط کے بارے میں کیا پوچھتا ہے؛ میں کیا اور کیسے کے دام میں نہیں آتا۔\nمیں دم آشفتہ ہوں اور پیچ و تاب کھا رہا ہوں؛ لیکن جب نے کے آغوش سے نکلتا ہوں تو نوا بن جاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why ask, what links my body and my soul? I fall not in the snare of How, How Long:\nAwhile my breath is choked, but when I rise clear of the reed’s embrace, I am a song.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

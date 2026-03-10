@@ -1,0 +1,80 @@
+{
+  "id": "05",
+  "name": "فرنگ ئین رزاقی بداند",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "05",
+  "sectionName": "بہ یاران طریق",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرنگ ئین رزاقی بداند\nبہ این بخشد از دوامی ستاند\nبہ شیطان نچنان روزی رساند\nکہ یزدان اندر ن حیران بماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انگریز بھی رزق دینے کا طریقہ جانتا ہے، ایک کو عطا کرتا ہے، دوسرے سے چھین لیتا ہے۔\nوہ شیطان کو اس طرح روزی پہنچاتا ہے، کہ خود اللہ تعالے بھی حیران رہ جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The English mind knows God’s Food Law Rules, he takes from debtors to give to his tools.\nHow he gives food to Satan’s lay, in wonderment lies the God at his way.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہ حاجت طول دادن داستان را\nبحرفی گویم اسرار نہان را\nجہان خویش ماسودا گران داد\nچہ داند لامکان قدر مکان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "بات کو طول دینے سے کیا حاصل، ایک لفظ میں مخفی راز کہہ دیتا ہوں۔\nاپنا یہاں سوداگروں (انگریزوں ) کو دے دیا، مکاں کی قدر لا مکاں کیا جانے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A long tale serves no service in a sense, in one word I tell a hidden fact hence.\nHis whole world he gave to the merchants when, how can homeless know worth of home then.\n(God is named as Houseless viz. La makan in Arabic and Persian literature.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہشتی بھر پاکان حرم ہست\nبہشتی بہر ارباب ہمم ہست\nبگو ہندی مسلمان را کہ خوش باش\nبہشتی فی سبیل اللہ ہم ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک بہشت پاکان حرم (روحانی لوگوں ) کے لیے ہے، ایک بہشت اہل ہمت (مجاہدین ) کے لیے ہے۔ \nہندی مسلمان سے کہو: تو بھی خوش ہو جا ، ایک بہشت فی سبیل اللہ (کچھ نہ کرنے والوں کے لیے) بھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A paradise lies for the pious alone, a paradise waits for the warriors* lone.\nTell the Hindi** Muslims to sing in glee, there lies for them a paradise free.\n(Here Iqbal has made three categories of paradise in a sarcastic manner. **This is a Sarcastic address to Indian Muslims.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

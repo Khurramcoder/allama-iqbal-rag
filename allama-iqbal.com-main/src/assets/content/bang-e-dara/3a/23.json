@@ -1,0 +1,313 @@
+{
+  "id": "23",
+  "name": "غرہ شوال یا ہلال عید",
+  "name-en": "The First of Shawwal or the Crescent of Eid",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غرہء شوال! اے نور نگاہ روزہ دار \nآ کہ تھے تیرے لیے مسلم سراپا انتظار",
+              "lang": "Original"
+            },
+            {
+              "_content": "غرہء شوال: شوال کے مہینے کا ہلال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the pride of Shawwal! O the fasting person’s darling! Come! As Muslims were very anxiously waiting for you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تیری پیشانی پہ تحریر پیام عید ہے \nشام تیری کیا ہے، صبح عیش کی تمید ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The message of Eid is written on your forehead; your evening is the preface to the dawn of pleasure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سرگزشت ملت بیضا کا تو آئینہ ہے \nاے مہ نو! ہم کو تجھ سے الفت دیرینہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the mirror of the history of Millat-i-Baidah. O crescent! We are your lovers since a very long time.\n(Millat-i-Baidah: Allusion to the egg-shaped radiant mark on the palm of S. Messiah A.S., which was bestowed on him by God (The Holy Qur’an 7: 108). ‘Allamah Iqbal calls the Muslim Ummah as ‘Millat-i-Baidah’ because he is confident of the rise of Islam in the world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جس علم کے سائے میں تیغ آزما ہوتے تھے ہم \nدشمنوں کے خون سے رنگیں قبا ہوتے تھے ہم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The banner under whose shade we wielded our swords; under whose shade we used the blood of our enemies.\n(The banner: Allusion to the inclusion of the crescent on the flags of Muslim countries as an insignia of Islam and its rising power.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیری قسمت میں ہم آغوشی اسی رایت کی ہے \nحسن روز افزوں سے تیرے آبرو ملت کی ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رايت: جھنڈا۔ \nحسن روز افزوں: ہر روز بڑھتی ہوئی خوبصورتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The companionship of this very banner is your destiny; the Millat’s honor is by your ever-increasing beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آشنا پرور ہے قوم اپنی، وفا آئیں ترا \nہے محبت خیز یہ پیراہن سیمیں ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "پيراہن سيميں: چاندی جیسا لباس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our nation is cherisher of friends, fidelity is your way; this silvery shirt of yours is the propagator of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اوج گردوں سے ذرا دنیا کی بستی دیکھ لے \nاپنی رفعت سے ہمارے گھر کی پستی دیکھ لے !",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at the earth’s habitation from your celestial apses! Look at the depth of our abode from your eminence!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قافلے دیکھ اور ان کی برق رفتاری بھی دیکھ \nرہر و درماندہ کی منزل سے بیزاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at the caravans and also look at their fast speed; at the destitute traveler’s estrangement with destination also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "دیکھ کر تجھ کو افق پر ہم لٹاتے تھے گہر \nاے تہی ساغر! ہماری آج ناداری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On sighting you we used to give charity lavishly; O empty cup! Today at our indigence also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "فرقہ آرائی کی زنجیروں میں ہیں مسلم اسیر \nاپنی آزادی بھی دیکھ، ان کی گرفتاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Muslims are tightly bound in chains of sectarianism; look at your freedom and at their bondage also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دیکھ مسجد میں شکست رشتہ تسبیح شیخ \nبت کدے میں برہمن کی پختہ زناری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پختہ زناري: مراد ہے مذہب کا پکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the mosque look at disintegration of the priest’s love; in the temple at the Brahman’s strong idol-worship also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "کافروں کی مسلم آئینی کا بھی نظارہ کر\nاور اپنے مسلموں کی مسلم آزاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at the sight of the Muslim ways in the infidels’ life; and at your Muslims’ tormenting other Muslims also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بارش سنگ حوادث کا تماشائی بھی ہو \nامت مرحوم کی آئینہ دیواری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "حوادث: حادثہ کی جمع۔ \nينہ ديواري: آئینہ کی دیوار کی طرح کمزور ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be the spectator of the shower of rocks of misfortunes; at the frailty of the Muslims Ummah’s abodes also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہاں، تملق پیشگی دیکھ آبرو والوں کی تو\nاور جو بے آبرو تھے، ان کی خود داری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تملق پيشگي: پہلے سے خوشامد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yes, look at the advance flattery of the ‘honorable’ people and at the self-respect of the formerly shameless people also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "جس کو ہم نے آشنا لطف تکلم سے کیا \nاس حریف بے زباں کی گرم گفتاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whom we got acquainted with the taste of eloquence at the haughty speech of that former speechless adversary look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ساز عشرت کی صدا مغرب کے ایوانوں میں سن \nاور ایراں میں ذرا ماتم کی تیاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Listen to sounds of pleasurable orchestra in West’s palaces and at the preparations for the mourning in Iran also look (allusion to the poor condition of Iran at that time).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "چاک کر دی ترک ناداں نے خلافت کی قبا \nسادگی مسلم کی دیکھ، اوروں کی عیاری بھی دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The imprudent Turk has torn the cloak of the Divine Khilafah; look at Muslims’ simplicity at other’s cunningness also look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "صورت آئینہ سب کچھ دیکھ اور خاموش رہ\nشورش امروز میں محو سرود دوش رہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شورش امروز:آج کا ہنگامہ۔ \nسرود دوش: گزرے کل کا گیت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at everything, and remain quiet like a mirror; in today tumult remain occupied in evening’s music!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

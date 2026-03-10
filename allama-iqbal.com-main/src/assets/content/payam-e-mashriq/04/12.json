@@ -1,0 +1,230 @@
+{
+  "id": "12",
+  "name": "محاورہ مابین اوگوست کنت و مرد مزدور",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "حکیم",
+      "name-en": "Comte",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "\"بنی آدم اعضای یکدیگرند\"\nہمان نخل را شاخ و برگ و بر اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرانسیسی فلسفی آگسٹس اور ایک مزدور کے درمیان گفتگو۔ \n'آدم کی اولاد ایک ہی بدن کے اعضاء ہیں '، ایک ہی درحت کی شاخیں ، پتے اور پھل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All men are one another’s limbs, the leaves and stems of one big tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دماغ ار خرد زاست از فطرت است\nاگر پا زمین ساست از فطرت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر دماغ میں عقل ہے تو یہ فطرت کی عطا کردہ ہے، اور اگر پاؤں زمین پر چلتا ہے تو یہ بھی فطری عمل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If man’s brain is the seat of intellect and if his feet trail on the ground, this is because they both are bound by Nature’s ineluctable decree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی کار فرما، یکی کار ساز\nنیاید ز محمود کار ایاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی حکم دینے والا، کوئی کام کرنے والا، محمود ایاز کا کام نہیں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One man commands, another works, both born to it. A Mahmud cannot do the work of an Ayaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نبینی کہ از قسمت کار زیست\nسراپا چمن می شود خار زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نہیں دیکھتا کہ تقسیم کار کے باعث زندگی کا کانٹا بھی چمن بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you not see it is because work is divided between you that life becomes a garden, with both rose and thorn?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "مرد مزدور",
+      "name-en": "The Labourer",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فریبی بہ حکمت مرا اے حکیم\nکہ نتوان شکست این طلسم قدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے فلسفی! کیا تو مجھے اپنے فلسفہ سے فریب میں مبتلا کرتا ہے، اور کہتا ہے کہ اس طلسم قدیم کم توڑا نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Philosopher, you cheat me when you say that I can never break my way out of this magic circle that you weave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مس خام را از زر اندودہ ئے\nمرا خوی تسلیم فرمودہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے کچّے تانبے پر سونے کا پانی چڑھایا ہے، کہ مجھے تسلیم و رضا کی عادت اختیار کرنے کا مشورہ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You pass base brass for gold, and teach me to resign myself to fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کند بحر را آبنایم اسیر\nز خارا برد تیشہ ام جوی شیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آبنائے ، سمندر کو اپنا اسیر بناتی ہے، میرا تیشہ چٹان سے دودھ کی ندی بہاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With my pickaxe I excavate long waterways, in which I hold the very ocean prisoner, and retrieve milk and honey from Nature’s stores.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "حق کوہکن دادی اے نکتہ سنج\nبہ پرویز پرکار و نا بردہ رنج",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نکتہ داں (فلسفی) ! تو نے کوہکن کا حق چالاک پرویز کو دے دیا ہے، جس نے کوئی تکلیف نہیں اٹھائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Purveyor of strange subtleties, you give poor Kohkan’s prize, for all his sores, to the idle, rich and sly Parvez.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خطا را بہ حکمت مگردان صواب\nخضر را نگیری بدام سراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے فلسفہ سے غلط کو درست نہ بنا، تو خضر (علیہ) کو سراب کے جال میں نہیں لا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not try passing wrong for right with your philosophy. You cannot dupe a Khizr’s sight with a mirage’s trickery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بہ دوش زمین بار، سرمایہ دار\nندارد گذشت از خور و خواب و کار",
+              "lang": "Original"
+            },
+            {
+              "_content": "سرمایہ دار زمین کے کندھوں پر بوجھ ہے، اسے کھانے اور سونے کے علاوہ اور کوئی کام نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The capitalist is a burden on earth, with nothing to do but eat and sleep:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "جہان راست بہروزی از دست مزد\nندانی کہ این ہیچ کار است دزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کی خوشالی مزدور کے ہاتھوں ہے، تو مت سمجھ کہ یہ معمولی کام کرنے والا (مزدور) چور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which thrives because of those who work on it; do you not know this idler is a thief by birth?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "پی جرم او پوزش آوردہ ئی\nبہ این عقل و دانش فسون خوردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو سرمایہ دار کے جرم کے لیے جواز پیدا کر رہا ہے، اپنی اے عقل و دانش کے باوجود تو فریب خردہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The crime that he exists you want excused. With all your wisdom you have been bemused.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Dialogue Between Auguste Comte And The Labourer",
+  "credits": "English Translation by: M. Hadi Husain"
+}

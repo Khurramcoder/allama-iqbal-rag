@@ -1,0 +1,83 @@
+{
+  "id": "19",
+  "name": "قوت اور دین",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اسکندر و چنگیز کے ہاتھوں سے جہاں میں \nسو بار ہوئی حضرت انساں کی قبا چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Autocrats like Alexander and Changez, have trampled men beneath their feet; not once but hundred times so far, they brought man down from honoured seat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاریخ امم کا یہ پیام ازلی ہے \n'صاحب نظراں! نشہ قوت ہے خطرناک،",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The annals right from historic dawn the message eternal bear as such: ‘O man, with insight great endowed, the wine of might is dangerous much.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس سیل سبک سیر و زمیں گیر کے آگے \nعقل و نظر و علم و ہنر ہیں خس و خاشاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before this quickly flowing flood that spreads to all the tracts with speed art, insight, intellect and science; are carried along like straw and reed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لا دیں ہو تو ہے زہر ہلاہل سے بھی بڑھ کر \nہو دیں کی حفاظت میں تو ہر زہر کا تریاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "زہر ہلاہل: ہلاک کر دینے والی مہلک زہر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Divorced from Faith, a poison strong, when propped by Faith and true belief, 'gainst poison works with speed, and proves a source of much relief.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Authority And Faith",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

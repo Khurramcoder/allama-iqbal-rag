@@ -1,0 +1,114 @@
+{
+  "id": "35",
+  "name": "عید پر شعر لکھنے کی فرمائش کے جواب میں",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ شالامار میں اک برگ زرد کہتا تھا \nگیا وہ موسم گل جس کا رازدار ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the Shalamar Garden a yellowed leaf was saying, ‘Gone is that spring of which the confidante I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ پائمال کریں مجھ کو زائران چمن \nانھی کی شاخ نشیمن کی یادگار ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garden’s visitors should not trample me down; the memory of the branch of their own nest I am.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ذرا سے پتے نے بیتاب کر دیا دل کو \nچمن میں آکے سراپا غم بہار ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This tiny little leaf made the heart restless; on coming into the garden complete mourner of spring I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خزاں میں مجھ کو رلاتی ہے یاد فصل بہار \nخوشی ہو عید کی کیونکر کہ سوگوار ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the autumn I am crying in remembrance of the spring. How can I get the happiness of Eid as grief-stricken I am!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اجاڑ ہو گئے عہد کہن کے میخانے \nگزشتہ بادہ پرستوں کی یادگار ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Devastated have become the olden days’ taverns; a memorial of the olden days’ wine drinkers I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پیام عیش، مسرت ہمیں سناتا ہے \nہلال عید ہماری ہنسی اڑاتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives the message of pleasure and happiness to us! The crescent of Eid is making fun of us!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "In Response To The Request For Writing A Poem On Eid",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

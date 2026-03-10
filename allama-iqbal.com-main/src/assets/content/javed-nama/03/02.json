@@ -1,0 +1,324 @@
+{
+  "id": "02",
+  "name": "دین و وطن",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "Para": [
+    {
+      "name": "افغانی",
+      "name-en": "Afghani",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لرد مغرب آن سراپا مکر و فن\nاہل دین را داد تعلیم وطن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یورپ کا لرد جو سراپا مکر و فن ہے؛ اس نے اہل دین کو نیشنلزم کی تعلیم دی جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Lord of the West, cunning from head to toe, taught the people of religion the concept of Country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "او بفکر مرکز و تو در نفاق\nبگذر از شام و فلسطین و عراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خود مرکزیت کی سوچ میں ہے اور تو نفاق میں پڑا ہوا ہے؛ تو شام، فلسطین، عراق کی علیحدگی کی باتیں چھوڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He thinks of the centre, while you are at discord – give up this talk of Syria, Palestine, Iraq!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو اگر داری تمیز خوب و زشت\nدل نبندی با کلوخ و سنگ و خشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اچھے اور برے کی تمیز رکھتا ہے، تو اپنا دل مٹی، پتھر اور اینٹ سے نہ لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you can discriminate between good and evil you will not bind your hearts to clods, stones, bricks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چیست دین برخاستن از روی خاک\nتا ز خود آگاہ گردد جان پاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین کیا ہے؟ خاک سے اوپر اٹھنا تاکہ جان پاک اپنے آپ سے آگاہی حاصل کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is religion? To rise up from the face of the dust so that the pure soul may become aware of itself!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "می نگنجد آنکہ گفت اﷲ ہو\nدر حدود این نظام چار سو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ ہو کہنے والا چار جہات (مکان) کے اس نظام کی حدود میں نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who has said ‘God is He’ is not contained within the confines of this dimensioned order.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پر کہ از خاک و برخیزد ز خاک\nحیف اگر در خاک میرد جان پاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "پر کاہ جو خاک سے ہے وہ بھی خاک سے اوپر اٹھتا ہے ؛ افسوس ہے اگر جان پاک خاک ہی میں مر جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A grass-blade is of the earth, and yet rises from the earth; alas, if the pure soul should die in the dust!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گرچہ آدم بردمید از آب و گل\nرنگ و نم چون گل کشید از آب و گل",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ آدمی آب و گل سے پیدا ہوا ہے؛ اور اس نے پھول کی مانند آب و گل سے رنگ و نم حاصل کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although man sprang out of water and clay, from water and clay rose-like drew colour and sap,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "حیف اگر در آب و گل غلطد مدام\nحیف اگر برتر نپرد زین مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن جائے افسوس ہے کہ اگر وہ آب و گل ہی میں لوٹتا رہے اور اس مقام سے اوپر نہ اٹھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas, if he wanders forever in water and clay, alas, if he soars not higher than this station!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گفت تن در شو بخاک رھگذر\nگفت جان پہنای عالم را نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدن کہتا ہے کہ تو خاک راہگزار میں مل جا ؛ جان کہتی ہے کہ تو کائنات کی وسعت کی طرف دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body says, ‘Go into the dust of the roadway’; the soul says, ‘Look upon the expanse of the world!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "جان نگنجد در جہات اے ہوشمند\nمرد حر بیگانہ از ہر قید و بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صاحب ہوش جان اس دنیائے جہات (مکان) میں نہیں سماتی مرد حر جہات کی قید و بند سے آزاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man of reason, the soul is not contained in dimensions; the free man is a stranger to every fetter and chain,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "حر ز خاک تیرہ آید در خروش\nزانکہ از بازان نیاید کار موش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاریک خاک کے خلاف احتجاج کرتا ہے کیونکہ باز چوہے کا کام نہیں کر سکتا۔مرد حر",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free man rails against the dark earth for it beseems not the falcon to act like a mouse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "آن کف خاکی کہ نامیدی وطن\nاینکہ گوئے مصر و ایران و یمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مٹھی بھر خاک جسے تو وطن کا نام دیتا ہے؛ یہ علاقے جنہیں تو مصر و ایران و یمن کہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This handful of earth to which you give the name ‘country’, this so-called Egypt, and Iran, and Yemen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "با وطن اہل وطن را نسبتی است\nزانکہ از خاکش طلوع ملتی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اہل وطن اپنے وطن سے نسبت رکھتے ہیں ؛ کیونکہ قوم اسی کی خاک سے طلوع ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a relationship between a country and its people in that it is out of its soil that a nation rises;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اندرین نسبت اگر داری نظر\nنکتہ ئی بینی ز مو باریک تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن اگر تو صاحب نظر ہے تو اس نسبت میں بال سے باریک نکتہ دیکھ سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But if you look carefully at this relationship you will descry a subtlety finer than a hair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "گرچہ از مشرق برآید آفتاب\nبا تجلی ہای شوخ و بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ آفتاب شوخ و بے حجاب تجلّیات کے ساتھ مشرق سے طلوع ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though it is out of the East that the sun rises showing itself bold and bright, without a veil,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در تب و تاب است از سوز درون\nتا ز قید شرق و غرب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر وہ سوز درون کے باعث کشمکش میں رہتا ہے تاکہ شرق و غرب کی قید سے باہر نکل آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Only then it burns and blazes with inward fire when it escapes from the shackles of East and West;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "بر دمد از مشرق خود جلوہ مست\nتا ہمہ آفاق را آرد بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنے مشرق سے جلوہ مست نکلتا ہے تاکہ سارے آفاق کو (اپنی روشنی کی) لپیٹ میں لے لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drunk with splendour it springs up out of its East that it may subject all horizons to its mastery;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "فطرتش از مشرق و مغرب بری است\nگرچہ او از روی نسبت خاوری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت مشرق و مغرب سے آزاد ہے؛ اگرچہ نسبت کی رو سے وہ مشرقی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its nature is innocent of both East and West, though relationship-wise, true, it is an Easterner.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Religion And Country"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "34",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گشادہ رو ز خوش و ناخوش زمانہ گذر\nز گلشن و قفس و دام و آشیانہ گذر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether the world be foul or fair, with a smile fare on; forth from the nest, the cage, the snare, the bower, be gone!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرفتم اینکہ غریبی و رہ شناس نئی\nبکوی دوست بانداز محرمانہ گذر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though stranger thou art, and dost not know how the way doth wend, in a bold, familiar manner go in the lane of the Friend.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہر نفس کہ بر آری جہان دگرگون کن\nدرین رباط کہن صورت زمانہ گذر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each breath that thou drawest, differently the world adorn; within this ancient hostelry swift as Time be borne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگر عنان تو جبریل و حور می گیرند\nکرشمہ بر دلشان ریز و دلبرانہ گذر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Gabriel lay his hand on thy rein, and the Houris, too, with a loving glance pass on again as fair charmers do.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry."
+}

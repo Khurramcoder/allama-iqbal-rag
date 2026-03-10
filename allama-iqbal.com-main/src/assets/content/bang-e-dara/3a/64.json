@@ -1,0 +1,134 @@
+{
+  "id": "64",
+  "name": "شیکسپیر",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شفق صبح کو دریا کا خرام آئینہ \nنغمہ شام کو خاموشی شام آئینہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the dawn’s twilight the river’s graceful flow is a mirror! To the evening’s song the evening’s silence is a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "برگ گل آئنہ عارض زبیائے بہار \nشاہد مے کے لیے حجلہ جام آئینہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "حجلہ جام: پیالے کی جلوہ گاہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the spring’s beautiful cheek flower petal is a mirror! To the lover of wine the cup’s cavity is mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حسن آئنہ حق اور دل آئنہ حسن \nدل انساں کو ترا حسن کلام آئینہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beauty is God’s mirror and heart is Beauty’s mirror! To the human heart the beauty of your marks is a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے ترے فکر فلک رس سے کمال ہستی \nکیا تری فطرت روشن تھی مآل ہستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر فلک رس: آسمان تک پہنچنے والی سوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By your heaven-embracing thought is the perfection of existence. Was your bright nature the aim of existence?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تجھ کو جب دیدئہ دیدار طلب نے ڈھونڈا \nتاب خورشید میں خورشید کو پنہاں دیکھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the eye searching for your sight sought you; it saw the sun veiled in the brightness of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چشم عالم سے تو ہستی رہی مستور تری\nاور عالم کو تری آنکھ نے عریاں دیکھا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستور: چھپا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your existence surely remained veiled from the world’s eye and your eye saw the world completely unveiled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حفظ اسرار کا فطرت کو ہے سودا ایسا \nرازداں پھر نہ کرے گی کوئی پیدا ایسا",
+              "lang": "Original"
+            },
+            {
+              "_content": "سودا: جنون۔\nحفظ اسرار: بھید چھپانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature has such a strong desire for guarding secrets that another confidante like you it will never create!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Shakespeare",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

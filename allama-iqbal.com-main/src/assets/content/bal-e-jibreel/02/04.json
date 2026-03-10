@@ -1,0 +1,81 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عالم آب و خاک و باد! سر عیاں ہے تو کہ میں \nوہ جو نظر سے ہے نہاں، اس کا جہاں ہے تو کہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O myriad - coloured earth! Which of us is a secret revealed? And which of us is the world the Invisible One loves more?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ شب درد و سوز و غم، کہتے ہیں زندگی جسے \nاس کی سحر ہے تو کہ میں، اس کی اذاں ہے تو کہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which of us is the call to prayer, or the silvery dawn of that night of pain and sorrow that goes by the name of life?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کس کی نمود کے لیے شام و سحر ہیں گرم سیر \nشانہ روزگار پر بار گراں ہے تو کہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which of us is affirmed by the revolving day and night? And which of us is a burden on this vast universe?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو کف خاک و بے بصر، میں کف خاک و خودنگر \nکشت وجود کے لیے آب رواں ہے تو کہ میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art dust and blind, I am dust and self-aware; which of us is the crown and glory, ruling all life?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

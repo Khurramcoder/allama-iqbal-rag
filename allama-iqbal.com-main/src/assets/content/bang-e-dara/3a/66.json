@@ -1,0 +1,82 @@
+{
+  "id": "66",
+  "name": "اسیری",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے اسیری اعتبار افزا جو ہو فطرت بلند \nقطرئہ نیساں ہے زندان صدف سے ارجمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Imprisonment enhances confidence if the nature is elegant; the spring drop becomes blessed inside the shell’s prison.*",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مشک اذفر چیز کیا ہے، اک لہو کی بوند ہے\nمشک بن جاتی ہے ہو کر نافہ آہو میں بند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The excellent musk is nothing but a drop of blood, which becomes musk when it is enclosed in the deer’s navel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر کسی کی تربیت کرتی نہیں قدرت، مگر \nکم ہیں وہ طائر کہ ہیں دام وقفس سے بہرہ مند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, not everyone gets trained by nature; only an odd bird is prosperous in imprisonment:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شہپر زاغ و زغن در بند قید و صید نیست \nایں سعادت قسمت شہباز و شاہیں کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Strength of crow’s and kite’s wing is not in cage and prey; this grace is reserved for the falcon and the eagle.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Imprisonment",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

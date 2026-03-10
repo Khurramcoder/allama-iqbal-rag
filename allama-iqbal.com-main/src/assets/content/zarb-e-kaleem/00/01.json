@@ -1,0 +1,35 @@
+{
+  "id": "01",
+  "name": "نواب سرحمید اللہ خاں فرمانروائے بھوپال کی خدمت میں",
+  "name-en": "To Nawab Sir Hamidullah Khan, Ruler of Bhopal",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "00",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمانہ با امم ایشیا چہ کرد و کند \nکسے نہ بود کہ ایں داستاں فرو خواند \nتو صاحب نظری آنچہ در ضمیر من است \nدل تو بیند و اندیشہ تو می داند \nبگیر ایں ہمہ سرمایہء بہار از من \n'کہ گل بدست تو از شاخ تازہ تر ماند'",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے نے ایشیا کی قوموں سے اب تک جو سلوک کیا اور کر رہا ہے ؛ کوئ نہ تھا جو یہ درد بھری داستاں تفصیل سے سنا سکتا ؛ آخر مجھی کو یہ فرض انجام دینا پڑا۔ \n(حمید اللہ خان) تو صاحب نظر ہے اور تجھے خدا نے وہ ملکہ عطا کیا ہے کہ جو حقیقتیں میرے ضمیر کی گہرائیوں میں موجود ہیں ؛ تیرا دل انہیں دیکھ رہا ہے اور تیرا دماغ ان سے آگاہ ہے۔ \nمیں بہار کا یہ سرمایہ لایا ہوں تو اسے لے لے ، اس لیے کہ پھول تیرے ہاتھ میں دے دیا جائے تو وہ شاخ سے بھی زیادہ تر و تازہ اور شاداب رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What Time has done or shall do with the East, none save a prince, like you, can know the least.\nYou own insight and what lies in my mind, is not too hard for you to ken and find.\nAccept from me this treasure of spring tide, whose roses in your hand shall fresh abide.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

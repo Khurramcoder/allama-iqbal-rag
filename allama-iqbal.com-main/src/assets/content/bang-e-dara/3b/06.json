@@ -1,0 +1,135 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کبھی اے حقیقت منتظر نظر لباس مجاز میں \nکہ ہزاروں سجدے تڑپ رہے ہیں مری جبین نیاز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "حقیقت منتظر: وہ سچائی جس کا انتظار کیا جائے؛ مراد ہے ذات خداوندی۔ \nجبین نیاز: ایسا ماتھا جو (اللہ تعالے) کے سامنے جھکنے کے لیے تیار ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the much sought after Reality! Some time appear in material form, as innumerable prostrations restless in my humble forehead are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "طرب آشنائے خروش ہو، تو نوا ہے محرم گوش ہو \nوہ سرود کیا کہ چھپا ہوا ہو سکوت پردئہ ساز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "آشنائے خروش: شور و غل اور ہنگامے سے خوشی حاصل کرنے والا۔ طرب\nمحرم گوش: کانوں کا محرم، یعنی کان تک پہنچ۔ \nسرود: نغمہ۔ \nسکوت پردئہ ساز: ساز (کے نہ بجائے جانے کی وجہ) کی خاموشی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Join the assembly’s celebrations, You are a song, be heard! What good are melodies which veiled in guitar’s frets are!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو بچابچا کے نہ رکھ اسے، ترا آئنہ ہے وہ آئنہ \nکہ شکستہ ہو تو عزیز تر ہے نگاہ آئنہ ساز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکستہ: ٹوٹا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not jealously protect them; your mirrors are the mirrors, which would be dearer in the Maker’s eye if they broken are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دم طوف کرمک شمع نے یہ کہا کہ وہ اثرکہن \nنہ تری حکایت سوز میں، نہ مری حدیث گداز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "طوف: چکر لگاتے وقت۔ دم\nکرمک شمع: چراغ کا پتنگا، پروانہ۔ \nحدیث گداز: دکھ بھری کہانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "During circumambulation the moth exclaimed, ‘Those past effects neither in your story of pathos, nor in my tale of love are’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ کہیں جہاں میں اماں ملی، جو اماں ملی تو کہاں ملی \nمرے جرم خانہ خراب کو ترے عفو بندہ نواز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "عفو بندہ نواز: ایسی معافی جس میں بندے پر لطف و کرم کیا گیا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My wretched sins could not get shelter anywhere except when they in the shade of Thy Gracious Forgiveness were.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہ وہ عشق میں رہیں گرمیاں،نہ وہ حسن میں رہیں شوخیاں \nنہ وہ غزنوی میں تڑپ رہی، نہ وہ خم ہے زلف ایاز میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither Love has that warmth nor Beauty has that humour! Neither that restlessness in Ghaznavi nor those curls in the hair locks of Ayaz are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جو میں سر بسجدہ ہوا کبھی تو زمیں سے آنے لگی صدا \nترا دل تو ہے صنم آشنا، تجھے کیا ملے گا نماز میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "صنم آشنا: بتوں سے رغبت رکھنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whenever I went into prostration a voice came from the earth: Your heart is in materialism no rewards for your prayers are.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

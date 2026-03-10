@@ -1,0 +1,67 @@
+{
+  "id": "07",
+  "name": "عورت کی حفاظت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک زندہ حقیقت مرے سینے میں ہے مستور \nکیا سمجھے گا وہ جس کی رگوں میں ہے لہو سرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستور: چھپی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A fact alive is in my breast concealed, he can behold whose blood is not congealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نے پردہ، نہ تعلیم، نئی ہو کہ پرانی \nنسوانیت زن کا نگہباں ہے فقط مرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To wear a veil and learn new lore or old can't guard fair sex except a person bold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس قوم نے اس زندہ حقیقت کو نہ پایا \nاس قوم کا خورشید بہت جلد ہوا زرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation which can't see this truth divine, pale grows its son and soon begins decline.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Protection Of The Weaker Vessel",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

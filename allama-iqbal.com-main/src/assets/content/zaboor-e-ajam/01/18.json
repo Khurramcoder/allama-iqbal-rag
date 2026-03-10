@@ -1,0 +1,102 @@
+{
+  "id": "18",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیز و بخاک تشنہ ئی بادۂ زندگی فشان\nآتش خود بلند کن آتش ما فرونشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "آئیے اور میری خاک تشنہ پر بادہ ء حیات (عشق) چھڑکیے ۔ اپنے عشق کی آگ بلند کیجیئے اور ہماری (نفسانی خواہشات کی) آگ بجھائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise! And upon the thirsty land sprinkle life’s wine with lavish hand; kindle anew the spirit’s fire, and bid the flame in us expire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میکدۂ تہی سبو حلقہ خود فرامشان\nمدرسۂ بلند بانگ بزم فسردہ آتشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "خالی سبو صوفیوں کا میکدہ حلقہ ء خود فراموشاں بن چکا ہے؛ اور بلند بانگ مدرسوں کی آتش حیات بجھ چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tavern wine is drained and gone, the drinkers find oblivion; the school re-echoes to the shout, and every lamp has flickered out.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فکر گرہ گشا غلام دین بروایتی تمام\nزانکہ درون سینہ ہا دل ہدفی است بی نشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر جو زندگی کے مسائل حل کرتا ہے، تقلید کی غلامی میں گرفتار ہے، اور دین صرف روایات کا مجموعہ بن کے رہ گیا ہے، اس لیے کہ سینوں کے اندر جو دل ہیں ان کا کوئی حدف نہیں رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason’s a knot-resolving slave, faith mid convention’s laid to grave, for in the breast there beats a heart, the unseen target of love’s dart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر دو بمنزلی روان ہر دو امیر کاروان\nعقل بحیلہ می برد، عشق برد کشان کشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں اپنی منزل کی جانب رواں ہیں اور دونوں اپنے اپنے قافلوں کے سالار ہیں مگر عقل حیلہ بازی سے کام لیتی ہے اور عشق قوّت سے آگے لے جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both are in quest of one abode and both would lead upon the road: Reason tries every stratagem, but love pulls gently by the hem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق ز پا در آورد خیمۂ شش جہات را\nدست دراز می کند تا بہ طناب کہکشان",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق اس خیمہ ء شش جہات (کائنات) کی طنابیں کاٹ دیتا ہے اور کہکشاں تک پہنچ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love to the dust ruin hurled the tabernacle of the world, and stretches high his fingers, even unto the canopy of heaven.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

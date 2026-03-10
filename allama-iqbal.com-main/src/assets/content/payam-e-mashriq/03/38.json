@@ -1,0 +1,102 @@
+{
+  "id": "38",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خاکیم و تند سیر مثال ستارہ ایم\nدر نیلگون یمے بہ تلاش کنارہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم خاک ہیں ، مگر ستارے کی مانند تیز رفتار ہیں، ہم اس نیلگوں سمندر (آسمان) میں ساحل کی تلاش میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are mere dust, but planet-like we swiftly move, and seek the shore of this blue sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بود و نبود ماست ز یک شعلۂ حیات\nاز لذت خودی چو شرر پارہ پارہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا وجود یا عدم وجود ایک شعلہ ء حیات سے ہے، خودی کی لذت سے ہم شرر کی مانند ٹکڑے ٹکڑے ہوتے ہیں۔ (ہر روح اللہ تعالے کی روح میں سے پھونکی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We owe our being to a single flame of life; but, from the joy of selfhood, we are split up as so many sparks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "با نوریان بگو کہ ز عقل بلند دست\nما خاکیان بہ دوش ثریا سوارہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرشتوں سے کہہ دو کہ ہم خاکی انسان ، اپنی عقل بلند پرواز سے ستاروں کو مسخر کر چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O tell the creatures of light this: that by dint of the intellect we creatures of dust ride the stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در عشق غنچہ ایم کہ لرزد ز باد صبح\nدر کار زندگی صفت سنگ خارہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے معاملہ میں ہم اس غنچہ کی مانند ہیں جو صبح کی ہوا سے لرز جاتا ہے، لیکن زندگی کے مقابلہ میں ہم چٹان کی مانند (مضبوط) ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In love we are buds shaking in the morning breeze; but in the business of life we are quite as hard as granite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چشم آفریدہ ایم چو نرگس درین چمن\nروبند بر گشا کہ سراپا نظارہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے چہرے سے پردہ ہٹائیے ، ہم اس چمن میں نرگس کی طرح آنکھ کھولے سراپا نظارہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the narcissus we have grown eyes in this garden. O lift the veil that hides Your face; we are all eyes for You.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

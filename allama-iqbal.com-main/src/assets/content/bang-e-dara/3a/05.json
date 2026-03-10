@@ -1,0 +1,162 @@
+{
+  "id": "05",
+  "name": "نمود صبح",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہو رہی ہے زیر دامان افق سے آشکار \nصبح یعنی دختر دوشیزہ لیل و نہار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From under the horizon’s skirt is appearing; the day and night’s virgin daughter that is dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پا چکا فرصت درود فصل انجم سے سپہر \nکشت خاور میں ہوا ہے آفتاب آئینہ کار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky has completed benedictions for the star’s crop. The sun has decorated the eastern horizon with mirrors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آسماں نے آمد خورشید کی پا کر خبر \nمحمل پرواز شب باندھا سر دوش غبار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky, getting news of the arrival of the sun has packed up night’s litter on dust-cloud’s shoulders.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شعلہء خورشید گویا حاصل اس کھیتی کا ہے \nبوئے تھے دہقان گردوں نے جو تاروں کے شرار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun’s flame seems to be the produce of this field which was sown by sky’s farmer as sparks of stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہے رواں نجم سحر، جیسے عبادت خانے سے \nسب سے پیچھے جائے کوئی عابد شب زندہ دار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The morning star is on the way from the sky retrieving as the last nightly worshiper from the mosque be retrieving.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کیا سماں ہے جس طرح آہستہ آہستہ کوئی \nکھینچتا ہو میان کی ظلمت سے تیغ آب دار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a beautiful sight it is as somebody slowly draws the bright sword from the sheath’s darkness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مطلع خورشید میں مضمر ہے یوں مضمون صبح \nجیسے خلوت گاہ مینا میں شراب خوش گوار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dawn’s meaning in the eastern horizon is hidden aas inside the goblet the pleasant wine is hidden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہے تہ دامان باد اختلاط انگیز صبح \nشورش ناقوس، آواز اذاں سے ہمکنار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dawn is under the skirt of the friendly breeze; the noise of the conchis mixed with the call of adhan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جاگے کوئل کی اذاں سے طائران نغمہ سنج \nہے ترنم ریز قانون سحر کا تار تار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All the singing birds woke up by the cuckoo’s call; every string of dawn’s system has become musical.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Morning’s Appearance",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

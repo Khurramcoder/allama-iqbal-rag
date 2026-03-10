@@ -1,0 +1,239 @@
+{
+  "id": "04",
+  "name": "زیارت حضرت سید علی ھمدانی و ملا طاہر غنی کشمیری",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "سید علی ہمدانی اور غنی کشمیری کی زیارت۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حرف رومی در دلم سوزی فکند\nآہ پنجاب آن زمین ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی کی بات نے میرے دل کو پر سوز کر دیا؛ آہ وہ مبارک سرزمین پنجاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi’s words kindled a fire in my heart. Alas for Panjab, that precious land!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از تپ یاران تپیدم در بہشت\nکہنہ غمہا را خریدم در بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہشت میں دوستوں کی محبت نے مجھے تڑپا دیا؛ میرے سارے پرانے غم پھر تازہ ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even in Paradise I burned with the fever of my friends, and knew again my ancient griefs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تا در آب گلشن صدائی دردمند\nاز کنار حوض کوثر شد بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اچانک جنت میں حوض کوثر کے کنارے سے ایک صدائے دردناک بلند ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Until in that bower a sorrowful voice rose up from the banks of the stream Kauthar:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "\"جمع کردم مشت خاشاکی کہ سوزم خویش را\nگل گمان دارد کہ بندم آشیان در گلستان\"\nغنی -",
+              "lang": "Original"
+            },
+            {
+              "_content": "'میں نے چند تنکے جمع کیے کہ اپنے آپ کو جلاؤں ؛ پھول سمجھا شاید میں گلستان میں آشیانہ بنا رہا ہوں'۔غنی",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I gathered a handful of straw to set myself on fire; the rose supposes that I would build a nest in the garden.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت رومی \"آنچہ می آید نگر\nدل مدہ با آنچہ بگذشت اے پسر",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا 'اے پسر ، جو کچھ ہو چکا اس پر غمگین نہ ہو ؛ بلکہ جو کچھ سامنے ہے اسے دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘Observe what is now coming; give not your heart to what has passed, my son.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شاعر رنگین نوا طاہر غنی\nفقر او باطن غنی، ظاہر غنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ رنگین نوا شاعر غنی ہے جس کا فقر اندر سے بھی اور باہر سے بھی غنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That poet of colourful song, Tahir Ghani, whose poverty abounds in riches inward and outward,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نغمہ ئی می خواند آن مست مدام\nدر حضور سید والا مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مست مدام شاعر سید والا مقام (علی ہمدانی) کے سامنے شعر پڑھ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drunk with eternal wine, is chanting a melody in the presence of the Sayyid sublime,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سید السادات، سالار عجم\nدست او معمار تقدیر امم",
+              "lang": "Original"
+            },
+            {
+              "_content": "سید السادات عجم کا سردار جس نے امتوں کی تقدیر بنا دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Noble of nobles, commander of Persia, whose hand is the architect of the destiny of nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تا غزالی درس اﷲ ہو گرفت\nذکر و فکر از دودمان او گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب غزالی نے اللہ ہو کا سبق لیا تو سید علی ہمدانی کے خاندان سے ذکر و فکر کی تعلیم پا‏ئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghazali himself learned the lesson of God is He and drew meditation and thought from his stock.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مرشد آن کشور مینو نظیر\nمیر و درویش و سلاطین را مشیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کشمیر جنت نظیر کے مرشد تھے اور میر و درویش و سلاطین کے مشیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Guide he of that emerald land, counsellor of prince and dervish and sultan;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "خطہ را آن شاہ دریا آستین\nداد علم و صنعت و تہذیب و دین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس شاہ دریا آستین (فیاض) نے خطہ ء کشمیر کو علم و صنعت و تہذیب و دین سے نوازا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A king ocean-munificent, to that vale he gave science, crafts, education, religion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "آفرید آن مرد ایران صغیر\nبا ھنر ہای غریب و دلپذیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے نادر اور دلپذیر فنون سے اس خطے کو ایران صغیر بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man created a miniature Iran with rare and heart-ravishing arts;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "یک نگاہ او گشاید صد گرہ\nخیز و تیرش را بدل راہی بدہ\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ایک نگاہ نے سینکڑوں گرہیں کھول دیں ؛ تو بھی اٹھ اور اس کے تیر کو اپنے دل میں جگہ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With one glance he unravels a hundred knots – rise, and let his arrow transfix your heart.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Visitation To His Highness Sayyid Ali Hamadani And Mulla Tahir Ghani Of Kashmir"
+}

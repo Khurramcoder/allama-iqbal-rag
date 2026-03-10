@@ -1,0 +1,34 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شاخ نھال سدرہ ئی خار و خس چمن مشو\nمنکر او اگر شدی منکر خویشتن مشو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم درخت سدرہ کی شاخ ہو ، اپنے آپ کو باغ کے خار و خس نہ بنا؛ اگر اللہ تعالے کے منکر ہو تو کم از کم اپنی عظمت کا تو انکار نہ کر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Branch of the Sidra tree thou art; be not the meadow’s straw and thorn: Though thou deniest Him in thy heart, hold not thy Self in faithless scorn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

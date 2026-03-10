@@ -1,0 +1,68 @@
+{
+  "id": "17",
+  "name": "خوب و زشت",
+  "name-en": "Good and Evil",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ستارگان فضاہائے نیلگوں کی طرح \nتخیلات بھی ہیں تابع طلوع و غروب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just like the stars that shine in azure sky, thoughts have short span of life and soon they dir.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جہاں خودی کا بھی ہے صاحب فراز و نشیب \nیہاں بھی معرکہ آرا ہے خوب سے ناخوب",
+              "lang": "Original"
+            },
+            {
+              "_content": "فراز و نشیب: بلندی اور پستی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Realm of Self has its ups and downs, even here, the Fair and Foul exchange their frowns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نمود جس کی فراز خودی سے ہو، وہ جمیل \nجو ہو نشیب میں پیدا، قبیح و نامحبوب!",
+              "lang": "Original"
+            },
+            {
+              "_content": "قبیح: برا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Self has reached the height, its acts are fine, debased, its deeds as good one can't define.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

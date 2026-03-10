@@ -1,0 +1,193 @@
+{
+  "id": "12",
+  "name": "پر ندے کی فر یاد",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آتا ہے یاد مجھ کو گزرا ہوا زمانا\nوہ باغ کی بہاریں وہ سب کا چہچہانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am constantly reminded of the bygone times, those garden's springs, those chorus of chimes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آزادیاں کہاں وہ اب اپنے گھونسلے کی\nاپنی خوشی سے آنا اپنی خوشی سے جانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gone are the freedoms of our own nests where we could come and go at our own pleasure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لگتی ہے چوٹ دل پر، آتا ہے یاد جس دم\nشبنم کے آنسوئوں پر کلیوں کا مسکرانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart aches the moment I think of the buds' smile at the dew's tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ پیاری پیاری صورت، وہ کامنی سی مورت\nآباد جس کے دم سے تھا میرا آشیانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That beautiful figure, that Kamini’s* form, which source of happiness in my nest did form.\n* It is a small tropical flowering tree with beautiful slender shape and white fragrant flowers. It is commonly grown in the gardens of the India-Pakistan-Bangladesh region.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آتی نہیں صدائیں اس کی مرے قفس میں\nہوتی مری رہائی اے کاش میرے بس میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not hear those lovely sounds in my cage now! May it happen that my freedom be in my own hands now!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کیا بد نصیب ہوں میں گھر کو ترس رہا ہوں\nساتھی تو ہیں وطن میں، میں قید میں پڑا ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How unfortunate I am, tantalized for my abode I am? My companions are in the home-land, in the prison I am!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آئی بہار کلیاں پھولوں کی ہنس رہی ہیں\nمیں اس اندھیرے گھر میں قسمت کو رو رہا ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spring has arrived, the flower buds are laughing on my misfortune in this dark house I am wailing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اس قید کا الہی! دکھڑا کسے سنائوں\nڈر ہے یہیں قفسں میں میں غم سے مر نہ جائوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God! To whom should I relate my tale of woe? I fear lest I die in this cage with this woe!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جب سے چمن چھٹا ہے، یہ حال ہو گیا ہے\nدل غم کو کھا رہا ہے، غم دل کو کھا رہا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since separation from the garden the condition of my heart is such; my heart is waxing the grief, my grief is waxing the heart.* \n* This expression in Urdu denotes extreme anguish.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گانا اسے سمجھ کر خوش ہوں نہ سننے والے\nدکھے ہوئے دلوں کی فریاد یہ صدا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Listeners, considering this music do not be happy; this call is the wailing of my wounded heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آزاد مجھ کو کر دے، او قید کرنے والے!\nمیں بے زباں ہوں قیدی، تو چھوڑ کر دعا لے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the one who confined me make me free; a silent prisoner I am, earn my blessings free",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Bird's Complaint",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

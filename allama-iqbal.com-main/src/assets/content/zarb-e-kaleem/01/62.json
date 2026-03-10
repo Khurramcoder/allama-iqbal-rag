@@ -1,0 +1,69 @@
+{
+  "id": "62",
+  "name": "اشاعت اسلام فرنگستان میں",
+  "name-en": "Propagation of Islam in the West",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ضمیر اس مدنیت کا دیں سے ہے خالی \nفرنگیوں میں اخوت کا ہے نسب پہ قیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "نسب: خاندان، قبیلہ۔\nاخوت: بھائی چارہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cultures that prevail in West are quite devoid of Faith or Creed. Amongst the Franks fraternity rests on ties of lineage, race and breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بلند تر نہیں انگریز کی نگاہوں میں \nقبول دین مسیحی سے برہمن کا مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "دين مسيحي: عیسائی مذہب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If high caste Brahman ever chose to adopt Christ's faith and creed; his rank and state the same remain, to his conversion Franks wouldn’t heed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر قبول کرے، دین مصطفی، انگریز \nسیاہ روز مسلماں رہے گا پھر بھی غلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "سياہ روز: بد بخت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Franks embraced the Muslim Faith, revealed to Mustafa (S.A.W.), sundry and all: There won't be change in Muslim's state, the wretch would still remain a thrall.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

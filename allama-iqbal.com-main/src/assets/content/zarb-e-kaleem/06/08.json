@@ -1,0 +1,66 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زاغ کہتا ہے نہایت بدنما ہیں تیرے پر \nشپرک کہتی ہے تجھ کو کور چشم و بے ہنر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شپرک: چمگادڑ۔\nزاغ: کوّا۔ \nکور چشم: اندھا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The crow says, ‘In your wings no charm I find.’ The bat says, ‘You have no craft, are blind.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "لیکن اے شہباز! یہ مرغان صحرا کے اچھوت \nہیں فضائے نیلگوں کے پیچ و خم سے بے خبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O hawk, these low-caste birds of vast expanse, of azure heaven's twists and turns haven't sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ان کو کیا معلوم اس طائر کے احوال و مقام \nروح ہے جس کی دم پرواز سر تا پا نظر!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They can't know states and rank of hawk aright, whose soul grows sight entire at time of flight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

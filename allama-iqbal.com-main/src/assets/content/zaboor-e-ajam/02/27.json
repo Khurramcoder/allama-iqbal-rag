@@ -1,0 +1,119 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لالہ صحرایم از طرف خیابانم برید\nدر ہوای دشت و کہسار و بیابانم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں لالہء صحرا ہوں مجھے خیاباں سے لے جائیں، مجھے دشت و بیابان و کوہسار کی (آزاد ) ہوا میں لے جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a blossom of the plain; carry me back from the avenue to mountain and wilderness again where air’s to breathe, and the vast to view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "روبہی آموختم از خویش دور افتادہ ام\nچارہ پردازن بہ آغوش نیستانم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں روباہی سیکھ کر اپنے آپ سے دور ہو چکا ہوں ، چارہ گرو! مجھے آغوش نیستاں میں لے جاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Far from self I have gone astray, learnt me the foxy and furtive wont; carry me, helpers of the way, back to the reeds, my ancient haunt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در میان سینہ حرفی داشتم گم کردہ ام\nگرچہ پیرم پیش ملای دبستانم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے میں ایک حرف تھا جسے میں بھول گیا ہوں، اگرچہ عمر رسیدہ ہوں مگر مجھے ملائے مکتب کے پاس لے چلو (غالبا قالو بلے کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once I had a word in my heart; now it has vanished from my breast; though I am old, let me depart back to the school that taught me best.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ساز خاموشم نوای دیگری دارم ہنوز\nآنکہ بازم پردہ گرداند پے آنم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں ساز خاموش ہوں مگر ابھی میرے اندر ایک اور نوا موجود ہے، مجھے ایسے شخص کے پاس لے چلیں جو میرے ساز پر سے پھر پردہ اٹھا دے ( پردہ موسیقی کی ایک اصطلاح ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a hushed and silent lute; now in my head is a new, sweet air; O let my strings be no longer mute, take me to him whom will repair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در شب من آفتاب آن کہن داغی بس است\nاین چراغ زیر فانوس از شبستانم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری رات کے لیے میرے کہن داغ کا چراغ ہی کافی ہے، یہ چراغ جو زیر فانوس ہے اسے میرے شبستاں سے لے جائے (چراغ زیر فانوس غالبا عقل نو کو کہا ہے اور کہن داغ سے مراد اللہ تعالے کا عشق ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this night that enshroudeth me sufficient sun is my ancient brand; take away from my dormitory the shuttered lamp that is in thy hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "من کہ رمز شہریاری با غلامان گفتہ ام\nبندۂ تقصیر وارم پیش سلطانم برید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جس نے غلاموں کو پادشاہی کے رموز سے آگاہ کر دیا ہے، میں تقصیر وار ہوں ، مجھے سلطان کے سامنے لے چلئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, to the slaves I have declared true kingship’s innermost mystery; I am a slave who greatly erred; to the king for judgement O carry me!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

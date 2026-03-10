@@ -1,0 +1,181 @@
+{
+  "id": "31",
+  "name": "قرب سلطان",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تمیز حاکم و محکوم مٹ نہیں سکتی \nمجال کیا کہ گداگر ہو شاہ کا ہمدوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The distinction between the ruler and the ruled cannot disappear; the beggar cannot have the audacity of being equal to the king.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جہاں میں خواجہ پرستی ہے بندگی کا کمال \nرضاے خواجہ طلب کن قباے رنگیں پوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world adoration of the master is the climax of devotion: ‘Seek the pleasure of the master and have the beautiful tunic’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مگر غرض جو حصول رضائے حاکم ہو \nخطاب ملتا ہے منصب پرست و قوم فروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But if you aim to have the good pleasure of the ruler; you will have the title of self-seeker and anti-national.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پرانے طرز عمل میں ہزار مشکل ہے \nنئے اصول سے خالی ہے فکر کی آغوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The old way has thousands of difficulties; in the new principle the lap is free of worries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مزا تو یہ ہے کہ یوں زیر آسماں رہیے \nہزار گونہ سخن در دہان و لب خاموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The real joy comes by passing one’s life like this: ‘Thousand words in the mouth and have silent lips’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یہی اصول ہے سرمایہء سکون حیات \nگداے گوشہ نشینی تو حافظا مخروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے حافظ! تو دنیا ترک کر کے ایک گوشے میں پڑا ہے اس لیے تمہیں شور کرنے کی بجائے خاموش رہنا چاہئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This principle alone is the mainstay of peaceful existence: ‘The recluse beggar you are, O Hafiza make no clamour’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مگر خروش پہ مائل ہے تو، تو بسم اللہ \nبگیر بادئہ صافی، ببانگ چنگ بنوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے لیے شراب خالص کا حصول ضروری ہے تا کہ اس سے راگ و رنگ کی محفل میں نوش جاں کیا جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But, if you are inclined to clamour let us begin: ‘Grasp holy wine, then drink it to the harp’s tune’. (This means drink openly)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "شریک بزم امیر و وزیر و سلطاں ہو \nلڑا کے توڑ دے سنگ ہوس سے شیشہء ہوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Join the assemblies of the rich, the minister and the king; smash to pieces conscience’ goblet with greed’s stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پیام مرشد شیراز بھی مگر سن لے \nکہ ہے یہ سر نہاں خانہء ضمیر سروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, listen to the message of the Saint of Shiraz also that this is the secret of the conscience seller’s closet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "محل نور تجلی ست راے انور شاہ \nچو قرب او طلبی درصفاے نیت کوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہوں کی رائے پر تجلّیوں کا نور برستا ہے، جب تو اس کے پاس بیٹھنے کا طلب گار ہو تو نیت صاف رکھنے کی کوشش کر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Light of effulgence is the king’s brilliant opinion; if you want his closeness try to have clean intention’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Closeness To Kings",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

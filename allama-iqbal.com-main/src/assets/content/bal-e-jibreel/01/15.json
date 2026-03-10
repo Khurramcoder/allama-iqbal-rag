@@ -1,0 +1,132 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک دانش نورانی، اک دانش برہانی \nہے دانش برہانی، حیرت کی فراوانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانش نورانی: و ہ عقل جو انسان کے دل و دماغ کو روشن کر دے۔ \nدانش برہانی: و ہ عقل جس میں فلسفیانہ دلیلوں سے کام لیا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason is either luminous, or it seeks proofs; proof-seeking reason is but an excess of wonder.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس پیکر خاکی میں اک شے ہے، سو وہ تیری \nمیرے لیے مشکل ہے اس شے کی نگہبانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thine alone is what I possess in this handful of dust; and to keep it safe is beyond my power, O Lord.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اب کیا جو فغاں میری پہنچی ہے ستاروں تک \nتو نے ہی سکھائی تھی مجھ کو یہ غزل خوانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My songs of lament were all inspired by Thee; if they have reached the stars, it is no fault of mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہو نقش اگر باطل، تکرار سے کیا حاصل \nکیا تجھ کو خوش آتی ہے آدم کی یہ ارزانی؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Art Thou pleased, O Lord, with man’s imperfection? Why repeat a flawed attempt, and make his shame eternal?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مجھ کو تو سکھا دی ہے افرنگ نے زندیقی \nاس دور کے ملا ہیں کیوں ننگ مسلمانی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندیقی: مذہب سے بیزاری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Western ways have tried to make me a renegade; but why are our mullahs a disgrace to Muslims?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تقدیر شکن قوت باقی ہے ابھی اس میں \nناداں جسے کہتے ہیں تقدیر کا زندانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندانی: قیدی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fools think man is a bondman of destiny; but man has still the power to break the bonds of fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تیرے بھی صنم خانے، میرے بھی صنم خانے \nدونوں کے صنم خاکی، دونوں کے صنم فانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast Thy pantheon, and I have mine, O Lord, Both have idols of dust; both have idols that die.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

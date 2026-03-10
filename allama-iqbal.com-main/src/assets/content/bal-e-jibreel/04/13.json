@@ -1,0 +1,84 @@
+{
+  "id": "13",
+  "name": "ملااور بہشت",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں بھی حاضر تھا وہاں، ضبط سخن کر نہ سکا \nحق سے جب حضرت ملا کو ملا حکم بہشت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being present there, my impetuous tongue, to silence I could not resign; when an order from God of admission on high, came the way of that reverend divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عرض کی میں نے، الہی! مری تقصیر معاف \nخوش نہ آئیں گے اسے حور و شراب و لب کشت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I humbly addressed the Almighty: O Lord, excuse this presumption of mine: But he’ll never relish the virgins of heaven, the garden’s green borders, the wine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہیں فردوس مقام جدل و قال و اقول \nبحث و تکرار اس اللہ کے بندے کی سرشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "قال و اقول: جھگڑا۔\nجدل: لڑائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For paradise isn’t place for a preacher, to meddle and meddle and mangle: And he, pious man – second nature to him is the need to dispute and to jangle his business has been to set folk by the ears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے بد آموزی اقوام و ملل کام اس کا \nاور جنت میں نہ مسجد، نہ کلیسا، نہ کنشت!",
+              "lang": "Original"
+            },
+            {
+              "_content": "بد آموزي: بری تعلیم دینا۔ \nکنشت: بتخانہ۔\nملل: ملّت کی جمع۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And get nations and sects in a tangle: Up there in the sky is no Mosque and no Church and no Temple – with whom will he wrangle?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Heaven And The Priest",
+  "credits": "English Translation by: V.G. Kiernan"
+}

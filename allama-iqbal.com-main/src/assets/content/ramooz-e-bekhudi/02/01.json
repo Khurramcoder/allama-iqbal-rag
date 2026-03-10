@@ -1,0 +1,595 @@
+{
+  "id": "01",
+  "name": "رکن اول: توحید",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "02",
+  "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "ملّت مسلمہ کے بنیادی ارکان\nپہلا رکن: توحید",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در جہان کیف و کم گردید عقل\nپی بہ منزل برد از توحید عقل",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذبات و پیمائش کی اس دنیا میں عقل آوارہ پھر رہی تھی؛ توحید سے اسے منزل کی طرف رہنمائی حاصل ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Mind, astray in this determinate world, first found the pathway to this distant goal by faith in God the One;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ورنہ این بیچارہ را منزل کجاست\nکشتی ادراک را ساحل کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ورنہ عقل کو منزل کہاں نصیب تھی؛ فہم کی کشتی کے لیے کوئی ساحل نہیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What other home should bring the hapless wanderer to rest? Upon what other shore should Reason’s barque touch haven?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اہل حق را رمز توحید ازبر است\nدر \"اتی الرحمن عبدا\"ٔ مضمر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل حق توحید کی رمز کو خوب جانتے ہیں ؛ یہی راز میں \"اتی الرحمن عبدا\"ٔمضمر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All men intimate with truth the secrets of the Godhead have by heart, \nwhich is implicit in the sacred words He comes unto the Merciful, a slave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا ز اسرار تو بنماید ترا\nامتحانش از عمل باید ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے عقیدہ توحید کا امتحان عمل سے ہونا چاہئے تا کہ وہ تجھ پر تیری مخفی صلاحیتیں ظاہر کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In action let faith’s potency be tried, that it may guide thee to thy secret powers:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دین ازو حکمت ازو آئین ازو\nزور ازو قوت ازو تمکین ازو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین، حکمت، شریعت سب توحید ہی سے ہیں؛ اسی سے (افراد و قوم ) میں زور، قوّت اور ثبات و استحکام پیدا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From it derive religion, wisdom, law, unfailing vigour, power, authority.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عالمان را جلوہ اش حیرت دہد\nعاشقان را بر عمل قدرت دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا جلوہ عالموں کو حیرت میں مبتلا کر دیتا ہے اور عاشقوں کو عمل کی قدرت عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its splendour doth amaze the learned mind, but giveth unto lovers force to act;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پست اندر سایہ اش گردد بلند\nخاک چون اکسیر گردد ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سائے کے نیچے پست بلند ہو جاتے ہیں اور خاک اکسیر کی مانند قیمتی بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lowly in its shadow reacheth high, \nand worthless earth becomes like alchemy precious beyond compute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قدرت او برگزیند بندہ را\nنوع دیگر آفریند بندہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "توحید کی قدرت بندے کو برگزیدہ بنا دیتی ہے؛ اور اسے نئی نوع میں تبدیل کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its mighty force chooseth the slave, whereof it doth create another species;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "در رہ حق تیز تر گردد تکش\nگرم تر از برق خون اندر رگش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے اللہ تعالے کی راہ میں بندے کی تگ و دو تیز ہو جاتی ہے؛ اور اس کی رگوں میں دوڑتا ہوا خون برق سے بھی زیادہ گرم ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sprightlier he treads upon the path of truth, and in his veins the blood burns hotter than the lightning’s shaft.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بیم و شک میرد عمل گیرد حیات\nچشم می بیند ضمیر کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "توحید سے بیم و شک ختم ہو جاتا ہے اور عمل زندہ ہوتا ہے؛ اور انسان کی نگاہ کائنات کے پوشیدہ راز دیکھنےلگتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fear dies, and doubt; toil is new vitalized; the vision sees the inner mystery of all creation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "چون مقام عبدۂ محکم شود\nکاسہ ی دریوزہ جام جم شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب 'عبدۂ' کا مقام محکم ہوتا ہے تو کشکول گدائی جام جم بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When in servanthood to God man’s foot is established, \nbeggary’s bowl becomes the magic cup that Jamshid bore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ملت بیضا تن و جان لاالہ\nساز ما را پردہ گردان لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت مسلمہ بدن ہے، اور توحید اس کی جان ہے؛ لاالہ ہمارے ساز کے سارے نغموں میں ہم آہنگی پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no god but God: this is the soul and body of our Pure Community; the pitch that keeps our instrument in tune;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "لاالہ سرمایہ ی اسرار ما\nرشتہ اش شیرازہ ی افکار ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "لاالہ ہمارے (روحانی ) اسرار کا سرمایہ ہے؛ اسی سے ہمارے افکار کی شیرازہ بندی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The very substance of our mysteries, the knotted thread that bids our scattered thoughts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "حرفش از لب چون بدل آید ہمی\nزندگی را قوت افزاید ہمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب یہ لفظ لب سے دل میں اتر جاتا ہے تو زندگی کی قوّت میں بے پناہ اضافہ کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And when these words, being uttered on the lips, reach to the heart, they do augment the power of life itself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "نقش او گر سنگ گیرد دل شود\nدل گر از یادش نسوزد گل شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر پتھر بھی اس کا نقش اپنا لے تو وہ دل بن جاتا ہے؛ اور اگر دل اس کی یاد سے سوز حاصل نہ کرے تو وہ مٹی کے برابر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Graven upon the rock, they wake a heart therein; but if the heart burns not with the remembrance of that faith it doth convert to clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "چون دل از سوز غمش افروختیم\nخرمن امکان ز آہی سوختیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب ہم نے اپنے دلوں میں توحید کی آگ روشن کی تو ایک ہی آہ نے امکانات کے خرمن کو جلا دیا۔(دور اوّل کے مسلمانوں نے چند ہی برسوں میں عمل کے میدان میں تا حد امکان کامیابیاں حاصل کر لیں۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When we inflamed the hearts within us with the passionate glow of this belief, we set ablaze the barn of all contingency with but a sigh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آب دلہا در میان سینہ ہا\nسوز او بگداخت این آئینہ ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "توحید قلوب ملّت کی آب و تاب ہے؛ اسی کا سوز ان آئینوں میں گداز پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the lustre glittering in the hearts of men, those steely mirrors liquefied.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "شعلہ اش چون لالہ در رگہای ما\nنیست غیر از داغ او کالای ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری رگوں میں توحید کا شعلہ لالہ کی مانند (فروزاں) ہے؛ توحید کا نشان ہی ہمارا سر و سامان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By Faith’s consuming flame, whose torch is like a tulip in our veins,\nand so we bear no other mark of glory but its brand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اسود از توحید احمر می شود\nخویش فاروق و ابوذر می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "توحید کی برکت سے حبشی سرخ رنگ والوں کے برابر ہو جاتا ہے؛ اور فاروق و ابوذر (رحمتہ) کا رشتہ دار شمار ہونے لگتا ہے (حضرت بلال (رحمتہ) کی مثال سامنے ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through this true Faith black man becomes as red, kinsman to Omar, aye, and Abu Dharr.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "دل مقام خویشی و بیگانگی است\nشوق را مستی ز ہم پیمانگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنایت اور غیریت کا مقام دل ہے؛ اکٹھے بیٹھ کر (مئے توحید ) پینے والوں میں شوق کی مستی برابری پیدا کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart’s a lodge to self and the Not-self, \nand passion quickens when the cup is shared;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ملت از یک رنگی دلہاستی\nروشن از یک جلوہ این سیناستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت کا وجود دلوں کی یک رنگی سے ہے؛ یہ سینا ایک ہی جلوت (توحید ) سے روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When several hearts put on a single hue that is community, \nwhich Sinai grows radiant in one epiphany.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "قوم را اندیشہ ہا باید یکی\nدر ضمیرش مدعا باید یکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوم کی سوچ ایک ہونی چاہئے اور اس کے رگ و ریشہ میں ایک ہی مقصود رچ جانا چاہئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Peoples must have one thought, and in their minds pursue a single purpose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "جذبہ باید در سرشت او یکی\nہم عیار خوب و زشت او یکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی سرشت میں ایک ہی جذبہ ہونا چاہئے ؛ اور اس کی اچھائی اور برائی کا معیار بھی ایک ہی ہونا چاہئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To one draw their temperaments respond, \none testing-stone discriminates their hideous from their fair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گر نباشد سوز حق در ساز فکر\nنیست ممکن این چنین انداز فکر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک فکر کے ساز میں توحید کا سوز شامل نہ ہو ؛ اس قسم کا اندازفکر ممکن نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless the instrument of thought possess the fire of truth, it is impossible its range can be so wide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ما مسلمانیم و اولاد خلیل\nاز \"ابیکم\" گیر اگر خواہی دلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم مسلمان ہیں اور حضرت خلیل اللہ (علیہ) کی اولاد ہیں؛ اگر دلیل چاہتا ہے تو 'ابیکم' (آیت 78:22) دیکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We Muslims are, children of Abraham, \nwhich fact is proved (If proof thou seekest) by your father he.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "با وطن وابستہ تقدیر امم\nبر نسب بنیاد تعمیر امم",
+              "lang": "Original"
+            },
+            {
+              "_content": "قومیں اپنی تقدیر وطن سے وابستہ کرتی ہیں ؛ یا نسب کو اپنی تعمیر کی بنیاد بناتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though nations’ destinies their lands control, \nthough nations build their edifice on race;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "اصل ملت در وطن دیدن کہ چہ\nباد و آب و گل پرستیدن کہ چہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت کی اصل وطن میں دیکھنے کا کیا مطلب ؛ مٹی اور آب و ہوا پوجنے کے کیا معنی؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thinkest thou the community is based upon the Country? Shall so much regard be blindly paid to water, air and earth?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بر نسب نازان شدن نادانی است\nحکم او اندر تن و تن فانی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نسب پر فخر کرنا نادانی ہے؛ نسب کا تعلق بدن سے ہے اور بدن فانی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is dull ignorance to put one’s boast in lineage; that judgment rests upon the body, and the body perishes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ملت ما را اساس دیگر است\nاین اساس اندر دل ما مضمر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری ملّت کی بنیاد اور ہے؛ اور یہ بنیاد ہمارے دلوں کے اندر نہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Other are the foundations that support Islam’s Community; they lie concealed within our hearts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "حاضریم و دل بغایب بستہ ایم\nپس ز بند این و آن وارستہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم حاضر ہیں لیکن ہمارے دلوں کا تعلق غائب (اللہ) سے ہے؛ یہی وجہ ہے کہ ہم وطن اور نسب کے بندھنوں سے آزاد ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We, who are present now, have bound our hearts to Him who is unseen, \nand therefore are delivered from the chains of earthly things.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "رشتہ ی این قوم مثل انجم است\nچون نگہ ہم از نگاہ ما گم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت اسلامیہ کا باہمی تعلق ستاروں کے تعلق کی مانند ہے؛ اور یہ تعلق نگاہ کی طرح ہماری نگاہ سے گم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cord that links this folk is like the thread which keeps the stars in place, \nand, as the sight itself, invisible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "تیر خوش پیکان یک کیشیم ما\nیک نما یک بین یک اندیشیم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم ایک ہی ترکش کے تیز آہنی نوک والے تیر ہیں ؛ ہم ایک سے نظر آتے ہیں ، ہم ایک ہی طرح دیکھتے ہیں اور ایک ہی طرح سے سوچتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well-pointed arrows of one quiver are we, one showing, one beholding, one in thought;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "مدعای ما مآل ما یکیست\nطرز و انداز خیال ما یکیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا مدّعا بھی ایک ہے اور ہمارا مقصد بھی ایک ہے؛ ہماری سوچ بھی ایک ہے اور اس کے اظہار کا طریقہ بھی ایک جیسا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One is our goal and purpose, one the form, \nthe fashion, and the measure of our dream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ما ز نعمتہای او اخوان شدیم\nیک زبان و یکدل و یکجان شدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اللہ تعالے کی نعمت ہے ، کہ ہم آپس میں بھائی بھائی ہو گئے ؛ یک زبان، یک دل اور یک جان ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thanks to His blessings, we are brothers all sharing one speech, \none spirit and one heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Pillars Of Islam\n First Pillar: The Unity of God"
+}

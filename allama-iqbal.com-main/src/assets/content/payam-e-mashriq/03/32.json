@@ -1,0 +1,119 @@
+{
+  "id": "32",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ تو اندر حرم گنجی نہ در بتخانہ می آئی\nولیکن سوی مشتاقان چہ مشتاقانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ آپ حرم میں سماتے ہیں ، نہ بتخانہ میں آتے ہیں، لیکن اپنے چاہنے والوں کی جانب کس شوق سے بڑھتے ہیں۔ (حدیث قدسی ہے اللہ تعالے فرماتے ہیں میں آسمان اور زمین میں نہیں سماتا مگر مومن کے قلب میں سما جاتا ہوں؛ جو میری طرف ایک قدم بڑھاتا ہے، میں اس کی طرف دس قدم بڑھاتا ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You cannot fit into the Harem, nor into the idol-house. But O how eagerly you come to those who seek you eagerly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قدم بیباکتر نہ در حریم جان مشتاقان\nتو صاحبخانہ ئی آخر چرا دزدانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے چاہنے والوں کے حریم جاں میں بیباکی سے قدم رکھیئے ، آپ اس دل کے مالک ہیں، چھپ چھپ کے کیوں آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set foot more boldly in the sanctum of your lovers’ hearts. You are the master of the house. Why do you come in stealthily?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بغارت میبری سرمایۂ تسبیح خوانان را\nبہ شبخون دل زناریان ترکانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی آپ تسبیح خوانوں کا (حاصل کیا سرمایہ ء حیات غارت کر دیتے ہیں ، اور کبھی زنّاریوں کے دل پر بیباکانہ شبخون مارتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You plunder the possessions of the Sayers of the rosary, and you make night-raids on the hearts of wearers of the sacred thread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گی صد لشکر انگیری کہ خون دوستان ریزی\nگہی در انجمن با شیشہ و پیمانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی آپ سو لشکر کھڑے کر دیتے ہیں تاکہ اپنے دوستوں کا خون بہائیں ، اور ابھی (ذکر کی) مجلس میں جہاں شیشہ و پیمانہ چل رہا ہوتا ہے، آ جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes you raise a hundred hosts to shed the blood of friends, and sometimes come into the company equipped with measure and with cups.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو بر نخل کلیمی بی محابا شعلہ می ریزی\nتو بر شمع یتیمی صورت پروانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کلیم (علیہ) کے نخل پر بیدریغ شعلہ گرا دیتے ہیں ، مگر شمع یتیم (صلعم) پر پروانے کی مانند بار بار آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the bush of a Moses you hurl flames so ruthlessly, and to the candle of an orphan you come gladly like a moth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بیا اقبال جامی از خمستان خودی در کش\nتو از میخانۂ مغرب ز خود بیگانہ می آئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال آ ، اور خودی کے میخانہ سے ایک جام نوش کر، کیونکہ تو مغرب کے شراب خانہ سے اس طرح آیا ہے کہ اپنے آپ کو بھول چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come; quaff a cup of wine, Iqbal, from the wine-cellar of the self. You are back from the tavern of the West a stranger to yourself.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

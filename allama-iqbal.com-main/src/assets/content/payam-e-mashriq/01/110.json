@@ -1,0 +1,34 @@
+{
+  "id": "110",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فروغ او بہ بزم باغ و راغ است\nگل از صہبای او روشن ایاغ است\nشب کس در جہان تاریک نگذاشت\nکہ در ہر دل ز داغ او چراغ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا نور باغ و راغ میں پھیلا ہوا ہے؛ مٹی کا یہ بدن اس کی محبت کی شراب سے روشن ہے۔ \n اللہ تعالے نے اس دنیا میں کسی شخص کے جہان کو تاریک نہیں چھوڑا؛ ہر دل کے اندر (اس کی محبت کے) داغ کا چراغ روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His glory is seen in garden and jungle; the cup of the rose glows with His wine. \nThere is no one whom He consigns to everlasting darkness from His mark a lamp is lit in every heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

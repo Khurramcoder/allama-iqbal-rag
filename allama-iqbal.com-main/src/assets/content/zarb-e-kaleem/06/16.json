@@ -1,0 +1,100 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قوموں کے لیے موت ہے مرکز سے جدائی \nہو صاحب مرکز تو خودی کیا ہے، خدائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nations suffer death from centre if they part; if they have centre strong, Godhead it can impart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جو فقر ہوا تلخی دوراں کا گلہ مند \nاس فقر میں باقی ہے ابھی بوئے گدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such Faqr which has a plaint against the toils of life has beggar's wont and mode and can't bear worldly strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس دور میں بھی مرد خدا کو ہے میسر \nجو معجزہ پربت کو بنا سکتا ہے رائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پربت: پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A godly man even now by wondrous act, can chancre to tiny mustard seed a lofty mountain range.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در معرکہ بے سوز تو ذوقے نتواں یافت \nاے بندئہ مومن تو کجائی، تو کجائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ایمان والے بندے! تو کہاں ہے؟ تیرے سوز اور تیری حرارت کے بغیر جنگ و جدل میں کوئی لذت نہیں پائی جاتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fight without your heat no zeal or zest is found: Where are you godly man, take part in combat's round.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خورشید ! سرا پردئہ مشرق سے نکل کر \nپہنا مرے کہسار کو ملبوس حنائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حنائی: مہندی رنگ، سرخ۔\nملبوس: لباس پہنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Sun, arise from East and sail upon my view give all the mountain range a crimson tinge and hue.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

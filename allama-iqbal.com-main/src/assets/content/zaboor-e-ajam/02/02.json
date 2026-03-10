@@ -1,0 +1,51 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دو عالم را توان دیدن بمینائی کہ من دارم\nکجا چشمی کہ بیند آن تماشائی کہ من دارم\nدگر دیوانہ ئی آید کہ در شھر افکند ہوئی\nدو صد ہنگامۂ خیزد ز سودائی کہ من دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے پاس جو جام ہے اس میں دونوں جہان دیکھے جا سکتے ہیں ، کہاں ہے وہ آنکھ جو وہ دیکھے جسے میں میں دیکھ رہا ہوں۔ \nایک اور دیوانہ آیا ، جس نے شہر میں نعرہ مستانہ بلند کیا، میرے جنوں سے سینکڑوں ہنگامے پیدا ہو رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the flask that here I hold, both the worlds one may behold; where’s the vision, to divine the wide vista that is mine? \nMadman comes again to town crying clamour up and down: See, a hundred riots start from the passion of my heart.\n\nBoth worlds may be seen in the wine-pitches I have! Where is the eye to view the sights I see? \nThere will come another man, possessed, who will shout ‘hu’ in the city; two hundred commotions will arise from the obsession I have.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مخور نادان غم از تاریکی شبہا کہ میآید\nکہ چون انجم درخشد داغ سیمائی کہ من دارم\nندیم خویش میسازی مرا لیکن از آن ترسم\nنداری تاب آن آشوب و غوغائی کہ من دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناداں ! راتوں کی تاریکی سے دلگیر نہ ہو، میری پیشانی پہ جو داغ ہے وہ ستاروں کی طرح چمک رہا ہے۔ \nتو مجھے اپنا ساتھی تو بناتا ہے لیکن میں ڈرتا ہوں ، کہ تو میرے آشوب و غوغا کی تاب نہیں لا سکے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grieve not foolishly, my friend, lest the dark of night descend: Lo, the brand upon my brow gleams in starry splendour now. \nTake me for thy comrade true; yet I fear, if so thou do, thou hast not the strength to bear the vast tumult I prepare.\n\nDo not worry, ignorant one, at the approaching darkness of nights; for the scar of my forehead sparkles like stars.\nYou take me as your companion, but I am afraid that you are not up to the tumult and uproar I have raised.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

@@ -1,0 +1,231 @@
+{
+  "id": "57",
+  "name": "فردوس میں ایک مکالمہ",
+  "name-en": "A Dialogue in Paradise",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہاتف نے کہا مجھ سے کہ فردوس میں اک روز \nحالی سے مخاطب ہوئے یوں سعدی شیراز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہاتف: وہ فرشتہ جو دماغ میں انجانی چیزوں کے بارے میں خیالات ڈالتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hatif said to me that in Paradise one day; Sa‘di of Shiraz addressed Hali in this way:\n(Hatif: The hidden angel who puts ideas in mind or gives news of the unknown. It may also refer to the famous Irani poet of the period of literary renaissance of Iran.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے آنکہ ز نور گہر نظم فلک تاب \nدامن بہ چراغ مہ اختر زدہ اے باز!",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ کہ جس نے اپنی بلند پایہ نظم کے موتیوں کے نور سے چاند اور ستاروں کو روشن کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O with the pearl of whose poetry’s sky-illuminating light; the falcon became companion of moon and stars’ light!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کچھ کیفیت مسلم ہندی تو بیاں کر \nواماندئہ منزل ہے کہ مصروف تگ و تاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "واماندئہ منزل: تھک کے بیٹھ جانے والا مسافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Relate to me what the story of the Indian Muslim is: Is he lagging at the halt or busy in exertion is?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مذہب کی حرارت بھی ہے کچھ اس کی رگوں میں؟ \nتھی جس کی فلک سوز کبھی گرمی آواز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is some warmth of dânleft in his veins? The heat of whose call (Azan) was once burning the sky.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "باتوں سے ہوا شیخ کی حالی متاثر \nرو رو کے لگا کہنے کہ اے صاحب اعجاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hali was moved by the talk of the Shaikh. He started weeping and saying, ‘O man of miracles!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جب پیر فلک نے ورق ایام کا الٹا \nآئی یہ صدا، پائوگے تعلیم سے اعزاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the sky turned over the leaf of time; the call came that respect was possible only with education!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آیا ہے مگر اس سے عقیدوں میں تزلزل \nدنیا تو ملی، طائر دیں کر گیا پرواز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But this has produced wavering in fundamental beliefs; secular benefits were obtained, but din had been undermined.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "دیں ہو تو مقاصد میں بھی پیدا ہو بلندی \nفطرت ہے جوانوں کی زمیں گیر زمیں تاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "زميں گير: زمین کو پکڑنے والی یعنی نہایت پست۔ \nزميں تاز: زمین پر دوڑنے والی، کوشش کرنے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Goals also become exalted if the din is preserved; the youth’s nature is paralyzed and very low keyed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "مذہب سے ہم آہنگی افراد ہے باقی \nدیں زخمہ ہے، جمعیت ملت ہے اگر ساز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Concordance among individuals is kept only with din. Din is the plectrum if national congregation is the musical instrument.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بنیاد لرز جائے جو دیوار چمن کی \nظاہر ہے کہ انجام گلستاں کا ہے آغاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the foundation of the garden’s wall is shaken; it is clearly the beginning of the garden’s end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پانی نہ ملا زمزم ملت سے جو اس کو \nپیدا ہیں نئی پود میں الحاد کے انداز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the water of Zamzam was not available to it; some manner of atheism is appearing in the new progeny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یہ ذکر حضور شہ یثرب میں نہ کرنا \nسمجھیں نہ کہیں ہند کے مسلم مجھے غماز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not talk of this in the audience of the Lord of Yathrib; lest Muslims of India consider that this is my back-biting.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خرما نتواں یافت ازاں خار کہ کشتیم \nدیبا نتواں بافت ازاں پشم کہ رشتیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے جو کانٹے بوئے ہیں ان سے کھجور حاصل کرنے کی توقع عبس ہے ، جو اون ہم نے تیار کی اس سے حریر و پرنیاں اور ریشم تیار نہیں ہو سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Dates cannot be obtained from the weeds we have sown. Brocade cannot be obtained from the wool we have spun.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "32",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اعجاز ہے کسی کا یا گردش زمانہ! \nٹوٹا ہے ایشیا میں سحر فرنگیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This wonder by some glance is wrought, or Fortune’s wheel has come full round: At last the Frankish charm has been broken by the East by which in past was bound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تعمیر آشیاں سے میں نے یہ راز پایا \nاہل نوا کے حق میں بجلی ہے آشیانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the building of my nest, this secret hid was brought to view that for the bards that sing and chant the choice of nest is bolt from blue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ بندگی خدائی، وہ بندگی گدائی \nیا بندہ خدا بن یا بندہ زمانہ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If slave to God, you grow divine, if slave to world a beggar mean: You are the master of your fate, so make the choice the two between.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غافل نہ ہو خودی سے، کر اپنی پاسبانی \nشاید کسی حرم کا تو بھی ہے آستانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of selfhood heedless never be, your gaze to self always confine: Who knows, you mat anon become the threshold of some sacred shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے لا الہ کے وارث! باقی نہیں ہے تجھ میں \nگفتار دلبرانہ، کردار قاہرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O heir to creed no god but He, in you I see no sign or trace of mighty deeds that terror strike; your talk devoid of charm and grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تیری نگاہ سے دل سینوں میں کانپتے تھے \nکھویا گیا ہے تیرا جذب قلندرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your glances bold would strike the heart with awe, though sheathed within the breast: Alas! a qalandar’s fervent zeal in you is dead and is at rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "راز حرم سے شاید اقبال باخبر ہے \nہیں اس کی گفتگو کے انداز محرمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of Sanctuary’s secret hid Iqbal perhaps is well aware: His speech and song display alike a confidential moder.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

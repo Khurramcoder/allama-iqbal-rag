@@ -1,0 +1,34 @@
+{
+  "id": "30",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زیان بینی ز سیر بوستانم\nاگر جانت شہید جستجو نیست\nنمایم آنچہ ہست اندر رگ گل\nبہار من طلسم رنگ و بو نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیری جان شہید جستجو نہیں ہے، تو تو میرے باغ کی سیر میں صرف اپنا نقصان ہی دیکھے گا۔\nمیں تو جو رگ گل کے اندر ہے وہ دیکھتا ہوں، میری بہار رنگ و بو کا طلسم نہیں ہے ( میں صرف ظاہر کی بات نہیں کرتا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not come to my garden if you have an uninquiring mind, which does not crave.\nTo know the souls of flowers: My spring is not mere smell and colour, no mere surface wave.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

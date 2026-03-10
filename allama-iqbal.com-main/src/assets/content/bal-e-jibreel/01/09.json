@@ -1,0 +1,133 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مٹا دیا مرے ساقی نے عالم من و تو \nپلا کے مجھ کو مے لا الہ الا ھو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My Saki made me drink the wine of There is no god but He: From the illusive world of sense, this cup divine has set me free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ مے،نہ شعر، نہ ساقی، نہ شور چنگ و رباب \nسکوت کوہ و لب جوے و لالہ خود رو!",
+              "lang": "Original"
+            },
+            {
+              "_content": "چنگ و رباب: آلات موسیقی کے نام۔ \nلب جو: ندی کے کنارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now I find no charm or grace in song and ale, or harp and lute: To me appeal the tulips wild, the riverside and mountains mute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گدائے مے کدہ کی شان بے نیازی دیکھ \nپہنچ کے چشمہ حیواں پہ توڑتا ہے سبو!",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشمہ حيواں: آب حیات کا چشمہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy mendicant, inebriate, has in great abandon, shattered his sustaining cup at the spring of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرا سبوچہ غنیمت ہے اس زمانے میں \nکہ خانقاہ میں خالی ہیں صوفیوں کے کدو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کدو: شراب کا برتن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My flagon small is blessing great, for the age athirst and dry: In the cells where mystics swell big empty gourds are lying by.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "میں نو نیاز ہوں، مجھ سے حجاب ہی اولی \nکہ دل سے بڑھ کے ہے میری نگاہ بے قابو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In love a novice I am yet, much good for you to keep apart, for my glance is restive more than my wild and untam’d heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اگرچہ بحر کی موجوں میں ہے مقام اس کا \nصفائے پاکی طینت سے ہے گہر کا وضو",
+              "lang": "Original"
+            },
+            {
+              "_content": "صفائے پاکي طينت: فطری پاکیزگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dark unfathomed caves of sea hold gems of purest ray serene: The gems retain in midst of brine their essence bright and clean.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جمیل تر ہیں گل و لالہ فیض سے اس کے \nنگاہ شاعر رنگیں نوا میں ہے جادو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through the poet’s quickening gaze; the rose and tulip lovelier seem: No doubt, the minstrel’s piercing glance is nothing less than magic gleam.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

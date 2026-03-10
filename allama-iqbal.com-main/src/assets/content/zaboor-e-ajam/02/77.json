@@ -1,0 +1,119 @@
+{
+  "id": "77",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خود را کنم سجودی، دیر و حرم نماندہ\nاین در عرب نماندہ آن در عجم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو سجدہ کرتا ہوں کیونکہ دیر و حرم نہیں رہے؛ یہ عرب میں نہیں، وہ عجم میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I bow down before myself – there is no temple or Ka’bah left! This one is missing in Arabia, that one in other lands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در برگ لالہ و گل آن رنگ و نم نماندہ\nدر نالہ ہای مرغان آن زیر و بم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ و گل میں وہ رنگ و نم نہیں رہا؛ نہ پرندوں کی فریاد میں وہ لے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The petals of rose and tulip have lost their colour and moisture; the laments of birds have lost their melody.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در کارگاہ گیتی نقش نوی نبینم\nشاید کہ نقش دیگر اندر عدم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے کے کارخانے میں تجھے کوئی نیا نقش نظر نہیں آتا ؛ شاید عدم میں اب کوئی نقش باقی نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the workshop that is the world I see no new designs: Pre-existence has, perhaps, run out of blueprints.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سیارہ ہای گردون بی ذوق انقلابے\nشاید کہ روز و شب را توفیق رم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے سیارے ذوق سے خالی (نظر آتے) ہیں؛ شاید روز و شب میں (گردش کہنہ سے ) ہٹنے کی توفیق نہیں رہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heavenly bodies no longer want to revolve: Day and night are, perhaps, unable to move.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بی منزل آرمیدند پا از طلب کشیدند\nشاید کہ خاکیان را در سینہ دم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "منزل پر پہنچے بغیر ہی پاؤں پسار دیے اور حصول منزل کا خیال چھوڑ دیا؛ شاید آدم خاکی کے سینے میں دم باقی نہیں رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have put up their feet before reaching their destination: the earthlings have, perhaps, no breath left in their chests.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یا در بیاض امکان یکبرگ سادہ ئی نیست\nیا خامۂ قضا را تاب رقم نماندہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا امکانات کی بیاض میں کوئی سادہ ورق نہیں؛ اور یا قضا و قدر کس قلم کو لکھنے کی ہمت نہیں رہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either the Register of Possibles has no blank pages left or the Pen of Fate has grown too tired to write.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

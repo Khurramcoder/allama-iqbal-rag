@@ -1,0 +1,98 @@
+{
+  "id": "68",
+  "name": "ہمایوں (مسٹر جسٹسں شاہ دین مرحوم)",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "name-en": "Humayun (Late Mr. Justice Shah Din)",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے ہمایوں! زندگی تیری سراپا سوز تھی \nتیری چنگاری چراغ انجمن افروز تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Humayun! Your life was full of warmth; your spark was an assembly-enlightening lamp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرچہ تھا تیرا تن خاکی نزار و دردمند \nتھی ستارے کی طرح روشن تری طبع بلند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though your earthly body was slim and weak; your elegant disposition was bright like a star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کس قدر بے باک دل اس ناتواں پیکر میں تھا\nشعلہ گردوں نورد اک مشت خاکستر میں تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How fearless a heart in this frail body was! A universal flame in this handful of dust was!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "موت کی لیکن دل دانا کو کچھ پروا نہیں \nشب کی خاموشی میں جز ہنگامہ فردا نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the intelligent heart was not at all afraid of death! In night’s silence there is nothing except morrow’s affairs!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "موت کو سمجھے ہیں غافل اختتام زندگی \nہے یہ شام زندگی، صبح دوام زندگی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The imprudent ones consider death is the end of life: This apparent evening of life is the morning of perpetual life!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

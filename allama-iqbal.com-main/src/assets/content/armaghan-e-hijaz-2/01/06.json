@@ -1,0 +1,34 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عطا کن شور رومے، سوز خسرو\nعطا کن صدق و اخلاص سنائے\nچنان با بندگی در ساختم من\nنگیرم گر مرا بخشے خدائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(الہی) ہمیں رومی کا جذب اور خسرو کا سوز عطا کر، الہی! ہمیں سینائی کا صدق و اخلاص دے۔ \n میں بندگی کا ایسا عادی ہو چکا ہوں، کہ آپ مجھے خدائی بھی عطا فرمائیں تو میں قبول نہ کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Get me Seenay’s truth, and love of his name, get me Rumi’s fame and Khisro’s flame.\nIn obeisance mould I have cast my frame, I shun any offer of godship’s game.\n(Seenay: Hakim Sinai-ee, known for his philosophy and poetry, full name Abut Majd Mujaddad Ghaznavi, was a court poet of Sultan Behram Shah Ghazni, was living there like slaves. He became a disciple of Kh: Abu Yusuf Hamdani who made a true paragon of virtue and knowledge, that the King himself became his devoted adorer. Rumi eulogizes him in a verse.)\n(Khisro Khwaja Abul Hasan of Delhi, one of the nobles of the King, was titled as Bulbul-i-Hind (A nightingale of India), was a disciple of Kh: Nizam-ud-Din.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

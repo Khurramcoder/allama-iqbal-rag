@@ -1,0 +1,405 @@
+{
+  "id": "01",
+  "name": "بلاد اسلامیہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سرزمیں دلی کی مسجود دل غم دیدہ ہے \nذرے ذرے میں لہو اسلاف کا خوابیدہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The region of Delhi is adored by my grieved heart; in every speck of it the ancestors’ blood is asleep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پاک اس اجڑے گلستاں کی نہ ہو کیونکر زمیں \nخانقاہ عظمت اسلام ہے یہ سرزمیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should not the land of this desolate garden be holy? This region is the shrine of the grandeur of Islam.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سوتے ہیں اس خاک میں خیر الامم کے تاجدار \nنظم عالم کا رہا جن کی حکومت پر مدار",
+              "lang": "Original"
+            },
+            {
+              "_content": "خير الامم: امتوں میں سب سے بہتر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kings of the Khair al-Umam are asleep in this land; dependent on whose rule remained the world order.\n(Khair al-Umam: The title of the Muslim Ummah as is conferred on them by the Holy Qur’an 3:110.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل کو تڑپاتی ہے اب تک گرمی محفل کی یاد \nجل چکا حاصل مگر محفوظ ہے حاصل کی یاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Memory of assembly’s warmth still renders the heart restless; the splendor has been burnt but memory of the splendor is still secure.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہے زیارت گاہ مسلم گو جہان آباد بھی \nاس کرامت کا مگر حق دار ہے بغداد بھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کرامت: بزرگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Jahanabad also is a shrine for the Muslim; Baghdad as well is deserving of this magnificence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یہ چمن وہ ہے کہ تھا جس کے لیے سامان ناز \nلالہ صحرا جسے کہتے ہیں تہذیب حجاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the garden the source of whose pride was; the wild tulip which was called the culture of Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خاک اس بستی کی ہو کیونکر نہ ہمدوش ارم \nجس نے دیکھے جانشینان پیمبر کے قدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمدوش ارم: بہشت کی ہم پلّہ۔ (ارم: شدّاد کی بنائی ہوئی بہشت۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should not the dust of this habitation be equivalent to Iram; which witnessed the footsteps of the Prophet’s successors.\n(Iram: This was a famous garden in Yemen, established on the model of Paradise by Shaddad, an ancient king. This word is also used for Paradise.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "جس کے غنچے تھے چمن ساماں، وہ گلشن ہے یہی \nکاپنتا تھا جن سے روما، ان کا مدفن ہے یہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "چمن ساماں: باغ کا ساز و سامان رکھنے والا یعنی باغ کے برابر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garden whose flower buds were the garden’s wealth is this. The graveyard of those who made Rome tremble is this.\n(Allusion to the struggle of the Muslim mujahids whose struggle in the cause of God and Islam shook up and ultimately destroyed the Eastern or the Byzantine part of the Roman Empire.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہے زمین قرطبہ بھی دیدہء مسلم کا نور \nظلمت مغرب میں جو روشن تھی مثل شمع طور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The land of Qurtubah also is the light of the Muslim’s eye; which shined in Europe’s darkness like the candle of Toor.\n(Qurtubah: (Cordova) This important city in north-central Spain was the capital of the Muslim Khilafah in Andalus (Spain) for about three centuries from the middle of the eighth to the middle of the eleventh centuries. During this period its contribution to the strength of the Muslims and Islam in Spain as well as its rich and intellectual culture is famous… Allusion is to the leading role of Qurtubah in the spread of knowledge in Europe.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بجھ کے بزم ملت بیضا پریشاں کر گئی \nاور دیا تہذیب حاضر کا فروزاں کر گئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فروزاں: روشن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Extinguishing of this lamp dispersed the assembly of Millat-i-Baidha and lighted the lamp of the present day’s materialistic civilization.\n(Millat-i-Baidha: It means ‘the nation like the illuminated egg’, which comes from the bright egg-shaped mark on the palm of Mosa A.S. Conferred by God at Mount Toor (The Holy Qur’an 27:12). ‘Allamah Iqbal has frequently used this name for the Muslim Ummah.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "قبر اس تہذیب کی یہ سر زمین پاک ہے \nجس سے تاک گلشن یورپ کی رگ نم ناک ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاک: انگور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This holy region is the grave of that civilization with which the life blood still exists in the veins of Europe’s vines.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "خطہ قسطنطنیہ یعنی قیصر کا دیار \nمہدی امت کی سطوت کا نشان پائدار",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہدي امت: ملّت کو ہدایت کرنے والا۔ \nسطوت: شان و شکوہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tract of Constantinople that is the Caesar’s city; the perpetual banner of the grandeur of the Ummah’s Mahdi.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "صورت خاک حرم یہ سر زمیں بھی پاک ہے \nآستان مسند آرائے شہ لولاک ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہ لولاک: محمد (صلعم ) کے القاب میں سے ایک لقب۔\n(اشارہ ہے اس کہاوت کی طرف جس میں کہا گیا ہے کہ اے محمد (صلعم) اگر آپ نہ ہوتے تو میں آسمان پیدا نہ کرتا۔ اسے حدیث سمجھا جاتا ہے جو مستند نہیں)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the Haram’s dust this region is also holy; it is the shrine of descendants of Shah-i-Lawlak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "نکہت گل کی طرح پاکیزہ ہے اس کی ہوا \nتربت ایوب انصاری سے آتی ہے صدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its breeze is holy like the fragrance of rose; a voice is calling from the tomb of Ayyub Ansari (R.A.). (Eminent companion of the Holy Prophet S.A.W, who was martyred in a battle for the conquest of Constantinople during the Khilafah of Mu`awiyah R.A.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "اے مسلماں! ملت اسلام کا دل ہے یہ شہر \nسینکڑوں صدیوں کی کشت و خوں کا حاصل ہے یہ شہر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim! This city is the heart of the Nation of Islam! This city is the reward for millenniums of blood sacrifices!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "وہ زمیں ہے تو مگر اے خواب گاہ مصطفی\nدید ہے کعبے کو تیری حج اکبر سے سوا",
+              "lang": "Original"
+            },
+            {
+              "_content": "حج اکبر: حج دو قسم کے ہوتے ہیں ؛ عمرہ کو حج اصغر کہتے ہیں اور حج کو حج اکبر بھی کہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But you are that land, O the resting place of Mustafa (S.A.W.); even to the Ka`bah whose sight is better than Hajj-i-Akbar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "خاتم ہستی میں تو تاباں ہے مانند نگیں \nاپنی عظمت کی ولادت گاہ تھی تیری زمیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ولادت گاہ: پیدائش کی جگہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world’s ring you are shining like a gem; your land was the birth place of our grandeur.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "تجھ میں راحت اس شہنشاہ معظم کو ملی \nجس کے دامن میں اماں اقوام عالم کو ملی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That Magnificent Emperor got rest in your midst; under whose protection the world nations got security.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "337",
+          "Text": [
+            {
+              "_content": "نام لیوا جس کے شاہنشاہ عالم کے ہوئے\nجانشیں قیصر کے، وارث مسند جم کے ہوئے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose successors became rulers of world’s empires, became successors of Caesar, inheritors of Jam’s throne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ہے اگر قومیت اسلام پابند مقام \nہند ہی بنیاد ہے اس کی، نہ فارس ہے، نہ شام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the Muslim nationalism is restricted to place; neither India nor Persia nor Syria is its base.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آہ یثرب! دیس ہے مسلم کا تو، ماوا ہے تو\nنقطہ جاذب تاثر کی شعاعوں کا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ماوا: پناہ کی جگہ۔\nنقطہ جاذب: وہ نقطہ جس کی طرف ہر شے کھچی آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah Yathrib! You are the Muslim’s homeland and his shelter; you are the focal point of the rays of his inner feelings.\n(Yathrib: The original name of Madinah Munawwarah which is also used as an alternate name.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "جب تلک باقی ہے تو دنیا میں، باقی ہم بھی ہیں \nصبح ہے تو اس چمن میں گوہر شبنم بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As long as you exist, we will also flourish in the world; you are the morning of this garden we are the dew’s pearls.\n(This is a beautiful metaphor of the morning and its beauty created by the morning’s dew whose droplets shine like pearls. Just as the morning dew lends beauty to the morning, Muslims added beauty to the world (metaphor of a garden used) by shining like dew drops.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "The Islamic Cities",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

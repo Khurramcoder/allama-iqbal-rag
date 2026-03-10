@@ -1,0 +1,145 @@
+{
+  "id": "31",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر چیز ہے محو خود نمائی \nہر ذرہ شہید کبریائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every atom pants for glory: greed of self-fruition earth’s whole creed!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بے ذوق نمود زندگی، موت \nتعمیر خودی میں ہے خدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life that thirsts for no flowering – death: Self-creation – a godlike deed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رائی زور خودی سے پربت \nپربت ضعف خودی سے رائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through self the mustard-seed becomes a hill: without, the hill a seed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تارے آوارہ و کم آمیز \nتقدیر وجود ہے جدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars wander and do not meet, to all things severance is decreed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ پچھلے پہر کا زرد رو چاند \nبے راز و نیاز آشنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pale is the moon of night’s last hour no whispered things of friendship speed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تیری قندیل ہے ترا دل \nتو آپ ہے اپنی روشنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Own self is all the light you need;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اک تو ہے کہ حق ہے اس جہاں میں \nباقی ہے نمود سیمیائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are this world’s sole truth, all else is illusion such as sorceries breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہیں عقدہ کشا یہ خار صحرا \nکم کر گلہ برہنہ پائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These desert thorns prick many a doubt: Do not complain if bare feet bleed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

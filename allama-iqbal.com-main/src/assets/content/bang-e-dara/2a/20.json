@@ -1,0 +1,98 @@
+{
+  "id": "20",
+  "name": "تنہائی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تنہائی شب میں ہے حزیں کیا \nانجم نہیں تیرے ہم نشیں کیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why are you sad in the night's loneliness? Are not the stars your close associates?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ رفعت آسمان خاموش \nخوابیدہ زمیں، جہان خاموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This elegant dignity of the silent sky; this sleeping earth, this silent world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ چاند، یہ دشت و در، یہ کہسار \nفطرت ہے تمام نسترن زار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This moon, wilderness, environment, mountains, Nature is a prolific garden of white roses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "موتی خوش رنگ، پیارے پیارے \nیعنی ترے آنسوئوں کے تارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The colourful pearls are variegate and beautiful, seem to be the stars of your tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کس شے کی تجھے ہوس ہے اے دل! \nقدرت تری ہم نفس ہے اے دل!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What do you desire so inordinately, O Heart! Nature is in concord with you, O Heart!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Loneliness",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

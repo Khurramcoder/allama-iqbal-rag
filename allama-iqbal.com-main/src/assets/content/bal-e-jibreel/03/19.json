@@ -1,0 +1,33 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "محبت کا جنوں باقی نہیں ہے \nمسلمانوں میں خوں باقی نہیں ہے \nصفیں کج، دل پریشاں، سجدہ بے ذوق \nکہ جذب اندروں باقی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They no longer have that passionate love; Muslims are drained of blood.\nThe rows are uneven, the hearts adrift, the prostration joyless; all this because the inner feeling is dead!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "06",
+  "name": "اختر صبح",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ستارہ صبح کا روتا تھا اور یہ کہتا تھا\nملی نگاہ مگر فرصت نظر نہ ملی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dawn’s star was weeping and saying this: ‘I got the eye but not the leisure for Sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوئی ہے زندہ دم آفتاب سے ہر شے\nاماں مجھی کو تہ دامن سحر نہ ملی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everything has come to life through the sun’s energy; only I did not get protection under the morning’s skirt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بساط کیا ہے بھلا صبح کے ستارے کی\nنفس حباب کا، تابندگی شرارے کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "After all what is the capacity of the dawn’s star: It is like bubble’s breath, like the spark’s brightness’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہا یہ میں نے کہ اے زیور جبین سحر!\nغم فنا ہے تجھے! گنبد فلک سے اتر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said ‘O beautiful jewel of the dawn’s forehead; do you have fear of death? Come down from the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ٹپک بلندی گردوں سے ہمرہ شبنم\nمرے ریاض سخن کی فضا ہے جاں پرور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drop down from the sky’s height with the dew; my poetry’s field will be invigorating to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "میں باغباں ہوں، محبت بہار ہے اس کی\nبنا مثال ابد پائدار ہے اس کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the gardener, Love is its bloom; its foundation is firm like eternity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Morning Star –Venus",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

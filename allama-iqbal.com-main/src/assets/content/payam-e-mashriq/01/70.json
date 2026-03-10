@@ -1,0 +1,34 @@
+{
+  "id": "70",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ مرغان چمن ہمداستانم\nزبان غنچہ ہای بی زبانم\nچو میرم با صبا خاکم بیامیز\nکہ جز طوف گلان کاری ندانم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں باغ کے پرندوں کی داستان بیان کرتا ہوں؛ میں بے زبان کلیموں کی زبان ہوں۔ \nجب میں مر جاؤں تو میری خاک کو باد صبح میں ملا دینا؛ کیونکہ مجھے پھولوں کے طواف کے سوائے اور کوئی کام نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My talk is with the songsters of the glade; the tongue of tongueless rosebuds I was made.\nWhen I am dead, O cast my dust on air – attending roses is my only trade.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "98",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ندانم بادہ ام یا ساغرم من\nگہر در دامنم یا گوہرم من\nچنان بینم چو بر دل دیدہ بندم\nکہ جانم دیگر است و دیگرم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا کہ میں شراب ہوں یا شراب کا پیالہ ہوں؛ میرے دامن میں گوہر ہے یا میں خود گوہر ہوں۔\nجب میں اپنی نظر دل پر مرکوز کرتا ہوں تو مجھے یوں دکھائی دیتا ہے کہ میری جان اور چیز ہے اور میں کچھ اور ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wine am I, or the bowl where it doth lie? Pearl, or the bosom it is treasured by?\nI scan my heart, and this is all I see: One thing my soul is, and another I.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

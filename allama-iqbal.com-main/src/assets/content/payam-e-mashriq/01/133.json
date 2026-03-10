@@ -1,0 +1,34 @@
+{
+  "id": "133",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمین را رازدان آسمان گیر\nمکان را شرح رمز لامکان گیر\nپرد ہر ذرہ سوی منزل دوست\nنشان راہ از ریگ روان گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین کو آسمان کا رازدان سمجھ، مکاں کو لا مکاں کے معنی کی شرع خیال کر۔\nہر ذرّہ منزل دوست کی جانب اڑتا جا رہا ہے، تو راستے کے نشان ریگ رواں (کے ذرّوں ) سے پوچھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take earth to be the confidante of Heaven and space a gloss upon infinity.\nMake shifting sands your signpost of the road, as each sandgrain flies to the Friend’s abode.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

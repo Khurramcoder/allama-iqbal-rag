@@ -1,0 +1,34 @@
+{
+  "id": "161",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بحرف اندر نگیری لامکانرا\nدرون خود نگر این نکتہ پیداست\nبہ تن جان آنچنان دارد نشیمن\nکہ نتوان گفت اینجا نیست آنجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "لا مکاں کو الفاظ میں محدود نہیں کیا جا سکتا؛ اگر تو اپنے اندر دیکھے تو بات واضح ہو جاتی ہے۔ \nہمارے بدن کے اندر جان نے اس طرح نشیمن بنایا ہوا ہے؛ کہ کوئی نہیں کہہ سکتا کہ جان اس جگہ ہے اور اس جگہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Words are too frail, abodelessness to bear. Look inwardly, and see this point is clear:\nThe soul has such a seat within the flesh one cannot say, ‘It is not here, but there!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

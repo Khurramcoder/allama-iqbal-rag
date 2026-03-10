@@ -1,0 +1,100 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمستانی ہوا میں گرچہ تھی شمشیر کی تیزی \nنہ چھوٹے مجھ سے لندن میں بھی آداب سحر خیزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہوا: سردیوں کی ٹھنڈی ہوا۔ زمستاني\nسحر خيزي: صبح سویرے اٹھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At London, winter wind, like sword, was biting though, my wont to rise at early morn I didn’t forego.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کہیں سرمایہ محفل تھی میری گرم گفتاری \nکہیں سب کو پریشاں کر گئی میری کم آمیزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At times my heated talk to gathering pleasure lent; my holding ’loof at times perplexed them all, I trow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زمام کار اگر مزدور کے ہاتھوں میں ہو پھر کیا! \nطریق کوہکن میں بھی وہی حیلے ہیں پرویزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کار: حکومت کا کاروبار۔ زمام",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No hope for change is there, if workers rule the land, for those who hew the rocks, like Parvez tricks do know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جلال پادشاہی ہو کہ جمہوری تماشا ہو \nجدا ہو دیں سیاست سے تو رہ جاتی ہے چنگیزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Statecraft divorced from Faith to reign of terror leads, though it be a monarch’s rule or Commoners’ show.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سواد رومة الکبرے میں دلی یاد آتی ہے \nوہی عبرت، وہی عظمت، وہی شان دل آویزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل آويزي: دلکشی۔\nسواد: ماحولی کیفیت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The streets of Rome remind of Delhi’s glorious past, the lesson same and charm are writ upon its brow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

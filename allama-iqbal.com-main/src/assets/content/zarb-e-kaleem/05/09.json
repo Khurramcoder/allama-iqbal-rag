@@ -1,0 +1,35 @@
+{
+  "id": "09",
+  "name": "آج اور کل",
+  "bookId": "zarb-e-kaleem",
+  "name-en": "Today and Tomorrow",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ کل کے غم و عیش پہ کچھ حق نہیں رکھتا\nجو آج خود افروز و جگر سوز نہیں ہے\nوہ قوم نہیں لائق ہنگامہ فردا\nجس قوم کی تقدیر میں امروز نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "لائق ہنگامہ فردا: مستقبل کے ہنگاموں کے لائق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who does not light and consume his heart, in future's joy or sorrow has no part.\nThat nation can not morrow's tumult face, which is destined to lose the present race.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "80",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نفس آشفتہ موجی از یم اوست\nنے ما نغمۂ ما از دم اوست\nلب جوی ابد چون سبزہ رستیم\nرگ ما ریشۂ ما از نم اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری سانس اللہ تعالے کے بحر بیکراں سے اٹھی ہوئی موج ہے؛ ہماری نے ، ہمارا نغمہ اسی کے دم سے ہے۔\nہم ابد کی ندی کے کنارے سبزہ کی مانند اگے ہیں؛ ہمارا رگ و ریشہ اسی نم ابدیت سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heaved breath is a beaker of His sea; He lips our reed, and plays our melody.\nWe grow as grass by an eternal stream; His dew is in our vein and artery.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

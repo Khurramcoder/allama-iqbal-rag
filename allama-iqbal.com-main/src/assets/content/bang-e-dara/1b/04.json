@@ -1,0 +1,130 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لائوں وہ تنکے کہیں سے آشیانے کے لیے\nبجلیاں بے تاب ہوں جن کو جلانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I should procure such straws for my nest from somewhere for burning which the lightning may be restless.\n(One should be prepared to sacrifice everything in the Love of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وائے ناکامی، فلک نے تاک کر توڑا اسے\nمیں نے جس ڈالی کو تاڑا آشیانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! O despair! The sky broke it down intently; whichever branch I selected for my nest.\n(Under the influence of Greek cosmology the sky was considered to control human destiny throughout the ancient world. In particular it was believed to bring ill luck. Though this belief no longer exists the expression still continues in Urdu and Persian literature.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آنکھ مل جاتی ہے ہفتاد و دو ملت سے تری\nایک پیمانہ ترا سارے زمانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are contending with the seventy two nations; one goblet of yours suits the whole world best.*\n*Allusion to the Hadith of the Holy Prophet S.A.W. that the Muslim Ummah would be divided into seventy two sects. However, this verse reminds Muslims that the Holy Qur’an has been sent down to guide the entire world and unite the whole mankind into a super national society and State. So the Muslims, who are its first recipients and custodians, should keep their own brotherhood intact instead of being divided into seventy-two mutually contending sects.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل میں کوئی اس طرح کی آرزو پیدا کروں\nلوٹ جائے آسماں میرے مٹانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I should create some such longing in my heart; so the sky may turn around to annihilate me best.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جمع کر خرمن تو پہلے دانہ دانہ چن کے تو\nآ ہی نکلے گی کوئی بجلی جلانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Collect your harvest first by picking it grain by grain; some thunderbolt will surely come out to annihilate it. \n(Verses 4 and 5 mean that the highest felicity for a Lover of God is to sacrifice all his hard-earned worldly possessions in His cause.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پاس تھا ناکامی صیاد کا اے ہم صفیر\nورنہ میں، اور اڑ کے آتا ایک دانے کے لیے!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم صفير: ہم آواز ، ہم نوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I had regard for the failure of the hunter, O friend; otherwise, why could I come over flying for one grain?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اس چمن میں مرغ دل گائے نہ آزادی کا گیت\nآہ یہ گلشن نہیں ایسے ترانے کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart should not sing freedom's song in this garden. Ah! This garden is not suitable for such odes!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

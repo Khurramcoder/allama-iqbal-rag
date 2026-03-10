@@ -1,0 +1,153 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا کہ ساقی گلچہرہ دست بر چنگ است\nچمن ز باد بہاران جواب ارژنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آ کہ ساقی گل چہرہ نے ساز پر ہاتھ رکھا ہے، باد بہار کے سبب مصوّر ما فی کے نقوش کا جواب بنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, for a saki with a rose-like face is playing on a lute. The air of spring has made the garden look as if it were a painting from Arzhang.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حنا ز خون دل نو بھار می بندد\nعروس لالہ چہ اندازہ تشنہ رنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ کی دلہن کس قدر تشنہ رنگ ہے، کہ وہ بہار کے دل کے خون کو حنا بناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip-bride has used for henna the beart’s blood of the spring. How greedily, how lustily, she hankers after colour!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ میرسد از نغمۂ دل افروزی\nبہ معنیی کہ برو جامۂ سخن تنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساقی کے دل افروز نغموں سے نظر وہ معنی پا لیتی ہے ، جو الفاظ میں بیان نہیں ہو سکتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye can grasp, with the aid of a hearty song, a meaning that is too big for the garment of mere words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ چشم عشق نگر تا سراغ او گیری\nجہان بچشم خرد سیمیا و نیرنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی آنکھ سے دیکھ تا کہ تو جہان کا سراغ پا سکے، عقل کی نظر میں تو یہ محض سحر و ساحری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look with the eyes of Love so that you find some trace of Him. To reason’s eye the world is nothing but illusion and deceit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز عشق درس عمل گیر و ہر چہ خواہی کن\nکہ عشق جوہر ہوش است و جان فرہنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق سے عمل کا سبق لے اور جو چاہے کر ، کہ عشق ہی سمجھ کا جوہر ہے اور عقل کی جان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Love learn how to act, and then do what you like; for Love is the quintessence of sagacity and sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بلند تر ز سپہر است منزل من و تو\nبراہ قافلہ خورشید میل فرسنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری اور تمہاری منزل آسمان سے زیادہ بلند ہے، ہمارے قافلے کی راہ میں سورج سنگ میل کی حیثیّت رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your final goal and mine are higher than the heavens. The sun is but a milestone on the highway of our caravan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ز خود گذشتہ ئی اے قطرہ محال اندیش\nشدن بہ بحر و گہر برنخاستن ننگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مشکل پرست قطرے تو اپنے آپ کو بھول چکا ہے، ورنہ بحر میں ہونا اور گوہر بن کے نہ نکلنا باعث شرم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have surpassed yourself, O water-drop. It were a great shame to get to the sea, and then not come up as a pearl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تو قدر خویش ندانی بھا ز تو گیرد\nوگرنہ لعل درخشندہ پارہ سنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اپنی قدر نہیں جانتا، لعل درخشاں بھی تجھ سے قیمت پاتا ہے، (اگر تو اسے قیمتی نہ سمجھے تو) وہ محض ایک پتھر کا ٹکڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You do not know your worth. The shining ruby is a mere stone: it acquires its preciousness from you.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

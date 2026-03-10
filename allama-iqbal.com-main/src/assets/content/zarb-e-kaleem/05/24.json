@@ -1,0 +1,84 @@
+{
+  "id": "24",
+  "name": "لادین سیاست",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جو بات حق ہو، وہ مجھ سے چھپی نہیں رہتی \nخدا نے مجھ کو دیا ہے دل خبیر و بصیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خبير و بصير : جاننے اور دیکھنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No truth from me can hide at all its face; God gave me heart awake and wise, through.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مری نگاہ میں ہے یہ سیاست لا دیں \nکنیز اہرمن و دوں نہاد و مردہ ضمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوں نہاد: کم اصل۔\nکنیز اہرمن : شیطان کی لونڈی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my view statesmanship cut off from creed, is Satan's slave, has no qualms, but low breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہوئی ہے ترک کلیسا سے حاکمی آزاد \nفرنگیوں کی سیاست ہے دیو بے زنجیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By quitting Church, Europe has freedom gained, this statesmanship is, like a giant unchained.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "متاع غیر پہ ہوتی ہے جب نظر اس کی \nتو ہیں ہراول لشکر کلیسیا کے سفیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When their eyes on some weak domain alight, their Priests as vanguard act to wage the fight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Secular Politics",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

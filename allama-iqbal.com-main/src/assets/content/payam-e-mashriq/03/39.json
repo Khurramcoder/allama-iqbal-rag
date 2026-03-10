@@ -1,0 +1,136 @@
+{
+  "id": "39",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عرب از سر شک خونم ہمہ لالہ زار بادا\nعجم رمیدہ بو را نفسم بھار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدا کرے کہ سارے کا سارا عرب میرے خون ملے آنسوؤں سے لالہ زار ہو جائے ، اور عجم کے لیے، جو اپنی خوشبو کھو چکا ہے میری نوا (نئی) بہار ثابت ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O may Arabia become a tulip-field, thanks to my tears of blood. May Ajam, which has lost its fragrance, find a new spring in my breath!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تپش است زندگانی تپش است جاودانی\nہمہ ذرہ ہای خاکم دل بیقرار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تپش ہی زندگانی ہے ، تپش ہی جاودانی ہے، خدا کرے کہ میرے بدن کا ہر ذرہ دل بیقرار بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is all restlessness, and restlessness eternal. May every atom of my dust become a restless heart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ بجادہ ئی قرارش نہ بمنزلی مقامش\nدل من مسافر من کہ خداش یار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اسے کسی راستے میں قرار آتا ہے، نہ یہ کسی منزل پر ٹھہرتا ہے، میرا دل ، میرا مسافر، خدا اس کا مدد گار ہو!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It does not stick to any path; it knows no halting-place. Such is my heart, my traveler. May God be with it always!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حذر از خرد کہ بندد ہمہ نقش نامرادی\nدل ما برد بہ سازی کہ گسستہ تار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس خرد سے بچ جو مایوسی کا نقش بناتی ہے، اور اپنے ساز سے جس کے تار ٹوٹے ہوئے ہیں ، ہمارا دل لبھا لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beware of reason, which creates mere images of hopelessness. It charms us with false instruments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو جوان خام سوزی، سخنم تمام سوزی\nغزلی کہ می سرایم بہ تو سازگار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ایسا جوان ہے جس کا سوز خام ہے اور میرا سخن سر تا پا سوز ہے، خدا کرے کہ جو غزل میں گا رہا ہوں وہ تیرے لیے سازگار ثابت ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May their strings snap; you are a youth as yet half-baked, and my verse is all heat. O may the ghazals I sing prove agreeable to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چو بجان من در آئی دگر آرزو نبینی\nمگر اینکہ شبنم تو یم بے کنار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو میرے دل میں آئے تو یہاں کوئی آرزو نہ دیکھے گا، مگر یہ کہ تیری (محبت کی) شبنم لامحدود سمندر بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my heart, if you enter it, you will find no desire but that the dew that is you may become a boundless sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نشود نصیب جانت کہ دمی قرار گیرد\nتب و تاب زندگانی بہ تو آشکار بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدا کرے تیری جان کو ایک لمحہ کا قرار نصیب نہ ہو، اور تو زندگی کی تب و تاب سے آشنا ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May it not be your spirit’s fate that it should find a moment’s rest! O may the restlessness of life be evidenced to you.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

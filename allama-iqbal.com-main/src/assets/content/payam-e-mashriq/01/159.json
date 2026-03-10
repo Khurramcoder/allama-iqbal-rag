@@ -1,0 +1,34 @@
+{
+  "id": "159",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بساطم خالی از مرغ کباب است\nنہ در جامم می آئینہ تاب است\nغزال من خورد برگ گیاہی\nولی خون دل او مشک ناب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دستر خوان مرغ کے کباب سے خالی ہے؛ میرے جام میں قیمتی شراب بھی نہیں۔ \nمیرا غزال گھاس کے پتے کھاتا ہے؛ مگر اس کے دل کا خون مشک نافہ کے خون کی مانند (خوشبودار ) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no roasted fowl on which to sup; no mirror-shining wine is in my cup; \nUpon green grasses grazes my gazelle, yet fragrant musk filleth his heartblood up.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

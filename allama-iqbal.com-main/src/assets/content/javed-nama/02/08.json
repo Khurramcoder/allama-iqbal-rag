@@ -1,0 +1,535 @@
+{
+  "id": "08",
+  "name": "طاسین زرتشت آزمایش کردن اہرمن زرتشت را",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "name-ur": "اہریمن (شیطان) کا زرتشت کی آزمائش کرنا۔",
+  "name-en": "TASIN OF ZOROASTER: Ahriman Tempts Zoroaster",
+  "Para": [
+    {
+      "name": "اہریمن",
+      "name-en": "Ahriman",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از تو مخلوقات من نالان چو نے\nاز تو ما را فرودین مانند دی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری وجہ سے میری مخلوقات بانسری کی طرح نالاں ہے؛ تیری وجہ سے باہر خزاں کی صورت اختیار کر چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of you my creatures complain like a reed-pipe, because of you our April has become like December;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در جہان خوار و زبونم کردہ ئے\nنقش خود رنگین ز خونم کردہ ئے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے مجھے دنیا میں ذلیل کر دیا ہے؛ تو نے میرے خون سے اپنی تصویر کو رنگیں بنایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have made me humbled and dishonoured in the world, you have stained your image with my blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زندہ حق از جلوۂ سینای تست\nمرگ من اندر ید بیضای تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کا تصوّر تیرے جلوہء سینا کی وجہ سے زندہ ہے ؛ تیرے یدبیضا کے اندر میری موت پنہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Truth lives through the epiphany of your Sinai, death for me dwells within your White Hand.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تکیہ بر میثاق یزدان ابلہی است\nبر مرادش راہ رفتن گمرہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یزداں کے وعدے پر اعتماد کرنا حماقت ہے؛ اس کی رضا کے مطابق زندگی بسر کرنا گمراہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is folly to rely on a covenant with God, to travel the road to His desire is to lose the way;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زھرہا در بادۂ گلفام اوست\nارہ و کرم و صلیب انعام اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے بادہء گلفام کے اندر زہر بھرے ہیں؛ اس کے انعامات آرہ، کیڑے اور صلیب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poisons lurk within His rose-tinted wine. saw, worm and cross-these are His gifts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جز دعاہا نوح تدبیری نداشت\nحرف آن بیچارہ تأثیری نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوائے دعاؤں کے نوح ‏ (علیہ) اور کوئی تدبیر نہ رکھتا تھا؛ اس بیچارے کی زبان میں کوئی تاثیر نہ تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Noah had no other resource but prayer, but the words of that hapless man were of no avail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شہر را بگذار و در غاری نشین\nہم بہ خیل نوریان صحبت گزین",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہر کو چھوڑ اور کسی غار میں بیٹھ کر نوریوں کی صحبت اختیار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So abandon the city and hide yourself in a cave, choose the company of the cavalcade of the creatures of light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از نگاہی کیمیا کن خاک را\nاز مناجاتی بسوز افلاک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی نگاہ سے خاک کو کیمیا بنا؛ اپنی مناجات سے آسمانوں کو جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With one glance make the dust a philosopher’s stone, set fire to the heavens with a single prayer;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "در کہستان چون کلیم آوارہ شو\nنیم سوز آتش نظارہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کلیم (علیہ) کی مانند پہاڑوں میں آوارہ پھر اور نظارہء جمال کی آتش سے نیم سوز رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become a wanderer in the mountains like Moses, be half-consumed in the fire of vision;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "لیکن از پیغمبری باید گذشت\nاز چنین ملا گری باید گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر یہ پیغمبری اور اس قسم کی ملّا گری چھوڑ دینی چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But you must certainly give up prophecy, you must give up all such mullah-mongery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "کس میان ناکسان ناکس شود\nفطرتش گر شعلہ باشد خس شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناقصوں کے درمیان رہ کر انسان بھی ناقص ہو جاتا ہے؛ اس کی فطرت اگر شعلہ بھی ہو تو خس و خاشاک ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By associating with nobodies, a somebody becomes a nobody, though his nature be a flame, be becomes a chip of wood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تا نبوت از ولایت کمتر است\nعشق را پیغمبری درد سر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ نبوّت ولایت سے کم تر ہے (یہ شیطان کا فلسفہ ہے) اس لیے پیغمبری عشق کے لیے درد سر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as prophethood is inferior to sainthood prophecy is a veritable vexation to love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خیز و در کاشانۂ وحدت نشین\nترک جلوت گوی و در خلوت نشین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور کاشانہ ء وحدت میں جا بیٹھ ؛ جلوت ترک کر اور خلوت نشین ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now rise, and nestle in the nest of Unity, abandon manifestation and sit in retirement!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "زرتشت",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "نور دریای است ظلمت ساحلش\nہمچو من سیلی نزاد اندر دلش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نور دریا ہے اور ظلمت اس کا ساحل ؛ اس دریا کے دل کے اندر مجھ جیسا کوئی سیلاب پیدا نہیں ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "اندرونم موجہای بیقرار\nسیل را جز غارت ساحل چہ کار",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر بے قرار موجیں ہیں؛ سیلاب کر ساحل کی تباہی کے علاوہ اور کیا کام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My breast is swarming with restless waves; what should the torrent do but devastate the shore?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "نقش بیرنگی کہ او را کس ندید\nجز بخون اھرمن نتوان کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بے رنگ نقش ہے کسی نے نہیں دیکھا؛ اہرمن کے خون ہی سے بنایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The colourless picture, which no man has ever seen, cannot be painted save with the blood of Ahriman.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "خویشتن را وانمودن زندگی است\nضرب خود را آزمودن زندگیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی قوتوں کا اظہار اور اپنی ضرب سے آزمانا ہی زندگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Self-display-that is the very secret of life, life is to test out one’s own striking-power.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "از بلا ہا پختہ تر گردد خودی\nتا خدا را پردہ در گردد خودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی مصائب ہی سے پختہ تر ہوتی ہے؛ یہاں تک کہ وہ اللہ تعالے کے رخ سے پردے ہٹا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Self becomes more mature through suffering until the Self rends the veils that cover God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "مرد حق بین جز بحق خود را ندید\nلاالہ می گفت و در خون می تپید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حق بین اپنے آپ کو احکام الہی ہی سے جانچتا ہے؛ لاالہ کہتا ہے اور اللہ تعالے کی راہ میں خون میں تڑپتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The God-seeing man sees himself only through God; crying ‘One God’, he quivers in his own blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "عشق را در خون تپیدن آبروست\nارہ و چوب و رسن عیدین اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خون میں تڑپنے ہی سے عشق کی آبرو ہے؛ آرہ اور دار و رسن اس کی عیدیں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To quiver in blood is a great honour for love, saw, stave and halter-these are love’s festival",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در رہ حق ہر چہ پیش آید نکوست\nمرحبا نامہربانیہای دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کی راہ میں جو بھی پیش آئے خوب ہے؛ دوست کی نامہربانیاں بھی مبارک ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon the road of love, whatever betides is good; then welcome to the unloving kindnesses of the Beloved!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "جلوۂ حق چشم من تنہا نخواست\nحسن را بے انجمن دیدن خطاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آنکھ اکیلی جلوہء حق کو نہیں دیکھنا چاہتی؛ حسن کو انجمن کے بغیر دیکھنا غلطی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not my eye only desired the manifestation of God; it is a sin to behold beauty without a company.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "چیست خلوت درد و سوز و آرزوست\nانجمن دید است و خلوت جستجو است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت کیا ہے؟ درد و سوز و آرزو؛ خلوت (حسن مطلق کی) جستجو ہے، اور جلوت (اس کا) دیدار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is solitude? Pain, burning and yearning; company is vision, solitude is a search",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "عشق در خلوت کلیم اللہی است\nچون بجلوت می خرامد شاہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق خلوت میں ہو تو وہ کلیم اللہ، جب وہ جلوت میں آتا ہے تو پادشاہت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love in solitude is colloquy with God; when love marches forth in display, that is to be a king!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "خلوت و جلوت کمال سوز و ساز\nہر دو حالات و مقامات نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت و جلوت دونوں سوز و ساز کا کمال ہیں؛ دونوں نیاز کے احوال (کیفیت و ) مقامات ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Solitude and manifestation are the perfection of ardour, both alike are states and stations of indigence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "چیست آن بگذشتن از دیر و کنشت\nچیست این تنہا نرفتن در بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت کیا ہے؟ دیر و کنشت سے گذر جانا۔جلوت کیا ہے؟ بہشت میں اکیلے نہ جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the former? To desert cloister and church; what is the latter? Not to walk alone in Paradise!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "گرچہ اندر خلوت و جلوت خداست\nخلوت آغازست و جلوت انتہاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اللہ تعالے خلوت اور جلوت دونوں میں ہیں؛ مگر خلوت آغاز ہے؛ اور جلوت انتہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though God dwells in solitude and manifestation, solitude is the beginning, manifestation the end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "گفتہ ئی پیغمبری درد سر است\nعشق چون کامل شود آدم گر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا کہا؟ کہ پیغمبری درد سر ہے ؛ عشق جب کامل ہوتا ہے، تو شخصیت ساز بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have said that prophecy is a vexation when love becomes perfect, it fashions men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "راہ حق با کاروان رفتن خوش است\nہمچو جان اندر جہان رفتن خوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کی راہ میں کارواں کے ساتھ چلنا اور جہان کے اندر جان جہان بن کے رہنا کتنا خوش آئیند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is delightful to go on God’s road by caravan, it is delightful to go in the world free as the soul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ]
+}

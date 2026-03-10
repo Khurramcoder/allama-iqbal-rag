@@ -1,0 +1,307 @@
+{
+  "id": "01",
+  "name": "رواح رذیلہ کہ با ملک و ملت غداری کردہ و دوزح ایشان را قبول نکردہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "07",
+  "sectionName": "فلک زحل",
+  "name-en": "The Sphere Of Saturn: The vile spirits which have betrayed the nation and have been rejected by Hell",
+  "name-ur": "ارواح رذیلہ جنہوں نے ملک و ملت سے غداری کی اور انہیں دوزح نے بھی قبول نہ کیا۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پیر رومی آن امام راستان\nآشنای ہر مقام راستان",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر رومی راس شعار لوگوں کے امام اور ان کے ہر مقام سے آگاہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sage of Rum, leader of the righteous, familiar with all the stages of the righteous;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفت اے گردون نورد سخت کوش\nدیدہ ئی آن عالم زنار پوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے مجھ سے کہا 'اے آسمانوں کی سیر کرنے والے سخت جان مسافر کیا تو وہ عالم زنّار پوش دیکھ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spoke: ‘Hard-toiling traveller of the heavens, do you see yonder world that wears a girdle?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آنچہ بر گرد کمر پیچیدہ است\nاز دم استارہ ئی دزدیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنی کمر کے گرد ایک چوری کیے ہوئے ستارے کی دم لپیٹ رکھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That which it has twisted around its waist it stole from the tail of a star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از گران سیری خرام او سکون\nہر نکو از حکم او زشت و زبون",
+              "lang": "Original"
+            },
+            {
+              "_content": "سست رفتاری کی وجہ سے اس کا چلنا بھی سکون نظر آتا ہے ؛ اس کی نسبت سے ہر اچھی چیز بھی بری ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So heavy of pace it is, its motion seems stationary; under its rule, every good is turned to evil and base.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیکر او گرچہ از آب و گل است\nبر زمینش پا نہادن مشکل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اس جہان کا پیکر پانی اور مٹی سے ہے مگر اس کی زمین پر پا ؤں رکھنا مشکل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though its form is fashioned of water and clay it is difficult to set foot on its soil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "صد ہزار افرشتۂ تندر بدست\nقہر حق را قاسم از روز الست",
+              "lang": "Original"
+            },
+            {
+              "_content": "روز الست سے کئی ہزار فرشتے جن کے ہاتھوں میں برق کے کوڑے ہیں وہاں حق تعالے کا قہر نازل کر رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A myriad angels, thunder in hand, dispensing God’s wrath since the Day of Alast;\nد",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "درہ پیھم می زند سیارہ را\nاز مدارش بر کند سیارہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "برق کا درّہ سیارے پر پیہم پڑتا ہے اور اسے مدار پر سے ہٹا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Continually castigate the planet and dislodge it from its pivot.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عالمے مطرود و مردود سپہر\nصبح او مانند شام از بخل مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان آسمان کا رد کیا ہوا تھا ؛ سورج نہ ہونے کے باعث وہاں کی صبح بھی شام کی مانند تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A world rejected and repelled by heaven; Its morn is as evening, the sun is so grudging.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "منزل ارواح بے یوم النشور\nدوزخ از احراقشان آمد نفور",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ان ارواح کی منزل تھی ان کے لیے کوئی روز قیامت نہیں ، جنہیں جلانے سے دوزح بھی متنفر تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the lodging-place of spirits that shall know no resurrection; which Hell itself shrank from burning:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اندرون او دو طاغوت کہن\nروح قومی کشتہ از بہر دو تن",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں دو پرانے طاغوت تھے جنہوں نے اپنے بدنوں کی خاطر قوم کی روح قتل کر دی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Therein live two ancient demons who slew a people’s soul to save their skins,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "جعفر از بنگال و صادق از دکن\nننگ آدم، ننگ دین، ننگ وطن",
+              "lang": "Original"
+            },
+            {
+              "_content": "بنگال کا جعفر اور دکن کا صادق جو انسانیت، مذہب اور وطن سب کے لیے باعث ننگ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Jaafar of Bengal and Sadiq of Deccan, shame to mankind, religion and fatherland,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "نا قبول و ناامید و نامراد\nملتے از کارشان اندر فساد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دونوں مردود، نا امید اور نا کام رہے؛ مگر ان کی غداری سے پوری قوم فساد کی نظر ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unaccepted, despairing, undesired, a nation ruined by their handiwork.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ملتے کو بند ہر ملت گشاد\nملک و دینش از مقام خود فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ملت اسلامیہ جس نے ہر ملت کی غلامی کے بند کھولے تھے اس کی سلطنت اور اس کا دین اپنے بلند مقام سے نیچے گر گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation, which had loosed the bonds of every nation, thus lost its high sovereignty and its faith.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "می ندانے خطۂ ہندوستان\nآن عزیز خاطر صاحبدلان",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نہیں جانتا کہ خطّہء ہند میں جو صاحب دلوں کا محبوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you not know that the land of India, dear to the heart of every sensitive soul,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "خطہ اے ہر جلوہ اش گیتی فروز\nدر میان خاک و خون غلطد ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کا ہر جلوہ زمانے کو روشن کرنے والا ہے جو اب خاک و خون میں لتھڑا پڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A land whose every manifestation lit up the world, now grovels amid dust and blood?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در گلش تخم غلامی را کہ کشت\nاین ہمہ کردار آن ارواح زشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مٹی میں کس نے غلامی کا بیج بویا؟ یہ سارا کام انہی ارواح خبیثہ کا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who sowed in its soil the seed of slavery? All this is the handiwork of those evil spirits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در فضای نیلگون یکدم بایست\nتا مکافات عمل بینی کہ چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فضا میں ایک لمحے کے لیے رک جا تاکہ تو دیکھ لے کہ مکافات عمل کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pause a moment in the azure expanse that you may see the retribution for their deeds.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

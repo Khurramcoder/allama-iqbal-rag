@@ -1,0 +1,34 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ باغان باد فروردین دہد عشق\nبہ راغان غنچہ چون پروین دہد عشق\nشعاع مہر او قلزم شکاف است\nبہ ماھے دیدۂ رہ بین دہد عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق باغوں کو باد بہاری عطا کرتا ہے؛ اور گلشنوں میں ستاروں کی مانند سفید غنچے پیدا کرتا ہے ۔\nآفتاب عشق کی شعاع سمندر چیر جاتی ہے؛ وہ (اس کی تہ میں ) مچھلی کو دیدہء راہ بیں عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love gives the garden the soft breeze of May, Love lights the star-buds in the meadow gay. \nThe ray of passion plunges through the deep, Love gives the fishes sight to see the way.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "03",
+  "name": "اقوام مشرق",
+  "name-en": "Nations of the East",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نظر آتے نہیں بے پردہ حقائق ان کو \nآنکھ جن کی ہوئی محکومی و تقلید سے کور \nزندہ کر سکتی ہے ایران و عرب کو کیونکر \nیہ فرنگی مدنےت کہ جو ہے خود لب گور!",
+              "lang": "Original"
+            },
+            {
+              "_content": "لب گور: قبر کے کنارے۔ قریب المرگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those men, who lose their eyes through bondage and sheepish bent, can't see the facts of life though veil from truths be rent.\nHow can the cult of Franks revive the Muslim lands? It is on verge of wreck is based on tottering sands.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

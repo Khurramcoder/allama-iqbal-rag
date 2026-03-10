@@ -1,0 +1,145 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2b",
+  "sectionName": "غزلیات 2",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چمک تیری عیاں بجلی میں، آتش میں، شرارے میں \nجھلک تیری ہویدا چاند میں،سورج میں، تارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy splendor is manifest in thunder, in fire, in spark. Thy luster is evident in the moon, in the sun, in the star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بلندی آسمانوں میں، زمینوں میں تری پستی \nروانی بحر میں، افتادگی تیری کنارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy elegance exists in skies' heights, and in earths' depths; It is in the ocean's flow, and in falling behind of the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شریعت کیوں گریباں گیر ہو ذوق تکلم کی\nچھپا جاتا ہوں اپنے دل کا مطلب استعارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should Shariah be the accuser of the eloquence' taste? I only conceal the meaning of my heart in metaphors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جو ہے بیدار انساں میں وہ گہری نیند سوتا ہے \nشجر میں، پھول میں، حیواں میں، پتھر میں، ستارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The real life in Man is pervading in everything: It is in tree, in flower, in animal, in stone, in star.\n(Real Life: Means the Love of God and the Longing to see and know Him.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مجھے پھونکا ہے سوز قطرہء اشک محبت نے \nغضب کی آگ تھی پانی کے چھوٹے سے شرارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heat of the drop of Love's tear has consumed me: Boundless fire existed in this little drop of water.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہیں جنس ثواب آخرت کی آرزو مجھ کو \nوہ سوداگر ہوں، میں نے نفع دیکھا ہے خسارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no longing in me for reward of the Judgment Day; I am the merchant who sees profit in the loss.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "سکوں نا آشنا رہنا اسے سامان ہستی ہے \nتڑپ کس دل کی یا رب چھپ کے آ بیٹھی ہے پارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being unaware of tranquillity is existence for it O God! Restlessness of which heart is residing in mercury?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "صدائے لن ترانی سن کے اے اقبال میں چپ ہوں \nتقاضوں کی کہاں طاقت ہے مجھ فرقت کے مارے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal I am silent after hearing the call of ‘Lan Tarani’. Being afflicted with separation I have no strength for importunity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

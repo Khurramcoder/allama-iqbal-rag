@@ -1,0 +1,318 @@
+{
+  "id": "40",
+  "name": "جگنو",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جگنو کی روشنی ہے کاشانہء چمن میں\nیا شمع جل رہی ہے پھولوں کی انجمن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire-fly's light is shining in the garden's abode; or a candle is lighted in the assembly of flowers?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آیا ہے آسماں سے اڑ کر کوئی ستارہ\nیا جان پڑ گئی ہے مہتاب کی کرن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has some star flown down from the sky? Or has a moon's ray been brought to life?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یا شب کی سلطنت میں دن کا سفیر آیا\nغربت میں آ کے چمکا، گمنام تھا وطن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or the emissary of the day has come to the night's kingdom? Has become prosperous in foreign land was unknown in homeland?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تکمہ کوئی گرا ہے مہتاب کی قبا کا\nذرہ ہے یا نمایاں سورج کے پیرہن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has some button fallen from the cloak of the moon? Or some speck has become prominent in the sun's shirt?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حسن قدیم کی یہ پوشیدہ اک جھلک تھی\nلے آئی جس کو قدرت خلوت سے انجمن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Was it the concealed glimpse of the Eternal Beauty, which was brought by Nature out of solitude into the assembly?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چھوٹے سے چاند میں ہے ظلمت بھی روشنی بھی\nنکلا کبھی گہن سے، آیا کبھی گہن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Darkness as well as light is in this little moon; now it is out of eclipse, now it is in eclipse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پروانہ اک پتنگا، جگنو بھی اک پتنگا\nوہ روشنی کا طالب، یہ روشنی سراپا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moth is an insect, as the fire-fly is an insect; the former needs light, the latter is light's embodiment.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہر چیز کو جہاں میں قدرت نے دلبری دی\nپروانے کو تپش دی، جگنو کو روشنی دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature gave beauty to everything in the universe. It gave agitation to moth; it gave light to fire-fly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "رنگیں نوا بنایا مرغان بے زباں کو\nگل کو زبان دے کر تعلیم خامشی دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gave flowery music to the speechless bird. Having given tongue to the rose* taught it to be silent.\n* This is a beautiful metaphor for the petals of the rose flower.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نظارئہ شفق کی خوبی زوال میں تھی\nچمکا کے اس پری کو تھوڑی سی زندگی دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beauty of twilight's spectacle was decaying; brightening up this fairy, a short life it gave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "رنگیں کیا سحر کو، بانکی دلھن کی صورت\nپہنا کے لال جوڑا شبنم کی آرسی دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gave colour to the dawn like a beautiful bride; clothing it in red dress gave it the mirror of dew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "سایہ دیا شجر کو، پرواز دی ہوا کو\nپانی کو دی روانی، موجوں کو بے کلی دی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gave shade to the tree, gave flight to the wind. It gave flow to water, gave restlessness to waves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "یہ امتیاز لیکن اک بات ہے ہماری\nجگنو کا دن وہی ہے جو رات ہے ہماری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This distinction but is a way of our thinking; the fire-fly's day is the same as our night.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "حسن ازل کی پیدا ہر چیز میں جھلک ہے\nانساں میں وہ سخن ہے، غنچے میں وہ چٹک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Eternal Beauty's reflection is present in everything. It is speech in man. It is blooming in the flower bud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "یہ چاند آسماں کا شاعر کا دل ہے گویا\nواں چاندنی ہے جو کچھ، یاں درد کی کسک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This moon in the sky is the poet's heart so to say. It is moonlight there what here the prick of pathos is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "انداز گفتگو نے دھوکے دیے ہیں ورنہ\nنغمہ ہے بوئے بلبل، بو پھول کی چہک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The manners of speech have deceived us, otherwise song is nightingale's fragrance; flower's fragrance is its song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "کثرت میں ہو گیا ہے وحدت کا راز مخفی\nجگنو میں جو چمک ہے وہ پھول میں مہک ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Concealed in plurality is the secret of the Unity. What is fire-fly’s brightness is flower’s fragrance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "یہ اختلاف پھر کیوں ہنگاموں کا محل ہو\nہر شے میں جبکہ پنہاں خاموشی ازل ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should this difference be occasion for dissensions? When the Primeval Day’s silence be concealed in everything.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "The Fire-Fly",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,1449 @@
+{
+  "id": "12",
+  "name": "حضور",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرچہ جنت از تجلی ہای اوست\nجان نیاساید بجز دیدار دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ جنت بھی اللہ تعالے کی تجلیات میں سے ایک تجلی ہے؛ مگر محبوب حقیقی کے دیدار کے بغیر جان تسکین نہیں پاتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Paradise is a manifestation of Him the soul reposes not, save in the vision of Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ما ز اصل خویشتن در پردہ ایم\nطائریم و آشیان گم کردہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اپنی اصل سے پردے میں ہیں؛ ہم اس پرندے کی مانند ہیں جو اپنا آشیاں گم کر چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are veiled from our Origin; we are as birds who have lost our nest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علم اگر کج فطرت و بد گوہر است\nپیش چشم ما حجاب اکبر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر علم کج فطرت اور بد اصل ہو تو وہ آنکھوں کے سامنے حجاب اکبر بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If knowledge is perverse and evil of substance it is the greatest curtain before our eyes;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "علم را مقصود اگر باشد نظر\nمی شود ھم جادہ و ہم راہبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن اگر علم سے مقصود نظارہء جمال ہو تو وہ راستہ بھی ہے اور راہبر بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But if the object of knowledge is contemplation it becomes at once the highway and the guide,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "می نہد پیش تو از قشر وجود\nتا تو پرسی چیست راز این نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر وہ تیرے سامنے وجود کا چھلکا رکھتا ہے تاکہ تو دریافت کرے کہ اس نمود کا راز کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Laying bare before you the shell of being that you may ask, ‘What is the secret of this display?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جادہ را ہموار سازد اینچین\nشوق را بیدار سازد اینچنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس طرح وہ علم راستے کو ہموار اور شوق کو بیدار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus it is that knowledge smoothes the road, thus it is that it awakens desire;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "درد و داغ و تاب و تب بخشد ترا\nگریہ ہای نیم شب بخشد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تجھے درد و داغ، تاب و تب اور گریہء نیم شب عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives you pain and anguish, fire and fever, it gives you mid-night lamentations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "علم تفسیر جہان رنگ و بو\nدیدہ و دل پرورش گیرد ازو",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جس جہان رنگ و بو کی ایسی تفسیر پیش کرتا ہے جس سے دیدہ و دل کی پرورش ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the science of the interpretation of the world of colour and scent your eyes and your heart derive nourishment;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بر مقام جذب و شوق آرد ترا\nباز چون جبریل بگذارد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جبریل امین (علیہ) کی طرح تجھے مقام جذب و شوق (مقام عشق) پر لا کر چھوڑ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It brings you to the stage of ecstasy and yearning and then suffers you like Gabriel to stand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "عشق کس را کی بخلوت می برد\nاو ز چشم خویش غیرت می برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کسی کو اپنے ساتھ خلوت میں کیسے لے سکتا ہے ؛ اس کی غیرت تو اپنی نظر کو بھی برداشت نہیں کرتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How shall love bring any soul to the Solitude, seeing love is jealous of its own eyes?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اول او ہم رفیق و ہم طریق\nآخر او راہ رفتن بے رفیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابتدا ء عشق میں رفیق بھی ہے اور طریق بھی مگر اس کا آخر بغیر رفیق کے راہ طے کرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its beginning is the road and the companion, its end, travelling the road without companion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در گذشتم زان ہمہ حور و قصور\nزورق جان باختم در بحر نور",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں حور و قصور سے آگے بڑھ گیا؛ اور میں نے کشتی ء جان کو بحر نور میں ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I passed on from all the houris and places and hazarded the soul’s skiff on the sea of light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "غرق بودم در تماشای جمال\nہر زمان در انقلاب و لایزال",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جمال ذات کے نظارے میں غرق ہو گیا؛ وہ جمال لا یزال ہر لمحے نئے رنگ میں جلوہ گر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was drowned in the contemplation of Beauty, which is constantly in eternal revolution;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "گم شدم اندر ضمیر کائنات\nچون رباب آمد بچشم من حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ضمیر کائنات کے اندر گم ہو گیا؛ میں نے زندگی کو رباب کی مانند دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I became lost in the heart of creation till life appeared to me like a rebeck",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آنکہ ہر تارش رباب دیگری\nہر نوا از دیگرے خونین تری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس رباب کا ہر تار ایک نیا رباب تھا؛ اور اس کی ہر نوا پہلی نوا سے خونیں تر تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose every string was another lute, each melody more blood-drenched than the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ما ہمہ یک دودمان نار و نور\nآدم و مہر و مہ و جبریل و حور",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم ، مہر و ماہ ، جبریل و حور ؛ ہم سب نار و نور کے ایک ہی خاندان سے تعلق رکھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are all one family of fire and light, man, sun and moon, Gabriel and houri.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "پیش جان آئینہ ئی آویختند\nحیرتے را با یقین آمیختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری جان کے سامنے گویا آئینہ لٹکا دیا گیا اور میری حیرت یقین کے ساتھ ملا دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before the soul a mirror has been hung, bewilderment mingled with certainty;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "صبح امروزی کہ نورش ظاہر است\nدر حضورش دوش و فردا حاضر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(میں نے دیکھا) کہ صبح امروز جس کا نور ظاہر ہے اس کے حضور میں ماضی اور مستقبل دونوں حاضر ہیں۔(حضرت مجدد (رضی اللہ) لکھتے ہیں کہ اللہ تعالے کے ہاں وقت ایک بسیط آن واحد ہے، جس میں ماضی و مستقبل حال ہی کی صورت میں ظاہر ہوتے ہیں۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Today’s dawn, whose light is manifest, in His Presence is yesterday and tomorrow ever present.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "حق ہویدا با ہمہ اسرار خویش\nبا نگاہ من کند دیدار خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے اپنے سارے اسرار کے ساتھ ظاہر تھے؛ بلکہ وہ میری نگاہ سے اپنا دیدار کر رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God revealed in all His mysteries, with my eyes makes vision of Himself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "دیدنش افزودن بے کاستن\nدیدنش از قبر تن برخاستن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کے دیدار سے وہ افزودنی ملتی ہے جس میں کمی کا احتمال نہیں؛ ان کے نظارہء جمال سے بندہ تن کی قبر سے دوبارہ زندہ ہو کر اٹھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To see Him is to wax ever without waning, to see Him is to rise from the body’s tomb;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "عبد و مولا در کمین یکدگر\nہر دو بیتاب اند از ذوق نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندہ و آقا دونوں ایک دوسرے کی جستجو میں ہیں؛ دونوں ذوق نظر کے سبب بے تاب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Servant and Master lying in wait on one another, each impatiently yearning to behold the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "زندگی ہر جا کہ باشد جستجوست\nحل نشد این نکتہ من صیدم کہ اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی جہان بھی ہے جستجو سے عبارت ہے؛ یہ نکتہ حل نہیں ہوتا کہ میں شکار (مطلوب) ہوں یا وہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life, wherever it may be, is a restless search; unresolved is this riddle-am I the quarry, or is He?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "عشق جان را لذت دیدار داد\nبا زبانم جرأت گفتار داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے میری جان کو لذت دیدار بخشی اور میری زبان کو جرات گفتار۔(میں نے حق تعالے کی جناب میں عرض کیا۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love gave my soul the delight of beholding, gave my tongue the boldness to speak:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "اے دو عالم از تو با نور و نظر\nاندکے آن خاکدانی را نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "'اے وہ ذات جس نے دونوں جہانوں کو نور اور نگاہ سے نوازا ہے! ذرا اس دنیا پر نظر ڈالئیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou who givest light and vision to both worlds, look a little while on yonder ball of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "بندۂ آزاد را ناسازگار\nبر دمد از سنبل او نیش خار",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بندہء آزاد کے لیے ناسازگار ہے ؛ اس کے گل سنبل سے کانٹے کا زخم پیدا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Uncongenial to the free servitor, from its hyacinths springs the sting of thorns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "غالبان غرق اند در عیش و طرب\nکار مغلوبان شمار روز و شب",
+              "lang": "Original"
+            },
+            {
+              "_content": "چیرہ دست عیش و طرب میں غرق ہیں ؛ کمزور گن گن کے دن گذارتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The victors are drowned in pleasure and enjoyment, the vanquished have only to count the days and nights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "از ملوکیت جہان تو خراب\nتیرہ شب در آستین آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہت نے آپ کی دنیا کو خراب کر ڈالا ہے (اس کے) آفتاب کی آستین میں تاریک رات چھپی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy world has been wasted by imperialism, dark night ravelled in the sleeve of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "دانش افرنگیان غارتگری\nدیر ہا خیبر شد از بے حیدری",
+              "lang": "Original"
+            },
+            {
+              "_content": "افرنگیوں کی دانش غارتگری ہے، کوئی حیدر کرار (رضی اللہ) نہ ہونے کے باعث بت کدے ناقابل تسخیر ہو چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The science of Westerners is spoliation; the temples have turned to Khaibar, without a Haidar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آنکہ گوید لاالہ بیچارہ ایست\nفکرش از بے مرکزی آوارہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "لاالہ کہنے والا بے چارگی کا شکار ہے، اس کا فکر مرکز سے لاتعلق ہو جانے کے باعث آوارہ ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who proclaims ‘No god but God’ is helpless; his thought, having no centre, wanders astray,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "چار مرگ اندر پی این دیر میر\nسود خوار و والی و ملا و پیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سخت جان (مسلم) کی گھات میں چار اموات ہیں؛ سود خوری ، حاکم، ملّا اور پیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slowly dying, pursued by four deaths – the usurer, the governor, the mullah, the shaikh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "اینچنین عالم کجا شایان تست\nآب و گل داغی کہ بر دامان تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی دنیا تو آپ کی شان کے شایان نہیں؛ یہ آب و گل کا جہان آپ کے دامن کا داغ بن چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How is such a world worthy of Thee? Water and clay are a stain upon Thy skirt.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
+      "Verse": [
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "کلک حق از نقشہای خوب و زشت\nہر چہ ما را سازگار آمد نوشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوب و زشت کے نقوش میں سے جو ہمیں پسند آیا اسے قلم تقدیر نے لکھ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Pen of God such images fair and foul wrote exactly as became each one of us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "چیست بودن دانی اے مرد نجیب؟\nاز جمال ذات حق بردن نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مرد نجیب ! کیا تو جانتا ہے کہ زندہ رہنا کیا ہے؟ (زندگی) حق تعالے کے جمال سے حصّہ پانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Noble sir, do you know what it is, to be? It is to take one’s share of the beauty of God’s Essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "آفریدن جستجوے دلبرے\nوانمودن خویش را بر دیگرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تخلیق؟ دلبر کی جستجو ہے ، یہ اپنے آپ کو دوسروں پر ظاہر کرنا ہے۔(تخلیق انسانی کا مقصد یہ ہے کہ انسان اللہ تعالے کی معرفت حاصل کرے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Creating? It is to search for a beloved, to display one’s self to another being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "اینہمہ ہنگامہ ہای ہست و بود\nبے جمال ما نیاید در وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہست و بود کا یہ سارا ہنگامہ ہمارے جمال کے بغیر وجود میں نہیں آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All these tumultuous riots of being without our beauty could not come to exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "زندگی ہم فانی و ہم باقی است\nاین ہمہ خلاقی و مشتاقی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی فانی بھی ہے اور باقی (غیر فانی) بھی؛ یہ سر تا پا خلّاقی اور مشتاقی (تخلیق اور عشق) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is both transient and everlasting; all this is creativity and vehement desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "زندہ ئی؟ مشتاق شو خلاق شو\nہمچو ما گیرندۂ آفاق شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو زندہ ہے ، تو مشتاق اور خلّاق بن اور ہماری طرح آفاق کو اپنے قبضہ میں کر لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you alive? Be vehement, be creative; like Us, embrace all horizons;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "در شکن آنرا کہ ناید سازگار\nاز ضمیر خود دگر عالم بیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو نقش تجھے سازگار نہیں آتا ، اسے توڑ دے ؛ اور اپنے ضمیر کے اندر سے عالم پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Break whatsoever is uncongenial, out of your heart’s heart produce a new world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "بندۂ آزاد را آید گران\nزیستن اندر جھان دیگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوسروں کے جہان میں زندگی بسر کرنا بندہء آزاد پر گراں گزرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is irksome to the free servitor to live in a world belonging to others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "ہر کہ او را قوت تخلیق نیست\nپیش ما جز کافر و زندیق نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے اندر قوّت تخلیق نہیں ؛ ہماری نظر میں وہ کافر و زندیق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoever possesses not the power to create in Our sight is naught but an infidel, a heathen;",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "ق",
+      "Verse": [
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "از جمال ما نصیب خود نبرد\nاز نخیل زندگانے بر نخورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے ہمارے جمال سے حصّہ نہیں پایا ؛ اس نے نخل حیات کا پھل حاصل نہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such a one has not taken his share of Our Beauty, has not tasted the fruit of the Tree of Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "مرد حق برندہ چون شمشیر باش\nخود جہان خویش را تقدیر باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مرد حق! شمشیر کی مانند تیز رہ ؛ اور آپ اپنے جہان کی تقدیر بن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man of God, be trenchant as a sword, be yourself your own world’s destiny!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "چیست آئین جہان رنگ و بو\nجز کہ آب رفتہ می ناید بجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان رنگ و بو (دنیا) کا قانون صرف یہ ہے کہ گزرا ہوا پانی پھر ندی میں واپس نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What law governs the world of colour and scent, but that water once flowed returns not to the stream?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "زندگانے را سر تکرار نیست\nفطرت او خوگر تکرار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ حیات میں تکرار کی خو ہے، نہ شوق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life has no desire for repetition; its nature is not habituated to repetition;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "زیر گردون رجعت او را نارواست\nچون ز پا افتاد قومی برنخاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے نیچے (دنیا میں) حیات کا لوٹ آنا نامناسب ہے؛ جب کوئی قوم گر جاتی ہے ، تو پھر دوبارہ نہیں اٹھتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beneath the sky, reversion is unlawful to life once a people has fallen, it rises not again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "ملتی چون مرد، کم خیزد ز قبر\nچارۂ او چیست غیر از قبر و صبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو قوم مر جاتی ہے ، وہ پھر قبر سے کم ہی اٹھتی ہے ؛ اس کے لیے سوائے قبر و صبر کے اور کوئی چارہ نہیں رہتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a nation dies, it rarely rises from the grave; what recourse has it, but the tomb and resignation?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
+      "Verse": [
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "زندگانی نیست تکرار نفس\nاصل او از حی و قیوم است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی سانس کے آنے جانے کا نام نہیں؛ اس کی اصل خدائے حی و قیوم سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is not a mere repetition of the breath; its origin is from the Living, Eternal God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "قرب جان با آنکہ گفت \"انی قریب\"\nاز حیات جاودان بردن نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے جنہوں نے فرمایا کہ میں قریب ہوں ؛ ان سے قرب حاصل کرنا حیات جاوداں سے حصّہ پانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul near to Him who said ‘Lo, I am nigh’ – that is to take one’s share of everlasting life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "فرد از توحید لاہوتی شود\nملت از توحید جبروتی شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد توحید سے لامکانی ہو جاتا ہے اور ملت توحید سے کائنات پر تسلط حاصل کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The individual through the Unity becomes Divine, the nation through the Unity becomes Omnipotent;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "بایزید و شبلی و بوذر ازوست\nامتان را طغرل و سنجر ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "با یزید ، شبلی، بوذر اور طغرل و سنجر جیسی شخصیتیں اللہ تعالے کے قرب سے بنتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unity produced Ba Yazid, Shibli, Bu Dharr, Unity produced, for the nations, Tughril and Sanjar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "بے تجلی نیست آڈم را ثبات\nجلوۂ ما فرد و ملت را حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان کو ہماری تجلّی کے بغیر ثبات حاصل نہیں ہوتا؛ ہمارا جلوہ ہی فرد و ملت کو حیات بخشتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without the Divine Epiphany man has no permanence; Our Manifestation is life to individual and nation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "ہر دو از توحید می گیرد کمال\nزندگی این را جلال، آنرا جمال",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد و ملت دونوں توحید سے کمال پاتے ہیں؛ فرد کی زندگی جمال ہے اور قوم کی جلال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both attain their perfection through the Unity, life being for the latter Majesty, for the former Beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "این سلیمانی است آن سلمانی است\nآن سراپا فقر و این سلطانی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سلیمانی ہے اور وہ سلمانی، یہ سراپا فقر ہے اور وہ سراپا سلطانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one is of Solomon, the other of Salman, the one perfect poverty, the other all power:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "آن یکی را بیند، این گردد یکی\nدر جہان با آن نشین با این بزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد یکے (اللہ تعالے) کا مشاہدہ کرتا ہے اور ملت یکے (واحد) بن جاتی ہے؛ دنیا میں باکمال فرد کی صحبت اختیار کر اور ملت واحدہ کے ساتھ زندگی بسر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one sees there is One, the other becomes one – while in the world, sit with the former, live with the latter!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "چیست ملت ایکہ گوئی لاالہ\nبا ہزاران چشم بودن یک نگہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے لاالہ کہنے والے کیا تو جانتا ہے کہ منت کیا ہے؟ ملت کا مطلب یہ ہے کہ ہزاروں آنکھوں میں ایک ہی نگاہ پیدا ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the nation, you who declare ‘No god but God’? With thousands of eyes, to be one in vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "اہل حق را حجت و دعوی یکیست\nخیمہ ہای ما جدا دلہا یکی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل حق کی دلیل و دعوی ایک ہے؛ ہمارے خیمے الگ الگ ہیں اور دل اکٹھے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The proof and claim of God’s people are always One: ‘Our tents are apart, our hearts are one.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "ذرہ ہا از یک نگاہ آفتاب\nیک نگہ شو تا شود حق بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرے یک نگاہی سے آفتاب بن جاتے ہیں؛ تو بھی یک نگاہ ہو جا تاکہ حق تعالے کو بے حجاب دیکھ سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oneness of vision converts the motes to the sun; be one of vision, that God may be seen unveiled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "یک نگاہی را بچشم کم مبین\nاز تجلی ہای توحید است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "یک نگاہی کو حقارت کی نظر سے نہ دیکھ؛ یہ بھی توحید کی تجلّیات میں سے ایک تجلّی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not look slightingly on oneness of vision; this is a true epiphany of the Unity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "ملتی چون می شود توحید مست\nقوت و جبروت می آید بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب ملت توحید مست ہو جاتی ہے تو وہ قوّت و جبروت کی مالک ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a nation becomes drunk with the Unity power, yea, omnipotence lies in its grasp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "روح ملت را وجود از انجمن\nروح ملت نیست محتاج بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح ملت کا وجود انجمن سے ہے، وہ بدن کی محتاج نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation’s spirit exists through association; a nation’s spirit has no need of a body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "تا وجودش را نمود از صحبت است\nمرد چون شیرازۂ صحبت شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ املت کا وجود ربط باہم سے ہے اس لیے جب اس کا شیرازہ بکھر جاتا ہے تو وہ مر جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since its being manifests out of companionship, it dies when the bands of companionship are broken.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "مردہ ئی از یک نگاہی زندہ شو\nبگذر از بے مرکزی پایندہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو مردہ ہے تو یک نگاہی سے زندہ ہو جا، بے مرکزی چھوڑ اور پائیندگی پا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you dead? Become living through oneness of vision; cease to be centreless, become stable.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "وحدت افکار و کردار آفرین\nتا شوی اندر جہان صاحب نگین",
+              "lang": "Original"
+            },
+            {
+              "_content": "وحدت افکار و کردار پیدا کر تاکہ تو جہان میں فرماں روائی پا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Create unity of thought and action, that you may possess authority in the world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "من کیم تو کیستی عالم کجاست\nدر میان ما و تو دوری چراست\nمن چرا در بند تقدیرم بگوی\nتو نمیری من چرا میرم بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کون ہوں؟ آپ کی شان کیا ہے؟ کائنات کہاں (واقع ) ہے؟ میرے اور آپ کے درمیان یہ دوری کیوں ہے؟ \nفرمائیے ؟ میں کیوں تقدیر کے بندھن میں گرفتار ہوں؟ میں کیوں مرتا ہوں؟ آپ کیسے حیّ و قیوم ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who am I? Who art Thou? Where is the world? Why is there a distance between me and Thee?\nSay, why am I in the bonds of destiny? Why dost Thou die not, whilst I die?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "ندای جمال",
+      "name-en": "The Voice of Beauty",
+      "Verse": [
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "بودہ ئی اندر جھان چار سو\nہر کہ گنجد اندرو میرد درو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس جہان چار سو میں رہا ہے – جو اس میں سما جاتا ہے ، وہ اس میں مر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have been in the world dimensionate, and any contained therein, therein dies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "زندگی خواہی خودی را پیش کن\nچار سو را غرق اندر خویش کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی چاہتا ہے تو خودی کو مستحکم کر - اور اس جہان چار سو کو اپنے اندر سمیٹ لے۔(کافر کی یہ پہچان کہ آفاق میں گم ہے؛ مومن کی یہ پہچان کہ گم اس میں ہیں آفاق – اقبال)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you seek life, advance your selfhood; drown the world’s dimensions in your self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "باز بینی من کیم تو کیستی\nدر جھان چون مردی و چون زیستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو دیکھ لے گا کہ میں کون ہوں اور تو کیا ہے؛ اور تو دنیا میں کیسے مرتا اور کیسے زندہ رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You shall then behold who am and who you are how you died in the world, and how you lived.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "پوزش این مرد نادان در پذیر\nپردہ را از چہرۂ تقدیر گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مرد ناداں کی معذرت قبول کر؛ تقدیر کے چہرے سے پردہ ہٹا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Accept the excuses of this ignorant man; remove the veil from the face of destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "انقلاب روس و آلمان دیدہ ام\nشور در جان مسلمان دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے روس اور جرمنی کا انقلاب دیکھا ہے؛ مسلمان کے ضمیر میں جو ہنگامہ ہے ، وہ بھی دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen the revolution of Russia and Germany; I have seen the tumult raging in Moslemdom,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "دیدہ ام تدبیر ہای غرب و شرق\nوانما تقدیر ہای غرب و شرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کے مغرب و مشرق کی تدابیر ہیں؛ اب مجھ پر مشرق و مغرب کی تقدیر بھی ظاہر فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen the contrivings of West and East – prevent the destinies of West and East.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "افتادن تجلی جلال",
+      "name-en": "Epiphany of the Divine Majesty",
+      "Verse": [
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "ناگھان دیدم جہان خویش را\nآن زمین و آسمان خویش را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناگہاں میں نے اپنے جہان اور اپنے زمین و آسمان کو دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suddenly I beheld my world, that earth and heaven of mine,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "غرق در نور شفق گون دیدمش\nسرخ مانند طبر خون دیدمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اسے شفق کی مانند سرخ خون میں نہائے اور عناب کی صورت سرخ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw it drowned in a light of dawn; I saw it crimson as a jujube-tree:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "زان تجلی ہا کہ در جانم شکست\nچون کلیم اﷲ فتادم جلوہ مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان تجلّیات کے وفور سے جو میری روح پر گریں ؛ میں کلیم اللہ (علیہ) کی مانند بے ہوش ہو کر گر پڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of the epiphanies which broke in my soul I fell drunk with ecstasy, like Moses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "نور او ھر پردگی را وانمود\nتاب گفتار از زبان من ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان تجلیات کے نور نے ہر پنہاں کو ظاہر کر دیا اور میری زبان میں گفتگو کا یارا نہ رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That light revealed every secret veiled and snatched the power of speech from my tongue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "از ضمیر عالم بے چند و چون\nیک نوای سوزناک آمد برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس عالم لا مکاں سے ایک سوز ناک صدا سنائی دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of the deep heart of the inscrutable world an ardent, flaming melody broke forth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "\"بگذر از خاور و افسونی افرنگ مشو\nکہ نیرزد بجوی اینہمہ دیرینہ و نو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق کو چھوڑ ، نہ مغرب سے مسحور ہو؛ کہ یہ قدیم و جدید دو جو کے برابر بھی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Abandon the East, be not spellbound by the West, for all this ancient and new is not worth one barleycorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "آن نگینے کہ تو با اہرمنان باختہ ئی\nہم بہ جبریل امینی نتوان کرد گرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ نگینہ جو تو نے شیطان کے سامنے ہار دیا؛ اسے تو جبریل امین (علیہ) کے پاس گروی بھی نہیں رکھا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That signet-ring which you gambled away to Ahriman should not be pledged even to trusty Gabriel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "زندگی انجمن آرا و نگھدار خود است\nاے کہ در قافلہ ئی، بے ہمہ شو با ہمہ رو",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی انجمن آرا بھی ہے اور خود نگہدار بھی ؛ اے وہ شخص جو قافلہ میں ہے! سب سے بے نیاز رہ اور سب کے ساتھ چل۔(شمع محفل کی طرح سب سے جدا سب کا رفیق)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life, that ornament of society, is guardian of itself; you who are of the caravan, travel alone, yet go with all!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "تو فروزندہ تر از مہر منیر آمدہ ئی\nآنچنان زی کہ بہر ذرہ رسانی پرتو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو مہر منیر سے زیادہ چمکدار واقع ہوا ہے؛ اس طرح زندگی بسر کر کہ ہر ذرہ تک اپنا پر تو پہنچائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have come forth brighter than the all-illumining sun; so live, that you may irradiate every mote.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "چون پرکاہ کہ در رھگذر باد افتاد\nرفت اسکندر و دارا و قباد و خسرو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پر کاہ کی مانند جو آندھی کے راستہ میں ہو؛ سکندر، دارا، قباد اور خسرو اڑ گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alexander, Darius, Qubad and Khusrau have departed like a blade of grass fallen in the path of the wind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "از تنک جامی تو میکدہ رسوا گردید\nشیشہ ئی گیر و حکیمانہ بیاشام و برو\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری تنک جامی (کم ظرفی) کے باعث مےکدہ رسوا ہو گیا ہے؛ صراحی اٹھا ، ہوشمندی سے پی اور رخصت ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So slender is your cup that the tavern has been put to shame; seize a tumbler, and drink wisely, and so be gone!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 9
+    }
+  ],
+  "name-en": "The Divine Presence"
+}

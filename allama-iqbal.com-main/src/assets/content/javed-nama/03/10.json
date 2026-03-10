@@ -1,0 +1,119 @@
+{
+  "id": "10",
+  "name": "غزل زندہ رود",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "این گل و لالہ تو گوئی کہ مقیم اند ہمہ\nراہ پیما صفت موج نسیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گل و لالہ جن کے متعلق تو کہتا ہے کہ وہ سب مقیم ہیں؛ وہ سارے کے سارے موج نسیم کی مانند سرگرم سفر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You say that these roses and tulips are permanent here; no, they are travellers all, like the waves of the breeze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "معنی تازہ کہ جوئیم و نیابیم کجاست\nمسجد و مکتب و میخانہ عقیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "نئے معنی جو ہم ڈھونڈتے اور نہیں پاتے؛ کہاں ہیں؟ مسجد ہو یا مکتب یا میخانہ سب بانجھ پڑے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the new truth which we seek, and do not find? Mosque, school and tavern, all alike are barren.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حرفی از خویشتن آموز و در آن حرف بسوز\nکہ درین خانقہ بے سوز کلیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ سے ایک حرف (اللہ ) سیکھ اور پھر اس میں جل جا؛ کیونکہ اس خانقاہ میں کلیمی کے سارے دعویدار سوز درون کے بغیر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn a word from your own self, and in that word burn, for in this convent all lack Moses’ fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از صفا کوشی این تکیہ نشینان کم گوی\nموی ژولیدہ و ناشستہ گلیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان تکیہ نشینوں کی صفا کوشی کی بات نہ کر ؛ ان کے بال الجھے ہوئے اور گدڑی نا صاف ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak not of the striving for purity of these monastery — dwellers, they are all dishevelled of hair, blankets unwashed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چہ حرمہا کہ درون حرمی ساختہ اند\nاہل توحید یک اندیش و دو نیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے حرم کے اندر کتنے اور حرم بنا رکھے ہیں ؛ اہل توحید کی سوچ ایک ہے، مگر وہ خود ٹکڑوں میں بٹے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What temples they have fashioned within the Sanctuary, these unitarians of one thought, but all split in two!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مشکل این نیست کہ بزم از سر ہنگامہ گذشت\nمشکل این است کہ بے نقل و ندیم اند ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشکل یہ نہیں کہ بزم ہنگامہ آرائی کا خیال چھوڑ چکی ہے؛ مشکل یہ ہے کہ اصل بزم نقل (کھانے کی عمدہ چیز ) اور ہم نشین کے بغیر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The problem is not that the hour of feasting has passed, the problem is that they are all without sweetmeats and boon-companion!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Zinda-Rud"
+}

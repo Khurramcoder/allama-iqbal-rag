@@ -1,0 +1,56 @@
+{
+  "id": "27",
+  "name": "ایک بحری قزاق اور سکندر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "سکندر",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صلہ تیرا تری زنجیر یا شمشیر ہے میری \nکہ تیری رہزنی سے تنگ ہے دریا کی پہنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alexander: Is your retribution shackles or cold steel, your violence on high seas, all sailors feel?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "قزاق",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سکندر! حیف، تو اس کو جواں مردی سمجھتا ہے \nگوارا اس طرح کرتے ہیں ہم چشموں کی رسوائی؟ \nترا پیشہ ہے سفاکی، مرا پیشہ ہے سفاکی \nکہ ہم قزاق ہیں دونوں، تو میدانی، میں دریائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pirate: Alas! Alexander, you deem it void of blame, do men of same craft bear each other's shame?\nYour craft is blood-shed and my craft the same, we are both bandits, is diverse fields play the game?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Pirate And Alexander",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "31",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "برون از ورطۂ بود و عدم شو\nفزونتر زین جہان کیف و کم شو\nخودی تعمیر کن در پیکر خویش\nچو ابراہیم معمار حرم شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہست و نیست کے چکر سے نکل ، اس جہان کم و بیش سے اوپر اٹھ۔\nاپنے بدن میں خودی کی تعمیر کر اور ابراہیم (علیہ) کی مانند معمار حرم بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From being and non-being’s whirlpool free yourself; in this world of contingency.\nBuild in yourself a Kaaba sacrosanct like Abraham’s home of eternity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

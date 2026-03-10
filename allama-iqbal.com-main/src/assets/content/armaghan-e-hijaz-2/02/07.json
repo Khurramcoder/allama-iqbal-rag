@@ -1,0 +1,57 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گہی شعر عراقی را بخوانم\nگہی جامی زند آتش بجانم\nندانم گرچہ آہنگ عرب را\nشریک نغمہ ہای ساربانم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی میں عراقی کے شعر پڑھتا ہوں؛ اور کبھی جامی (کا کلام ) میری جان میں آگ لگا دیتا ہے۔ \nاگرچہ میں عرب کی لے سے نا آشنا ہوں؛ لیکن ساربان کے نغموں میں شریک ہوں (تصور میں اپنے سفر مدینہ منورہ کا نقشہ کھینچا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A page of Iraqi* sometimes I turn, from Jami’s** fire so often I burn.\nI know not though the Arabs’ tune, I share with joy the teamaster’s tune.\n* Imam Fakhr-ud-Din known as Iraqi (of Iraq), a mystic poet. **Jami Maulana Abdul Rehman of Kharjrohmin, a town in Jam province of Persia.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غم راہی نشاط آمیزتر کن\nفغانش را جنون انگیزتر کن\nبگیر اے ساربان راہ درازی\nمرا سوز جدائی تیز تر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ساربان ! تو مسافر کے غم (عشق) کو اور زیادہ نشاط آمیز بنا؛ اس کی آہ و فغاں کو اور زیادہ جنون انگیز کر دے۔ \nکوئی لمبا راستہ اختیار کر؛ اور (اس طرح) میرے جدائی کے سوز کو زیادہ تیز کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the hiker’s grief take a blissful turn; let wails be blessed with rapturous burn.\nO teamaster be ready for longer course, let separation pangs had sharper force.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

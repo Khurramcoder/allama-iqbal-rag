@@ -1,0 +1,34 @@
+{
+  "id": "60",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من اے دانشوران در پیچ و تابم\nخرد را فہم این معنی محال است\nچسان در مشت خاکی تن زند دل\nکہ دل دشت غزالان خیال است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دانشورو ! میں ایک الجھن میں ہوں، خرد کے لیے اس نکتہ کو سمجھنا محال ہے۔\nمشت خاک (بدن) کے اندر دل کس طرح رکھ دیا گیا؛ کیونکہ دل غزالان افکار کا مرغزار ہے (افکار لطیف ہیں ، بدن کثیف)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ye men of learning, I am in a maze, the mind this meaning cannot understand:\nHow in a hand of Dust there beats a heart wherein gazelles of Fancy rove the land.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

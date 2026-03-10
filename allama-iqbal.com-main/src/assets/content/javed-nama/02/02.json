@@ -1,0 +1,864 @@
+{
+  "id": "02",
+  "name": "عارف ہندی کہ بہ یکی از غار ہای قمر خلوت گرفتہ و اہل ہند او را جہان دوست میگویند",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "name-en": "An Indian Ascetic, Known To The People Of India As Jahandost, Who Lives As A Hermit In One Of The Caverns Of The Moon",
+  "name-ur": "ہندی رشی جو چاند کی ایک غار میں خلوت گزین ہے اور اہل ہند اسے وشوامتر کہتے ہیں۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من چوکوران دست بر دوش رفیق\nپا نہادم اندر آن غار عمیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اندھوں کی طرح اپنے ساتھی کے کندھے پر ہاتھ رکھے ؛ اس گہری غار کے اندر داخل ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like a blind man, my hand on my companion’s shoulder, I placed my foot within a deep cavern;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ماہ را از ظلمتش دل داغ داغ\nاندرو خورشید محتاج چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس غار کی تاریکی سے چاند کا دل داغ داغ تھا ؛ اس کے اندر سورج کو بھی چراغ کی ضرورت پڑتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon’s heart was sore ravaged by its darkness, within it even the sun would have needed a lamp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہم و شک بر من شبیخون ریختند\nعقل و ہوشم را بدار آویختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہم و شک نے مجھ پر حملہ کیا اور میرے عقل و ہوش کو سولی پر لٹکا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fancies and doubts made assault upon me, hung my reason and sense upon the gallows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "راہ رفتم رھزنان اندر کمین\nدل تہی از لذت صدق و یقین",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں راہ پر چلتا گیا مگر (اس طرح کہ وہم و شک کے) راہزن میری گھات میں تھے اور میرا دل عشق و یقین کی لذت سے خالی تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I went along a road where highwaymen lurked in ambush, my heart void of the joy of truth and certainty;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تا نگہ را جلوہ ہا شد بے حجاب\nصبح روشن بے طلوع آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ میری نگاہ پر جلوے آشکار ہوئے اور آفتاب طلوع ہوئے بغیر ہی صبح روشن کا سماں بندھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Presently manifestations met my gaze unveiled, a bright dawn without any rising of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وادی ہر سنگ او زنار بند\nدیو سار از نخلہای سر بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے (اس روشنی میں) ایک ایسی وادی دیکھی جس کا ہر پتھر دیو آسا بلند درختوں کے زنّار باندھے تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A valley, whereof each stone was an idolater, a demon’s haunt thick with lofty palm-trees.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از سرشت آب و خاک است این مقام\nیا خیالم نقش بندد در منام",
+              "lang": "Original"
+            },
+            {
+              "_content": "(میں سوچنے لگا کہ) یہ مقام (جہان) آب و خاک کی سی سرشت رکھتا ہے؛ یا میرا تخیّل ننید میں یہ سب نقوش دیکھ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Was this place truly compounded of earth and water, or was my sleeping fantasy painting pictures?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "در ہوای او چو می ذوق و سرور\nسایہ از تقبیل خاکش عین نور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ہوا میں شراب کا لطف و سرور تھا؛ سایہ اس کی خاک پر پڑ کے عین نور ہو جاتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The air was filled with the joy and gaiety of wine, the shadows, kissing its dust, were light’s own essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نے زمینش را سپہر لاجورد\nنے کنارش از شفقہا سرخ و زرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اس کی زمین کے اوپر لاجوردی آسمان تھا ؛ نہ اس کے کنارے شفق سے سرخ و زرد تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No cerulean sky spanned its earth, no twilight painted its margin crimson and gold;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نور در بند ظلام آنجا نبود\nدود گرد صبح و شام آنجا نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں نور ظلمت میں گرفتار نہ تھا؛ نہ وہاں صبح و شام کا جھٹپٹا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There light was not in the chains of darkness, there no mists enveloped dawn and eventide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "زیر نخلی عارف ہندی نژاد\nدیدہ ہا از سرمہ اش روشن سواد",
+              "lang": "Original"
+            },
+            {
+              "_content": "درخت کے نیچے ایک ہندی رشی بیٹھا تھا ؛ اس کی آنکھیں سرمہ سے روشن تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under a palm-tree an Indian sage, the pupils of his eyes bright with collyrium,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "موی بر سر بستہ و عریان بدن\nگرد او ماری سفیدی حلقہ زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے بال سر پر باندھ رکھے تھے، اس کا بدن عریاں تھا؛ اور اس کے گرد ایک سفید سانپ حلقہ ڈالے تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His hair knotted on his head, his body naked, coiled about him a white snake writhing,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آدمی از آب و گل بالاتری\nعالم از دیر خیالش پیکری",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آب و گل سے بالا انسان تھا اور اس کے تخیّل کے بتکدہ نے جہان کو پیکار کی صورت دی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man superior to water and clay, the world a mere image in the cloister of his fantasy,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "وقت او را گردش ایام نے\nکار او با چرخ نیلی فام نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے وقت میں گردش ایّام کا گزر نہ تھا ؛ چرخ نیلی فام سے اس کا کوئی سروکار نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His time subject to no revolution of days, he had no traffick with the azure-tinted skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "گفت با رومی کہ ہمراہ تو کیست؟\nدر نگاہش آرزوی زندگیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے رومی سے پوچھا : تیرے ساتھ یہ کون ہے؟ مجھے اس کی نگاہ میں زندگی کی آرزو نظر آتی ہے!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said to Rumi, ‘Who is your fellow-traveller? In his glance there is a desire for life!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "مردے اندر جستجو آوارہ ئے\nثابتی با فطرت سیارہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایسا شخص ہے جو جستجو میں آوارہ پھر رہا ہے؛ یہ گویا ایک ستارہ (ثابت) ہے جس کی فطرت سیارے کی سی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "RUMI\nA man who is a wanderer on the quest, a fixed star with the constitution of a planet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "پختہ تر کارش ز خامی ہای او\nمن شہید ناتمامی ہای او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی خامیوں ہی نے اس کے کام کو پختہ تر بنایا ہے؛ میں اس کی ناتمامی پر جان دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His enterprise is more mature than his immaturities; I am a martyr to his imperfections.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "شیشۂ خود را بہ گردون بستہ طاق\nفکرش از جبریل میخواہد صداق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنی صراحی کے لیے آسمان کو طاق بنایا ہے؛ اس کا فکر جبریل سے تصدیق چاہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has made of his glass the arch of heaven, his thought seeks to be boon- companion of Gabriel!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "چون عقاب افتد بہ صید ماہ و مہر\nگرم رو اندر طواف نہ سپہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مہر و ماہ کے شکار کے لیے عقاب کی طرح جھپٹتا ہے؛ اور نو آسمانوں کے طواف میں سرگرم رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He swoops like an eagle on the moon and sun, his prey, hot-foot he circumambulates the nine spheres.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "حرف با اہل زمین رندانہ گفت\nحور و جنت را بت و بتخانہ گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اہل زمین سے رندانہ گفتگو کی ہے؛ حور و جنت کو بتخانہ کہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A drunkard’s words he has spoken to the people of earth calling the houris idols, Paradise an idol-house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "شعلہ ہا در موج دودش دیدہ ام\nکبریا اندر سجودش دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کے دھوئیں کی موج میں شعلے دیکھے ہیں اور اس کے سجدوں میں عظمت دیکھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen flames in the billow of his smoke, I have seen majestic pride in his prostration.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ہر زمان از شوق مینالد چو نال\nمی کشد او را فراق و ہم وصال",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ہر لمحہ شوق سے بانسری کی طرح نالاں رہتا ہے؛ اسے نہ فراق راس ہے نہ وصال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ever he laments yearningly like a flute; separation and union alike slay him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "من ندانم چیست در آب و گلش\nمن ندانم از مقام و منزلش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا کہ اس کی سرشت میں کیا ہے؛ نہ مجھے اس کے مقام و منزل کا پتہ چلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know what is in his water and clay; I do not know what his rank and station may be.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "جہان دوست",
+      "Verse": [
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "عالم از رنگست و بے رنگی است حق\nچیست عالم، چیست آدم، چیست حق؟\nرومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم رنگ سے ہے، اور حق تعالے بے رنگ ہیں؛ عالم کیا ہے؟ حق تعالے کیا (شان رکھتے ) ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is a thing of colour, and God is without colour. What is the world? What is man? What is God?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "آدمی شمشیر و حق شمشیر زن\nعالم این شمشیر را سنگ فسن",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدمی شمشیر ہے اور حق تعالے شمشیر زن ؛ دنیا اس شمشیر کے لیے پتھر کا سان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man is a sword, and God is the swordsman; the world is the whetstone for this sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "شرق حق را دید و عالم را ندید\nغرب در عالم خزید از حق رمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق نے اللہ تعالے کی معرفت حاصل کی مگر دنیا کی طرف توجہ نہ دی؛ مغرب دنیا میں رینگتا رہا، اور حق تعالے سے کٹ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The East saw God and did not see the world, the West crept along the world and fled away from God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "چشم بر حق باز کردن بندگی است\nخویش را بے پردہ دیدن زندگی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندگی یہ ہے کہ نگاہ اللہ تعالے پر مرکوز ہے؛ زندگی یہ ہے کہ انسان اپنے آپ کو بے پردہ دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True servanthood is to open the eyes to God; true life is to see oneself without a veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بندہ چون از زندگی گیرد برات\nہم خدا آن بندہ را گوید صلوت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب بندہ زندگی سے حصّہ حاصل کرتا ہے (اپنے آپ کو بے پردہ دیکھتا ہے)؛ تو ایسے بندے پر اللہ تعالے بھی صلوۃ و سلام بھیجتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a servant takes quittance of life God Himself calls down blessings on that servant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ہر کہ از تقدیر خویش آگاہ نیست\nخاک او با سوز جان ہمراہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص اپنی تقدیر (خوابیدہ قوّتوں ) سے آگاہ نہیں؛ اس کا بدن اس کی جان کے سوز کا ساتھ نہیں دیتا (وہ اپنی صلاحیتوں کو بروئے کار نہیں لا سکتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever man is unconscious of his destiny, his dust travels not with the fire of the soul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "جہان دوست",
+      "Verse": [
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "بر وجود و بر عدم پیچیدہ است\nمشرق این اسرار را کم دیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق وجود و عدم کی باتوں میں منہمک رہتا ہے؛ مگر وہ ان رازوں کو پا نہیں سکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tied up in the knot of being and not-being the East has seen little into these secrets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "کار ما افلاکیان جز دید نیست\nجانم از فردای او نومید نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم افلاکیوں کا کام صرف دیکھنا ہے؛ میں مشرق کے مستقبل سے نا امید نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The task of us celestials is only to see, and my soul does not despair of the East’s tomorrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "دوش دیدم بر فراز قشمرود\nز آسمان افرشتہ ئی آمد فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل میں نے قشمرود پہاڑ کی بلندی پر (کھڑے) دیکھا کہ آسمان سے ایک فرشتہ نیچے اترا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yesterday I saw on the summit of Qashmarud an angel that had descended out of heaven;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "از نگاہش ذوق دیداری چکید\nجز بسوی خاکدان ما ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نگاہ سے ذوق دیدار ٹپکتا تھا؛ وہ ہماری دنیا کے علاوہ اور کسی طرف دیکھتا ہی نہیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of his glance the joy of sight distilled as he gazed solely towards our mound of dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "گفتمش از محرمان رازی مپوش\nتو چہ بینی اندر آن خاک خموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس سے کہا اپنوں سے راز نہ چھپا؛ تجھے خاموش خاک میں کیا نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to him, ‘Hide not a secret from your confidants; what is it that you see in this silent dust?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "از جمال زہرہ ئی بگداختی\nدل بہ چاہ بابلی انداختی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو زہرہ کی خوبصورتی سے متاثر ہے؟ یا تو نے چاہ بابل میں دل لگایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you melt for the beauty of some Venus? Have you flung your heart into the well of Babylon?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "گفت \"ہنگام طلوع خاور است\nآفتاب تازہ او را در بر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنے لگا: 'مشرق کے پہلو سے ایک نئے آفتاب کے طلوع کا وقت آ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘It is the hour of the East’s arising; the East has a new sun shining in its breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "لعل ہا از سنگ رہ آید برون\nیوسفان او ز چہ آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل مشرق (کے) راستے کے پتھر وں سے لعل نکلیں گے؛ اس کے یوسف کنوئیں سے باہر آئیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rubies come forth from the stones of the road, its Josephs are issuing out of the well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "رستخیزی در کنارش دیدہ ام\nلرزہ اندر کوہسارش دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کے پہلو سے ہنگامے اٹھتے اور اس کے پہاڑوں میں زلزلے دیکھے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen a resurrection happening in its bloom, I have seen its mountains trembling and quaking;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "رخت بندد از مقام آزری\nتا شود خوگر ز ترک بت گری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے مقام آذری کو خیر باد کہہ دیا ہے؛ تاکہ وہ بتگری چھوڑنے کا عادی ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is packing up to quit the station of Azar at last to forswear forever idolatry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "اے خوش آن قومی کہ جان او تپید\nاز گل خود خویش را باز آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ قوم جس کی جان میں تڑپ پیدا ہو جائے؛ اور وہ مٹی سے اپنے آپ کو از سر نو پیدا کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy is the people whose soul has fluttered, that has created itself anew out of its own clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "عرشیان را صبح عید آن ساعتی\nچون شود بیدار چشم ملتی\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرشتوں کے لیے وہ گھڑی صبح عید ہے جب کسی قوم کی آنکھ بیدار ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the Throne – angels that hour is the dawn of festival when the eyes of a nation at last awake!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "پیر ہندی اندکی دم در کشید\nباز در من دید و بے تابانہ دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندی رشی کچھ دیر کے لیے خاموش ہو گیا؛ پھر اس نے میری طرف دیکھا اور بے تابانہ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Indian sage was silent for a little while; then he looked at me again, somewhat impatiently.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "گفت مرگ عقل ؟ گفتم ترک فکر\nگفت مرگ قلب ؟ گفتم ترک ذکر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوچھا، عقل کی موت؟ میں نے کہا غور و فکر چھوڑ دینا۔پوچھا قلب کی موت؟ میں نے کہا ذکر ترک کر دینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked, ‘Death of the reason?’ I said, Giving tip thought.’ He asked, ‘Death of the heart?’ I said, ‘Giving up remembrance.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "گفت تن ؟ گفتم کہ زاد از گرد رہ\nگفت جان ؟ گفتم کہ رمز لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوچھا تن؟ میں نے کہا گرد راہ سے پیدا ہوا ہے۔پوچھا روح؟ میں نے کہا لاالہ کی ایک رمز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked, ‘The body?’ I said, ‘Born of the dust of the road.’ He asked, ‘The Soul?’ I said ‘The symbol of One God.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "گفت آدم ؟ گفتم از اسرار اوست\nگفت عالم ؟ گفتم او خود روبروست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوچھا آدم ؟ میں نے کہا اللہ تعالے کے اسرار میں سے ایک سر ہے۔پوچھا عالم ؟ میں نے کہا وہ خود سامنے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked, ‘And Man?’ I said, ‘One of God’s secrets.’ He asked, ‘The world?’ I said, ‘Itself stands face to face.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "گفت این علم و ہنر ؟ گفتم کہ پوست\nگفت حجت چیست ؟ گفتم روی دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وچھا یہ علم و ہنر ؟ میں نے کہا محض چھلکا ہے۔پوچھا کہ (حق تعالے کے) وجود پر حجت کیا ہے؟ میں نے کہا دوست کا چہرہ۔(قرآن پاک میں ارشاد ہے پس جس طرف بھی تم مونہہ کرو وہیں اللہ تعالے کا چہرہ ہے)۔(115:2)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked, ‘This science and art?’ I said, ‘Mere husk.’ ‘He asked, ‘What is the proof?’ I said, ‘The face of the Beloved.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "گفت دین عامیان ؟ گفتم شنید\nگفت دین عارفان ؟ گفتم کہ دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوچھا عارفوں کا دین؟ میں نے کہا عین الحق۔پوچھا عامیوں کا دین؟ شنید (سنی سنائی بات)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked, ‘The commons’ religion?’ I said, ‘Just hearsay.’ He asked, ‘The gnostics’ religion?’ I said, ‘True seeing.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "از کلامم لذت جانش فزود\nنکتہ ہای دل نشین بر من گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے کلام سے اس کی لذت جان میں اضافہ ہوا اور اس نے مجھ پر چند دلنشین نکات واضع کیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My words brought much pleasure to his soul, and he disclosed to me delightful subtleties.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ]
+}

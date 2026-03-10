@@ -1,0 +1,254 @@
+{
+  "id": "15",
+  "name": "رات اور شاعر",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "رات",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیوں میری چاندنی میں پھرتا ہے تو پریشاں \nخاموش صورت گل، مانند بو پریشاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "NIGHT:\nWhy in my light are you roaming about perturbed; silent like the rose, like the fragrance perturbed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاروں کے موتیوں کا شاید ہے جوہری تو \nمچھلی ہے کوئی میرے دریائے نور کی تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perhaps you are the jeweler of the star’s pearls; perhaps you are some fish of the river of my light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یا تو مری جبیں کا تارا گرا ہوا ہے \nرفعت کو چھوڑ کر جو بستی میں جا بسا ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رفعت: بلندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or you are a star fallen from my forehead; which, leaving eminence has adopted habitation in humility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خاموش ہو گیا ہے تار رباب ہستی \nہے میرے آئنے میں تصویر خواب ہستی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Quiet has become the string of the harp of life. In my mirror is the picture of the dream of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دریا کی تہ میں چشم گرادب سو گئی ہے \nساحل سے لگ کے موج بے تاب سو گئی ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم گرداب: بھنور کی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At the bottom of the river the whirlpool’s eye is asleep’ by the river bank the restless wave has fallen asleep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بستی زمیں کی کیسی ہنگامہ آفریں ہے \nیوں سو گئی ہے جیسے آباد ہی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How tumultuous the habitation of the earth is; has fallen asleep as if it not even inhabited is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شاعر کا دل ہے لیکن ناآشنا سکوں سے \nآزاد رہ گیا تو کیونکر مرے فسوں سے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the poet’s heart is unacquainted with peace. How did you remain free from my enchantment?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "شاعر",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "میں ترے چاند کی کھیتی میں گہر بوتا ہوں \nچھپ کے انسانوں سے مانند سحر روتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "گہر: موتی ، مراد ہے آنسو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "POET:\nI am sowing pearls in the fields of your moon; hiding from people I weep like the dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "دن کی شورش میں نکلتے ہوئے گھبراتے ہیں \nعزلت شب میں مرے اشک ٹپک جاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "عزلت شب: رات کی تنہائی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being shy of coming out in the day’s commotion; my tears start dripping in the night’s seclusion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "مجھ میں فریاد جو پنہاں ہے، سناوں کس کو \nتپش شوق کا نظارہ دکھاوں کس کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "پنہاں: چھپا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To whom should I relate the lament concealed in me? To whom should I show the scene of the heat of Love1?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "برق ایمن مرے سینے پہ پڑی روتی ہے \nدیکھنے والی ہے جو آنکھ، کہاں سوتی ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Aiman’s lightning is lying on my breast and weeping; where the eye which has insight is sleeping?\n(Aiman: The Valley of Mount Toor where Mosa A.S. saw the Effulgence of God in the form of lightning.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "صفت شمع لحد مردہ ہے محفل میری \nآہ، اے رات! بڑی دور ہے منزل میری",
+              "lang": "Original"
+            },
+            {
+              "_content": "صفت شمع لحد: قبر پر بجھے ہوئے چراغ کی طرح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My congregation is dead like the grave’s candle, Ah! O night my destination is very far.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "عہد حاضر کی ہوا راس نہیں ہے اس کو \nاپنے نقصان کا احساس نہیں ہے اس کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The present day conditions are not amenable to it; there is no perception of its own loss in it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ضبط پیغام محبت سے جو گھبراتا ہوں \nتیرے تابندہ ستاروں کو سنا جاتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I become tired of the restraint of Love’s message; coming here I relate them to your shining states!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Night And The Poet",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

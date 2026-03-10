@@ -1,0 +1,131 @@
+{
+  "id": "52",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نے مہرہ باقی، نے مہرہ بازی \nجیتا ہے رومی، ہارا ہے رازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Over the tussle of heart and head Rumi has won and Rizi fled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "روشن ہے جام جمشید اب تک \nشاہی نہیں ہے بے شیشہ بازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Still bowl of Jamshid is alive, without guile kingship cannot thrive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دل ہے مسلماں میرا نہ تیرا \nتو بھی نمازی، میں بھی نمازی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both you and I aren’t Muslims true, though we say the prayers due.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میں جانتا ہوں انجام اس کا \nجس معرکے میں ملا ہوں غازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know the end of wrangle well where mullahs at each other yell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ترکی بھی شیریں، تازی بھی شیریں \nحرف محبت ترکی نہ تازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تازي: عربی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Turkish and Arabic both are sweet, for talk of Love all tongues are meet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آزر کا پیشہ خارا تراشی \nکار خلیلاں خارا گدازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خارا: پتھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breed of Azar idols make, but Friends of God these idols break.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو زندگی ہے، پائندگی ہے \nباقی ہے جو کچھ، سب خاک بازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are alive and live for aye the rest is all a play with clay.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

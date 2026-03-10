@@ -1,0 +1,99 @@
+{
+  "id": "47",
+  "name": "ابلیس کی عرضداشت",
+  "name-en": "Satan's Petition",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہتا تھا عزازیل خداوند جہاں سے\nپرکالہء آتش ہوئی آدم کی کف خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "عزازيل: ابلیس کا اصلی نام۔ \nآتش : آگ کا ٹکڑا یعنی سخت فتنہ انگیز۔ پرکالہء",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the Lord of the universe the Devil said: A firebrand Adam grows, that pinch of dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جاں لاغر و تن فربہ و ملبوس بدن زیب \nدل نزع کی حالت میں، خرد پختہ و چالاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Meager-souled, plump of flesh, in fine clothes trussed, brain ripe and subtle, heart not far from dead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ناپاک جسے کہتی تھی مشرق کی شریعت\nمغرب کے فقیہوں کا یہ فتوی ہے کہ ہے پاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What the East’s sacred law made men abjure, the casuist of the West pronounces pure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تجھ کو نہیں معلوم کہ حوران بہشتی\nویرانی جنت کے تصور سے ہیں غم ناک؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowest Thou not, the girls of Paradise see: And mourn their gardens turning wilderness?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جمہور کے ابلیس ہیں ارباب سیاست\nباقی نہیں اب میری ضرورت تہ افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For fiends its rulers serve the populace: Beneath the heavens is no more need of me!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V G Kiernan"
+}

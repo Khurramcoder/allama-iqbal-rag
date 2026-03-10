@@ -1,0 +1,80 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہم مشرق کے مسکینوں کا دل مغرب میں جا اٹکا ہے \nواں کنڑ سب بلوری ہیں یاں ایک پرانا مٹکا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We poor Easterners have been entangled in the West; all crystal decanters are there, only an old earthen jar is here.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس دور میں سب مٹ جائیں گے، ہاں! باقی وہ رہ جائے گا \nجو قائم اپنی راہ پہ ہے اور پکا اپنی ہٹ کا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All will be annihilated in this age except the one who established in his ways and firm in his thought is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے شیخ و برہمن، سنتے ہو! کیا اہل بصیرت کہتے ہیں \nگردوں نے کتنی بلندی سے ان قوموں کو دے پٹکا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Shaikh and Brahman! Do you listen to what people with insight say? Heaven from great heights has thrown down those nations;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یا باہم پیار کے جلسے تھے، دستور محبت قائم تھا \nیا بحث میں اردو ہندی ہے یا قربانی یا جھٹکا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who formerly had assemblies of affection with firm love; now under discussion is Urdu and Hindi or Dhibh and Jhatka. \nDhibh: This is the Muslim way of killing an animal for food, in which the name of God is invoked as a mark of dedication of the food to Him. Jhatka is the Sikh way of doing the same in which the animal is killed with one stroke, separating the head from the body. The Sikhs were and still are so adamantly against Dhibh that they would not eat the meat of an animal killed with that process. The mention of these controversies is no exaggeration. They did rise in the serious political parleys between Muslims and Hindus in the twenties and thirties. The name of the India’s national language was so controversial that Hindus insisted that it should be Hindi though Urdu had been the official language of the Indian sub-continent during the two hundred years of British rule. Even in the discussions during the proceedings of the commission appointed by Mr. M.K. Gandhi for drafting the educational policy of independent India, known as the ‘Wardha Scheme’ this name was under hot discussion. Even Mr. Gandhi’s modest suggestion of using the term ‘Hindustani’ was rejected by the Hindu members. This happened in spite of the great reverence in which Hindus held Mr. Gandhi. The partition of India and its aftermath could have been avoided with a little toleration and understanding. This matter has been discussed earlier also.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "11",
+  "name": "امید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مقابلہ تو زمانے کا خوب کرتا ہوں \nاگرچہ میں نہ سپاہی ہوں نے امیر جنود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنود: فوج کی جمع۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With courage great a war I wage 'gainst evils of the present age I do not bear a fighter's name, to chieftainship I lay no claim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مجھے خبر نہیں یہ شاعری ہے یا کچھ اور \nعطا ہوا ہے مجھے ذکر و فکر و جذب و سرود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am not conscious 'bout this fact if it is Verse or other tact; God has bestowed on me since long His praise, reflection, charm and song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جبین بندہ حق میں نمود ہے جس کی \nاسی جلال سے لبریز ہے ضمیر وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flood of light that makes its show on true and faithful Muslim's brow with grandeur same is quite replete that fills being's soul and makes complete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ کافری تو نہیں، کافری سے کم بھی نہیں \nکہ مرد حق ہو گرفتار حاضر و موجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You do not call it unbelief, no less it is than disbelief' that truthful man may get content I with today, for change show no intent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غمیں نہ ہو کہ بہت دور ہیں ابھی باقی \nنئے ستاروں سے خالی نہیں سپہر کبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "سپہر کبود: نیلا آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't grieve, for millenniums and aeons more still lie ahead for man in store the ever spinning heaven blue is not devoid of planets new.\n(Written in Riaz Manzil, Bhopal residence of Sir Rass Masood.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Hope",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

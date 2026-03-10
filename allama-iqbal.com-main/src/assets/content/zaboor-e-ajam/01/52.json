@@ -1,0 +1,136 @@
+{
+  "id": "52",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جانم در آویخت با روزگاران\nجوی است نالان در کوہساران",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری جان زمانہ میں کہتی ہوئی ندی ہے؛ پہاڑوں کے اندر بہتی ہوئی ندی کی مانند فریاد کناں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul, embattled with fortune ever, weeps like a river among the mountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیدا ستیزد پنہان ستیزد\nناپایدارے با پایداران",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم ناپائیدار (انسان) اس سنگین کائنات سے؛ پیدا و پنہاں زور آزما ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open and secret fate is assailing, to the unfailing fickle and faithless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این کوہ و صحرا این دشت و دریا\nنے راز داران نے غمگساران",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کوہ و صحرا ، یہ دشت و دریا ؛ نہ ہمارے راز محبت سے باخبر ہیں اور نہ ہمارے غمگسار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mountain and desert, ocean and prairie secret unwary un-sympathizing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بیگانۂ شوق بیگانۂ شوق\nاین جویباران این آبشاران",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ندیاں ، یہ آبشاریں ، سب شوق سے خالی ہیں، سب شوق سے خالی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stranger to passion, stranger to yearning rivulet’s turning, spray of the fountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فریاد بے سوز فریاد بی سوز\nبانگ ہزاران در شاخساران",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغوں میں بلبل کے گیت بے سوز نالے ہیں، بے سوز نالے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pale lamentation’s flameless outpouring nightingales soaring song in the thicket.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "داغی کہ سوزد در سینۂ من\nآن داغ کم سوخت در لالہ زاران",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ داغ محبت جو میرے سینے میں سلگ رہا ہے، وہ لالہ زاروں میں کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Burns in my bosom the brand of passion; in such a fashion burns not the tulip.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "محفل ندارد ساقی ندارد\nتلخی کہ سازد با بیقراران",
+              "lang": "Original"
+            },
+            {
+              "_content": "کائنات کے اندر نہ ایسی محفل ہے نہ ایسا ساقی ہے جو محبت کی اس تلخ شراب کو پی سکے یا پلا سکے؛ جس سے ہم جیسے بے قرار لوگ لطف اندوز ہو رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wine of Saki, no spirits’ riot; the soul unquiet bitterly suffers.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

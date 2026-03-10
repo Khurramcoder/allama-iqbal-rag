@@ -1,0 +1,33 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کی جلوتوں میں مصطفائی \nخودی کی خلوتوں میں کبریائی \nزمین و آسمان و کرسی و عرش \nخودی کی زد میں ہے ساری خدائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Selfhood in the world of men is prophethood; selfhood in solitude is godliness.\nThe earth, the heavens, the great empyrean; are all within the range of selfhood’s power.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

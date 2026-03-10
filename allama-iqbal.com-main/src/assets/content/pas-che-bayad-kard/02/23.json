@@ -1,0 +1,274 @@
+{
+  "id": "23",
+  "name": "بر مزار حضرت احمد شاہ بابا علیہ الرحمہ",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "ملت افغانیہ کے بانی حضرت احمد شاہ ابدالی رحمتہ اللہ علیہ کے مزار پر۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تربت آن خسرو روشن ضمیر\nاز ضمیرش ملتی صورت پذیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اس روشن ضمیر پادشاہ کی قبر ہے جس کے ضمیر کے اندر سے ایک نئی ملت نے تشکیل پائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grave of that enlightened king from whose self a nation arose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گنبد او را حرم داند سپہر\nبا فروغ از طوف او سیمای مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مزار کے گنبد کو آسمان حرم سمجھتا ہے اور اس کے طواف سے سورج کی پیشانی روشنی پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its dome is regarded as a sanctuary by the sky, sun acquires brightness from its forhead (dome).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مثل فاتح آن امیر صف شکن\nسکہ ئی زد ھم بہ اقلیم سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس امیر صف شکن نے بھی سلطان محمد فاتح کی مانند اقلیم سخن میں بھی اپنا سکّہ جمایا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Fateh, conquerer of Constantinople, this stalwart fighter struck coins in the realm of poetry even;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ملتی را داد ذوق جستجو\nقدسیان تسبیح خوان بر خاک او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے ملت افغانیہ کے اندر (عظمت کی ) جستجو کا ذوق پیدا کیا؛ اس کی خاک مزار پر فرشتے تسبیح خواں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He reignited the urge to seek (greatness) in Afghans; angels invoke blessings on his grave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از دل و دست گہر ریزی کہ داشت\nسلطنت ہا برد و بی پروا گذاشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "گوہر پاش دل دوست رکھنے کی وجہ سے اس نے ہند کی کئی حکومتیں فتح کیں؛ مگر بے نیازی کے باعث ان پر قبضہ نہ کیا،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the munificent heart and pearl-scattering hand he had, he acquired realms and gave them away without taking any thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نکتہ سنج و عارف و شمشیر زن\nروح پاکش با من آمد در سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نکتہ سنج ، عارف و شمشیرزن کی پاک روح نے میرے ساتھ گفتگو کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A connoisseur, a seer and wielder of the sword, his soul fell into talk with me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفت می دانم مقام تو کجاست\nنغمۂ تو خاکیان را کیمیاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا میں جانتا ہوں کہ تیرا مقام کیا ہے؛ تیری شاعری نوع آدم کے لیے کیمیا ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said: I know where you stand, your high station; your song is alchemy for denizens of the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "خشت و سنگ از فیض تو دارای دل\nروشن از گفتار تو سینای دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ انسان جو اینٹ پتھر کی مانند تھے تیرے فیض سے صاحب دل ہوئے؛ تو نے اپنی شاعری سے دل کی وادیء سینا کو تجلی گاہ بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stocks and stones acquire a heart from your bounty; the Sinai of the heart is bright with your speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پیش ما اے آشنای کوی دوست\nیک نفس بنشین کہ داری بوی دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو کوئے محبوب کا آشنا ہے ایک لمحہ کے لیے میرے پاس بیٹھ کیونکہ تجھ سے دوست کی خوشبو آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you knower of the Friend’s street, come to me, and stay awhile, for you hear the smell of the beloved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ایخوش آن کو از خودی آئینہ ساخت\nوندر آن آئینہ عالم را شناخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوش نصیب ہے وہ شخص جس نے اپنی خودی کو آئینہ بنایا اور اس آئینہ کے اندر جہان کو دیکھا اور پہچانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy he who made the self his mirror and in that recognised the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پیر گردید این زمین و این سپہر\nماہ کور از کور چشمیہای مہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ زمین اور یہ آسمان بوڑھے ہو چکے ہیں ؛ سورج کے اندھے پن سے چاند بھی اندھا ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This earth and the sky have grown old, the moon has become blind because of the indifference of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گرمی ہنگامہ ئی می بایدش\nتا نخستین رنگ و بو باز آیدش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان کو ایک نئے ہنگامے کی ضرورت ہے تاکہ اسلام کے دور اوّل کا رنگ و بو واپس آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is need of the heat of commotion now so that the pristine hue and scent should come back.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بندۂ مومن سرافیلی کند\nبانگ او ہر کہنہ را برہم زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ بندہء مومن حضرت اسرافیل سا کام کرے اور اس کی بانگ صور ہر کہنہ کو درہم برہم کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A true believer acts like Israfil whose trumpet shatters every thing old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اے ترا حق داد جان ناشکیب\nتو ز سر ملک و دین داری نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جسے حق تعالے نے جان بیقرار عطا کی ہے؛ تو ملک و دین کے راز سے باخبر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you whom God has granted a restless spirit, you know the secrets of rulership and Faith;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "فاش گو با پور نادر فاش گوی\nباطن خود را بہ ظاہر فاش گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نادر شاہ کے بیٹے سے کھل کر بات کر؛ اپنے باطن کو ظاہر (شاہ) پر فاش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell, O tell the son of Nadir patently; disclose what is in your mind to Zahir unreservedly.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "At The Mausoleum Of Hadrat Ahmad Shah Baba, Founder of the Afghan Nation",
+  "credits": "English Translation by: Jamil Naqvi"
+}

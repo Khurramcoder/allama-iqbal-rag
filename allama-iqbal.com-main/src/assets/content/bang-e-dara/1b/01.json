@@ -1,0 +1,81 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گلزار ہست و بود نہ بیگانہ وار دیکھ\nہے دیکھنے کی چیز اسے بار بار دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not look at the garden of existence like a stranger; it is a thing worth looking at, look at it repeatedly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آیا ہے تو جہاں میں مثال شرار دیکھ\nدم دے نہ جائے ہستی ناپائدار دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have come into the world like a spark, beware. Lest your ephemeral life may end suddenly, beware.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مانا کہ تیری دید کے قابل نہیں ہوں میں\nتو میرا شوق دیکھ، مرا انتظار دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Granted that I am not worthy of your Sight; You should look at my zeal, and look at my perseverance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کھولی ہیں ذوق دید نے آنکھیں تری اگر\nہر ره گزر میں نقش کف پائے یار دیکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If your eyes have been opened by the longing for Sight; look for the foot prints of the Beloved in every lane.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

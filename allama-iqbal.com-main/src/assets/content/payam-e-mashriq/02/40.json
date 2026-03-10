@@ -1,0 +1,120 @@
+{
+  "id": "40",
+  "name": "کشمیر",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رخت بہ کاشمر گشا کوہ و تل و دمن نگر\nسبزہ جہان جھان ببین لالہ چمن چمن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشمیر کا سفر اختیار کر اور پہاڑ، ٹیلے اور وادیاں دیکھ؛ ہر طرف اگا ہوا سبزہ اور ہر چمن میں کھلا ہوا لالہ دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Repair to Kashmir’s land and see hills, meadows, pastures, wealds. See miles on miles of greenery and endless tulip-fields.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "باد بہار موج موج مرغ بہار فوج فوج\nصلصل و سار زوج زوج بر سر نارون نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "باد بہار کی موجیں دیکھ؛ طائران بہار کے پرے کے پرے دیکھ ؛ نروان کے درخت پر قمریوں اور فاختاؤں کے جھنڈ کے جھنڈ دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whiff after whiff spring breezes blow, and hosts of birds of spring – the thrush, the quail, the dove – all go from place to place and sing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تا نفتد بہ زینتش چشم سپہر فتنہ باز\nبستہ بہ چھرۂ زمین برقع نسترن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھ! زمین نے اپنا چہرہ نسترن کے برقع میں چھپا لیا ہے؛ تاکہ اس کی زینت پر آسمان فتنہ باز کی نظر نہ پڑے (اسے نظر نہ لگ جائے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To hide it from the jealous sky the earth veils its fair face behind a complex tracery of shrubs that interlace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "لالہ ز خاک بر دمید موج بہ آب جو تپید\nخاک شرر شرر ببین آب شکن شکن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھ خاک سے گل لالہ اٹھا (گویا) خاک کے اندر شرارے چمکے ؛ ندی کے اندر موج تڑپی ، جس سے پانی پر شکنیں پڑ گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulips burst forth from the earth; the waves leap up in streams. Look at the sparks the dust puts forth and the waves’ silver seams.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زخمہ بہ تار ساز زن بادہ بساتگین بریز\nقافلۂ بھار را انجمن انجمن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مضراب سے تار ساز چھیڑ ، جام میں شراب ڈال ؛ دیکھ ، بہار کا قافلہ ہر انجمن میں (ڈیرہ ڈالے) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come bring your lute and strike its strings, and fill your cup with wine, and let there be gay gatherings to greet spring’s caravan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دخترکی برہمنی لالہ رخی سمن بری\nچشم بروی او گشا باز بخویشتن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ رخ اور سیمیں بدن دختران برہمن کے چہرے کی طرف نظر اٹھا پھر اپنے اندر نگاہ ڈال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at that highborn Brahmin maid, lily-limbed, tulip-faced, look at her and feel yourself fade into someone low-placed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Kashmir",
+  "credits": "English Translation by: M. Hadi Husain"
+}

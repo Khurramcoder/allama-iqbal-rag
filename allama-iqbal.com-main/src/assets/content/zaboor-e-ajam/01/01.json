@@ -1,0 +1,62 @@
+{
+  "id": "01",
+  "name": "بخوانندہ کتاب زبور",
+  "name-en": "Reader of the Book of Psalms",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می شود پردۂ چشمم پر کاہی گاہی\nدیدہ ام ہر دو جہان را بہ نگاہی گاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وادی عشق بسی دور و درازست ولی\nطی شود جادۂ صد سالہ بہ آہی گاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در طلب کوش و مدہ دامن امید زدست\nدولتی ہست کہ یابی سر راہی گاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

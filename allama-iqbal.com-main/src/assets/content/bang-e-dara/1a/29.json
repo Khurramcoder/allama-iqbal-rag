@@ -1,0 +1,68 @@
+{
+  "id": "29",
+  "name": "شاعر",
+  "name-en": "Poet",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قوم گویا جسم ہے، افراد ہیں اعضائے قوم\nمنزل صنعت کے رہ پیما ہیں دست و پائے قوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہ پيما: راستہ چلنے والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation is the body, people are its organs; artisans are the nation's hands and feet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "محفل نظم حکومت، چہرہء زیبائے قوم\nشاعر رنگیں نوا ہے دیدہ بینائے قوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ديدہ بينا: دیکھنے والی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The State administration is the nation's beautiful face. The elegant-styled poet is the nation's clear-sighted eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مبتلائے درد کوئی عضو ہو روتی ہے آنکھ\nکس قدر ہمدرد سارے جسم کی ہوتی ہے آنکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When any organ is afflicted with pain, the eye weeps; how sympathetic to the world body is the eye. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

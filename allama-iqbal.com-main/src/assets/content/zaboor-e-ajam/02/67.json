@@ -1,0 +1,65 @@
+{
+  "id": "67",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ نگاہ آشنائی چو درون لالہ دیدم\nہمہ ذوق و شوق دیدم ہمہ آہ و نالہ دیدم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the tulip’s heart I viewed with the gaze of certitude, all I saw was ecstasy, sighs, and sobbing bitterly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ بلند و پست عالم تپش حیات پیدا\nچہ دمن چہ تل چہ صحرا رم این غزالہ دیدم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the highest and the least is life’s quiver manifest; over plain and hill and dell ever leaps this wild gazelle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ بہ ماست زندگانی نہ ز ما ست زندگانی\nہمہ جاست زندگانی ز کجا ست زندگانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is not of us alone, life is not for us to own; life is everywhere to see – Ah, and whence came life to be?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ببرگ لالہ رنگ آمیزی عشق\nبجان ما بلا انگیزی عشق\nاگر این خاکدان را واشگافی\nدرونش بنگری خونریزی عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ کے پتّوں میں عشق کی رنگ آمیزی ہے؛ ہماری جان کے اندر عشق کا شور ہے۔ \nاگر تو اس دنیا کو چیرے؛ تو تجھے اس کے اندر عشق (ہی) کی خون ریزی نظر آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "’Tis Love that paints the tulip petals’ hue: ’Tis Love that stirs the spirit’s bitter rue. \nIf thou couldst cleave this carrion of clay: Thou shalt behold, within, Love’s bloodshed too.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

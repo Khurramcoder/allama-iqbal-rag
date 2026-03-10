@@ -1,0 +1,34 @@
+{
+  "id": "129",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز من گو صوفیان با صفا را\nخدا جویان معنی آشنا را\nغلام ہمت آن خود پرستم\nکہ با نور خودی بیند خدا را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری طرف سے صوفیان با صفا سے کہو ، وہ جو اللہ تعالے کے متلاشی اور حقیقت آشنا ہیں۔\nمیں ایسے خود پرست کی ہمت کو خراج تحسین پیش کرتا ہوں ، جو اپنی خودی کے نور سے اللہ تعالے کو دیکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On my behalf tell the pure-hearted Sufis; those seekers after God and possessors of the truth: \nI would humbly serve that resolute self-worshipper who sees God in the light of his own khudi.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

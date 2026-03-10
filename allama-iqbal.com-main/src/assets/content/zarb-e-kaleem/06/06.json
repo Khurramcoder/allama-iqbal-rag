@@ -1,0 +1,84 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جو عالم ایجاد میں ہے صاحب ایجاد \nہر دور میں کرتا ہے طواف اس کا زمانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم ایجاد: دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In world, if man contrives a thing much sound, the men of every period make his round.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تقلید سے ناکارہ نہ کر اپنی خودی کو \nکر اس کی حفاظت کہ یہ گوہر ہے یگانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقلید: پیروی کرنا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't spoil your Self by blind pursuit. Take care of precious gem that has no suit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس قوم کو تجدید کا پیغام مبارک! \nہے جس کے تصور میں فقط بزم شبانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجدید: نیا اور تازہ کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That nation is welcome to have new ways, which has no thought save revels night and days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لیکن مجھے ڈر ہے کہ یہ آوازہ تجدید \nمشرق میں ہے تقلید فرنگی کا بہانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Assumption of new modes this fact betrays, pretext is sought to follow Frankish ways.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "91",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل از منزل تہی کن پا برہ دار\nنگہ را پاک مثل مہر و مہ دار\nمتاع عقل و دین با دیگران بخش\nغم عشق ار بدست افتد نگہ دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "منزل کا خیال چھوڑ اور (دائمی) سفر اختیار کر ، (البتہ دوران سفر ) اپنی نگاہ کو مہر و ماہ کی طرح پاک رکھ۔\nعقل و دین کا سرمایہ دوسروں کے لیے رہنے دے، ہاں ، غم عشق ہاتھ آ جائے تو اسے سنبھال کے رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Forget the goal, be steadfast on the path, keep bright your vision like the sun and moon.\nGive others all your wealth of Mind and Faith; and keep divine Love’s sorrow for your own.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

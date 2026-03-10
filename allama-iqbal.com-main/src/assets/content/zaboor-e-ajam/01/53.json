@@ -1,0 +1,102 @@
+{
+  "id": "53",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ تسلئی کہ دادی نگذاشت کار خود را\nبتو باز می سپارم دل بیقرار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میرے دل بے قرار کو جو تسلی دی تھی ( کہ میں رگ جاں سے بھی قریب ہوں) اس سے اس کی بے قراری دور نہیں ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Thy hands I now deliver once again my restless heart; it will never cease from labour for the ease.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ دلی کہ محنت او ز نفس شماری او\nکہ بدست خود ندارد رگ روزگار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا دل ہے کہ اس کا ایک ایک سانس محنت میں گزرتا ہے؛ کیونکہ وہ اپنے حالات پر پورا تصرف نہیں رکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou wouldst impart hapless heart! Whose whole affliction is the counting of the breath, having not within its power to be lord of life and death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بضمیرت آرمیدم تو بجوش خود نمائی\nبکنارہ برفکندی در آبدار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ کے ضمیر کے اندر آرام کر رہا تھا ، پھر آپ نے خود نمائی کے جوش میں اپنے اس چمکدار موتی کو کنارے پر پھینک دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Thy thought as I was slumb’ring Thou, desirous of display, this Thy pearl of lustrous beauty from Thy breast didst cast away.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مہ و انجم از تو دارد گلہ ہا شنیدہ باشے\nکہ بخاک تیرہ ما زدہ ئی شرار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند ستاروں کو آپ سے شکایت ہے، آپ نے بھی سنی ہو گی ؛ کہ آپ نے ہماری خاک تیرہ و تار میں اپنی (روح) کا شرارہ پھونک دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Loud complaint they laid against thee, moon and stars (didst Thou not hear?) that Thy spark Thou hast enkindled in my ashes dark and drear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خلشی بہ سینۂ ما ز خدنگ او غنیمت\nکہ اگر بپایش افتد نبرد شکار خود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کے تیر سے جو ہمارے سینے میں خلش پیدا ہوئی وہ غنیمت ہے؛ اگر (تیر کارگر ہوتا اور) شکار مر کر شکاری کے پاؤں میں گر جاتا ، تو وہ اسے نہ اٹھاتا (اس کی پرواہ نہ کرتا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my breast His arrow pricking – there is glory, there is fame! If I cast myself before Him, He’d not seize me for His game.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

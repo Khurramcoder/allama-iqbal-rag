@@ -1,0 +1,97 @@
+{
+  "id": "38",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از چشم ساقی مست شرابم\nبی می خرابم بی می خرابم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the Saki’s eye heart-enflamed I lie; drunk without wine – O delight divine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شوقم فزون تر از بی حجابی \nبینم نہ بینم در پیچ و تابم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All unveiled, desire burns a fiercer fire; let me see or no, yet my soul’s aglow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون رشتۂ شمع آتش بگیرد\nاز زخمۂ من تار ربابم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "See the rebec’s string at my fingering like a candle’s wick flameth bright and quick.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از من برون نیست منزلگہ من\nمن بی نصیبم، راہی نیابم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Save my heart can be lodging none for me, naught is me assigned, ne’er a way I find.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تا آفتابی خیزد ز خاور\nمانند انجم بستند خوابم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Till the sun arise from the eastern skies sleep to me denied. Like the stars I ride.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "04",
+  "name": "آگاہی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نظر سپہر پہ رکھتا ہے جو ستارہ شناس \nنہیں ہے اپنی خودی کے مقام سے آگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He, who predicts the fate of man, and keeps his gaze e'er; fixed on sky, such man is unaware of fact that rank of Self is very high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی کو جس نے فلک سے بلند تر دیکھا \nوہی ہے مملکت صبح و شام سے آگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who perceive this fact so clear that dome of sky that spins around, has not the height as Self of man. 'Bout world have formed an opinion sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہی نگاہ کے ناخوب و خوب سے محرم \nوہی ہے دل کے حلال و حرام سے آگاہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They are aware of all those things that charm and repel the human sight to them alone this fact is known what blackens heart, what renders bright.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Awareness",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

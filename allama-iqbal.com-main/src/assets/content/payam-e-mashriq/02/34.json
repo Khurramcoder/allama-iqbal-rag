@@ -1,0 +1,191 @@
+{
+  "id": "34",
+  "name": "حور وشاعر",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "در جواب نظم گوتہ موسوم بہ حور و شاعر",
+      "Verse": [],
+      "id": 1
+    },
+    {
+      "name": "حور",
+      "name-en": "The Houri",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ بہ بادہ میل داری نہ بہ من نظر گشائے\nعجب اینکہ تو ندانی رہ و رسم آشنائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are not attracted to wine, and you do not look at me: How surprising that you do not know the art of mixing!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہمہ ساز جستجوئی ہمہ سوز آرزوئے\nنفسی کہ میگدازی غزلی کہ می سرائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is but a tune of quest, a flame of desire, your sigh, your song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ نوای آفریدی چہ جہان دلگشائے\nکہ ارم بہ چشم آید چو طلسم سیمیائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With your song you have made such a lovely world that paradise itself appears to me to be some conjurer’s trick.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "شاعر",
+      "name-en": "The Poet",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل رھروان فریبی بہ کلام نیش داری\nمگر اینکہ لذت او نرسد بہ نوک خاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You charm travelers’ hearts with pointed talk except that, in the pleasure it gives, one cannot compare it with the sharp thorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چکنم کہ فطرت من بہ مقام در نسازد\nدل ناصبور دارم چو صبا بہ لالہ زاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can I do, for by nature I am not someone who can live for long in one place! My heart is restless, like the west wind in a field of tulips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چو نظر قرار گیرد بہ نگار خوبروئے\nتپد آن زمان دل من پی خوبتر نگاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moment my eyes light upon a pretty face, my heart begins to long for one prettier still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ز شرر ستارہ جویم ز ستارہ آفتابی\nسر منزلی ندارم کہ بمیرم از قراری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the spark I seek a star, in the star a sun: I have no wish for a destination, for if I stop I die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چو ز بادۂ بہاری قدحی کشیدہ خیزم\nغزلی دگر سرایم بہ ہوای نوبہاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I get up, having drunk a cup of wine matured by one spring, I begin to sing another verse, and long for yet another spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "طلبم نہایت آن کہ نہایتی ندارد\nبہ نگاہ ناشکیبی بہ دل امیدواری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek the end of what has no end – with a restless eye, and hope in my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دل عاشقان بمیرد بہ بہشت جاودانی\nنہ نوای دردمندی نہ غمی نہ غمگساری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lover’s heart dies in an eternal heaven – in it no afflicted soul cries, there is no sorrow, and no one to drive sorrow away!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "The Houri And The Poet",
+  "credits": "English Translation by: Mustansir Mir"
+}

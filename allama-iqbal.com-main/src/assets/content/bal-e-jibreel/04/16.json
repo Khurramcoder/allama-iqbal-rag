@@ -1,0 +1,115 @@
+{
+  "id": "16",
+  "name": "ایک نوجوان کے نام",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترے صوفے ہیں افرنگی، ترے قالیں ہیں ایرانی \nلہو مجھ کو رلاتی ہے جوانوں کی تن آسانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy sofas are from Europe, thy carpets from Iran; this slothful opulence evokes my sigh of pity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "امارت کیا، شکوہ خسروی بھی ہو تو کیا حاصل\nنہ زور حیدری تجھ میں، نہ استغنائے سلمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "استغنائے سلمانی: حضرت سلمان (رضی اللہ) جیسی بے نیازی اور ہر قسم کی محتاجی سے بالا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In vain if thou possessest Khusroe’s imperial pomp, if thou dost not possess prowess or contentment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ ڈھونڈ اس چیز کو تہذیب حاضر کی تجلی میں \nکہ پایا میں نے استغنا میں معراج مسلمانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek not thy joy or greatness in the glitter of Western life, for in contentment lies a Muslim’s joy and greatness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عقابی روح جب بیدار ہوتی ہے جوانوں میں \nنظر آتی ہے اس کو اپنی منزل آسمانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When an eagle’s spirit awakens in youthful hearts, it sees its luminous goal beyond the starry heavens.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ ہو نومید، نومیدی زوال علم و عرفاں ہے \nامید مرد مومن ہے خدا کے راز دانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Despair not, for despair is the decline of knowledge and gnosis: the Hope of a Believer is among the confidants of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہیں تیرا نشیمن قصر سلطانی کے گنبد پر \nتو شاہیں ہے، بسیرا کر پہاڑوں کی چٹانوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy abode is not on the dome of a royal palace; thou art an eagle and shouldst live on the rocks of mountains.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To A Young Man",
+  "credits": "English Translation by: Naim Siddiqui"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ مس بولی ارادہ خودکشی کا جب کیا میں نے \nمہذب ہے تو اے عاشق! قدم باہر نہ دھر حد سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I tried to commit suicide the Miss exclaimed: ‘O lover! If you are civilized do not transgress the limits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ جرات ہے، نہ خنجر ہے تو قصد خودکشی کیسا \nیہ مانا درد ناکامی گیا تیرا گزر حد سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without courage or dagger suicide’s intention is strange; even granting your pain of failure has exceeded the limits’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہا میں نے کہ اے جاں جہاں کچھ نقد دلوا دو \nکرائے پر منگالوں گا کوئی افغان سرحد سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘O dear, give me some cash I shall hire some Afghan from the Frontier Province’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,126 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ آن قوم از تو میخواہم گشادی \nفقیہش بے یقینی کم سوادی\nبسی نادیدنے را دیدہ ام من\n\"مرا اے کاشکی مادر نزادی\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ سے اس قوم کے حالات کی بہتری چاہتا ہوں، جس کے فقیہ ہا یقین سے بے بہرہ اور کم علم ہیں۔ \nمیں نے بہت سی ایسی باتیں دیکھی ہیں، جو دیکھی نہیں جا سکتیں، 'کاش میری ماں نے مجھے نہ جنا ہوتا'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek for that nation a rising field, with jurists confused, too rigid to yield.\nThe woes I have seen I wish not to spot. Alas my mother had mothered me not.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ تو عتاب آلود تا چند\nبتان حاضر و موجود تا چند\nدرین بتخانہ اولاد براہیم\nنمک پروردۂ نمرود تا چند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک آپ کی نگاہ غضب آلود رہے گی، یہ حاضر و موجود بت کب تک رہیں گے۔ \n(دنیا کے) اس بتکدے میں ابراہیم (علیہ) کی اولاد (مسلمان)، کب تک نمرود (غیر اللہ ) کی نمک خوار (غلام) رہے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long shall you gaze with a wrathful stare? Omnipresent gods, how long every where?\nThe sons of the Abe how long in this fane, like fosters of Nimrod shall hold their reign?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سرود رفتہ باز آید کہ ناید؟\nنسیمی از حجاز آید کہ ناید؟\nسرآمد روزگار این فقیری\nدگر داناے راز آید کہ ناید؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب گذشتہ سرود واپس آئے یا نہ آئے؟ حجاز کی طرف سے ٹھنڈی ہوا چلے یا نہ چلے؟\nاس فقیر (اقبال) کی زندگی تو ختم ہوئی، اب کوئی اور راز آشنا آئے یا نہ آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That bliss of the past may come or not; that breeze of Hijaz may come or not? This beggar’s last ‘time’ has come so near, may come or not secrets seer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگر می آید آن دانای رازی \nبدہ او را نواے دل گدازی\nضمیر امتان را می کند پاک\nکلیمی یا حکیمی نے نوازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر وہ دانائے راز آئے ، تو اسے نوائے دلگداز عطا فرمائیں۔ \nامتوں کے دلوں کو یا تو کلیم پاک کرتا ہے، یا ایسا حکیم جو نے نواز (شاعر) ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If so e’er comes that gifted mystic sage, to him then convey a burning message: \nTo purify conscience of nations soon, with sceptre of Moses and David’s tune.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "متاع من دل درد آشنای است\nنصیب من فغان نارسای است\nبخاک مرقد من لالہ خوشتر\nکہ ہم خاموش و ہم خونین نوای است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری متاع بس ایک دل درد آشنا ہے، میرا مقصود بے اثر فریاد ہے۔ \nمیری قبر کی مٹی پر لالے کا پھول ہی اچھا لگے گا، کیونکہ یہ میری طرح خاموش بھی ہے اور خونیں نوا بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is wealth mine who knows pang’s pine, yet not reaching Him are wailings mine.\nBy the grave of mine a poppy looks fine, like me calm and gory are laments thine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

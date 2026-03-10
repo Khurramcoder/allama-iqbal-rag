@@ -1,0 +1,187 @@
+{
+  "id": "03",
+  "name": "محاورۂ تیر و شمشیر",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "02",
+  "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "تیر و شمشیر کی گفتگو",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سر حق تیر از لب سوفار گفت\nتیغ را در گرمی پیکار گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیر نے اپنی سوفار (تیر کا پچھلا حصّہ) کی زبان سے سچی بات کہی؛ اس نے گھمسان کی جنگ میں تلوار سے کہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How truthfully the well-notched arrow, \nspoke unto the sword in heat of battletide:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے پریھا جوہر اندر قاف تو\nذوالفقار حیدر از اسلاف تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے جو پر کوہ قاف کی پریوں کی مانند ہيں ؛ ذوالفقار حیدر (رضی اللہ) تیرے اسلاف میں سے تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘What magic lustre glitters in thy steel like fairy dancers in the Caucasus? Thou, who canst boast in thy long ancestry of Ali’s trusty weapon, Dhul-Faqar;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "قوت بازوی خالد دیدہ ئی\nشام را بر سر شفق پاشیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے حضرت خالد (رحمتہ) کے بازو کی قوّت دیکھی ہے؛ اور ملک شام پر خون کی شفق بکھیری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who hast beheld the might of Khalid’s arm, sprinkled red sunset on the head of night;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آتش قہر خدا سرمایہ ات\nجنت الفردوس زیر سایہ ات",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ایک طرف) اللہ تعالے کے قہر کی آگ تیرا سرمایہ ہے؛ (دوسری طرف) جنت الفردوس تیرے سایہ کے نیچے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thine is the fire of God’s omnipotence, and neath thy shadow Paradise awaits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در ہوایم یا میان ترکشم\nہر کجا باشم سراپا آتشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں فضا میں اڑ رہا ہوں یا ترکش میں پڑا ہوں ؛ جہاں بھی ہوتا ہوں سرا پا آتش ہوتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether I wing in air, or lie encased within the quiver, wheresoe’er I be I am all fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از کمان آیم چو سوی سینہ من\nنیک می بینم بہ توی سینہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جب کمان سے دشمن کے سینے کی جانب آتا ہوں تو پہلے اس کے سینے کے اندر غور سے دیکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When from the bow I speed towards a human breast, right well I see into its depth;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گر نباشد در میان قلب سلیم\nفارغ از اندیشہ ہای یأس و بیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس کے اندر یاس و بیم کے اندیشوں سے فارغ قلب سلیم نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And if it do not hold a heart unflawed, unvisited by thoughts of terror or despair;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چاک چاک از نوک خود گردانمش\nنیمہ ئی از موج خون پوشانمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو میں اسے اپنی نوک سے ٹکڑے ٹکڑے کر دیتا ہوں اور خون کی پوشاک پہنا دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Swiftly my point plucks it asunder, and I spread it o’er with surging gore for shift",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ور صفای او ز قلب مومن است\nظاہرش روشن ز نور باطن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن اگر اس کے اندر قلب مومن کی صفائی ہو اور اس کا ظاہر نور باطن سے ردشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But if that breast serenely throb with a believer’s heart \nand glow reflective to an inward light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "از تف او آب گردد جان من\nہمچو شبنم می چکد پیکان من",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس کی گرمی سے میری جان پانی پانی ہو کر میرے پیکان سے شبنم کی مانند ٹپک جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul is turned to water by its flame, \nmy shafts fall soft as the innocuous dew.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Conversation Of The Arrow And The Sword"
+}

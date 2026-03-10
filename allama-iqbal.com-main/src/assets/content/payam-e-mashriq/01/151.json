@@ -1,0 +1,34 @@
+{
+  "id": "151",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رمیدی از خداوندان افرنگ\nولی بر گور و گنبد سجدہ پاشی\nبہ لالائی چنان عادت گرفتی\nز سنگ راہ مولائی تراشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو فرنگی خداؤں سے تو بھاگتا ہے، لیکن قبروں اور مزاروں پر سجدے کرتا ہے۔ \nتو نے ایسی ہندوانہ عادت اختیار کر لی ہے ، کہ سنگ راہ سے اپنا خدا تراشتا ہے (یہی خدا حقیقی خدا تک پہنچنے میں رکاوٹ ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast escaped the mastery of the West and yet to tomb and dome thou still dost pray: \nThou art so well inured to servitude. Thou carv’st a master of the stony way!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

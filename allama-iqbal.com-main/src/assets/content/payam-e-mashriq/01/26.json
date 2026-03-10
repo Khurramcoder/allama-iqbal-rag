@@ -1,0 +1,34 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سحر در شاخسار بوستانے\nچہ خوش میگفت مرغ نغمہ خوانے\nبر آور ہر چہ اندر سینہ داری\nسرودے ، نالہ ئی ، آہے فغانے",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے وقت چمن کی شاخ پر ، مرغ نغمہ خواں نے کیا اچھی بات کی۔\nجو کچھ تیرے سینے کے اندر ہے باہر نکال، وہ راگ ہو، نالہ و فریاد یا آ ہ و فغاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One morning in a garden, passing by, I heard a bird perched on a high branch cry: \n‘Out with whatever you have inside you; a song, a plaint, a dirge, a cry, a sigh.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "باز بہ سرمہ تاب دہ چشم کرشمہ زای را\nذوق جنون دو چند کن شوق غزلسرای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی کرشمہ ساز آنکھ کم سرمہ سے پھر تیز کر؛ اور (اس طرح) غزل سرائی کے ذوق میں جنوں ملا کر دو چند کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let surma brighten once again your magic-working eyes, and let my frenzied urge to sing about them be intensified.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نقش دگر طراز دہ آدم پختہ تر بیار\nلعبت خاک ساختن می نسزد خدای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "نئی قسم کا نقش ثبت کر، پختہ تر آدم لا؛ مٹی کی گڑیا بنانا خدا کو زیب نہیں دیتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Invent another pattern, and create a new, maturer man. It does not suit a God to fashion dolls of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "قصۂ دل نگفتنی است درد جگر نہفتنی است\nخلوتیان کجا برم لذت ہای ہای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "قصّہء دل بیان نہیں کیا جا سکتا ؛ درد جگر چھپا کر رکھنے والی چیز ہے؛ اے خلوت میں رہنے والو! میں لذت فغاں کا کیا کروں۔ (یہ مجھے نالہ و فریاد پر مجبور کرتی ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The story of my heart is best untold, my anguish best concealed. But, O my confidants, what shall I do about the pleasure of complaining?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آہ درونہ تاب کو اشک جگر گداز کو\nشیشہ بہ سنگ میزنم عقل گرہ گشای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہاں ہے ایسی آہ جو اندر کو جلا دے؟ میں عقل گرہ کشا کے شیشے کو سنگ پر مارتا (اور چور چور کرتا) ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the breast-inflaming sigh and where the heart-dissolving tear? Stones to hurl at the mirror of the knot-resolving intellect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بزم بہ باغ و راغ کش زخمہ بتار چنگ زن\nبادہ بخور غزل سرای بند گشا قبای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ و راغ میں مجلس آراستہ کر ، تار چنگ کو مضراب سے چھیڑ؛ شراب پی ، غزل گا اور قبا کے بند کھول دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Assemble in the garden and the meadow, and play the lute, drink wine, sing ghazals, and unbutton your qabas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "صبح دمید و کاروان کرد نماز و رخت بست\nتو نشنیدہ ئی مگر زمزمۂ درای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "پو پھٹی ، کاروان نے نماز ادا کی اور رخت سفر باندھا؛ مگر تو نے شاید درا کا زمزمہ نہیں سنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is daybreak. The caravan has said its prayers and is all set to start. Perhaps you have not heard the starting-bell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ناز شہان نمی کشم زخم کرم نمی خورم\nدر نگر اے ہوس فریب ہمت این گدای را",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میں پادشاہوں کے ناز اٹھاتا ہوں ، نہ میں ان کے زخم کھاتا ہوں؛ اے ہوس فریب ! مجھ گدا کی ہمت دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not bear with monarchs’ airs, nor do I seek their favours. O greed-deluded man, look at a pauper’s bravery.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

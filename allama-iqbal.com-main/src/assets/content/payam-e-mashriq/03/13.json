@@ -1,0 +1,102 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خوش آنکہ رخت خرد را بہ شعلۂ می سوخت\nمثال لالہ متاعی ز آتشے اندوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوش نصیب ہے وہ شخص جس نے خرد کے لباس کو شعلہ ء مئے سے جلا دیا ، اور گل لالہ کی مانند آگ کو اپنی متاع بنایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy the man who burned with flames of wine his intellectual goods. He gained a new thing from the flames, rich like the tulip’s fiery hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو ہم ز ساغر می چہرہ را گلستان کن\nبہار خرقہ فروشی بہ صوفیان آموخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بھی جام مئے سے اپنا چہرہ گلستان (سرخ) بنا ، بہار نے صوفیوں کو خرقہ فروشی سکھا دی ہے (وہ خرقہ فروشی کر کے شراب حاصل کر رہے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come you; too, give your face a vernal freshness with a cup of wine, for spring makes pious Sufis sell their garments for that stuff.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دلم تپید ز محرومی فقیہ حرم\nکہ پیر میکدہ جامی بہ فتوئی نفروخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل فقیہء حرم کی محرومی پر بہت جلا، کہ پیر مئے کدہ نے اسے فتوی کے عوض جام شراب دینے سے انکار کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I felt great pity for the jurist, when I heard the taverner refused to buy of him a legal ruling for a cup of wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مسنج قدر سرود از نوای بی اثرم\nز برق نغمہ توان حاصل سکندر سوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نوائے بے اثر سے سرود کی قیمت کا انداز نہ کر ، نغمہ کی برق سے تو سکندر کی قیمتی متاع بھی جلائی جا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not judge music by my ineffectual songs. A lightening flash of it can burn an Alexander’s whole domain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "صبا بہ گلشن ویمر سلام ما برسان\nکہ چشم نکتہ وران خاک آن دیار افروخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صبا! گلشن ویمر تک ہمارا سلام پہنچا دے، اس شہر کی خاک نے نکتہ وروں کی آنکھ کو روشن کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O morning breeze, convey my greetings to the happy Weimar town. The light that radiated from it has illumined many sages’ minds.\n(Weimar: German town where Goethe spent most part of his life.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

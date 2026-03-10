@@ -1,0 +1,85 @@
+{
+  "id": "33",
+  "name": "شعر عجم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے شعر عجم گرچہ طرب ناک و دل آویز \nاس شعر سے ہوتی نہیں شمشیر خودی تیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "طرب ناک: پر سرور۔ \nشمشير خودي: خود آگاہی کی نظر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no doubt that Persian verse, like music of the harp and lute, is full of joy and has much charm, yet sword or Self it makes not sharp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "افسردہ اگر اس کی نوا سے ہو گلستاں \nبہتر ہے کہ خاموش رہے مرغ سحر خیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغ سحر خيز: صبح سویرے اٹھ کر چہچہانے والا پرندہ ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much good that birds which chirp and sing at morning early rise and bloom, give tip their songs, if can't dispel this earthly meadow's murk and gloom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ ضرب اگر کوہ شکن بھی ہو تو کیا ہے \nجس سے متزلزل نہ ہوئی دولت پرویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A mighty stroke with case can cleave a mountain high and big in twain: If fails to shake the founds of Chosroe's throne, is useless quite and fully vain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اقبال یہ ہے خارہ تراشی کا زمانہ \n'از ہر چہ بآئینہ نمایند بہ پرہیز'",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اپنی شاعری کے آئینے سے جو کچھ دیکھتے ہیں اس سے بچنا چاہئیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal much strife is needed in present age which needs chiselling rocks and crushing stone; shun case, in mirror do not peep, and let such things remain alone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Persian Poetry",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

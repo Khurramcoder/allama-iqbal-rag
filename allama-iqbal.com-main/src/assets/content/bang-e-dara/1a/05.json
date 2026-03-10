@@ -1,0 +1,235 @@
+{
+  "id": "05",
+  "name": "ابر کوہسار",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے بلندی سے فلک بوس نشیمن میرا\nابر کہسار ہوں گل پاش ہے دامن میرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلک بوس: آسمان کو چومنے والا یعنی بہت بلند۔ \nگل پاش: پھول برسانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Elevation bestows the sky's nearness to my abode; I am the mountain's cloud, my skirt sprinkles roses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کبھی صحرا، کبھی گلزار ہے مسکن میرا\nشہر و ویرانہ مرا، بحر مرا، بن میرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now the wilderness, now the rose garden is my abode, city and wilderness are mine, ocean is mine, forest is mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کسی وادی میں جو منظور ہو سونا مجھ کو\nسبزہ کوہ ہے مخمل کا بچھونا مجھ کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I want to return to some valley for the night; the mountain's verdure is my carpet of velvet.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مجھ کو قدرت نے سکھایا ہے درافشاں ہونا\nناقہ شاہد رحمت کا حدی خواں ہونا",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناقہ: اونٹنی۔\nدرافشاں: موتی بکھیرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature has taught me to be a pearl spreader’ to chant the camel song for the camel of the Beloved of Mercy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غم زدائے دل افسردہ دہقاں ہونا\nرونق بزم جوانان گلستاں ہونا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To be the comforter of the dispirited farmer's heart; to be the elegance of the assembly of the garden's trees.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بن کے گیسو رخ ہستی پہ بکھر جاتا ہوں\nشانہ موجہ صرصر سے سنور جاتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "شانہ موجہء صرصر: ہوا کا جھونکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I spread out over the face of the earth like the locks; I get arranged and adorned by the breeze's.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دور سے دیدہ امید کو ترساتا ہوں\nکسی بستی سے جو خاموش گزر جاتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I tantalize the expecting eye from a distance as I pass silently over some habitation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سیر کرتا ہوا جس دم لب جو آتا ہوں\nبالیاں نہر کو گرداب کی پہناتا ہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "لب جو: ندی کنارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I approach strolling towards a brook's bank; I endow the brook with ear rings of whirlpools.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "سبزہ مزرع نوخیز کی امید ہوں میں\nزادہ بحر ہوں پروردہ خورشید ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مزرع نوخیز: نئی اگی ہوئی کھیتی۔ \nزادہ بحر: جو سمندر سے پیدا ہوا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the hope of the freshly grown field's verdure; I am the ocean's offspring, I am nourished by the sun.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چشمہ کوہ کو دی شورش قلزم میں نے\nاور پرندوں کو کیا محو ترنم میں نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I gave ocean's tumult to the mountain spring; I charmed the birds into thrilling chants.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "سر پہ سبزے کے کھڑے ہو کے کہا قم میں نے\nغنچہ گل کو دیا ذوق تبسم میں نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "قم: اٹھ، کھڑا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I pronounced ‘Rise’* standing by the verdure's head; I conferred the taste for smile to the rose-bud.\n* This is an allusion to the miracle of Ibn-e-Maryam (A.S.) in which, he used to raise the dead to life by pronouncing ‘Qum bi Idhnillah’ (Rise with the permission of God) Just as he used to raise the dead to life with the permission of God so does the rain from cloud raise the apparently dead vegetation to life with the permission of God: The Holy Qur’an 78:14-16.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "فیض سے میرے نمونے ہیں شبستانوں کے\nجھونپڑے دامن کہسار میں دہقانوں کے",
+              "lang": "Original"
+            },
+            {
+              "_content": "شبستانوں: امیر لوگوں کے سونے کی جگہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By my benevolence farmers' huts on the mountain side are converted into bed chambers of the opulent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "The Cloud On The Mountain",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

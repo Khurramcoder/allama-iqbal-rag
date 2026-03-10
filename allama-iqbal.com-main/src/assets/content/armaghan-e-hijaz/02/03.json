@@ -1,0 +1,33 @@
+{
+  "id": "03",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دگرگوں عالم شام و سحر کر\nجہان خشک و تر زیر و زبر کر\nرہے تیری خدائی داغ سے پاک\nمرے بے ذوق سجدوں سے حذر کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دگرگوں: بدلنا۔ \nزیر و زبر: تہس نہس ۔ \nحذر: بچ، پرہیز کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Change the whole world’s evenings and dawns, change the whole world’s dry and wet lawns. Make thy Godship free from every plaint, look not my kowtow’s tasteless taint.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

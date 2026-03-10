@@ -1,0 +1,194 @@
+{
+  "id": "11",
+  "name": "وصال",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جستجو جس گل کی تڑپاتی تھی اے بلبل مجھے\nخوبی قسمت سے آخر مل گیا وہ گل مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Nightingale! The rose whose search made me flounced; by dint of good luck that rose I have finally found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خود تڑپتا تھا، چمن والوں کو تڑپاتا تھا میں\nتجھ کو جب رنگیں نوا پاتا تھا، شرماتا تھا میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I used to flounce myself; I used to make others flounced. I used to feel shy when I found you singing beautifully.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میرے پہلو میں دل مضطر نہ تھا، سیماب تھا\nارتکاب جرم الفت کے لیے بے تاب تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A mere restless heart was not in my bosom, it was mercury. I was impatient for fulfillment of the Longing of Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نامرادی محفل گل میں مری مشہور تھی\nصبح میری آئنہ دار شب دیجور تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My misfortune was famous in the assembly of the rose; my morning was the reflection of my dark night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از نفس در سینہء خوں گشتہ نشتر داشتم\nزیر خاموشی نہاں غوغائے محشر داشتم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With my breath I have a blood stained knife in the bosom; under the cloak of silence I have Judgment Day's uproar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اب تاثر کے جہاں میں وہ پریشانی نہیں\nاہل گلشن پر گراں میری غزل خوانی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now that distress does not exist in my reflections' world; my reciting ghazals is no longer irksome to rose garden's assembly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عشق کی گرمی سے شعلے بن گئے چھالے مرے\nکھلیتے ہیں بجلیوں کے ساتھ اب نالے مرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the heat of Love my blisters became flames; now playing with thunderbolts are my wailings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "غازئہ الفت سے یہ خاک سیہ آئینہ ہے\nاور آئینے میں عکس ہمدم دیرینہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghazah-e-olfat sey yeh khak-e-seih aeinah hai; aur aeinay mein aks-e-humdam-e-deirinah hai. \n(Ghazah: Powder.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "قید میں آیا تو حاصل مجھ کو آزادی ہوئی\nدل کے لٹ جانے سے میرے گھر کی آبادی ہوئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By becoming a prisoner I gained my freedom; by ruining the heart I got prosperity for my house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ضو سے اس خورشید کی اختر مرا تابندہ ہے\nچاندنی جس کے غبار راہ سے شرمندہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My star is shining with this sun's light, by whose path's dust the moon light is shy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "یک نظر کر دی و آداب فنا آموختی\nاے خنک روزے کہ خاشاک مرا واسوختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By a glance you taught me the rules of annihilation; how cool the day that has burnt away the motes from me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Union (Meeting The Beloved)",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

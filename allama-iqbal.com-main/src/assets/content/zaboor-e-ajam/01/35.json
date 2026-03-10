@@ -1,0 +1,136 @@
+{
+  "id": "35",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا براہ طلب بار در گل است ہنوز\nکہ دل بہ قافلہ و رخت و منزل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "راہ طلب میں ابھی تک میں علائق دنیا میں گرفتار ہوں؛ ابھی تک میرا قافلہ ، سامان اور منزل کے چکر میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon the road of high desire my load yet lieth in the mire, because my heart would still engage with trappings, caravan, and stage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کجا ست برق نگاہی کہ خانمان سوزد\nمرا با معاملہ با کشت و حاصل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہاں ہے وہ برق نگاہ جو میرا گھر بار جلا دے! ابھی تک میں کھیتی اور اس کی پیداوار کی فکر میں گرفتار ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the lightning of the gaze that shall my dwelling burn and raze? Fain would I yet a bargain keep with what men sow, and what men reap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی سفینۂ این خام را بہ طوفان دہ\nز ترس موج نگاھم بساحل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ خام کی کشتی کو ذرا طوفان میں ڈال د یجئیے؛ کہ موجوں کے ڈر سے میں ابھی ساحل کی جانب دیکھ رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O let this layman’s vessel ride upon a full, tempestuous tide: The wave affrighteth me so sore; I fix my gaze upon the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تپیدن و نرسیدن چہ عالمی دارد\nخوشا کسی کہ بدنبال محمل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تڑپنا اور مقصود تک نہ پہنچنا ، کیا لطف رکھتا ہے! خوش نصیب ہے وہ شخص جو ابھی محمل کے پیچھے بھاگ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah, what adventure is to gain – to quiver, never to attain: Thrice happy he, who even now behind the train doth riding go.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کسی کہ از دو جہان خویش را برون نشناخت\nفریب خوردۂ این نقش باطل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس شخص نے اپنے آپ کو دونوں جہانوں سے الگ نہیں پہچانا؛ وہ ابھی تک اس نقش باطل (دنیا) کا فریب خودرہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But he who never knew his heart from the two worlds to dwell apart; he still bemused and cheated is by unsubstantial images.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نگاہ شوق تسلی بہ جلوہ ئی نشود\nکجا برم خلشے را کہ در دل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک جلوے سے میری نگاہ شوق کی تسلی نہیں ہوئی؛ اس خلش کا کیا علاج جو ابھی تک میرے دل میں موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A single, brief epiphany consoleth not the passionate eye: Where shall I take the wounding dart that pricketh even yet my heart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حضور یار حکایت دراز تر گردید\nچنانکہ این ہمہ نا گفتہ در دل است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبوب کے حضور بات بہت لمبی ہو گئی ہے؛ لیکن اس کے باوجود بہت سی ان کہی باتیں دل میں رہ گئیں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the glad presence of the friend a history is that hath no end, as still these sorrows yet unsaid lie in my heart deep-buried.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

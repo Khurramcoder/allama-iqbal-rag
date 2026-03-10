@@ -1,0 +1,136 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تکیہ بر حجت و اعجاز و بیان نیز کنند\nکار حق گاہ بہ شمشیر و سنان نیز کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی دلائل اور فصاحت سے بھی کام لیتے ہیں ، اور کبھی حق کو پھیلانے کے لیے شمشیر و سنا ں بھی استعمال کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faith depends on arguments and on magic eloquence; yet anon men serve the Lord with the lance and fearless sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گاہ باشد کہ تہ خرقہ زرہ می پوشند\nعاشقان بندۂ حال اندو چنان نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی خرقہ کے نیچے زرہ بھی پہن لیتے ہیں ، کہ اہل محبت عشق کے تقا ضوں کے مطابق چلتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oft the dervish robes conceal underneath a coat of steel; lovers, slaves to passion’s mood, with such armour are endued.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون جھان کہنہ شود پاک بسوزند او را\nو ز ہمان آب و گل ایجاد جہان نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب دنیا فرسودہ ہو جاتی ہے تو اس کا نام و نشان مٹا دیتے ہیں، اور پھر اسی آب و گل سے نیا جہان پیدا کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the world too old is grown, it is burst and overthrown, then its water and its clay men for new foundation lay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہمہ سرمایۂ خود را بہ نگاہی بدہند\nاین چہ قومی است کہ سودا بزیان نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایک نگاہ محبت کے لیے اپنا سارا سرمایہ دے دیتے ہیں، یہ کیسے لوگ ہیں کہ خوشی خوشی نقصان کا سودا کر لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stored and cherished capital, for one glance they yield it all: What a people these, who take profit of the loss they make!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آنچہ از موج ہوا با پرکاہی کردند\nعجبی نیست کہ با کوہ گران نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ موج ہوا پرکاہ سے کرتی ہے ، یہی کچھ عاشقان خدا کوہ گراں سے بھی کر سکتے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What upon a blade of grass Ether-borne they bring to pass, ‘tis not strange that they can prove, ponderous mountain chains to move.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عشق مانند متاعی است بہ بازار حیات\nگاہ ارزان بفروشند و گران نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق بھی بازار حیات کی متاع ہے، کبھی یہ متاع سستی مل جاتی ہے اور کبھی اس کی بہت قیمت ادا کرنا پڑتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is as a merchandise; in Life’s marketplace it lies, now at little price is sold, and anon for mighty gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تا تو بیدار شوی نالہ کشیدم ورنہ\nعشق کاری است کہ بی آہ و فغان نیر کنند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آہ و نالہ سے اس لیے کام لیا ہے تاکہ تو بیدار ہو جائے ، ورنہ عشق ایسا کام ہے جو آہ و فغاں کے بغیر بھی سر انجام پا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have sung lamentingly out of sleep to waken thee, else is Love a labour done sighlessly, without a groan.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

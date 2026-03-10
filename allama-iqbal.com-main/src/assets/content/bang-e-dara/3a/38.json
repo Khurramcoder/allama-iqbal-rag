@@ -1,0 +1,146 @@
+{
+  "id": "38",
+  "name": "محاصرہ ادرنہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یورپ میں جس گھڑی حق و باطل کی چھڑ گئی \nحق خنجر آزمائی پہ مجبور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the struggle between Truth and falsehood began in Europe; the Truth was compelled on wielding the dagger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرد صلیب گرد قمر حلقہ زن ہوئی \nشکری حصار درنہ میں محصور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dust of the Cross circled round the Crescent; Shakree became besieged in the fortress of Adrianople.\n(Shakree: He was the commander of the army of the Uthmaniyah Khilafah defending Adrianople.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مسلم سپاہیوں کے ذخیرے ہوئے تمام \nروئے امید آنکھ سے مستور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Provisions of Muslim soldiers became exhausted; the face of hope from the eye became concealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آخر امیر عسکر ترکی کے حکم سے \n'آئین جنگ' شہر کا دستور ہوگیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last by the Turkish army commander’s orders ‘Martial Law’ was proclaimed the law of the city.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہر شے ہوئی ذخیرہ لشکر میں منتقل \nشاہیں گدائے دانہء عصفور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everything was transferred to the army camp’s store; the eagle became beggar for the grain of the sparrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "لیکن فقیہ شہر نے جس دم سنی یہ بات \nگرما کے مثل صاعقہ طور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But when the Faqih of the city heard this news he exploded with anger like the thunderbolt of Toor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ذمی کا مال لشکر مسلم پہ ہے حرام \nفتوی تمام شہر میں مشہور ہو گیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Dhimmi’s’ wealth is forbidden for the Muslim army’; this edict was published throughout the whole city.\n(Dhimmi: This is a non-Muslim who lives in an Islamic State and pays Jizyah, which is a tax which exempts him from military service and makes the Islamic government responsible for his protection and welfare.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چھوتی نہ تھی یہود و نصاری کا مال فوج \nمسلم، خدا کے حکم سے مجبور ہوگیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The army would not touch the Jews’ and Christians’ wealth; the Muslim became compelled by the Command of God! ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Siege Of Adrianople",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

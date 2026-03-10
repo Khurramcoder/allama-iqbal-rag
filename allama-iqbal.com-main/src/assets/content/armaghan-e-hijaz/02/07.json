@@ -1,0 +1,32 @@
+{
+  "id": "07",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہن ہنگامہ ہائے آرزو سرد\nکہ ہے مرد مسلماں کا لہو سرد\nبتوں کو میری لدینی مبارک\nکہ ہے آج آتش ال ھو، سرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The cravings are cold of the uproars old, as blood of Muslim is now a day cold.\nMy faithless trend the idols hail. My Allah Hoo’s fire is cold like hails.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

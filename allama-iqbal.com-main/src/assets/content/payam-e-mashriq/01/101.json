@@ -1,0 +1,34 @@
+{
+  "id": "101",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو در جنت خرامیدم پس از مرگ\nبہ چشمم این زمین و آسمان بود\nشکی با جان حیرانم در آویخت\nجہان بود آن کہ تصویر جہان بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں فوت ہونے کے بعد جنت میں ٹہل رہا تھا ؛ تو مجھے اس زمین و آسمان کا کا خیال آیا۔\n میری جان حیران شک میں مبتلا ہو گئی ، کہ وہ جہان تھا یا جہان کی تصویر تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I was dead, and walked in Paradise, this heaven I could clearly see;\nOne doubt yet lingered in my baffled soul – was it the world, that world of imagery?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

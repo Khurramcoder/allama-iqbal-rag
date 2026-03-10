@@ -1,0 +1,99 @@
+{
+  "id": "03",
+  "name": "تصویر و مصور",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "name": "تصویر",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہا تصویر نے تصویر گر سے\nنمائش ہے مری تیرے ہنر سے\nولیکن کس قدر نا منصفی ہے\nکہ تو پوشیدہ ہو میری نظر سے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Picture: A picture said once on the painter’s play, my beauty gets a charm on thy display.\nTo me it looks so unfair that why thou are hidden from my eye.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "مصور",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گراں ہے چشم بینا دیدہ ور پر\nجہاں بینی سے کیا گزری شرر پر!\nنظر، درد و غم و سوز و تب و تاب\nتو اے ناداں، قناعت کر خبر پر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Painter: The glance a burden on Seeing Eye, what happened to spark on seeing pry.\nOf griefs, pains, burnings, the look bad a part, O heedless! Be content with conscious heart!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "تصویر",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خبر، عقل و خرد کی ناتوانی\nنظر، دل کی حیات جاودانی\nنہیں ہے اس زمانے کی تگ و تاز\nسزاوار حدیث 'لن ترانی'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Picture: The heart a weak point of wisdom and sense, a life long motive for the heart is glance.\nThis world’s tug and pull suits her never, to hear God’s voice, ‘You can’t see me ever’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "مصور",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو ہے میرے کمالات ہنر سے\nنہ ہو نومید اپنے نقش گر سے\nمرے دیدار کی ہے اک یہی شرط\nکہ تو پنہاں نہ ہو اپنی نظر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Painter: Thou art a sign but of my wonder’s game, be despaired never of thy maker’s aim.\nFor my sure vision note a point hence, be not hidden e’er from thy own glance!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "The Picture And Painter"
+}

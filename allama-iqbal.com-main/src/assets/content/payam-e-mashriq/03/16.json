@@ -1,0 +1,153 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دانۂ سبحہ بہ زنار کشیدن آموز\nگر نگاہ تو دو بین است ندیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تسبیح کا دانہ ، زنّار میں پرونا سیکھ، اگر تیری نگاہ دوئی پسند ہے تو اس سے بہتر ہے کہ تو نہ دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn how to put a rosary bead on the sacred thread, and if your eyes see double, then learn how not to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پا ز خلوت کدۂ غنچہ برون زن چو شمیم\nبا نسیم سحر آمیز و وزیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوشبو کی مانند کلی کے خلوت کدہ سے باہر پاؤں رکھ، اور صبح کی ہوا کے ساتھ مل کر (ہر سو) پھیلنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come forth like fragrance from the closet of the bud, mix with the morning breeze, and thus learn how to blow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آفریدند اگر شبنم بی مایہ ترا\nخیز و بر داغ دل لالہ چکیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھے حقیر شبنم پیدا کیا گیا ہے، تو اٹھ اور گل لالہ کے داغ دل پر ٹپکنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have been created as a humble drop of dew, arise and learn how to fall on a tulip’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگرت خار گل تازہ رسی ساختہ اند\nپاس ناموس چمن دار و خلیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھے تازہ کھلے ہوئے پھول کا کانٹا بنایا گیا ہے، تو ناموس چمن کا پاس رکھتے ہوئے چبھنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have been created as a thorn adhering to a fresh-blown rose, maintain the garden’s honour: Learn how to prick.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "باغبان گر ز خیابان تو بر کند ترا\nصفت سبزہ دگر بارہ دمیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر باغبان نے تجھے تیری کیاری سے اکھاڑ پھینکا ہے، تو سبزے کی مانند دوبارہ اگنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are weeded by the gardener out of your own flower-bed, learn how to grow afresh as grass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تا تو سوزندہ تر و تلخ تر آئی بیرون\nعزلت خم کدہ ئی گیر و رسیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تو زیادہ کیف آور تلخ تر ہو کر باہر آئے ، خم کدہ کی تنہائی اختیار کر اور پختہ تر ہونا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So that you come out stronger and more bitter still, remain in the wine cellar, and be seasoned there.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تا کجا در تہ بال دگران می باشی\nدر ہوای چمن آزادہ پریدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کب تک دوسروں کے بال و پر کے نیچے (پناہ لیے ) رہے گا، چمن کی فضا میں آزادا نہ اڑنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long will you remain under another’s wings? Learn how to fly with freedom in the garden air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "در بتخانہ زدم مغبچگانم گفتند\nآتشے در حرم افروز و تپیدن آموز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے بت خانے کا دروازہ کھٹکھٹایا تو مغ بچوں نے مجھ سے کہا، حرم میں جا کر آگ روشن کر اور اس میں جلنا سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I knocked at the tavern door, the tavern-keeper said: ‘Go, light a fire in the Harem itself, and let it set your heart aflame.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

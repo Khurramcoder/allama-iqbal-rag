@@ -1,0 +1,146 @@
+{
+  "id": "27",
+  "name": "شفاخانہ حجاز",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک پیشوائے قوم نے اقبال سے کہا \nکھلنے کو جدہ میں ہے شفاخانہ حجاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A leader of the nation once said to Iqbal: ‘A hospital is about to open in Jeddah for Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوتا ہے تیری خاک کا ہر ذرہ بے قرار \nسنتا ہے تو کسی سے جو افسانہ حجاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every speck of your dust becomes restless as you hear from somebody the tale of Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دست جنوں کو اپنے بڑھا جیب کی طرف \nمشہور تو جہاں میں ہے دیوانہ حجاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Move your hand of Love towards your pocket; you are world famous as the lover of Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دارالشفا حوالی لبطحا میں چاہیے \nنبض مریض پنجہ عیسی میں چاہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hospital in the suburbs of Battha* is needed in the hands of Issa the patient’s pulse is needed.’\n(*This is another name of Makkah Mu‘azzamah.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "میں نے کہا کہ موت کے پردے میں ہے حیات \nپوشیدہ جس طرح ہو حقیقت مجاز میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said ‘Life lies in the veil of death as the Truth lies veiled in metaphors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تلخابہ اجل میں جو عاشق کو مل گیا \nپایا نہ خضر نے مے عمر دراز میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What the Lover has obtained in the position of death; Khizar could not obtain in the wine of eternal life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اوروں کو دیں حضور! یہ پیغام زندگی \nمیں موت ڈھونڈتا ہوں زمین حجاز میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sir, convey this message of life to others; I am searching for death in the land of Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آئے ہیں آپ لے کے شفا کا پیام کیا \nرکھتے ہیں اہل درد مسیحا سے کام کیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why have you brought the message of cure? What concern do Lovers have with the Masiha.* \n(*Allusion to Issa A.S. and his miracle of bringing the dead to life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Hospital Of Hijaz",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

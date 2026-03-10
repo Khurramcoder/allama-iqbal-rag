@@ -1,0 +1,136 @@
+{
+  "id": "21",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بر عقل فلک پیما ترکانہ شبیخون بہ\nیک ذرہ درد دل از علم فلاطون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل فلک پیما پر ترکوں کی مانند دلیرانہ شبخون مارنا چاہیئے ؛ درد دل (عشق) کا ایک ذرّہ افلاطون کے سارے علم سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better is the robbers’ train than the heaven-pacing brain, better one distress of heart than all Plato’s learned art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دی مغبچہ ئی با من اسرار محبت گفت\nاشکی کہ فرو خوردی از بادۂ گلگون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل مغبچہ نے مجھے اسرار محبت سے آگاہ کرتے ہوئے کہا؛ جو آنسو تو پی جائے، وہ شراب گلگوں سے بہتر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yesterday the Magian boy told me of love’s secret joy: ‘Better that salt tear of thine than the sweet and ruby wine.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آن فقر کہ بی تیغی صد کشور دل گیرد\nاز شوکت دارا بہ از فر فریدون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا فقر جو تلوار کے بغیر دلوں کی صدہا مملکتیں فتح کر لیتا ہے، شوکت دارا اور فر فریدوں سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better poverty that gains bloodlessly the heart’s domains, than the realm Darius won, Feridun’s dominion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در دیر مغان آئی مضمون بلند آور\nدر خانقہ صوفی افسانہ و افسون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر مغاں کے دیر میںآئے تو بلند مضمون بات کہہ؛ قصّے کہانیوں کی باتیں صوفی کی خانقاہ میں اچھی لگتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the Magian temple cry; let Thy voice be heard on high! But within the Sufi cell better is the whispered spell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در جوی روان ما بی منت طوفانی\nیک موج اگر خیزد آن موج ز جیحون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ہماری جوئے رواں میں (از خود)، بغیر کسی طوفان کا ا حسان اٹھائے ایک موج بھی پیدا ہو جائے، تو وہ دریائے جیحوں سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With our river of heart’s blood need is none of Noah’s flood; better there one swelling wave than where Oxus’ waters lave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سیلی کہ تو آوردی در شھر نمی گنجد\nاین خانہ بر اندازی در خلوت ہامون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اقبال!) تو جو سیلاب (جنون) لایا ہے، یہ شہر میں نہیں سماتا، اس خانہ بر انداز طوفان کے لیے ویرانے کی خلوت بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, Thy torrent sweeping down threatens to engulf the town! Better let Thy havoc be in the desert’s privacy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اقبال غزل خوان را کافر نتوان گفتن\nسودا بدماغش زد از مدرسہ بیرون بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال غزل خواں کو کافر تو نہیں کہا جا سکتا، البتہ اس کے دماغ میں سودا ضرور ہے، اس لیے اسے مدرسے سے باہر ہی رکھنا چاہئیے (تاکہ وہ جوانوں کا دماغ خراب نہ کر دے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Singer Iqbal, sooth to tell, call him not an infidel: Better he were out of school till his fevered brain shall cool!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

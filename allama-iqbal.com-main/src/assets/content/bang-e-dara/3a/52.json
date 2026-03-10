@@ -1,0 +1,130 @@
+{
+  "id": "52",
+  "name": "کفر واسلام",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "تضمین بر شعر میررضی دانش",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ایک دن اقبال نے پوچھا کلیم طور سے \nاے کہ تیرے نقش پا سے وادی سینا چمن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day Iqbal questioned the Kalim of Toor: ‘O You whose foot-prints converted the Valley of Sinai into a garden!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آتش نمرود ہے اب تک جہاں میں شعلہ ریز \nہوگیا آنکھوں سے پنہاں کیوں ترا سوز کہن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire of Namrud* is still ablaze in the world; why your Love’s old fire has been hidden from the eye’?\n* Though the Holy Qur’an does not say so it is universally believed in Islamic literature that Namrud was the king who ordered that Ibrahim A.S. be thrown into the fire).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تھا جواب صاحب سینا کہ مسلم ہے اگر \nچھوڑ کر غائب کو تو حاضر کا شیدائی نہ بن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The reply of Sinai’s Master was: ‘If you are a Muslim, leaving the Invisible do not become the lover of the visible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ذوق حاضر ہے تو پھر لازم ہے ایمان خلیل \nورنہ خاکستر ہے تیری زندگی کا پیرہن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have taste for the visible you need the Faith of Khalil; otherwise ashes are the adornments of your life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہے اگر دیوانہء غائب تو کچھ پروا نہ کر \nمنتظر رہ وادی فاراں میں ہو کر خیمہ زن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are Lover of the Invisible do not care at all; set your lamp in the Valley of Faran and remain waiting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عارضی ہے شان حاضر، سطوت غائب مدام\nاس صداقت کو محبت سے ہے ربط جان و تن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The visible’s glory is temporary; the Invisibile’s Majesty is permanent. This Truth has the body-and-soul connection with Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شعلہ نمرود ہے روشن زمانے میں تو کیا \nشمع خود رامی گدازد درمیان انجمن \nنور ما چوں آتش سنگ از نظر پنہاں خوش است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What if the flame of Namrud is alight in the world?\nThe candle melts itself in the midst of the assembly; my light like the stone’s spark is better if concealed.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Infidelity And Islam",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

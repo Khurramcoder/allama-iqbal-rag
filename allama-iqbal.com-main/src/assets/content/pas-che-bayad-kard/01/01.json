@@ -1,0 +1,86 @@
+{
+  "id": "01",
+  "name": "بخوانندۂ کتاب",
+  "name-en": "Reader of the Book",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سپاہ تازہ برانگیزم از ولایت عشق\nکہ در حرم خطری از بغاوت خرد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ملک عشق سے نیا لشکر بھرتی کر رہا ہوں ، کیونکہ حرم کے اندر عقل کی بغاوت کا خطرہ پیدا ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I raise a new army from the Kingdom of Love; for there is danger of revolt by the intellect against the Sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمانہ ہیچ نداند حقیقت او را\nجنون قباست کہ موزون بقامت خرد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانہ جنوں کی حقیقت سے بالکل بے خبر ہے؛ حالانکہ یہی وہ قبا ہے جو خرد کے قدر و قیمت کے لیے موزوں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world does not know the real nature of madness: It is a garment that fits the intellect perfectly. \n(Madness (Junun): It stands for Intuition and Love in contrast to Intellect and Reason.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ آن مقام رسیدم چو در برش کردم\nطواف بام و در من سعادت خرد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے یہ قبا پہنی تو ایسے مقام تک پہنچ گیا کہ خرد میرے بام و در کے طواف کو اپنی سعادت سمجھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Donning this garment, I attained to a station where it would be honour for the intellect to walk around my house (like a pilgrim).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گمان مبر کہ خرد را حساب و میزان نیست\nنگاہ بندۂ مومن قیامت خرد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گمان نہ کر کہ خرد کے لیے حساب و میزان نہیں ؛ مرد مومن کی نگاہ خرد کی قیامت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t think that the intellect is exempt from the final reckoning: One look from the believer judges it as if on Judgment Day.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "بہ یکی از صوفیہ نوشتہ شد ",
+      "name-en": "Lines Addressed To a Sufi",
+      "name-ur": "صوفیوں میں سے ایک کے نام۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوس منزل لیلی نہ تو داری و نہ من\nجگر گرمی صحرا نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیلی (محبوب) کی منزل کی خواہش نہ تو رکھتا ہے نہ میں، گرمی صحرا برداشت کرنے کی ہمت نہ تو رکھتا ہے نہ میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither have I nor you the wish to go to Layla’s house. Neither have I nor you the heart to bear the desert heat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من جوان ساقی و تو پیر کہن میکدہ ئی\nبزم ما تشنہ و صہبا نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جوان ساقی ہوں اور تو میکدہء (تصوّف) کا پیر کہن ، بزم پیاسی ہے لیکن شراب نہ تیرے پاس ہے نہ میرے پاس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a young wine-server and you keeper of an old wine-shop. The company is thirsty, yet wine neither you have, nor have I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دل و دین در گرو زھرہ وشان عجمی\nآتش شوق سلیمی نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے دل و دین کو عجمی محبوبوں کی محبت میں رہن رکھ دیا ہے ، سلیمی (عربی محبوب ) کے شوق کی آگ نہ تو رکھتا ہے نہ میں (ہم سب عجمی افکار کے دلدادہ بن چکے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have pledged our hearts and our faith to ‘Ajam’s lovely ones. The flame of love for Sulayma burns neither you nor me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خزفی بود کہ از ساحل دریا چیدیم\nدانۂ گوہر یکتا نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سنگریزے تھے جو ہم نے ساحل دریا سے چنے ، گوہر یکتا نہ تیرے پاس ہے نہ میرے پاس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There was an empty shell that we picked up on the seashore. The precious pearl have neither you nor I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دگر از یوسف گمگشتہ سخن نتوان گفت\nتپش خون زلیخا نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب یوسف گم گشتہ کی بات نہیں کی جا سکتی، کیونکہ خون زلیخا کی تپش نہ مجھ میں ہے نہ تجھ میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not talk any more about the Joseph we have lost. The warmth of a Zulaikha’s heart have neither you nor I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ کہ با نور چراغ تہ دامان سازیم\nطاقت جلوۂ سینا نہ تو داری و نہ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہتر ہے کہ ہم دامن کے نیچے چھپے ہوئے چراغ کی روشنی پر اکتفا کریں، کیونکہ تجلّیء (وادیء) سینا برداشت کرنے کی طاقت نہ تو رکھتا ہے نہ میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is best that we make do with a lamp that has our garment’s skirt for shade. The power to face Sinai’s lamp have neither you nor I.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

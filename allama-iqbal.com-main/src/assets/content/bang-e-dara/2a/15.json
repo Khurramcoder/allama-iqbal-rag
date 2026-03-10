@@ -1,0 +1,146 @@
+{
+  "id": "15",
+  "name": "نوائے غم",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگانی ہے مری مثل رباب خاموش\nجس کی ہر رنگ کے نغموں سے ہے لبریز آغوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My life is similar to that of the silent violin; the lap of which is full of all kinds of melodies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بربط کون و مکاں جس کی خموشی پہ نثار\nجس کے ہر تار میں ہیں سینکڑوں نغموں کے مزار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The harp of the universe is sacrificed on whose silence; every string of which is the grave of hundreds of melodies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "محشرستان نوا کا ہے امیں جس کا سکوت\nاور منت کش ہنگامہ نہیں جس کا سکوت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The silence of which is the custodian of music's perfection, and the silence of which is not obligated to any uproar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آہ! امید محبت کی بر آئی نہ کبھی\nچوٹ مضراب کی اس ساز نے کھائی نہ کبھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! The hope of my Love was never fulfilled: this instrument was never hit by the plectrum.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مگر آتی ہے نسیم چمن طور کبھی\nسمت گردوں سے ہوائے نفس حور کبھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But sometimes the zephyr of the garden of Toor flows and sometimes the breeze of Houri’s breath from the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چھیڑ آہستہ سے دیتی ہے مرا تار حیات\nجس سے ہوتی ہے رہا روح گرفتار حیات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which gently touches the string of my life; and frees the imprisoned soul of my life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نغمہ یاس کی دھیمی سی صدا اٹھتی ہے\nاشک کے قافلے کو بانگ درا اٹھتی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gentle sound of the music of despair rises; the clarion's call for the caravan of tears rises.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "جس طرح رفعت شبنم ہے مذاق رم سے\nمیری فطرت کی بلندی ہے نوائے غم سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just as dew's elegance depends upon the taste for racing; the elegance of my nature depends upon grief's melodies!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Grief",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,514 @@
+{
+  "id": "09",
+  "name": "ذوق و شوق",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دریغ آمدم زاں ہمہ بوستاں \nتہی دست رفتن سوئے دوستاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Most of these Verses Were Written in Palestine.\n\nI could not go to my friends empty-handed from an orchard! – Saadi.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قلب و نظر کی زندگی دشت میں صبح کا سماں \nچشمہ آفتاب سے نور کی ندیاں رواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The morning sun’s silver beams are absorbed in the sand; the eyes are bathed in radiance; the mind is lost in thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حسن ازل کی ہے نمود، چاک ہے پردئہ وجود \nدل کے لیے ہزار سود ایک نگاہ کا زیاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eternal beauty is revealed, and life’s image unveiled; the heart is softened in ravishment, the eyes are dazed by the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سرخ و کبود بدلیاں چھوڑ گیا سحاب شب \nکوہ اضم کو دے گیا رنگ برنگ طیلساں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The night clouds are drifting, in scattered colours on the hill; the balmy air has bathed the trees, and the sand is soft as silk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گرد سے پاک ہے ہوا، برگ نخیل دھل گئے \nریگ نواح کاظمہ نرم ہے مثل پرنیاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rain storm has cleansed the air, leafs of date-palm tree have been washed; the sand dunes (of anger) in my heart have turned soft like silk.\n(English translation by Naim Siddiqui has been in case of this verse.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آگ بجھی ہوئی ادھر، ٹوٹی ہوئی طناب ادھر \nکیا خبر اس مقام سے گزرے ہیں کتنے کارواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ashes of a fire and ropes of tents is all that remains behind: The only imprints that the caravans have left behind as they marched.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آئی صدائے جبرئیل، تیرا مقام ہے یہی \nاہل فراق کے لیے عیش دوام ہے یہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I heard the angel Gabriel saying to me: This indeed is your station – for those acquainted with the pleasure of separation, this is the everlasting comfort.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کس سے کہوں کہ زہر ہے میرے لیے م ے حیات \nکہنہ ہے بزم کائنات، تازہ ہیں میرے واردات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To whom should I say that the wine of life is poison to me: I have new experiences while the universe is decadent entire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کیا نہیں اور غزنوی کارگہ حیات میں \nبیٹھے ہیں کب سے منتظر اہل حرم کے سومنات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The temples reared by holy men are waiting to be demolished: Is there no idol-breaker new-born; no Ghaznavi in the battlefield?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ذکر عرب کے سوز میں، فکر عجم کے ساز میں \nنے عربی مشاہدات، نے عجمی تخیلات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is neither Arab passion, nor Ajami refinement, in the deeds of the one, in the thought of the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "قافلہء حجاز میں ایک حسین بھی نہیں \nگرچہ ہے تاب دار ابھی گیسوئے دجلہ و فرات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The regions of Euphrates have waited, and waited in vain, for a martyr like Hussain, on a death-defying march.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "عقل و دل و نگاہ کا مرشد اولیں ہے عشق \nعشق نہ ہو تو شرع و دیں بت کدئہ تصورات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is the mentor of the eye, of the heart and reason; faith without Love is a pantheon of fantasies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "صدق خلیل بھی ہے عشق، صبر حسین بھی ہے عشق \nمعرکہء وجود میں بدر و حنین بھی ہے عشق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is Abraham’s faith; Love is Hussain’s endurance; Love is Badr and Hunayn, on the battlefield of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "آیہء کائنات کا معنی دیر یاب تو \nنکلے تری تلاش میں قافلہ ہائے رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of this varied world thou art the meaning long sought: Long sought by multitudes of men, from every corner of the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "جلوتیان مدرسہ کور نگاہ و مردہ ذوق \nخلوتیان مے کدہ کم طلب و تہی کدو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The disciples in tile schools are insipid and purblind; the esoteric few have an empty unseening soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "میں کہ مری غزل میں ہے آتش رفتہ کا سراغ \nمیری تمام سرگزشت کھوئے ہووں کی جستجو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My song seeks to recapture the flame that has been lost: To rediscover the great and noble souls of the past.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "باد صبا کی موج سے نشوونمائے خار و خس \nمیرے نفس کی موج سے نشوونمائے آرزو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the breeze infuses life into the green earth, my fire-breathing song infuses passion into men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "خون دل و جگر سے ہے میری نوا کی پرورش \nہے رگ ساز میں رواں صاحب ساز کا لہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is my life-blood that nourishes my song; the harpist’s blood streams in the strings of the harp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "فرصت کشمکش مدہ ایں دل بے قرار را \nیک دو شکن زیادہ کن گیسوے تابدار را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let not this anxious heart of mine have a spasm to struggle; bright are Thy tresses, brighten them even more.\n* The verses hereafter are devoted to the Holy Prophet (S.A.W.) and wherever the reference is made to Rasool Pak the first letter of the word is typed in capital.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "لوح بھی تو، قلم بھی تو، تیرا وجود الکتاب \nگنبد آبگینہ رنگ تیرے محیط میں حباب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou writest my book of fate; Thou art my arbiter; the starlit dome, in its expanse, is but a bubble in Thy Sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "عالم آب و خاک میں تیرے ظہور سے فروغ \nذرہ ریگ کو دیا تو نے طلوع آفتاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The myriad-coloured earth is illumined by Thee; Thou makest even a piece of sand as radiant as the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "شوکت سنجر و سلیم تیرے جلال کی نمود \nفقر جنید و بایزید تیرا جمال بے نقاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The majesty of kings is but a reflection of Thy power; the sanctity of pious men is a mirror of Thy beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "شوق ترا اگر نہ ہو میری نماز کا امام \nمیرا قیام بھی حجاب، میرا سجود بھی حجاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If my prayer is not inspired by a love of Thee, my prayer is futile; my bowing to Thee is a pose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "تیری نگاہ ناز سے دونوں مراد پا گئے \nعقل غیاب و جستجو، عشق حضور و اضطراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To my reason Thou didst give the quest born of Absence, and to my love for Thee, Thy Presence and anxiety.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تیرہ و تار ہے جہاں گردش آفتاب سے \nطبع زمانہ تازہ کر جلوئہ بے حجاب سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth is dark, benighted; revolving round the old sun, bring the dawn of life to the earth, with Thy glimpse unveiled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "تیری نظر میں ہیں تمام میرے گزشتہ روز و شب \nمجھ کو خبر نہ تھی کہ ہے علم نخیل بے رطب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou knowest all about my past and my present; I had not known that knowledge is a tree without fruit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "تازہ مرے ضمیر میں معرکہء کہن ہوا \nعشق تمام مصطفی، عقل تمام بولہب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That old battle was raged in my heart again, between love, which is all good, and reason, which is all evil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "گاہ بحیلہ می برد، گاہ بزور می کشد \nعشق کی ابتدا عجب، عشق کی انتہا عجب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love has a strange beginning, and a strange end: It snatches by excuses sometimes, and drags by force at others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "عالم سوز و ساز میں وصل سے بڑھ کے ہے فراق \nوصل میں مرگ آرزو، ہجر میں لذت طلب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world of passion, Absence is greater than Presence, Absence is the pleasure of yearning, Presence is desire’s death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "عین وصال میں مجھے حوصلہء نظر نہ تھا \nگرچہ بہانہ جو رہی میری نگاہ بے ادب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fulfilment in the past, perception I had none; though my audacious eye was looking for pretences.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "گرمی آرزو فراق، شورش ہاے و ہو فراق \nموج کی جستجو فراق، قطرے کی آبرو فراق!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wave’s enduring quest, the rain-drop’s search to be a pearl, the heart’s eternal yearning, are all before fulfilme",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ecstasy",
+  "credits": "English Translation by: Naim Siddiqui"
+}

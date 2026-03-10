@@ -1,0 +1,132 @@
+{
+  "id": "41",
+  "name": "میں اور تو",
+  "name-en": "Me and You",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مذاق دید سے ناآشنا نظر ہے مری \nتری نگاہ ہے فطرت کی راز داں، پھر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eye is unacquainted with the taste for the Sight your eye is the knower of Nature’s secret, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رہین شکوئہ ایام ہے زبان مری \nتری مراد پہ ہے دور آسماں، پھر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My tongue is indebted to the complaint against time; the universe’s rotation depends on your will, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رکھا مجھے چمن آوارہ مثل موج نسیم \nعطا فلک نے کیا تجھ کو آشیاں، پھر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky kept me wandering in garden like the breeze’s current; the sky has bestowed the abode over you, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فزوں ہے سود سے سرمایہء حیات ترا \nمرے نصیب میں ہے کاوش زیاں، پھر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wealth of your life is free of desire for gain in my heart is the anxiety of loss, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوا میں تیرتے پھرتے ہیں تیرے طیارے \nمرا جہاز ہے محروم بادباں، پھر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your planes are flying about in the air my ship is devoid of the sail, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قوی شدیم چہ شد، ناتواں شدیم چہ شد \nچنیں شدیم چہ شد یا چناں شدیم چہ شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "طاقتور ہوئے تو کیا ؟ کمزور ہوئے تو کیا؟ ایسے ہوئے تو کیا؟ ویسے ہوئے تو کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I became strong, so what, I became weak, so what? This happened, so what, that happened, so what?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بہیچ گونہ دریں گلستاں قرارے نیست \nتوگر بہار شدی، ما خزاں شدیم، چہ شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس باغ میں یعنی دنیا میں کسی طور بھی قرار و قیام ممکن نہیں؛ تو بہار ہو گیا تو کیا؟ میں خزاں ہو گیا تو کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tranquillity does not exist to any extent in this rose-garden! If you became spring, and I became autumn, so what?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

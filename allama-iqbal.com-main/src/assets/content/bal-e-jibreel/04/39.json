@@ -1,0 +1,115 @@
+{
+  "id": "39",
+  "name": "ابوالعلامعری",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہتے ہیں کبھی گوشت نہ کھاتا تھا معری \nپھل پھول پہ کرتا تھا ہمیشہ گزر اوقات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is said that Ma‘arri never ate meat; he lived on fruit and vegetables.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اک دوست نے بھونا ہوا تیتر اسے بھیجا \nشاید کہ وہ شاطر اسی ترکیب سے ہو مات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A friend sent him a roasted partridge, to allure that clever gentleman into eating meat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ خوان تر و تازہ معری نے جو دیکھا \nکہنے لگا وہ صاحب غفران و لزومات",
+              "lang": "Original"
+            },
+            {
+              "_content": "رسالتہ الغفران ، معری کی ایک مشہور کتاب کا نام ہے لزومات اس کے قصائد کا مجموعہ ہے",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Ma‘arri saw that elegant tray he, the author of Ghufran* and Lazumat** said;\n* Risalah Ghufran is a famous book of Ma‘arri.\n** This is collection of his poetical works.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے مرغک بیچارہ! ذرا یہ تو بتا تو \nتیرا وہ گنہ کیا تھا یہ ہے جس کی مکافات؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O You helpless little bird, would you tell me your sin for which this punishment has been awarded to you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "افسوس، صد افسوس کہ شاہیں نہ بنا تو \nدیکھے نہ تری آنکھ نے فطرت کے اشارات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas, you did not become a falcon; your eye did not perceive the directives of Nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تقدیر کے قاضی کا یہ فتوی ہے ازل سے \nہے جرم ضعیفی کی سزا مرگ مفاجات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the eternal decree of the Judge sitting in Judgement on destinies: That weakness is a crime punishable by death.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Abu Al ‘Ala Al-Ma‘Arri",
+  "credits": "English Translation by: M. Munawwar Mirza"
+}

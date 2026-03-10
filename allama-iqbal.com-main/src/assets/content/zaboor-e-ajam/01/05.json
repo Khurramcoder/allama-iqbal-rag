@@ -1,0 +1,68 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درون سینۂ ما سوز آرزو ز کجاست؟\nسبو ز ماست ولی بادہ در سبو ز کجاست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سینے میں آپ کی محبت کا سوز کہاں سے آیا؛ بدن تو ہمارا ہے، لیکن اس مٹی کے اندر عشق الہی کی شراب کہاں سے آگئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ardent longing in our hearts – where does it come from? Ours is the tumbler, but the wine within – where does it come from?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرفتم اینکہ جہان خاک و ما کف خاکیم\nبہ ذرہ ذرہ ما درد جستجو ز کجاست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مانا کہ یہ جہان خاک ہے اور ہم بھی مٹھی بھر خاک ہیں؛ مگر ہماری خاک کے ذرے ذرے میں یہ تلاش حق کا درد کہاں سے پیدا ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know that this world is mere dust, and that we, too, are a handful of dust. But this pain of quest that runs through our being – where does it come from?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ ما بہ گریبان کہکشان افتد\nجنون ما ز کجا شور ہای و ہو ز کجاست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری نگاہ (کی رسائی اتنی بلندی تک ہے کہ یہ) گریبان کہکشاں سے الجھتی ہے؛ ہمارے اندر یہ جنوں اور یہ شور ہائے و ہو کہاں سے آیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our glances reach the neckline of the Galaxy; this obsession of ours, this tumult and clamor – where does it come from?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "41",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ڈھونڈ رہا ہے فرنگ عیش جہاں کا دوام \nوائے تمنائے خام، وائے تمنائے خام!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West seeks to make life a perpetual feast; a wish in vain, in vain, in vain!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیر حرم نے کہا سن کے مری روئداد \nپختہ ہے تیری فغاں، اب نہ اسے دل میں تھام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Aware of my state, my spiritual guide assures me; thy ecstasy has reached the plenitude of its power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تھا ارنی گو کلیم، میں ارنی گو نہیں \nاس کو تقاضا روا، مجھ پہ تقاضا حرام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Moses asked for a Divine glimpse, but I do not: The demand was right for him; but is forbidden for me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرچہ ہے افشائے راز، اہل نظر کی فغاں \nہو نہیں سکتا کبھی شیوہ رندانہ عام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The plaint of the men of God betrays a suppressed secret; but the ways of the men of God are not meant for all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حلقہ صوفی میں ذکر، بے نم و بے سوز و ساز\nمیں بھی رہا تشنہ کام، تو بھی رہا تشنہ کام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zikr in the Sufis’ circle was devoid of ecstasy, I remained unsatisfied, and so was everyone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عشق تری انتہا، عشق مری انتہا \nتو بھی ابھی ناتمام، میں بھی ابھی ناتمام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is thy goal, and mine, too, but both are so far novices on the path of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آہ کہ کھویا گیا تجھ سے فقیری کا راز \nورنہ ہے مال فقیر سلطنت روم و شام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! Thou hast betrayed the secret of a faqir, though a faqir has wealth more than a king of men.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

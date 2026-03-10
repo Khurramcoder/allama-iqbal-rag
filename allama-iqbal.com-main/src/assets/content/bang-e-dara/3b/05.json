@@ -1,0 +1,115 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پھر باد بہار آئی، اقبال غزل خواں ہو \nغنچہ ہے اگر گل ہو، گل ہے تو گلستاں ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spring breeze is flowing again start singing, O Iqbal; if you are a bud be the flower, if a flower the garden become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو خاک کی مٹھی ہے، اجزا کی حرارت سے \nبرہم ہو، پریشاں ہو، وسعت میں بیاباں ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a handful of dust, with the warmth of the components wander around, scatter about and wilderness in extent become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو جنس محبت ہے، قیمت ہے گراں تیری \nکم مایہ ہیں سوداگر، اس دیس میں ارزاں ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم مایہ : غریب؛ کم مال والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You belong to the essence of Love; you are invaluable; the purchasers are indigent, low priced in this country become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیوں ساز کے پردے میں مستور ہو لے تیری\nتو نغمہ رنگیں ہے، ہر گوش پہ عریاں ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should your tunes be veiled in the guitar’s frets? You are an ornamented song, evident to every ear become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے رہرو فرزانہ! رستے میں اگر تیرے \nگلشن ہے تو شبنم ہو، صحرا ہے تو طوفاں ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہرو فرزانہ: عقلمند مسافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wise traveler! If in your path you encounter the garden become dew, if wilderness the storm become.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ساماں کی محبت میں مضمر ہے تن آسانی\nمقصد ہے اگر منزل، غارت گر ساماں ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Indulgence is concealed in the love of opulence; if you aim at the destination, destroyer of opulence become.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

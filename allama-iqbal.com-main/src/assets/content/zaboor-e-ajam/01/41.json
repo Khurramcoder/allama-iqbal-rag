@@ -1,0 +1,65 @@
+{
+  "id": "41",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بجہان دردمندان تو بگو چہ کار داری\nتب و تاب ما شناسی دل بی قرار داری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell me this: what is Thy share in this world of pain and care? Knowest Thou the spirit’s smart? Hast Thou an uneaseful heart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ خبر ترا ز اشکی کہ فرو چکد ز چشمی\nتو ببرگ گل ز شبنم در شاہوار داری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of such bitter tears that well from the eye, what canst Thou tell? See, Thy rose’s petals hold dewy pearls of price untold!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہ بگویمت ز جانی کہ نفس نفس شمارد\nدم مستعار داری غم روزگار داری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or the soul, that numbereth life departing at each breath, borrowed spirit, grief of time – shall I speak thee in rhyme?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

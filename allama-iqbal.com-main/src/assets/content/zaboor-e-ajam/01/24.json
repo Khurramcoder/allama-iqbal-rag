@@ -1,0 +1,102 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سوز و گداز زندگی لذت جستجوی تو\nراہ چو مار مے گزد گر نروم بسوی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کی جستجو میں جو لذت ملتی ہے وہی سوز و گداز زندگی ہے؛ اگر میں آپ کی طرف سفر نہ کروں تو راستہ مجھے سانپ کی طرح ڈستا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All that in life I love the best is the sweet fever of Thy quest; the way is like an adder’s sting, be not to thee my wayfaring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سینہ گشادہ جبرئیل از بر عاشقان گذشت\nتا شرری بہ او فتد ز آتش آرزوی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبریل امین (علیہ) اپنا سینہ کھولے ہوئے عاشقوں کے پاس سے گذرتے ہیں ؛ تاکہ انہیں بھی آپ کی محبت کی چنگاری میسّر آ جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, Gabriel with naked heart out of love’s bosom doth depart, hopeful to catch a spark of fire from the vast flame of Thy desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہم بہوای جلوہ ئی پارہ کنم حجاب را\nہم بہ نگاہ نارسا پردہ کشم بروی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی تو میں آپ کے جلوہ کے شوق میں سارے حجاب پارہ پارہ کر دیتا ہوں؛ اور کبھی خود ہی اپنی نگاہ نا رسا سے آپ کے چہرے پر پردہ کھینچ لیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Anon I rend my veil in twain, yearning the vision to attain; anon with unavailing sight I veil myself before Thy light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "من بتلاش تو روم یا بہ تلاش خود روم\nعقل و دل نظر ھمہ گم شدگان کوی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ کی تلاش میں نکلوں یا اپنی تلاش میں ؛ عقل ، دل اور نظر سب آپ کی گلی میں گم ہو چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether in quest of thee I go, or at the last myself to know, intellect, heart, sight – all astray blindly the wander on Thy way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از چمن تو رستہ ام قطرۂ شبنمی ببخش\nخاطر غنچہ وا شود کم نشود ز جوی تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ ہی کے چمن کا پودا ہوں، مجھے قطرہ ء شبنم عطا فرمائیے ؛ اس سے میرے غنچے کا دل کھل جائے گا اور آپ کی ندی میں کچھ کمی واقع نہیں ہو گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was a seedling of Thy mead; sprinkle Thy dew upon my head; the blossom’s heart will quicken, yet no drop shall lack the rivulet.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

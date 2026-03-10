@@ -1,0 +1,694 @@
+{
+  "id": "01",
+  "name": "زیارت ارواح جمال الدین افغانی و سعید حلیم پاشا",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "name-en": "The Sphere Of Mercury: Visitation to the spirits of Jamal al-Din Afghani and Sa‘id Halim Pasha",
+  "name-ur": "اروح جمال الدین افغانی و سعید حلیم پاشا کی زیارت۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مشت خاکی کار خود را بردہ پیش\nدر تماشای تجلی ہای خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مشت خاک (اقبال) نے اپنی تجلّیات کا نظارہ کرنے میں اپنے کام کو آگے بڑھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A handful of dust so carried forward its task to the contemplation of its own manifestations:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یا من افتادم بدام ہست و بود\nیا بدام من اسیر آمد وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک وقت تھا کہ میں ہست و بود کے دام میں گرفتار تھا؛ اب یہ وقت ہے کہ ہست و بود میرے دامن میں اسیر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either I fell into the net of being and existence or existence became a prisoner in my net!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اندرین نیلی تتق چاک از من است\nمن ز افلاکم کہ افلاک از من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا میں نے اس نیلے آسمان کے پردے کو چاک کر دیا ہے؛ میں افلاک سے ہوں یا افلاک مجھ سے ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have I made a chink in yon azure curtains? Am I of the skies, or are the skies of me?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یا ضمیرم را فلک در بر گرفت\nیا ضمیر من فلک را در گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا فلک نے میرے ضمیر کو اپنے پہلو میں لے لیا ہے یا میرے ضمیر نے فلک کو اپنے اندر سما لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either heaven has taken my heart into its breast or it is my heart that has seized heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اندرونست این کہ بیرون است چیست؟\nآنچہ می بیند نگہ چون است چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اندرون سے یا بیرون یہ کیا ہے؟ جو کچھ نگاہ دیکھتی ہے، یہ کیا ہے، اور کیسے ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this external then internal? What is it? What manner of thing is it the eye sees? What is it?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پر زنم بر آسمانی دیگری\nپیش خود بینم جھانی دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ایک اور آسمان کی طرف پرواز کی اور اپنے سامنے ایک نیا جہان دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I beat my wings towards another heaven, I see another world rising before me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عالمے با کوہ و دشت و بحر و بر\nعالمے از خاک ما دیرینہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس عالم میں بھی پہاڑ، جنگل اور بحر و بر موجود تھے؛ مگر وہ ہماری زمین سے قدیم تر تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A world of mountains and plains, seas and dry land, a world far more ancient than our earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عالمے از ابرکے بالیدہ ئی\nدستبرد آدمے نادیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عالم ایک چھوٹے سے بادل سے پیدا ہوا تھا؛ اور ابھی تک آدم کی دستبرد سے بچا ہوا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A world grown out of a little cloud that has never known the conquest of man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نقشہا نابستہ بر لوح وجود\nخردہ گیر فطرت آنجا کس نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی لوح وجود پر نقش ابھی ثبت نہیں ہوئے تھے؛ وہاں کوئی شخص فطرت پر تنقید کرنے والا نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Images as yet unlimned on the tablet of existence where no critic of nature has yet been born.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "من بہ رومی گفتم این صحرا خوش است\nدر کہستان شورش دریا خوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رومی (رحمتہ اللہ) سے کہا یہ صحرا بہت خوش منظر ہے ؛ پہاڑوں میں دریا کا شور خوش آئیند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to Rumi, ‘This wasteland is very fair, very fair the tumult of the waters in the mountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "من نیابم از حیات اینجا نشان\nاز کجا می آید آواز اذان",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یہاں زندگی کا کوئی نشان نہیں دیکھتا ؛ یہ آواز اذان کہاں سے آ رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I find no sign here of any living thing, so whence comes the sound of the call to prayer?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گفت رومی این مقام اولیاست\nآشنا این خاکدان با خاک ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی (رحمتہ اللہ) نے کہا کہ یہ اولیا کا مقام ہے؛ یہ سر زمین بھی ہماری زمین سے آشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘This is the station of the saints, this heap of earth is familiar with our dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بوالبشر چون رخت از فردوس بست\nیک دو روزی اندرین عالم نشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم (علیہ) نے جب فردوس سے کوچ کیا تھا، تو وہ ایک دو دن یہاں بھی ٹھہرے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the father of mankind departed out of Eden he dwelt in this world for one or two days;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "این فضاہا سوز آہش دیدہ است\nنالہ ہای صبحگاہش دیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس فضا نے ان کی آہ کا سوز دیکھا ہے اور ان کے نالہ ہائے صبح گاہی سنے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These expanses have felt the burning of his sighs, heard his lamentations in the hour of dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "زائران این مقام ارجمند\nپاک مردان از مقامات بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مبارک مقام کے زائرین، بلند مرتبت پاک مرد ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The visitors to this honourable station are themselves pious men of lofty stations,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پاک مردان چون فضیل و بوسعید\nعارفان مثل جنید و با یزید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک طرف فضیل (رحمتہ اللہ)، ابو سعید (رحمتہ اللہ) جیسے پاکباز ہیں؛ اور دوسری طرف جنید و بایزید (رحمتہ اللہ) جیسے عارف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pious men such as Fudail and Bu Sa‘id, true gnostics like Junaid and Ba Yazid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "خیز تا ما را نماز آید بدست\nیک دو دم سوز و گداز آید بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلدی کر تاکہ ہمیں نماز مل جائے ؛ اور ہم ایک دو لمحے کے سوز و گداز سے بہرہ ور ہو جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise up now, and let us pray together, devote a moment or two to burning and melting.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "رفتم و دیدم دو مرد اندر قیام\nمقتدی تاتار و افغانی امام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آگے بڑھا اور دو اشخاص کو قیام میں دیکھا ؛ تاتار مقتدی تھے اور افغانی امام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I went on, and saw two men engaged in prayer, the acolyte a Turk, the leader an Afghan",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "پیر رومی ھر زمان اندر حضور\nطلعتش بر تافت از ذوق و سرور",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو ہر لحظہ حضوری میں رہتے ہیں ؛ ذوق و سرور سے ان کا چہرہ چمک اٹھا۔پیر رومی (رحمتہ اللہ)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sage of Rum, in rapture continually, his face radiant with an ecstasy of joy,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "گفت \"مشرق زین دو کس بہتر نزاد\nناخن شان عقدہ ہای ما گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے کہا، 'مشرق نے اس دور میں ان دو اشخاص سے انسان پیدا نہیں کیا؛ ان کی کاوش نے ہمارے بہت سے مسائل حل کر دیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said, ‘The East never gave birth to two better sons – the plucking of their nails unravelled our knots:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "سید السادات مولانا جمال\nزندہ از گفتار او سنگ و سفال",
+              "lang": "Original"
+            },
+            {
+              "_content": "سید السادات جمال الدین افغانی جن کی گفتگو سے پتھر اور مٹی (جیسے ) لوگ زندہ ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Maulana Jamal, Sayyid of all Sayyids, whose eloquence gave life to stone and sherd;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ترک سالار آن حلیم دردمند\nفکر او مثل مقام او بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوسرے ترک سالار حلیم پاشا جو صاحب درد تھے جن کا فکر ان کے مقام کی طرح بلند تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And passionate Halim, commander of the Turks whose thoughts matched the loftiness of his station.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "با چنین مردان دو رکعت طاعت است\nورنہ آن کاری کہ مزدش جنت است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "جیسے دو اشخاص کے ساتھ دو رکعت نماز ادا کرنا صحیح معنوں میں عبادت ہے؛ ورنہ یہ وہ کام ہے جس کی مزدوری جنت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To offer prayer with such men is true devotion, a labour else whose hoped-for wage is Paradise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "قرأت آن پیر مرد سخت کوش\nسورہ والنجم و آن دشت خموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سحت کوش پیر مرد کی قرآت، سورہ والنجم، اور وہ خاموش دشت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The recitation of that vigorous elder, the Chapter of the Star in that silent plain;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "قرأتے کز وی خلیل آید بہ وجد\nروح پاک جبرئیل آید بہ وجد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسی قرآت تھی جس سے خلیل اللہ (علیہ) اور جبریل امین (علیہ) کی پاک روح بھی وجد میں آ جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A recital that to move Abraham to ecstasy, to enrapture the pure spirit of Gabriel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "دل ازو در سینہ گردد ناصبور\nشور الا اﷲ خیزد از قبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قرآت سے سینے کے اندر دل بیتاب ہو گیا؛ اور قبروں سے الا ﷲ کا شور اٹھ کھڑا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heedful heart becomes restless in the breast, the cry ‘No god but God’ rises from the tombs;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "اضطراب شعلہ بخشد دود را\nسوز و مستی میدہد داود را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے دھوئیں کو شعلے کا اضطراب عطا کیا وہ ایسی قرآت تھی جو داؤد (علیہ) کو بھی سوز و مستی عطا کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It imparts to smoke the quivering of the flame, bestows on David ardour and intoxication;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "آشکارا ہر غیاب از قرأتش\nبے حجاب ام الکتاب از قرأتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی قرآت سے سب پوشیدہ راز کھولتے تھے اور ام الکتاب کے پورے معنی ظاہر ہو جاتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At his recital every mystery was revealed, the Heavenly Archetype appeared unveiled.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "افغانی",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "من ز جا بر خاستم بعد از نماز\nدست او بوسیدم از راہ نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کے ہاتھ پر بوسہ دیا۔نماز کے بعد میں اپنی جگہ سے اٹھا اور میں نے نیاز مندی سے افغانی (رحمتہ اللہ)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "After prayer I rose up from my place and kissed his hand in all humility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "گفت رومی \"ذرۂ گردون نورد\nدر دل او یک جہان سوز و درد",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی (رحمتہ اللہ ) نے کہا یہ ایک ذرّہ ہے جو آسمانوں کے سفر میں ہے؛ اس کے دل میں سوز و درد کا ایک جہان آباد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘A mote that travels the skies, in its heart a whole world of fire and passion!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "چشم جز بر خویشتن نگشادہ ئی\nدل بکس نادادہ ئی آزادہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے سوائے کسی اور پر نظر نہیں ڈالی ؛ یہ آزاد منش ہے، اس نے کسی کو اپنا دل نہیں دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Only upon himself he has opened his eyes, yielded his heart to no man, is utterly free;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "تند سیر اندر فراخای وجود\nمن ز شوخے گویم او را زندہ رود\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کائنات کی پنہائی کے اندر سیر میں سرگرم ہے؛ میں اسے شوخی سے زندہ رود کہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Swiftly he paces through the expanse of Being – jestingly, I call him Zinda-Rud.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "افغانی",
+      "Verse": [
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "زندہ رود از خاکدان ما بگوی\nاز زمین و آسمان ما بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ رود ہمارے خاکدان (دنیا) اور اس کے زمین و آسماں کے متعلق کچھ بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud, tell us of our terrestrial world, speak to us of our earth and sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "خاکی و چون قدسیان روشن بصر\nاز مسلمانان بدہ ما را خبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ تو خاکی ہے مگر نوریوں کی طرح روشن بصر ؛ ہمیں مسلمانوں کے بارے میں کوئی خبر بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A thing of dust, you are clear-eyed as the Holy Ones – give us some tidings of the Mussulmans!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "زندہ رود",
+      "Verse": [
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "در ضمیر ملت گیتی شکن\nدیدہ ام آویزش دین و وطن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت اسلامیہ جس کا کام زمانے کے باطل اثرات کو مٹانا ہے ؛ اس کے ضمیر کے اندر میں دین و وطن کی کشمکش دیکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the heart of a people that once shattered the world I have seen a conflict between religion and country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "روح در تن مردہ از ضعف یقین\nناامید از قوت دین مبین",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایمان کی کمزوری سے مسلمان کے بدن میں روح مر چکی ہے، اس لیے وہ دین مبین کی قوّت سے نا امید ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit is dead in the body through weakness of faith, despairs of the strength of the manifest religion;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "ترک و ایران و عرب مست فرنگ\nہر کسی را در گلو شست فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترک ہو یا ایرانی یا عرب سب فرنگیوں کے افکار سے سرمست ہیں؛ ہر ایک کے گلے میں فرنگیوں کا پھندا پڑا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Turk, Persian, Arab intoxicated with Europe and in the throat of each the fish-hook of Europe;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مشرق از سلطانی مغرب خراب\nاشتراک از دین و ملت بردہ تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق اہل مغرب کی حکومت سے برباد ہو چکا ہے اور اشتراکیت نے دین و ملّت کی تاب و تواں ختم کر دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And East wasted by the West’s imperialism, Communism taken the lustre from religion and community.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ]
+}

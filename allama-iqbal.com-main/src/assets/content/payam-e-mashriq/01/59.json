@@ -1,0 +1,31 @@
+{
+  "id": "59",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو تاب از خود بگیرد قطرۂ آب\nمیان صد گہر یک دانہ گردد\nبہ بزم ہمنوایان آنچنان زی\nکہ گلشن بر تو خلوت خانہ گردد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

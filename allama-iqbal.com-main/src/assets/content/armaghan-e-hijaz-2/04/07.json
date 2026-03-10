@@ -1,0 +1,34 @@
+{
+  "id": "07",
+  "name": "بباد صبحدم شبنم بنالید",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بباد صبحدم شبنم بنالید\nکہ دارم از تو امید نگاہی\nدلم افسردہ شد از صحبت گل\nچنان بگذر کہ ریزم بر گیاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شبنم نے صبح کی ہوا سے رو کر کہا ، میں تجھ سے ایک مہربانی کی توقع رکھتی ہوں۔ \nپھول کی صحبت سے میرا دل افسردہ ہو چکا ہے، اب اس طرح گزر کہ میں گھاس پر گروں (خواص سے نا امید ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the morning breeze’ weep’d the dew’ in trance, I cherish from thee a favour of glance.\nI have fostered gloom from the Rose,’ alas! Thus pass in a way that I fall on grass.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

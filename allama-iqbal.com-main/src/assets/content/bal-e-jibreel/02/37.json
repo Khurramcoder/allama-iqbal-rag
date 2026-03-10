@@ -1,0 +1,97 @@
+{
+  "id": "37",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فطرت کو خرد کے روبرو کر \nتسخیر مقام رنگ و بو کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature before your mind present, subdue this world of hue and scent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو اپنی خودی کو کھو چکا ہے \nکھوئی ہوئی شے کی جستجو کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of selfhood you appear bereft, to find the thing lost go on quest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاروں کی فضا ہے بیکرانہ \nتو بھی یہ مقام آرزو کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars do shine in boundless space; desire to get this lofty place.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عریاں ہیں ترے چمن کی حوریں \nچاک گل و لالہ کو رفو کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Disrobed the houris of your mead; the rose and tulip darning need.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بے ذوق نہیں اگرچہ فطرت \nجو اس سے نہ ہو سکا، وہ تو کر!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of urge, though Nature not deplete, yet where it fails you must complete.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

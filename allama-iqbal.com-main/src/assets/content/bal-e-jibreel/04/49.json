@@ -1,0 +1,82 @@
+{
+  "id": "49",
+  "name": "پرواز",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہا درخت نے اک روز مرغ صحرا سے \nستم پہ غم کدئہ رنگ و بو کی ہے بنیاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tree said to a bird of the desert one day: ‘Creation is founded on the principle of injustice;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خدا مجھے بھی اگر بال و پر عطا کرتا \nشگفتہ اور بھی ہوتا یہ عالم ایجاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the Creation could have been so much more pleasant if I had also been granted the gift of flight.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دیا جواب اسے خوب مرغ صحرا نے \nغضب ہے، داد کو سمجھا ہوا ہے تو بیداد!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bird gave him a good reply: ‘Woe! You regard justice to be injustice;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جہاں میں لذت پرواز حق نہیں اس کا \nوجود جس کا نہیں جذب خاک سے آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is not entitled to fly in this world, whoever is not free from earth-rootedness.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Flight",
+  "credits": "English Translation by: Dr M A K Khalil"
+}

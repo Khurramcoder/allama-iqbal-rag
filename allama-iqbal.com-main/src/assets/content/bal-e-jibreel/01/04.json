@@ -1,0 +1,128 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اثر کرے نہ کرے، سن تو لے مری فریاد \nنہیں ہے داد کا طالب یہ بندہء آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether it affects You or not, at least hear my cry.\nThis free soul does not ask for justice or reward.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ مشت خاک، یہ صرصر، یہ وسعت افلاک \nکرم ہے یا کہ ستم تیری لذت ایجاد!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This handful of dust, this stormy wind, these endless skies—\nis this the joy of Your creation, a gift or a cruelty?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ٹھہر سکا نہ ہوائے چمن میں خیمہء گل \nیہی ہے فصل بہاری، یہی ہے باد مراد؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rose’s tent could not survive the garden’s breeze.\nIs this what You call spring, is this the blessed wind?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قصور وار، غریب الدیار ہوں لیکن \nترا خرابہ فرشتے نہ کر سکے آباد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am guilty, a wanderer in a strange land—\nyet even Your angels could never rebuild Your ruins.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مری جفا طلبی کو دعائیں دیتا ہے \nوہ دشت سادہ، وہ تیرا جہان بے بنیاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That barren desert, that fragile world of Yours—\nstill gives thanks for my hunger for struggle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خطر پسند طبیعت کو ساز گار نہیں \nوہ گلستاں کہ جہاں گھات میں نہ ہو صیاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An adventurous spirit finds no joy in that garden\nwhere no hunter waits in ambush.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مقام شوق ترے قدسیوں کے بس کا نہیں \nانھی کا کام ہے یہ جن کے حوصلے ہیں زیاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The station of love is far beyond the angels’ reach;\nit belongs only to those with the courage to endure more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "09",
+  "name": "نیچہ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گر نوا خواہی ز پیش او گریز\nدر نے کلکش غریو تندر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو نغمہ چاہتا ہے تو اس سے دور رہ، ( کیونکہ ) اس کی آواز میں بجلی کی کڑک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If song thou crave, flee form him! Thunder roars in the reed of his pen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نیشتر اندر دل مغرب فشرد\nدستش از خون چلیپا احمر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے مغرب کے دل میں نشتر چبو دیا ہے، اس کے ہاتھ عیسائیت کے خون سے سرخ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He plunged a lancet into Europe’s heart; his hand is red with the blood of the Cross.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آنکہ بر طرح حرم بتخانہ ساخت\nقلب او مومن دماغش کافر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا شخص ہے جس نے حرم کی طرز پر بتخانہ تعمیر کیا ہے، اس کا قلب مومن ہے مگر دماغ کافر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He reared a pagoda on the ruins of the Temple: His heart is a true believer, but his brain an infidel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خویش را در نار آن نمرود سوز\nزانکہ بستان خلیل از آذر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو اس نمرود کی آگ میں جلا ، کیونکہ خلیل اللہ (علیہ) کا باغ آگ ہی سے وجود میں آیا بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Burn thyself in the fire of that Nimrod, for the garden of Abraham is produced from fire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Nietzsche",
+  "credits": "English Translation by: R.A. Nicholson"
+}

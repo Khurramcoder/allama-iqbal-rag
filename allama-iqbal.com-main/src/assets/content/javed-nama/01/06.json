@@ -1,0 +1,449 @@
+{
+  "id": "06",
+  "name": "زروان کہ روح زمان و مکان است مسافر را بہ سیاحت عالم علوی می برد",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "01",
+  "sectionName": "جاوید نامہ",
+  "name-en": "Zarvan: The Spirit Of Time And Space, Conducts The Traveller On His Journey To The Supernal World",
+  "name-ur": "زروان جو روح زمان و مکان ہے مسافر (اقبال) کو عالم بالا کی سیاحت کے لیے ساتھ لے جاتا ہے۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از کلامش جان من بیتاب شد\nدر تنم ہر ذرہ چون سیماب شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی (رحمتہ) کے کلام سے میری جان بے چین ہو گئی ؛ میرے بدن کا ہر ذرّہ تڑپنے لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul was convulsed by the words that he spoke, every atom of my body trembled like quicksilver.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ناگہان دیدم میان غرب و شرق\nآسمان در یک سحاب نور غرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اچانک میں نے مغرب و مشرق کے درمیان آسمان پر ایک نورانی بادل چھایا دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suddenly I saw, between the West and the East, heaven immersed in a single cloud of light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زان سحاب افرشتہ ئی آمد فرود\nبا دو طلعت این چو آتش آن چو دود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بادل سے ایک فرشتہ نبچے اترا ؛ اس کے دو چہرے تھے ایک آگ کی مانند دوسرا دھوئیں کی مانند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of that cloud an angel descended having two faces, one like fire, one like smoke.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آن چو شب تاریک و این روشن شہاب\nچشم این بیدار و چشم آن بخواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک رات کی مانند تاریک اور دوسرا روشن ستارہ؛ ایک کی آنکھ بیدار دوسرے کی خوابیدہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One dark as night, the other bright as a meteor, the eyes of one watchful, the other’s eyes asleep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بال او را رنگہای سرخ و زرد\nسبز و سیمین و کبود و لاجورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے بالوں کی رنگت سرخ، زرد، سبز، سیمیں، نیلی اور آسمانی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hues of his wings were of crimson and gold, emerald and silver, azure and lapis-lazuli;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چون خیال اندر مزاج او رمی\nاز زمین تا کہکشان او را دمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مزاج میں خیال کی سی تیز روی تھی؛ زمین سے کہکشاں تک کا فاصلہ وہ ایک لمحے میں طے کر لیتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His temper had the fleetness even of a phantom, he sped from earth to the Milky Way in an instant;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہر زمان او را ہواے دیگری\nپر گشادن در فضای دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر زمان اس کے اندر نئی خواہش پیدا ہوتی تھی اور وہ ایک نئی فضا میں پرواز کرتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment he was seized by another desire, to spread his wings in yet another sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گفت \"زروانم جہان را قاہرم\nہم نہانم از نگہ ھم ظاہرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنے لگا میں زروان ہوں اور اس جہان پر میرا تسلّط ہے؛ میں نگاہ سے پنہاں بھی ہوں اور ظاہر بھی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘I am Zarvan, I am the world-subduer, alike hidden from sight and manifest am I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بستہ ہر تدبیر با تقدیر من\nناطق و صامت ہمہ نخچیر من",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر تدبیر میری تقدیر کے ساتھ بندھی ہوئی ہے ؛ گونگے اور گویا سب میرے شکار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every plan is bound up with my determining; voiced and voiceless-all alike are my prey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "غنچہ اندر شاخ می بالد ز من\nمرغک اندر آشیان نالد ز من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری وجہ سے شاخ کے اندر سے غنچہ پھوٹتا ہے؛ میری وجہ سے پرندہ آشیاں کے اندر محو فغاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through me the bud swells upon the branch, through me the birdie bewails in the nest;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دانہ از پرواز من گردد نھال\nہر فراق از فیض من گردد وصال",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نشو و نما سے دانہ درخت بنتا ہے؛ میرے فیض سے ہر فراق وصل میں تبدیل ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through my flight the seed becomes a stalk, through my effluence every parting turns to union.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہم عتابی ھم خطابی آورم\nتشنہ سازم تا شرابی آورم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں عتاب بھی لاتا ہوں اور التفات بھی؛ تشنگی پیدا کرتا ہوں تاکہ مشروب لاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I pronounce both reproach and exhortation; I render athirst, that I may offer wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "من حیاتم من مماتم من نشوز\nمن حساب و دوزخ و فردوس و حور",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ہی زندگی ہوں، میں ہی موت اور میں ہی روز محشر؛ میں ہی حساب کتاب، میں ہی دوزخ، جنت اور اس کی حوریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am life, I am death, I am resurrection, I am the Judgment, Hell, Heaven and Houri.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "آدم و افرشتہ در بند من است\nعالم شش روزہ فرزند من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم یا فرشتہ سب میرے اسیر ہیں؛ یہ شش روزہ جہان میری اولاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man and angel are both in bondage to me, this transitory world is my own child;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہر گلی کز شاخ می چینی منم\nام ہر چیزی کہ می بینی منم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر پھول جو شاخ سے توڑتا ہے وہ میں ہوں؛ ہر چیز جو تو دیکھتا ہے اس کو جنم دینے والا میں ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am every rose that you pluck from the branch, I am the matrix of every thing that you see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در طلسم من اسیر است این جہان\nاز دمم ہر لحظہ پیر است این جہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان میرے طلسم میں اسیر ہے اور میرے سانس سے یہ ہر لحظہ بوڑھا ہوتا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world is a prisoner in my talisman, every moment it ages through my breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "لی مع اﷲ ہر کہ را در دل نشست\nآن جوانمردی طلسم من شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر جس جوانمرد کے دل میں لی مع اﷲ بیٹھ گیا وہ اس طلسم کو توڑ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But he who has in his heart I have a time with God, that doughty hero has broken my talisman;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "گر تو خواہی من نباشم در میان\nلی مع اﷲ باز خوان از عین جان\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو چاہتا ہے کہ میں درمیان میں نہ رہوں ؛ تو لی مع اﷲ دوبارہ دل و جان سے پڑھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you wish that I should not be in the midst, recite from the depths of your soul I have a time with God.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در نگاہ او نمیدانم چہ بود\nاز نگاھم این کہن عالم ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا اس کی نگاہ میں کیا تھا کہ میری نگاہ سے یہ پرانا جہان اوجھل ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know not what it was that was in his glance, it snatched away from my sight this ancient world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "یا نگاھم بر دگر عالم گشود\nیا دگرگون شد ہمان عالم کہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا تو میری نگاہ نے کوئی اور جہان دیکھا ؛ یا یہی جہان سارے کا سارا تبدیل ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either my sight opened on another world or this same world took on another form.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "مردم اندر کائنات رنگ و بو\nزادم اندر عالم بے ہای و ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس کائنات رنگ و بو میں مر گیا؛ اور ایسے جہان میں پیدا ہوا جو ہا و ہو (ہنگامہ) بغیر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I died in the universe of colour and scent, I was born in a world without tumult and clamour;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "رشتۂ من زان کہن عالم گسست\nیک جہان تازہ ئی آمد بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پرانی دنیا سے میرا رشتہ منقطع ہو گیا؛ اور ایک نیا جہان میرے ہاتھ آ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thread snapped from that ancient world, a whole new world came into my hands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "از زیان عالمے جانم تپید\nتا دگر عالم ز خاکم بر دمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان کے نقصان سے میری جان تڑپنے لگی؛ یہاں تک کہ میری خاک سے ایک نئے عالم نے جنم لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul trembled at the loss of a world until another world blossomed out of my dust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "تن سبک تر گشت و جان سیار تر\nچشم دل بینندہ و بیدار تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا بدن سبک تر اور جان (روح) تیز رفتار ہو گئی ؛ اور میرے دل کی آنکھ بیدار ہو کر اس کی بینائی تیز تر ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My body became nimbler, my soul more adventurous. the eye of my heart was keener and more wakeful;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "پردگی ہا بے حجاب آمد پدید\nنغمۂ انجم بگوش من رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "چھپی ہوئی چیزیں بے حجاب ظاہر ہو گئیں ؛ اور میرے کانوں نے ستاروں کا نغمہ سنا۔(حدیث: مجھے اللہ تعالے کے ساتھ ایسا وقت میسّر ہے جو کسی نبی، مرسل یا فرشتہء مقرّب کو میسّر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Veiled things became manifest uncurtained, the melody of the stars reached my ears.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

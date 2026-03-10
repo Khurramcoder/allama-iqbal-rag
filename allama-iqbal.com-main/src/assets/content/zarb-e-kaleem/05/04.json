@@ -1,0 +1,66 @@
+{
+  "id": "04",
+  "name": "خوشامد",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں کار جہاں سے نہیں آگاہ، ولیکن \nارباب نظر سے نہیں پوشیدہ کوئی راز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world and its affairs to me are quite unknown; these secrets are not bid from those who insight own.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کر تو بھی حکومت کے وزیروں کی خوشامد \nدستور نیا، اور نئے دور کا آغاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hang on the Ministers, if you desire high ranks; new rules have been now framed for this age by the Franks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "معلوم نہیں، ہے یہ خوشامد کہ حقیقت \nکہہ دے کوئی الو کو اگر 'رات کا شہباز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a man calls the owl, ‘The kingly hawk of night’; too hard to find this fact wh'r he tells wrong or right.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Flattery",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

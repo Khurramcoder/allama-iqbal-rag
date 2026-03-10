@@ -1,0 +1,99 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دگرگوں جہاں ان کے زور عمل سے\nبڑے معرکے زندہ قوموں نے مارے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دگرگوں: تبدیلی کی طرف گامزن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whole world shook from actions they played, to live nations owe the events they made.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "منجم کی تقویم فردا ہے باطل\nگرے آسماں سے پرانے ستارے",
+              "lang": "Original"
+            },
+            {
+              "_content": "منجم: ستاروں کا علم جاننے والا ۔ \nتقویم: ستاروں کے علم کی کتاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They wronged all views which a foreteller told; from the sky fell down like sun the stars old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ضمیر جہاں اس قدر آتشیں ہے\nکہ دریا کی موجوں سے ٹوٹے ستارے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آتشیں: آگ سے بھرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The conscience of world is a fire untold, from waves of river broke stars of fame old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زمیں کو فراغت نہیں زلزلوں سے\nنمایاں ہیں فطرت کے باریک اشارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No rest the earth takes from these earthquakes, how clear are hints which the nature makes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہمالہ کے چشمے ابلتے ہیں کب تک\nخضر سوچتا ہے ولر کے کنارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long the fonts boil at this mountain flanks, the Khizr thus broods over the Wooler’s banks (The Khizr is thinking at the Wooler’s bank).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "04",
+  "name": "سوامی رام تیرتھ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہم بغل دریا سے ہے اے قطرہ بے تاب تو\nپہلے گوہر تھا، بنا اب گوہر نایاب تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Impatient drop! You are in the bosom of the sea; you were a pearl earlier, now you are an invaluable pearl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آہ کھولا کس ادا سے تو نے راز رنگ و بو\nمیں ابھی تک ہوں اسیر امتیاز رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! How gracefully you opened the secrets of life; I am still a prisoner of the discriminations of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مٹ کے غوغا زندگی کا شورش محشر بنا\nیہ شرارہ بجھ کے آتش خانہ آزر بنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The life’s clamour on destruction became the Last Day’s tumult; the spark on being extinguished became Azar’s fire temple. \n(Azar: Father of Ibrahim A.S. was a master sculptor and idol maker in Chaldea. Though he was not connected with the pre-Islamic fire temples of Iran this expression confers special excellence, in the material sense, on fire temples.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نفی ہستی اک کرشمہ ہے دل آگاہ کا\n'لا' کے دریا میں نہاں موتی ہے 'الااللہ' کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The denial of Existence is the Love’s gesture of the informed heart; in the river of La is concealed the pearl of Illallah.\n(This alludes to the Kalimah-i-Tawhid. The first part of theKalimah, ‘La’ is the negation and denial of everything except God and is the prelude to the second partIllallah which is what the Kalimah accepts and testifies.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چشم نابینا سے مخفی معنی انجام ہے\nتھم گئی جس دم تڑپ، سیماب سیم خام ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The meaning of the end is hidden from the unsightful eye: Mercury is only raw silver, when its restlessness stops.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "توڑ دیتا ہے بت ہستی کو ابراہیم عشق\nہوش کا دارو ہے گویا مستی تسنیم عشق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Ibrahim of Love is the destroyer of the idol of existence. The ecstasy of Tasnim* of Love is the cure of awareness.\n(This verse is highly mystical. Tasnâm is one of the streams of Paradise. Ecstasy denotes perfection of Love and the ecstasy produced by the water of Tasnâm is the perfection of the Love of God. This perfection is the cure for the awareness which is an impediment to ecstasy resulting from the Love of God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Swamy Ram Tirath",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

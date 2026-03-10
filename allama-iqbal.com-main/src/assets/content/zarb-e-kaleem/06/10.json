@@ -1,0 +1,100 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہی جواں ہے قبیلے کی آنکھ کا تارا \nشباب جس کا ہے بے داغ، ضرب ہے کاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That youth is held in high esteem by all the members of his tribe, whose prime of life is pure and chaste, dread blows to him we can ascribe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگر ہو جنگ تو شیران غاب سے بڑھ کر \nاگر ہو صلح تو رعنا غزال تاتاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "غاب: جنگل۔ \nرعنا: دل کو موہ لینے والا خوبصورت ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In days of war he can surpass tile ferocious lions of the wood when peace prevails in every place, like Tartar deer is fine and good.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عجب نہیں ہے اگر اس کا سوز ہے ہمہ سوز \nکہ نیستاں کے لیے بس ہے ایک چنگاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیستاں: سرکنڈوں کا جنگل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no wonder, if his glow may set the things around afire to burn the bed of reeds one spark is 'nough that from the flame does spire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خدا نے اس کو دیا ہے شکوہ سلطانی \nکہ اس کے فقر میں ہے حیدری و کراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کرار: بار بار حملہ کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God Mighty has endowed him with a monarch's grandeur, pomp and show his brand of Faqr has virtues such that shone on Haider's valorous brow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نگاہ کم سے نہ دیکھ اس کی بے کلاہی کو \nیہ بے کلاہ ہے سرمایہ کلہ داری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not look down upon the youth, if his head is devoid of gear: This lad can claim close kinship with those kings who crowns on heads do wear.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

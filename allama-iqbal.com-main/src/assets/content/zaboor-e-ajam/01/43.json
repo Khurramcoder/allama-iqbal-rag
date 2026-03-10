@@ -1,0 +1,33 @@
+{
+  "id": "43",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نور تو وانمود سپید و سیاہ را\nدریا و کوہ و دشت و در و مہر و ماہ را\nتو در ہوای آنکہ نگہ آشنای اوست\nمن در تلاش آنکہ نتابد نگاہ را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy light defineth all things one by one: black, white, sea, mountain, valley, moon and sun;\nThou seekest one familiar with the light; my quest is He who cannot bear the sight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

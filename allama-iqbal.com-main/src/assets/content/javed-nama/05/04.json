@@ -1,0 +1,222 @@
+{
+  "id": "04",
+  "name": "احوال دوشیزۂ مریخ کہ دعوی رسالت کردہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "05",
+  "sectionName": "فلک مریخ",
+  "name-ur": "مریخ کی دوشیزہ کے احوال جس نے رسالت کا دعوی کیا",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در گذشتیم از ہزاران کوی و کاخ\nبر کنار شہر میدان فراخ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ہزاروں کاخ و کو سے گزر کر ایک فراخ میدان میں پہنچا جو شہر کے کنارے پر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We passed by thousands of streets and mansions; on the edge of the city was a broad square.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اندر آن میدان ہجوم مرد و زن\nدر میان یک زن قدش چون نارون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس میدان میں عورتوں اور مردوں کا ہجوم تھا ؛ اور ان کے درمیان ایک عورت کھڑی تھی جس کا قد ناروان کی طرح بلند تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And in that square a swarm of men and women, amidst them a woman with the stature of a tall pomegranate-tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہرہ اش روشن ولی بے نور جان\nمعنی او بر بیان او گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا چہرہ روشن تھا مگر روحانیت کے نور کے بغیر اس کی گفتگو پر معنی گراں تھے (بے معنی تھے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her face was radiant, but without the light of the soul, as if its meaning were too hard to express;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حرف او بے سوز و چشمش بے نمے\nاز سرور آرزو نامحرمے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے الفاظ بے سوز اور اس کی آنکھ بے نم تھی؛ اور وہ آرزو کے سرور سے نا آشنا تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her speech lacked fire, her eyes lacked tears, not intimate with the joy of desire:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فارغ از جوش جوانی سینہ اش\nکور و صورت ناپذیر آئینہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا سینہ جوش جوانی سے خالی تھا؛ وہ اندھی تھی اور اس کی صورت آئینہ کے لیے ناقابل قبول تھی (بدصورت تھی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her breast was void of the ardour of youth, blind and unreceptive to images her mirror;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بیخبر از عشق و از آئین عشق\nصعوۂ رد کردۂ شاہین عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عشق اور آئین عشق سے نا واقف تھی؛ وہ ایسے ممولے کی مانند تھی جسے شاہین عشق رد کر چکا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She knew nothing of love and the laws of love, she was a sparrow spurned by the hawk of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفت با ما آن حکیم نکتہ دان\n\"نیست این دوشیزہ از مریخیان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس حکیم نکتہ دان نے ہمیں بتایا ' یہ دوشیزہ مریخیوں میں سے نہیں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That sage who knew all subtleties spoke to us: ‘This damsel is not of the Martians;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سادہ و آزادہ و بے ریو و رنگ\nفرز مرز او را بدزدید از فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سادہ، آزاد اور مکر و فریب کے بغیر تھی؛ فرز مرز (ابلیس) نے اسے فرنگ سے اغوا کیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Simple and free of guile, without artifice, Farzmarz kidnapped her from the Franks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پختہ در کار نبوت ساختش،\nاندرین عالم فرو انداختش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اسے نبوّت کے کام میں پختہ کر کے اس عالم میں لا ڈالا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And made her expert in the craft of prophethood, then let her loose upon this world;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گفت نازل گشتہ ام از آسمان\nدعوت من دعوت آخر زمان",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کہنے لگی میں آسمان سے نازل ہوئی ہوں اور میری دعوت آخرالزمان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She declared, \"I have come down from heaven; my message is the final message of time.\"",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از مقام مرد و زن دارد سخن\nفاش تر می گوید اسرار بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مرد و زن کے مقام کی بات کرتی ہے؛ اور بدن کے اسرار کھلم کھلا بیان کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She speaks of the status of man and woman; she speaks more openly of the secrets of the body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "نزد این آخر زمان تقدیر زیست\nدر زبان ارضیان گویم کہ چیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس آخر الزمان کے نزدیک زندگی کی تقدیر کیا ہے؛ میں اسے اہل زمین کی زبان میں بیان کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The destiny of life in this end of time I will now recount in the language of earthlings.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Martian Damsel Who Claimed To Be A Prophetess"
+}

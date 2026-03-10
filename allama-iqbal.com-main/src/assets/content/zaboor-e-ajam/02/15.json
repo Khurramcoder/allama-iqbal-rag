@@ -1,0 +1,136 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز سلطان کنم آرزوی نگاہی\nمسلمانم از گل نسازم الہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہوں سے نگاہ التفات کی آرزو کروں ، مسلمان مٹی کا خدا نہیں بناتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of the Sultan I would take one gaze, if so I may; Muslim I; I do not make a god of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل بی نیازی کہ در سینہ دارم\nگدارا دہد شیوۂ پادشاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے کے اندر جو دل بے نیاز ہے، وہ گداؤں کو شاہانہ انداز عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "See, the independent heart that in my breast I bear to the beggar doth impart a regal air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز گردون فتد آنچہ بر لالۂ من\nفرو ریزم او را بہ برگ گیاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے لالہء قلب پر آسمان سے جو کچھ نازل ہوتا ہے، میں اسے برگ گیاہ تک پہنچا دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What doth on the tulip fall out of the starry sky, o’er the verdant herbage all now scatter I.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چو پروین فرو ناید اندیشۂ من\nبہ دریوزۂ پرتو مہر و ماہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا فکر پروین کی مانند بلندی سے نیچے اتر کر ، مہر و مہ سے روشنی کی گدائی نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ranging through the Infinite my thought begs never boon, as the Pleiades crave light from sun and moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اگر آفتابی سوی من خرامد\nبہ شوخے بگردانم او را ز راہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آفتاب میری جانب چل کے آئے تو میں از رہ شوخی اسے راستے سے واپس کر دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But if any wandering sun toward my path should stray, with a smile I make it run far from the way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ آن آب و تابی کہ فطرت ببخشد\nدرخشم چو برقی بہ ابر سیاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فطرت نے مجھے وہ آب و تاب عطا کی ہے کہ میں ابر سیاہ میں برق کی مانند چمکتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the lustre and the flame that Nature hath endowed like a lightning-flash I gleam in a dark cloud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رہ و رسم فرمانروایان شناسم\nخران بر سر بام و یوسف بچاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں فرمانرواؤں کے طور طریقے پہچانتا ہوں ، وہ گدھوں کو اوپر اٹھاتے ہیں اور یوسف کویں میں پھینکتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well I know the wont and way of them that rule, aloof Joseph’s in the well, and they asses on roof!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

@@ -1,0 +1,146 @@
+{
+  "id": "14",
+  "name": "چاند",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے چاند! حسن تیرا فطرت کی آبرو ہے \nطوف حریم خاکی تیری قدیم خو ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O moon! Your beauty is the dignity of creation; circumambulating the earthly sanctuary is your old habit.\n(Earthly Sanctuary: Metaphor for Earth.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ داغ سا جو تیرے سینے میں ہے نمایاں \nعاشق ہے تو کسی کا، یہ داغ آرزو ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This something like a spot which appears on your breast: Are you someone’s Lover? Is this the Longing’s scar?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں مضطرب زمیں پر، بے تاب تو فلک پر \nتجھ کو بھی جستجو ہے، مجھ کو بھی جستجو ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am restless on the earth; you are impatient in the sky: You are also in search, I am also in search.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "انساں ہے شمع جس کی، محفل وہی ہے تیری؟ \nمیں جس طرف رواں ہوں، منزل وہی ہے تیری؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man is the candle of the congregation which is also yours; the direction in which I am going is also your destination.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو ڈھونڈتا ہے جس کو تاروں کی خامشی میں \nپوشیدہ ہے وہ شاید غوغائے زندگی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one you are searching for in the stars’ silence; perhaps is concealed in the commotion of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "استادہ سرو میں ہے، سبزے میں سو رہا ہے \nبلبل میں نغمہ زن ہے، خاموش ہے کلی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is standing is the cypress tree, is sleeping in the verdure: Is singing in the nightingale, is silent in the flower bud!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آ ! میں تجھے دکھاوں رخسار روشن اس کا \nنہروں کے آئنے میں شبنم کی آرسی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, I shall show you His luminous cheek in rivers’ mirror, in dew’s looking glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "صحرا و دشت و در میں، کہسار میں وہی ہے \nانساں کے دل میں، تیرے رخسار میں وہی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In forest, in mountains in everything only He exists; In the heart of Man, in your cheek only He exists.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Moon",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

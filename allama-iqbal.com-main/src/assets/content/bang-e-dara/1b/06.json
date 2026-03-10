@@ -1,0 +1,145 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "انوکھی وضع ہے، سارے زمانے سے نرالے ہیں\nیہ عاشق کون سی بستی کے یا رب رہنے والے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unusual in state, distinct from the whole world they are; O Lord! Inhabitants of which habitation these Lovers are?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "علاج درد میں بھی درد کی لذت پہ مرتا ہوں\nجو تھے چھالوں میں کانٹے، نوک سوزن سے نکالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even during pathos's cure I desperately love pathos; blisters' thorns have been extracted with needle's point.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پھلا پھولا رہے یا رب! چمن میری امیدوں کا\nجگر کا خون دے دے کر یہ بوٹے میں نے پالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord, the garden of my hopes may remain prosperous I have raised these plants watering them with my blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رلاتی ہے مجھے راتوں کو خاموشی ستاروں کی\nنرالا عشق ہے میرا، نرالے میرے نالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars' silence at night makes me weep: Strange my Love is, strange my Laments are.\n* Reference to the Holy Qur'an 2:164 and 3: 190 as well as 2:219-20 (in part) will help appreciating the thought expressed in this verse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ پوچھو مجھ سے لذت خانماں برباد رہنے کی\nنشیمن سینکڑوں میں نے بنا کر پھونک ڈالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not ask me of the pleasure of remaining destitute; hundreds of nests have been made and destroyed by me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہیں بیگانگی اچھی رفیق راہ منزل سے\nٹھہر جا اے شرر، ہم بھی تو آخر مٹنے والے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being a stranger to the journey's companion is not good, O spark! Wait, after all we are also going to disappear.*\n* A spark is an ephemeral phenomenon, but the spark of Divine Love in the Lover's heart is not ephemeral and does not part with its companion till the end of the life's journey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "امید حور نے سب کچھ سکھا رکھا ہے واعظ کو\nیہ حضرت دیکھنے میں سیدھے سادے، بھولے بھالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Expectation for the houri has taught everything to the preacher; only in appearance simple and straight forward these people are.\n(This is sarcasm on the half-baked ‘Ulema who give literal interpretation of religious thought and miss it’s inner or real meaning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مرے اشعار اے اقبال کیوں پیارے نہ ہوں مجھ کو\nمرے ٹوٹے ہوئے دل کے یہ درد انگیز نالے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why should not my verses be dear to me, O Iqbal; these the painful laments of my heart are.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

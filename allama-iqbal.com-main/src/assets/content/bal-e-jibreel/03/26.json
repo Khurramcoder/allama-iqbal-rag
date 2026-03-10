@@ -1,0 +1,33 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہی اصل مکان و لامکاں ہے \nمکاں کیا شے ہے، انداز بیاں ہے \nخضر کیونکر بتائے، کیا بتائے \nاگر ماہی کہے دریا کہاں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is the essence of the worlds of space and spirit; and what is the world of space? A style of speech.\nIf the fish ask Khizar where all the oceans lie, silence will be the guiding angel's answer.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

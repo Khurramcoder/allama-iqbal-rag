@@ -1,0 +1,129 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ ہو طغیان مشتاقی تو میں رہتا نہیں باقی \nکہ میری زندگی کیا ہے، یہی طغیان مشتاقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Devoid of passion’s roar I can exist no more: What else can be this life but passion strong and strife?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مجھے فطرت نوا پر پے بہ پے مجبور کرتی ہے \nابھی محفل میں ہے شاید کوئی درد آشنا باقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My essence endlessly impels my minstrelsy: Some may in throng be still, who feels for others’ ill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ آتش آج بھی تیرا نشیمن پھونک سکتی ہے \nطلب صادق نہ ہو تیری تو پھر کیا شکوئہ ساقی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s flame can still set fire to lodge and goods entire: If thirst be not aflame, wherefore the saki blame?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ کر افرنگ کا اندازہ اس کی تابناکی سے \nکہ بجلی کے چراغوں سے ہے اس جوہر کی براقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your judgment of the West on glamour must not rest: Its essence seems so bright by means of electric light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دلوں میں ولولے آفاق گیری کے نہیں اٹھتے \nنگاہوں میں اگر پیدا نہ ہو انداز آفاقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thoughts of world conquest can never shape in breast, if blessed not be your gaze with world-wide wont and ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خزاں میں بھی کب آسکتا تھا میں صیاد کی زد میں \nمری غماز تھی شاخ نشیمن کی کم اوراقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I, even in winter drear, fell not in hunter’s snare: My nest’s branches bare drew the hunter’s stare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "الٹ جائیں گی تدبیریں، بدل جائیں گی تقدیریں \nحقیقت ہے، نہیں میرے تخیل کی یہ خلاقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their plans shall end in smoke, miscarry the destined stroke: This fact with truth is fraught, no fiction of my thought.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

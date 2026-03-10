@@ -1,0 +1,552 @@
+{
+  "id": "06",
+  "name": "سوال پنجم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہ من باشم مرا از من خبر کن\nچہ معنی دارد اندر خود سفر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کون ہوں ، مجھے 'میں' کی خبر دیں۔ 'اپنے اندر سفر کر' کے کیا معنی ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What am I? Tell me what ‘I’ means. What is the meaning of ‘travel into yourself’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی تعویذ حفظ کائنات است\nنخستین پرتو ذاتش حیات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کائنات کی حفاظت کے لیے تعویذ ہے، خودی کا پہلا پرتو حیات ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ego is the amulet for the protection of the universe. The first ray of its essence is Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حیات از خواب خوش بیدار گردد\nدرونش چون یکی بسیار گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب حیات کے اندر وحدت کثرت بنی، تو وہ گہری نیند سے بیدار ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life awakens from its sweet dream, its inside, which is one, becomes many.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ او را بے نمود ما گشودی\nنہ ما را بے گشود او نمودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ ہماری نمود کے بغیر اس کی صفات کا اظہار کے بغیر ہماری نمود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither it develops without our expansion, nor do we expand without its development.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ضمیرش بحر ناپیدا کناری\nدل ہر قطرہ موج بیقراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کو ضمیر بحر ناپیدا کنار ہے، اس بحر کے ہر قطرہ کے اندر موج بیقرار پوشیدہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its inner core is a shoreless sea; the heart of every drop is a tumultuous wave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سر و برگ شکیبائی ندارد\nبجز افراد پیدائی ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی استراحت نا آشنا ہے، اس کا اظہار افراد (انسانی ) کے علاوہ اور کسی شے میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has no inclination to rest; its manifestation is nothing but individuals.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حیات آتش خودیہا چون شررہا\nچو انجم ثابت و اندر سفر ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات آگ ہے اور انسانی خودی شراروں کی مانند ہے، یہ شرارے ستاروں کی طرح اپنی جگہ قائم بھی ہیں اور اپنا سفر بھی جاری رکھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is fire and egos are like its flames; like stars they are (both) stationary and moving.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ز خود نا رفتہ بیرون غیر بین است\nمیان انجمن خلوت نشین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اپنے آپ کو نظر انداز کیے بغیر غیر کو بھی اپنے آپ سے باہر دیکھتی ہے (گویا) یہ انجمن کے درمیان خلوت نشین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without going outside, it looks towards others; though in company, is yet in privacy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "یکی بنگر بخود پیچیدن او\nز خاک پی سپر بالیدن او",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا اس کو اپنے آپ سے وابستہ رہنا دیکھو وہ کس طرح خاک پامال سے ابھرتی اور نشو و نما پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just see its self-meditation; it develops out of the trodden earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نہان از دیدہ ہا در ہای و ہوئی\nدمادم جستجوی رنگ و بوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی کشمکش آنکھوں سے پوشیدہ ہے ، وہ ہر دم رنگ و بو کی جستجو (کائنات کے راز جاننے) میں رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hidden from the eyes, it is in tumult, it is constantly in search of adornment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ز سوز اندرون در جست و خیز است\nبہ آئینی کہ با خود در ستیز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنے سوز اندرون کے سبب جد و جہد میں مصروف اور ہر دم اپنے آپ سے نبرد آزما ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in perpetual activity through its internal ardour, as if it is at war with itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "جہان را از ستیز او نظامی\nکف خاک از ستیز آئینہ فامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی جد و جہد سے جہان کا نظام قائم ہے اور اس سے خود انسان کی خاک آئینے کی مانند چمکدار ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world gets order through this strife of the ego! A handful of dust becomes translucent through strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نریزد جز خودی از پرتو او\nنخیزد جز گہر اندر زو او",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے پرتو سے سوائے خودی کے کچھ پیدا نہیں ہوتا اس کے سمندر کے اندر سے سوائے موتی کے کچھ نہیں نکلتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From its ray, nothing comes into being save egos, from its sea, nothing appears save pearls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خودی را پیکر خاکی حجاب است\nطلوع او مثال آفتاب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے لیے پیکر خاکی حجاب ہے، یہ بدن کے اندر سے ایسے طلوع ہوتی ہے، جیسے سورج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earthly garb is a veil for khudi; its appearance is like the rising of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "درون سینۂ ما خاور او\nفروغ خاک ما از جوہر او",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا سینہ اس کا مطلع ہے ، ہماری خاک کی تابانی اس کے جوہر کی مرہون منت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the innermost heart of ours is its sun, our dust is illumined through its potency.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "تو میگوئی مرا از من خبر کن\nچہ معنی دارد اندر خود سفرکن؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے کہ مجھے 'میں' کی خبر دو، مجھے بتاؤ کہ 'اپنے اندر سفر کرنے' کے کیا معنی ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ask to be informed about ‘I’, and what is meant by ‘travel into yourself’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ترا گفتم کہ ربط جان و تن چیست\nسفر در خود کن و بنگر کہ من چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تمہیں بتا چکا ہوں کہ جان و تن کو ربط کیا چیز ہے، اب اپنے اندر سفر کر اور دیکھ کہ 'میں' کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I informed you about the relation of body and soul travel into yourself and see what ‘I’ is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "سفر در خویش زادن بی اب و مام\nثریا را گرفتن از لب بام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے اندر سفر؟ ماں باپ کے بغیر (از سر نو) پیدا ہونا ہے، یہ چھت کے کنارے سے ثریا کو پکڑ لینا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To travel into self: It is to be born without father and mother, to catch Pleiades from the edge of the roof;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ابد بردن بیک دم اضطرابی\nتماشا بی شعاع آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ایک لمحہ کے اضطراب سے ابد پا لینا ہے ، یہ سورج کی روشنی کے بغیر (اپنے اندر کی روشنی سے) نظارہ کرنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To hold eternity with a single stroke of anguish, to see without the rays of the sun;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ستردن نقش ہر امید و بیمی\nزدن چاکی بہ دریا چون کلیمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ہر امید و خوف کا نقش مٹا دینا اور موسی (علیہ) کی طرح دریا کو دو ٹکڑے کر دینا ہے۔ (سامنے سمندر تھا ، پیچھے فرعون کا لشکر، مگر موسی (علیہ) پر گھبراہٹ طاری نہ ہوئی۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To obliterate every sign of hope and fear, to sunder the river like Moses;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "شکستن این طلسم بحر و بر را\nز انگشتی شکافیدن قمر را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اس بحر و بر کے طلسم کو توڑنا ، اور انگلی کے اشارے سے چاند کو دو ٹکڑے کر دینا۔ (معجزہء شق القمر کی طرف اشارہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To break this spell of sea and land, to split the moon with a finger.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "چنان باز آمدن از لامکانش\nدرون سینہ او در کف جہانش",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ اللہ تعالے کے لا مکاں سے اس طرح واپس آنا ہے، کہ سینے کے اندر وہ ہو اور اس کا جہان مٹھی میں ہو۔ (واقعہ ء معراج کی طرف اشارہ ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So to return from this experience of the spaceless world, that it is within his heart, and the world in his hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ولی این راز را گفتن محال است\nکہ دیدن شیشہ و گفتن سفال است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اس راز کو بیان کرنا مشکل ہے، دید شیشہ ہے اور بیان سفال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But it is difficult to unravel this secret: Here ‘seeing’ is valuable and ‘describing’ worthless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "چہ گویم از من و از توش و تابش\nکند انا عرضنا بی نقابش",
+              "lang": "Original"
+            },
+            {
+              "_content": "'میں' کا اور اس کی تاب و تواں کا کیا بیان کروں؛ آیہ ء جلیلہ انا عرضنا اسے بےنقاب کر رہی ہے۔ (امانت کا بوجھ جو کسی اور نے نہیں اٹھایا وہ انسان نے اٹھا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can I say about ‘I’ and its brilliance? It is manifest from the Quranic text, ‘We proposed’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "فلک را لرزہ بر تن از فر او\nزمان و ھم مکان اندر بر او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شان و شوکت سے فلک لرزہ بر اندام ہے، زمان و مکاں دونوں اس کے پہلو (گرفت) میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heavens are in terror of its glory, time and space are in its grip.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "نشیمن را دل آدم نہاد است\nنصیب مشت خاکی او فتاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی نے آدم کے دل میں اپنا نشیمن بنایا، (سبحان الّہ!) اسے اپنا مشت خاک کے نصیب میں ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It sought refuge in the heart of man, and has fallen to the lot of this handful of dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "جدا از غیر و ھم وابستۂ غیر\nگم اندر خویش و ہم پیوستۂ غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ غیر سے جدا بھی ہے اور اس سے وابستہ بھی، اپنے اندر گم بھی ہے اور دوسروں سے پیوستہ بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is distinct from the other and yet related to it, is lost within itself and yet conjoined with the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خیال اندر کف خاکی چسان است\nکہ سیرش بی مکان و بی زمان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کف خاک کے اندر 'تفکر' اس طرح ہے کہ ، اس کی سیر زمان و مکاں سے ماورا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What kind of aspiration this handful of dust has that its flight is beyond the limitations of time and space.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بزندان است و آزاد است این چیست\nکمند و صید و صیاد است این چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی قیدخانے میں بھی ہے اور آزاد بھی ، یہ کیا ماجرا ہے؟ یہ شکاری بھی ہے، کمند بھی اور شکار بھی۔ (بدن میں قید بھی ہے اور اس کے تگ و تاز سے بدن سے ماورا بھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is in prison and yet free! What is this? It is the lasso, the prey, and the hunter! What is this?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "چراغی در میان سینۂ تست\nچہ نور است این کہ در آئینۂ تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے سینے کے اندر چراغ (خودی) ہے، یہ عجیب نور ہے جو تیرے (قلب کے) آئینے میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a lamp within your heart; what is this light which is in your mirror?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "مشو غافل کہ تو او را امینی\nچہ نادانی کہ سوی خود نبینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "غافل نہ ہو، تو اس نور خودی کا امین ہے، تو کتنا نادان ہے کہ اپنے آپ کی طرف نہیں دیکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t be negligent; you are its trustee, what folly that you do not look within your self!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 5",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

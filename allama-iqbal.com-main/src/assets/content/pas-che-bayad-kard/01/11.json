@@ -1,0 +1,733 @@
+{
+  "id": "11",
+  "name": "سیاسیات حاضرہ",
+  "name-en": "Contemporary Politics",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می کند بند غلامان سخت تر\nحریت می خواند او را بی بصر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آج کل کا سیا ستدان محکوموں کی زنجیروں کو زیادہ مظبوط بناتا ہے ۔ کم نظر یہ سمجھتا ہے کہ وہ غلاموں کی آزادی کے لیے کام کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It strengthens the chains of the slaves; the inexperienced call it ‘freedom’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرمی ہنگامۂ جمہور دید\nپردہ بر روی ملوکیت کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس نے عوام کی (تحریک آزادی) کے ہنگامے کی گرمی دیکھی تو بادشاہت کے چہرے پر پردہ ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it saw the people’s agitation, it drew a curtain over the face of imperialism.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سلطنت را جامع اقوام گفت\nکار خود را پختہ کرد و خام گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "( کہنے لگا ) کہ سلطنت تو مختلف اقوام کو اکٹھا کر دیتی ہے، بات اس نے کام کی کہی لیکن اپنے مطلب کا پکّا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It characterized State as multi-national, and thus covered its trickery under this naïve phrase.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در فضایش بال و پر نتوان گشود\nبا کلیدش ہیچ در نتوان گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی سیاست کی فضا میں غلاموں کے لیے بال و پر کھولنا ممکن نہیں ۔ اس کی چابی سے کوئی دروازہ نہیں کھولا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One can hardly move about freely in its environment, no door can be opened by its keys.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت با مرغ قفس \"اے دردمند\nآشیان در خانۂ صیاد بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی سیاستدان مرغ قفس سے کہتا ہے کہ 'اے دردمند تو شکاری کے گھر کے اندر آشیانہ بنا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It said to the bird in cage, ‘O sorrow-stricken bird, build thy nest in the house of the hunter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہر کہ سازد آشیان در دشت و مرغ\"\nاو نباشد ایمن از شاہین و چرغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کوئی صحرا و مرغزار میں آشیانہ بناتا ہے، وہ شاہین اور شکرے سے محفوظ نہیں رہتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who builds his nest in meadows and gardens cannot be secure from falcon and hawk.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از فسونش مرغ زیرک دانہ مست\nنالہ ہا اندر گلوی خود شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کےفسوں سے سمجھدار پرندہ جو دانے پر فریفتہ ہے اپنے نالہ و فریاد کو بلند نہں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under its spell, the self-deluding bird, enamoured of grain, choked its wailings in its throat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "حریت خواہی بہ پیچاکش میفت\nتشنہ میر و بر نم تاکش میفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو آزادی چاہتا ہے تو ایسے سیاستدان کے فریب میں نہ آ، پیاسا مر جا لیکن اس کے انگور کے رس کا طالب نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you desire (real) freedom, do not get caught in its coils, remain thirsty rather than pine for moisture from its vine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "الحذر از گرمی گفتار او\nالحذر از حرف پہلو دار او",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے سیاستدان کی گرمئ گفتار اور حرف پہلودار (ذو معنی) سے اللہ تعالے بچائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God protect you from its speech and its equivocal word!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چشم ہا از سرمہ اش بی نور تر\nبندۂ مجبور ازو مجبور تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا سرمہ آنکھوں کو اور زیادہ بے نور کر دیتا ہے اور اس کی سیاست مجبور انسان کو اور مجبور بنا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eyes (of the people), through its collyrium, become more blind, and the helpless are rendered more helpless through its subterfuges.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از شراب ساتگینش الحذر\nاز قمار بدنشینش الحذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے جام کی شراب اور اس کی بدنیتی پر مبنی کھیل سے اللہ تعالے بچائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God protect us from the wine of its cup, and from its gamester’s tricks!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "از خودی غافل نگردد مرد حر\nحفظ خود کن حب افیونش مخور",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حر اپنی خودی سے غافل نہیں ہوتا۔ تو اپنی حفاظت کے لیے ایسے سیاستدان کی افیون کی گولی نہ کھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free man does not neglect his ego; protect yourself, do not take its opium pill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "پیش فرعونان بگو حرف کلیم\nتا کند ضرب تو دریا را دونیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرعونوں کے سامنے حضرت موسی (علیہ) کی بیباکانہ بات کر تا کہ تیری ضرب سمندر کو دو ثکڑے کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak the word of (truth like) Moses before Pharaohs1 so that your stroke may split the river into two.2\n(1. Moses was ordered by God to go to Pharaoh to warn him of the wrongs being done by him. According to a well-known tradition, it is jihad to speak the truth before a tyrant. 2. This refers to the incident in the history of the Israelites when Moses threw his staff into the river which sundered its water giving way to his followers to cross it safely while being pursued by the army of the Pharaoh.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "داغم از رسوائی این کاروان\nدر امیر او ندیدم نور جان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قافلے کی رسوائی کے خیال سے میرا دل داغ داغ ہے میں اس کے امیر کے قلب میں کوئی نور نہیں دیکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is grieved at the dishonour suffered by the caravan; I do not see the light of soul in its leader.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "تن پرست و جاہ مست و کم نگہ\nاندرونش بی نصیب از لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "امیر کاروان ، تن پرست، جاہ مست اور کوتاہ نظر ہے اس کا اندرون لا الہ کے نور سے خالی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a worshipper of the body, ambitious of worldly honour and short-sighted, his heart devoid of the light of la ilah.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در حرم زاد و کلیسا را مرید\nپردۂ ناموس ما را بر درید",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ شخص حرم میں پیدا ہوا تھا کللیسا کا مرید ہو گیا۔ اس نے ہماری غیرت ملّی کا پردہ چاک چاک کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was born a Muslim but is a disciple of the church; he rent asunder the veil of our honour.\t \n(‘Disciples of the church’ refers to Muslim leaders who sided with the British rulers (Christians) and thus jeopardized the interests of the Muslim community. The best example was provided by some members of the Muslim Delegation at the Second Round Table Conference in London in 1931.) This ‘tradition’ of the disciples of the church is followed more devotedly by the contemporary Muslim rulers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "دامن او را گرفتن ابلہی است\nسینۂ او از دل روشن تہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے شخص کا دامن پکڑنا حماقت ہے کیونکہ اس کا سینہ قلب منوّر سے خالی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To catch hold of his skirt is the height of foolishness; his breast is devoid of a shining heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "اندرین رہ تکیہ بر خود کن کہ مرد\nصید آہو با سگ کوری نکرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس راہ میں اپنے آپ پر اعتماد کر کیونکہ کوئی شخص اندھے کتّے کے ساتھ ہرن کا شکار نہیں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this path rely on yourself, for nobody goes hunting deer with the help of blind dogs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آہ از قومی کہ چشم از خویش بست\nدل بہ غیر ﷲ داد، از خود گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قوم پر جو اپنے آپ سے آنکھیں بند کر لے، اپنے آپ سے کٹ جاے اور دل غیر اللہ کو دے دے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! For the nation that shuts its eyes from itself, gives its heart to the other-than-God, and breaks loose from itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تا خودی در سینۂ ملت بمرد\nکوہ، کاہی کرد و باد او را ببرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب ملّت کے سینے میں خودی مر گئی تو اس کے کوہ نے کاہ کا انداز اختیار کر لیا اور اسے ہوا اڑا کر لے گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When khudi died in the breast of the millat, the mountain became a straw and was blown away by the wind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "گرچہ دارد لاالہ اندر نھاد\nاز بطون او مسلمانی نزاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ یہ ملّت اپنی نہاد میں لا الہ رکھتی ہے مگر اس کی ماؤں کے پیٹ سے کوئی ایسا مسلمان پیدا نہیں ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although it has la ilah in its very constitution, yet it gave birth to no true Muslim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "آنکہ بخشد بی یقینان را یقین\nآنکہ لرزد از سجود او زمین",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بے یقینوں کو یقین بخشے، جس کے سجدے سے زمین لرز اٹھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who gives faith to the faithless, whose self-prostration makes the earth tremble,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "آنکہ زیر تیغ گوید لاالہ\nآنکہ از خونش بروید لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو تلوار کے نیچے بھی لا الہ کہے جس کے خون کے (ہر قطرے ّ) سے لا الہ کا نقش ابھرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who utters ‘there is no god’ at the risk of his life, from whose blood grows (the flower of) there is no god.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "آن سرور، آن سوز مشتاقی نماند\nدر حرم صاحبدلی باقی نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہ سرور باقی رہا اور نہ وہ شوق (محبت) کا سوز ۔ حرم کے اندر کوئی صاحب دل نظر نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That ecstasy, that ardour of longing, has disappeared, no longer is there such a man of heart in the sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "اے مسلمان اندرین دیر کہن\nتا کجا باشی بہ بند اھرمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مسلمان تو اس دنیا میں کب تک شیطان کا اسیر رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim, in this ancient tavern, how long will you remain in the snares of Satan?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "جہد با توفیق و لذت در طلب\nکس نیابد بی نیاز نیم شب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھے ایسی کوشش کی ضرورت ہے جو تا حد ہمت کی جاے اور جس کے اندر لذّت محسوس ہو مگر یہ چیز گریہ نیم شب کے بغیر حاصل نہیں ہو سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask (of God) His blessing in your striving and delight therein, nothing is attained without midnight supplications.\n(Midnight supplications: ‘The rising by night is surely the fiercest way to tread and most effective in speech’ – the Qur’an, lxxiii. 6. In Payom-i M’ashriq, Allamah said: The root of this gem lies in midnight bewailings. And, in Zabur-i ‘Ajam : Sprinkle thy morning tears upon life’s desert plain. New harvest scarce appears except thou sow thy grain.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زیستن تا کی بہ بحر اندر چو خس\nسخت شو چون کوہ از ضبط نفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کب تک دریا میں پڑے ہوے تنکے کی مانند زندگی بسر کرے گا ۔ ضبط نفس سے اپنے اندر پہاڑ کی مظبوتی پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long to live in the ocean like a floating straw? Become hard like a mountain through self-control.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "گرچہ دانا حال دل با کس نگفت\nاز تو درد خویش نتوانم نہفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ سمجھدار آدمی اپنے دل کی بات کسی کو نہیں بتاتا مگر میں تجھ سے اپنا درد چھپا نہیں سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the wise do not reveal the state of their heart to anybody, I cannot hide from you my heart’s grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "تا غلامم در غلامی زادہ ام\nز آستان کعبہ دور افتادہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ میں غلام ہوں اور غلامی کے اندر پیدا ہوا ہوں اس لیے آستان کعبہ سے دور جا پڑا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being a slave and born in slavery, I have wandered away from the threshold of the Ka’bah.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "چون بنام مصطفی خوانم درود\nاز خجالت آب می گردد وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں حضور اکرم (صلعم) پر درود شریف بھیجتا ہوں تو میرا وجود شرم سے پانی پانی ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I recite salutations in the name of Mustafa (S.A.W.), my whole being suffers acutely through shame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "عشق میگوید کہ اے محکوم غیر\nسینۂ تو از بتان مانند دیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق مجھ سے کہتا ہے کہ 'اے غیر کے محکوم بتوں کی وجہ سے تیرا سینہ بتخانہ بنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love says: ‘O slave of others, your breast is like a temple full of idols.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "تا نداری از محمد رنگ و بو\nاز درود خود میالا نام او",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک آنحضور (صلعم) کے (اخلاق عالیہ ) کا رنگ و بو اختیار نہیں کر تا اپنے درود شریف سے ان کے نام کو آلودہ نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as you do not have the colour of Muhammad (S.A.W.) do not pollute his name by your salutations.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "از قیام بی حضور من مپرس\nاز سجود بی سرور من مپرس",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نماز کے قیام بے حضور اور سجود بےسرور کی بات نہ پوچھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not ask me about my inattentive standing in prayer and about my prostration lacking in ecstasy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "جلوۂ حق گرچہ باشد یک نفس\nقسمت مردان آزاد است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا جلوہ خواہ ایک لمحہ کے لیے ہو صرف مرد آزاد کو نصیب ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God’s manifestation, although it may last but for a moment, is enjoyed by free people alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مردی آزادے چو آید در سجود\nدر طوافش گرم رو چرخ کبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزاد مرد جب سجدے میں گرتا ہے تو یہ نیلا آسمان اس کے طواف میں سرگرم ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When a free man falls down in prostration before God, the blue sky revolves round him ecstatically;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "ما غلامان از جلالش بیخبر\nاز جمال لازوالش بیخبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم غلام ایسے آزاد مرد کے جلال اور لازوال جمال سے نا آشنا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We slaves are unaware of his might and of his beauty and grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "از غلامی لذت ایمان مجو\nگرچہ باشد حافظ قرآن، مجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے غلام میں خواہ وہ حافظ ‍ قرآن ہو، ایمان کی لذّت تلاش نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek the ecstasy of faith in a slave, even if he be a hafiz of the Qur’an.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مومن است و پیشۂ او آزری است\nدین و عرفانش سراپا کافری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام اگرچہ ایمان کا دعویدار ہے مگر اس کا پیشہ بت گری ہے، اس کا دین بھی کافری ہے اور عرفان بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a Muslim but behaves like an Azar, his religion and gnosis are all kufr (unbelief).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "در بدن داری اگر سوز حیات\nہست معراج مسلمان در صلوت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اپنے اندر سوز حیات رکھتا ہے تو تو محسوس کرے گا کہ نماز میں مسلمان کی معراج ہے ( اسے نماز میں معراج کی سی کیقیت حاصل ہوتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have life’s ardour in your body, you will know that the ascension of a Muslim is in his prayer.\n(‘Life’s ardour’: It is the same thing which in some places Iqbal calls ‘light of God’ and in other places as ‘light of soul’. All these terms stand for spiritual orientation. Ascension (Mi’raj): It is the direct experience of God which the Prophet had. The verse is a rendering of the famous tradition ‘Prayer (Namaz) is a Muslim’s ascension’.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "ور ندارے خون گرم اندر بدن\nسجدۂ تو نیست جز رسم کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن اگر تو اپنے بدن میں خون گرم نہيں رکھتا تو تیرا سجدہ سواۓ ایک رسم کہن کے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have no warm blood in your body, your prostration is but conformity to an ancient custom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "عید آزادان شکوہ ملک و دین\nعید محکومان ھجوم مومنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزادوں کی عید سلطنت و دین کے شکوہ کا اظہار ہے ، جب کہ محکوموں کی عید صرف مومنوں کا ہجوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Eid of the free people is the glory of State and religion, the ‘Id of the slaves is but a congregation of Muslims.\t",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سوار ناقہ و محمل نہیں میں \nنشان جادہ ہوں، منزل نہیں میں \nمری تقدیر ہے خاشاک سوزی \nفقط بجلی ہوں میں، حاصل نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am not a pursuer, nor a traveller; I am not a goal, but a narrow track.\nI am not a harvest, but a thunder-bolt, born to set fire to straw, buried in the dust.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

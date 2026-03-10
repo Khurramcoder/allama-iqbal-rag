@@ -1,0 +1,1615 @@
+{
+  "id": "01",
+  "name": "تمہید",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "credits": "English Translation by: Reynold A. Nicholson",
+  "name-en": "Prologue",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "\"نیست در خشک و تر بیشۂ من کوتاہی\" \n\"چوب ہر نخل کہ منبر نشود دارکنم\" \nنظیری نیشابوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے جنگل کے خشک و تر میں کوئی ایسی چیز نہیں جو کار آمد نہ ہم؛\n جس درخت کی لکڑی منبر بنانے کی صلاحیت نہیں رکھتی میں اس سے سولی بنا دیتا ہوں\n نظیری نیشا پوری۔\n (منبر پر سے وعظ کہا جاتا ہے اور سولی سے مراد شہدا کا مقام ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is nothing in my jungle, fresh or dry, which is not useful;\ndry wood which cannot be used for making a member, I make gallows of that.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "راہ شب چون مہر عالمتاب زد\nگریۂ من بر رخ گل ، آ ب زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب دنیا کو روشن کرنے والے آفتاب نے رات کو ختم کر دیا؛\nتو میرے آنسوؤں نے پھول کے چہرے پر پانی چھڑکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the world-illuming sun rushed upon night like a brigand; \nmy weeping bedewed the face of the rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اشک من از چشم نرگس خواب شست\nسبزۂ از ہنگامہ ام بیدار رست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے آنسوؤں نے نرگس کی آنکھ سے خواب کا اثر دھو دیا؛\nمیرے شور سے سبزہ بیدار ہو کر زمین سے نکل آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My tears washed away sleep from the eye of the narcissus;\nmy passion wakened the grass and made it grow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "باغبان زور کلامم آ زمود\nمصرعے کارید و شمشیرے درود",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغبان (فطرت) نے میرے کلام کے زور کو آزمایا؛\nمصرع بویا اور شمشیر کاٹی (مصرع بویا تو وہ بڑھ کر شمشیر بن گیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Gardener tried the power of my song,\nhe sowed my verse and reaped a sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در چمن جز دانۂ اشکم نکشت\nتار افغانم بہ پود باغ رشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے باغ میں میرے آنسو کے دانے کے علاوہ اور کچھ نہ بویا؛\nاس نے میری فغاں کے تار کو باغ کے پود سے ملا دیا (تار و پود سے کپڑا بنا جاتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the soil he planted only the seed of my tears;\nand wove my lament with the garden, as warp and woof.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ذرہ ام مہر منیر ن من است\nصد سحر اندر گریبان من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "گو میں ایک ذرّہ ہوں لیکن سورج کی ساری روشنی میرے ایک لحظہ کے برابر ہے؛\nمیرے گریبان میں سینکڑوں صبحیں مستور ہیں (میں ہر روز ایک نئی صبح طلوع کر سکتا ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tho’ I am but a mote, the radiant sun is mine:\nWithin my bosom are a hundred dawns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خاک من روشن تر از جام جم است\nمحرم از نازادہای عالم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک جمشید کے جام سے زیادہ روشن ہے؛\nمیں ان واقعات سے با خبر ہوں جو ابھی دنیا کے اندر وجود میں نہیں آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My dust is brighter than Jamshid's cup;\nit knows things that are yet unborn in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "فکرم ن ہو سر فتراک بست\nکو ہنوز از نیستی بیرون نجست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے فکر نے (معنی کے) وہ غزال اپنے شکار بند میں باندھ لیے ہیں؛\nجو ابھی تک عدم سے وجود میں نہیں آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought hunted down and slung from the saddle a deer;\nthat has not yet leaped forth from the covert of non-existence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "سبزہ نا روئیدہ زیب گلشنم\nگل بشاخ اندر نہان در دامنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سبزہ جو ابھی اگا نہيں میرے گلشن فکر کی زیب و زینت ہے؛\nپھول جو ابھی شاخ سے پھوٹے نہیں وہ میرے دامن ( فکر) میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fair is my garden ere yet the leaves are green;\nunborn roses are hidden in the skirt of my garment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "محفل رامشگری برھم زدم\nزخمہ بر تار رگ عالم زدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں عیش و طرب کی محفل برہم کرنے والا ہوں؛\nیں رگ عالم کے تار کو اپنے مضراب سے چھیڑتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I struck dumb the musicians where they were gathered together;\nI smote the heart-string of the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بسکہ عود فطرتم نادر نوا ست\nہم نشین از نغمہ ام نا شنا ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیوں کہ میری فطرت کے ساز سے نادر نغمے پیدا ہو رہے ہیں؛\nاس لیے میرے پاس بیٹھنے والے نغمے سے ناواقف ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because the lute of my genius hath a rare melody:\nEven to comrades my song is strange.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در جہان خورشید نوزائیدہ ام\nرسم و ئین فلک نادیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں دنیا میں ایک نیا طلوع ہونے والا سورج ہوں؛\nمیں نے ابھی آسمان کے طور طریقے نہیں دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am born in the world as a new sun;\nI have not learned the ways and fashions of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "رم ندیدہ انجم از تابم ہنوز\nہست نا شفتہ سیمابم ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابھی تک ستارے میری روشنی سے ماند نہیں پڑے؛\nابھی تک میرے پارے میں تڑپ پیدا نہیں ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not yet have the stars fled before my splendour,\nnot yet is my quicksilver astir.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بحر از رقص ضیایم بے نصیب\nکوہ از رنگ حنایم بے نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابھی تک سمندر میری شعاؤں کے رقص سے بے نصیب ہے؛\nابھی تک پہاڑ نے میرا حنائی رنگ نہیں پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Untouched is the sea by my dancing rays;\nuntouched are the mountains by my crimson hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "خوگر من نیست چشم ہست و بود\nلرزہ بر تن خیزم از بیم نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابھی تک دنیا کی آنکھ میری خوگر نہیں ہوئی؛\nمیں خود بھی اپنے برسر عام آنے سے لرزہ بر اندام ہوں (کہ دیکھیں اس کا ردعمل کیا ہوتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye of existence is not familiar with me;\nI rise trembling, afraid to show myself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "بامم از خاور رسید و شب شکست\nشبنم نو برگل عالم نشست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(میرے آفتاب کی) صبح مشرق سے طلوع ہو چکی ہے اور رات کا اندھیرا ختم ہو چکا ہے؛ دنیا کے پھول پر (میرے آنسوؤں کی) نئی شبنم گر رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the East my dawn arrived and routed night;\na fresh dew settled on the rose of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "انتظار صبح خیزان می کشم\nاے خوشا زرتشتیان تشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں صبح سویرے اٹھنے والوں کے انتظار میں ہوں؛\nکیا خوش نصیب ہیں وہ جو میرے آتشیں (جذبہ ) کے پرستار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am waiting for the votaries that rise at dawn;\noh, happy they who shall worship my fire!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نغمہ ام، از زخمہ بے پرواستم\nمن نوای شاعر فرداستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایسا نغمہ ہوں جو مضراب سے بے نیاز ہے؛\nمیں آنے والے دور کا شاعر ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no need of the ear of to-day;\nI am the voice of the poet of To-morrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "عصر من دانندۂ اسرار نیست\nیوسف من بہر این بازار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دور اسرار کو نہیں سمجھتا؛\nمیرا یوسف اس بازار کے لائق نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My own age does not understand my deep meanings;\nmy Joseph is not for this market.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ناامید استم ز یاران قدیم\nطور من سوزد کہ مے ید کلیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے پرانے دوستوں سے ناامید ہوں (کہ وہ میری بات سمجھ سکیں گے)؛\nمیرا طور جل رہا ہے (اور اس انتظار میں ہے کہ) کوئی کلیم آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I despair of my old companions;\nmy Sinai burns for sake of the Moses who is coming.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "قلزم یاران چو شبنم بے خروش\nشبنم من مثل یم طوفان بدوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ساتھیوں کا سمندر شبنم کی طرح بغیر جوش و خروش کے ہے؛\nاس کے برعکس میری شبنم سمندر کی مانند طوفانی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their sea is silent, like dew;\nbut my dew is storm-ridden, like the ocean.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "نغمہ ی من از جہان دیگر است\nاین جرس را کاروان دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے نغمے کا تعلق ایک اور ہی دنیا سے ہے؛\nاس جرس کے لیے کوئی نیا قافلہ آئے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My song is of another world than theirs;\nThis bell calls other travelers to take the road.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اے بسا شاعر کہ بعد از مرگ زاد\nچشم خود بر بست و چشم ما گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہت سے شاعر ہیں جو مرنے کے بعد زندہ ہوتے (شہرت پاتے) ہیں؛\nاپنی آنکھ موند لیتے ہیں اور ہماری آنکھ کھول دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many a poet was born after his death;\nopened our eyes when his own were closed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "رخت باز از نیستی بیرون کشید\nچون گل از خاک مزار خود دمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عدم سے دوبارہ (زندگی کا) ساز و سامان لاتے ہیں؛\nپھول کی مانند اپنے مزار کی خاک سے اگ آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And journeyed forth again from nothingness;\nlike roses blossoming o'er the earth of his grave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "کاروان ہا گرچہ زین صحرا گذشت\nمثل گام ناقہ کم غوغا گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اس صحرا سے کئی قافلے گزرے ہیں؛\nمگر وہ ناقہ کے قدموں کی مانند بغیر کسی شور و غوغا کے گزرے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Albeit caravans have passed through this desert;\nthey passed, as a camel steps, with little sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "عاشقم، فریاد، ایمان من است\nشور حشر از پیش خیزان من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں عشق ہوں فریاد کرنا میرا ایمان ہے؛\nمیری فریاد سے اتنا شور اٹھتا ہے کہ اس کے مقابلے میں حشر کا شور ان ملازموں کی مانند ہے جو بادشاہ کی سواری کے آگے آگے بھاگتے اور اس کی آمد کی اطلاع دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But I am a lover: loud crying is my faith;\nthe clamour of Judgment Day is one of my minions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "نغمہ ام ز اندازۂ تار است بیش\nمن نترسم از شکست عود خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میرے ساز کے تار میرے نغمے کے متحمّل نہیں ہو سکتے؛\nلیکن میں اس سے نہیں ڈرتا کہ وہ ٹوٹ جائیں گے (اپنا نغمہ ضرور سناؤں گا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My song exceeds the range of the chord,\nyet I do not fear that my lute will break.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "قطرہ از سیلاب من بیگانہ بہ\nقلزم از شوب او دیوانہ بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "قطرے (کم ہمت لوگوں) کے لیے میرے (نغمے کے) سیلاب سے دور رہنا ہی بہتر ہے؛\nسمندر ہی کو اس کے شور سے دیوانگی حاصل کرنی چاہئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "’Twere better for the water drop not to know my torrent,\nwhose fury should rather madden the sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "در نمے گنجد بجو عمان من\nبحرہا باید پے طوفان من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا سمندر کسی چھوٹی ندی میں نہیں سما سکتا؛\nمیرے طوفان کو سنبھالنے کے لیے کئی سمندر چاہئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No river will contain my Oman.\nMy flood requires whole seas to hold it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "غنچہ کز بالیدگی گلشن نشد\nدر خور ابر بھار من نشد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ غنچہ جو نشو و نما پا کر گلشن کی طرح صورت اختیار نہیں کرتا\nوہ میرے نغمے کے ابر بہار کے لائق نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless the bud expand into a bed of roses,\nit is unworthy of my spring-cloud's bounty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "برقہا خوابیدہ در جان من است\nکوہ و صحرا باب جولان من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری جان میں بجلیاں خوابیدہ ہیں؛\nکوہ و صحرا ہی میری تگ و تاز کے لائق ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lightnings slumber within my soul,\nI sweep over mountain and plain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "پنجہ کن با بحرم ار صحراستی\nبرق من در گیر اگر سیناستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو صحرا ہے تب میرے صحرا کو گرفت میں لے؛\nاگر تو طور سینا ہے تو پھر میری برق کو اپنے اندر سما۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wrestle with my sea, if thou art a plain;\nreceive my lightning if thou art a Sinai.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "چشمۂ حیوان براتم کردہ اند\nمحرم راز حیاتم کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آب حیات میرے نصیب کیا گیا ہے؛\nمجھے راز حیات کا محرم بنایا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Fountain of Life hath been given me to drink.\nI have been made an adept of the mystery of Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ذرہ از سوز نوایم زندہ گشت\nپر گشود و کرمک تابندہ گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نوا کی تپش سے ذرّہ زندہ ہو گیا ہے؛\nاور پر و بال نکال کر جگنو بن گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The speck of dust was vitalised by my burning song;\nIt unfolded wings and became a firefly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "ہیچکس، رازی کہ من گویم، نگفت\nہمچو فکر من در معنی نسفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو راز میں بیان کر رہا ہوں وہ کسی اور نے بیان نہیں کیا؛\nکسی نے معنی کے موتیوں کو اس طرح (ایک لڑی میں) نہیں پرویا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one hath told the secret which I will tell;\nor threaded a pearl of thought like mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "سر عیش جاودان خواہی بیا\nہم زمین، ھم آسمان خواہی بیا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو عیش جاوید کا راز معلوم کرنا چاہتا ہے تو میرے پاس آ؛\nتو دنیا کا خواہاں ہو یا آخرت کا میرے پاس آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, if thou wouldn’t know the secret of everlasting life.\nCome, if thou wouldn’t win both earth and heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "پیر گردون بامن این اسرار گفت\nاز ندیمان رازہا نتوان نہفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ راز مجھے پیر گردوں نے بتائے ہیں؛\nاگرچہ انہیں ظاہر نہیں کرنا چاہئے لیکن انہیں دوستوں سے پوشیدہ نہیں رکھا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heaven taught me this lore,\nI cannot hide it from comrades.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "ساقیا برخیز و می در جام کن\nمحو از دل کاوش ایام کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ساقی! اٹھ اور میرے جام میں شراب ڈال دے جو دل سے زمانے کی کلفتیں دور کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Saki arise and pour wine into the cup!\nClear the vexation of Time from my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "شعلہ ی بے کہ اصلش زمزم است\nگر گدا باشد پرستارش جم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آتشیں شراب جس کی اصل زمزم سے ہے؛\nاس کا چاہنے والا اگر گدا بھی ہو تو وہ بادشاہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sparkling liquor that flows from Zemzem;\nwere a beggar to worship it, he would become a king.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "می کند اندیشہ را ہشیار تر\nدیدہ ی بیدار را بیدار تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسی شراب سوچ کو اور تیز کر دیتی ہے؛\nاور جو آنکھ پہلے ہی بیدار ہو ا سے بیدار تر کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It makes thought more sober and wise;\nit makes the keen eye keener.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "اعتبار کوہ بخشد کاہ را\nقوت شیران دہد روباہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تنکے کو پہاڑ کا وقار عطا کرتی ہے؛\nاور لومڑی کو شیروں کی قوّت بخشتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives to a straw the weight of a mountain;\nand to foxes the strength of lions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "خاک را اوج ثریا میدہد\nقطرہ را پہنای دریا میدہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک کو ثریا کی بلندی دیتی ہے؛\nاور قطرے کو سمندر کی وسعت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It causes dust to soar to the Pleiades;\nand a drop of water swell to the breadth of the sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "خامشی را شورش محشر کند\nپای کبک از خون باز احمر کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خاموشی کو شور قیامت میں تبدیل کر دیتی ہے؛\nاور چکور کے پنجے کو باز سے لڑا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It turns silence into the din of Judgment Day;\nit makes the foot of the partridge red with blood of the hawk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "خیز و در جامم شراب ناب ریز\nبر شب اندیشہ ام مہتاب ریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور میرے جام میں یہ خالص شراب ڈال؛\nاور اس طرح میرے فکر کی رات پر چاندنی بکھیر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise and pour pure wine into my cup;\npour moon beams into the dark night of my thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "تا سوی منزل کشم وارہ را\nذوق بیتابے دہم نظارہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ میں بھٹکے ہوؤں کو منزل کی جانب لے جاؤں؛\nاور (شوق) نظارہ کو ذوق بے تابی دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That I may lead home the wanderer;\nand imbue the idle looker-on with restless impatience.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "گرم رو از جستجوی نو شوم\nروشناس رزوی نو شوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ میں ایک نئی جستجو کے راستے میں سرگرم ہو جاؤں؛\nاور اپنے آپ کو نئی آرزو سے متعارف کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And advance hotly on a new quest;\nand become known as the champion of a new spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "چشم اھل ذوق را مردم شوم\nچون صدا در گوش عالم گم شوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل ذوق کی آنکھ کی پتلی بن جاؤں؛\nاور دنیا کی آواز میں صدا کی طرح گم ہو جاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And be to people of insight as the pupil to the eye;\nand sink into the ear of the world, like a voice.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "قیمت جنس سخن بالا کنم\nب چشم خویش در کالاکنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ میں متاع شاعری میں اپنے آنسو شامل کر کے اس کی قیمت بڑھا دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And exalt the worth of Poesy;\nand sprinkle the dry herbs with my tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "باز بر خوانم ز فیض پیر روم\nدفتر سر بستہ اسرار علوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور پیر روم کے فیض سے؛ اسرار علوم کے سربستہ دفتر کھول دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Inspired by the genius of the Master of Rum;\nI rehearse the sealed book of secret lore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "جان او از شعلہ ہا سرمایہ دار\nمن فروغ یک نفس مثل شرار",
+              "lang": "Original"
+            },
+            {
+              "_content": "مولانا روم کی جان کئی شعلوں کی سرمایہ دار ہے؛\nجبکہ میری چمک شرر کی مانند لمحہ بھر کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His soul is the flaming furnace,\nI am but as the spark that gleams for a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "شمع سوزان تاخت بر پروانہ ام\nبادہ شبخون ریخت بر پیمانہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی جلتی ہوئی شمع نے مجھ پروانے پر یورش کر دی؛\nگویا اس کی شراب نے میرے پیمانے پر شبخون مارا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His burning candle consumed me, the moth;\nHis wine overwhelmed my goblet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "پیر رومی خاک را اکسیر کرد\nاز غبارم جلوہ ہا تعمیر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر رومی نے میری خاک کو اکسیر بنا دیا؛\nاور میرے غبار سے کئی جلوے پیدا کر دیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The master of Rum transmuted my earth to gold;\nand set my ashes aflame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "ذرہ از خاک بیابان رخت بست\nتا شعاع فتاب رد بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ذرّے نے بیابان کی خاک سے رخت (سفر) باندھا؛\nتاکہ وہ آفتاب کی شعاع کو گرفت میں لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grain of sand set forth from the desert;\nthat it might win the radiance of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "موجم و در بحر او منزل کنم\nتا در تابندہ ئی حاصل کنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں موج ہوں اور میں نے رومی کے سمندر کو اپنا مسکن بنایا ہے؛\nتاکہ وہاں سے چمکدار موتی حاصل کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a wave and I will come to rest in his sea;\nthat I may make the glistening pearl mine own.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "من کہ مستی ہا ز صہبایش کنم\nزندگانے از نفس ہایش کنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "یں جو اس کی شراب سے مستی حاصل کرتا ہوں؛\nمیری زندگی انہی کے دم سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I who am drunken with the wine of his song;\ndraw life from the breath of his words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "شب دل من مایل فریاد بود\nخامشے از\"یا ربم\" باد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "رات میرا دل فریاد کناں تھا؛\nرات کی خاموشی میری 'یا رب کی' آواز سے آباد ہو رہی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'Twas night: my heart would fain lament.\nThe silence was filled with my cries to God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "شکوہ شوب غم دوران بدم\nاز تہی پیمانگی نالان بةدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے غم دوراں کی شکائت کا طوفان اٹھا رکھا تھا اور اپنی بے سر و سامانی پر نالاں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was complaining of the sorrows of the world;\nand bewailing the emptiness of my cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "این قدر نظارہ ام بیتاب شد\nبال و پر بشکست و خر خواب شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نگاہیں تڑپتے تڑپتے بال و پر کھو بیٹھیں اور میں سو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last mine eye could endure no more;\nbroken with fatigue it went to sleep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "روی خود بنمود پیر حق سرشت\nکو بحرف پہلوی قر ن نوشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر حق سرشت (رومی) ظاہر ہوئے؛\nوہ جنہوں نے فارسی زبان میں قران پاک کی حکمت بیان کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There appeared the Master, formed in the mould of Truth;\nwho wrote the Quran in Persian.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "گفت\"اے دیوانہ ی ارباب عشق\nجرعہ ئی گیر از شراب ناب عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے فرمایا تو جو اہل عشق کا شیدائی ہے؛\nعشق کی خالص شراب کا ایک گھونٹ پی لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘O frenzied lover;\ntake a draught of love's pure wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "بر جگر ہنگامہ ی محشر بزن\nشیشہ بر سر، دیدہ بر نشتر بزن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اور اس سے) اپنے جگر میں قیامت کا ہنگامہ پیدا کر؛\n اس شراب سے سرمست ہو اور اشکوں کو خونتاب کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Strike the chords of thine heart and rouse a tumultuous strain.\nDash thine head against the goblet and thine eye against the lancet!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "خندہ را سرمایہ ی صد نالہ ساز\nاشک خونین را جگر پرکالہ ساز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی ہنسی کو سینکڑوں نالوں کا سرمایہ بنا (اپنی ہنسی کو نالہ و فریاد میں بدل دے)؛\nاپنے اشک خونیں میں جگر کے ٹکڑے ملا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make thy laughter the source of a hundred sighs.\nMake the hearts of men bleed with thy tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "تا بکی چون غنچہ می باشی خموش\nنکہت خود را چو گل ارزان فروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک کلی کی مانند خاموش رہے گا؛\nاپنی خوشبو کو پھول کی مانند عام کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long wilt thou be silent, like a bud?\nSell thy fragrance cheap, like the rose!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "در گرہ ہنگامہ داری چون سپند\nمحمل خود بر سر تش بہ بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو حرمل کے دانے کی طرح اپنے اندر ہنگامہ رکھتا ہے؛\nاس لیے اپنے محمل (ناقہ) کو آتش پر باندھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tongue-tied, thou art in pain;\nCast thyself upon the fire, like rue!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "چون جرس خر ز ہر جزو بدن\nنالہ ی خاموش را بیرون فکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "نالہ خاموش کو اپنے بدن کے ہر بن و مو سے جرس کی مانند باہر نکال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the bell, break silence at last, and from every limb. Utter forth a lamentation!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "تش استی بزم عالم بر فروز\nدیگران را ھم ز سوز خود بسوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو آگ ہے بزم کائنات کو جگمگا دے؛\nدوسروں کو بھی سوز کی تپش عطا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art fire: fill the world with thy glow!\nMake others burn with thy burning!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "فاش گو اسرار پیر می فروش\nموج می شو کسوت مینا بپوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر مغاں کے راز برملا بیان کر؛\nشراب کی موج بن اور مینا کا لباس پہن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Proclaim the secrets of the old wine seller;\nbe thou a surge of wine, and the crystal cup thy robe!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "سنگ شو ئینہ ی اندیشہ را\nبر سر بازار بشکن شیشہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد کے آئینے کے لیے پتھر بن؛\nاور اسے سر بازار توڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Shatter the mirror of fear;\nbreak the bottles in the bazaar",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "از نیستان ہمچو نے پیغام دہ\nقیس را از قوم\"حی\" پیغام دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "بانسری کی مانند نیستاں کا پیغام سنا؛\nقیس کے لیے لیلی کا پیغام لا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the reed-flute, bring a message from the reed-bed.\nGive to Majnun a message from the tribe of Layla!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "نالہ را انداز نو ایجاد کن\nبزم را از ہاے و ہو باد کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "نالہ و فریاد کے لیے نئے انداز ایجاد کر؛\n(افسردہ) محفل کو ہا و ہو سے گرم دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Create a new style for thy song;\nenrich the assembly with thy piercing strains!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "خیز و جان نو بدہ ہر زندہ را\nاز\"قم\" خود زندہ تر کن زندہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور زندہ شخص کو نئی جان عطا کر؛\nلفظ '‍ قوم' کہہ کے زندوں میں اور زندگی بھر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Up, and re-inspire every living soul.\nSay 'Arise!' and by that word quicken the living!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "خیز و پا بر جادہ ی دیگر بنہ\nجوش سودای کہن از سر بنہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور نئے راستے پر قدم رکھ؛\n اپنے سر سے پرانی روایات کا سودا نکال دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Up, and set thy feet on another path;\nput aside the passionate melancholy of old!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "شنای لذت گفتار شو\nاے دراے کاروان بیدار شو\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "لذّت گفتار سے آشنا ہو (کچھ کہہ )؛\nتو قافلہ کے لیے بانگ راحیل ہے، اٹھ (قافلے کو جگا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become familiar with the delight of singing;\nbell of the caravan, awake!‛",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "زین سخن تش بہ پیراہن شدم\nمثل نے ہنگامہ بستن شدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس آواز نے میرے تن بدن میں آگ لگا دی؛\nاور میں ہنگاموں بھری بانسری کی مانند ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At these words my bosom was enkindled;\nand swelled with emotion like the flute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "چون نوا از تار خود برخاستم\nجنتی از بھر گوش راستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے (ساز کے) تار سے نغمے کی مانند اٹھا؛\nاور میں نے سماعت کے لیے جنت سجا دی۔(غالب نے جنت نگاہ اور فردوس گوش کی اصطلاحیں استعمال کی ہیں)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I rose like music from the string;\nto prepare a Paradise for the ear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "بر گرفتم پردہ از راز خودی\nوا نمودم سر اعجاز خودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے خودی کے راز سے پردہ اٹھا دیا؛\nاور اس کے اعجاز پوری طرح ظاہر کر دیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I unveiled the mystery of the self;\nand disclosed its wondrous secret.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "بود نقش ہستیم انگارہ ئی\nنا قبولی، ناکسے، ناکارہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا وجود ایک ناتمام نقش تھا؛\nناقابل قبول، بے قیمت اور ناکارہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My being was an unfinished statue;\nuncomely, worthless, good for nothing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "عشق سوہان زد مرا، دم شدم\nعالم کیف و کم عالم شدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے مجھے سان پر چڑھایا تو میں آدم بنا؛\nاور میں نے اس جہان کی اشیاء کا علم پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love chiselled me: I became a man.\nAnd gained knowledge of the nature of the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "حرکت اعصاب گردون دیدہ ام\nدر رگ مہ گردش خون دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آسمان کے اعصاب کی حرکت دیکھ لی؛\nمجھے چاند کی رگوں میں گردش کرتا ہوا خون نظر آ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen the movement of the sinews of the sky.\nAnd the blood coursing in the veins of the moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "بہر انسان چشم من شبہا گریست\nتا دریدم پردہ ی اسرار زیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے انسان کے غم میں رو رو کر راتیں گزار دیں؛\nتب کہیں جا کر میں زندگی کے رازوں پر سے پردہ اٹھانے میں کامیاب ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many a night I wept for Man's sake;\nthat I might tear the veil from Life's mysteries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "167",
+          "Text": [
+            {
+              "_content": "از درون کارگاہ ممکنات\nبر کشیدم سر تقویم حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ممکنات کے کارخانے کے اندر سے؛ زندگی کے استحکام کا راز (لائحہ عمل ) نکال لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And extract the secret of Life's constitution;\nfrom the laboratory of phenomena.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "من کہ این شب را چو مہ راستم\nگرد پای ملت بیضاستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جس نے (زندگی کی) رات کو چاند کی طرح خوبصورت بنا دیا ہے؛\nمیں فقط ملّت بیضا کی گرد پا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I who give beauty to this night, like the moon;\nam as dust in devotion to the pure Faith (Islam).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "171",
+          "Text": [
+            {
+              "_content": "ملتی در باغ و راغ وازہ اش\nتش دلہا سرود تازہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ملّت جس کا شہرہ باغ و راغ میں ہے؛\nجس کے تازہ نغمے دلوں میں حرارت پیدا کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Faith renowned in hill and dale;\nwhich kindles in men's hearts a flame of undying song:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "173",
+          "Text": [
+            {
+              "_content": "ذرہ کشت و فتاب انبار کرد\nخرمن از صد رومی و عطار کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ملت جس نے ذرّہ بویا اور آفتابوں کے انبار لگا دیئے؛\nجس کے کھلیان سینکڑوں رومی اور عطّار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It sowed an atom and reaped a sun;\nit harvested a hundred poets like Rumi and Attar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "175",
+          "Text": [
+            {
+              "_content": "آہ گرمم ، رخت بر گردون کشم\nگرچہ دودم از تبار آتشم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آگ گرم ہوں جو آسمان تک پہنچتی ہے؛\nاگرچہ میں (آہ) کا دھواں ہوں لیکن ہوں تو آگ کے خاندان سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a sigh: I will mount to the heavens;\nI am but smoke, yet am I sprung of fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "خامہ ام از ھمت فکر بلند\nراز این نہ پردہ در صحرا فکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے قلم نے فکربلند کی ہمت سے؛\nاس نہہ پردہ (کائنات) کے راز کو صحرا میں ڈال دیا (سر عام واضح کر دیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Driven onward by high thoughts, my pen;\ncast abroad the secret behind this veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "179",
+          "Text": [
+            {
+              "_content": "قطرہ تا ہمپایہ ی دریا شود\nذرہ از بالیدگی صحرا شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "تا کہ قطرہ دریا کے ہم پلّہ ہو جائے اور ذرّہ بڑھ کر صحرا بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That the drop may become co-equal with the sea;\nand the grain of sand grow into a Sahara.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "شاعری زین مثنوی مقصود نیست\nبت پرستی، بت گری مقصود نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مثنوی کا مقصد شاعری (بت بنانا اور بت پرستی سکھانا) نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poetising is not the aim of this mathnavi.\nBeauty-worshipping and love-making is not its aim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "183",
+          "Text": [
+            {
+              "_content": "ہندیم از پارسے بیگانہ ام\nماہ نو باشم تہی پیمانہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ہندی ہوں فارسی میری زبان نہیں؛\nمیں نئے چاند کی مانند اندر سے خالی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am of India: Persian is not my native tongue;\nI am like the crescent moon: my cup is not full.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "حسن انداز بیان از من مجو\nخوانسار و اصفہان از من مجو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے انداز بیاں کی خوبصورتی کی توقع نہ رکھ؛\nمیں شعراء خوانسار اور اصفہان جیسی زبان پیش نہیں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek from me charm of style in exposition.\nDo not seek from me Khansar and Isfahan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "187",
+          "Text": [
+            {
+              "_content": "گرچہ ہندی در عذوبت شکر است\nطرز گفتار دری شیرین تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ ہندی زبان مٹھاس میں شکر ہے؛\nلیکن فارسی زبان کا انداز بیان اس سے زیادہ شیریں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the language of Hind is sweet as sugar;\nyet sweeter is the fashion of Persian speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "189",
+          "Text": [
+            {
+              "_content": "فکر من از جلوہ اش مسحور گشت\nخامۂ من شاخ نخل طور گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "فارسی زبان کے جلوے نے میرے فکر کو مشہور کر دیا؛ اور میرا کلام (اس کی بدولت) نخل طور کی شاخ بن گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My mind was enchanted by its loveliness; my pen became as a twig of the Burning Bush.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "191",
+          "Text": [
+            {
+              "_content": "پارسے از رفعت اندیشہ ام\nدر خورد با فطرت اندیشہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے فکر کی بلندی کے لحاظ سے فارسی زبان اس کی فطرت سے زیادہ مناسبت رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of the loftiness of my thoughts; Persian alone is suitable to them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "193",
+          "Text": [
+            {
+              "_content": "خردہ بر مینا مگیر اے ہوشمند\nدل بذوق خردہ ی مینا بہ بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "خردہ مینا: شراب۔ خردہ گرفتن: نکتہ چینی کرنا۔\nاے دانا شخص! میری مینائے کلام (الفاظ) پر نکتہ چینی نہ کر بلکہ اس مینا کی شراب (معنی) سے لطف اندوز ہونے کا ذوق پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Reader, do not find fault with the wine-cup;\nbut consider attentively the taste of the wine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

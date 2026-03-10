@@ -1,0 +1,35 @@
+{
+  "id": "54",
+  "name": "ہارون کی آخری نصیحت",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہاروں نے کہا وقت رحیل اپنے پسر سے \nجائے گا کبھی تو بھی اسی راہ گزر سے \nپوشیدہ ہے کافر کی نظر سے ملک الموت \nلیکن نہیں پوشیدہ مسلماں کی نظر سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "وقت رحیل: وقت رحلت یعنی موت کا وقت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Harun said to his son when his hour came, ‘You’ll also pass this way some day.\nThe Angel of Death is an unseen to the infidel, but it is not hidden from a Muslim’s eyes.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Last Will Of Harun Rashid",
+  "credits": "English Translation by: Naeem Siddiqui"
+}

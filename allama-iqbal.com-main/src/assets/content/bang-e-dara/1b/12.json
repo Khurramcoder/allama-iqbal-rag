@@ -1,0 +1,113 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سختیاں کرتا ہوں دل پر، غیر سے غافل ہوں میں\nہائے کیا اچھی کہی ظالم ہوں میں، جاہل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I bear hardships on myself, I am unconcerned with others. Alas! How strange, I am the oppressor, I am the ignorant. \n(This is the kind of sarcastic remark people make on the material losses and sufferings of the true Lovers of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں جبھی تک تھا کہ تیری جلوہ پیرائی نہ تھی\nجو نمود حق سے مٹ جاتا ہے وہ باطل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I existed only till the time Thy Splendor appeared, I am the falsehood which is annihilated by the Truth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علم کے دریا سے نکلے غوطہ زن گوہر بدست\nوائے محرومی! خزف چین لب ساحل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the knowledge’s sea divers came out with pearls in hand. Alas, O deprivation! A mere pebble collector on the sea shore I am.*\n(Allusion to the transfer of Adam (A.S.) from Paradise to the earth on account of his negligence in obeying the Command of God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے مری ذلت ہی کچھ میری شرافت کی دلیل\nجس کی غفلت کو ملک روتے ہیں وہ غافل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My disgrace itself is the demonstration of my nobility; I am the negligence which the angels ardently desire.\n(The whole purpose of the Creation of the universe was to create Man, who is the master-piece of the creation, and the master-piece of the human elegance is the person of the Holy Prophet S.A.W. There is a Hadith to the effect that God would not have created the universe if He had not intended to create the Holy Prophet S.A.W.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بزم ہستی! اپنی آرائش پہ تو نازاں نہ ہو\nتو تو اک تصویر ہے محفل کی اور محفل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O the existence’ assemblage! Be not proud of your beauty. You are a mere picture of the assemblage, I am the assemblage.\n(Allusion to the constant search of Man to know himself.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ڈھونڈتا پھرتا ہوں اے اقبال اپنے آپ کو\nآپ ہی گویا مسافر، آپ ہی منزل ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal! I am in constant search for myself; I am the traveler as well as the destination.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,282 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یارب! یہ جہان گزراں خوب ہے لیکن \nکیوں خوار ہیں مردان صفا کیش و ہنرمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lovely, oh Lord, this fleeting world; but why must the frank heart, the quick brain, droop and sigh?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گو اس کی خدائی میں مہاجن کا بھی ہے ہاتھ \nدنیا تو سمجھتی ہے فرنگی کو خداوند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though usury mingle somewhat with his godship, the white man is the world’s arch-deity;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو برگ گیا ہے ندہی اہل خرد را \nاو کشت گل و لالہ بنجشد بہ خرے چند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو عقلمند اور باکمال لوگوں کو گھاس کی ایک پتی بھی عطا نہیں فرماتا؛ فرنگی چند گدھوں کو گلاب اور پھول کے باغ بخش دیتا ہے (یعنی نالائقوں کو بڑے بڑے عہدوں پر مقرر کر دیتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His asses graze in fields of rose and poppy: One wisp of hay to genius You deny;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حاضر ہیں کلیسا میں کباب و مے گلگوں \nمسجد میں دھرا کیا ہے بجز موعظہ و پند",
+              "lang": "Original"
+            },
+            {
+              "_content": "موعظہ: وعظ، نصیحت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His Church abounds with roasts and ruby wines: sermons and saws are all Your mosques supply.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "احکام ترے حق ہیں مگر اپنے مفسر \nتاویل سے قرآں کو بنا سکتے ہیں پاژند",
+              "lang": "Original"
+            },
+            {
+              "_content": "پاژند: ژند کی تفسیر۔ پارسیوں کے عقیدے کے مطابق ژند وہ کتاب تھی جو ان کے پیغمبر زرتشت پر اتری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your laws are just, but their expositors bedevil the Koran, twist it awry;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فردوس جو تیرا ہے، کسی نے نہیں دیکھا \nافرنگ کا ہر قریہ ہے فردوس کی مانند",
+              "lang": "Original"
+            },
+            {
+              "_content": "قریہ: گاؤں، بستی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your paradise no one has seen: in Europe no village but with paradise can view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مدت سے ہے آوارہ افلاک مرا فکر \nکر دے اسے اب چاند کی غاروں میں نظر بند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Long, long have my thoughts wandered about heaven; now in the moon’s blind caverns let them sty!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "فطرت نے مجھے بخشے ہیں جوہر ملکوتی \nخاکی ہوں مگر خاک سے رکھتا نہیں پیوند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I, dowered by Nature with empyreal essence, am dust, but not through dust does my way lie;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "درویش خدا مست نہ شرقی ہے نہ غربی \nگھر میرا نہ دلی، نہ صفاہاں، نہ سمرقند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nor East, nor west my home, nor Samarkand, nor Ispahan nor Delhi; in ecstasy;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "کہتا ہوں وہی بات سمجھتا ہوں جسے حق \nنے ابلہ مسجد ہوں، نہ تہذیب کا فرزند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابلہ مسجد: مسجد کا ملّا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God-filled, I roam, speaking what truth I see: No fool for priests, nor yet of this age’s fry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اپنے بھی خفا مجھ سے ہیں، بیگانے بھی ناخوش \nمیں زہر ہلاہل کو کبھی کہہ نہ سکا قند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My folk berate me; the stranger does not love me: Hemlock for sherbet I could never cry;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "مشکل ہے کہ اک بندہ حق بین و حق اندیش \nخاشاک کے تودے کو کہے کوہ دماوند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دماوند: ایران کا ایک مشہور پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How could a weigher of truth see Mount Damawand and think a common refuse-heap as high?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہوں آتش نمرود کے شعلوں میں بھی خاموش \nمیں بندہ مومن ہوں، نہیں دانہ اسپند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسپند: کالے رنگ کا ہرمل کا دانہ جو آگ پر پڑتے ہی تڑاخ سے پھٹ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Nimrod’s fire faith’s silent witness, not like mustard-seed in the grate, burned splutteringly:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "پر سوز و نظرباز و نکوبین و کم آزار \nآزاد و گرفتار و تہی کیسہ و خورسند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تہی کیسہ: خالی جیب، غریب۔\nخورسند: خوش باش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Blood warm, gaze keen, right-following, wrong-forswearing, in fetters free, prosperous in penury,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہر حال میں میرا دل بے قید ہے خرم \nکیا چھینے گا غنچے سے کوئی ذوق شکر خند!",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکر خند: خوشی کی ہنسی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fair of foul untamed and light of heart: Who can steal laughter from a flower’s bright eye?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "چپ رہ نہ سکا حضرت یزداں میں بھی اقبال \nکرتا کوئی اس بندہ گستاخ کا منہ بند!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Will no one hush this too proud thing Iqbal whose tongue God’s presence-chamber could not tie!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

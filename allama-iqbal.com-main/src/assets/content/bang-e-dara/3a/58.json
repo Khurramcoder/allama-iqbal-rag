@@ -1,0 +1,119 @@
+{
+  "id": "58",
+  "name": "مذہب",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "تضمین بر شعر میرزابیدل",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تعلیم پیر فلسفہء مغربی ہے یہ \nناداں ہیں جن کو ہستی غائب کی ہے تلاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "۔ پير: عالم\nہستي غائب: مراد ہے ذات خداوندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The teaching of the sage of Western philosophy is: ‘Those seeking the Invisible Existence are ignorant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پیکر اگر نظر سے نہ ہو آشنا تو کیا \nہے شیخ بھی مثال برہمن صنم تراش",
+              "lang": "Original"
+            },
+            {
+              "_content": "صنم تراش: بت تراش",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the form is unfamiliar to sight; would the Shaikh also be an idol-maker like Brahman?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "محسوس پر بنا ہے علوم جدید کی \nاس دور میں ہے شیشہ عقائد کا پاش پاش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The foundation of modern knowledge is on the tangible; in this age the wine-bottle of Faith is shattered.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مذہب ہے جس کا نام، وہ ہے اک جنون خام \nہے جس سے آدمی کے تخیل کو انتعاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنون خام: جنون کی ابتدائی حالت۔ \nانتعاش: بلند ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is known as din is an immature frenzy, which is repulsive to human imagination.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہتا مگر ہے فلسفہء زندگی کچھ اور \nمجھ پر کیا یہ مرشد کامل نے راز فاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرزا بیدل کی طرف اشارہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the philosophy of life is saying something else: This secret has been divulged to me by the Perfect Preceptor.*\n* Allusion to Mirza Bedil)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "با ہر کمال اند کے آشفتگی خوش است \nہر چند عقل کل شدہ اے بے جنوں مباش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر مکمل شدہ چیز میں تھوڑی خرابی خوش آئیں ہے؛ ہر کامل عقل کے لیے تھوڑا جنوں (محبت) اچھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘With every perfection a little distress is welcome; however, perfect the Intellect, it is not good without Love.’ ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Religion",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

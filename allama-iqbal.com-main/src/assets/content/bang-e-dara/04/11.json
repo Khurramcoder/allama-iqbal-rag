@@ -1,0 +1,34 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہاتھوں سے اپنے دامن دنیا نکل گیا \nرخصت ہوا دلوں سے خیال معاد بھی \nقانوں وقف کے لیے لڑتے تھے شیخ جی \nپوچھو تو، وقف کے لیے ہے جائداد بھی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "خيال معاد: یوم حساب کا خیال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have lost all material resources; the thought of Judgment Day has gone also.\nThe Shaikh was fighting for Endowment Acts; ask him if there is any property left for endowment also?\n(Such legislative acts were being considered at one time in the Indian sub-continent to protect Muslim properties from being taken over by Hindu money lenders for payment of the heavy debts which Muslims usually owed to them. These acts became controversial. Some Ulama supported them as a means of protecting Muslim properties, especially those of endowments to descendants. Others opposed them as being in conflict with the laws of inheritance of the Shari‘ah.) ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

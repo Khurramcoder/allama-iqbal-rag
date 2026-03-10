@@ -1,0 +1,33 @@
+{
+  "id": "35",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رگوں میں وہ لہو باقی نہیں ہے \nوہ دل، وہ آرزو باقی نہیں ہے \nنماز و روزہ و قربانی و حج \nیہ سب باقی ہیں، تو باقی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That blood of pristine vigour is no more; that yearning heart's power is no more:\nPrayer, fasting, haj, sacrifice survive,’ but in thee nature's old dower is no more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

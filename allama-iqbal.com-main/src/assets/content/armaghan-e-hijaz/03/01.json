@@ -1,0 +1,97 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پانی ترے چشموں کا تڑپتا ہوا سیماب\nمرغان سحر تیری فضاوں میں ہیں بیتاب\nاے وادی لولب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وادی لولب : کشمیر کی ایک مشہور وادی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the Note Book of MuIlah Zada Zaighum Laulaabi of Kashmir\n\nThy fonts quick silver bewails with grace. The birds at dawn are restive in thy space. O Valley of Laulaab’s Grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "Text": [
+            {
+              "_content": "گر صاحب ہنگامہ نہ ہو منبر و محراب\nدیں بندۂ مومن کے لیے موت ہے یا خواب\nاے وادی لولب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the pulpit and the niche cease to re-create Resurrections, faith then is dead or a mere dream, for thee, me and for all. O Valley of Laulaab!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہیں ساز پہ موقوف نوا ہائے جگر سوز\nڈھیلے ہوں اگر تار تو بے کار ہے مضراب\nاے وادی لولب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On harp thus depend the heart rending moons. If the wries are loose, no quill makes the tones. O Valley of Laulaab’s Groans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "Text": [
+            {
+              "_content": "مل کی نظر نور فراست سے ہے خالی\nبے سوز ہے میخانۂ صوفی کی مے ناب\nاے وادی لولب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Mullah’s glance lacks the insight’s sense; the pure wine of Sufi lacks booze and trance. O Valley of Laulaab Hence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیدار ہوں دل جس کی فغان سحری سے\nاس قوم میں مدت سے وہ درویش ہے نایاب\nاے وادی لولب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who wakes up the hearts from the morning wails, to see such Dervesh for long my sense fails. O Valley of Laulaab Tales.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

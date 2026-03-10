@@ -1,0 +1,411 @@
+{
+  "id": "04",
+  "name": "ولم یکن لہ کفواً احد",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "03",
+  "sectionName": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسلم چشم از جہان بر بستہ چیست؟\nفطرت این دل بحق پیوستہ چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان جس نے دنیا سے آنکھیں بند کر لی ہیں (اسے قابل التفات نہیں سمجھا) اور اللہ تعالے سے دل لگایا ہے اس کی فطرت کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the Muslim, that hath closed his eyes against the world? This heart attached to God, what is its nature?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "لالہ ئی کو بر سر کوہی دمید\nگوشۂ دامان گلچینی ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مثال یوں ہے جیسے گل لالہ پہاڑ کی چوٹی پر اگا؛ اس نے گل چیں کا گوشہء دامن نہیں دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On a mountain-top a tulip blowing, that hath never seen the trailing border of the gatherer’s skirt;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آتش او شعلہ ئی گیرد بہ بر\nاز نفس ہای نخستین سحر",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے اوّلین جھونکوں سے آگ بھڑک کر شعلہ بن گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flame is kindled in his ardent breast, from the first breaths of dawn;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آسمان ز آغوش خود نگذاردش\nکوکب واماندہ ئی پنداردش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان نے اسے اپنی آغوش سے باہر نہ جانے دیا ؛ بلکہ اسے ایسا ستارہ سمجھا جو دوسرے ستاروں سے پیچھے رہ گیا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heaven suffers not to loose him from her bosom, deeming him a star suspended;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بوسدش اول شعاع آفتاب\nشبنم از چشمش بشوید گرد خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی شعاع آفتاب نے اسے بوسہ دیا ؛ شبنم نے اس کی آنکھوں سے نیند کی گرد دھو ڈالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The uprising sun touches his lips with dawn’s first ray, the dew bathes from his waking eyes the dust of sleep.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "رشتۂ ئی با لم یکن باید قوی\nتا تو در اقوام بے ہمتا شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھے اللہ تعالے کی اس صفت 'کہ کوئی اس کا ہمسر نہیں' کے ساتھ اپنا تعلق قوی رکھنا چاہیئے تا کہ تو اقوام عالم میں بے مثل ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Firm must the bond be tied with There is none, if thou wouldst an unequalled people be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آنکہ ذاتش واحد است و لاشریک\nبندہ اش ہم در نسازد با شریک",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جس کی ذات واحد اور لا شریک ہے اس کا بندہ بھی اپنے ساتھ کسی کا شریک ہونا گوارا نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مومن بالای ھر بالاتری\nغیرت او بر نتابد ہمسری",
+              "lang": "Original"
+            },
+            {
+              "_content": "مومن ہر بلند تر سے بھی اونچا ہے؛ اس کی غیرت کوئی ہمسر برداشت نہیں کرتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And whoever believes in the Highest of the High cannot tolerate any rival in their ardent devotion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خرقۂ \"لا تحزنوا\" اندر برش\n\"انتم الاعلون\" تاجی بر سرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے ’لا تحزنوا‘ (غم نہ کھا ) کا خرقہ پہن رکھا ہے ؛ اور ’انتم الاعلون‘ (تم ہی بلند ہو گے) کا تاج اپنے سر پر سجا رکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wrapt round his breast the robe of Do not grieve, borne on his brow the crown Ye are the highest;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "می کشد بار دو عالم دوش او\nبحر و بر پروردۂ آغوش او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے کندھوں پر دونوں جہانوں کا بوجھ اٹھا رکھا ہے؛ بحر و بر دونوں اس کی آغوش میں پرورش پاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He transports on his broad back the burden of both worlds, protects both land and sea in his embrace;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بر غو تندر مدام افکندہ گوش\nبرق اگر ریزد ہمی گیرد بدوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر وقت بجلی کی کڑک سننے کا منتظر رہتا ہے ؛ اگر برق گرے تو اسے اپنے کندھوں پر برداشت کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His ear attentive to the thunder’s roar, his shoulders bared to take the lightning’s scourge;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "پیش باطل تیغ و پیش حق سپر\nامر و نہی او عیار خیر و شر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ باطل کے مقابلے میں تلوار ہے اور حق (کی مدافعت میں) سپر؛ اس کا کسی کام کا کرنا خیر و شر کہ معیار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Against the false he is a sword, a shield before the truth; evil and good are proved upon the touchstone of his ordinance and prohibition.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "در گرہ صد شعلہ دارد اخگرش\nزندگی گیرد کمال از جوہرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا انگارہ اپنے اندر سینکڑوں شعلے رکھتا ہے؛ اس کے جوہر سے زندگی کمال تک پہنچتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knotted in his coals a hundred conflagrations lurk; life’s self derives perfection from his essence pure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "در فضای این جہان ہای و ہو\nنغمہ پیدا نیست جز تکبیر او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان ہائے و ہو کی فضا میں صرف اس کا نعرہء تکبیر ہی نغمہ پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through the broad spaces of this clamorous world; no music sounds but his triumphant song, his loud Allahu Akbar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عفو و عدل و بذل و احسانش عظیم\nہم بقہر اندر مزاج او کریم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عفو، عدل، سخاوت اور احسان کی عظیم صفات کا حامل ہے؛ قہر کے اندر بھی اس کے مزاج پر لطف و کرم غالب رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Great is he on justice, clemency, benevolence; noble his temper, even in chastisement.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ساز او در بزم ہا خاطر نواز\nسوز او در رزم ہا آہن گداز",
+              "lang": "Original"
+            },
+            {
+              "_content": "بزم احباب میں اس کا ساز دلوں کو خوش کرتا ہے؛ جنگ میں اس کی حرارت پگھلا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At festival his lyre delights the mind; steel melts before his ardour in the fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در گلستان با عنادل ہم صفیر\nدر بیابان جرہ باز صید گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "گلستان میں وہ بلبلوں کے ساتھ ہمنوا ہوتا ہے؛ اور صحرا میں نر باز کی طرح شکار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where roses blossom, with the nightingale’s his sweet song mingles; in the wilderness no falcon is more swift upon the prey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "زیر گردون می نیاساید دلش\nبر فلک گیرد قرار آب و گلش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دل دنیا میں آسودگی نہیں پاتا؛ اس کا بدن آسمان پر قرار پاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His heart untranquil scorns to take repose beneath the heavens; in the spreading skies he makes his dwellings,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "طایرش منقار بر اختر زند\nآنسوی این کہنہ چنبر بر زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا پرندہ ستاروں پر چونچ مارتا ہے؛ وہ اس بوڑھے آسمان سے پرلی طرف اڑتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As on soaring wing he rises far beyond yon ancient hoop, that spans our firmament, to whet his beak against the gleaning stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تو بہ پروازی پری نگشودہ ئی\nکرمک استی زیر خاک آسودہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر پرواز کے لیے اپنے پر نہیں کھولتا تو، کیڑے کی طرح خاک کے اندر ہی خوش رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou, with thy frail unspread pinion, tentative to fly, art like some chrysalis, that in the dust still slunmbers on;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "خوار از مہجوری قرآن شدی\nشکوہ سنج گردش دوران شدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو قرآن پاک (پر عمل ) چھوڑنے کی وجہ سے ذلیل و خوار ہو چکا ہے اور شکوہ گردش دوراں کا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rejecting the Quran, how meanly thou hast sunk, base caviller Protesting of the turn of Fortune’s wheel!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "اے چو شبنم بر زمین افتندہ ئی\nدر بغل داری کتاب زندہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ جو زمین پر گرے ہوئے شبنم کے قطرے کی مانند ہے (اس بات کو سمجھ ) کہ تیری بغل میں کتاب زندہ موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet, lying abject as the scattered dew, thou hast within thy grip a living Book;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تا کجا در خاک می گیری وطن\nرخت بردار و سر گردون فکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کب تک خاک کو اپنا وطن بنائے رکھے گا؛ یہاں سے اپنا سامان اٹھا اور اسے آسمان تک لے جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long shall earth content thee for thy home? Life up thy baggage; hurl it to the skies!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "‘And There Is Not Any Equal Unto Him’"
+}

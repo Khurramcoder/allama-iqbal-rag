@@ -1,0 +1,32 @@
+{
+  "id": "12",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد دیکھے اگر دل کی نگہ سے\nجہاں روشن ہے نور ل الہ سے\nفقط اک گردش شام و سحر ہے\nاگر دیکھیں فروغ مہر و مہ سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the wisdom ever sees from hearts’ inner sight, this world is lit up with La Ilah’s light. \nThis dawn and eve’s wheel just a spin and roll, if you see this game from Sun and Moon’s role.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

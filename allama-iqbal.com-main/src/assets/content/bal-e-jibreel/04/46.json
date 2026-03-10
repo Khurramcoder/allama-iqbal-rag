@@ -1,0 +1,35 @@
+{
+  "id": "46",
+  "name": "خانقاہ",
+  "name-en": "Shrine",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رمز و ایما اس زمانے کے لیے موزوں نہیں \nاور آتا بھی نہیں مجھ کو سخن سازی کا فن \nقم باذن اللہ' کہہ سکتے تھے جو، رخصت ہوئے\nخانقاہوں میں مجاور رہ گئے یا گورکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "قم باذن اللہ: اللہ کے حکم سے اٹھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Talking in signs and symbol is not for this age, and I know not the art of artful sniggers; \nNo more are those who said: ‘Rise, in God’s name!’ The ones alive are sweepers and grave-digger.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V G Kiernan"
+}

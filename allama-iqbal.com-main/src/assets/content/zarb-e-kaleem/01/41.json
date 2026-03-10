@@ -1,0 +1,89 @@
+{
+  "id": "41",
+  "name": "مومن",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "(دنیا میں)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہو حلقہ یاراں تو بریشم کی طرح نرم \nرزم حق و باطل ہو تو فولاد ہے مومن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world: A man whose faith is firm and strong is soft as silk in friendly throng in skirmish between wrong and right like sword of steel, he stands to fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "افلاک سے ہے اس کی حریفانہ کشاکش \nخاکی ہے مگر خاک سے آزاد ہے مومن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The skies are his inveterate foes, his war with them e'er onward goes though Muslim true of clay is born from earthly bonds still be is torn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جچتے نہیں کنجشک و حمام اس کی نظر میں \nجبریل و سرافیل کا صیاد ہے مومن",
+              "lang": "Original"
+            },
+            {
+              "_content": "کنجشک و حمام: چڑیا اور کبوتر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To hunt the sparrow and the dove he does not like and does not love, he much aspires his noose to cast on angels great and hold it fast.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جنت میں",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہتے ہیں فرشتے کہ دل آویز ہے مومن \nحوروں کو شکایت ہے کم آمیز ہے مومن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Paradise: The, angels of this thing are sure that a Muslim can allure, but Maids of Eden do complain, from society he does oft refrain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Believer",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

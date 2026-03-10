@@ -1,0 +1,85 @@
+{
+  "id": "34",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بر جھان دل من تاختنش را نگرید\nکشتن و سوختن و ساختنش را نگرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل پر اس کا حملہ کرنا دیکھیے ؛ مارنا، جلانا ، اور پھر اسے از سر نو بنانا دیکھیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In my heart’s empire, see how He rides spitefully, rides with imperious will to ravage, and to kill!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "روشن از پرتو آن ماہ دلی نیست کہ نیست\nبا ہزار آینہ پرداختنش را نگرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی دل نہیں جو اس چاند کے پرتو سے روشن نہ ہو؛ ہزار ہا آئینوں میں اس کا اپنی آرائش دیکھنا ملاحظہ ہو (قلب کو آئینہ کہا جاتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No heart is there, but bright gleameth in that moon’s light; a thousand mirrors, see! reflect His coquetry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آنکہ یکدست برد ملک سلیمانی چند\nبا فقیران دو جہان باختنش را نگرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو ذات ایک ہی ہاتھ سے ملک سلیمان (علیہ) جیسی کغی سلطنتیں چھین لیتا ہے ؛ اس کا اپنے فقیروں کو دونوں جہاں بخش دیجیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To each hand he hath won ten realms of Solomon, yet gambles with it all to gain a poor, mean thrall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آنکہ شبخون بدل و دیدۂ دانایان ریخت\nپیش نادان سپر انداختنش را نگرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو داناؤں کے دل و دیدہ پر شبخون مارتا ہے (جس تک داناؤں کے ذہن کی رسائی نہین اور جسے داناؤں کی نظر پا نہیں سکتی)؛ اپنے نادان (عشاق) کے سامنے اس کا سپر ڈالنا دیکھیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hearts of such as know swift He assaults; but lo: Before the unwise, unskilled, He casteth down His shield.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

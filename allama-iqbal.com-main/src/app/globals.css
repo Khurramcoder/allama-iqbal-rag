@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Mehr_Nastaliq_Web";
+    src: url("/fonts/Mehr_Nastaliq_Web v.2.0.woff") format("woff");
+    font-weight: normal;
+  }
+
+  @font-face {
+    font-family: MehrNastaliqRegular;
+    src:
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.ttf) format("truetype"),
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff2) format("woff2"),
+      url(https://rekhtastaticcdn.pc.cdn.bitgravity.com/fonts/MehrNastaliqWeb.woff) format("woff");
+    font-display: swap;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+.para:has(> :last-child:nth-child(6)) {
+  grid-template:
+    "a c" auto
+    "b d" auto
+    "e e" auto
+    "f f" auto/ 1fr 1fr;
+  justify-content: center;
+
+  & > :nth-child(1) {
+    grid-area: a;
+  }
+  & > :nth-child(2) {
+    grid-area: b;
+  }
+  & > :nth-child(3) {
+    grid-area: c;
+  }
+  & > :nth-child(4) {
+    grid-area: d;
+  }
+  & > :nth-child(5) {
+    grid-area: e;
+  }
+  & > :nth-child(6) {
+    grid-area: f;
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "42",
+  "name": "محمد علی باب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تھی خوب حضور علما باب کی تقریر \nبیچارہ غلط پڑھتا تھا اعراب سموات \nاس کی غلطی پر علما تھے متبسم \nبولا، تمہیں معلوم نہیں میرے مقامات \nاب میری امامت کے تصدق میں ہیں آزاد \nمحبوس تھے اعراب میں قرآن کے آیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "باب کا نام محمد علی تھا اور اس نے مہدی ء موعود ہونے کا دعوی کیا تھا۔ \nاعراب: لفظی معانی روشن کرنا؛ اصطلاح میں عربی کے حروف تہجی کی حرکات ؛ یعنی زیر، زبر اور پیش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before assembled Muslim priests, Bab made a speech with apt remarks that fellow could not read aright 'Samawats' with its syntactic marks.\nThe scholars smiled with contempt at stupid error that he made. He said with courage and aplomb, they knew not his spiritual grade.\nThe verses of the Holy Book by desinential marks were bound; they were ransomed and set free for sake of guidance true and sound.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Muhammad Ali Bab",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "45",
+  "name": "مدنیت اسلام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بتاوں تجھ کو مسلماں کی زندگی کیا ہے \nیہ ہے نہایت اندیشہ و کمال جنوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I would to you a Muslim's life expound, it is the height of thought and craze profound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "طلوع ہے صفت آفتاب اس کا غروب \nیگانہ اور مثال زمانہ گونا گوں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like sun, his rise and setting both are rare, he veers with Time and would e'er truth declare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ اس میں عصر رواں کی حیا سے بیزاری \nنہ اس میں عہد کہن کے فسانہ و افسوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is not sick of modesty like the current age, black art and myths his attention don't engage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حقائق ابدی پر اساس ہے اس کی \nیہ زندگی ہے، نہیں ہے طلسم افلاطوں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On lasting truths its foundations firmly rest, no Plato's conceit but life replete with zest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عناصر اس کے ہیں روح القدس کا ذوق جمال \nعجم کا حسن طبیعت، عرب کا سوز دروں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Gabriel it owns fine taste and grace, has warmth of Arabs and mind like Persian race.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Islamic Civilization",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

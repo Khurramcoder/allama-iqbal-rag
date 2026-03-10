@@ -1,0 +1,135 @@
+{
+  "id": "56",
+  "name": "تضمین بر شعر صائب",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہاں اقبال تو نے آ بنایا آشیاں اپنا \nنوا اس باغ میں بلبل کو ہے سامان رسوائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal! In what a place you have constructed your nest! In this garden song is the prelude to nightingale’s disgrace!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شرارے وادی ایمن کے تو بوتا تو ہے لیکن \nنہیں ممکن کہ پھوٹے اس زمیں سے تخم سینائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تخم سينائي: کوہ سینا کا بیج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you are planting the sparks of the Valley of Aiman; sprouting of seed of Sinai is not possible in this soil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کلی زور نفس سے بھی وہاں گل ہو نہیں سکتی \nجہاں ہر شے ہو محروم تقاضائے خود افزائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقاضائے خود افزائي: ترقی کی آرزو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bud cannot be a flower even with the force of breath; where everything is devoid of the exigency of self-development.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قیامت ہے کہ فطرت سو گئی اہل گلستاں کی \nنہ ہے بیدار دل پیری، نہ ہمت خواہ برنائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمت خواہ برنائي: جوانوں جیسی جرات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Outrageous that the nature of garden’s denizens is asleep; neither old age’s heart is awake nor the youth is courageous.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل آگاہ جب خوابیدہ ہو جاتے ہیں سینوں میں \nنو اگر کے لیے زہراب ہوتی ہے شکر خائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکر خائي: میٹھی گفتگو، یعنی شیریں بیانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the intelligent hearts fall asleep in breasts; for the singer sweet music is changed to poison.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہیں ضبط نوا ممکن تو اڑ جا اس گلستاں سے \nکہ اس محفل سے خوشتر ہے کسی صحرا کی تنہائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fly away from this garden if music’s restraint is impossible; as better than this assembly is the seclusion of some wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہماں بہتر کہ لیلی در بیاباں جلوہ گر باشد \nندارد تنگناے شہر تاب حسن صحرائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہی بہتر ہے کہ لیلی بیاباں میں جلوہ گر ہو، شہر کی تنگ گلیاں صحرا کے حسن کی تاب نہیں لا سکتیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Manifestation of Lailah is much better in wilderness; city’s strait is unable to contain wilderness’ beauty.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Based On A Verse Of Sa’Ib",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

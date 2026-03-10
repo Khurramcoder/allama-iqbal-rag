@@ -1,0 +1,82 @@
+{
+  "id": "30",
+  "name": "تعلیم اور اس کے نتائج",
+  "name-en": "Education and Its Consequences",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "تضمین بر شعر ملا عرشی",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خوش تو ہیں ہم بھی جوانوں کی ترقی سے مگر \nلب خنداں سے نکل جاتی ہے فریاد بھی ساتھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Though we also are happy with the progress of the young\nBut some complaint from the happy lips also comes with it"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہم سمجھتے تھے کہ لائے گی فراغت تعلیم\nکیا خبر تھی کہ چلا آئے گا الحاد بھی ساتھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "We had thought education would bring economic freedom\nWe did not know that atheism would also come with it"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گھر میں پرویز کے شیریں تو ہوئی جلوہ نما \nلے کے آئی ہے مگر تیشہء فرہاد بھی ساتھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Though Shirin did honor Parviz with her presence\nBut she brought the ax of Farhad also with her"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تخم دیگر بکف آریم و بکاریم ز نو \nکانچہ کشتیم ز خجلت نتواں کرد درو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Let us take the seed afresh in our hand and use it anew\nWe are ashamed to reap what would come out from whatever we sowed"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

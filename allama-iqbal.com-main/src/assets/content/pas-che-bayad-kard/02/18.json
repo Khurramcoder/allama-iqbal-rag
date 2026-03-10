@@ -1,0 +1,325 @@
+{
+  "id": "18",
+  "name": "سفر بہ غزنی و زیارت مزار حکیم سنائی",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "غزنی کا سفر اور حکیم سنائی کے مزار کی زیارت۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از نوازشہای سلطان شہید\nصبح و شامم، صبح و شام روز عید",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلطان شہید (نادر شاہ) کی نوازشات کی وجہ سے میرے صبح و شام عید کی صبح و شام کی طرح گذر رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the favour of the martyred King, my mornings and evenings were as pleasant as those of Eid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نکتہ سنج خاوران ہندی فقیر\nمیہمان خسرو کیوان سریر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ہندی فقیر جو مشرق کے رموز پیش کرتا ہے؛ بلند مرتبت بادشاہ کا مہمان تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bar of the East, the Indian faqir, was guest unto that monarch with Saturn as throne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تا ز شہر خسروی کردم سفر\nشد سفر بر من سبکتر از حضر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ میں نے شہر شاہ (کابل) سے اس طرح سفر کیا کہ سفر میرے لیے قیام سے زیادہ آسان تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ever since I moved from the royal city, travelling became lighter for me than sojourn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سینہ بگشادم بہ آن بادی کہ پار\nلالہ رست از فیض او در کوہسار",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کے لیے اپنا سینہ کھولا؛ جس کے فیض سے کل کوہسار میں لالہ کے پھول کھلے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I opened my breast to the breeze by which tulips had sprung up the past year in the mountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ غزنی آن حریم علم و فن\nمرغزار شیر مردان کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "آہ وہ غزنی کبھی علم و فن کا مرکز اور قدیم شیر مردوں کا مرغزار تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! Ghazni, the home of learning and art, the hunting ground of lion-hunters of yore;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دولت محمود را زیبا عروس\nاز حنا بندان او دانای طوس",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو سلطنت محمود کی خوبصورت دلہن (دارالخلافہ ) تھا؛ فردوسی اس کی زیب و زینت میں اضافہ کا باعث بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A beautiful bride of Mahmud’s realm, of whose henna-dyed adorners one was the Sage of Tus.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "Text": [
+            {
+              "_content": "خفتہ در خاکش حکیم غزنوی\nاز نوای او دل مردان قوے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی خاک میں وہ دانا (سنائی) سویا پڑا ہے؛ جس کے نغموں سے مردوں کے دل قوی ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In it resting in eternal sleep the Ghaznavid sage too by whose voice the hearts of men grew strong.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آن \"حکیم غیب\"، آن صاحب مقام\n\"ترک جوش\" رومی از ذکرش تمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ حکیم غائب ، ول صاحب مقام ؛ جس کے افکار نے رومی (رحمتہ اللہ ) کے نیم پختہ جذب کی تکمیل کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That seer of the unseen, man of high station by whose iteration Rumi’s passion rose to a climax.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "من ز پیدا او ز پنھان در سرور\nہر دو را سرمایہ از ذوق حضور",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ظاہر کی بات کرتا ہوں اور وہ پنہاں کی؛ دونوں کا سرمایہ ذوق حضوری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I exulted in the Present, he exulted in the Hidden, both having their wherewithal from zest for the sight of sights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "او نقاب از چہرہ ایمان گشود\nفکر من تقدیر مومن وانمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے ایمان کے چہرے سے نقاب اٹھایا؛ میرے فکر نے مسلمان کی تقدیر (مستقبل) سے پردہ ہٹایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He raised the veil from the face of Faith and my thought indicated the destiny of a believer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہر دو را از حکمت قرآن سبق\nاو ز حق گوید من از مردان حق",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم دونوں نے قرآن پاک کی حکمت سے فیض پایا؛ وہ اللہ تعالے کی بات کرتا ہے اور میں اہل اللہ کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both learnt their lesson from Qur’anic Wisdom. He speaks of God while I speak of godly folk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "در فضای مرقد او سوختم\nتا متاع نالہ ئی اندوختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مرقد کی فضا کی حرارت نے مجھے جلا دیا ؛ تب میں نے فغاں کی متاع جمع کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I felt afire in the tomb’s atmosphere to such an extent that I became apprized of a cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گفتم اے بینندۂ اسرار جان\nبر تو روشن این جہان و آن جہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس سے کہا : اے جان کے اسرار دیکھنے والے! تجھ پر دونوں جہان عیاں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to him ‘O you seer of the secrets of life, both this world and the other luminous to you;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "عصر ما وارفتۂ آب و گل است\nاہل حق را مشکل اندر مشکل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا زمانہ مادیت پر مفتوں ہے؛ اہل حق مشکل در مشکل میں پڑے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our age is infatuated by material things symbolised by water and clay, which raises problems without end for those godly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "مومن از افرنگیان دید آنچہ دید\nفتنہ ہا اندر حرم آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان نے انگریزوں کے ہاتھوں دیکھا جو دیکھا ؛ ان کی وجہ سے حرم کے اندر فتنے اٹھ کھڑے ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave aside what the believers suffered at the hands of Western nations, there have sprung up so many mischiefs in the Harem even.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "تا نگاہ او ادب از دل نخورد\nچشم او را جلوۂ افرنگ برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ مسلمان کی نگاہ (کیفیت) قلب سے تربیت یافتہ نہ تھی؛ اس لیے اس کی آنکھ جلوہ ء افرنگ سے چندھیا گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since the believers sight was not disciplined by the heart, the glamour of the West bewitched his eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اے \"حکیم غیب\"، امام عارفان\nپختہ از فیض تو خام عارفان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے حکیم غائب! اے امام عارفان! تیرے فیض سے خام عارفوں نے پختگی پائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you seer of the hidden, leader of the knowing once, by whose beneficence the rawness of the seers became mature;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آنچہ اندر پردۂ غیب است گوی\nبو کہ آب رفتہ باز آید بجوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ پردہء غائب میں ہے، وہ بتائیے؛ ہو سکتا ہے کہ گذرا ہوا پانی پھر ندی میں واپس آ جائے (اسلام کے دور رفتہ کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever is there hidden behind the veil, let me know; may he the wave once past should come back in the stream.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Visiting Ghazni And Offering Reverence To Hakim Sanai",
+  "credits": "English Translation by: Jamil Naqvi"
+}

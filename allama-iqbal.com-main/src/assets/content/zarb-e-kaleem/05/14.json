@@ -1,0 +1,67 @@
+{
+  "id": "14",
+  "name": "اہل مصر سے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خود ابوالہول نے یہ نکتہ سکھایا مجھ کو \nوہ ابوالہول کہ ہے صاحب اسرار قدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابوالہول: مصر میں احرام کے پاس ایک بہت بڑا بت ہے جو ایک چٹان کو تراش کر تیار کیا گیا ہے؛ اس کا دھڑ شیر کا ہے اور چہرہ انسان کا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By Sphinx this subtle point to me was told; the Sphinx, whose breast holds secrets old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دفعتہً جس سے بدل جاتی ہے تقدیر امم \nہے وہ قوت کہ حریف اس کی نہیں عقل حکیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Might at once can change a nation's fate, but wisdom is not its match and mate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر زمانے میں دگر گوں ہے طبیعت اس کی \nکبھی شمشیر محمد ہے، کبھی چوب کلیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Change its wont e'ery age, though odd, now Mohammad's sword, then Moses' Rod.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To The Egyptians",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

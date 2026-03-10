@@ -1,0 +1,132 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کمال ترک نہیں آب و گل سے مہجوری \nکمال ترک ہے تسخیر خاکی و نوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہجوري: جدائی، علیحدگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The way to renounce is to conquer the earth and heaven; the way to renounce is not to starve oneself to death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں ایسے فقر سے اے اہل حلقہ باز آیا \nتمھارا فقر ہے بے دولتی و رنجوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل حلقہ:تصوّف کی ایک اصطلاح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O cultists! I like not your austere piety; your piety is penury, suffering and grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ فقر کے لیے موزوں، نہ سلطنت کے لیے \nوہ قوم جس نے گنوایا متاع تیموری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation that has lost Taimur’s great heritage, is unfit for piety, and is unfit to rule.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سنے نہ ساقی مہ وش تو اور بھی اچھا \nعیار گرمی صحبت ہے حرف معذوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the sweet cup-bearer listens not to me, it is good; when I say, ‘no more’, that will only bring me more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "حکیم و عارف و صوفی، تمام مست ظہور \nکسے خبر کہ تجلی ہے عین مستوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sufi and his peers are all engrossed in a glimpse; they know not that concealment is itself a vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وہ ملتفت ہوں تو کنج قفس بھی آزادی \nنہ ہوں تو صحن چمن بھی مقام مجبوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل حلقہ:متوجہ ، مہربان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bondage is freedom with favours from on high, and when favours are withheld, even freedom is bondage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "برا نہ مان، ذرا آزما کے دیکھ اسے \nفرنگ دل کی خرابی، خرد کی معموری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West is a treasure-house for the reason’s quest; but for the heart it is a source of decay and death.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

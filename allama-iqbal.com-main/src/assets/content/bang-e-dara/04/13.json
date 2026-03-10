@@ -1,0 +1,33 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ناداں تھے اس قدر کہ نہ جانی عرب کی قدر\nحاصل ہوا یہی، نہ بچے مار پیٹ سے \nمغرب میں ہے جہاز بیاباں شتر کا نام \nترکوں نے کام کچھ نہ لیا اس فلیٹ سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So naive were they not to appreciate the Arabs’ worth: What they got was that assault and battery they escaped not.\nIn the West camel is called ship of the desert; the Turks made use of this fleet not.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

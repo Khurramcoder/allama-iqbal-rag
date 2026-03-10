@@ -1,0 +1,82 @@
+{
+  "id": "27",
+  "name": "جلال و جمال",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرے لیے ہے فقط زور حیدری کافی \nترے نصیب فلاطوں کی تیزی ادراک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With Haider's might and brawn I feel myself content; I wish you joy of wit, to you by Plato lent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مری نظر میں یہی ہے جمال و زیبائی \nکہ سر بسجدہ ہیں قوت کے سامنے افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the charm and grace in view of mine and sight that heavens too prostrate before much main and might.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ ہو جلال تو حسن و جمال بے تاثیر \nنرا نفس ہے اگر نغمہ ہو نہ آتش ناک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without great majestic height grace is not of much use: Song is mere puff of breath, if rapture can't produce.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مجھے سزا کے لیے بھی نہیں قبول وہ آگ \nکہ جس کا شعلہ نہ ہو تند و سرکش و بے باک!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I would not go to hell whose fire is dull and tame to suffer for my sins I like a rearing flame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Grandeur And Grace",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

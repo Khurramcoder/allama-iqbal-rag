@@ -1,0 +1,835 @@
+{
+  "id": "03",
+  "name": "گردش در شہر مرغدین",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "05",
+  "sectionName": "فلک مریخ",
+  "name-ur": "شہر مرغدین کی سیر",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرغدین و آن عمارات بلند\nمن چہ گویم زان مقام ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہر مرغدین اور اس کی بلند عمارتیں ؛ میں اس ذیشان مقام کی کیا بات کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Marghadin and those lofty edifices – what can I say of that noble city?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ساکنانش در سخن شیرین جو نوش\nخوب روی و نرم خوی و سادہ پوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے رہنے والوں کی زبان شہد کی طرح میٹھی تھی؛ وہ خوب رو، نرم گفتگو اور سادہ پوش تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its inhabitants sweet of speech as honey, comely their faces, gentle their manners, simple their apparel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فکرشان بے درد و سوز اکتساب\nرازدان کیمیای آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی سوچ حصول (زر) کے درد و سوز سے بے نیاز تھی؛ وہ کیمیائے آفتاب کے رازدان تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their thoughts innocent of the burning fever of gain, they were intimate with the secrets of the sun’s alchemy;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر کہ خواہد سیم و زر گیرد ز نور\nچون نمک گیریم ما از آب شور",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کسی کو سیم و زر کی خواہش ہوتی ہے وہ آفتاب کے نور سے حاصل کر لیتا ہے جیسے ہم سمندر کے پانی سے نمک بنا لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who so of them desires silver or gold gathers it from light, even as we gather salt from the briny sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خدمت آمد مقصد علم و ہنر\nکارہا را کس نمی سنجد بزر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں علم و ہنر کا مقصود خدمت تھا ؛ لوگ کام کو زر میں نہیں تولتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The aim of science and art there is service; no one weighs work done against gold;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کس ز دینار و درم آگاہ نیست\nاین بتان را در حرمہا راہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی شخص دینار و درہم سے واقف نہیں تھا؛ وہاں کے حرم میں ان بتوں کو کوئی دخل نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one is even acquainted with dinars and dirhams, these idols may not enter the sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بر طبیعت دیو ماشین چیرہ نیست\nآسمانہا از دخانھا تیرہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے طبع پر مشینوں کے دیو قابض نہیں تھے؛ نہ وہاں کا آسمان دھوئیں سے تاریک تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The demon of the machine has no power over nature; the skies are not blackened by smoke;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سخت کش دہقان چراغش روشن است\nاز نہاب دھخدایان ایمن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کا دہقان سخت محنتی تھا؛ مگر اس کا چراغ روشن تھا؛ وہ زمینداروں کی لوٹ کھسوٹ سے محفوظ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lamp of the hard-toiling farmer is always bright; he is secure from the plundering of the landlords;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کشت و کارش بے نزاع آب جوست\nحاصلش بے شرکت غیری ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی کاشتکاری میں پانی کے جھگڑے نہیں تھے؛ اور وہاں دہقان کی پیداوار میں کوئی اور حصّے دار نہیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His tillage is not a struggle for water, his harvest is his own, no other shares in it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اندر آن عالم نہ لشکر نے قشون\nنے کسی روزی خورد از کشت و خون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان میں نہ لشکر تھا نہ فوج، وہاں کوئی کشت و خون سے روزی نہیں کماتا تھا (پیشہ ور سپاہی نہیں تھے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that world there are no armies, no squadrons, none gains his livelihood by killing and murder;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نے قلم در مرغدین گیرد فروغ\nاز فن تحریر و تشہیر دروغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغدین میں قلم فن تحریر اور جھوٹ کی تشہیر سے فروغ نہیں پاتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Marghadin no pen wins lustre from inscribing and disseminating lies;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "نے بہ بازاران ز بیکاران خروش\nنے صدا ہای گدایان درد گوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہاں کے بازاروں میں بے کاروں کی نعرہ بازی تھی ؛ اور نہ گداؤں کی آوازیں سنانے والوں کے لیے دکھ کا باعث تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the market-places there is no clamour of the workless, no whining of beggars afflicts the car.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "حکیم مریخی",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کس در اینجا سائل و محروم نیست\nعبد و مولا حاکم و محکوم نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جگہ نہ کوئی سائل ہے ، نہ کوئی محروم، نہ کوئی غلام ہے نہ آقا، نہ حکیم، نہ محکوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one here is a mendicant or destitute, slave and master, ruler and ruled, here are none.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "زندہ رود ",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "سائل و محروم تقدیر حق است\nحاکم و محکوم تقدیر حق است\nجز خدا کس خالق تقدیر نیست\nچارۂ تقدیر از تدبیر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "سائل اور محروم یا حاکم و محکوم ہونا اللہ تعالے کی تقدیر ہے۔\nاللہ تعالے ہی تقدیر کے خالق ہیں، تقدیر کا علاج تقدیر سے ممکن نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nMendicant and destitute are so by God’s decree, by God’s decree ruler and ruled;\nNone but God is the creator of destiny and against destiny human design is powerless.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "حکیم مریخی",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گر ز یک تقدیر خون گردد جگر\nخواہ از حق حکم تقدیر دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ایک تقدیر سے تیرا جگر خون ہو، تو اللہ تعالے سے اور تقدیر مانگ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Martian Sage\nIf your heart bleeds on account of one destiny, petition God to decree another destiny;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "تو اگر تقدیر نو خواہی رواست\nزانکہ تقدیرات حق لا انتہاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو نئی تقدیر چاہے تو یہ جائز بات ہے؛ کیونکہ اللہ تعالے کی تقدیرات کی کوئی انتہا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you pray for a new destiny, that is lawful, seeing that God’s destinies are infinite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ارضیان نقد خودی در باختند\nنکتۂ تقدیر را نشناختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل زمین نے نکتہ ء تقدیر نہ سمجھ کے اپنی خودی کی نقدی ہار دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earthlings have gambled away the coin of selfhood, not comprehending the subtle meaning of destiny;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "رمز باریکش بحرفی مضمر است\nتو اگر دیگر شوی او دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقدیر کی باریک رمز ایک حرف ميں مضمر ہے؛ یعنی یہ کہ اگر تو بدل جائے تو تقدیر بدل جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its subtlety is contained in a single phrase: ‘If you transform yourself, it too will be transformed.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "خاک شو نذر ہوا سازد ترا\nسنگ شو بر شیشہ اندازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو خاک بن جائے تو تجھے ہوا کی نذر کر دیا جائے گا ؛ اگر تو سنگ ہے تو تجھ سے شیشہ توڑنے کا کام لیا جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be dust and fate will give you the winds; be a stone and it will hurl you against glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "شبنمی؟ افتندگی تقدیر تست\nقلزمی؟ پایندگی تقدیر تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو شبنم ہے ، تو تیری تقدیر میں نیچے گرنا ہے۔اگر تو سمندر ہے، تو تیری تقدیر ہمیشہ رہنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you a dew-drop? Your destiny is to perish; are you an ocean? Your destiny is to endure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ہر زمان سازی ہمان لات و منات\nاز بتان جوئی ثبات اے بے ثبات\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ہر لمحہ وہی لات و منات بناتا رہتا ہے ؛ اے بے ثبات تو ان بتوں سے ثبات چاہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment you are fashioning new Lats and Manats; inconstant one, do you look for constancy from idols?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تا بخود ناساختن ایمان تست\nعالم افکار تو زندان تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ تیرا ایمان اپنے آپ سے موافقت کرنا ہے اس لیے تیرے افکار تیرے لیے زندان بن گئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as your faith is to accord not with your self the world of your thoughts is your prison;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "رنج بے گنج است تقدیر اینچنین\nگنج بے رنج است تقدیر اینچنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے بے خبر! اگر اصل دین یہ ہے کہ مفلس کا افلاس کی وجہ سے تکلیف میں رہنا اور دولتمند کا بغیر محنت کے دولت پانا ان کی تقدیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Toil without treasure-such is destiny; treasure without toil-such is destiny!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "اصل دین این است اگر اے بیخبر،\nمی شود محتاج ازو محتاج تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس نظریئے سے محتاج دن بدن محتاج تر ہوتے جائیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If this is the foundation of faith, ignorant fellow, then the needy will become still more in need.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "واے آن دینی کہ خواب آرد ترا\nباز در خواب گران دارد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر یہی دین ہے تو حیف ایسے دین پر جو تجھ پر خواب بلکہ خواب گراں طاری کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to that religion which lulls you to sleep and still holds you in sleep profound!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "سحر و افسون است یا دین است این\nحب افیون است یا دین است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دین ہے یا سحر و افسوں؟ یہ دین ہے کہ حب افیون؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this religion, or magic and enchantment? Is this religion, or a grain of opium?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "می شناسی طبع دراک از کجاست\nحوری اندر بنگہ خاک از کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو پہچانتا ہے کہ طبع نکتہ رس کہاں سے ہے؟ بنگہء خاک (بدن) کے اندر یہ حور کہاں سے آ گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know whence comes the penetrating nature, whence came this houri into your tenement of clay?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "قوت فکر حکیمان از کجاست\nطاقت ذکر کلیمان از کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکیموں میں فکر کی قوّت کہاں سے ہے؟ کلیموں کے ذکر کی طاقت کہاں سے ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know whence comes the sages’ power of thought, whence the potency of prayer in God’s interlocutors?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "این دل و این واردات او ز کیست\nاین فنون و معجزات او ز کیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دل اور اس کی واردات کس کی طرف سے ہیں ؛ ان فنون و معجزات کا منبہ کہاں سے ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know whence came this heart, and its visitations, whence these arts, these miracles?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "گرمی گفتار داری از تو نیست\nشعلہ کردار داری از تو نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے اندر گرمیء گفتار ہے تو یہ تجھ سے نہیں ؛ شعلہء کردار ہے تو یہ بھی تجھ سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you have fire of speech? That comes not from you; Do you have flame of action? That comes not from you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "اینہمہ فیض از بہار فطرت است\nفطرت از پرودگار فطرت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب بہار فطرت کا فیض ہے؛ اور فطرت کی اصل پروردگار فطرت سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All this is an overflow of the springtime of nature, Nature which derives from nature’s Creator.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "زندگانی چیست کان گوہر است\nتو امینی صاحب او دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کیا ہے؟ یہ موتیوں کی کان ہے ، تو صرف امانتدار ہے مالک کوئی اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is life? A mine of gems; you are the trustee, its owner is Another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "طبع روشن مرد حق را آبروست\nخدمت خلق خدا مقصود اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "طبع روشن سے بندہ ءحق کی آبرو ہے اور خلق خدا کی خدمت اس بندے کا مقصود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A radiant nature glorifies the man of God, to serve all God’s creatures, that is his aim;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "خدمت از رسم و رہ پیغمبری است\nمزد خدمت خواستن سوداگری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدمت پیغمبری کی رہ و رسم ہے (خدمت خلق) کی مزدوری طلب کرنا سوداگری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Service belongs to the wont and way of prophethood; to seek a reward for service is mere commerce.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "ہمچنان این باد و خاک و ابر و کشت\nباغ و راغ و کاخ و کوی و سنگ و خشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی طرح یہ ہوا ، خاک، ابر، کھیتی، باغ و راغ ، محل و مکان اور سنگ و خشت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even so this wind, earth, cloud, field, orchard, meadow, palace, street, stones, bricks;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "اے کہ میگوئی متاع ما ز ماست\nمرد نادان این ہمہ ملک خداست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنہیں تو کہتا ہے کہ یہ میری ملکیت ہیں ؛ مرد ناداں ان سب کا مالک اللہ تعالے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who say, ‘Our property is of ourselves’, ignorant one, all this belongs to God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "ارض حق را ارض خود دانی بگو\nچیست شرح آیۂ لاتفسدوا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اللہ تعالے کی زمین کو اپنی زمین سمجھتا ہے؛ مجھے بتا تو سہی آیہء لاتفسدوا کی شرع کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you regard God’s earth as your own, then what means the verse, Work not corruption?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "ابن آدم دل بہ ابلیسی نھاد\nمن ز ابلیسی ندیدم جز فساد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کی اولاد نے ابلیسی پر کمر باندھ لی ہے؛ میں ابلیسی میں سوائے فساد کے اور کچھ نہیں دیکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Adam’s sons have given their hearts to Iblis, and from Iblis I have seen only corruption.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "کس امانت را بکار خود نبرد\nایخوش آنکو ملک حق با حق سپرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی شخص امانت کو اپنی (ذاتی) کام میں نہیں لاتا؛ مبارک ہے وہ شخص جو اللہ تعالے کی ملکیت کو اللہ تعالے کے سپرد رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None should convert a trust to his own use; blessed is he who renders God’s property up to God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "بردہ ئی چیزی کہ از آن تو نیست\nداغم از کاری کہ شایان تو نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے وہ چیز لے لی جو تیری نہیں ؛ مجھے دکھ ہے کہ تو نے وہ کام کیا جو تیری شان کے شایان نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have carried off what does not belong to you; my soul sorrows for so unworthy a deed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "گر تو باشی صاحب شی می سزد\nور نباشے خود بگو کی می سزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو کسی چیز کا مالک ہو تا تو پھر تجھے ایسا کرنا زیب تھا؛ اگر تو مالک ہی نہیں تو خود بتا یہ کیسے مناسب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you own a thing, that is meet and right, but if you do not, say yourself, how is that proper?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "ملک یزدان را بہ یزدان باز دہ\nتا ز کار خویش بگشائی گرہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کی ملکیت کو دوبارہ اللہ تعالے کے سپرد کر تاکہ تیرے معاملات کی الجھنیں دور ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Return to God the property of God so that you may loose the knot of your involvement;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "زیر گردن فقر و مسکینی چراست\nآنچہ از مولاست میگوئی ز ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں مفلسی اور مسکینی کیوں ہے؟ اس لیے کہ تو اللہ تعالے کی ملکیت کو اپنی ملکیت قرار دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For why is there poverty and want under heaven’s arch? Because you say what is the Lord’s belongs to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "بندہ ئی کز آب و گل بیرون نجست\nشیشۂ خود را بہ سنگ خود شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شخص جو آب و گل (مادیت) سے باہر نہیں نکلتا وہ اپنے شیشہ کو اپنے پتھر سے توڑ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man who has not leaped forth from water and clay has shattered his own glass with his own stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "ایکہ منزل را نمی دانی ز رہ\nقیمت ہر شی ز انداز نگہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو منزل اور راستے (مقصد اور سبب ) میں فرق نہیں کرتا (سمجھ لے) کہ ہر شے کی قیمت انداز نگاہ سے ہے (مال ذریعہ ہے اللہ تعالے کی رضا کے حصول کا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who cannot tell goal from path, the value of every thing is measured by the regard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "تا متاع تست گوہر، گوہر است\nورنہ سنگ است از پشیزی کمتر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک تو گوہر کو اپنی قیمتی متاع سمجھتا ہے وہ گوہر ہے؛ ورنہ وہ ایسا پتھر ہے جس کی قیمت دمڑی سے بھی کم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as the pearl is your property, it is a pearl; otherwise it is a pebble, worth less than a farthing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "نوع دیگر بین جھان دیگر شود\nاین زمین و آسمان دیگر شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اسے مختلف انداز سے دیکھ تو یہ جہان بھی مختلف ہو جائے گا اور یہ زمین و آسمان بدل جائیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "View the world otherwise, and it will become other, this earth and heaven will be transformed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "Tour Of The City Of Marghadin"
+}

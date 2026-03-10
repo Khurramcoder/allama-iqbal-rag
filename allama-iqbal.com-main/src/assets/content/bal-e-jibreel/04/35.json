@@ -1,0 +1,85 @@
+{
+  "id": "35",
+  "name": "نادر شاہ افغان",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حضور حق سے چلا لے کے لولوئے لالا \nوہ ابر جس سے رگ گل ہے مثل تار نفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "لولوئے لالا: چمکدار موتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Laden with pearls departed from the presence-hall of God that cloud that makes the pulse of life stir in the rose-bud's vein.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہشت راہ میں دیکھا تو ہو گیا بیتاب \nعجب مقام ہے، جی چاہتا ہے جاوں برس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And on its way saw Paradise, and trembled with desire that on such exquisite abode it might descend in rain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صدا بہشت سے آئی کہ منتظر ہے ترا \nہرات و کابل و غزنی کا سبزئہ نورس",
+              "lang": "Original"
+            },
+            {
+              "_content": "سبزئہ نورس: لہلہاتا سبزہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A voice sounded from Paradise: 'They wait for you afar, Kabul and Ghazni and Herat, and their new-springing grass;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سرشک دیدہ نادر بہ داغ لالہ فشاں \nچناں کہ آتش او را دگر فرونہ نشاں!",
+              "lang": "Original"
+            },
+            {
+              "_content": "نادر شاہ افغان کے آنسوؤں کو لالے کے داغ پر اس طرح چھڑک دے کہ پھر اس داغ کی آگ کبھی بجھنے نہ پائے",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Scatter the tear from Nadir's eye on the poppy's burning scar, that never more may be put out the poppy's glowing fire!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Nadir Shah Of Afghanistan",
+  "credits": "English Translation by: V G Kiernan"
+}

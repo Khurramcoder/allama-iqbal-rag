@@ -1,0 +1,136 @@
+{
+  "id": "21",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فریب کشمکش عقل دیدنی دارد\nکہ میر قافلہ و ذوق رہزنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل کی کشمکش کا فریب دیکھنے سے تعلق رکھتا ہے ؛ ہے یہ امیر قافلہ مگر رہزنی کا ذوق رکھتی ہے۔ (زندگی کا مسئلہ سلجھانے کی بجائے اور الجھاتی ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The intellect’s deceitfulness is worthy of remark: It is the leader of the caravan, yet fond of highway robbery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نشان راہ ز عقل ہزار حیلہ مپرس\nبیا کہ عشق کمالی ز یک فنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل جو ہزاروں حیلوں کی مالک ہے اس سے راستے کا پتہ نہ پوچھ؛ عشق کی طرف آ ، جو (عقل ذوفنوں کے مقابلے میں) یک فنی میں کمال رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek guidance from that jack-of-all-trades, intellect. Apply to Love, for it is perfect in the only art it practices.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فرنگ گرچہ سخن با ستارہ میگوید\nحذر کہ شیوۂ او رنگ جوزنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اہل فرنگ ستاروں سے باتیں کرتے ہیں ؛ مگر ان سے بچ کیونکہ ان کے انداز میں ساحری کا رنگ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the West converses with the stars, beware, there is in all it does a taint of sorcery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز مرگ و زیست چہ پرسی درین رباط کہن\nکہ زیست کاہش جان مرگ جانکنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پرانی کارواں سرا (دنیا ) کی موت و حیات کے بارہ میں کیا پوچھتا ہے؛ یہاں کی زندگی گھٹ گھٹ کے مرنا ہے اور موت میں جان کنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can I say concerning life and death? For in this ancient inn life is slow death, and death life’s final agony.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سر مزار شہیدان یکی عنان در کش\nکہ بی زبانی ما حرف گفتنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہیدوں کے مزار پر ذرا اپنا گھوڑا کھینچ (رک جا) ہماری بے زبانی کی باتیں بھی سننے کے قابل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pull up your horse sometimes at the graves of us martyrs; our silence has something to say.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دگر بدشت عرب خیمہ زن کہ بزم عجم\nمی گذشتہ و جام شکستنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک بار پھر عرب کے صحرا میں خیمہ لگا کیونکہ عجم کی بزم میں ؛ بے اثر شراب اور ٹوٹا ہوا جام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pitch your tent in the desert of Arabia again, for Persia is convivial company, which has stale wine and breakable wine-cups.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نہ شیخ شہر نہ شاعر نہ خرقہ پوش اقبال\nفقیر راہ نشین است و دل غنی دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال نہ شیخ شہر ہے، نہ شاعر خرقہ پوش؛ وہ صرف ایک فقیر راہ نشیں ہے، البتہ دل بے نیاز رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No city shaykh, no poet, and no holy man, Iqbal is but a roadside beggar, but he has a proud, contented heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

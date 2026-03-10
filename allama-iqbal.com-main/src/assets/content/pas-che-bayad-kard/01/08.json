@@ -1,0 +1,545 @@
+{
+  "id": "08",
+  "name": "مرد حر",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرد حر محکم ز ورد \"لاتخف\"\nما بمیدان سر بجیب او سر بکف",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حر لاتخف کے ورد سے قوی ہے: ہم میدان میں سر جھگائے آتے ہیں اور وہ سر بکف نکلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free man is strong through repetition of ‘fear not’*; in the battlefield we are hesitant while he is daring;\n* ‘Fear not’ (la takhaf) occurs repeatedly in the Qur’an in several contexts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مرد حر از لاالہ روشن ضمیر\nمی نگردد بندۂ سلطان و میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حر کا ضمیر لاالہ سے روشن ہے، وہ کسی بادشاہ یا امیر کا غلام نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free man is clairvoyant through there is no deity, he does not fall into the snare of kings and lords;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مرد حر چون اشتران باری برد\nمرد حر باری برد خاری خورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حر اونٹ کی طرح بوجھ اٹھاتا ہے، اور کانٹے کھا کر گزارا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the camel, the free man carries burdens: He carries burdens* but lives on thorny bushes.**\n\n* Iqbal has described man (Asrar-o Rumuz) on the first stage of development as similar to an elephant whose traits are service and toil and whose ways are patience and perseverance. ‘He eats little, sleeps little, and is accustomed to toil.’ **‘Eating of thorns’ stands for a simple crude fare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پای خود را آنچنان محکم نہد\nنبض رہ از سوز او بر می جہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ (رہ حیات میں) اتنی مضبوطی سے قدم رکھتا ہے کہ اس کے سوز سے راستے کی نبض تیز ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He sets his foot so firmly on the ground that the pulse of the pathway begins to throb with his ardour;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جان او پایندہ تر گردد ز موت\nبانگ تکبیرش برون از حرف و صوت",
+              "lang": "Original"
+            },
+            {
+              "_content": "موت سے اس کی جان اور پائیندہ ہو جاتی ہے (شہدا کو اموات نہ کہو) اس کی بانگ تکبیر الفاظ اور آواز میں نہیں س ماتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His soul becomes more everlasting through death; his call of takbir* is beyond words and sounds.\n* Takbir, to express greatness of God by saying: Allahu Akbar. ‘Beyond words and sounds’ signifies that his takbir is the result of his conviction and is uttered in spirit rather than in words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہر کہ سنگ راہ را داند زجاج\nگیرد آن درویش از سلطان خراج",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ درویش جو سنگ راہ کو شیشہ کی طرح (کمزور) سمجھتا ہے، وہ سلطان (بادشاہوں) سے خراج وصول کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dervish gets tribute from kings*; who regards the stones of the pathway as mere glass.\n\n* He is so possessed of power that the kings fear him and pay him tribute. **This contrast emphasizes that for a Free Man difficulties of great magnitude become insignificant in face of his strong will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گرمی طبع تو از صہبای اوست\nجوی تو پروردۂ دریای اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری طبیعت کی گرمی ایسے درویش کی شراب سے ہے؛ تیری ندی اسی کے دریا سے پرورش پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The warmth of your nature is due to his red wine; your stream is watered by his river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پادشاہان در قباہای حریر\nزرد رو از سھم آن عریان فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے عریاں فقیر کی ہیبت سے ریشمی قباؤں میں ملبوس پادشاہوں کے چہرے زرد پڑ جاتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kings in their silken robes are pallid from fear of that naked faqir*.\n\n* In Asrar-o Rumuz Iqbal relates the story of a king who got unnerved at the wrath of a dervish. By nakedness of Faqir, Iqbal seems to denote complete and full manifestation of Faqr, the qualities of an ideal man: ‘When Faqr becomes naked under the Sun, the Sun and the Moon tremble through its fear.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "سر دین ما را خبر، او را نظر\nاو درون خانہ ما بیرون در",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین کا راز ہمارے لیے سنی سنائی بات ہے اور اس کے لیے مشاہدہ ہے، گویا وہ گھر کے اندر ہے اور ہم دروازے سے باہر کھڑے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The essence of faith for us is report, for him it is vision*; he is within the house while we are outside the door; \n\n* The polarity of khabar, information, report, and nazar, vision, is as recurrent in Iqbal as the polarities of jamal (beauty) and jalal (majesty), love and reason, light and fire (nur and nar), seclusion and association (khalwat and jalwat), dhikr and fikr, et’. Report denotes knowledge gained through books, hearsay, i.e. from second-hand sources, and stands for reason, while vision stands for knowledge gained through personal experience and hence leading to deep conviction (Mahmud Nizami, Malfuzat)… He states in Zabur-i ‘Ajam, the really Free Man, the leader of mankind, is one who has enjoyed this vision. Though this vision in its complete and perfect form is vouch safed to a few only, its reflections can and do reach ordinary people, for it is the degree of this vision which will determine the place of the individual in the scale of moral and spiritual excellence. A person’s religiousness, he states, depends upon this degree of vision: ‘If you do not enjoy vision, your faith is only compulsion.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ما کلیسا دوست، ما مسجد فروش\nاو ز دست مصطفی پیمانہ نوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کلیسا کے دوست اور مسجد فروش ہیں؛ وہ حضور اکرم (صلعم) کے دست مبارک سے شراب (الست) پیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are friends of the Church, we sell mosques*, he quaffs cups from the hands of Mustafa (S.A.W.) himself**;\n\n* Refers to the position of the Muslims in the subcontinent. Some groups were allied to the Hindus, others, to the British. It is on record that the Muslims sold lands attached to the mosques and even the mosques themselves to the Hindus. **His faith is based on direct inspiration from the Qur’an and the Sunnah.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نے مغان را بندہ، نے ساغر بدست\nما تہی پیمانہ او مست الست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہ پیر مغاں کا غلام ہے ، نہ وہ ہاتھ میں جام لیے ہے؛ وہ شراب الست سے مست ہے اور ہم اس سے تہی پیمانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is not indebted to the wine-seller, nor has he the cup in his hand*; we have empty cups, while he is intoxicated since eternity.\n\n* Mughan, plural of mugh, means a Zoroastrian priest. In Persian poetry, mugh is associated with wine-selling and, therefore, mughan stands for wine-seller. The verse signifies that the intoxication of the Free Man is not dependent upon the wine-seller or upon the cup of wine. **Alast occurs in the Qur’anic verse: ‘Am I not your Lord?’ These words refer to man’s covenant with God before the creation of the world and hence the word alast in Muslim literature stands for eternity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چہرہ گل از نم او احمر است\nز آتش ما دود او روشنتر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھول کی سرخی اس کے اشکوں کی مرہون منت ہے، اس کا دھواں ہماری آگ سے زیادہ روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The face of the rose is red through his grace; his smoke is brighter than our fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "دارد اندر سینہ تکبیر امم\nدر جبین اوست تقدیر امم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سینے کے اندر امتوں کی تکبیر (عظمت) ہے اور اس کی پیشانی پر ان کی تقدیر (رقم) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has in his bosom a clarion call* to nations, their destiny is inscribed on his forehead.\n\n* The word takbir is used here most probably for sur, trumpet of Israfil, summoning people from the graves on the Day of Resurrection. **Forehead, jabin: It is commonly said that the fate of a person is inscribed on his forehead. This physiognomical belief may be right or wrong, but it has given to the literary tradition a lot of phrases and idioms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "قبلۂ ما گہ کلیسا، گاہ دیر\nاو نخواہد رزق خویش از دست غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا قبلہ کبھی کلیسا ہے کبھی بتخانہ ، لیکن وہ غیر اللہ سے رزق کا طالب نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We turn in worship sometimes to the Church and sometimes to the temple*; he does not seek his sustenance from others’ hands;\n\n* Qiblah, direction of the Ka’bah; the place to which Muslims turn for prayers, hence the object of adoration to which we turn for prayers and supplication, for the fulfilment of our wishes and desires.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ما ہمہ عبد فرنگ او عبدہ \nاو نگنجد در جہان رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سب فرنگیوں کے بندے ہیں اور وہ اللہ تعالے کا بندہ ہے (اس لیے) وہ اس جہان رنگ و بو میں نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are all slaves of the Franks, he is His slave*, he cannot be contained in this world of colour and smell.\n\n* Abduhu, His slave; it is based on the famous Qur’anic verse describing the Prophet’s ascension: ‘Glory to Him Who carried His Servant by night from the Sacred Mosque.’ The Qur’an uses words like ‘abdina, ‘abdan, ‘ibadan, etc., all signifying God’s creatures, as, for instance, xix. 93: ‘There is none in the heavens and the earth but comes to the Beneficent as a servant (‘abdan).’ The ‘abduhu (His slave) is used here by Iqbal in the sense of Perfect Man, especially the Holy Prophet S.A.W.\nWith regard to the character of the Perfect Man, expressed in this verse, Iqbal says: ‘Maulana Rumi has very beautifully expressed this idea (of man’s absorption of God into himself). The Prophet S.A.W., when a little boy, was once lost in the desert. His nurse Halima was almost beside herself with grief but while roaming the desert in search of the boy she heard a voice saying [Mathnavi, iv, 976]: ‘Do not grieve, he will not be lost to thee; Nay, the whole world will be lost in him.’ The true individual cannot be lost in the world; it is the world that is lost in him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "صبح و شام ما بہ فکر ساز و برگ\nآخر ما چیست تلخیہای مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم صبح و شام رزق کی فکر میں رہتے ہیں؛ ہمارا انجام کیا ہے؟ موت کی تلخی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our days and nights are spent in anxiety for livelihood; but what is our end? – pains of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در جہان بی ثبات او را ثبات\nمرگ او را از مقامات حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان بے ثّبات میں صرف حر کو ثبات ہے؛ موت اس کے لیے زندگی کے مقامات میں سے ایک مقام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He alone has stability amidst this world of instability; death for him is one of the stations of life*.\n\n* Here two kinds of death are mentioned: one, the death of ordinary people, the other, the death of strong personalities. Rumi has also described these two kinds of death: ‘That one in whose eyes death is destruction, he takes hold of God’s command: do not cast yourself into destruction; that one to whom death is the opening of the gate, he is addressed by God as: vie ye with one another in hastening.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "اہل دل از صحبت ما مضمحل\nگل ز فیض صحبتش دارای دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری صحبت سے اہل دل پراگندہ خاطر ہو جاتے ہیں؛ اس کی صحبت کے فیض سے مٹی بھی صاحب دل ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The people of the heart* feel frustrated in our company, but the grace of his company puts a heart even into dust.\n\n* Heart, dill: In Muslim literature, the word dill or qalb stands for the source of spiritual experience, ilham, inspiration. The idea was developed by Ghazali in Ihya’. It is based on the Qur’anic verse: ‘Then He made him (man) complete and breathed into him of His spirit, and gave you ears and hearts…(xxxii. 93).\nCommenting on this verse, Iqbal says: ‘The ‘heart’ is a kind of inner intuition or insight which, in the beautiful words of Rumi, feeds on the rays of the sun and brings us into contact with aspects of Reality other than those open to sense-perception. It is, according to the Qur’an, something which sees,’ and its reports, if properly interpreted, are never false’ (Reconstruction…).\nDistinguishing heart from sense and intellect, Iqbal says in Payam-i M’ashriq: ‘Love had not been, nor all love’s tumult, if heart possessed mind’s intelligence.’ ‘When reason developed burning, heart was born.’ Rumi speaks about the effect on a person’s personality, when he associates with men of heart: ‘Though you be marble or rock, you become a jewel when you reach the man of heart.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "کار ما وابستۂ تخمین و ظن\nاو ہمہ کردار و کم گوید سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سارے کام تخمین و ظن سے متعلق ؛ وہ کردار اور تھوڑی بات کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our life is subject to doubts and misgivings; he is all activity and little talk;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ما گدایان کوچہ گرد و فاقہ مست\nفقر او از لاالہ تیغی بدست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کوچہ گرد اور فاقہ مست گدا ہیں؛ اس کا فقر لاالہ کی تلوار ہاتھ میں لیے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are beggars roaming the streets and destitute, his faqr is equipped with the sword of There is no deity;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ما پر کاہے اسیر گرد باد\nضربش از کوہ گران جوئی گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اس تنکے کی مانند ہیں جو بھگولے میں گرفتار ہے؛ اس کی ضرب کوہ گراں کے اندر سے ندی نکال لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are mere straw caught in a whirlwind; his stroke on the mountain brings out springs of water.*\n\n* Reference may be to Moses’s striking of a rock and the gushing forth of water.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "محرم او شو ز ما بیگانہ شو\nخانہ ویران باش و صاحب خانہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سے کنارہ کشی اختیار کر اور اس کا دامن تھام لے؛ اپنا گھر ویران کر کے اپنے خانہ ء دل کا مالک بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Get acquainted with him and avoid us, destroy your present house and acquire a new one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "شکوہ کم کن از سپہر گرد گرد\nزندہ شو از صحبت آن زندہ مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سپہر گرداں کی شکایت چھوڑ ؛ اور اس زندہ مرد کی صحبت سے زندگی حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Complain not of the revolving sky revive yourself through associating with that living person.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "صحبت از علم کتابی خوشتر است\nصحبت مردان حر آدم گر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندگان خدا کی صحبت کتابی علم سے بہتر ہے، مردان حر کی صحبت آدمی کو انسان بنا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Association is better than knowledge of books, companionship of free men is creative of men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مرد حر دریای ژرف و بیکران\nآب گیر از بحر و نے از ناودان",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حر عمیق اور بے کراں سمندر ہے، پرنالوں کو چھوڑ اور اس بحر سے پانی حاصل کر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A free man is a deep and shoreless sea; get your water from an ocean and not from a canal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "سینۂ این مردمی جوشد چو دیگ\nپیش او کوہ گران یک تودہ ریگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے مرد کا سینہ دیگ کی مانند جوش مارتا ہے ، اس کے سامنے کوہ ء گراں بھی ریت کا تودہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His breast is in ferment like a boiling kettle*, for him a solid mountain is like a heap of sand.\n* It is related of the Prophet (S.A.W.) that noise like that of a boiling pot used to issue from his breast while he was saying his prayers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "روز صلح آن برگ و ساز انجمن\nہم چو باد فرودین اندر چمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "صلح کے ایام میں وہ رونق انجمن اور باغ کے اندر باد بہار کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In peace, he is the ornament of the assembly*, like spring wind to the garden;\n\n* The following verses (Javid Namah) where Iqbal describes the characteristics of a strong leader: ‘On the day of war, conquering the land by force of arms, on the day of peace, by the winning ways of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "روز کین آن محرم تقدیر خویش\nگور خود می کندد از شمشیر خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنگ کے وقت وہ ا پنی تقدیر کا رازدان ہے، اور اپنی تلوار سے خود اپنی قبر کھودتا ہے (شہادت کا طالب رہتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the day of battle, he, the knower of his destiny, digs his own grave with his own sword;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "اے سرت گردم گریز از ما چو تیر\nدامن او گیر و بیتابانہ گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیرے قربان جاؤں ، ہم سے تیر کی طرح بھاگ اور ایسے شخص کا دامن تھام لے اور بے تابانہ تھام لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fly from us like an arrow, and catch hold of his skirt with a frenzy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "می نروید تخم دل از آب و گل\nبی نگاہی از خداوندان دل",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک صاحبان دل کی نگاہ نہ ہو آب و گل کے بدن سے دل کا بیج اگتا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seed of the heart does not develop out of water and clay, without the look of the people of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "اندر این عالم نیرزی با خسی\nتا نیاویزی بدامان کسی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک تو کسی مرد باخدا کے دامن سے وابستگی نہیں اختیار کرے گا اس دنیا میں تیری قیمت پر کاہ کے برابر بھی نہیں ہو گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world you do not count more than a piece of straw unless you attach yourself to the skirt of somebody.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Freeman",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

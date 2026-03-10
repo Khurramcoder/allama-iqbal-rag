@@ -1,0 +1,101 @@
+{
+  "id": "26",
+  "name": "تصوف",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ حکمت ملکوتی، یہ علم لاہوتی \nحرم کے درد کا درماں نہیں تو کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملکوتي: فرشتوں کی دنیا؛ مراد ہے پاکیزہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If angelic art and celestial lore the ills of Muslims can not cure, worthless they are and of no use, of fact so true you must be sure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ ذکر نیم شبی، یہ مراقبے، یہ سرور \nتری خودی کے نگہباں نہیں تو کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذکر نيم شبي: آدھی رات کی عبادت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your reveries deep and rapture sweet, your worship at the midst of night, if fail to keep a watch on Self, are useless quite and have value slight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ عقل، جو مہ و پرویں کا کھیلتی ہے شکار \nشریک شورش پنہاں نہیں تو کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہ و پرويں: چاند اور ستارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The intellect can cast its noose on the Pleiades and the Moon if heart is b'reft of love for God, it is not a worthy gift and boon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خرد نے کہہ بھی دیا 'لاالہ' تو کیا حاصل \nدل و نگاہ مسلماں نہیں تو کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If wit incites a man to say ‘No God but He’ it brings no gain; it has no worth at all I think, unless affirmed by heart and brain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عجب نہیں کہ پریشاں ہے گفتگو میری \nفروغ صبح پریشاں نہیں تو کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wonder great that my discourse with distraction unbound is fraught if it won't spread like rays of morn, it means such talk has value naught.\n(Written in Riaz Manzil; residence of Sir Raas Masood, Bhopal.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mysticism",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

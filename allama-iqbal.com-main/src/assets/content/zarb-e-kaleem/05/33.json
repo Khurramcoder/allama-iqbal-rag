@@ -1,0 +1,66 @@
+{
+  "id": "33",
+  "name": "فلسطینی عرب سے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمانہ اب بھی نہیں جس کے سوز سے فارغ \nمیں جانتا ہوں وہ آتش ترے وجود میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know the fire that burns throughout your frame; the lands of world still fear its scorching flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تری دوا نہ جنیوا میں ہے، نہ لندن میں \nفرنگ کی رگ جاں پنجہ یہود میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your cure in Geneva or London you can’t trace, wind-pipe of Franks is gripped by Jewish race.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سنا ہے میں نے، غلامی سے امتوں کی نجات \nخودی کی پرورش و لذت نمود میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know that subject nation’s freedom gain, if they would nourish Self, display its main.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To The Palestinian Arabs",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

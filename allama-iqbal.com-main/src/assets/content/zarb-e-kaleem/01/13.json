@@ -1,0 +1,85 @@
+{
+  "id": "13",
+  "name": "تقدیر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نااہل کو حاصل ہے کبھی قوت و جبروت \nہے خوار زمانے میں کبھی جوہر ذاتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوہر ذاتی: مراد ہے باکمال لوگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Often men who don't deserve get might and main, anon a Person's gifts un-graced remain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شاید کوئی منطق ہو نہاں اس کے عمل میں \nتقدیر نہیں تابع منطق نظر آتی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perhaps some rules of logic are concealed; mishaps that lie in wait are not revealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہاں، ایک حقیقت ہے کہ معلوم ہے سب کو \nتاریخ امم جس کو نہیں ہم سے چھپاتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاریخ امم: قوموں کی تاریخ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a fact that all of us can know world annals much light on this matter throw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہر لحظہ ہے قوموں کے عمل پر نظر اس کی \nبراں صفت تیغ دو پیکر نظر اس کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیغ دو پیکر: دو دھاری تلوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fate keeps its eye on what the nations do, like two-edged sword can riddle through and through.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Destiny",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,296 @@
+{
+  "id": "24",
+  "name": "سسلي جزيرہ صقليہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رو لے اب دل کھول کر اے دیدہء خوننابہ بار\nوہ نظر آتا ہے تہذیب حجازی کا مزار",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوننابہ بار: خون برسانے والی، لہو رونے والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O blood-dripping eye! Now cry to your heart's content; there you can see the mausoleum of the civilization of Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تھا یہاں ہنگامہ ان صحرا نشینوں کا کبھی\nبحر بازی گاہ تھا جن کے سفینوں کا کبھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This was the rendezvous of those Arab Bedouins once; the ocean was the play ground of whose boats once.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زلزلے جن سے شہنشاہوں کے درباروں میں تھے\nبجلیوں کے آشیانے جن کی تلواروں میں تھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who shook up the audience halls of emperors; thunderbolts were harboured in whose swords.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اک جہان تازہ کا پیغام تھا جن کا ظہور\nکھا گئی عصر کہن کو جن کی تیغ ناصبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "عصر کہن: پرانا زمانہ۔\nتيغ ناصبور: بے صبر تلوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose appearance was the message of birth of a new world; whose restless sword destroyed the whole ancient world?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مردہ عالم زندہ جن کی شورش قم سے ہوا\nآدمی آزاد زنجیر توہم سے ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dead world with whose ‘Qum’ was infused with life. Man was freed from the chains of superstitious beliefs.\n(Qum: This is an allusion to the miracle of Issa A.S. by which he could bring the dead to life with the permission of God. The first line of this verse means that just as Issa A.S. brought the dead to life the Muslim civilization brought the Europe's dark ages to new life. It is also a reference to the re birth of Europe under the influence of the Islamic civilization of Spain and Baghdad.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غلغلوں سے جس کے لذت گیر اب تک گوش ہے\nکیا وہ تکبیر اب ہمیشہ کے لیے خاموش ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ear is still full of pleasures from whose zeal is that Takbâr now silenced for ever?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آہ اے سسلی! سمندرکی ہے تجھ سے آبرو\nرہنما کی طرح اس پانی کے صحرا میں ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! O Sicily! You are giving dignity to the ocean; you are like a guide post in the water's expanse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "زیب تیرے خال سے رخسار دریا کو رہے\nتیری شمعوں سے تسلی بحر پیما کو رہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بحر پيما: سمندر ناپنے والا یعنی سمندر کا سفر کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May the ocean's cheek ever remain elegant with your mole! May your lights ever remain a comfort for the ocean sailor!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہو سبک چشم مسافر پر ترا منظر مدام\nموج رقصاں تیرے ساحل کی چٹانوں پر مدام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیشہ۔\t:مدام",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May your sight ever remain beautiful to traveler’s eyes! May the wave on your shore's rocks ever remain dancing!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تو کبھی اس قوم کی تہذیب کا گہوارہ تھا\nحسن عالم سوز جس کا آتش نظارہ تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You were the cradle of that nation's civilization once, whose universal beauty was the object for spectacle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نالہ کش شیراز کا بلبل ہوا بغداد پر\nداغ رویا خون کے آنسو جہاں آباد پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "نالہ کش: نوحہ کرنے والا۔ \nشيراز کا بلبل: مراد ہے سعدی شیرازی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Nightingale of Shiraz was the lamentor on Baghdad; Dagh shed the tears of blood on Jahanabad.\n(The Nightingale of Shiraz: This is the honorific title of Sheikh Musleh al-Din Sa’adi of Shiraz. This hemistich alludes to Sheikh Sa’adi’s elegy on the destruction, pillage, mass murders and unprecedented atrocities at the hands of Halaku Khan at the time of invasion of the Tartars on Baghdad in 1258. Baghdad was the capital of the Abbasid Khilafah headed by al-Musta‘a-Åam Billah. Sheikh Sa’adi wrote two allegies, one in Persian and the other in Arabic, of which the first is very famous… Dagh: The Urdu poet Nawab Mirza Khan Dagh. Jahanabad: This is an abbreviation for ‘Shahjahanabad’ which was the name given to Delhi by the Mughal Emperor Shahjahan after rebuilding it. The allusion refers to the allegy of Dagh on the destruction of Delhi at the time of the First War of Indian Independence in 1857.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "آسماں نے دولت غرناطہ جب برباد کی\nابن بدروں کے دل ناشاد نے فریاد کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the sky destroyed the State of Gharnatah; the unhappy heart of Ibn Badrën lamented.\n(Gharnatah: The Arabic name for the Kingdom of Grenada, established in the southern part of Spain about 1160 and destroyed in 1492, which removed the last vestiges of Muslims from Spain. Ibn Badrën: Abu al Qasim Abd al Malik Ibn Abd Allah Ibn Badrën, the Muslim who had chronicled the history of Muslim rulers of Spain. His book was similar to Firdawsi's ‘Shah Namah’ in Persian and ‘Shah Namah-i-Islam’ by Hafiz Jalandhari.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "غم نصیب اقبال کو بخشا گیا ماتم ترا\nچن لیا تقدیر نے وہ دل کہ تھا محرم ترا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ill fated Iqbal has been conferred mourning for you. Destiny has selected the heart that was your confidante.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہے ترے آثار میں پوشیدہ کس کی داستاں\nتیرے ساحل کی خموشی میں ہے انداز بیاں",
+              "lang": "Original"
+            },
+            {
+              "_content": "آثار: کھنڈر، پرانی عمارتوں کے نشان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose story is concealed in your relics? In your shore's silence is a style of speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "درد اپنا مجھ سے کہہ، میں بھی سراپا درد ہوں\nجس کی تو منزل تھا، میں اس کارواں کی گرد ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell me your pathos, I am also embodiment of pathos; I am the dust of the caravan of which you were a stage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "رنگ تصویر کہن میں بھر کے دکھلا دے مجھے\nقصہ ایام سلف کا کہہ کے تڑپا دے مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Show me the old picture painted again; make me restless by relating the tale of bygone days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "میں ترا تحفہ سوئے ہندوستاں لے جاوں گا\nخود یہاں روتا ہوں، اوروں کو وہاں رلوائوں گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will take your gift towards India; I myself weep here, and will make others weep there.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Island Of Sicily",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

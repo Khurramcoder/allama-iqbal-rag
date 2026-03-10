@@ -1,0 +1,154 @@
+{
+  "id": "23",
+  "name": "نوای مزدور",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز مزد بندۂ کرپاس پوش محنت کش\nنصیب خواجۂ ناکردہ کار رخت حریر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کھردرے لباس اور محبت کرنے والے مزدور کی وجہ سے، کام نہ کرنے والے سرمایہ دار کے حصّہ میں ریشمی لباس عطا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hard work of the cotton-wearing labourer provides the idle rich with their silk robes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز خوی فشانی من لعل خاتم والی\nز اشک کودک من گوہر ستام امیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حاکم کی انگوٹھی کا لعل میرے پسینے کے قطروں سے ہے، امیر کے گھوڑے کے زین پر ٹکے ہوئے موتی میرے بچے کے آنسو ؤں سے بنائے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gem in the employer’s ring is made up of my sweat. The rubies in his horse’s reins are my child’s tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز خون من چو زلو فربہی کلیسا را\nبزور بازوی من دست سلطنت ہمہ گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کلیسا کی فربہی جونک کی طرح میرا خون (پینے) سے ہے، بڑی بڑی سلطنتوں کی قوّت بھی میرے زور بازو کی رہین منت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Church is fat through sucking my blood like a leech. My arm’s strength forms the sinews of the state.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خرابہ رشک گلستان ز گریۂ سحرم\nشباب لالہ و گل از طراوت جگرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے صبح کے آنسو سے ویرانہ رشک گلستان بنتا ہے، لالہ و گل کے پھولوں کا شباب میرے جگر کی طراوت سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My morning tears make gardens of waste lands. My heart’s blood glistens in the tulip and the rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بیا کہ تازہ نوا می تراود از رگ ساز\nمئی کہ شیشہ گدازد بہ ساغر اندازیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ اب جبکہ رگ ساز سے نئی نوا پیدا ہو رہی ہے، ہم ساغر میں وہ شراب ڈالیں جو شیشے کو پگھلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, time’s harp is tense with new melodies. Come; pour out strong wine that will melt the very glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مغان و دیر مغان را نظام تازہ دہیم\nبنای میکدہ ہای کہن بر اندازیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر مغاں اور دیر مغاں کو نیا نظام دیں، اور قدیم میخانوں کی بنیاد یں خود ڈالیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let us give a new order to the tavern and the taverner, and let us raze all ancient taverns to the ground.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ز رہزنان چمن انتقام لالہ کشیم\nبہ بزم غنچہ و گل طرح دیگر اندازیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "چمن کی لوٹ کھسوٹ کرنے والوں سے گل لالہ (کے خون) کا انتقام لیں، اور غنچہ و گل کی بزم کو نئے انداز سے ترتیب دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let us avenge the tulip’s blood on those who laid the garden waste. For rose and rosebud’s gatherings let us establish a new style.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بہ طوف شمع چو پروانہ زیستن تا کی؟\nز خویش اینہمہ بیگانہ زیستن تا کی؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "پروانے کی طرح شمع کے ادر گرد چکر لگاتے رہنا کب تک؟ اپنے آپ سے اس طرح بیگانہ رہ کر زندگی بسر کرنا کب تک؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long shall we exist like moths that flit round candle flames? How long shall we exist forgetful of ourselves like this?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Labourer’s Song",
+  "credits": "English Translation by: M. Hadi Husain"
+}

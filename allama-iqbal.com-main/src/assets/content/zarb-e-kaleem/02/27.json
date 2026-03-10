@@ -1,0 +1,84 @@
+{
+  "id": "27",
+  "name": "دین و تعلیم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مجھ کو معلوم ہیں پیران حرم کے انداز \nہو نہ اخلاص تو دعوئے نظر لاف و گزاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "لاف و گزاف: لاف زنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know the modes of those who guide the creed, though lacking truth, of vision boast, indeed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اور یہ اہل کلیسا کا نظام تعلیم \nایک سازش ہے فقط دین و مروت کے خلاف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The teaching that the English have devised 'gainst Faith and ties has great intrigue contrived:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس کی تقدیر میں محکومی و مظلومی ہے \nقوم جو کر نہ سکی اپنی خودی سے انصاف",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That race is doomed to bondage and much pain, which justice for its Ego can't attain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فطرت افراد سے اغماض بھی کر لیتی ہے \nکبھی کرتی نہیں ملت کے گناہوں کو معاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "اغماض: چشم پوشی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The faults of one man Nature can reprieve, but groups for crimes no par don can receive.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Religion And Education",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

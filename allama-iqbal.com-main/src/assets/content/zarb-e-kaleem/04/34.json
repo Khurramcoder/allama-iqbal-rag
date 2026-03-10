@@ -1,0 +1,84 @@
+{
+  "id": "34",
+  "name": "ہنروران ہند",
+  "name-en": "The Artisans of India",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق و مستی کا جنازہ ہے تخیل ان کا \nان کے اندیشہ تاریک میں قوموں کے مزار",
+              "lang": "Original"
+            },
+            {
+              "_content": "انديشہ تاريک: بھیانک سوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their fancy tolls the knell of love and rapture sweet; their dark and dismal thoughts with nations' tombs replete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "موت کی نقش گری ان کے صنم خانوں میں \nزندگی سے ہنر ان برہمنوں کا بیزار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their idol halls arc full with prints of gloomy death. The art of these Brahmans seems tired of life and breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چشم آدم سے چھپاتے ہیں مقامات بلند \nکرتے ہیں روح کو خوابیدہ، بدن کو بیدار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They hide from eyes of man his state and noble name: They fill the soul with sleep, incite the lust in frame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہند کے شاعر و صورت گر و افسانہ نویس \nآہ! بیچاروں کے اعصاب پہ عورت ہے سوار",
+              "lang": "Original"
+            },
+            {
+              "_content": "صورت گر: مصوّر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! In Hind sex rules the bards and painters too: Those, who write romantic tales, talk of sex through and through.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

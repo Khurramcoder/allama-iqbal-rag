@@ -1,0 +1,131 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لا پھر اک بار وہی بادہ و جام اے ساقی \nہاتھ آ جائے مجھے میرا مقام اے ساقی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set out once more that cup that wine, oh Saki! Let my true place at last be mine, oh Saki!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تین سو سال سے ہیں ہند کے میخانے بند \nاب مناسب ہے ترا فیض ہو عام اے ساقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Three centuries India’s wine-shops have been closed, and now for your largesse we pine, oh Saki!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مری مینائے غزل میں تھی ذرا سی باقی \nشیخ کہتا ہے کہ ہے یہ بھی حرام اے ساقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My flask of poetry held the last few drops; unlawful, says our crabb’d devine, oh Saki.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شیر مردوں سے ہوا بیشہء تحقیق تہی \nرہ گئے صوفی و ملا کے غلام اے ساقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بيشہء تحقيق تہي: تحقیق کا جنگل (شیر سے) خالی ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Truth’s forest hides no lion-hearts now: Men grovel before the priest, or the saint’s shrine, oh Saki.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق کی تیغ جگردار اڑا لی کس نے \nعلم کے ہاتھ میں خالی ہے نیام اے ساقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تيغ جگردار: تلوار جس کی کاٹ بے پناہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who has borne off Love’s valiant sword? About an empty scabbard Wisdom’s hands twine, oh Saki.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سینہ روشن ہو تو ہے سوز سخن عین حیات \nہو نہ روشن، تو سخن مرگ دوام اے ساقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Verse lights up life, while heart burns bright, but fades for ever when those rays decline, oh Saki!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو مری رات کو مہتاب سے محروم نہ رکھ \nترے پیمانے میں ہے ماہ تمام اے ساقی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bereave not of its moon my night; I see a full moon in your goblet shine, oh Saki!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: V.G. Kiernan"
+}

@@ -1,0 +1,732 @@
+{
+  "id": "01",
+  "name": "پیشکش بحضور ملت اسلامیہ",
+  "name-en": "Presented to the Muslim Nation",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "01",
+  "sectionName": "رموزِ بیخودی",
+  "name-ur": "ملّت اسلامیہ کے حضور میں پیشکش۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "منکر نتوان گشت اگر دم زنم از عشق\nاین نشہ بمن نیست اگر با دگری ہست\nعرفے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میں عشق کی بات کرتا ہوں تو مجھے اس سے انکار نہیں کرنا چاہئے ؛ اگر میں اس نشے سے خالی ہوں تو کسی اور میں ضرور ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I talk of Love, do not refute that; I may lack the intoxication, but you will certainly find in someone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے ترا حق خاتم اقوام کرد\nبر تو ہر آغاز را انجام کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ امت جسے حق تعالے نے خاتم اقوام بنایا ہے؛ اور جس پر اپنی ہر ابتدا کی انتہا کر دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You, who were made by God to be the final seal of all peoples; in you all beginnings find their completion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے مثال انبیا پاکان تو\nہمگر دلھا جگر چاکان تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے نیک لوگ گذشتہ انبیا (علیہ) کی مانند ہیں ؛ تیرے جگر چاک دلوں کو جوڑنے والے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose saints were prophet like, whose wounded hearts wove into unity the souls of men;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے نظر بر حسن ترسازادہ ئی\nاے ز راہ کعبہ دور افتادہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے امت مسلمہ ! تو نے اہل کلیسا کے حسن (علوم) پر نظر رکھی ہوئی ہے؛ اور تو راہ کعبہ سے دور جا پڑی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why have you fallen so far from Mecca's holy Kaaba, captivated by the unfamiliar beauty of the Christian path?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے فلک مشت غبار کوی تو\n\"اے تماشا گاہ عالم روی تو\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان تیرے کوچے کی مشت غبار ہے؛ ساری دنیا تیرے چہرے پر مفتوں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The very skies are merely dust from your streets, you are the center of all people's attention; where do you hurry in such restless haste?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہمچو موج، آتش تہ پا میروی\n\"تو کجا بہر تماشا میروی\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو موج کی طرح اپنے آپ سے تیزی سے بھاگ رہی ہے؛ تو کسے دیکھنے کے لیے جا رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you now hurry like a storm-tossed wave, what new diversion seeking?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رمز سوز آموز از پروانہ ئے\nدر شرر تعمیر کن کاشانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پروانے سے جلنے کی رمز سیکھ؛ اور (اس کی طرح) شرر میں کاشانہ تعمیر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn the secret of burning from the moth, and build your dwelling within the flame itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "طرح عشق انداز اندر جان خویش\nتازہ کن با مصطفی پیمان خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی جان کے اندر عشق کی بنیاد رکھ؛ حضور (صلعم) سے اپنا پیام محبت از سر نو استوار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lay love’s foundation-stone in your own soul, and to the Prophet pledge anew your troth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "خاطرم از صحبت ترسا گرفت\nتا نقاب روی تو بالا گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب سے تیرے حسین چہرے پر سے نقاب اٹھا ہے؛ میں اہل یورپ کی صحبت سے دل گرفتہ ہو گیا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My mind was weary of Christian company, when suddenly your beauty stood unveiled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہم نوا از جلوہ ی اغیار گفت\nداستان گیسو و رخسار گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ہمنواؤں نے غیروں کے حسن اور ان کے گیسو و رخسار کی داستانیں سنائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My companion in song spoke only of strangers’ charms,\ntelling tales of flowing hair and radiant cheeks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بر در ساقی جبین فرسود او\nقصہ ی مغ زادگان پیمود او",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے ساقی (مغرب) کے دروازے پر جبہ سائی کی؛ اور وہاں کے مغ زادوں کے قصّے سنائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "At the tavern’s door he bowed his weary brow, and recounted the tales of Magian-born revelers."
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "من شہید تیغ ابروے تو ام\nخاکم و آسودہ ے کوی تو ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اے امت مسلمہ میں تیری تیغ آبرو کا شہید ہوں ؛ خاک ہوتے ہوئے میں نے تیری گلی میں سکوں پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am slain by the scimitar of your brow, and as dust I find my peace upon your street.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "از ستایش گستری بالاترم\nپیش ہر دیوان فرو ناید سرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں قصیدہ گوئی سے بالا تر ہوں؛ ہر محل کے سامنے سر نہیں جھکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Too proud am I to mouth base panegyrics, or to bow my stubborn head to every tyrant’s court.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "از سخن آئینہ سازم کردہ اند\nوز سکندر بے نیازم کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعری میری آئینہ سازی ہے؛ اور مجھے (آئینہ) سکندر سے بے نیاز کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Trained up to fashion mirrors out of words. I need not Alexander’s magic glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بار احسان بر نتابد گردنم\nدر گلستان غنچہ گردد دامنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری گردن کسی کے احسان کا بوجھ نہیں اٹھا سکتی؛ میں گلستان کے اندر غنچہ کی مانند اپنے آپ کو رکھے ہوئے ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My neck endures not men’s magic glass. My neck endures not men’s munificence; where roses bloom, I gather close the skirt of my soul’s bud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "سخت کوشم مثل خنجر در جہان\nآب خود می گیرم از سنگ گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں دنیا میں خنجر کی مانند سخت کوش؛ پتھر سے اپنی آب و تاب حاصل کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hard is the dagger’s steel I labour in this life, my luster won from the tough granite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "گرچہ بحرم موج من بیتاب نیست\nبر کف من کاسہ ی گرداب نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں سمندر ہوں مگر میری موج بے قرار نہیں؛ میری ہتھیلی پر بھنور کا کاسہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though I am an ocean, my waves know no unrest, and in my palm I do not hold the bowl of whirlpools.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "پردہ ی رنگم شمیمی نیستم\nصید ھر موج نسیمی نیستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں پردہ رنگ ہوں، خوشبو نہیں ہوں کہ نسیم کی ہر موج کا شکار بن جاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A painted veil am I, no blossom’s perfume-scattering, no prey to every billowing breeze that blows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "در شرار آباد ہستی اخگرم\nخلعتی بخشد مرا خاکسترم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں زندگی کے شرر آباد میں ایک انگارہ ؛ میری خاکستر ہی میری خلعت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am glowing coal within Life’s fire, and wrap me in my embers for a cloak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "بر درت جانم نیاز آوردہ است\nہدیہ ی سوز و گداز آوردہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ملّت اسلامیہ (مجھ جیسا خود دار بھی) تیرے دروازے پر نیاز مندانہ ہدیہء سوز و گداز لایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At your door my soul has laid its plea, bringing as an offering the fire of its longing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ز آسمان آبگون یم می چکد\nبر دل گرمم دمادم می چکد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیلے آسمان سے میرے گرم دل پر افکار موسلا دھار بارش کی مانند برس رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the azure sky a crystal stream descends, falling unceasingly upon my burning heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "من ز جو باریکتر می سازمش\nتا بہ صحن گلشنت اندازمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں انہیں ندی سے بھی زیادہ باریک بنا کے تیرے صحن گلشن میں پیش کر رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I channel narrower than a brook that I may fling it in your garden’s dish.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "زانکہ تو محبوب یار ماستی\nہمچو دل اندر کنار ماستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ تو ہمارے دوست ( صلعم) کی محبوب ہے ؛ اس لیے تو ہمارے پہلو میں دل کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because you are beloved of the Friend I love, you rest within my embrace as closely as my own heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "عشق تا طرح فغان در سینہ ریخت\nآتش او از دلم آئینہ ریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب سے عشق نے سینے میں آہ و فغاں کی بنیاد رکھی ہے؛ اس کی آگ نے میرے دل کو آئینہ بنا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since Love first cast the design of lament into my breast, its fire has poured forth the mirror from my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مثل گل از ہم شکافم سینہ را\nپیش تو آویزم این آئینہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے سینے کو پھول کی طرح چیر کر ؛ اپنے دل کا آئینہ تمہارے سامنے رکھ رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Was molten to a mirror; like a rose I pluck my breast apart, that I may hang this mirror in your sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تا نگاہی افکنی بر روی خویش\nمی شوی زنجیری گیسوی خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تو اپنے چہرے پر نگاہ ڈال سکے اور اپنی زلف کی اسیر ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gaze you shall become a captive fettered in your tress’ chain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "باز خوانم قصہ ی پارینہ ات\nتازہ سازم داغہای سینہ ات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیری پرانی داستاں پھر سے سناتا ہوں تا کہ تیرے سینے کے داغ تازہ ہو جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I chant again the tale of long ago, to bid your bosom’s old wounds bleed anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "از پی قوم ز خود نامحرمی\nخواستم از حق حیات محکمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس قوم کے لیے جو اپنے آپ کو بھول چکی تھی؛ حق تعالے سے پائیدار زندگی کی درخواست کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So for a people no more intimate with its own soul I supplicated God, that He might grant to them a firm knit life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "در سکوت نیم شب نالان بدم\nعالم اندر خواب و من گریان بدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدھی رات کے سکوت میں نالہ و فریاد کرتا تھا؛ دنیا خواب میں ہوتی اور میں گریاں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the mid swatch of night, when all the world was hushed in slumber, I made loud lament;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "جانم از صبر و سکون محروم بود\nورد من یاحی و یاقیوم بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری جان صبر و سکون سے محروم تھی اور میرے لبوں پر یا حّی و یا قیوم کا ورد تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My spirit robbed of patience and response, unto the Living and Omnipotent God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "آرزوئی داشتم خون کردمش\nتا ز راہ دیدہ بیرون کردمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت کی سربلندی کی جو آرزو میں رکھتا تھا اس نے میرا دل خون کر دیا؛ اور وہ (اشکوں کی صورت میں ) میری آنکھوں سے بہہ نکلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I made my litany; my yearning heart surged, till its blood streamed from my weeping eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "سوختن چون لالہ پیہم تا کجا\nاز سحر دریوز شبنم تا کجا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں لالہ کی مانند کب تک مسلسل جلتا رہوں اور کب تک صبح سے شبنم کی بھیک مانگتا رہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long, O lord, how long the tulip-glow, the begging of cool dewdrops from the dawn?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "اشک خود بر خویش می ریزم چو شمع\nبا شب یلدا در آویزم چو شمع",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں شمع کی مانند اپنے آنسو اپنے آپ پر ہی گرا رہا ہوں؛ (اور اس طرح) اکیلا ہی تاریکی سے نبرد آزما ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, like a candle wrestling with the night o’er my own self I pour my flooding tears.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "جلوہ را افزودم و خود کاستم\nدیگران را محفلی آراستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(میں نے شمع کی مانند) روشنی میں اضافہ کیا ؛ خود گھلتا رہا اور دوسروں کے لیے محفل آراستہ کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I spent myself, that there might be more light, more loveliness, more joy for other men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "یک نفس فرصت ز سوز سینہ نیست\nہفتہ ام شرمندہ ی آدینہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے سینے کی تپش سے ایک لمحہ کی بھی فرصت نہیں؛ میرے ہفتے میں روز جمعہ (چھٹی ‏ کا دن ) نہیں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not for one moment takes my ardent breast repose from burning; Friday does not shame; my restless week of unremitting toil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "جانم اندر پیکر فرسودہ ئی\nجلوہ ی آہی است گرد آلودہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے کہنہ بدن کے اندر جان گویا ایک گرد آلود آہ کا جلوہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wasted is now my spirit’s envelop; my glowing sigh is sullied all with dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "چون مرا صبح ازل حق آفرید\nنالہ در ابریشم عودم تپید",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے نے جب صبح ازل مجھے تخلیق فرمایا تو میرے عود کے ریشمی تاروں میں نالے تڑپنے لگے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When God created me at Time’s first dawn a lamentation quivered on the strings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "نالہ ئی افشا گر اسرار عشق\nخونبہای حسرت گفتار عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے نالے جو عشق کے راز کھولنے والے تھے اور جنہیں عشق کی حسرت گفتار کا خون بہا کہنا چاہئے۔(عشق چاہتا ہے کہ اپنے راز خود افشا کرے مگر کر نہیں سکتا؛ اس کی اس خواہش کی موت کا خون بہا اقبال (رحمتہ) کے نالے ہیں جن کے ذریعے انہوں نے عشق کے راز افشا کر دیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of my melodious lute, and in that note Loves’s secrets stood revealed, the ransom-price of the long sadness of the tale of Love;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "فطرت آتش دہد خاشاک را\nشوخی پروانہ بخشد خاک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا نالہ خس و خاشاک کو آگ کی فطرت عطا کرتا ہے اور خاک کو شوخیء پروانہ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which music even to sapless straw imparts the ardency of fire and on dull clay bestows the daring of the reckless moth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "عشق را داغی مثال لالہ بس\nدر گریبانش گل یک نالہ بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے لیے گل لالہ کی طرح کا داغ ہے؛ میرے ایک ہی نالے کے پھول سے اس کا دامن بھر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love, like the tulip, has one brand at heart, and on its bosom wears a singly rose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "من ہمین یک گل بدستارت زنم\nمحشری بر خواب سرشارت زنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ملّت اسلامیہ ! میں ہی ایک پھول تیری دستار میں آویزاں کرتا ہوں اور اس کے ذریعے تیری گہری خواب میں محشر بپا کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And so my solitary rose I pin. Upon your turban, and cry havoc loud against your drunken slumber;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "تا ز خاکت لالہ زار آید پدید\nاز دمت باد بھار آید پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تیری خاک سے لالہ زار کھل اٹھے؛ اور تیرا دم باد بہار بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That from your soil a field of tulips may arise, and from your breath the breeze of spring may blow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,819 @@
+{
+  "id": "07",
+  "name": "حکایت درین معنی",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "حکایت درین معنی کہ مسئلۂ نفی خودی از مخترعات اقوام مغلوبۂ بنی نوع انسان است کہ بہ این طریق مخفی اخلاق اقوام غالبہ را ضعیف میسازند",
+      "name-en": "A tale illustrating the idea that the notion of self-negation is an invention of the subjugated nations of humanity, devised to subtly weaken the moral strength of dominant nations.",
+      "name-ur": "اس مطلب کی وضاحت کے لیے حکایت کہ نفیء خودی کا مسلہ اقوام مغلوبہ کی اختراع ہے تاکہ وہ مخفی طریق سے اقوام غالبہ کے اخلاق کو کمزور کريں۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آن شنیدستی کہ در عہد قدیم\nگوسفندان در علف زاری مقیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نے سنا ہے کہ پرانے زمانے میں بہت سی بھیڑ بکریاں ایک چراگاہ میں رہتی تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hast thou heard that in the time of old; the sheep dwelling in a certain pasture.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از وفور کاہ نسل افزا بدند\nفارغ از اندیشہ ی اعدا بدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "گھاس کی فراوانی کے باعث ان کی نسل بڑھ رہی تھی، وہ دشمنوں سے بھی بے خطر تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So increased and multiplied; that they feared no enemy?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آخر از ناسازی تقدیر میش\nگشت از تیر بلائی سینہ ریش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر بد بختی کے باعث ان کا سینہ مصیبتوں سے چھلنی ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last, from the malice of Fate; their breasts were smitten by a shaft of calamity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شیر ہا از بیشہ سر بیرون زدند\nبر علف زار بزان شبخون زدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنگل سے شیر نکل آئے اور انہوں نے اس چراغ پر شبخون مارنے شروع کر دیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tigers sprang forth from the jungle and rushed upon the sheepfold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جذب و استیلا شعار قوت است\nفتح راز آشکار قوت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشش اور تسلّط قوّت کے شعار ہیں؛ فتح قوّت کا کھلا بھید ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Conquest and dominion are signs of strength; victory is the manifestation of strength.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شیر نر کوس شہنشاہی نواخت\nمیش را از حریت محروم ساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیروں نے اپنی پادشاہت کا اعلان کیا؛ اور بھیڑ بکریوں کو ان کی آزادی سے محروم کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those fierce tigers beat the drum of sovereignty; they deprived the sheep of freedom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بسکہ از شیران نیاید جز شکار\nسرخ شد از خون میش آن مرغزار",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ شیروں کا کام ہی شکار ہے؛ وہ چراگاہ بھیڑ بکریوں کے خون سے سرخ ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For as much as tigers must have their prey; that meadow was crimsoned with the blood of the sheep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گوسفندے زیرکے فہمیدہ ئی \nکہنہ سالے گرگ باران دیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک دانا اور زیرک بھیڑ تھی ، جو بڑی تجربہ کار اور معمر تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One of the sheep which was clever and acute; old in years, cunning as a weather-beaten wolf.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تنگدل از روزگار قوم خویش\nاز ستمہای ہژبران سینہ ریش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنی قوم کے حالات سے بہت پریشان ہوئی ، شیروں کے ظلم سے اس کا سینہ زخمی ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Being grieved at the fate of his fellows and sorely vexed by the violence of the tigers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "شکوہ ہا از گردش تقدیر کرد\nکار خود را محکم از تدبیر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دل میں بھیڑ بکریوں کی تقدیر بدل جانے سے شکوہ پیدا ہوا؛ چنانچہ اس نے تدبیر سے اپنا کام پکا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Made complaint of the course of Destiny and sought by craft to restore the fortunes of his race.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بہر حفظ خویش مرد ناتوان\nحیلہ ہا جوید ز عقل کار دان",
+              "lang": "Original"
+            },
+            {
+              "_content": "کمزور آدمی اپنی حفاظت کے لیے عقل گرہ کشا سے حیلہ تراشتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The weak, in order to preserve themselves; seek device from skilled intelligence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در غلامی از پی دفع ضرر\nقوت تدبیر گردد تیز تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں اپنی مشکلات دور کرنے کے لیے تدبیر کی قوّت زیادہ تیز ہم جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery, for the sake of repelling harm; the power of scheming becomes quickened.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "پختہ چون گردد جنون انتقام\nفتنہ اندیشی کند عقل غلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب انتقام کا جنون پختہ ہو جاتا ہے تو غلام کی عقل فتنے سوچتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And when the madness of revenge gains hold; the mind of the slave meditates rebellion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "گفت با خود عقدہ ی ما مشکل است\nقلزم غمہای ما بے ساحل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بوڑھی بھیڑ نے اپنے آپ سے کہا ہمارا مسلہ بہت مشکل ہے؛ ہمارے غموں کے سمندر کا کوئی کنارا نظر نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Ours is a hard knot,’ said this sheep to himself; the ocean of our griefs hath no shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "میش نتواند بزور از شیر رست\nسیم ساعد ما و او پولاد دست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بھیڑ اپنی قوّت سے تو شیر سے چھٹکارا پا نہیں سکتی؛ ہماری کلائی نازک ہے اور شیر کا پنجہ فولاد کی مانند مضبوط ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By force we sheep cannot escape from the tiger: Our legs are silver, his paws are steel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "نیست ممکن کز کمال وعظ و پند\nخوی گرگی آفریند گوسفند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تو ممکن نہیں کہ وعظ و نصیحت کے زور سے بھیڑ کے اندر بھیڑیوں کی خو پیدا ہو جائے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'Tis not possible, however much one exhorts and counsels; to create in a sheep the disposition of a wolf.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "شیر نر را میش کردن ممکن است\nغافلش از خویش کردن ممکن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "البتہ شیر نر کو بھیڑ بنایا جا سکتا ہے اور اسے اپنے آپ سے غافل کرنا ممکن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But to make the furious tiger a sheep – that is possible: To make him unmindful of his nature – that is possible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "صاحب آوازہ ی الہام گشت\nواعظ شیران خون آشام گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "چنانچہ اس نے الہام کا دعوی کیا؛ اور خونخوار شیروں کو وعظ کہنا شروع کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He became as a prophet inspired, and began to preach to the blood-thirsty tigers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "نعرہ زد اے قوم کذاب اشر\nبے خبر از یوم نحس مستمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے نعرہ لگایا کہ اے جھوٹو! اے شیرو! تم اس دن سے بے خبر ہو جو سخت منحوس ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He cried out, ‘O ye insolent liars, who wot not of a day of ill luck that shall continue for ever!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "مایہ دار از قوت روحانیم\nبہر شیران مرسل یزدانیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے روحانی قوّت عطا کی گئی ہے اور اللہ تعالے کی طرف شیروں کے لیے نبیہ بنایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am possessed of spiritual power, I am an apostle sent by God for the tigers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "دیدہ ی بے نور را نور آمدم\nصاحب دستور و مأمور آمدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اندھوں کے لیے روشنی لے کے آئی ہوں؛ مجھے اس کام پر معمور کیا گیا ہے اور نیا دستور دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I come as a light for the eye that is dark, I come to establish laws and give commandments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "توبہ از اعمال نا محمود کن\nاے زیان اندیش فکر سود کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم اپنے برے کاموں سے توبہ کرو؛ ضرر ر ساں کام چھوڑو، اور اپنے فائدے کی تدبیر سوچو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Repent of your blameworthy deeds! O plotters of evil, bethink yourselves of good!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ہر کہ باشد تند و زور آور شقی است\nزندگی مستحکم از نفی خودی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بھی غضبناک اور طاقتور ہو وہ بدبخت ہے؛ کیونکہ زندگی خودی مٹا دینے سے پختہ ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoso is violent and strong is miserable: Life's solidity depends on self-denial.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "روح نیکان از علف یابد غذا\nتارک اللحم است مقبول خدا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیکوں کی روح گھاس سے غزا حاصل کرتی ہے؛ گوشت چھوڑ دینے والا اللہ تعالے کا محبوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit of the righteous is fed by fodder: The vegetarian is pleasing unto God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "تیزی دندان ترا رسوا کند\nدیدہ ی ادراک را اعمی کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانتوں کی تیزی تجھے ذلیل کر دیتی ہے اور تیری سمجھ کی آنکھ کو اندھا کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sharpness of your teeth brings disgrace upon you and makes the eye of your perception blind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "جنت از بہر ضعیفان است و بس\nقوت از اسباب خسران است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنت صرف کمزوروں کے لیے ہے؛ قوّت خسارے کا سبب بنتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Paradise is for the weak alone, strength is but a means to perdition.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "جستجوی عظمت و سطوت شر است\nتنگدستی از امارت خوشتر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عظمت و شوکت کی خواہش گناہ ہے؛ افلاس دولتمندی سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is wicked to seek greatness and glory, penury is sweeter than princedom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "برق سوزان در کمین دانہ نیست\nدانہ گر خرمن شود فرزانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلا دینے والی بجلی ایک دانے کی گھات میں نہیں رہتی (اسے خرمن کی تلاش ہوتی ہے) اس لیے دانہ خرمن بنے تو یہ اس کی عقلمندی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lightning does not threaten the cornseed: If the seed become a stack, it is unwise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ذرہ شو صحرا، مشو گر عاقلی\nتا ز نور آفتابی بر خوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو عقلمند ہے تو ذرّہ ہی رہ صحرا نہ بن؛ تاکہ آفتاب کے نور سے پورا فائدہ اٹھا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are sensible, you will be a mote of sand, not a Sahara; so that you may enjoy the sunbeams.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "اے کہ می نازی بذبح گوسفند\nذبح کن خود را کہ باشی ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم جو گوسفندوں کو چیرنے پھاڑنے پر فخر کرتے ہو؛ اپنی خودی کو ذبح کرو تاکہ تم عزت پاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O thou that delightest in the slaughter of sheep, slay thy self, and thou wilt have honour!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "زندگی را می کند نا پایدار\nجبر و قہر و انتقام و اقتدار",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبر، قہر، انتقام اور اقتدار زندگی کو کمزور بنا دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is rendered unstable; by violence, oppression, revenge, and exercise of power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "سبزہ پامال است و روید بار بار\nخواب مرگ از دیدہ شوید بار بار",
+              "lang": "Original"
+            },
+            {
+              "_content": "سبزہ پاؤں میں روندا جاتا ہے اس لیے بار بار اگ آتا ہے اور اپنی آنکھ سے موت کی نیند کو بار بار دھو لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though trodden underfoot, the grass grows up time after time; and washes the sleep of death from its eye again and again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "غافل از خود شو اگر فرزانہ ئی\nگر ز خود غافل نہ ئی دیوانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو عقلمند ہے تو اپنے آپ سے غافل ہو جا؛ جو اپنے آپ سے غافل نہیں وہ دیوانہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Forget thy self, if thou art wise! If thou dost not forget thy self, thou art mad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "چشم بند و گوش بند و لب بہ بند\nتا رسد فکر تو بر چرخ بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آنکھ بند رکھ ، کان بند رکھ ، لب بند رکھ تاکہ تیرا فکر آسمان کی بلندی تک پہنچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Close thine eyes, close thine ears, close thy lips; that thy thought may reach the lofty sky!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "این علفزار جہان ہیچ است ہیچ\nتو برین موہوم اے نادان مپیچ",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کی یہ چراگاہ بالکل ہیچ ہے؛ اے ناداں! تو اس سے دل نہ لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This pasturage of the world is naught, naught: O fool, do not torment thy phantom!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "خیل شیر از سخت کوشی خستہ بود\nدل بذوق تن پرستی بستہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیروں کا گروہ سخت محنت سے تھک چکا تھا ؛ اور ان کا دل پستی کی طرف مائل تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tiger-tribe was exhausted by hard struggles; they had set their hearts on enjoyment of luxury.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "آمدش این پند خواب آور پسند\nخورد از خامے فسون گوسفند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہیں یہ خواب آور نصیحت بہت پسند آئی ؛ اپنی کمزوری کے باعث وہ بھیڑ کی باتوں میں آ گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This soporific advice pleased them; in their stupidity they swallowed the charm of the sheep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "آنکہ کردی گوسفندان را شکار\nکرد دین گوسفندی اختیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو گوسفندوں کا شکار کرتے تھے انہوں نے گوسفندی مذہب اختیار کر لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He that used to make sheep his prey; now embraced a sheep's religion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "با پلنگان سازگار آمد علف\nگشت آخر گوہر شیری خزف",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیروں نے گھاس کھانا شروع کر دی؛ بالآخر شیری کا گوہر ٹھیکری میں تبدیل ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tigers took kindly to a diet of fodder: At length their tigerish nature was broken.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "از علف آن تیزی دندان نماند\nہیبت چشم شرار افشان نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "گھاس کھانے سے ان کے دانتوں کی تیزی ختم ہو گئی؛ ان کی شرارے برسانے والی آنکھوں کی ہیبت جاتی رہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fodder blunted their teeth and put out the awful flashings of their eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "دل بتدریج از میان سینہ رفت\nجوہر آئینہ از آئینہ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "سینوں کے اندر دل نہ رہے؛ آئینے کا جوہر آئینے سے جاتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By degrees courage ebbed from their breasts, the sheen departed from mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "آن جنون کوشش کامل نماند\nآن تقاضای عمل در دل نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے اندر کی سعیء پیہم کا جنوں نہ رہا؛ ان کے دلوں سے ولولہء عمل ختم ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That frenzy of uttermost exertion remained not; that craving after action dwelt in their hearts no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "اقتدار و عزم و استقلال رفت\nاعتبار و عزت و اقبال رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقتدار، عزم، استقلال، اعتبار عزت اور اقبال جاتے رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They lost the power of ruling and the resolution to be independent; they lost reputation, prestige, and fortune.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "پنجہ ہای آہنین بے زور شد\nمردہ شد دلہا و تنہا گور شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے فولادی پنجے کمزور پڑ گئے ؛ دل مر گئے اور بدن قبریں بن گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their paws that were as iron became strengthless; their souls died and their bodies became tombs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "زور تن کاہید و خوف جان فزود\nخوف جان سرمایہ ہمت ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدن کی قوّت کم ہو گئی اور جان کا خوف بڑھ گیا؛ اور خوف جان نے ہمت کی پونجی ختم کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bodily strength diminished while spiritual fear increased; spiritual fear robbed them of courage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "صد مرض پیدا شد از بے ہمتی\nکوتہ دستی، بیدلی، دون فطرتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے ہمتی سے کوتاہ دستی، بے دلی اور پست فطرتی جیسی سینکڑوں بیماریاں پیدا ہو جاتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lack of courage produced a hundred diseases – poverty, pusillanimity, low mindedness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "شیر بیدار از فسون میش خفت\nانحطاط خویش را تہذیب گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیدار شیر بھیڑ کے جادو سے سو گئے؛ اور اپنے اس انحطاط کو تہذیب کہنے لگے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wakeful tiger was lulled to slumber by the sheep's charm; he called his decline Moral Culture.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A tale illustrating this concept.",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

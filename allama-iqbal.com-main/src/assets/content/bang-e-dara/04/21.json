@@ -1,0 +1,65 @@
+{
+  "id": "21",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ آیہ نو، جیل سے نازل ہوئی مجھ پر \nگیتا میں ہے قرآن تو قرآن میں گیتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This new `verse’ was revealed to me from the jail that the Qur’an is in the Gita and the Gita is in the Qur’an.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا خوب ہوئی آشتی شیخ و برہمن \nاس جنگ میں آخر نہ یہ ہارا نہ وہ جیتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How well friendship developed between Shaikh and Brahman in this battle after all neither this nor that was winning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مندر سے تو بیزار تھا پہلے ہی سے 'بدری' \nمسجد سے نکلتا نہیں، ضدی ہے مسیتا'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Badri’ was already disgusted with the temple; ‘Masita’ does not step out of the mosque, he is stubborn..\n(Badri and Masita: Respectively are names of an uneducated village-Hindu and Muslim in the Indian Sub-continent.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

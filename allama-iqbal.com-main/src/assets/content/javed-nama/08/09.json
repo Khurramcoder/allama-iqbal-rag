@@ -1,0 +1,715 @@
+{
+  "id": "09",
+  "name": "پیغام سلطان شہید بہ رود کاویری حقیقت حیات و مرگ و شہادت",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "دریائے کاویری کے نام سلطان ٹیپو شہید کا پیغام۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رود کاویری یکی نرمک خرام\nخستہ ئی شاید کہ از سیر دوام",
+              "lang": "Original"
+            },
+            {
+              "_content": "دریائے کاویری ذرا آہستہ چل شاید تو مسلسل رواں رہنے سے تھک چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The reality of life, death and martyrdom\nRiver Cauvery, flow gently for a while; perchance you are wearied by continual wandering",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در کہستان عمر ہا نالیدہ ئی\nراہ خود را با مژہ کاویدہ ئے",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ساری عمر کوہستان میں فریاد کناں رہا؛ تو نے اتنا راستہ اپنی پلکوں سے کھودا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For many years you have wept in the mountains, carving out your path with your eyelashes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے مرا خوشتر ز جیحون و فرات\nاے دکن را آب تو آب حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نظروں میں تو جیحوں اور فرات سے خوشتر ہے؛ تیرا پانی دکن کے لیے آب حیات ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sweeter to me than Oxus and Euphrates, to Deccan your water is the Water of Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آہ شہرے کو در آغوش تو بود\nحسن نوشین جلوہ از نوش تو بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہاں وہ شہر جو تیری آغوش میں تھا؛ اس شہر کا حسن شیریں تیرے آب رواں کا مرہون منت تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas, for the city which lay in your embrace, whose sweet beauty was a reflection of your sweetness!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہنہ گردیدی شباب تو ہمان\nپیچ و تاب و رنگ و آب تو ہمان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ تو بوڑھا ہو چکا ہے مگر تیرا شباب پیچ و تاب و رنگ و آب اسی طرح ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have grown old, yet you are ever young, ever the same your surge, your ardour, your lustre;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "موج تو جز دانہ گوہر نزاد\nطرہ تو تا ابد شوریدہ باد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری موج نے صرف گوہر کا ایک ہی دانہ پیدا کیا ہے (اپنی طرف اشارہ ہے) ؛ تیری لہریں اسی طرح تا ابد شوریدہ رہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your waves have begotten only the purest pearls – may your tresses flow freely till all eternity!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اے ترا سازی کہ سوز زندگی است\nہیچ میدانی کہ این پیغام کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ دریا جس کی (لہروں ) کا ساز و سوز زندگی پیدا کر رہا ہے؛ کیا تو جانتا ہے کہ کون تجھ سے ہمکلام ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You whose music is the very fire of life, do you know from whom this message comes?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آنکہ میکردی طواف سطوتش\nبودہ ئی آئینہ دار دولتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جانتا ہے کہ یہ وہ شخص ہے تو جس کی سطوت کا طواف کرتا رہا؛ اور جس کی حکومت کا آئینہ دار رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From him whose mighty power you once encircled, whose empire you reflected in your mirror,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آنکہ صحرا ہا ز تدبیرش بہشت\nآنکہ نقش خود بخون خود نوشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی تدبیر نے صحراؤں کو بہشت بنا دیا ؛ جس نے اپنا نقش (حیات) اپنے خون سے رقم کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By whose contriving deserts were turned to Paradise, who wrought his image with his own blood,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آنکہ خاکش مرجع صد آرزوست\nاضطراب موج تو از خون اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کا مرقد آج بھی سینکڑوں آرزوؤں کا مرجع ہے؛ تیرا موجوں کا اضطراب اسی کے خون کے باعث ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose dust is the goal of a hundred yearnings, and with whose blood your waves surge still;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آنکہ گفتارش ہمہ کردار بود\nمشرق اندر خواب و او بیدار بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جس کی گفتار سراپا کردار ہے؛ سارا مشرق سو رہا تھا مگر وہ بیدار تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man whose words were all action, the one man awake, whilst the East slept.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے من و تو موجی از رود حیات\nہر نفس دیگر شود این کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اور تو دریائے زندگی کی موجیں ہیں اور یہ کائنات ہر لحظہ نیا رنگ بدلتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You and I are waves of life’s river; every moment this universe changes,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زندگانی انقلاب ہر دمی است\nزانکہ او اندر سراغ عالمے است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی بھی ہر لمحہ نیا انقلاب چاہتی ہے چونکہ وہ نئے عالم کی جستجو میں رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For life is a perpetual revolution since it is ever searching for a new world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "تار و پود ہر وجود از رفت و بود\nاینہمہ ذوق نمود از رفت و بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر وجود کا تانا بانا اس کے ماضی سے ہے؛ یہ سارا ذوق پیدائی فنا ہی کے سبب سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This flux is the warp and woof of life, this flux the source of the joy of manifestation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "جادہ ہا چون رھروان اندر سفر\nہر کجا پنھان سفر پیدا حضر",
+              "lang": "Original"
+            },
+            {
+              "_content": "راستے بھی سفر میں مسافروں کی مانند ہیں ؛ ہر کہیں حضر (قیام) ظاہر اور سفر پوشیدہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The highways like travellers are on a journey; apparently at rest, secretly everywhere in motion;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کاروان و ناقہ و دشت و نخیل\nہر چہ بینی نالد از درد رحیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاروان ہو، ناقہ ہو، صحرا ہو یا درخت ہو؛ جو کچھ تجھے نظر آتی ہے وہ سب آرزو ئے سفر میں فریاد کناں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan, the camels, the desert, the palm-trees, whatever you see, weeps for the pain of parting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در چمن گل میہمان یک نفس\nرنگ و آبش امتحان یک نفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "چمن میں پھول ایک لمحے کا مہمان ہے اس کا رنگ اور آب و تاب بس ایک نفس کی نمود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the garden the rose is a guest of but a moment, its hue and lustre a moment’s experiment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "موسم گل ماتم و ہم نای و نوش\nغنچہ در آغوش و نعش گل بدوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "موسم گل ؟ ماتم بھی ہے اور دعوت عیش بھی ؛ کلی اس کی آغوش میں اور پھول کی نعش اس کے دوش پر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The season of the rose? Funeral and festival together, buds in the breast, the rose’s bier on the back.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "لالہ را گفتم یکی دیگر بسوز\nگفت راز ما نمی دانی ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے گل لالہ سے کہا تھوڑی دیر اور جلتا رہ؛ اس نے جواب دیا شاید تو نے ابھی تک ہمارا راز نہیں پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to the tulip, ‘Burn once again’; the tulip answered, ‘You know not yet my secret,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از خس و خاشاک تعمیر وجود\nغیر حسرت چیست پاداش نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وجود کی تعمیر خس و خاشاک سے ہے؛ نمود کا انجام سوائے حسرت کے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Existence is constructed of sticks and straws; what is the guerdon of manifestation, but regret?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در سراے ہست و بود آئی میا\nاز عدم سوے وجود آئی میا",
+              "lang": "Original"
+            },
+            {
+              "_content": "سارے ہست و بود میں آنا چاہتا ہے؟ نہ آ۔عدم سے وجود میں آنا چاہتا ہے؟ نہ آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you enter the inn of existence? Do not; do you come from not-being to being? Do not;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ور بیائی چون شرار از خود مرو\nدر تلاش خرمنی آوارہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور اگر آنا ہے تو شرر کی مانند اپنے آپ کو فنا نہ کر بلکہ کسی خرمن کی تلاش میں آوارہ رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or if you do, go not out of your self like a spark, but become a wanderer searching for a stack to fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تاب و تب داری اگر مانند مہر\nپا بنہ در وسعت آباد سپہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو سورج کی سی چمک دمک رکھتا ہے تو آسمان کی وسعتوں میں قدم رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have fever and flame like the sun, step forth into the vastness of the sky;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "کوہ و مرغ و گلشن و صحرا بسوز\nماہیان را در تہ دریا بسوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہاڑ ، صحرا، مرغزار ، گلشن بلکہ دریا کی تہ میں موجود مچھلیوں کو بھی جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Burn up mountain and bird, garden and desert, burn even the fishes in the depths of the sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "سینہ ئی داری اگر در خورد تیر\nدر جہان شاہین بزی شاہین بمیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ایسا سینہ رکھتا ہے جو تیر کا زخم برداشت کر سکے ؛ تو دنیا میں شاہین کی طرح زندہ رہ اور شاہین ہی کی موت مر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you have a breast worthy of an arrow, live like a falcon, and like a falcon die;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "زانکہ در عرض حیات آمد ثبات\nاز خدا کم خواستم طول حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اللہ تعالے سے لمبی زندگی نہیں مانگی ؛ کیونکہ زندگی پیش کر دینے ہی میں اس کی بقا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Immortality is in the breadth of life – I do not ask of God for length of days,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زندگی را چیست رسم و دین و کیش\nیک دم شیری بہ از صد سال میش",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کی رسم و راہ و دین و آئین کیا ہے؟ شیر کا ایک لمحہ بھیڑ کے سو سال سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the law, the religion, the rite of life? Better one instant a lion, than a century a sheep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "زندگی محکم ز تسلیم و رضاست\nموت نیرنج و طلسم و سیمیاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی تسلیم و رضا (اللہ تعالے کے سامنے سرتسلیم خم کر دینا اور اللہ تعالے کی رضا میں راضی رہنا) سے استحکام پاتی ہے؛ موت صرف طلسم ، وہم ، اور نیرنگ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is fortified by cheerful resignation; death is a magic talisman, a fantasy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بندۂ حق ضیغم و آہوست مرگ\nیک مقام از صد مقام اوست مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا بندہ شیر ہے اور آہو ؛ موت اس کے سینکڑوں مقامات میں سے ایک مقام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man of God is a lion and death a fawn; death is but one station for him of a hundred.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "می فتد بر مرگ آن مرد تمام\nمثل شاہینی کہ افتد بر حمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مرد کامل موت پر اس طرح جھپٹتا ہے جیسے شاہین کبوتر پر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The perfect man swoops upon death even as a falcon swooping upon a dove,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "ہر زمان میرد غلام از بیم مرگ\nزندگی او را حرام از بیم مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "(نفس کا) غلام ہر لمحہ موت کے خوف سے مرتا ہے؛ موت کے ڈر سے اس کی زندگی حرام ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The slave dies every moment in fear of death; the fear of death makes life for him a thing forbidden;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "بندۂ آزاد را شأنے دگر\nمرگ او را میدہد جانی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اللہ تعالے کے بندے کی شان ہے موت اسے نئی زندگی عطا کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free servant has another dignity; death bestows upon him a new life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "او خود اندیش است مرگ اندیش نیست\nمرگ آزادان ز آنی بیش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کے بندے کو اپنی فکر رہتی ہے ( میں احکام الہی کا پابند ہوں یا نہیں) اسے موت کی فکر نہیں : اللہ والوں کی موت ایک لمحے سے زیادہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is anxious for the self, but not for death, since to the free death is no more than an instant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "بگذر از مرگی کہ سازد با لحد\nزانکہ این مرگست مرگ دام و دد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چھوڑ اس موت کو جو قبر سے موافقت اختیار کر لیتی ہے: کیونکہ وہ موت چوپایوں کی موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Transcend the death that is content with the grave, for that death is the death of brute beasts;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مرد مومن خواہد از یزدان پاک\nآن دگر مرگی کہ بر گیرد ز خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد مومن اللہ تعالے سے اس موت کا طالب رہتا ہے جو اسے خاک سے اوپر اٹھا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'The true believer prays to the Holy God for that other death which raises up from the dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "آن دگر مرگ انتہای راہ شوق\nآخرین تکبیر در جنگاہ شوق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ موت جو راہ شوق کی انتہا ہے؛ جو میدان شوق میں بلند کیا جانے والا آخری نعرہ ء تکبیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That other death-the goal of the road of love, the final Allahu Akbar in love’s battlefield.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "گرچہ ہر مرگ است بر مومن شکر\nمرگ پور مرتضی چیزی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ مومن ہر موت کر شکر سے قبول کرتا ہے مگر سیدنا حسین (رضی اللہ ) کی موت اور چیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though to the believer every death is sweet, the death of Murtada’s son is something other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "جنگ شاہان جہان غارتگری است\nجنگ مومن سنت پیغمبری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کے پادشاہ لوٹ مار کے لیےجنگیں لڑتے ہیں؛ لیکن مومن کا جہاد آنحضور (صلعم) کی سنت کی پیروی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The warfare of worldly kings is for rapine, the believer’s warfare is the Sunna of the Prophet",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "جنگ مومن چیست ؟ ہجرت سوی دوست\nترک عالم اختیار کوی دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مومن کی جنگ کیا ہے؟ اپنے محبوب ( حق تعالے) کی طرف ہجرت کر جانا؛ دنیا چھوڑ دینا اور کوئے دوست اختیار کر لینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the believer’s warfare? Flight to the Beloved; quitting the world, choosing the Beloved’s street,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "آنکہ حرف شوق با اقوام گفت\nجنگ را رہبانی اسلام گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ذات (صلعم) جنہوں نے قوموں کو عشق کی بات بتائی ، انہوں نے جہاد کو اسلام کی رہبانیت فرمایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who proclaimed to the peoples the word of love said of warfare that it was ‘the monasticism of Islam’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "کس نداند جز شہید این نکتہ را\nکو بخون خود خرید این نکتہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اس نکتے کو شہید کے سوا اور کوئی نہیں سمجھتا کیونکہ وہ اس کو اپنا خون دے کر پاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None but the martyr knows this subtlety, for he has purchased this subtlety with his blood.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Message Of The Martyr- King To The River Cauvery"
+}

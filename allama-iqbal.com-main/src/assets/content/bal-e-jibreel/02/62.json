@@ -1,0 +1,65 @@
+{
+  "id": "62",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "انداز بیاں گرچہ بہت شوخ نہیں ہے \n شاید کہ اتر جائے ترے دل میں مری بات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The style may not he vivid and lively, still perhaps the meaning may penetrate thy mind:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یا وسعت افلاک میں تکبیر مسلسل \nیا خاک کے آغوش میں تسبیح و مناجات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The faith of men of God and ecstasy is like the call to prayer echoing in the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ مذہب مردان خود آگاہ و خدا مست \nیہ مذہب ملا و جمادات و نباتات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The faith of the mullah, a vermin of the earth, is the telling of beads, and mumblings in the dust.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

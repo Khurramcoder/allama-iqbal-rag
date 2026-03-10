@@ -1,0 +1,102 @@
+{
+  "id": "56",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دو دستہ تیغم و گردون برہنہ ساخت مرا\nفسان کشیدہ بروی زمانہ آخت مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں دو دھاری تلوار ہوں اور آسمان نے مجھے برہنہ کر دیا ہے؛ پھر مجھے سان پر تیز کیا اور زمانے کے مقابل لا کھڑا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A double-handled sword am I laid naked by the circling sky; fortune hath sharpened me in Space, and whetted me upon Time’s face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من آن جہان خیالم کہ فطرت ازلی\nجہان بلبل و گل را شکست و ساخت مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں افکار نو کا وہ تازہ جہان ہوں جسے فطرت؛ گل و بلبل کی دنیا منہدم کر کے وجود میں لائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the world of fantasy; the genius of eternity the world of nightingale and rose hath shattered, fashioning me for those.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "می جوان کہ بہ پیمانہ تو می ریزم\nز راوقی است کہ جام و سبو گداخت مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مئے جو ان (نئے افکار) جو میں تمہارے سبو میں ڈال رہا ہوں ؛ ایسی تیز شراب ہے جس نے میرے جام و سبو پگھلا دیے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The youthful wine to cheer the soul that I am pouring in the bowl is from the vat, whereby my jar and glass decanter molten are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نفس بہ سینہ گدازم کہ طایر حرمم\nتوان ز گرمی آواز من شناخت مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں طائر حرم ہوں اپنا جذب سینے میں محفوظ رکھتا ہوں؛ مجھے گرمیء آواز سے پہچانا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breath is burning in my breast; the sanctuary is my nest, and men may recognize my throat by the great ardour of my note.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شکست کشتی ادراک مرشدان کہن\nخوشا کسی کہ بہ دریا سفینہ ساخت مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانے صوفیا کے ادراک کی کشتی ٹوٹ چکی ہے؛ مبارک ہے وہ شخص جو دریائے عصر رواں میں مجھے کشتی بناتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wrecked is the barque the ancient guide built out of sense, therein to ride; blest is the one who fashioned me to be his vessel on the sea.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

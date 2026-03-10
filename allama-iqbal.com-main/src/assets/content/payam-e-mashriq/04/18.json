@@ -1,0 +1,84 @@
+{
+  "id": "18",
+  "name": "حکما",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "لاک",
+      "name-en": "Locke",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ساغرش را سحر از بادۂ خورشید افروخت\nورنہ در محفل گل لالہ تہی جام آمد",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ کے ساغر کی سحر خورشید کی شراب سے چمکی ہے ، ورنہ وہ گلستان میں خالی آیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was dawn that lit up the tulip’s cup with a drink from the sun; for the tulip itself bore an empty cup when it joined the company of flowers.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "کانت",
+      "name-en": "Kant",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فطرتش ذوق می آینہ فامی آورد\nاز شبستان ازل کوکب جامی آورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ کی فطرت نے مے آئینہ فام کا ذوق پیدا کیا، (چنانچہ ) وہ شبستان ازل سے ستارہ کی مانند چمکتا ہوا جام لایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By nature it had a taste for wine that is like crystal: It is from eternity’s sleeping-chamber that it brings its shining, star-like cup.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "برگسن",
+      "name-en": "Bergson",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ مئی از ازل آورد نہ جامی آورد\nلالہ از داغ جگر سوز دوامی آورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہ ازل سے شراب لایا نہ جام ، بلکہ گل لالہ نے اپنے داغ جگر سے سوز دوام پیدا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It did not bring either wine or a cup from eternity: The tulip gets its eternal passion from the scar in its own heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Philosophers",
+  "credits": "English Translation by: Mustansir Mir"
+}

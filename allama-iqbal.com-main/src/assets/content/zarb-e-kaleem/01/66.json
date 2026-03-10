@@ -1,0 +1,67 @@
+{
+  "id": "66",
+  "name": "موت",
+  "name-en": "Death",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لحد میں بھی یہی غیب و حضور رہتا ہے \nاگر ہو زندہ تو دل ناصبور رہتا ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "غیب و حضور: محبوب حقیقی سے دوری اور اس کا دیدار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Self of man perfection gains devoid of rest his heart remains, even in the niche of grave Presence and Absence he must brave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مہ و ستارہ، مثال شرارہ یک دو نفس \nمے خودی کا ابد تک سرور رہتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Moon and stars shine like a spark, for moments few and then the dark; the rapture caused by Ego's wine is as eternal as things divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فرشتہ موت کا چھوتا ہے گو بدن تیرا \nترے وجود کے مرکز سے دور رہتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If your Ego is ripe and mature, your life from Death becomes secure: Death's angel may earthly frame contact, but can not harm your soul, in fact.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

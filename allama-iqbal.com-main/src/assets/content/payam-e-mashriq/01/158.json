@@ -1,0 +1,34 @@
+{
+  "id": "158",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو می گوئی کہ من ہستم خدا نیست\nجہان آب و گل را انتہا نیست\nہنوز این راز بر من ناگشود است\nکہ چشمم آنچہ بیند ہست یا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے کہ میں ہوں اور خدا نہیں ہے؛ یہ دنیا لا انتہا ہے (یہ کبھی ختم نہیں ہو گی)۔ \nمگر مجھ پر ابھی تک یہ راز ہی نہیں کھلا؛ کہ میری آنکھ جو کچھ دیکھتی ہے وہ ہے بھی یا نہیں! (ہر مشہود دیکھنے والے کا مرہون منت ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I am, and God is not’, thou sayest so: ‘Water and clay into the boundless go’;\nYet I have not resolved this mystery – whether it is mine eye that sees, or no.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

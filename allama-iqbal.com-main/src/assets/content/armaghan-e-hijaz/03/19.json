@@ -1,0 +1,88 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غریب شہر ہوں میں، سن تو لے مری فریاد\nکہ تیرے سینے میں بھی ہوں قیامتیں آباد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To this poor man of town pay special heed, who craves great ferments for thy bosom’s feed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مری نوائے غم آلود ہے متاع عزیز\nجہاں میں عام نہیں دولت دل ناشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوائے غم آلود: غم سے بھری آواز۔ \nدل ناشاد: غمزدہ دل۔\nمتاع عزیز: قیمتی دولت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My woeful tone thus, a great wealth to soul, a woeful heart’s wealth, not a common dole.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گلہ ہے مجھ کو زمانے کی کور ذوقی سے\nسمجھتا ہے مری محنت کو محنت فرہاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کور ذوقی: ذوق کا اندھا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have a right grievance on world’s taste blind, who took my love’s labour of Farhad’s kind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "صدائے تیشہ کہ بر سنگ میخورد دگر است\nخبر بگیر کہ آواز تیشہ و جگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آواز جو ہتھوڑے کے پتھر پر پڑنے سے نکلتی ہے اور ہے اور جو جگر پر پڑنے سے نکلتی ہے اور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On stone the axe sound, totally apart! Listen! That was sound of axe and the heart! \n(Note the great depth of thought in this Persian couplet of Mirza Mazhar Jan Janan of Delhi which Iqbal has quoted here. With this axe Farhad wanted to dig a canal from a mountain of Persia to win his lady love who was a Princess of that land. In that labour (of love) his whole blood of heart and soul is involved.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "صدائے تیشہ الخ یہ شعر مرزاجانجاناں مظہر علیہ الرحمتہ کے مشہور بیاض خریطہ جواہر، میں ہے",
+      "Verse": [],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

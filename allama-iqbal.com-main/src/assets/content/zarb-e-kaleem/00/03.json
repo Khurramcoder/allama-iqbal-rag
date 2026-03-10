@@ -1,0 +1,169 @@
+{
+  "id": "03",
+  "name": "تمہید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "00",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ دیر میں نہ حرم میں خودی کی بیداری \nکہ خاوراں میں ہے قوموں کی روح تریاکی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تریاکی: افیون۔ \nخاوراں : ایشیا کی قومیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fane and shrine the self in slumber deep is sunk, it seems that soul of East an opiate strong has drunk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اگر نہ سہل ہوں تجھ پر زمیں کے ہنگامے \nبری ہے مستی اندیشہ ہائے افلاکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If freaks of fate with smile on lips you can not face, the secrets hid in firmament n're claim to trace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تری نجات غم مرگ سے نہیں ممکن \nکہ تو خودی کو سمجھتا ہے پیکر خاکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your anguish sharp for Death you can not keep at bay, because you deem that Self is merely made of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زمانہ اپنے حوادث چھپا نہیں سکتا \nترا حجاب ہے قلب و نظر کی ناپاکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time can conceal mishaps at all from you, Alas! Your heart and soul are foul and are not true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عطا ہوا خس و خاشاک ایشیا مجھ کو \nکہ میرے شعلے میں ہے سرکشی و بے باکی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The straws and thorns of East to me have been assigned, for flame that burns in me is rash and unconfined.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ترا گناہ ہے اقبال! مجلس آرائی \nاگرچہ تو ہے مثال زمانہ کم پیوند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal, you sin because the throngs you tingle though keep aloof and seldom with them mingle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جو کوکنار کے خوگر تھے، ان غریبوں کو \nتری نوا نے دیا ذوق جذبہ ہائے بلند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men wont to qaff extract from poppies drawn, have courage gained for deeds requiring brawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تڑپ رہے ہیں فضاہائے نیلگوں کے لیے \nوہ پر شکستہ کہ صحن سرا میں تھے خورسند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The birds, who spite of pinions rent were glad, in nests, for azure sky now feel so sad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تری سزا ہے نوائے سحر سے محرومی \nمقام شوق و سرور و نظر سے محرومی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ought to be deprived of songs of morn, deserve to miss delight and feel forlorn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Prologue",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

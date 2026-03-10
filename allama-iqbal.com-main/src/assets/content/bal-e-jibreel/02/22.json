@@ -1,0 +1,131 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ پیام دے گئی ہے مجھے باد صبح گاہی \nکہ خودی کے عارفوں کا ہے مقام پادشاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The morning breeze has whispered to me a secret, that those who know their selfhood are equal to kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تری زندگی اسی سے، تری آبرو اسی سے \nجو رہی خودی تو شاہی، نہ رہی تو روسیاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Selfhood is the essence of thy life and honour, thou shalt rule with it, but without it be in disgrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہ دیا نشان منزل مجھے اے حکیم تو نے \nمجھے کیا گلہ ہو تجھ سے، تو نہ رہ نشیں نہ راہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast not led my way, O man of wisdom! But why, complain? Thou knowest not the way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرے حلقہ سخن میں ابھی زیر تربیت ہیں \nوہ گدا کہ جانتے ہیں رہ و رسم کجکلاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "رسم کجکلاہي: مراد ہے بادشاہوں کے طور طریقے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqirs who know the wont and way of kings are as yet being trained in my literary circle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ معاملے ہیں نازک، جو تری رضا ہو تو کر \nکہ مجھے تو خوش نہ آیا یہ طریق خانقاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy monastic cult is a strait and narrow path, which I like not, but thy freedom I respect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تو ہما کا ہے شکاری، ابھی ابتدا ہے تیری \nنہیں مصلحت سے خالی یہ جہان مرغ و ماہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of inferior prey is meant to sharpen thy claws, thou art an eagle-hunter, but art a novice yet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تو عرب ہو یا عجم ہو، ترا لا الہ الا \nلغت غریب، جب تک ترا دل نہ دے گواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "غريب: بے معنی۔ لغت",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether thou art in the East or West, thy faith is meaningless, unless thy heart affirms it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

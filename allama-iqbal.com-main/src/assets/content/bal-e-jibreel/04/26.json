@@ -1,0 +1,98 @@
+{
+  "id": "26",
+  "name": "محبت",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شہید محبت نہ کافر نہ غازی \nمحبت کی رسمیں نہ ترکی نہ تازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The shafts of love are not confined to clime or race or creed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ کچھ اور شے ہے، محبت نہیں ہے \nسکھاتی ہے جو غزنوی کو ایازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What teaches a king the ways of a slave is not love, but something else!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ جوہر اگر کار فرما نہیں ہے \nتو ہیں علم و حکمت فقط شیشہ بازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge and wisdom are jugglery without the alchemy of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ محتاج سلطاں، نہ مرعوب سلطاں \nمحبت ہے آزادی و بے نیازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is freedom and contentment, not at the mercy of kingly power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مرا فقر بہتر ہے اسکندری سے \nیہ آدم گری ہے، وہ آئینہ سازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My poverty is better than imperial pomp, one maketh man; the other maketh glass.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Love",
+  "credits": "English Translation by: Naim Siddiqui"
+}

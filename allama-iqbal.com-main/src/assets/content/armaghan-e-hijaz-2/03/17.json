@@ -1,0 +1,58 @@
+{
+  "id": "17",
+  "name": "نہنگ با بچۂ خویش",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہنگی بچہ خود را چہ خوش گفت\nبہ دین ما حرام مد کرانہ\nبہ موج ویز و از ساحل بپرہیز\nہمہ دریاست ما را شیانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک مگر مچھ نے اپنے بچہ سے کیا خوب کہا؛ ہمارے مذہب میں ساحل حرام ہے۔\nموجوں سے قوت آزمائی کر اور کنارے سے دور رہ؛ سارا در یا ہی ہمارا گھر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus said to its child a ‘croco’:* with boast; it is banned in our faith to see the coast.\nSo mix up with waves and shun the coast; to us the river bed plays a host.\n* Diminitive of crocodile.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو در دریا نئے او در بر تست\nبہ طوفان در فتادن جوہر تست \n چو یک دم از تلاطم ہا بیاسود\nہمین دریای تو غارتگر تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو دریا میں نہیں بلکہ دریا تیرے پہلو میں ہے؛ اس کے طوفان سے قوّت آزمائی تیری نہاد میں ہے۔ \nاگر تو نے ایک لمحہ کے لیے اس (کی موجوں) کے تلاطم سے گریز اختیار کیا؛ تو یہی دریا تیری ہلاکت کا سبب بن جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In sea you are not it lies but in thee; show thy mettle now and face floods of sea. \nIf you seek from storms a fast retreat; this sea within thee will rob thy heat.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Crocodile To Its Young",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

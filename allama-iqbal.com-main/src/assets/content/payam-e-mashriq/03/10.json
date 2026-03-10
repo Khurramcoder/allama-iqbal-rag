@@ -1,0 +1,97 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوای فرودین در گلستان میخانہ میسازد\nسبو از غنچہ می ریزد ز گل پیمانہ می سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breeze of spring makes of the garden a wine-tavern. It casts buds into jar-shapes, and makes of flowers cups.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "محبت چون تمام افتد رقابت از میان خیزد\nبہ طوف شعلہ ئی پروانہ با پروانہ می سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When love attains its climax, then no rivalry remains. In flitting round a candle; moths join hands with one another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ ساز زندگی سوزی بہ سوز زندگی سازے\nچہ بیدردانہ می سوزد چہ بیتابانہ می سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life builds, but also burns; and what it burns it builds again. How ruthlessly it burns! How eagerly it builds!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تنش از سایۂ بال تذروی لرزہ می گیرد\nچو شاہین زادۂ اندر قفس با دانہ می سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An eagle in a cage, when he accepts food offered, becomes so timid that he trembles on seeing shadows of quails’ wings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بگو اقبال را اے باغبان رخت از چمن بندد\nکہ این جادو نوا ما را ز گل بیگانہ می سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O gardener, tell Iqbal to be off from the garden, for this spellbinding singer makes men forget the roses.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

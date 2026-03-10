@@ -1,0 +1,113 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیار بادہ کہ گردون بکام ما گردید\nمثال غنچہ نواہا ز شاخسار دمید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fetch wine, for the heavens have turned in our favour. Songs are germinating like buds from the branches.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خورم بیاد تنک نوشی امام حرم\nکہ جز بہ صحبت یاران رازدان نچشید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I drink in remembrance of that holy person who would not drink wine but with his boon companions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فزون قبیلۂ آن پختہ کار باد کہ گفت\nچراغ راہ حیات است جلوۂ امید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May the tribe increase of that sagacious man who said that the light of hope is a torch on life’s path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نوا ز حوصلۂ دوستان بلند تر است\nغزل سرا شدم آنجا کہ ہیچکس نشنید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What I sing is too high for my likely listeners. So I sing where no one listens to my singing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عیار معرفت مشتری است جنس سخن\nخوشم از آنکہ متاع مرا کسی نخرید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Verse is such a thing as tests the buyer’s judgment. I am glad that no one buys my poetry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز شعر دلکش اقبال میتوان در یافت\nکہ درس فلسفہ میداد و عاشقی ورزید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his pleasing verses it is clear that Iqbal, teacher of philosophy, turned to Love’s vocation.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

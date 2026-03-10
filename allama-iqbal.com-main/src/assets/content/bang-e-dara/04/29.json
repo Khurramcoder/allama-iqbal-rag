@@ -1,0 +1,82 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مسجد تو بنا دی شب بھر میں ایماں کی حرارت والوں نے \nمن اپنا پرانا پاپی ہے، برسوں میں نمازی بن نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the mosque was built overnight by the believers’ our heart being old sinner for years devout could not be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا خوب امیر فیصل کو سنوسی نے پیغام دیا \nتو نام و نسب کا حجازی ہے پر دل کا حجازی بن نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a beautiful message did Sanosi give to King Faisal: By descent you Hijazi are, but in heart Hijazi could no be.\n(Sanosi: A member of the Brotherhood founded in 1837 in North Africa by Muéammad Ibn ‘Ali al-Sanosi (d. 1859), an Algerian Muslim leader.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تر آنکھیں تو ہو جاتی ہیں، پر کیا لذت اس رونے میں \nجب خون جگر کی آمیزش سے اشک پیازی بن نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though eyes become wet there is no pleasure is in this weeping; if by mixture of affliction’s blood tears pink could not be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اقبال بڑا اپدیشک ہے من باتوں میں موہ لیتا ہے \nگفتارکا یہ غازی تو بنا،کردار کا غازی بن نہ سکا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپديشک: اچھا واعظ۔ اچھا مشیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal is a good advisor, fascinates the heart in moments; he did become hero in talk, but one in deeds he could not be.\nThis marks the end of poetic works chosen from Bang-e-Dara, wherein Iqbal focused more in expressing his grief and pain, with only passing remarks about causes and remedies. This changed markedly with the passage of time.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

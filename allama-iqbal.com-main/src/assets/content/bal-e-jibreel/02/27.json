@@ -1,0 +1,97 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو اے اسیر مکاں! لامکاں سے دور نہیں \nوہ جلوہ گاہ ترے خاک داں سے دور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In bondage of space, thou art not far from heaven; the empyrean is not distant from thy earthly home.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ مرغزار کہ بیم خزاں نہیں جس میں \nغمیں نہ ہو کہ ترے آشیاں سے دور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That rose-embowered garden, immune from winter’s frost; is closer than it appears to thy grief-tricken soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ ہے خلاصہ علم قلندری کہ حیات \nخدنگ جستہ ہے لیکن کماں سے دور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What the ways of the ascetic teach – is that all life! Is like a flying arrow, not far from the bow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فضا تری مہ و پرویں سے ہے ذرا آگے \nقدم اٹھا، یہ مقام آسماں سے دور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy reach is far above the spheres of the moon and stars; if thou but venturest forth, the heavens are not too high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہے نہ راہ نما سے کہ چھوڑ دے مجھ کو \nیہ بات راہرو نکتہ داں سے دور نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the tortuous path of love, the traveller who knows may ask his guide to leave him, to seek a lonely trail.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

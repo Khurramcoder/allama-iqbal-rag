@@ -1,0 +1,119 @@
+{
+  "id": "54",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بحرفی می توان گفتن تمنای جہانی را\nمن از ذوق حضوری طول دادم داستانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "سارے جہان کی تمنا ایک حرف میں ادا کی جا سکتی ہے؛ مگر میں نے اپنی داستاں کو اس لیے طول دیا ہے کہ آپ کی حضوری سے زیادہ دیر تک لطف اندوز ہوتا رہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A single word sufficeth well the passion of a world to tell: The joy to view thee night to me moved me to this long history.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز مشتاقان اگر تاب سخن بردی نمیدانی\nمحبت می کند گویا نگاہ بی زبانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے اپنے مشتاقوں سے قوت گویائی صلب کر لی؛ مگر آپ کو شاید معلوم نہیں کہ محبت کی نگاہ بے زبان کو زبان عطا کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take Thou the faculty of speech from such as yearn Thy heart to reach, knowest Thou not, that love conveys eloquence in the tongueless gaze?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کجا نوری کہ غیر از قاصدی چیزی نمیداند\nکجا خاکی کہ در آغوش دارد آسمانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہاں نوری جو پیغام رسائی کے سوا کچھ جانتے ہی نہیں؛ اور کہاں خاکی جو آسمان کو اپنی آغوش میں لے لیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To sons of light naught else is known except the messenger alone; the son of earth, in rank so base, high heaven holds in his embrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگر یک ذرہ کم گردد ز انگیز وجود من\nباین قیمت نمی گیرم حیات جاودانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میرے وجود کی ترکیب میں سے ایک ذرّہ بھی کم ہو جائے ؛ تو میں اس قیمت پر حیات جاوداں لینے کے لیے بھی تیار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If but one atom I must give of this the fabric that I live, too great a price were that, for me to purchase immortality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "من اے دریای بی پایان بموج تو در افتادم\nنہ گوھر آرزو دارم نہ می جویم کرانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دریائے بے پایاں! میں تیری موجوں سے کشمکش کا خواہاں ہوں : نہ مجھے گوہر کی طلب ہے نہ ساحل کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Great ocean, infinitely vast, into Thy wave myself I cast; yet not ambitious to obtain the pearl, or that far coast to gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از آن معنی کہ چون شبنم بجان من فرو ریزی\nجہانی تازہ پیدا کردہ ام عرض فغانی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ معنی جو آپ نے میرے قلب پر شبنم کی مانند نازل فرمائے ہیں ان کے فیض سے میں نے عرض فغاں کی نئی دنیا پیدا کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Into my soul this meaning true Thou pourest like the summer dew, whereof with sorrow and with sighs a new world dawns upon mine eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

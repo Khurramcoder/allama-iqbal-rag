@@ -1,0 +1,122 @@
+{
+  "id": "23",
+  "name": "محاورۂ ما بین خدا و انسان",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "خدا",
+      "name-en": "God",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان را ز یک آب و گل آفریدم\nتو ایران و تاتار و زنگ آفریدی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I made the whole world with the same water and clay, but you created Iran, Tartary, and Ethiopia.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من از خال پولاد ناب آفریدم\nتو شمشیر و تیر و تفنگ آفریدی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the earth I brought forth pure iron, but you made from that iron sword, arrow, and gun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تبر آفریدی نھال چمن را\nقفس ساختی طایر نغمہ زن را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You made an axe for the tree in the garden, and a cage for the songbird.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "انسان",
+      "name-en": "Man",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو شب آفریدی چراغ آفریدم\nسفال آفریدی ایاغ آفریدم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You made the night, I made the lamp; you made the earthen bowl, I made the goblet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بیابان و کہسار و راغ آفریدی\nخیابان و گلزار و باغ آفریدم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You made deserts, mountains and valleys; I made gardens, meadows and parks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "من آنم کہ از سنگ آئینہ سازم\nمن آنم کہ از زہر نوشینہ سازم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am one who makes a mirror out of stone, and turns poison into sweet, delicious drink.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Dialogue Between God And Man",
+  "credits": "English Translation by: Mustansir Mir"
+}

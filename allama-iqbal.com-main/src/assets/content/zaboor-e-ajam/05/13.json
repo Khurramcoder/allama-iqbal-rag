@@ -1,0 +1,545 @@
+{
+  "id": "13",
+  "name": "بندگی نامہ",
+  "name-en": "The Book of Servitude",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "بسم اﷲ الرحمن الرحیم",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گفت با یزدان مہ گیتی فروز\nتاب من شب را کند مانند روز",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند جو جہان کو روشن کرتا ہے ، اس نے اللہ تعالے کی جناب میں عرض کیا۔ میری چاندنی رات کو دن بنا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Moon that illuminates earth submitted to Allah; my light turns the night into day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یاد ایامی کہ بی لیل و نہار\nخفتہ بودم در ضمیر روزگار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بھی کیا بے لیل و نہار وقت تھا، جب میں زمانے کے ضمیر میں سویا ہوا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I remember the time when there was no night or day; I was deep asleep in the conscience of time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کوکبے اندر سواد من نبود\nگردشے اندر نہاد من نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے جلو میں کوئ ستارہ نہ تھا، مجھے ابھی گردش عطا نہیں ہوئ تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There was no star in my attendence; revolutionary movement was not in my nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نے ز نورم دشت و در آئینہ پوش\nنے بہ دریا از جمال من خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میرے نور سے دشت ودر آئینہ پوش تھے اور نہ میرے جمال سے سمندر میں جوار بھاٹا اٹھتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When desert and human abode was not lit by my light; oceans had no restlessness (tides) because of (the attraction of my megnatic) beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ زین نیرنگ و افسون وجود\nواے زین تابانی و ذوق نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اپنی اس نیرنگی اور طلسم وجود پر افسوس ہے، میں اپنی اس تابانی اور اظہار ذات پر سخت متاسف ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! This was changed by the magic spell of being; I regret my brightness and urge for manifestation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تافتن از آفتاب آموختم\nخاکدانی مردہ ئی افروختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آفتاب سے چمکنا سیکھا ، اس مردہ جہان کو (اپنی چاندنی سے) چمکا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I learnt shining from the Sun; and lightened the dead Earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خاکدانی با فروغ و بی فراغ\nچہرۂ او از غلامی داغ داغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خاکدان روشن تو ہے مگر اس میں آسودگی نہیں، کیونکہ اس کا چہرہ غلامی سے داغدار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth is lit (by me) but it has no joy or solace; its face has pimples of slavery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آدم او صورت ماہی بہ شست\nآدمی یزدان کشی آدم پرست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں ہر شخص کے گلے میں مچھلی کی مانند کانٹا پھنسا ہوا ہے، یہاں کے لوگ خدا کو بھول چکے ہیں اور آدمیوں کی پرستش کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everyone on earth has a hook stuck in his throat like a fish; mankind has forgotten God and worships human beings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تا اسیر آب و گل کردی مرا\nاز طواف او خجل کردی مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے مجھے آب وگل کا اسیر کر کے ، اس زمین کے طواف سے شرمسار کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By bounding me to soil and water, made me ashamed of revolving around it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "این جہان از نور جان آگاہ نیست\nاین جہان شایان مہر و ماہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان روح کے نور سے آگاہ نہیں، اس لیے سورج اور چاند کی شان کے شایاں نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world is not aware of the light of the soul; it does not deserve Sun and Moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "در فضاے نیلگون او را بہل\nرشتۂ ما نوریان از وے گسل",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسے نیلگوں فضا میں دکھیل دیں، اور ہم نوریوں کا رشتہ اس سے منقطع کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Push this Earth into blue sky; cut its link with celestial beings like us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یا مرا از خدمت او واگذار\nیا ز خاکش آدم دیگر بیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا مجھے اس کی خدمت سے فارغ کر دیں، اور یا اس جہان کی خاک سے نیا آدم پیدا کریں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either relieve me (of duty) of serving it; or create a new Adam out of its soil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "چشم بیدارم کبود و کور بہ\nاے خدا این خاکدان بی نور بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری بیدار آنکھ اندھی اور بے کور ہی بہتر ہے ، اس خاکدان کو (میری) روشنی کے بغیر ہی رہنے دیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eye was better blind and lightless; leave this earthly abode without my light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "از غلامی دل بمیرد در بدن\nاز غلامی روح گردد بار تن",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں بدن کے اندر دل مر جاتا ہے، غلامی میں روح بدن کے لیے بوجھ بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In servitude heart dies inside the body; the soul becomes burden for the body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "از غلامی ضعف پیری در شباب\nاز غلامی شیر غاب افکندہ ناب",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی جوان کو بوڑھوں کی مانند کمزور کر دیتی ہے، غلامی میں شیر بیشہ کے دانت جھڑ جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slavery renders the young weak like the old; in slavery the (fiercefully young) lion sheds his teeth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "از غلامی بزم ملت فرد فرد\nاین و آن با این و آن اندر نبرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں ملّت ٹکڑے ٹکڑے ہو جاتی ہے، ایک گروہ دوسرے گروہ سے لڑتا رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery a nation is fragmented; and its individuals fight with each other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آن یکی اندر سجود این در قیام\nکاروبارش چون صلوة بی امام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک سجدے میں ہوتا ہے تو دوسرا قیام میں ، ملّت کا کام ایسے ہوتا ہے، جیسے امام کے بغیر نماز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One group prostrates and the other stands up; life is like praying without prayer leader.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "در فتد ھر فرد با فردی دگر\nہر زمان ہر فرد را دردی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر شخص دوسرے سے الجھتا ہے، ہر شخص نئی راگنی الاپتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everyone quarrels with other; everyone complains of some problem all the time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "از غلامی مرد حق زنار بند\nاز غلامی گوہرش ناارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں اللہ تعالے کا بندہ بھی (بت پرستی کا) زنّار پہن لیتا ہے، غلام کی قیمتی متاع کو بھی کوئ نہیں پوچھتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery the man of God becomes idol worshiper; slavery turns his precious potentialities worthless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شاخ او بی مہرگان عریان ز برگ\nنیست اندر جان او جز بیم مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے درخت کی شاخ بغیر خزاں کے پتّوں سے عریاں ہوتی ہے، اور اسے ہر دم موت کا خوف لگا رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Branches of his tree shed leaves without (autumn); he has no life as he is afraid of death every moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "کور ذوق و نیش را دانستہ نوش\nمردہ ئی بی مرگ و نعش خود بدوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اتنا کور ذوق ہو جاتا ہے کہ زہر کو شہد سمجھتا ہے، بغیر موت کے مر جاتا ہے اور اپنی نعش ابپنے کندھے پر اٹھاے پھرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He becomes so clueless that he takes poison as honey; dead without death and carrying his dead body on his shoulders.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "آبروے زندگی در باختہ\nچون خران با کاہ و جو در ساختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ زندگی کی آبرو گنوا بیٹھتا ہے، اور گدھوں کی طرح گھاس اور جو پر مطمئن ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has lost the dignity of life; like a donkey he is satisfied with hay and barley.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ممکنش بنگر محال او نگر\nرفت و بود ماہ و سال او نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ممکن اور محال دیکھ ، اس کی حرکت اور زمانہ ملاحظہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Observe his possible and impossible; watch his sense of time (and space).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "روزھا در ماتم یکدیگرند\nدر خرام از ریگ ساعت کمترند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دن ایک دوسرے کے ماتم میں ہیں، اور اس کے دنوں کی رفتار ریگ ساعت سے بھی سست ہے۔ (ساعت ریگ وہ آلہ تھا جس سے پرانے وقتوں کا شمار کیا جاتا تھا)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His days mourn each other (in state of perpetual mourning); speed of his movement (endeavour) is slower than sand-clock.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "شورہ بوم از نیش کژدم خار خار\nمور او اژدر گز و عقرب شکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "شور زمین جو بچھّو کے ڈنک سے خار خار ہو چکی ہو، جس کی چیونٹی ، اژ دھا کو کاٹتی اور بچھّو کا شکار کرتی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soil of which has turned like thorns (brackish) because of stinging by scorpions; where ants hunt dragons and prey scorpions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "صرصر او آتش دوزخ نژاد\nزورق ابلیس را باد مراد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی باد صرصر میں آتش دوزخ کی گرمی ہو، جو ابلیس کی کشتی کے لیے باد موافق ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its wind has heat of Hell; that acts as tail wind only for Devil’s barge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "آتشے اندر ہوا غلطیدہ ئی\nشعلہ ئی در شعلہ ئی پیچیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی ہوا آگ برساتی ہو اور اس کے اندر شعلے بھڑکتے ہوں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is fire in its swirling wind; flames flare up, intermingle and multiply.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "آتشے از دود پیچان تلخ پوش\nآتشے تندر غو و دریا خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کی آگ اٹھتے ہوے دھوغیں میں اور تلخی پیدا کر رہی ہو، جس کی آگ میں بجلی کی کڑک اور سمندر کا جوش و خروش ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fire that has grown bitter due to its swirling smoke, the fire which roars like thunder and rages like (rough) sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "در کنارش مارہا اندر ستیز\nمارہا با کفچہ ہای زھر ریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے کنارے پر زہریلے پھنوں والے سانپ آپس میں لڑ رہے ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On its banks poisonous snakes fight each other like cobras with their hoods full of poison.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "شعلہ اش گیرندہ چون کلب عقور\nہولناک و زندہ سوز و مردہ نور",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کا شعلہ ہولناک، زندہ سوز ، اوپر سے بند اور کاٹنے والے کتّے کی طرح لپٹ جانے والا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its flames pounce like a dog that bites; extremely frightening, burn them alive and extinguish the light of their life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "در چنین دشت بلا صد روزگار\nخوشتر از محکومی یک دم شمار",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے دشت بلا میں کئی صدیاں گزارنا ، غلامی کی ایک گھڑی سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spending centuries in such horrifying desert is better than a moment of slavery.\nIn these introductory lines (verses) Allamah has enumerated a long list of slavery-related curses that exist in this world; as observed and described by moon; the nearest celestial body to the planet Earth. The beauty of this description lies in the last of the thirty-one verses wherein he says that living in such horrifying world for centuries is better than a moment spent in slavery۔ \nIt is because of the fact that slavery is one-word for a long list of afflictions to which human beings could be subjected, e.g. inequalities, injustice, discrimination, exploitation, cruelties, brutalities and so on. The ugliest aspect of this is that all these happen to human beings at the hands of fellow human beings.\nThis is two-way denial of human dignity. On one hand those human beings who enslave others try to trespass the exclusive domain of the God, and on the other, those who submit to servitude (slavery) are guilty of not believing in the capabilities bestowed upon the best of the creations of the Creator.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

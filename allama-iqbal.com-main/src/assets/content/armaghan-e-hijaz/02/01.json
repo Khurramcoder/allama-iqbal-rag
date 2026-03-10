@@ -1,0 +1,32 @@
+{
+  "id": "01",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مری شاخ امل کا ہے ثمر کیا\nتری تقدیر کی مجھ کو خبر کیا\nکلی گل کی ہے محتاج کشود آج\nنسیم صبح فردا پر نظر کیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What fruits I will get of my cravings great? How do I know the end of thy fate? The flower buds need a blooming today, who can now wait for breeze of next day?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

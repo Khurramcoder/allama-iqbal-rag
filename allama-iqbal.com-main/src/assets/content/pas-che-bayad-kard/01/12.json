@@ -1,0 +1,681 @@
+{
+  "id": "12",
+  "name": "حرفی چند با امت عربیہ",
+  "name-en": "A Few Words to the Arab Nation",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے در و دشت تو باقی تا ابد\nنعرہ ’’لا قیصر و کسری‘‘ کہ زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عرب قوم سے چند باتیں\nاے وہ قوم جس کے در و دشت ہمیشہ کے لیے باقی ہیں، 'قیصر و کسری ختم ہونے ' کا نعرہ کس نے لگایا تھا ؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May your land prosper till eternity! Who raised the cry: no Caesars and Chosroes?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در جہان نزد و دور و دیر و زود\nاولین خوانندۂ قرآن کہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمان و مکان کی اس دنیا میں سب سے پہلے قرآن پاک کی تلاوت کرنے والے کون تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world of near and far, fast and slow, who was the first to read the Qur’an?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رمز الا اﷲ کہ را آموختند\nاین چراغ اول کجا افروختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "'لااللہ ' کی رمز کسے سکھائی گئی تھی؟ یہ چراغ پہلے پہل کہاں روشن کیا گیا تھا ؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who was taught the secret of la ilah? Where was this lamp (of knowledge) lighted?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "علم و حکمت ریزہ ئی از خوان کیست؟\nآیہ ’’فاصبحتم‘‘ اندر شأن کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم و حکمت کس کے دسترخوان کا ریزہ ہے؟ یہ آیت کہ 'تم ان کی نعمت سے بھائی بھائی بن گئے ' کس کی شان میں نازل ہوئی؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From whom did the world gain knowledge? For whom is the (Qur’anic) verse revealed: ‘You became? \n(Iqbal says that modern knowledge of sciences and arts is the legacy which Europe received from the Muslim world. ‘You became’. Reference is to the Qur’anic verse, 3-102: And remember Allah’s favour to you when you were enemies; then He united your hearts, so by His favour you became brethren.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از دم سیراب آن امی لقب\nلالہ رست از ریگ صحرای عرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس امّی لقب (صلعم) کی زندگی بخش پھونک سے صحراۓ عرب کس اندر سے گل لالہ پیدا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was due to the bounty of the one called Ummi; that tulips grew out of the sandy desert of Arabia.\n(Ummi: Usually it is translated as one who cannot read and write. According to some, it is the Arabic equivalent of the word ‘Gentile’ which the Israelites used to designate all non-Jews. ‘Talip’ lalah: Iqbal often employs this word, particularly lalah-i sehra, to denote Muslim Community.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حریت پروردۂ آغوش اوست\nیعنی امروز امم از دوش اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی آغوش میں آزادی نے پرورش پائی، امّتوں کا آج آنحضرت (صلعم) کے دور گذشتہ کا مرہون منت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Freedom (as a concept) developed under his care, that is, the ‘today’ of the peoples is from his ‘yesterday’.\n(The concept of freedom (hurriyat) that is looked upon as a contribution of Western thought was in reality given a concrete shape at the hands of the Prophet (S.A.W.). In Asrar-o Rumuz, Allamah says: Freedom was born out of his holy heart; his vineyard flowed with that delightful wine. The world’s new age, its hundred lamps ablaze; opened its eyes upon his loving breast.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "او دلی در پیکر آدم نہاد\nاو نقاب از طلعت آدم گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے آدم کے جسد خاکی میں دل رکھا۔ آپ (صلعم) نے آدم کے چراغ روشن سے نقاب اٹھائی",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He put a ‘heart’ into the body of Adam and removed the veil from his face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہر خداوند کہن را او شکست\nہر کہن شاخ از نم او غنچہ بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے ہر پرانے خدا کا (بت) توڑ ڈالا۔ آپ (صلعم) کے نم سے ہر پرانی شاخ میں غنچے آ گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He broke all the ancient gods; every old twig, through his breath, grew a flower.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گرمی ہنگامۂ بدر و حنین\nحیدر و صدیق و فاروق و حسین",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور (صلعم) ہی کے دم قدم سے) بدر و حنین کا ہنگامہ ظہور میں آیا ۔ (آپ (صلعم) ہی کی تربیت سے) حیدر، صدیق ، فاروق اور حسین (رضی اللہ عنہم) جیسی شخصیتیں پیدا ہوئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The excitement of the battles of Badr and Hunain,\tHaidar, Siddiq, Faruq and Husain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "سطوت بانگ صلوت اندر نبرد\nقرأت ’’الصافات‘‘ اندر نبرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنگ میں آپ (صلعم) کا انداز تکبیر صلوت کی سطوت اور سورہ الصفّات (جس میں نمازیوں کی صف بندی اور یلغار کا ڈکر ہے) کی قراء ت کا مظہر تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The grandeur of the call to prayer, the recitation of the Qur’anic Surat al-Saffat, in the battlefield.\n(The Surat al-Saffat (27): ‘Those raging in ranks’, refers to the position of the believers while saying prayers during battle.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تیغ ایوبے نگاہ بایزید\nگنجہای ھر دو عالم را کلید",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیغ ایوبی ہو یا نگاہ بایزید جو دونوں جہانوں کی کنجیاں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sword of Ayyubi and the look of Bayazid, the keys to the treasures of both the worlds.\n(Ayyubi, i.e. Salahuddin Ayyubi, the hero of the Crusades. Iqbal sometimes employs his name as a model Muslim ruler. Bayazid refers to the famous sufi, Bayazid Bistami It is the basic contention of Iqbal that the sword of Ayyubi and spiritual insight of Bayazid should be present in a single person. The idea of bifurcation of State and Church is foreign to the spirit of Islam. The term Faqr, in Iqbal, represents this integrative characteristic.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "عقل و دل را مستی از یک جام می\nاختلاط ذکر و فکر روم و ری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک جام مے سے عقل و دل دونوں کو سرمست کر دینا، روم و رے کے ذکر و فکر کا اختلاط۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason and heart intoxicated with one cup of wine, a mixture of dhikr and fikr of Rum and Rayy.\n(Rum stands for Maulana Jalaluddin Rumi who represents love and Rayy is the name of a city which is now situated in the suburbs of Tehran, the birthplace of Fakhruddin Razi, the great theologian, Qur’an-commentator and philosopher. He stands for reason here.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "علم و حکمت شرع و دین ، نظم امور\nاندرون سینہ دلہا ناصبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم و حکمت، شرع و دین، معاملات کا انتظام، سینوں کے اندر دلوں کی ناصبوری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge and science, Shari’ah and religion, administration of State; ever-dissatisfied hearts within the breast.\n(These lines enunciate Iqbal’s basic position with regard to the relative value of reason and intuition. An individual must employ both; whenever one of these is ignored; most often it leads to a warped personality. In Javid Namah, he says: ‘When love is companioned by intelligence; it has the power to design another world. Then rise and draw design of a new world, mingle love with intelligence’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "حسن عالم سوز الحمرا و تاج\nآنکہ از قدوسیان گیرد خراج",
+              "lang": "Original"
+            },
+            {
+              "_content": "الحمرا و تاج کا حسن عالم سوز جو فرشتوں سے خراج (تحسین) وصول کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Al-Hamra and the Taj, of world-consuming beauty, that win tributes from the celestial beings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "این ہمہ یک لحظہ از اوقات اوست\nیک تجلی از تجلیات اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب کچھ حضور اکرم (صلعم) کے اوقات میں سے ایک لمحہ اور آپ (صلعم) کی تجلّیات میں سے ایک تجلّی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All these are moments of his time, a single lustre of his manifold manifestations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ظاہرش این جلوہ ہای دلفروز\nباطنش از عارفان پنھان ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دلفروز جلوے آپ (صلعم) کی عظمت کا ظاہری پہلو ہیں۔ آپ (صلعم) کی شخصیّت عظیمہ کا باطن ابھی تک عارفوں سے پنہاں ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All these heart-pleasing phenomena are his outward aspects; his inward aspect is still hidden from the gnostics.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "’’حمد بیحد مر رسول پاک را\nآنکہ ایمان داد مشت خاک را‘‘",
+              "lang": "Original"
+            },
+            {
+              "_content": "جناب رسول پاک (صلعم) بے حد تعریف کے مستحق ہیں، کیونکہ آپ (صلعم) کی وجہ سے مشت خاک (انسان ) کو (دولت) ایمان نصیب ہوئی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Limitless praise be to the Holy Prophet (S.A.W.), who gave to this handful of dust true belief in God.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "حق ترا بران تر از شمشیر کرد\nساربان را راکب تقدیر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے قوم عرب اللہ تعالے نے تجھے شمشیر برّاں بنایا، تجھ جیسے ساربان کو تقدیر پر سوار کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God made you sharper than the sword: He made the camel-driver the rider of destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "بانگ تکبیر و صلوت و حرب و ضرب\nاندر آن غوغا گشاد شرق و غرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری بانگ تکبیر، تیری نماز اور تیری حرب و ضرب کے غوغا سے شرق و غرب کے معاملات سلجھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your takbir, your prayer and your war: on these depend the fate of East and West. \n(This in a nutshell is Iqbal’s advice to the Muslim of today, that he should aspire to seek the welfare of man, both material and spiritual, that be should endeavour to Eve his mundane life fully oriented to the spiritual reality. He should not shirk plunging into the hazards of war, though he must be attuned all the time to the Great Infinite.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ایخوش آن مجذوبی و دل بردگے\nآہ زین دلگیری و افسردگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا مبارک تھی تمہاری وہ مجذوبی اور دلبری اور کتنی افسوسناک ہے تمہاری موجودہ دلگیری اور افسردگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How good this dedication and selfless devotion. Alas! For this grievous affliction and melancholy!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "کار خود را امتان بردند پیش\nتو ندانی قیمت صحرای خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوموں نے اپنے کام کو آگے بڑھایا مگر تو اپنے صحرا کی قیمت سے بے خبر رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nations of the world are promoting their interests; you are unaware of the value of your desert. \n(Value of the desert: Iqbal is referring to the strategic importance and the rich mineral resources of the Arabian deserts.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "امتی بودی امم گردیدہ ئی\nبزم خود را خود ز ہم پاشیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تم ایک امّت تھے مگر اب مختلف قوموں میں منقسم ہو گئے، تم نے اپنی بزم کو خود ہی منتشر کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You were a single nation, you have become now several nations, you have broken up your society yourself.\t\n(Here Iqbal refers to the dirty game of the Colonial Powers, after he First Great War (1914.18), to divide the Arab land into small geographical territories and fostering narrow nationalism, which, as Iqbal states elsewhere, was the greatest danger to the unity and integrity of the Muslim world.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ہر کہ از بند خودی وارست ، مرد\nہر کہ با بیگانگان پیوست ، مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو اپنایت کا بند توڑ کر غیروں سے مل گیا وہ موت سے ہمکنار ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who loosened himself from the bonds of khudi, and merged himself in others, met certain death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "آنچہ تو با خویش کردی کس نکرد\nروح پاک مصطفی آمد بدرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ تو نے اپنے آپ سے کیا ہے کسی نے نہیں کیا۔ تمہارے اس طرز عمل سے روح پاک مصطفے (صلعم) تکلیف میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nobody else ever did what you have done to yourself. The soul of Mustafa (S.A.W.) was grieved by it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "اے ز افسون فرنگی بے خبر\nفتنہ ہا در آستین او نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو فرنگیوں کے سحر سے بے خبر ہے ۔ اس کی آستیں کے اندر جو فتنے پوشیدہ ہیں انہیں دیکھنے کی کوشش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who are unaware of the Frankish magic, see the mischief hidden in his sleeves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "از فریب او اگر خواہی امان\nاشترانش را ز حوض خود بران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اس کے فریب سے بچنا چاہتا ہے تو اس کے اونٹوں کو اپنے حوض سے بھگا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you wish to escape his deceits, turn away his camels from your ponds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "حکمتش ہر قوم را بیچارہ کرد\nوحدت اعرابیان صد پارہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ڈپلومیسی نے ہر قوم کو لاچار اور عربوں کو ٹکڑوں میں منقسم کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His diplomacy has weakened every nation and broken the unity of the Arabs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "تا عرب در حلقۂ دامش فتاد\nآسمان یک دم امان او را نداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب سے عرب اس کے حلقہ دام میں گرفتار ہؤے ہیں، آسمان نے ان کو ایک لمحہ کے لیے بھی چین سے بیٹھنے نہیں دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ever since the Arabs fell into its snares, not for one moment have they enjoyed peace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "عصر خود را بنگر اے صاحب نظر\nدر بدن باز آفرین روح عمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صاحب نظر اپنے دور کو سمجھ اور اپنے بدن کے اندر دوبارہ حضرت فاروق (رحمتہ ) کی روح پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man of insight, look at your times, recreate in your body the soul of Umar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "قوت از جمعیت دین مبین\nدین ہمہ عزم است و اخلاص و یقین",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین مبین کو جمیّت ہی سے قوّت حاصل ہوتی ہے اور دین (سارے کا سارا ) عزم و اخلاص اور یقین پر مبنی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Power lies in the unity of the true religion; religion is strong will, sincerity and faith.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "تا ضمیرش رازدان فطرت است\nمرد صحرا پاسبان فطرت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ مرد صحرا کا ضمیر فطرت کا رازدان ہے اس لیے وہ فطرت کا پاسبان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As his heart knows the secrets of Nature, the man of the desert is Nature’s protector.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "سادہ و طبعش عیار زشت و خوب\nاز طلوعش صد ہزار انجم غروب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ وہ سادہ مزاج ہے مگر اس کی طبع نیکی اور بدی کی کسوٹی ہے، (آفتاب کی مانند) اس کے طلوع ہونے سے ہزاروں انجم غروب ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is simple, and his nature is the touchstone of right and wrong, his rise means setting of a hundred thousand stars. \n(‘A hundred thousand stars’ refers to the diverse systems of beliefs and attitudes current in the world, all of which will be superseded when true religion makes its appearance.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "بگذر از دشت و در و کوہ و دمن\nخیمہ را اندر وجود خویش زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "صحرا، آبادی، پہاڑ اور وادی کو چھوڑ وجود کے اندر خیمہ زن ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave aside these deserts, mountains and valleys; pitch your tent in your own being. \n(In the development of khudi this is the first stage, where the individual is expected to detach himself completely from the outside world and concentrate on his own self. In Zabur-i ‘Ajam, Allamah says: ‘Reach within yourself and retire from this noisy world, throw yourself into the inner recesses of your heart’.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "طبع از باد بیابان کردہ تیز\nناقہ را سر دہ بہ میدان ستیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی طبع کو باد بیاباں سے تیز کر کے اپنی ناقہ کو میدان جنگ میں ڈال دے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whetting your nature on the desert wind set your dromedary onto the battlefield.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "عصر حاضر زادۂ ایام تست\nمستی او از می گلفام تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دور جدید تیرے ایّام (گذشتہ) سے پیدا ہوا ہے، اس کے (علوم جدید) کی مست مے سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The modern age was born out of your achievements; its intoxication is the result of your rose-red wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "شارح اسرار او تو بودہ ئی\nاولین معمار او تو بودہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے اسرار کی شرع کرنے والا تو تھا ۔ تو نے پہلے پہل ان علوم کی عمارت تعمیر کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have been the expositor of its secrets, and the first builder of its edifice.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "تا بہ فرزندی گرفت او را فرنگ\nشاہدی گردید بی ناموس و ننگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن جب ان علوم کی محبوبہ کو فرنگ نے اپنی فرزندی میں لیا تو وہ بے نموس و ننگ ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since the West adopted it as its own, it has grown into a coquette, with no sense of honour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "گرچہ شیرین است و نوشین است او\nکج خرام و شوخ و بی دین است او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اب وہ شیریں و خوشنما ہو گئی ہے مگر اس میں کج خرامی ، شوخی اور بے دینی بھی آ گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although she is sweet and pleasant, yet she is crooked, saucy and irreligious.\t \n(Iqbal thinks that sciences and arts in the hands of secular West became destructive weapons for the annihilation of this earthly planet. There is nothing inherently evil in them, only they are cut off from their natural affinity to the spiritual values of life.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "مرد صحرا ! پختہ تر کن خام را\nبر عیار خود بزن ایام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مرد صحرا اس خام (مغربی علم) کو پختہ تر کر اور موجودہ دور کو اپنے معیار کے مطابق لا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man of the desert, make what is unripe mature and refashion the world according to your touchstone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

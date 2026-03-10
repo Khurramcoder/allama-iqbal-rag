@@ -1,0 +1,86 @@
+{
+  "id": "51",
+  "name": "تہذیب",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "انسان کہ رخ ز غازۂ تہذیب بر فروخت\nخاک سیاہ خویش چو آئینہ وانمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان ، جس نے غازہء تہذیب سے اپنا چہرہ چمکا رکھا ہے، (اور اس طرح ) اپنی سیاہ خاک کو آئینہ بنا رکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man, who has brightened up his face with civilization’s rouge, displays the dark dust which is he as if it were a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پوشید پنجہ را تہ دستانہ حریر\nافسونی قلم شد و تیغ از کمر گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے اپنا ہاتھ ریشمی دستانے میں چھپا رکھا ہے، جس نے کمر سے تلوار کھول دی ہے اور (بظاہر) قلم سے مشہور نظر آتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He hides his iron fist under a velvet glove. Charmed by the pen, he has laid off the sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این بوالہوس صنم کدۂ صلح عام ساخت\nرقصید گرد او بہ نواہای چنگ و عود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بوالہوس نے صلحء عام کا بت کدہ بنا رکھا ہے، ا ور چنگ و رباب کی آواز پر اس کے گرد رقص کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This slave of lust once built an idol-temple of world peace, and danced around it to the music of the pipes of peace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دیدم چو جنگ پردہ ناموس او درید\nجز یسفک الدما و \"خصیم مبین\" نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب جنگ نے اس کا پردہء ناموس چاک کیا تو میں نے دیکھا ، کہ وہ 'صرف خون بہانے والا اور جھگڑالو' تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But when war tore the veil off its pretence, it stood exposed as man’s blood-thirsty enemy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Civilization",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "29",
+  "name": "سرود حلال",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کھل تو جاتا ہے مغنی کے بم و زیر سے دل \nنہ رہا زندہ و پائندہ تو کیا دل کی کشود!",
+              "lang": "Original"
+            },
+            {
+              "_content": "بم و زير: اتار چڑھاؤ ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bass and treble of minstrel's song much joy to human heart imparts what is the use of pleasure that is e'er on wings and soon departs?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے ابھی سینہ افلاک میں پنہاں وہ نوا \nجس کی گرمی سے پگھل جائے ستاروں کا وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That melodious song is still unborn and is concealed in heaven's breast, whose intense heat may transform the solid stars to liquid form.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس کی تاثیر سے آدم ہو غم و خوف سے پاک \nاور پیدا ہو ایازی سے مقام محمود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A song that may have such results which set men free from grief and pain; and makes Ayaz break slavish bands and learn like kings to rule and reign.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مہ و انجم کا یہ حیرت کدہ باقی نہ رہے \nتو رہے اور ترا زمزمہ لا موجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمزمہ لا موجود: مراد ہے توحید کا نعرہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perplexing maze of moon and stars may flop down, leave their course O God, you shall last and the cry ‘God is Great’, uttered with much force.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جس کو مشروع سمجھتے ہیں فقیہان خودی \nمنتظر ہے کسی مطرب کا ابھی تک وہ سرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشروع: شریعت کی رو سے جائز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The song that jurists of the Self deem lawful in their mystic creed has been expecting since a long a bard, who can acquit indeed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Lawful Music",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

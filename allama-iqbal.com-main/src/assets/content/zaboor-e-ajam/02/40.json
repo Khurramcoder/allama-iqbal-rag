@@ -1,0 +1,102 @@
+{
+  "id": "40",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "علمی کہ تو آموزی مشتاق نگاہی نیست\nواماندۂ راہی ہست آوارۂ راہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو علم سیکھتا ہے وہ نگاہ (محبت) کا اشتیاق نہیں رکھتا ، یہ راہ حیات کا تھکا ہوا راہی ہے، سرگرم سفر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fine science thou dost learn after vision does not yearn; ‘tis no wanderer far astray, but a straggler on the way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آدم کہ ضمیر او نقش دو جہان ریزد\nبا لذت آہی ہست بی لذت آہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم جس کا ضمیر دونوں جہان کی تزئین کرتا ہے، اس کا وجود لذت عشق سے ہے، لذت عشق کے بغیر وہ کچھ بھی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He, whose all-embracing brain a new universe doth plan burneth still with passion’s fire, never lacketh high desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر چند کہ عشق او آوارۂ راہی کرد\nداغی کہ جگر سوزد در سینۂ ماہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ چاند کو بھی عشق ہی نے سرگرم سفر کیا ہے، مگر اس کے سینے میں وہ داغ نہیں جو جگر کو سوختہ کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Love made the moon to err on the road a wayfarer, never blazeth in its breast the vast furnace of unrest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "من چشم نہ بردارم از روی نگارینش\nآن مست تغافل را توفیق نگاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تو محبوب کے خوبصورت چہرے سے ذرا نظر نہیں ہٹاتا، مگر وہ تغافل میں اس قدر مست ہے کہ اسے ایک نگاہ کی بھی توفیق نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So His beauty doth entrance, I can never lift my glance from His Face, who heedlessly doth not a glance spare for me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اقبال قبا پوشد در کار جہان کوشد\nدریاب کہ درویشی با دلق و کلاہی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال نے معمول کے مطابق اچھا لباس پہنا اور دنیا کے کاموں میں مشغول رہا (لیکن اس کے باوجود وہ درویش ہے) پس سمجھ لے کہ درویشی کا تعلق فقیروں کی کلّاہ اور گدڑی سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "See, Iqbal in manly clothes to his worldly labour goes; proving that his dervishood ne’er depends on gown and hood.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

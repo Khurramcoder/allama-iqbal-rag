@@ -1,0 +1,562 @@
+{
+  "id": "16",
+  "name": "سافر وارد میشود بہ شہر کابل",
+  "name-en": "A Traveler Arrives in the City of Kabul",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "credits": "English Translation by: Jamil Naqvi",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شہر کابل خطۂ جنت نظیر\nآب حیوان از رگ تاکش بگیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "کابل کا شہر جنت کی مانند علاقہ ہے۔ اس کی انگور کی بیل سے آب حیات حاصل کر۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The city of Kabul, its clime resembling paradise.\nYou get the Water of Life from the vein of its grapes"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چشم صائب از سوادش سرمہ چین\nروشن و پایندہ باد آن سر زمین",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "صائب کی آنکھیں اس (کابل) کی سیاہی سے سرمہ حاصل کرنے والی ہیں۔ اللہ تعالی اس سرزمین کو روشن و پائیندہ رکھیں۔ رہتی دنیا تک قائم رہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "the eye of poet acquires collyrium from its precincts."
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در ظلام شب سمن زارش نگر\nبر بساط سبزہ می غلطد سحر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "رات کی تاریکی میں اس کے چنبیلی کے باغ دیکھ۔ (یوں معلوم ہوتا ہے جیسے ) سبزے کی چٹائی پر صبح لوٹ"
+            },
+            {
+              "lang": "English",
+              "_content": "Observe its jesamine beds in the darkness of night.\nyou would say as if the dawn lolls on the carpet of its grass."
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آن دیار خوش سواد، آن پاک بوم\nباد او خوشتر ز باد شام و روم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "وہ ایک اچھے ماحول والا علاقہ (خوش منظر ) اور صاف ستھری سرزمین ہے۔ اس کی ہوا شام اور روم سے کہیں بہتر ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "That city with the lovely climes in that hallowed land,\nits breeze is better far than that of Syria and Rum."
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آب او براق و خاکش تابناک\nزندہ از موج نسیمش، مردہ خاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " اس کا پانی شفاف اور خاک چمکدار ہے۔ اسکی صبح کی ہوا کی لہر سے مردہ خاک پھر سے زندہ ہو جاتی ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Its water so glittering and earth radiant,\nthe dead earth springs into life with its pleasant draughts."
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ناید اندر حرف و صوت اسرار او\nآفتابان خفتہ در کہسار او",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کے بھید نہ تو الفاظ میں سما سکتے ہیں اور نہ آواز میں، اسکے پہاڑوں میں کئی سورج سوئے ہوئے ہیں۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Its excellence cannot fall into the grasp of words; expressions,\nsuns upon suns lapped in sleep in its mountains;"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ساکنانش سیر چشم و خوش گہر\nمثل تیغ از جوھر خود بی خبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کے باشندے سیر چشم اور شریف النفس ہیں، لیکن تلوار کی طرح اپنے جوہر سے بے خبر ہیں۔"
+            },
+            {
+              "lang": "English",
+              "_content": "its inhabitants complacent and genial,\nunware of their mettle like a sword."
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قصر سلطانی کہ نامش دلگشاست\nزائران را گرد راہش کیمیاست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "شاہی محل جس کا نام دلکشا ہے، اس کے راستے کی گردد یکھنے والوں کے لئے کیمیا ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The royal palace named Dilkusha (Heart-Ease). the dust on its way\nis like alchemy for those who come to it."
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "شاہ را دیدم در آن کاخ بلند\nپیش سلطانی فقیری دردمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "ں نے اس عالی شان محل میں بادشاہ سے ملاقات کی۔ یہ ملاقات ) ایک سلطان سے ایک دردمند فقیر کی تھی۔"
+            },
+            {
+              "lang": "English",
+              "_content": "I met the king in his Ifty place-a poor faqir\nin the presence of a monarch."
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خلق او اقلیم دلہا را گشود\nرسم و آئین ملوک آنجا نبود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کا خلق دلوں کی سلطنتوں کو فتح کرنے والا تھا۔ وہاں بادشاہوں کے رسوم و آداب نہ تھے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "His courteous nature opened wide the partals of hearts,\nnothing in the way of ways and formalities of kings."
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "من حضور آن شہ والا گہر\nبینوا مردی بہ دربار عمر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میں اس بلند شخصیت والے بادشاہ کے سامنے (ایسا ہی تھا جیسے ) حضرت عمر فاروق کے دربار میں کوئی بے نوا شخص ہو۔"
+            },
+            {
+              "lang": "English",
+              "_content": "This humble one in the presence of that noble king\nwas like an insignificant person in the court of Umar the great Caliph."
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "جانم از سوز کلامش در گداز\nدست او بوسیدم از راہ نیاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میری روح اس کی باتوں کی گرمی سے پکھل اٹھی۔ میں نے نیاز مندی کے طور پر اس کے ہاتھ کو بوسہ دیا۔"
+            },
+            {
+              "lang": "English",
+              "_content": "My heart melt with the warmth of his hand,\nI kissed his hand out of humility."
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "پادشاہی خوش کلام و سادہ پوش\nسخت کوش و نرم خوی و گرم جوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "وہ ایک اچھی باتیں کرنے والا ، سادہ لباس پہنے والا ، جفاکش، نرم طبع اور تپاک سے ملنے والا بادشاہ ( تھا)۔"
+            },
+            {
+              "lang": "English",
+              "_content": "A king pleasant of speech and plainly clad,\nhard in striving, mild of nature and warm-hearted."
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "صدق و اخلاص از نگاہش آشکار\nدین و دولت از وجودش استوار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کی نگاہ سچائی اور خلوص دکھائی دیتے تھے۔ اس کا وجود دین اور سلطنت کے استحکام کا باعث تھا۔ اس کے وجود سے استحکام ملا۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Sincerity and frankness apparent from his locks.\nBoth Faith and realm firm in his person."
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "خاکی و از نوریان پاکیزہ تر\nاز مقام فقر و شاہی باخبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "(تھا تو) وہ خاک کا پتلا مگر فرشتوں سے بھی زیادہ پاکیزہ فطرت تھا۔ وہ فقر اور سلطنت کے مقام ومرتبہ سے باخبر تھا۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Of earth earthly but purer than angels luminous;\nCognisant of both modesty and kingship."
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در نگاہش روزگار شرق و غرب\nحکمت او راز دار شرق و غرب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کی نگاہوں میں مشرق اور مغرب کا زمانہ تھا۔ اس کی دانائی مشرق اور مغرب دونوں کی (سیاست)کے راز جانتی تھی۔"
+            },
+            {
+              "lang": "English",
+              "_content": "In his sight the affairs of both East and West;\nhis sagacity knowing their secrets alike."
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "شہر یاری چون حکیمان نکتہ دان\nرازدان مد و جزر امتان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "وہ ایک ایسا بادشاہ تھا جو داناؤں کی طرح نکتہ داں تھا اور قوموں کے عروج وزوال کے (اسباب) سے پوری طرح باخبر تھا۔"
+            },
+            {
+              "lang": "English",
+              "_content": "A king knowing subtle matters well like a sage\nknowing the causes of rise and fall of nations."
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "پردہ ہا از طلعت معنی گشود\nنکتہ ہای ملک و دین را وانمود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " اس نے معنی کے چہرے سے پردے اٹھا دئیے۔ ملک اور دین کے نکتے دکھا دئیے۔"
+            },
+            {
+              "lang": "English",
+              "_content": ""
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "گفت از آن آتش کہ داری در بدن\nمن ترا دانم عزیز خویشتن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس نے (مجھ سے) کہا کہ تو اپنے بدن میں جو آگ رکھتا ہے اسکی وجہ سے میں تجھے اپنا عزیز سمجھتا ہوں۔"
+            },
+            {
+              "lang": "English",
+              "_content": "He said with the fire that you have in mind,\nI hold you as dear as my own son."
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ہر کہ او را از محبت رنگ و بوست\nدر نگاہم ہاشم و محمود اوست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " جس کسی میں (بھی) محبت کا رنگ و بو ہے، میری نگاہ میں وہ ہاشم اور حمود ( نادر شاہ کے بھائی ) ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Anyone who bears scent and hue of love is like Hashim and Mahmud in my eyes."
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در حضور آن مسلمان کریم\nہدیہ آوردم ز قرآن عظیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میں نے اس معزز مسلمان (بادشاہ) کی خدمت میں میں نے قرآن مجید کا تحفہ پیش کیا۔"
+            },
+            {
+              "lang": "English",
+              "_content": "I presented a copy of the glorious Quran to this noble Muslim as a gift."
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گفتم \"این سرمایۂ اہل حق است\nدر ضمیر او حیات مطلق است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میں نے کہا: یہ کتاب اہل حق کا سرمایہ ہے، اسکے اندر حیات مطلق (اسباب ووسائل سے بے نیاز ) ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "I said this is the whole and sole substance of men and God;\nit contains the very essence of life in all its absoluteness."
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اندرو ہر ابتدا را انتہا است\nحیدر از نیروی او خیبر گشاست\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس کے اندر ہرابتدا کی انتہا ہے۔ حضرت علی حیدر کرار ای ( قرآن ) کی قوت سے فاتح خیبر ہوئے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "Therein is the endpoint of all beginnings.\nBy virtue of it, Haider threw open the gate of Khaiber."
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "نشۂ حرفم بخون او دوید\nدانہ دانہ اشک از چشمش چکید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میرے الفاظ کا نشہ اس کے خون میں دوڑ گیا۔ اس کی آنکھ سے قطرہ قطرہ آنسو ٹپکنے لگے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The intensity of my words ran into his blood.\nand tears upon tears trickled from his eyes in serried train."
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گفت \"نادر در جہان بیچارہ بود\nاز غم دین و وطن آوارہ بود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "اس نے کہا نا در دنیا میں بے یار و مددگار ہے۔ دین اور وطن کے غم میں مضطرب ہی رہا۔“"
+            },
+            {
+              "lang": "English",
+              "_content": "He said, I, Nadir, was a helpless one\nbewildered because of the sad plight of the Faith and homeland;"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "کوہ و دشت از اضطرابم بیخبر\nاز غمان بی حسابم بے خبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " پہاڑ اور جنگل میرے اضطراب سے بے خبر ہیں۔ میرے بے حساب غموں کی انہیں خبر ہی نہیں۔"
+            },
+            {
+              "lang": "English",
+              "_content": "hills arid tracts were unaware of my perturbation,\nignorant of my boundless sorrows."
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "نالہ با بانگ ہزار آمیختم\nاشک با جوی بہار آمیختم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "میں نے بلبل کے نغمے کے ساتھ اپنی فریاد کو لایا۔ بہار کی ندی کے ساتھ میں نے اپنے آنسو ملالئے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "I raised cries with the note of the nightingale\nmixing my tears with the stream aflow in spring."
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "غیر قرآن غمگسار من نبود\nقوتش ہر باب را بر من گشود\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "سوائے قرآن کریم کے کوئی اور میر ائمگسار نہ تھا۔ اس کی طاقت نے مجھ پر ( کامیابی کے ) تمام دروازے کھول دیئے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "I had no solace except that of the Quran;\nit powers opened all doors to me"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "گفتگوے خسرو والا نژاد\nباز با من جذبۂ سرشار داد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " اس اعلیٰ خاندان والے بادشاہ کی باتوں نے ایک مرتبہ پھر مجھے بے خود بنا دینے والا جذ بہ عطا کیا۔ (دوبارہ جذبے سے سرشار کر دیا)۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The words of that king of high lineage\ncaused again an upsurge in me."
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "وقت عصر آمد صدای الصلوت\nآن کہ مومن را کند پاک از جہات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "سہ پہر کے وقت اذان کی آواز سنائی دی (وہ آواز ) جو مومن ( اور بچے مسلمان کو ) حدود سے بے نیاز کر دیتی ہے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The call of noon prayer arose awhile\nwhich rids a believer of all limits."
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "انتہای عاشقان سوز و گداز\nکردم اندر اقتدای او نماز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": "عاشقوں کی انتہا سوز و گداز ہے۔ میں نے اس ( نادرشاہ) کی امامت میں نماز ادا کی۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The climax of ardent love is nothing but intense feeling,\nso I performed the prayer in his lead."
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "رازہای آن قیام و آن سجود\nجز بہ بزم محرمان نتوان گشود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu",
+              "_content": " (نماز کے) قیام اور سجدے کے راز سوائے اپنے (ہم مزاج ) واقف کاروں کی محفل کے اور کہیں نہیں(کھل پاتے ) بیان کئے جاسکتے۔"
+            },
+            {
+              "lang": "English",
+              "_content": "The secret of that standing and prostrating\ncannot be told except to thode who are close associates."
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

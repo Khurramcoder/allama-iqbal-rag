@@ -1,0 +1,67 @@
+{
+  "id": "03",
+  "name": "پردہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہت رنگ بدلے سپہر بریں نے \nخدایا یہ دنیا جہاں تھی، وہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سپہر بريں: آسمان۔\nزن و شو: بیوی اور شوہر۔\nتفاوت: فرق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Great change the lofty spheres have met, O God! The world his not budged as yet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تفاوت نہ دیکھا زن و شو میں میں نے \nوہ خلوت نشیں ہے، یہ خلوت نشیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In man and wife is no contrast, they like seclusion and hold it fast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ابھی تک ہے پردے میں اولاد آدم \nکسی کی خودی آشکارا نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sons of Adam still wear the mask, but self hasn't peeped out of the casque.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Veil",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

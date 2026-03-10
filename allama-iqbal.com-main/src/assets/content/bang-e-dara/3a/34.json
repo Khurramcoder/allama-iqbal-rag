@@ -1,0 +1,187 @@
+{
+  "id": "34",
+  "name": "دعا",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یا رب! دل مسلم کو وہ زندہ تمنا دے \nجو قلب کو گرما دے، جو روح کو تڑپا دے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord! To the Muslim’s heart grant that live longing; which may warm the heart, which may restlessness to the soul grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پھر وادی فاراں کے ہر ذرے کو چمکا دے \nپھر شوق تماشا دے، پھر ذوق تقاضا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مراد ہے تمام ملت اسلامیہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again brighten up every speck of dust of the Valley of Faran; again; Longing for the Spectacle, taste for the asking grant.\n(Allusion to the Holy Qur’an 7:142-145, particularly 143, in which the longing of Mosa A.S. to witness the countenance of God is described.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "محروم تماشا کو پھر دیدئہ بینا دے \nدیکھا ہے جو کچھ میں نے اوروں کو بھی دکھلا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیدئہ بینا: دیکھنے والی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again to the one deprived of the Spectacle the discerning eye grant; whatever I have seen, to others also its sight grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بھٹکے ہوئے آہو کو پھر سوئے حرم لے چل \nاس شہر کے خوگر کو پھر وسعت صحرا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آہو: ہرن، مراد ہے مسلمانی۔ \nسوئے حرم: حرم یعنی دین کی طرف۔ \nخوگر: عادی، مراد ہے شہر کی گھٹن کا عادی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again guide the strayed away deer towards the Haram* to the one addicted to city, vastness of wilderness grant. \n(This is a metaphor for the Muslim Ummah having gone astray and supplication to guide them to the right path.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیدا دل ویراں میں پھر شورش محشر کر \nاس محمل خالی کو پھر شاہد لیلا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "شورش محشر:مراد ہے پھر سے زندہ کر دے۔ \n محمل: کجاوہ جو اونٹ پر سواری کے لیے رکھا جاتا ہے۔ \nشاہد لیلا: مراد ہے پھر سے دین سے لگاؤ پیدا ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again in the forlorn heart create the Last Day’s tumult; again to this empty camel-litter the lover of Lailah grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس دور کی ظلمت میں ہر قلب پریشاں کو \nوہ داغ محبت دے جو چاند کو شرما دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ظلمت: اندھیرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the darkness of this age to every perturbed heart that mark of Love which may embarrass the moon grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رفعت میں مقاصد کو ہمدوش ثریا کر \nخودداری ساحل دے، آزادی دریا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رفعت: بلندی۔ \nہمدوش ثریا: ثریا ستاروں کے ایک جھرمٹ کو کہتے ہیں؛ مراد ستاروں کی طرح بلند کر دے۔ \nساحل: مراد ہے ساحل کسی کی طرف چل کر نہیں جاتا ؛ سب اس کی طرف چل کر آ تے ہیں۔ خودداری",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In elegance raise the Muslims’ goals to the level of Thurayyah; self-respect of the ocean, freedom of the sea shore grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بے لوث محبت ہو، بے باک صداقت ہو \nسینوں میں اجالا کر، دل صورت مینا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے لوث محبت:ایسی محبت جو صلہ نہ مانگے۔ \nبے باک: بے خوف، نڈر۔ \nصورت مینا: مراد ہے کہ صراحی جو کچھ رکھتی ہے وہ دوسروں میں بانٹ دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love should be pure, candor fearless should be! Grant Light to hearts, hearts like crystal grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "احساس عنایت کر آثار مصیبت کا \nامروز کی شورش میں اندیشہء فردا دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "کی شورش: آج کی مصروفیات۔ امروز\n)Aaney waaley kal ki fikr.) اندیشہء فردا: آنے والی کل کی فکر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant the feeling for signs of the calamity in today’s tumult concern for tomorrow grant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "میں بلبل نالاں ہوں اک اجڑے گلستاں کا \nتاثیر کا سائل ہوں، محتاج کو، داتا دے!",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبل نالاں: آہ و زاری کرتا ہوا بلبل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the wailing nightingale of a ruined rose garden; I am the supplicant for acceptance, O Benevolent one alms to the beggar grant.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Supplication",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

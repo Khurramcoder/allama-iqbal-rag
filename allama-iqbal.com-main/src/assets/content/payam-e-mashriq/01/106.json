@@ -1,0 +1,34 @@
+{
+  "id": "106",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا با شاہد فطرت نظر باز\nچرا در گوشۂ خلوت گزینی\nترا حق داد چشم پاک بینی\nکہ از نورش نگاہی آفرینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آ! حسن فطرت پر نظر ڈال ، تو ایک گوشے میں کیوں خلوت گزیں بیٹھا ہے۔\nاللہ تعالے نے تجھے چشم پاک بیں عطا فرمائی ہے تا کہ تو اس کے نور سے نگاہ (حسن فطرت سے لطف اندوز ہونے کا) ذوق پیدا کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come drink in Nature’s beauty with your eyes. Why muse like a recluse? \nO exercise the gift that God his given you of eight. O look, the world is beautiful and bright.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "59",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چون چراغ لالہ سوزم در خیابان شما\nاے جوانان عجم جان من و جان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے جوانان عجم! میں اپنی اور تمہاری جان کو خیابان میں چراغ لالہ کی طرح جلا رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like a tulip’s flame I burn in your presence as I turn; by my life, and yours, I swear youth of Persia ever fair!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "غوطہ ہا زد در ضمیر زندگی اندیشہ ام\nتا بدست آوردہ ام افکار پنہان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے کفر نے دریا ئے زندگی میں غوطہ زن ہو کر ؛ تمہاری پنہاں سوچ کو پا لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have dived, and dived again with my thoughts into life’s brain until I prevailed to find every secret of your mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مہر و مہ دیدم نگاہم برتر از پروین گذشت\nریختم طرح حرم در کافرستان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے مہر و مہ کو دیکھا پھر میری نگاہ پرویں سے بھی اوپر نکل گئی؛ تب کہیں جا کر میں نے تمہارے کافرستان میں حرم کی بنیاد رکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sun and moon – I gazed on these far beyond the Pleiades, and rebuilt a sanctuary in your infidelity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا سنانش تیز تر گردد فرو پیچیدمش\nشعلہ ئی آشفتہ بود اندر بیابان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "تمہارے بیابان میں شعلہ بکھرا ہوا تھا ؛ میں نے اس کی زبان تیز کر کے اسے تمہارے دلوں میں بھر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have twisted well the blade till its edge was sharper made; pale the gleam and lusterless wasted in your wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فکر رنگینم کند نذر تہی دستان شرق\nپارۂ لعلی کہ دارم از بدخشان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ لعل کا ٹکڑا جو میں نے تمہارے بدخشاں (قدیم اسلامی علوم ) سے حاصل کیا؛ اسے میں نے فکر رنگیں کی صورت خالی ہاتھ مشرقیوں کی نظر کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought’s images dispense to the Orient’s indigence the bright ruby that I gain from your mines of Badakhshan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "میرسد مردی کہ زنجیر غلامان بشکند\nدیدہ ام از روزن دیوار زندان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے تمہارے زنداں کی دیوار کے روزن سے دیکھ لیا ہے؛ ایک مرد آنے والا ہے جو غلامی کی زنجیریں توڑ دے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Comes the man, to free at last slaves confined in fetters fast; through the windows in the wall of your prison I see all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حلقہ گرد من زنید اے پیکران آب و گل\nآتشے در سینہ دارم از نیاکان شما",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مٹی کے بتو! میرے پاس آؤ؛ میں اپنے دل میں تمہارے بزرگوں کی آگ سنبھالے ہوئے ہوں ۔ (عشق سے مٹی کی تصویروں میں سوز دم بدم)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make a ring about me now; in my breast a fire’s aglow that your forebears lit one day, things of water and of clay.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

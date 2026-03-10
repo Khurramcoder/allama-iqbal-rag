@@ -1,0 +1,68 @@
+{
+  "id": "30",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز شاعر نالہ مستانہ در محشر چہ می خواہی\nتو خود ہنگامہ ئی ہنگامۂ دیگر چہ میخواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "محشر میں شاعر سے نالہء مستانہ کا مطالبہ کیوں؟ آپ کا اپنا حسن ہی ہنگامہ زا ہے، کسی اور ہنگامے کی کیا ضرورت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why in the concourse dost Thou seek the poet’s wild, ecstatic shriek, or lookest for another’s riot, whose heart is troubled and unquiet?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ بحر نغمہ کردی آشنا طبع روانم را\nز چاک سینہ ام دریا طلب گوہر چہ میخواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میری طبع رواں کو بحر نغمہ سے آشنا کر دیا ہے؛ میرے چاک سینہ سے افکار کا دریائے رواں نکا لیے ، گوہر کی طلب کیوں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My affluent muse was taught by thee to swim the waves of melody; why seekest Thou the gem? Behold, my pierced heart doth the sea enfold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نماز بی حضور از من نمے آید نمی آید\nدلی آوردہ ام دیگر ازین کافر چہ می خواہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نماز بے حضور ادا نہیں کر سکتا ، بالکل ادا نہیں کر سکتا؛ دل (قلب سلیم ) آپ کی جناب میں پیش کر دیا ہے اس کافر سے آپ کیا چاہتے ہیں۔ (قرآن 89:26)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Except within Thy presence there I stand. I cannot breathe my prayer: my heart before Thy feet I fling – what else should unbeliever bring?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

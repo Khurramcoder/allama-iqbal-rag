@@ -1,0 +1,84 @@
+{
+  "id": "08",
+  "name": "علم و عشق",
+  "name-en": "Knowledge and Love",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "علم نے مجھ سے کہا عشق ہے دیوانہ پن\nعشق نے مجھ سے کہا علم ہے تخمین و ظن\nبندہ تخمین و ظن! کرم کتابی نہ بن\nعشق سراپا حضور، علم سراپا حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تخمین: وہم و گمان۔ \nکرم کتابی: کتابی کیڑا ؛ پڑھاکو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge said to me, Love is madness; Love said to me, Knowledge is calculation: O slave of calculation, do not be a bookworm! Love is Presence entire, Knowledge nothing but a Veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عشق کی گرمی سے ہے معرکہء کائنات\nعلم مقام صفات، عشق تماشائے ذات\nعشق سکون و ثبات، عشق حیات و ممات\nعلم ہے پیدا سوال، عشق ہے پنہاں جواب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The universe is moved by the warmth of Love; knowledge deals with the Attributes, Love is a vision of the Essence; Love is peace and permanence, Love is Life and Death: Knowledge is the rising question, Love is the hidden answer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق کے ہیں معجزات سلطنت و فقر و دیں\nعشق کے ادنی غلام صاحب تاج و نگیں\nعشق مکان و مکیں، عشق زمان و زمیں\nعشق سراپا یقیں، اور یقیں فتح باب",
+              "lang": "Original"
+            },
+            {
+              "_content": "فتح باب: دروازہ کھولنا، مراد ہے کامیابی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kingdom, faith and faqr are all miracles of Love; the crowned kings and lords are base slaves of Love; Love is the Space and the Creation, Love is Time and Earth! Love is conviction entire, and conviction is the key!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شرع محبت میں ہے عشرت منزل حرام\nشورش طوفاں حلال، لذت ساحل حرام\nعشق پہ بجلی حلال، عشق پہ حاصل حرام\nعلم ہے ابن الکتاب، عشق ہے ام الکتاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The luxury of destination is forbidden in the religion of Love; fighting the storms is permitted, but the comfort of the shore is forbidden; lightning is permitted to Love, harvest is forbidden. Knowledge is the child of the Book, Love is the mother of the Book./Editors)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

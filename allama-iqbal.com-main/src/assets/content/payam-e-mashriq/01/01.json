@@ -1,0 +1,1423 @@
+{
+  "id": "01",
+  "name": "پیش کش",
+  "name-en": "Epistle",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "بسم اﷲ الرحمن الرحیم",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پیشکش بحضور اعلیحضرت امیرامان اﷲ خان\nفرمانروای دولت مستقلۂ افغانستان خلد اﷲ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dedicatory Epistle to King Amanullah Khan of Afghanistan",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "ملکہ وا جلالہ",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے امیر کامگار اے شہریار\nنوجوان و مثل پیران پختہ کار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے شہریار! اے خوش نصیب امیر! عمر میں نوجوان اور پیروں کی مانند پختہ کار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Successful head of a great monarchy, youthful in years, old in sagacity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چشم تو از پردگیہای محرم است\nدل میان سینہ ات جام جم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری آنکھ چھپے ہوئے رازوں سے آشنا ہے۔ تیرا دل جام جم کی مانند ہے (اس پر ہر چیز عیاں ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Inspired practitioner of the royal art, possessor of the wisdom of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عزم تو پایندہ چون کہسار تو\nحزم تو آسان کند دشوار تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا عزم تیرے (ملک کے) پہاڑوں کی مانند مضبوط ہے؛ تیرے استقلال کے باعث تجھ پر ہر مشکل آسان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a will as strong as your mountain walls, and constant circumspection that forestalls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہمت تو چون خیال من بلند\nملت صد پارہ را شیرازہ بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری ہمت میرے فکر کی مانند بلند ہے؛ یہ ہمت صد پارہ ملت کو متحد کر سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All risks, ambition as high as my thought, and organizing power that has brought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ھدیہ از شاہنشہان داری بسی\nلعل و یاقوت گران داری بسی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے پاس پادشاہوں کے ( دیے ہوئے) کئی تحفے ہیں؛ تو بہت سے لعل و یاقوت رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Together feuding tribes, you have untold gifts made to you by kings – silver and gold, rubies and jewels.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اے امیر ابن امیر ابن امیر\nھدیہ ئی از بینوائی ہم پذیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے امیر ، ابن امیر، ابن امیر ؛ اس فقیر سے بھی یہ تحفہ قبول کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O king, son of a king, accept from me this humble offering.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تا مرا رمز حیات آموختند\nآتشے در پیکرم افروختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ مجھے زندگی کا راز وکھایا گیا ہے اور میرے پیکر میں آگ روشن کی گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ever since I found out life’s mystery, it is as if a fire blazed inside me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "یک نوای سینہ تاب آوردہ ام\nعشق را عہد شباب آوردہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اس لیے) میں ایک ایسی نوا لے کر آیا ہوں جو سینے کو روشن کر دے؛ میں عشق کے لیے عہد شباب واپس لایا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My song is a flame of that inner fire – a song of passion sung on wisdom’s lyre.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "پیر مغرب شاعر المانوی\nآن قتیل شیوہ ہای پہلوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شاعر المانوی جو اہل مغرب کا استاد تھا؛ وہ جو فارسی شاعری کا فدائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That Western sage, that bard of Germany, that ardent lover of things Pahlavi.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بست نقش شاہدان شوخ و شنگ\nداد مشرق را سلامی از فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے کلام میں شوخ و شنگ محبوبوں کے نقش ثبت کیے ہیں اور یورپ کی طرف سے مشرق کو سلام بھیجا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Saluted the East with his great Divan, that tribute to the poets of Iran and veritable picture gallery of vignettes, all in Persian imagery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "در جوابش گفتہ ام پیغام شرق\nماہتابی ریختم بر شام شرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کے جواب میں 'پیام مشرق' لکھا ہے (اور اس سے) گویا مشرق کی شام (زوال) پر چاندنی بکھیر دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To that salute this book is a reply, this gleam of moonlight in the Eastern sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تا شناسای خودم خود بین نیم\nبا تو گویم او کہ بود و من کیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں خود بیں (مغرور) نہیں، ہاں، اپنے آپ کو پہچانتا ضرور ہوں؛ میں آپ کو بتاتا ہوں کہ وہ کون تھا اور میں کیا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without deluding myself, I will dare to tell you how the two of us compare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "او ز افرنگی جوانان مثل برق\nشعلۂ من از دم پیران شرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ یورپ کے ان نوجوانوں سے تھا جو برق کی مانند چمکے، میرے اندر جو شعلہ ہے وہ پیران مشرق کے فیض سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His was the vital spark of the young West; mine has been wrung from the East’s aged breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "او چمن زادی چمن پروردہ ئی\nمن دمیدم از زمین مردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ چمن میں پیدا ہوا اور چمن ہی نے اس کی پرورش کی؛ اور میں مردہ زمین سے اٹھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A flourishing spring garden gave him birth; I am a product of a long dead earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "او چو بلبل در چمن فردوس گوش\nمن بصحرا چون جرس گرم خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی آواز چمن میں بلبل کی طرح 'فردوس گوش' تھی؛ میں صحرا میں جرس کی مانند سرگرم خروش ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was a nightingale that filled with song an orchard; I am but a desert gong, a signal for the caravan to start.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہر دو دانای ضمیر کائنات\nہر دو پیغام حیات اندر ممات",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم دونوں کائنات کے ضمیر کو سمجھتے ہیں؛ ہم دونوں اس موت کے اندر (جو دنیا پر چھا رہی ہے) پیغام حیات ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We both have delved into the inmost heart of being; both of us are messages of life in the midst of death’s ravages;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ہر دو خنجر صبح خند آئینہ فام\nاو برہنہ من ہنوز اندر نیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم دونوں خنجر ہیں، صبح کی طرح روشن اور آئینہ کی طرح چمکدار؛ وہ برہنہ اور میں ابھی تک نیام میں ہوں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Two daggers, morning-lustred, mirror-bright; he naked; I still sheathed, concealed from sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہر دو گوہر ارجمند و تاب دار\nزادۂ دریای ناپیدا کنار",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم دونوں قیمتی چمکدار موتی ہیں ، جو (حیات) کے دریائے بیکراں سے پیدا ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Two pearls, both precious, both unmatched, are we, both from the depths of an unfathomed sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "او ز شوخی در تہ قلزم تپید\nتا گریبان صدف را بر درید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شوخی سے سمندر کی تہ میں تڑپا ، یہاں تک کہ اس نے صدف کا گریبان پھاڑ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He burst out of the mother-of-pearl’s womb, for he could rest no longer in that tomb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "من بہ آغوش صدف تابم ہنوز\nدر ضمیر بحر نایابم ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ابھی تک صدف کے اندر پیچ (و تاب) کھا رہا ہوں ؛ میں ابھی تک بحر (حیات) کے ضمیر میں نایاب (پوشیدہ) ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But I, who still am lying shell-enshrined, have yet to be astir in the sea’s mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "آشنای من ز من بیگانہ رفت\nاز خمستانم تہی پیمانہ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا جاننے والا بھی مجھے جانے بغیر چلا گیا، اس نے (بھی) میرے شراب خانے سے اپنا پیمانہ پر نہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one around me knows me properly: They go away with empty cups from my wine-fount.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "من شکوہ خسروی او را دہم\nتخت کسری زیر پای او نہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اسے خسروانہ شان دیتا ہوں ، میں اس کے پاؤں کے نیچے کسری کا تخت بچھاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I offer them a royal state, with Chosroe’s throne for use as their foot-mat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "او حدیث دلبری خواہد ز من\nرنگ و آب شاعری خواہد ز من",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مجھ سے دلبری کی بات چاہتا ہے ، وہ مجھ سے (روایتی ) شاعری کی چمک اور رنگ طلب کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But they want fairy tales of love from me, the gaudy trappings of mere poesy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "کم نظر بیتابی جانم ندید\nآشکارم دید و پنھانم ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم نظر نے میری جان کی بیتابی کو نہ دیکھا، اس نے صرف میرا ظاہر دیکھا میرے اندرون کو نہ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They are so purblind that they only see my outside, not the fervid soul in me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "فطرت من عشق را در بر گرفت\nصحبت خاشاک و آتش در گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری فطرت نے عشق کو اپنے اندر سمو لیا ہے ، میں نے تنکے اور آگ دونوں کو اپنے اندر اکٹھا کر لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have made Love my very being’s law: in me can live together fire and straw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "حق رموز ملک و دین بر من گشود\nنقش غیر از پردۂ چشمم ربود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے نے مجھ پر ملک اور دین کے رموز منکشف کیے ہیں، اور میری آنکھ پر سے غیر اللہ کا پردہ ہٹا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The truths of statecraft and religion both God has revealed to me; so I am loth to turn to any other guide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "برگ گل رنگین ز مضمون من است\nمصرع من قطرۂ خون من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھول کی پتی میرے مضمون سے رنگین ہے، میرے ہر شعر کا مصرع میرے خون کا قطرہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From my imagination do the flowers come by their hues. Each line of verse that I compose is a drop of my rich heart’s blood that flows from my pen’s point.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "تا نپنداری سخن دیوانگیست\nدر کمال این جنوان فرزانگیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تو یہ گمان نہ کرے کہ شاعری دیوانگی ہے، (میں نے یہ ثابت کر دیا ہے کہ) اس جنون کا کمال دانائی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not think poetry is merely madness; if this madness be complete, then wisdom is its name.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "از ھنر سرمایہ دارم کردہ اند\nدر دیار ہند خوارم کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ہنر (سخن) کا سرمایہ عطا کر کے سرزمین ہند میں خوار کیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! Vouchsafed this gift, I am condemned to pass my days in exile in this joyless land, this India;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "لالہ و گل از نوایم بی نصیب\nطایرم در گلستان خود غریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہاں کے) لالہ و گل میری نوا سے بے نصیب ہیں ، میں ایسا پرندہ ہوں جو اپنے گلستان کے اندر اجنبی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where none can understand the things I sing of like a nightingale with not a tulip, not a rose to hail its song – a nightingale singing alone in some deserted place, sad and forlorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "بسکہ گردون سفلہ و دون پرور است\nوای بر مردی کہ صاحب جوہر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان انہی کی پرورش کرتا ہے، جو رذیل اور کم ظرف ہوں ، (اس شخص کی قسمت پر) افسوس ہے جسے کوئی جوہر عطا کیا گیا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So mean is fortune that it favours fools. woe to the gifted, who defy its rules!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "دیدہ ئی اے خسرو کیوان جناب\nآفتاب \"ما توارت بالحجاب\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے بلند مرتبت بادشاہ تو نے دیکھا ہے کہ ہمارا آفتاب پردے میں چھپ چکا ہے، (ملت اسلامیہ زوال کا شکار ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You see, O king, the Muslims’ sun dimmed by the darkling clouds that overhang the sky:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ابطحی در دشت خویش از راہ رفت\nاز دم او سوز الا اﷲ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بطحا کا رہنے والا اپنے ہی صحرا میں راہ گم کیے ہوئے ہے، اس کے دم سے الا اﷲ کا سوز ختم ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Arab in his desert gone astray; the way of godliness no more his way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مصریان افتادہ در گرداب نیل\nسست رگ تورانیان ژندہ پیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل مصر نیل کے گرداب میں پڑے ہیں ، افلاس زدہ تورانی بھی کمزور پڑ چکے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Egyptian in the whirlpool of the Nile; and the Turanian slow-pulsed and senile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "آل عثمان در شکنج روزگار\nمشرق و مغرب ز خونش لالہ زار",
+              "lang": "Original"
+            },
+            {
+              "_content": "آل عثمان (ترک) زمانے کے شکنجے میں گرفتار ہے، مشرق و مغرب ان کے خون سے سرخ ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Turk a victim of the ancient feud of East and West, both covered with his blood;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "عشق را آئین سلمانی نماند\nخاک ایران ماند و ایرانی نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے اندر سلمان فارسی (رضی اللہ) کا انداز نہ رہا۔ ایران کی سرزمین رہ گئی مگر ایرانی ختم ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one left like that ardent soul, Salman; his creed of Love now alien to Iran:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "سوز و ساز زندگی رفت از گلش\nآن کہن آتش فسردہ اندر دلش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مٹی (بدن) میں سوز و ساز زندگی نہیں رہا ، اس کے دل کے اندر کی پرانی آگ افسردہ ہو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which has lost all its fervour, all its zest, the old fire all cold ashes in its breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "مسلم ہندی شکم را بندہ ئی\nخود فروشی دل ز دین بر کندہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندی مسلمان صرف پیٹ کا غلام ہے ، اس نے اپنے آپ کو بیچ دیا ہے اور دین سے برگشتہ خاطر ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Indian Muslim unconcerned about all save his belly, sunk in listless doubt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "در مسلمان شأن محبوبی نماند\nخالد و فاروق و ایوبی نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان کے اندر شان محبوبی نہ رہی؛ وہ فاروق اعظم (رضی اللہ) حضرت خالد (رضی اللہ) اور صلاح الدین (رحمتہ اللہ) نہ رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heroes have departed from the scene: All, all gone – Khalid, Umar, Saladin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "اے ترا فطرت ضمیر پاک داد\nاز غم دین سینۂ صد چاک داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھے اللہ تعالے نے پاکیزہ سرشت عطا فرمائی ہے، تیرا سینہ دین کے غم سے چاک چاک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God has endowed you with a feeling heart that bleeds to see the Muslims thus distraught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "تازہ کن آئین صدیق و عمر\nچون صبا بر لالۂ صحرا گذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اپنی حکومت سے پھر) حضرت صدیق (رضی اللہ) اور حضرت عمر (رضی اللہ) کا انداز تازہ کر؛ صحرا میں کھلے ہوئے لالہ پر سے باد صبا کی مانند گذر جا (اپنے عوام کو تر و تازگی عطا کر)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Across this wilderness pass like a breeze of spring; blow back Siddiq’s and Umar’s days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "ملت آوارۂ کوہ و دمن\nدر رگ او خون شیران موج زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت (افغانیہ) جو پہاڑوں اور وادیوں میں بکھری ہوئی ہے ، اس کی رگوں میں شیروں کا خون موجزن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This race of mountain-dwellers, the Afghans, the blood of lions flowing in their veins;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "زیرک و روئین تن و روشن جبین\nچشم او چون جرہ بازان تیز بین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ لوگ سمجھدار ، قوی بدن اور روشن جبیں ہیں؛ ان کی آنکھ نر باز کی طرح تیز نگاہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Industrious, brave, intelligent and wise, with the look of the eagle in their eyes:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "قسمت خود از جہان نا یافتہ\nکوکب تقدیر او نا تافتہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر انہوں نے دنیا سے اپنا (پورا) حصّہ نہیں پایا؛ ان کی تقدیر کا ستارہ ابھی چمکا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have not, alas, fulfilled their destiny: Their star has not yet risen in the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "در قہستان خلوتی ورزیدہ ئی\nرستخیز زندگی نادیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کوہستان میں الگ تھلگ رہ رہے ہیں ، (ابھی) انہوں نے زندگی کی کشمکش نہیں دیکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They dwell hemmed in by mountain fastnesses, shut off from all renascent influences.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "جان تو بر محنت پیہم صبور\nکوش در تہذیب افغان غیور",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری جان میں سعیء پیہم پر استقلال موجود ہے، ان غیور افغانیوں کی تربیت کے لیے کوشش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you, for whom no labour is too great, spare no endeavour to ameliorate your people;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "تا ز صدیقان این امت شوی\nبہر دین سرمایۂ قوت شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تو اس امت کے صدیقین میں سے ہو جائے، اور دین کے لیے سرمایہء قوت بنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So that you may add your name to those of men who worked for Islam’s fame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "زندگی جہد است و استحقاق نیست\nجز بہ علم انفس و آفاق نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی جد و جہد ہے اس پر کسی کو کوئی استحقاق نہیں ، زندگی صرف انفس اور آفاق کے علم پر مشتمل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is a struggle, not beseeching rights; and knowledge is the arms with which one fights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "گفت حکمت را خدا خیر کیثر\nہر کجا این خیز را بینی بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے (حضور صلعم کا ارشاد ہے) کہ جہاں سے حکمت ملے اسے لے لو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God ranked it with the good things that abound and said it must be grasped, wherever found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "سید کل صاحب ام الکتاب\nپردگیہا بر ضمیرش بی حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) موجودات کے سردار اور صاحب ام الکتاب ہیں، آپ (صلعم) کے ضمیر پر سارے راز وا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one to whom the Quran was revealed, from whom no aspect of truth was concealed:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "گرچہ عین ذات را بی پردہ دید\n\"رب زدنی\" از زبان او چکید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ حضور اکرم (صلعم) نے ذات باری تعالے کو بالکل بے پردہ دیکھا ؛ پھر بھی آپ (صلعم) کی زبان پر رب زدنی علما کے الفاظ تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beheld the Essence itself with his eye; and yet ‘God, teach me still more’ was his cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "علم اشیا \"علم الاسماستی\"\nہم عصا و ھم ید بیضا ستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم اشیاء ہی علم اسماء کی تفسیر ہے؛ یہی عصا ہے اور یہی ید بیضا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge of things is Adam’s gift from God, the shining palm of Moses and his rod.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "علم اشیا داد مغرب را فروغ\nحکمت او ماست می بندد ز دوغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم اشیاء ہی سے یورپ نے ترقی حاصل کی ہے؛ وہ اپنی حکمت کے ذریعے چھاچھ سے پنیر بنا لیتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret of the greatness of the West, the source of all that it has of the best.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "جان ما را لذت احساس نیست\nخاک رہ جز ریزۂ الماس نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر ہماری جان میں احساس کی لذت نہیں، (ہم یہ نہیں سمجھتے) کہ خاک راہ کا (ہر ذرّہ ) الماس کے ٹکڑے کی مانند قیمتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We would see, if our spirits had true zest, nothing but diamonds in the roadside dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "علم و دولت نظم کار ملت است\nعلم و دولت اعتبار ملت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاروبار ملت کا نظم علم و دولت پر مبنی ہے، علم و دولت ہی سے قوم کا وقار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge and wealth make nations sound and strong, and thus enable them to get along.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "آن یکی از سینۂ احرار گیر\nوان دگر از سینۂ کہسار گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم سینہء احرار سے حاصل کر اور دولت سینہء کوہسار سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For knowledge cultivate your people’s minds; for wealth exploit your mineral finds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "دشنہ زن در پیکر این کائنات\nدر شکم دارد گہر چون سومنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کائنات کے پیکر میں خنجر گھونپ ، یہ سومنات کی مانند اپنے شکم میں بہت سے گوہر رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Go, plunge a dagger into your land’s bowels; like Somnat’s idol it is full of jewels.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "لعل ناب اندر بدخشان تو ہست\nبرق سینا در قہستان تو ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے بدخشاں کے اندر قیمتی لعل ہیں ، اور تیرے قہستان میں سینا کی برق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In it do rubies of Badakhshan lie; in its hills is the thunder of Sinai.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "کشور محکم اساسی بایدت\nدیدۂ مردم شناسی بایدت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مضبوط سلطنت کے لیے بنیاد چاہیے؟ یہ بنیاد (حاکم کی) مردم شناس نگاہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you desire a firmly founded state, then make of men a proper estimate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "اے بسا آدم کہ ابلیسی کند\nاے بسا شیطان کہ ادریسی کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہت سے انسان ہیں جو ابلیس کا کام کرتے ہیں، اور بہت سے شیطان ہیں جو ادریسی لباس میں نظر آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many an Adam acts like an Iblis; many an Iblis acts like an Idris:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "رنگ او نیرنگ و بود او نمود\nاندرون او چو داغ لالہ دود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے شخص کا رنگ نیرنگ (طلسم) ہے اور اس کا ہونا نہ ہونا ہے، اس کے اندر گل لالہ کا داغ نہیں بلکہ کینے کا دھواں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With false pretences that cheat simple folk, his tulip-heart a lamp that is all smoke.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "پاکباز و کعبتین او دغل\nریمن و غدر و نفاق اندر بغل",
+              "lang": "Original"
+            },
+            {
+              "_content": "(بظاہر) وہ پاکباز ہے مگر وہ فریب کا کھیل کھیلتا ہے، اس کی بغل میں مکاری ، غداری اور نفاق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deceitful, with a show of piety, his heart full of hate and hypocrisy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "در نگر اے خسرو صاحب نظر\nنیست ہر سنگی کہ می تابد گہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صاحب نظر بادشاہ! سمجھ لے کہ ہر چمکنے والا پتھر موتی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O king, be careful in assessing them, not every stone that glitters is a gem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "مرشد رومی حکیم پاک زاد\nسر مرگ و زندگی بر ما گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرشد رومی (رحمتہ اللہ) نے جو دانائے پاک فطرت ہیں ، ہم پر موت اور زندگی کا راز ظاہر کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sage of Rum, of blessed memory, has thus summed up why nations live or die:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "\"ہر ہلاک امت پیشین کہ بود\nزانکہ بر جندل گمان بردند عود\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یعنی یہ کہ) پہلی قوموں کی ہلاکت کا سبب یہ تھا کہ انہوں نے پتھر کو عود سمجھ لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The end of no past nation has been good which could not tell a stone from aloe-wood.’ Rumi",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "سروری در دین ما خدمتگری است\nعدل فاروقی و فقر حیدری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دین میں پادشاہی خدمت گری ہے ، یہ فاروقی عدل اور حیدری فقر سے عبارت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A king in Islam is God’s servitor – a selfless Ali or a just Umar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "در ہجوم کارہای ملک و دین\nبا دل خود یک نفس خلوت گزین",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکومت اور دین کے معاملات کے ہجوم میں، کبھی ایک لمحہ کے لیے اپنے دل کے ساتھ بھی خلوت اختیار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Among your multifarious tasks of state give yourself time to think and contemplate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "ہر کہ یکدم در کمین خود نشست\nہیچ نخچیر از کمند او نجست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص ایک لمحہ کے لیے اپنی گھات میں بیٹھتا ہے (اپنا محاسبہ کرتا ہے) اس کی کمند سے کوئی شکار بچ کے نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ambusher of self can never lose a quarry: quarries fall into his noose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "در قبای خسروی درویش زی\nدیدہ بیدار و خدا اندیش زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہی کے لباس میں درویش کی طرح زندگی بسر کر؛ راتوں کو جاگ اور ہر دم اللہ تعالے کو یاد رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In royal robes live like an anchorite: Eyes wide awake, but thought of God hugged tight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "قاید ملت شہنشاہ مراد\nتیغ او را برق و تندر خانہ زاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہنشاہ مراد جو قائد ملت تھا، برق اور کڑک جس کی تلوار کے غلام تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That soldier-king, the Emperor Murad, whose lightning-spouting sword kept his foes awed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "ہم فقیری ہم شہ گردون فری\nارد شیری با روان بوذری",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ فقر بھی تھا اور بلند وقار پادشاہ بھی؛ اردشیر کی مانند تھا مگر اس کی روح حضرت ابوذر غفاری (رضی اللہ) کی سی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An Ardeshir with an Abu Dharr’s soul, played both a king’s role and a hermit’s role.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "غرق بودش در زرہ بالا و دوش\nدر میان سینہ دل موئینہ پوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سر سے کندھوں تک زرہ پوش رہتا ، مگر اس کے سینہ کے اندر دل خرقہ پوش تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His breast wore armour for his soldier’s part, but in it dwelt a hairshirt-wearer’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "آن مسلمانان کہ میری کردہ اند\nدر شہنشاہی فقیری کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمانوں نے اس طرح حکومت کی ہے کہ وہ شہنشاہی میں بھی فقیر منش رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All Muslim rulers who were truly great led hermits’ lives despite their royal state.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "در امارت فقر را افزودہ اند\nمثل سلمان در مدائن بودہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے اپنی امارت کے دوران فقر میں اضافہ کیا ؛ وہ اس طرح زندگی بسر کرتے رہے جس طرح سلمان فارسی (رضی اللہ) مدائن میں رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Asceticism was their way of life; to cultivate it was their constant strife. They lived as Salman lived in Ctesiphon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "151",
+          "Text": [
+            {
+              "_content": "حکمرانی بود و سامانی نداشت\nدست او جز تیغ و قرآنی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ حکمران تھے مکر ان کے پاس کوئی سامان نہ تھا، وہ قرآن پاک اور تلوار کے علاوہ اپنے پاس کچھ نہیں رکھتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ruler he who did not care to don the robes of royalty and who abhorred all outfit save the Qur’an and the sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "ہر کہ عشق مصطفی سامان اوست\nبحر و بر در گوشۂ دامان اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے پاس جناب رسول پاک (صلعم) کی محبت کا سامان ہے، اس کے دامن کے پلو میں بحر و بر بندھے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Armed with love of Muhammad (S.A.W.), one commands complete dominion over seas and lands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "155",
+          "Text": [
+            {
+              "_content": "سوز صدیق و علی از حق طلب\nذرہ ئی عشق نبے از حق طلب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے سے حضرت صدیق (رضی اللہ) اور حضرت علی (رضی اللہ) کا سوز طلب کر، حضور اکرم (صلعم) کے عشق کا ذرّہ مانگ (اسی عشق سے یہ سوز و ساز حاصل ہو گا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask God to grant you some small part of that love for Muhammad which the heart of Siddiq and of Ali bore:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "زانکہ ملت را حیات از عشق اوست\nبرگ و ساز کائنات از عشق اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت اسلامیہ کی زندگی کا دار و مدار حضور اکرم (صلعم) کی محبت پر ہے، یہی عشق کائنات کا ساز و سامان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because, the life of the Islamic people draws its sustenance from it and it, in fact, is that which keeps the universe intact.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "159",
+          "Text": [
+            {
+              "_content": "جلوۂ بی پردہ او وانمود\nجوہر پنھان کہ بود اندر وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور (صلعم) کے جلوہ ء بے پردہ (تشریف آوری) سے وہ جوہر پنہاں جو وجود کائنات کے اندر تھا ظاہر ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was Muhammad whose epiphany laid bare the essence of Reality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "روح را جز عشق او آرام نیست\nعشق او روزیست کو را شام نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کی محبت کے بغیر روح کو تسکین حاصل نہیں ہوتی؛ آپ (صلعم) کا عشق ایسا روز (روشن) ہے جس پر شام کا گذر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul has no peace but in love of him – a light in me that never can get dim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "163",
+          "Text": [
+            {
+              "_content": "خیز و اندر گردش آور جام عشق\nدر قہستان تازہ کن پیغام عشق\nاقبال",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور عشق رسول پاک (صلعم) کے جام کو گردش میں لا؛ قہستان کے اندر از سر نو عشق کا پیغام عام کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise and make the cup of Love go round, and in your hills make songs of Love resound.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Hussain"
+}

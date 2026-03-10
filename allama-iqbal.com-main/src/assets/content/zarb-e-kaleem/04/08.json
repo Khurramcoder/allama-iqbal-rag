@@ -1,0 +1,120 @@
+{
+  "id": "08",
+  "name": "مسجد قوت الاسلام",
+  "name-en": "The Mosque of the Power of Islam",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے مرے سینہ بے نور میں اب کیا باقی \n'لاالہ' مردہ و افسردہ و بے ذوق نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے ذوق نمود: اظہار کے ذوق کا نہ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now naught remains in Muslim's breast, his heart devoid of glint and glow: He avowed with zeal 'No God but He', but dead and cold the zeal for show.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چشم فطرت بھی نہ پہچان سکے گی مجھ کو \nکہ ایازی سے دگرگوں ہے مقام محمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "دگرگوں: منتشر۔\nايازي: غلامی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim's state has so declined that Nature fails to know at sight, because the slavish acts of Ayaz have put Mahmud's high rank in plight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کیوں مسلماں نہ خجل ہو تری سنگینی سے \nکہ غلامی سے ہوا مثل زجاج اس کا وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مثل زجاج: شیشے کی مانند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have withstood the ruin of Time and kept your ground as firm as rock. Constraint has turned the Muslims weak; you put them all to shame and shock.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے تری شان کے شایاں اسی مومن کی نماز \nجس کی تکبیر میں ہو معرکہ بود و نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "بود و نبود: ہستی و نیستی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The worship of such Muslims suits your structure immense and so vast, who with one breath that God is Great; found truth and lies away are cast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اب کہاں میرے نفس میں وہ حرارت، وہ گداز \nبے تب و تاب دروں میری صلوہ اور درود",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے تب و تاب دروں: اندرونی تڑپ اور گرمی کے بغیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslim's breast is quite bereft of previous heat and ardour strong; his blessings, worship are devoid of innate heat and fret since long.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہے مری بانگ اذاں میں نہ بلندی، نہ شکوہ \nکیا گوارا ہے تجھے ایسے مسلماں کا سجود؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکوہ: دبدبہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His call to prayer is devoid of lofty tones and grandeur great; O God, let this be known to him, will you let him 'fore you prostrate?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

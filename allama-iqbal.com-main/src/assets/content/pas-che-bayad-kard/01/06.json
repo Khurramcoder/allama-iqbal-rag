@@ -1,0 +1,608 @@
+{
+  "id": "06",
+  "name": "لا الہ الا اﷲ",
+  "name-en": "There is no god but Allah",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نکتہ ئی میگویم از مردان حال\nامتان را \"لا\" جلال \"الا\" جمال",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں صاحب حال بزرگوں کی بات بتاتا ہوں ، امتوں کے لیے لا جلال ہے اور الا جمال (لا سے غیر اللہ کی نفی ہے اور الا میں اللہ تعالے کے سامنے جھک جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I tell thee a significant point known only to the people of ecstasy: For nations, negation expresses power, affirmation expresses beauty.\t \n(People of ecstasy, mardan-i-hal: Persons who pass through different states in their spiritual experiences. This phrase stands here for people engaged in dynamic activity in contrast to mardan-i-hal, people who only talk and do nothing. Jalal: Power. Jamal: Beauty.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "لا و الا احتساب کائنات\nلا و الا فتح باب کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "لا و الا سے کائنات کا احتساب ہے ، لا و الا سے کائنات (کی برکتوں) کا دروازہ کھلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Negation and affirmation together signify control of the universe: They are the keys to the doors of the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر دو تقدیر جہان کاف و نون\nحرکت از لا زاید از الا سکون",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان دونوں ( الفاظ ) سے اس جہان کن کی تقدیر بنتی ہے، لا سے حرکت میں اضافہ ہوتا ہے اور الا سے سکون میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both are the destiny of this world of Becoming. Movement is born out of negation, stationary state, out of affirmation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا نہ رمز لاالہ آید بدست\nبند غیر اﷲ را نتوان شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک لاالہ کا نکتہ ہاتھ نہ آئے غیر اللہ کے بند توڑے نہیں جا سکتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unless the secret of negation is grasped, the bonds of the other-than-God cannot be broken.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در جہان آغاز کار از حرف لاست\nاین نخستین منزل مرد خداست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں کام کا آغاز لا سے ہے، یہ مرد خدا کی پہلی منزل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beginning of every work in the world is with the word of negation: It is the first stage of the man of God.\t \n(In Darb-i-Kalim, Allamah says: In the universe, negation is the beginning; affirmation the end.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ملتے کز سوز او یک دم تپید\nاز گل خود خویش را باز آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ملّت جو ایک لمحہ کے لیے لا کے سوز میں تڑپی اس نے اپنی مٹی سے اپنے آپ کو (از سر نو ) پیدا کر لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation which burns itself in its heat for a moment recreates itself out of its own ashes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پیش غیر اﷲ \"لا\" گفتن حیات\nتازہ از ہنگامۂ او کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "غیر اللہ کے سامنے لا کہنا زندگی ہے، اسی کے ہنگامے سے کائنات میں تازگی پیدا ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To say No to the other-than-God is Life: The universe is ever renewed by its tumult.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از جنونش ہر گریبان چاک نیست\nدر خور این شعلہ ہر خاشاک نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "لا کے جنوں سے ہر (ایک کا) گریباں چاک نہیں ، ہر خاشاک اس شعلے کے لائق نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not every person is affected by its madness; not every haystack is fit to catch its fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جذبۂ او در دل یک زندہ مرد\nمی کند صد رہ نشین را رہ نورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا جذبہ ایک زندہ مرد کے دل میں پیدا ہوتا ہے اور وہ سینکڑوں رہ نشینوں کو (منزل کی جانب) گامزن کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When this ecstasy affects the heart of a living person, he makes sluggards sitting on the roadside to move on swiftly.\n(Sluggards, rah-nashin: wayside beggars, sitting and doing nothing. Rah-naward: He who is on the way, going somewhere, indicating movement, progress towards the goal.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بندہ را با خواجہ خواہی در ستیز\nتخم \"لا\" در مشت خاک او بریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو غلام کو آقا کے خلاف لڑانا چاہتا ہے تو اس کی مشت خاک میں لا کا بیج بو دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dost thou wish the servant to fight the master (for his rights)? Then sow the seed of No in his handful of dust.\t \n(Iqbal coined the word khwajgi to express the idea behind ‘capitalism’. It was first used in Rumuz-i-Bekhudi. Capitalism has cast many a charming idol: race, nationalism, church, state, civilization, and colour.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ہر کرا این سوز باشد در جگر\nہولش از ہول قیامت بیشتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس شخص کے جگر میں اس کا سوز ہو گا اس کی ہیبت قیامت کی ہیبت سے بڑھ کر ہو گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoever has this burning ardour in his heart\tis more awe-inspiring than the Doomsday.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "لا مقام ضربہای پی بہ پی\nاین غو رعد است نے آواز نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "لا ضرب ہائے پے بہ پے کا مقام ہے، یہ بجلی کی کڑک ہے، بانسری کی آواز نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No is a succession of violent blows; it is the rumbling of thunder, not the piping tune of a flute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ضرب او ہر \"بود\" را سازد \"نبود\"\nتا برون آئی ز گرداب وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ضرب ہر موجود کو مٹا دیتی ہے تاکہ تو موجود کے بھنور سے باہر آ جائے (لا موجود الا اﷲ)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its blow changes every being into non-being, so that thou comest out of the whirlpool of Existence.\n(The point Iqbal wishes to emphasise here is that one who follows Tawhid in spirit feels everything besides himself and God as of no value and hence insignificant and unreal. One must, however, guard here against a misconception. Iqbal’s normal position is that the world of matter is real and not illusory.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "با تو میگویم ز ایام عرب\nتا بدانی پختہ و خام عرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تمہیں عرب کی تاریخ بتاتا ہوں تاکہ اس کے پختہ اور خام ایّام سے آگاہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I relate to thee the history of the Arabs that thou may know its good and bad aspects.\n(Literally, so that you may know what is ripe and unripe in (the history of) the Arabs.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ریز ریز از ضرب او لات و منات\nدر جہات آزاد از بند جہات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی ضرب سے (سب) لات و منات ریزہ ریزہ ہو گئے اور وہ قوم (جہان) جہات کے اندر رہتی ہوئی بھی جہات کی بندشوں سے آزاد ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their strokes broke Lat and Manat into pieces; confined within dimensions, they yet lived free of all bonds.\t \n(Lat and Manat: Two idols, among many, which the Arabs worshipped. Here they stand for objects and persons other than God, to whom people pay homage.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہر قبای کہنہ چاک از دست او\nقیصر و کسری ھلاک از دست او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ہاتھوں ہر پرانی قبا چاک ہوئی، اس نے قیصر و کسری ( کی سلطنتوں ) کو خاک میں ملا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every old garment was torn off by them; Chosroes and Caesars met their doom at their hands.\t \n(Chosroe was the title of Persian monarchs and Caesar, of Roman emperors. Qaisar and Kisra are used as symbols of imperialism.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "گاہ دشت از برق و بارانش بدرد\nگاہ بحر از زور طوفانش بدرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی اس کی برق و باراں نے صحرا کو ہلا دیا اور کبھی اس کے زور طوفاں نے سمندر کو جھنجوڑ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At times deserts were overrun by their thunder showers; at other times seas were churned by their storms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "عالمی در آتش او مثل خس\nاین ہمہ ہنگامہ \"لا\" بود و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "جملہ عالم اس کی آگ کے سامنے خس کی مانند تھا، یہ سارا لا ہی کا ہنگامہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whole world, no more than a straw, was set afire by them: It was all a manifestation of No.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اندرین دیر کہن پیھم تپید\nتا جھانی تازہ ئی آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اس پرانے بتخانے میں مسلسل تڑپے یہاں تک کہ ایک نیا جہان ظاہر ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They were constantly astir until out of this old world they brought forth a new one into existence.\n(Jahan-e-Taza: New World. According to Allamah the New World means a world in accordance with the basic principles of Islam and is most relevant to the contemporary situation.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "بانگ حق از صبح خیزیہای اوست\nہر چہ ہست از تخم ریزیہای اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی صبح خیزی سے بانگ حق بلند ہوئی ، جو کچھ بھی ہمیں نظر آتا ہے ان ہی کے بوئے ہوئے بیج ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The invitation to the truth (the call to prayer) is the result of their early rising; whatever exists is the outcome of their sowing (of seed).\t \n(Rising early in the morning: It stands for intense devotion to God. Sowing of seed is to prepare the field for cultivation. The first line signifies that the ideal man is in constant touch with God from Whom be gets inspiration, as a result of which he tries to establish the rule of God’s laws on this earth.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "اینکہ شمع لالہ روشن کردہ اند\nاز کنار جوی او آوردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جو اس دور میں گل لالہ (تازہ علوم) کی شمع روشن کی گئی ہے یہ پودا ان ہی کی جوئے آب کے کنارے سے لایا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lamp of the tulip that has been lit up was brought from the banks of their river.\n(Iqbal refers to the tremendous creative work done by the Arabs in the fields of science and art. All that is visible in this world, of civilization, of knowledge, art and skill, is the result of their creative activity. It was they who sowed the seed and we in the present age are witnessing and enjoying the fruit of their labours. Modern sciences and arts are a continuation of what the Arabs achieved in their days.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "لوح دل از نقش غیر اﷲ شست\nاز کف خاکش دو صد ہنگامہ رست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب عربوں نے اپنے دل سے غیر اللہ کا نقش دھو دیا تو ان کی کف خاک سے سینکڑوں ہنگامے اٹھ کھڑے ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They erased from the tablet of their heart the\timpress of the other-than-God; hundreds of new worlds therefore came into being at their hands.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ہمچنان بینی کہ در دور فرنگ\nبندگی با خواجگی آمد بہ جنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس طرح تو نے دیکھا کہ فرنگیوں کے دور میں بھی غلامی نے آقائی سے جنگ کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You will similarly see that in the period of Western dominance capital and labour have come to blows.\t \n(Daur-i-Farang: Period of European domination, both political and intellectual. Iqbal seems to imply that the class struggle, strife between capital and labour, is the result of this age which is secular in nature, divorced from religious background.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "روس را قلب و جگر گردیدہ خون\nاز ضمیرش حرف \"لا\" آمد برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب روس کا قلب و جگر خون ہو گیا تو اس کے ضمیر سے لا کا لفظ اٹھ کھڑا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the heart of Russia was sorely afflicted, the word No came out of the depths of her being.\n(Depth of being: The word used by Iqbal, damir, signifies conscience, heart, and hence inner recesses of mind. This is a peculiar use of the word in Iqbal. The Qur’an says (xli. 53): ‘We will show them Our signs in the outer world and in the inner world (of self).’ The actual word used is anfus which the mystics regard as a region where they receive illumination and hence are able to arrive at the truth, mentioned in the above Qur’anic verse. This region of mystic experience may be called qalb (mentioned in the Qur’an, xxxii. 7-9) about which Iqbal says: ‘It is, according to the Qur’an, something which ‘sees’, and its reports, if properly interpreted, are never false’ (Reconstruction). In Javid Namah, Allamah says: ‘If you possess the spirit of a true Muslim, look into your heart and the Qur’an, a hundred new worlds lie in its verses, whole centuries are involved in its moments.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "آن نظام کہنہ را برہم زد است\nتیز نیشی بر رگ عالم زد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنا پرانا نظام درہم برہم کر دیا ہے اور جہان کی رگ حیات پر تیز نشتر لگایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She has upset the old order and applied a sharp scalpel to the veins of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "کردہ ام اندر مقاماتش نگہ\nلا سلاطین، لا کلیسا، لا الہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس ( انقلاب) کے مقامات پر نظر ڈالی ہے، اس نے پہلے سلاطین پھر کلیسا اور آخر میں اللہ تعالے کی نفی کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have closely observed her position which is: no kings, no church, no deity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "فکر او در تند باد \"لا\" بماند\nمرکب خود را سوی \"الا\" نراند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا فکر لا کی تیز آندھی ہی میں رہا ، اس نے اپنی سواری کا رخ الا کی طرف نہ موڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her thought has remained tied to the wind-storm of negation, and has not marched towards the affirmative ‘but’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "آیدش روزی کہ از زور جنون\nخویش را زین تند باد آرد برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک دن آئے گا جب وہ زور جنوں سے اپنے آپ کو اس آندھی سے نکال دے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Maybe a day will come when through force of ecstasy she may extricate herself from this whirlwind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "در مقام \"لا\" نیاساید حیات\nسوی الا می خرامد کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیونکہ زندگی لا کے مقام میں آسودگی نہیں پاتی ، کائنات خود بخود الا کی طرف چل نکلتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life does not rest at the station of Negation, the universe moves on towards ‘but’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "لا و الا ساز و برگ امتان\nنفی بی اثبات مرگ امتان",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوموں کا آسمان لا اور الا دونوں ہیں، اثبات کے بغیر نفی میں قوموں کی موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Negation and affirmation both are necessary for the nations: Negation without affirmation is their death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "در محبت پختہ کی گردد خلیل\nتا نگردد لا سوی الا دلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلیل ا لّہ کی محبت میں کیسے پختہ ہو سکتا ہے، جب تک لا اس کی راہنمائی الا اﷲ کی جانب نہ کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can Khalil (friend) be ripe in love unless negation guides him towards affirmation?\n(Reference is to the life of Prophet Abraham (A.S.). See the Qur’an, vi 76-80 where Abraham’s experience of ‘the kingdom of the heavens and the earth’ is described, involving denial of all false gods and attaining certainty by affirming his complete submission to Him ‘Who originated the heavens and the earth’, and he was not of the polytheists.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "اے کہ اندر حجرہ ہا سازی سخن\nنعرہ لا پیش نمرودی بزن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اے صوفی!) تو جو حجرے کے اندر بیٹھ کر باتیں بناتا ہے، (باہر نکل اور) نمرود کے سامنے لا کا نعرہ لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you, who indulge in debate in your closet, raise the cry of negation before a Nimrod. \n(Here Nimrod stands for any haughty ruler whose authority is not based on consent and who rules autocratically.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "این کہ می بینی نیرزد با دو جو\nاز جلال لا الہ آگاہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جو کچھ تو دیکھتا ہے اس کی قیمت دو جو کے برابر بھی نہیں ، لا الہ کے جلال سے آگاہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What you see around you is not worth two grains of barley, be acquainted with the might of there is no deity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ہر کہ اندر دست او شمشیر لاست\nجملہ موجودات را فرمانرواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے ہاتھ میں لا کی شمشیر ہے وہ ساری موجودات کا فرمانروا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who has the sword of negation in his hands is the ruler of all the universe.\t",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "57",
+  "name": "اے پیر حرم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے پیر حرم! رسم و رہ خانقہی چھوڑ \nمقصود سمجھ میری نوائے سحری کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Shaikh, who tend the Holy Shrine, discard these monkish modes of thine; grasp what morning songs denote, what aim or end I would promote.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اللہ رکھے تیرے جوانوں کو سلامت! \nدے ان کو سبق خود شکنی، خود نگری کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود شکني: اپنے آپ کو توڑنا، مراد ہے انسان کو غرور اور تکبر سے پاک کرنا۔ \nخود نگري: اپنے آپ کو دیکھنا؛ مراد ہے اپنے آپ کی پہچان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God preserve the youth you guide, and may they all by Faith abide! Restraint and order you must teach to shun conceit you ought to preach.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو ان کو سکھا خارا شگافی کے طریقے \nمغرب نے سکھایا انھیں فن شیشہ گری کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "خارا شگافي: سخت پتھر میں سراخ کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who blow on glass in West have taught the youth repose and rest; let them imbibe to bear the shocks, and cut the stones and hew the rocks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل توڑ گئی ان کا دو صدیوں کی غلامی \nدارو کوئی سوچ ان کی پریشاں نظری کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "دارو: دوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The foreign Yoke that ran for periods long has drained the blood or heart, so strong. Think of some cure, panacea or aught to bring to end their sight distraught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہہ جاتا ہوں میں زور جنوں میں ترے اسرار \nمجھ کو بھی صلہ دے مری آشفتہ سری کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fits of frenzy strong and great of mysteries, God I start to Prate, bestow on my distracted brain some recompense for this pain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To Elder Of The Shrine",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

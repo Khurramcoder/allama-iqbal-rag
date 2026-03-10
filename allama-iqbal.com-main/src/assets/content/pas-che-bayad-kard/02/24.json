@@ -1,0 +1,1307 @@
+{
+  "id": "24",
+  "name": "خطاب بہ پادشاہ اسلام اعلیحضرت ظاہر شاہ",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "پادشاہ اسلام ظاہر شاہ سے خطاب۔",
+  "Para": [
+    {
+      "id": 0,
+      "name": "’’ایدہ‘ اﷲ بنصرہ‘‘",
+      "name-en": "(May Allah support him with His help)",
+      "Verse": []
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے قبای پادشاہی بر تو راست\nسایۂ تو خاک ما را کیمیاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھ پہ قبائے پادشاہی پھبتی ہے؛ تیرا سایہ ہماری خاک کے لیے کیمیا کا اثر رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you on whom the robe of kingship fits well, your shadow is like alchemy for our dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خسروی را از وجود تو عیار\nسطوت تو ملک و دولت را حصار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے وجود سے پادشاہت کی قدر و قیمت ہے؛ تیری سطوت ملک و دین کے لیے قلعہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your self a standard for rulership; your majesty a fortress for the realm and state.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "از تو اے سرمایۂ فتح و ظفر\nتخت احمد شاہ را شانی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سرمایہ ء فتح و ظفر تیری وجہ سے احمد شاہ ابدالی کے تخت کی شان اور ہو گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through you, O the wherewithal of Victory. Ahmad Shah’s throne has acquired new glory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سینہ ہا بی مہر تو ویرانہ بہ\nاز دل و از آرزو بیگانہ بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سینے جو تیری محبت سے خالی ہیں؛ اگر ویران اور دل و آرزو سے نا آشنا ہو جائیں تو بہتر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the breasts without your love be barren; bereft of heart and aspiration.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آبگون تیغی کہ دارے در کمر \nنیم شب از تاب او گردد سحر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ چمکدار تلوار جو تیری کمر سے بندھی ہے؛ اس کی چمک سے شب صبح میں تبدیل ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bright sword you wear round your waist.even midnight turns into morning with its sheen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نیک میدانم کہ تیغ نادر است\nمن چہ گویم باطن او ظاہر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جانتا ہوں کہ یہ نادر شاہ کی تلوار ہے؛ میں نے کیا کہنا ہے اس کا باطن ہی ظاہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know well this rare sword is that of Nadir, what shall I say, its nature is evident.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حرف شوق آوردہ ام از من پذیر\nاز فقیری رمز سلطانی بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تمہارے لیے شوق و محبت کی بات لایا ہوں اسے قبول کر ؛ اس فقیر سے پادشاہت کے راز سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have brought a word of love, accept it from me; learn from a faqir the secret of kingship.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے نگاہ تو ز شاہین تیز تر\nگرد این ملک خدا دادی نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری نگاہ شاہین سے زیادہ تیز ہے؛ اس ملک خداداد کے ارد گرد دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you whose sight is sharper than that of a falcon, look at the God-given land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "این کہ می بینیم از تقدیر کیست\nچیست آن چیزی کہ میبایست و نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ ہم دیکھ رہے ہیں کس کی تقدیر ہے؟ وہ کیا چیز ہے جو ہونی چاہیے مگر نہیں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What we see is by whose dispensation? What is it that ought to be but is not?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "روز و شب آئینۂ تدبیر ماست\nروز و شب آئینۂ تقدیر ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "روز و شب ہماری تدبیر اور تقدیر کا آئینہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Days and nights are a reflection of our endeavours; these are the mirror of our destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "با تو گویم اے جوان سخت کوش\nچیست فردا ؟ دختر امروز و دوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے جوان سخن کوش میں تجھ سے کہتا ہوں ، مستقبل کیا ہے؟ ماضی اور حال کی بیٹی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I tell you, O stubborn young man, what is the future? Daughter of the past and present.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ہر کہ خود را صاحب امروز کرد\nگرد او گردد سپہر گرد گرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس نے امروز پر گرفت مضبوط رکھی ؛ آسمان اس کے گرد گردش کرتا ہے (تقدیر اس کے مطابق بن جاتی ہے )۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoever mastered his present; the sky fold upon fold revolves around him?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "او جہان رنگ و بو را آبروست\nدوش ازو، امروز ازو، فردا ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہی جہان رنگ و بو (کائنات) کی آبرو ہے؛ ماضی بھی اسی کا ہے، حال بھی اسی کا اور مستقبل بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is the glory of the world of hue and scent, the day gone by, today and morrow, all are his.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "مرد حق سرمایۂ روز و شب است\nزانکہ او تقدیر خود را کوکب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حق روز و شب کا حاصل ہے کیونکہ وہ خود اپنی تقدیر کا ستارہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A votary of God is the soul and substance of day and night because he is the star governing his destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بندۂ صاحب نظر پیر امم\nچشم او بینای تقدیر امم",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب نظر بندہ امتوں کا قائد ہوتا ہے؛ اس کی آنکھ امتوں کی تقدیر کو دیکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A discerning person, chief of the nation, his vision is blessed with ability to foresee future of the nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "از نگاہش تیز تر شمشیر نیست\nما ہمہ نخچیر، او نخچیر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تلوار اس کی نگاہ سے زیادہ تیز نہیں ؛ ہم سب شکار ہیں وہ شکار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No sword is sharper than his sight; we are all quarries but he is not.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "لرزد از اندیشۂ آن پختہ کار\nحادثات اندر بطون روزگار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پختہ کار کے فکر سے وہ حادثات جو ابھی زمانے کے بطن میں ہیں لرزتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the thought of this seasoned one events quake in the womb of time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "چون پدر اہل ہنر را دوست دار\nبندۂ صاحب نظر را دوست دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے باپ کی مانند اہل دانش اور صاحب نظر افراد سے دوستی رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Accomplished men be friend like you father, and these who have a deep insight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہمچو آن خلد آشیان بیدار زی\nسخت کوش و پر دم و کرار زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے خلد آشیان باپ کی مانند ، سخت کوش ، پر دم اور کرّار رہ کر زندگی بسر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like that departed one be wide awake, striving hard, spirited and intrepid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "می شناسی معنی کرار چیست؟\nاین مقامی از مقامات علی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو سمجھتا ہے کہ کرّار کے معنی کیا ہیں ؟ یہ حضرت علی (رضی اللہ ) کے مراتب سے ایک مرتبہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know what is meant by Karrar (knight veteran)? It is one of the high stations of Ali.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "امتان را در جہان بی ثبات\nنیست ممکن جز بہ کراری حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان بے ثبات کے اندر قوموں کے لیے کرّاری (پے بہ پے ضرب لگائے) بغیر زندہ رہنا ممکن نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For nations in this ephemeral world, life is not possible without this indispensable sterling quality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "سر گذشت آل عثمان را نگر\nاز فریب غربیان خونین جگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آل عثمان (ترکوں) کی سرگذشت دیکھ؛ وہ مغربیوں کے لگائے ہوئے زخم سے خونیں جگر ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look at the annals of the Ottomans who leped at the bled hands of the Europeans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تا ز کراری نصیبی داشتند\nدر جہان، دیگر علم افراشتند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک ان کے اندر کرّاری زندہ رہی؛ انہوں نے جہان میں اور انداز کا جھنڈا گاڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since they possessed material spirit, they flew their banner in the world once more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "مسلم ہندی چرا میدان گذاشت؟\nہمت او بوی کراری نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندی مسلمان کیوں میدان چھوڑ گیا ؟ اس لیے کہ اس کی ہمت کراری کی خوبی نہ رکھتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why did the Musulmans of India lose ground? Their mettle lacked the stimulus of fighting spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مشت خاکش آنچنان گردیدہ سرد\nگرمی آواز من کارے نکرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مشت خاک اس حد تک سرد ہو گئی کہ میری آواز کی گرمی نے بھی اس پر کچھ اثر نہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their pinch of dust waxed so cold that my fiery muse bore no effect on them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "ذکر و فکر نادری در خون تست\nقاہری با دلبری در خون تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نادر شاہ کا ذکر و فکر اور دلبری کے ساتھ قاہری تیرے خون میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit and though of Nadir are in your blood. Sternness with geniality pervades you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "اے فروغ دیدۂ برنا و پیر\nسرکار از ہاشم و محمود گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جوانوں اور بوڑھوں کی آنکھوں کی روشنی ہے؛ ہاشم و محمود سے معاملات سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you the lustre of the eyes of young and old, learn the knack of handling things from Hashim and Mahmud;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "ہم از آن مردی کہ اندر کوہ و دشت\nحق ز تیغ او بلند آوازہ گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور اس شخص سے بھی جس تلوار نے کوہ و دشت میں آواز حق بلند کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And also from that man with whom the voice of truth rang aloud in hills and plains",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "روز ہا، شب ہا تپیدن میتوان\nعصر دیگر آفریدن میتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "راتوں اور دنوں کے دوران تڑپ کے ایک نیا زمانہ تخلیق کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We can be restless day and night and create a new age.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "صد جہان باقی است در قرآن ہنوز\nاندر آیاتش یکی خود را بسوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "قرآن پاک میں ابھی سینکڑوں جہان باقی ہیں؛ ذرا اس کی آیات کے سوز سے گرمی حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There are a hundred worlds still in the Qur’an, burn yourself a little in the flames of its verses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "باز افغان را از آن سوزی بدہ\nعصر او را صبح نو روزی بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اس سوز کا کچھ حصّہ افغانیوں کو دے اور ان کے عصر کو جشن نو روز کی صبح بنا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give again the Afghans a new fiery spirit; give their time a New Year’s Day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "ملتی گم گشتۂ کوہ و کمر\nاز جبینش دیدہ ام چیزی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ملت جو پہاڑوں اور وادیوں میں گم گشتہ ہے؛ میں نے اس کی جبین میں کچھ دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation lost in hills and cliffs. I have observed a new thing in its forehead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "زانکہ بود اندر دل من سوز و درد\nحق ز تقدیرش مرا آگاہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ میرے دل میں سوز و درد ہے؛ اس لیے حق تعالے نے مجھے افغانیوں کی تقدیر سے آگاہ فرمایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since there was an intense feeling in me, God has made me aware of its destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "کاروبارش را نکو سنجیدہ ام\nآنچہ پنہان است پیدا دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ان کے معاملات کو خوب جانچا ہے؛ میں نے وہ بھی دیکھا ہے جو دوسروں کی نظر سے پنہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have carefully scanned its affairs and perceived clearly what is hidden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مرد میدان زندہ از اﷲ ہوست\nزیر پای او جہان چار سوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد میدان اللہ ہو سے زندہ ہے؛ اور یہ جہان چار سو اس کے پاؤں کے نیچے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man out in the field remains alive with Allah-hu, under his feet lies the world of four directions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "بندہ ئی کو دل بغیراﷲ نبست\nمی توان سنگ از زجاج او شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بندہ جو غیر اللہ سے دل نہیں لگاتا ؛ اس کا شیشہ پتھر کو توڑ سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A person who does not bind himself to other-than-God, can break a stone with his glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "او نگنجد در جہان چون و چند\nتہمت ساحل بہ این دریا مبند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اس جہان چون و چند (اسباب ) میں نہیں سماتا؛ وہ دریا کی طرح آزاد ہے، اس پر ساحل کی تہمت نہیں لگائی جا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He cannot he contained in this limited world of what and how much. Brand not this river by calling it a bank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "چون ز روی خویش بر گیرد حجاب\nاو حسابست او ثوابست او عذاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ اپنے چہرے سے پردہ اٹھاتا ہے تو وہی حساب ہے، وہی ثواب ، وہی عذاب (وہ قیامت بن جاتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When this masterly person removes the veil from his face, he is himself the reckoning, the reward, the chastisement.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "برگ و ساز ما کتاب و حکمت است\nاین دو قوت اعتبار ملت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کتاب و حکمت ہی ہمارا سرمایہ ہے؛ انہی دو قوتوں پر ملت کا دار و مدار ہے",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our whole and sole is the Book and its wisdom; both these powers form the glory of the millat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "آن فتوحات جہان ذوق و شوق\nاین فتوحات جہان تحت و فوق",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک سے جہان ذوق و شوق (روحانیت) کے انعامات ہیں ، دوسری سے مادی دنیا کی تسخیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Book spells the victories of the world of ardent inspiration, this, the Wisdom, determines the success of this world of above and below.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "ہر دو انعام خدای لایزال\nمومنان را آن جمال است این جلال",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں خداے لایزال کے انعامات ہیں؛ مومنوں کے لیے ایک جمال ہے دوسرا جلال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both are the bounties of the eternal God; for believers one is all grace and the other majesty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "حکمت اشیا فرنگی زاد نیست\nاصل او جز لذت ایجاد نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشیاء کی ماہیت جاننے کا آغاز فرنگیوں سے نہیں ہوا؛ اس کی بنیاد صرف نئی دریافت کی لذت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The knowledge of things is not European in origin; its root is the zest for invention.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "نیک اگر بینی مسلمان زادہ است\nاین گہر از دست ما افتادہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو غور سے دیکھے، تو یہ چیز مسلمانوں کی پیدا کردہ ہے ؛ یہ وہ موتی ہے جو ہمارے ہاتھ سے گرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you see well, it owes its existence to the Muslims; this pearl has fallen from our hands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "چون عرب اندر اروپا پر گشاد\nعلم و حکمت را بنا دیگر نہاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب عربوں نے یورپ کے اندر کشور کشائی کی ؛ تو انہوں نے وہاں نئے انداز سے علم و حکمت کی بنیاد رکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the Arabs spread their wings in the West, they laid a new foundation for learning and knowledge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "دانہ آن صحرا نشینان کاشتند\nحاصلش افرنگیان برداشتند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانہ ان صحرا نشینوں نے بویا؛ اور فصل افرنگیوں نے اکٹھا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seed was sown by these dwellers of the desert, but the harvest was reaped by the Europeans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "این پری از شیشہ اسلاف ماست\nباز صیدش کن کہ او از قاف ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پری کا تعلق ہمارے آبا و اجداد کے شیشے سے ہے؛ تو اسے دوبارہ شکار کر کیونکہ یہ ہمارے کوہ قاف کی پری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This fairy sprang from the glass of our ancestors; win her again because she hailed from our Caucasia.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "لیکن از تہذیب لا دینی گریز\nزانکہ او با اہل حق دارد ستیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر (فرنگیوں کی) لا دین تہذیب سے بچ کیونکہ وہ اہل حق کے ساتھ دشمنی رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But get away from a faithless civilization because it is at war with men of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "فتنہ ھا این فتنہ پرداز آورد\nلات و عزی در حرم باز آورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس فتنہ پرداز (مغربی تہذیب) نے کئی فتنے پیدا کیے ہیں ؛ یہ حرم میں لات و منات کو دوبارہ لے آئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This mischief-monger brings forth mischiefs, bringing back the idols Lat and Uzza to the Kaaba.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "از فسونش دیدۂ دل نا بصیر\nروح از بی آبی او تشنہ میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے جادو سے دل کی آنکھیں اندھی ہو جاتی ہیں؛ اس کی بے آبی سے روح پیاسی مر جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By its sorcery the eye of the heart is made blind; the spirit dies of thirst for lack of water.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "لذت بیتابی از دل می برد\nبلکہ دل زین پیکر گل می برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دل سے بے تابی کی لذت چھین لیتی ہے؛ بلکہ مٹی کے اس بدن سے دل کو نکال لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It takes away the joy of restlessness of the heart, nay, the heart itself from the body!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "کہنہ دزدی غارت او برملا ست\nلالہ می نالد کہ داغ من کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کہنہ مشق چور ہے برملا غارتگری کرتی ہے؛ یہ گل لالہ کا داغ بھی چرا لیتی ہے ؛ اور ول کہتا رہ جاتا ہے کہ میرا داغ کہاں گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An old thief, it loots with open hands, the tulip wails where is my dot?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "حق نصیب تو کند ذوق حضور\nباز گویم آنچہ گفتم در زبور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے تجھے ذوق حضوری نصیب فرمائیں ؛ میں نے جو کچھ زبور عجم میں کہا ہے، دوبارہ کہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let God grant you the zest for – I tell you again what I said in the Zubur.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "\"مردن و ہم زیستن اے نکتہ رس\nاین ہمہ از اعتبارات است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نکتہ رس مرنا اور جینا یہ صرف اعتباری ہے (ان کی حیثیت اضافی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Living and dying, O discerning one, are but arbitrary categories;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "مرد کر سوز نوا را مردہ ئے\nلذت صوت و صدا را مردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "برا شخص نوا کے سوز اور صوت و صدا کی لذت کے اعتبار سے مردہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A deaf person is dead in respect of sound, knowing not what it means.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "پیش چنگی مست و مسرور است کور\nپیش رنگی زندہ در گور است کور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اندھا شخص راگ سے مست و مسرور ہوتا ہے؛ لیکن رنگ کے سامنے وہ باوجود زندہ ہونے کے مردہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is senseless to sound. A blind man goes into ecstacy on hearing a harp, but he is as good as dead before colour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "روح باحق زندہ و پایندہ است\nورنہ این را مردہ، آن را زندہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح اللہ تعالے کے ساتھ تعلق کے اعتبار سے زندہ و پائیندہ ہے؛ ورنہ کفار کی روح مردہ اور صاحب ایمان کی زندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit is alive and endures with God; otherwise it is dead for this and living for that.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "آنکہ \"حی لایموت\" آمد حق است\nزیستن با حق حیات مطلق است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جو قرآن پاک میں اللہ تعالے کی شان میں حی لایموت آیا ہے حق ہے کیونکہ اللہ تعالے کے ساتھ زندہ رہنا ہی حیات مطلق پا لینا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who is living without death is God; to live with God is life absolute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "115",
+          "Text": [
+            {
+              "_content": "ہر کہ بی حق زیست جز مردار نیست\nگرچہ کس در ماتم او زار نیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو اللہ تعالے کے ساتھ تعلق کے بغیر زندگی بسر کرتا ہے، وہ مردار ہے ؛ اگرچہ کوئی اس کی موت پر ماتم نہیں کرتا (لوگ اسے زندہ ہی سمجھتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who lives without God is nothing but a corpse, although no one laments him.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "برخور از قرآن اگر خواہی ثبات\nدر ضمیرش دیدہ ام آب حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ثبات چاہتا ہے تو قرآن پاک سے حاصل کر؛ میں نے اس کے باطن میں آب حیات دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Benefit from the Qur’an if you want to endure, I have seen the Water of Life therein.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "119",
+          "Text": [
+            {
+              "_content": "می دہد ما را پیام \"لاتخف\"\nمی رساند بر مقام لاتخف",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہمیں لاتخف (نہ ڈر) کا پیغام ہی نہیں دیتا بلکہ اس مقام تک بھی پہنچا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives the message of Fear Not, and takes us to this very end-point.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "قوت سلطان و میر از لاالہ \nہیبت مرد فقیر از لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہوں کی قوت بھی لاالہ سے ہے: اور مرد فقیر کی ہیبت بھی اسی سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The power of the kings and chiefs arises from La Ilha; the awe of Faqir arises from it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "Text": [
+            {
+              "_content": "تا دو تیغ لا و الا داشتیم\nماسوی اﷲ را نشان نگذاشتیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک ہم لا و الا کی دو تلواریں رکھتے ہیں ؛ ہم غیر اللہ کا نشان مٹا سکتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as we had the sword of La and Ilah, we left no trace of other-than-God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "خاوران از شعلۂ من روشن است\nاے خنک مردی کہ در عصر من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق میرے شعلے سے روشن ہے؛ مبارک ہے وہ شخص جو میرے دور میں زندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The East is bright with my flame; happy he who lives in my age.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "127",
+          "Text": [
+            {
+              "_content": "از تب و تابم نصیب خود بگیر\nبعد ازین ناید چو من مرد فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے تب و تاب سے اپنا حصّہ لے لے ؛ اس کے بعد مجھ جیسا مرد فقیر نہیں آئے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have your share from my flaming self, for no faqir like me will come forth after me!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "گوہر دریای قرآن سفتہ ام\nشرح رمز \"صبغة اﷲ\" گفتہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے قرآن کے سمندر سے موتی نکال کر انہیں (اپنے کلام ) میں پرویا ہے ؛ میں نے اللہ تعالے کے رنگ کے راز کی شرح بیان کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have strung the pearls of the Qur’an and explained the meaning of divine Colour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "131",
+          "Text": [
+            {
+              "_content": "با مسلمانان غمی بخشیدہ ام\nکہنہ شاخی را نمی بخشیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے مسلمان کو نیا احساس دیا ہے ؛ میں نے اس پرانی شاخ کو نمی دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have imparted a feeling into the Muslims, providing moisture to an old branch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "عشق من از زندگی دارد سراغ\nعقل از صہبای من روشن ایاغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا عشق زندگی کے معنی بیان کرتا ہے ؛ میری شراب سے عقل کا جام روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My passion has the mark of life; the intellect acquires lustre from my wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "135",
+          "Text": [
+            {
+              "_content": "نکتہ ہای خاطر افروزی کہ گفت؟\nبا مسلمان حرف پرسوزی کہ گفت؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلوں کو روشن کر دینے والے نکات کس نے بیان کیے ؟ مسلمان سے پر سوز بات کس نے کہی؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who has explained secrets that enlighten the hearts? Who has said moving words to the Muslims?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "ہمچو نے نالیدم اندر کوہ و دشت\nتا مقام خویش بر من فاش گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بانسری کی طرح پہاڑوں اور جنگلوں میں روتا رہا ہوں تب کہیں جا کر مجھ پر میرا مقام واضع ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I cried like a flute in hills and plains until my position became clear to me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "139",
+          "Text": [
+            {
+              "_content": "حرف شوق آموختم وا سوختم\nآتش افسردہ باز افروختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں مسلمانوں کو شوق (محبت ) کی بات سکھائی اور انہیں سوز عشق سے گرمایا ؛ میں نے عشق کی بجھی ہوئی آگ کو دوبارہ روشن کر دیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I learnt the word of passion and became afire; I lighted again the extinguished fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "با من آہ صبحگاہی دادہ اند\nسطوت کوہی بہ کاہی دادہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے آہ سحر گاہی عطا ہوئی ہے؛ اس کاہ کو کوہ کی سطوت دی گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have been given a sigh of the morning, granting the might of a mountain to a straw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "143",
+          "Text": [
+            {
+              "_content": "دارم اندر سینہ نور لاالہ\nدر شراب من سرور لاالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے سینے میں لاالہ کا نور رکھتا ہوں؛ میری شاعری کی شراب میں لاالہ کا سرور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I bear the light of La Ilah in my breast, my wine ows its bracing effect to it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "فکر من گردون مسیر از فیض اوست\nجوی ساحل ناپذیر از فیض اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی کے فیض سے میرا فکر فلک پیما ہے؛ اسی کے فیض سے میری ندی ناپیدا کنار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought is sky-traversing by conferment, my stream is averse to the bank thereby.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "147",
+          "Text": [
+            {
+              "_content": "پس بگیر از بادہ من یک دو جام\nتا درخشی مثل تیغ بی نیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بھی میری شراب سے ایک دو جام لے لے تا کہ تو تیغ بے نیام کی طرح چمک اٹھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Therefore take one or two cups from my brew; so that you should shine like an unsheathed sword.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "Talk With The King Of Islam, Zahir Shah",
+  "credits": "English Translation by: Jamil Naqvi"
+}

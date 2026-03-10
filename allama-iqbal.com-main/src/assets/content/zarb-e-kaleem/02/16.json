@@ -1,0 +1,84 @@
+{
+  "id": "16",
+  "name": "تربیت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگی کچھ اور شے ہے، علم ہے کچھ اور شے\nزندگی سوز جگر ہے، علم ہے سوز دماغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Existence and knowledge both are poles apart, life burns the soul, whereas lore makes it smart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "علم میں دولت بھی ہے، قدرت بھی ہے، لذت بھی ہے \nایک مشکل ہے کہ ہاتھ آتا نہیں اپنا سراغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Joy, wealth and power all, to lore are due, how irksome that to Self it yields no clue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اہل دانش عام ہیں، کم یاب ہیں اہل نظر \nکیا تعجب ہے کہ خالی رہ گیا تیرا ایاغ!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایاغ: پیالہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No dearth of lettered men, ah few! Provide the bowl with wine of gnosis like True Guide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شیخ مکتب کے طریقوں سے کشاد دل کہاں \nکس طرح کبریت سے روشن ہو بجلی کا چراغ!",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبریت: گندھک، آج کل عربی اور فارسی میں دیا سلائی کو بھی کہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ways of teachers don't expand the heart, match stick can't light to electric lamp impart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Upbringing",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

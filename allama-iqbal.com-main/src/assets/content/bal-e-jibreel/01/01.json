@@ -1,0 +1,98 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میری نوائے شوق سے شور حریم ذات میں \nغلغلہ ہائے الاماں بت کدئہ صفات میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذات: باری تعالے کی ہستی ، وجود مطلق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My cries of longing stir the sanctuary of His Being.\nEven the temple of His attributes echoes with cries for mercy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حور و فرشتہ ہیں اسیر میرے تخیلات میں \nمیری نگاہ سے خلل تیری تجلیات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Even angels and heavenly maidens are captured by my imagination.\nMy daring vision unsettles the ways You reveal Yourself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرچہ ہے میری جستجو دیر و حرم کی نقش بند \nمیری فغاں سے رستخیز کعبہ و سومنات میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "نقش بند: نقش باندھنے والا، نقّاش۔ \nرستخیز: قیامت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though my search is drawn on the canvas of temples and mosques,\nmy cries can shake both the Kaaba and Somnath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گاہ مری نگاہ تیز چیر گئی دل وجود \nگاہ الجھ کے رہ گئی میرے توہمات میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes my sharp gaze pierces the heart of existence.\nAt other times it gets trapped in my own doubts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو نے یہ کیا غضب کیا، مجھ کو بھی فاش کر دیا \nمیں ہی تو اک راز تھا سینہء کائنات میں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a wonder You have done—You revealed me as well.\nI was the one hidden secret in the heart of the universe!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

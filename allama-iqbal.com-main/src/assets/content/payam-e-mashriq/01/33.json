@@ -1,0 +1,34 @@
+{
+  "id": "33",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان یارب چہ خوش ہنگامہ دارد\nہمہ را مست یک پیمانہ کردی\nنگہ را با نگہ آمیز دادی\nدل از دل جان ز جان بیگانہ کردے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدایا! اس جہان میں کیا خوب ہنگامہ بپا ہے، آپ نے سب کو ایک ہی پیمانہ (الست) سے مست کر دیا۔\nنظر تو نظر سے مل جاتی ہے ، مگر دل دل اور روح روح سے الگ رہتی ہے ( ہر روح یکتا ہے اور ہر قلب کے سوچنے کا انداز مختلف ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A wonderful show, God, is Your world; all things seem to have drunk from the same wine-bowl.\nEye intimate with eye; but heart from heart and soul from soul divided by a wall.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

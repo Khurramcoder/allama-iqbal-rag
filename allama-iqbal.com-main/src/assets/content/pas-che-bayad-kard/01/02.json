@@ -1,0 +1,626 @@
+{
+  "id": "02",
+  "name": "تمہید",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پیر رومی مرشد روشن ضمیر\nکاروان عشق و مستی را امیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر رومی مرشد روشن ضمیر اور کاروان عشق و مستی کا امیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Pir of Rum, the clairvoyant murshid, the leader of the caravan of love and ecstasy;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "منزلش برتر ز ماہ و آفتاب\nخیمہ را از کہکشان سازد طناب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی منزل چاند اور سورج سے بھی بلند تر ہے؛ کہکشاں اس کے خیمے کی طناب ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose station is far above the Moon and the Sun, for whose tent the Milky Way serves as pegs;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نور قرآن در میان سینہ اش\nجام جم شرمندہ از آئینہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سینہ کے اندر قرآن پاک کا نور ہے؛ (یہی وجہ ہے کہ) اس کے آئینہ (قلب) سے جام جم شرمندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose heart is effulgent with the light of the Quran, whose mirror is more revealing than Jamshid’s cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از نے آن نے نواز پاکزاد\nباز شوری در نھاد من فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پاک سرشت نے نواز کے نغمہ نے میری طبیعت کے اندر دوبارہ ہنگامہ پیدا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That musician* of Pure breed has thrown my being into tumult once again with his music.\n* Reference is to Rumi whose very first verse in the Mathnavi is: Listen to the reed when it relates its story, and complains of separation.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت \"جانہا محرم اسرار شد\nخاور از خواب گران بیدار شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے مجھ سے کہا: انسانوں کے ضمیر راز ہائے حیات سے با خبر ہو رہے ہیں۔ مشرق گہری نیند سے بیدار ہو رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said he: The people have become aware of the secrets, the East has awoken from its deep slumber;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جذبہ ہای تازہ او را دادہ اند\nبندہای کہنہ را بگشادہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل مشرق کو نیا جذبہ عطا ہو رہا ہے، اس کے پرانے بند کھولے جا رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Destiny has given it new aspirations, and loosened its age-old chains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جز تو اے دانای اسرار فرنگ\nکس نکو ننشست در نار فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دانائے اسرار فرنگ ! تیرے بغیر اور کوئی (غلام) یورپ کی آگ میں بیٹھ کر سلامت باہر نہیں آیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one, O knower of the secrets of the West, has experienced the fire of the West better than thee.\n(Fire of the West: Reference is to the fire into which Abraham was cast by his enemies. It is said that Abraham came out of this fire unscathed and better equipped to face the challenge of his enemies.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "باش مانند خلیل اﷲ مست\nہر کہن بتخانہ را باید شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابراہیم خلیل اللہ (علیہ) کی مانند (اپنے حال میں) مست رہ، ہر پرانا بتخانہ ٹوٹ جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be God-intoxicated like the Friend of God*, and help bring down every idol-temple**.\n* Friend of God is the title of Abraham. **Breaking of idols is associated with the name of Abraham.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "امتان را زندگی جذب درون\nکم نظر این جذب را گوید جنون",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذب دروں (ہی) سے قوموں کی زندگی ہے (مگر) کم نظر اس جذب کو جنوں کہتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is ecstasy that imparts life to peoples, though the undiscerning call it madness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہیچ قومی زیر چرخ لاجورد\nبی جنون ذوفنون کاری نکرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی قوم اس نیلے آسمان کے نیچے جنون ذوفنون کے بغیر (عظیم) کارنامہ سرانجام نہیں دے سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No people under the azure dome of the sky has ever achieved anything without this ingenious madness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "مومن از عزم و توکل قاہر است\nگر ندارد این دو جوہر کافر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مومن عزم و توکّل ہی سے صاحب جبروت ہے، اگر اس میں دو صفات نہ ہوں تو وہ کافر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The believer is strong through his will and his tawakkul; if he lacks these two, he is an unbeliever.\n(Tawakkul: Complete reliance on God. Here Iqbal follows Rumi and interprets tawakkul in the positive sense of relying upon God while starting any programme of work. It is related that a Bedouin left his camel grazing unprotected. He lost it and came to the Prophet (S.A.W.) complaining that he had left the camel grazing quite unprotected, relying completely on God. The Prophet said, ‘Tie the camel's knot and trust in God’. This is Islamic tawakkul.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "خیر را او باز میداند ز شر\nاز نگاہش عالمی زیر و زبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مومن خیر کو شر سے الگ پہچان لیتا ہے، اس کی ایک نگاہ سے دنیا زیر و زبر ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He can distinguish between good and evil; a mere look from him can shake the whole world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کوہسار از ضربت او ریز ریز\nدر گریبانش ھزاران رستخیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہاڑ اس کی ضرب سے ریزہ ریزہ ہو جاتے ہیں، اس کے گریبان میں ہزاروں ہنگامے ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His blow can crush a mountain to pieces; and he has thousands of resurrections at his command.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "تا می از میخانۂ من خوردہ ئے\nکہنگی را از تماشا بردہ ئے",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تو نے میرے میخانہ سے شراب پی ہے اور پرانی اقدار کو سامنے سے ہٹا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having drunk wine from my tavern, you have removed all out-modedness from your vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "در چمن زی مثل بو مستور و فاش\nدر میان رنگ پاک از رنگ باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اب چمن میں خوشبو کی طرح مستور اور ظاہر ہے؛ دنیا میں رہتے ہوئے بھی اس کے رنگ سے پاک رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Live in the garden like smell, both hidden and manifest, live among colours, but be free from colour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "عصر تو از رمز جان آگاہ نیست\nدین او جز حب غیر اﷲ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا زمانہ روحانی رموز سے آگاہ نہیں ، اس کا مذہب صرف غیر اللہ سے محبت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your age is not aware of the secrets of the spirit: Its creed is nothing but love for the other-than-God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "فلسفی این رمز کم فہمیدہ است\nفکر او بر آب و گل پیچیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفی نے بھی اس رمز کو نہیں پہچانا اس کی ساری سوچ مادی اشیا ء کے گرد گھومتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Little has the philosopher understood this point: His thought revolves only round matter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "دیدہ از قندیل دل روشن نکرد\nپس ندید الا کبود و سرخ و زرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنی آنکھ کو دل کے چراغ سے روشن نہیں کیا اس لیے اس نے صرف نیلے، سرخ اور زرد (ظاہری) رنگ دیکھے (وہ اللہ تعالے کا رنگ نہ دیکھ سکا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has not illumined his eyes with the lantern of the heart; hence he sees nothing but blue, red and yellow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اے خوش آن مردی کہ دل با کس نداد\nبند غیر اﷲ را از پا گشاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ شخص جس نے کسی کو دل نہ دیا؛ جس کے پاؤں غیر اللہ کے بند سے آزاد رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fortunate is he who never bowed before any man, and who freed his feet from the chains of servitude to the other-than-God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "سر شیری را نفہمد گاو و میش\nجز بہ شیران کم بگو اسرار خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "گائیں بھینسیں شیر کے راز نہیں سمجھ سکتیں، اس لیے اپنے راز صرف شیروں کو بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What it means to be a lion is beyond the ken of cows and buffaloes; never reveal your secret except to lions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "با حریف سفلہ نتوان خورد می\nگرچہ باشد پادشاہ روم و ری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم ظرف ساتھی کے ساتھ شراب نہیں پی جا سکتی خواہ وہ روم و رے کا بادشاہ ہی کیوں نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One should not drink wine in the company of a churl, though he may be king of Rum or Rayy.\n(Rum means West Asian mainland.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "یوسف ما را اگر گرگے برد\nبہ کہ مردی ناکسی او را خرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے یوسف کو اگر بھیڑیا لے جائے تو یہ اس سے کہیں بہتر ہے کہ کوئی ایسا شخص اسے خریدے جو انسانیت سے عاری ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is better that our Joseph be taken away by a wolf than be bought by an unworthy person.\n(The brothers of Yusuf (A.S.) falsely claimed that he had been devoured by a wolf. The folklore has it that when Yusuf was being offered for sale in the Egyptian market by the Midianites, a woman came forward to buy him in exchange for a piece of yarn.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اہل دنیا بی تخیل بی قیاس\nبوریا بافان اطلس ناشناس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل دنیا نہ تخیّل رکھتے ہیں، نہ سوچ، وہ بوریئے بننے میں لگے رہتے ہیں ، انہیں اطلس کی خبر ہی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "People of the world lack reason and imagination: they are weavers of mat and know nothing about satin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "اعجمی مردی چہ خوش شعری سرود\nسوزد از تأثیر او جان در وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "عجمی مرد نے کیا خوب شعر کہا جس کی تاثیر سے جان میں سوز پیدا ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a beautiful verse a Persian poet has sung, which sets the soul afire:",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "\"نالۂ عاشق بگوش مردم دنیا\nبانگ مسلمانی و دیار فرنگ است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'دنیا دار کے کانوں میں عاشق کا نالہ (و فریاد یوں ہے جیسے) فرنگیوں کے ملک میں بانگ آذاں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘To the ears of the people of the world, the wailing of the lover is like the cry of the azan in the land of the Franks’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "معنی دین و سیاست باز گوی\nاہل حق را زین دو حکمت باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین و سیاست کے معنی پھر بیان کر، اہل حق کو از سر نو ان کی حکمت بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reveal once again the significance of religion and politics; tell the devotees of the Truth what you understand by them.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "\"غم خور و نان غم افزایان مخور\nزانکہ عاقل غم خورد کودک شکر\"\n رومی",
+              "lang": "Original"
+            },
+            {
+              "_content": "غم کھا لے، مگر غم بڑھانے والوں کی روٹی نہ کھا، کیونکہ عقلمند غم کھاتا ہے اور بچہ شکر کھاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Suffer grief (patiently) and do not eat the bread of those who augment grief; a wise man suffers grief while a child eats sweets.’ Rumi.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خرقہ خود بار است بر دوش فقیر\nچون صبا جز بوی گل سامان مگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیر کے کندھے پر تو گدڑی بھی بوجھ ہے ؛ باد صبح کی مانند سوائے پھول کی خوشبو کے اور سامان نہ اٹھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the mendicant*, even his patched-up garment is a burden. Like breeze you should carry nothing except the smell of roses.\n* Faqir: In Iqbal's terminology, Faqr is not begging for lack of means, but a positive attitude of detachment towards the material world. One who serves God's purposes and obeys His laws and subjects himself to His will is what Iqbal would call a Faqir.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "قلزمی با دشت و در پیہم ستیز\nشبنمی خود را بہ گلبرگی بریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو سمندر ہے تو آبادی و ویرانہ سے مسلسل نبرد آزما ہو۔ اگر شبنم ہے تو پھول کی پتی پر ٹپک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you an ocean? Then be constantly at war with your environment. Are you a dew-drop? Then drop yourself gently on a rose-petal.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "سر حق بر مرد حق پوشیدہ نیست\nروح مومن ہیچ میدانی کہ چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حق سے راز حق پوشیدہ نہیں؛ کیا تو جانتا ہے کہ روح مومن کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Divine mystery is not hidden from the man of God; do you know what is the true nature of a believer’s soul?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "قطرۂ شبنم کہ از ذوق نمود\nعقدۂ خود را بدست خود گشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا قطرہء شبنم ہے جو اظہار ذات کے شوق میں اپنی مشکل اپنے ہاتھ سے حل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a drop of dew which, out of desire for self-manifestation, unravelled its own knot with its own hands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "از خودی اندر ضمیر خود نشست\nرخت خویش از خلوت افلاک بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تحفّظ ذات کی خاطر اپنے ضمیر کے اندر رہتا ہے، جو افلاک کی خلوت سے سفر اختیار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which sat in the depth of its being by dint of selfhood, which started on its journey from the stillness of the heavens.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "رخ سوی دریای بے پایان نکرد\nخویشتن را در صدف پنہان نکرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بحر بے پایاں کی طرف رخ نہیں کرتا ؛ نہ اپنے آپ کو سیپ میں پنہاں کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which did not turn towards the limitless expanse of the ocean; nor hid itself in an oyster.\n(Oyster: It is generally said that if a drop of water enters the oyster, it becomes a pearl. Self-development in the eyes of Iqbal, does not consist in acquiring material wealth or in showing off one's talents it rather lies in gaining in depth and radiating one's dynamism and vitality towards all without any-distinction.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "اندر آغوش سحر یکدم تپید\nتا بکام غنچۂ نورس چکید\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلکہ وہ صبح کے آغوش میں ایک لمحہ کے لیے چمک کر اپنے آپ کو نو دمیدہ غنچہ کے منہ میں ٹپکا دیتی ہے (اور اسے پھول بنا دیتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It palpitated in the lap of the morning for a moment and then dropped into the mouth of the new-born bud.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "name-en": "Preamble",
+  "credits": "English Translation by: Jamil Naqvi"
+}

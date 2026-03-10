@@ -1,0 +1,34 @@
+{
+  "id": "124",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درونم جلوۂ افکار این چیست؟\nبرون من ہمہ اسرار این چیست\nبفرما اے حکیم نکتہ پرداز\nبدن آسودہ، جان سیار، این چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا اندرون افکار کی جلوہ گاہ ، یہ کیا؟ مجھ سے باہر راز ہی راز ، یہ کیا؟ \nمیرا اے حاکم نکتہ بین ہمیں بتا، بدن (دنیا میں) مقید اور جان (آسمانوں کی) سیّار ، یہ کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Inside me is such a play of ideas – what does this mean? Outside me are all these mysteries – what does this mean?\nSay, you who are wise and have a subtle mind: The body lies still, but the soul stirs – what does this mean?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

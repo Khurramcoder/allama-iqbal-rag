@@ -1,0 +1,34 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بر خیز کہ آدم را ہنگام نمود آمد\nاین مشت غباری را انجم بہ سجود آمد\nآن راز کہ پوشیدہ در سینۂ ہستی بود\nاز شوخی آب و گل در گفت و شنود آمد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ٹھ کہ آدم (کی عظمت) کے اظہار کا وقت آ گیا ہے، (دیکھو!) ستارے اس مشت خاک کو سجدہ کر رہے ہیں۔\nوہ راز جو سینہ ہستی میں پوشیدہ تھا، آدم خاکی کی شوخی کی بدولت اب اس کی باتیں عام ہونے لگی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise up! The hour is here that Adam shall appear; the stars bow, as they must, to this handful of dust.\nThe secret, that at rest was hid in Being’s breast, by Clay and Water stirred is magically heard.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

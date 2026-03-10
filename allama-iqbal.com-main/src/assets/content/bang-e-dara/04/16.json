@@ -1,0 +1,99 @@
+{
+  "id": "16",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دلیل مہر و وفا اس سے بڑھ کے کیا ہوگی \nنہ ہو حضور سے الفت تو یہ ستم نہ سہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What will be a better proof of affection and fidelity with no love for you how intolerable will this cruelty be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مصر ہے حلقہ،کمیٹی میں کچھ کہیں ہم بھی \nمگر رضائے کلکٹر کو بھانپ لیں تو کہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "مصر: بضد، اسرار کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Insistence is that in the ward committee I should also speak, but I shall speak after guessing if the Collector agreeable with me will be.\n(Collector – also known as Deputy Commissioner – is the highest administrative officer at the district level in the Indian sub-continent. He was so powerful during the British rule that the service to which he belonged was said to be the ‘steel frame of the British Empire’. This verse is sarcasm on the state of affairs in which nothing could happen in the district without the implicit or explicit concurrence of the Collector.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سند تو لیجیے، لڑکوں کے کام آئے گی \nوہ مہربان ہیں اب، پھر رہیں، رہیں نہ رہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Obtain the testimonial, it will be of use for sons; he is favorable now, later he may or may not be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زمین پر تو نہیں ہندیوں کو جا ملتی \nمگر جہاں میں ہیں خالی سمندروں کی تہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Indians cannot find a place on the earth, but the oceans’ bottom available may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مثال کشتی بے حس مطیع فرماں ہیں \nکہو تو بستہ ساحل رہیں، کہو تو بہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشتي بے حسي: بے حس کشتی۔ \nمطيع فرماں: فرمانبردار ۔\nبستہ ساحل: ساحل سے چمٹے رہنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the insensitive boat we are subservient to orders; we are bound to the bank or float as your desire may be. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

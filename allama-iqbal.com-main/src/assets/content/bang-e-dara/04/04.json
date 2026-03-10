@@ -1,0 +1,33 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ کوئی دن کی بات ہے اے مرد ہوش مند! \nغیرت نہ تجھ میں ہو گی، نہ زن اوٹ چاہے گی \nآتا ہے اب وہ دور کہ اولاد کے عوض \nکونسل کی ممبری کے لیے ووٹ چاہے گی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wise man! This is a matter of a few days only; neither you will be modest nor woman will seclusion want.\nThat time is approaching when instead of children votes for the council’s membership will she want.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

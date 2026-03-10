@@ -1,0 +1,132 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد نے مجھ کو عطا کی نظر حکیمانہ \nسکھائی عشق نے مجھ کو حدیث رندانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My mind on me bestowed a thinker’s gaze, from Love I learnt a toper’s wont and ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ بادہ ہے، نہ صراحی، نہ دور پیمانہ \nفقط نگاہ سے رنگیں ہے بزم جانانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "بزم جانانہ: محبوب کی محفل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wine, no flask, no goblet goes around, sweet looks to banquet lend its hue and sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مری نوائے پریشاں کو شاعری نہ سمجھ \nکہ میں ہوں محرم راز درون میخانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "محرم راز درون ميخانہ: کائنات کے رازوں کو جاننے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take not my rhymes for poet’s art; I know the secrets of wine-seller’s mart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کلی کو دیکھ کہ ہے تشنہ نسیم سحر \nاسی میں ہے مرے دل کا تمام افسانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold the bud athirst for breath of Morn, it tells the story of my heart forlorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کوئی بتائے مجھے یہ غیاب ہے کہ حضور \nسب آشنا ہیں یہاں، ایک میں ہوں بیگانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Know not, absence or presence if it be, I am the alien here, all others free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "فرنگ میں کوئی دن اور بھی ٹھہر جاوں \nمرے جنوں کو سنبھالے اگر یہ ویرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My stay in West I may prolong a bit, my frenzy if this desert will admit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مقام عقل سے آساں گزر گیا اقبال \nمقام شوق میں کھویا گیا وہ فرزانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرزانہ: سمجھدار، ہوشیار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stage of mind by Iqbal soon was crost, but in the Vale of Love this sage was lost.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

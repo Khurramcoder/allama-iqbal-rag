@@ -1,0 +1,117 @@
+{
+  "id": "06",
+  "name": "دوزخی کی مناجات",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس دیر کہن میں ہیں غرض مند پجاری\nرنجیدہ بتوں سے ہوں تو کرتے ہیں خدا یاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "دير کہن: پرانی دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The selfish priests live in this temple old, when grieved by idols they take the God’s fold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پوجا بھی ہے بے سود، نمازیں بھی ہیں بے سود\nقسمت ہے غریبوں کی وہی نالہ و فریاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their worship is vain, their prayers in vain; the poor are destined to weep in old pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہیں گرچہ بلندی میں عمارات فلک بوس\nہر شہر حقیقت میں ہے ویرانہء آباد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلک بوس: آسمان کو چھونے والی۔ \nويرانہء آباد: ظاہر میں آباد اور حقیقت میں ویران۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In height are buildings which kiss the sky, in fact each city makes ruins by and by.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تیشے کی کوئی گردش تقدیر تو دیکھے\nسیراب ہے پرویز، جگر تشنہ ہے فرہاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيراب: پانی پینے والا۔ \nجگر تشنہ: جگر سے پیاسا، انتہائی پیاسا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let some one ponder the fate of axe yet, Pervez well watered, the beau thirsty yet.\n[Pervez: King of Persia (known in amatory legend of Shirin and Farhad on whose behest Farhad dug the canal with his axe. Thus the beau is Farhad, who could not yet win the hand of his lady love.]",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ علم، یہ حکمت، یہ سیاست، یہ تجارت\nجو کچھ ہے، وہ ہے فکر ملوکانہ کی ایجاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر ملوکانہ: بادشاہ کی سوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This knowledge, this science, statecraft and trade; for kingship alone these games were made.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اللہ! ترا شکر کہ یہ خطہ پر سوز\nسوداگر یورپ کی غلامی سے ہے آزاد!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I thank thee O God! That this radiant tract; of bondage of West has no signs in fact.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Hymns Of Hell Dweller",
+  "credits": "English Translation by: Q A Kabir"
+}

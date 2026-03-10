@@ -1,0 +1,162 @@
+{
+  "id": "19",
+  "name": "کرمک شبتاب",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یک ذرہ بی مایہ متاع نفس اندوخت\nشوق این قدرش سوخت کہ پروانگی آموخت\nپہنای شب افروخت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A tiny atom found itself a living thing by chance. Aquiver with life’s ardour it began a moth-like dance, and set aglow the night’s expanse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "واماندہ شعاعی کہ گرہ خورد و شرر شد\nاز سوز حیاتست کہ کارش ہمہ زر شد\nدارای نظر شد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A dormant sunbeam re-awoke and shot up with a dash. The alchemy of life converted it to gold from trash came vision to it in a flash.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پروانۂ بیتاب کہ ہر سو تک و پو کرد\nبر شمع چنان سوخت کہ خود را ہمہ او کرد\nترک من و تو کرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A restlessly aflutter moth was bold enough to dart into the candle’s flame, became one with its fiery heart, and ceased to be a thing apart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یا اخترکی ماہ مبینی بہ کمینی\nنزدیک تر آمد بتماشای زمینی\nاز چرخ برینے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A moon-faced starlet, living in its isolated bower, came out of it in order to look closer at the lower planet than from its high tower.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یا ماہ تنک ضو کہ بیک جلوہ تمام است\nماہی کہ برو منت خورشید حرام است\nآزاد مقام است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A gently beaming moonlet told itself that it would owe its light no longer to the bounty of the sun, and so wherever it likes it can go.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے کرمک شب تاب سراپای تو نور است\nپرواز تو یک سلسلۂ غیب و حضور است\nآئین ظہور است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O glow-worm, your whole body is made of the stuff of light. A sequence of its intermittent flashes is your flight – thus flit things in and out of sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "در تیرہ شبان مشعل مرغان شب استی\nآن سوز چہ سوز است کہ در تاب و تب استی\nگرم طلب استی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a torch for birds that in the evening fly to rest; but what and whence this restless passion burning in your breast, which keeps you in unceasing quest?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مائیم کہ مانند تو از خاک دمیدیم\nدیدیم تپیدیم، ندیدیم تپیدیم\nجائی نرسیدیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like you we entered into this world by earth’s dusty door. We saw and tossed about; we did not see, and tossed about the more. O never did we reach the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گویم سخن پختہ و پروردہ و تہ دار\nاز منزل گم گشتہ مگو پای برہ دار\nاین جلوہ نگہ دار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I speak from ripe experience and true is what I say, don’t think of lost horizons and be steadfast on your way: Keep shining like this while you may.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Glow-Worm",
+  "credits": "English Translation by: M. Hadi Husain"
+}

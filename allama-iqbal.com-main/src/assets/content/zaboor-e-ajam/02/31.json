@@ -1,0 +1,136 @@
+{
+  "id": "31",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ما از خدای گم شدہ ایم او بجستجوست\nچون ما نیازمند و گرفتار آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم اللہ تعالے کی گم شدہ متاع ہیں ، وہ ہماری جستجو میں ہے، (کہ ان میں سے کوئی انسان کامل نکلے) ؛ یہ ہے اس کی آرزو اور خواہش ( جس کے لیے کائنات تخلیق فرمائيے) ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are gone astray from God; he is searching upon the road, for like us, He is need entire and the prisoner of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گاہی بہ برگ لالہ نویسد پیام خویش\nگاہی درون سینہ مرغان بہ ہای و ہوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی وہ برگ لالہ پر اپنا پیام لکھتا ہے، اور کبھی وہ پرندوں کے سینوں میں (بیٹھ کر) ان کی ہا و ہو کا سبب بنتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the tulip’s petal He writes the message His heart indites, yea, and His voice is heard in the passionate song of the bird.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در نرگس آرمید کہ بیند جمال ما\nچندان کرشمہ دان کہ نگاہش بہ گفتگوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی وہ نرگس میں بیٹھ کر (اس کی آنکھ سے) ہمارے جمال کا نظارہ کرتا ہے، یہ اس کا کرشمہ ہے کہ نرگس کی آنکھ گفتگو کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He lay in the iris’ fold our loveliness to behold; bright cup of the ardent gaze whose glance is a hymn of praise!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آہی سحر گہی کہ زند در فراق ما\nبیرون و اندرون زبر و زیر و چار سوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے شبنم ہمارے فراق میں جو آہ بھری، وہ کائنات کے باہر، اندر، اوپر ، نیچے چاروں طرف پھیلی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Parted from us, forlorn He sighs with the breath of morn, within and out He doth stand, around, and on every hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہنگامہ بست از پی دیدار خاکئی\nنظارہ را بہانہ تماشای رنگ و بوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کائنات کی یہ ساری ہنگامہ آرائی آدم خاکی کے دیدار کے لیے ہے، تماشائے رنگ و بو اسی کے نظارے کا بہانہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Great riot created He a creature of clay to see, fashioned the piercing view to gaze upon mortal hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پنہان بہ ذرہ ذرہ و ناآشنا ہنوز\nپیدا چو ماہتاب و بہ آغوش کاخ و کوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ذرے ذرے میں پنہاں ہے ، (دوسری طرف وہ) چاندنی کی طرح ظاہر ہے اور کاخ و کو پر چھایا ہوا ہے (مگر ہم سے پھر بھی ) نا آشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hidden in every grain not yet is He known to man, though bright as the full moon’s grace in cottage and street is His face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "در خاکدان ما گہر زندگے گم است\nاین گوہری کہ گم شدہ مائیم یا کہ اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے خاکدان میں زندگی کا موتی گم ہے، یہ گم شدہ موتی ہم ہیں یا وہ؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In our envelope all of dust the jewel of life is lost; is it we, or Himself (O say), this pearl that is gone astray?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

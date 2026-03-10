@@ -1,0 +1,33 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رہ و رسم حرم نا محرمانہ \nکلیسا کی ادا سوداگرانہ \nتبرک ہے مرا پیراہن چاک \nنہیں اہل جنوں کا یہ زمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rituals of the Sanctuary unsanctified! The Church commercialized. \nMy torn apparel aught to be valued much, for madness has become rare these days!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

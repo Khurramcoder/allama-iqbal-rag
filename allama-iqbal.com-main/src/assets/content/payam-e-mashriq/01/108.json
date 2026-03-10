@@ -1,0 +1,34 @@
+{
+  "id": "108",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز آغاز خودی کس را خبر نیست\nخودی در حلقۂ شام و سحر نیست\nز خضر این نکتۂ نادر شنیدم\nکہ بحر از موج خود دیرینہ تر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے آغاز کی کسی کو خبر نہیں ؛ خودی شام و سحر کے حلقے میں نہیں سماتی۔\nمیں نے یہ نادر نکتہ خضر (علیہ) سے سنا ہے؛ کہ بحر اپنی موج سے قدیم تر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The origins of selfhood no man knows, to dawn and eve no fellowship it owes. \nI heard this wisdom from the heavenly guide: Not older than its wave the Ocean flows.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

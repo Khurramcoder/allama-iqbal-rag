@@ -1,0 +1,34 @@
+{
+  "id": "53",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا فرمود پیر نکتہ دانے\nہر امروز تو از فردا پیام است\nدل از خوبان بی پروا نگھدار\nحریمش جز بہ او دادن حرام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر نکتہ داں نے مجھے فرمایا ہے، کہ تیرا ہر آج گزشتہ کل کا پیغام ہے۔\nاپنے دل کو ان بے پرواہ محبوبوں سے بچا، دل اللہ تعالے کا آستانہ ہے، اسے کسی اور کے حوالے کرنا گناہ ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A wise man said to me: ‘All your todays are earnests of a great tomorrow.\nSo, protect your heart from heartless fair faced ones, into His sanctum do not let them go.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

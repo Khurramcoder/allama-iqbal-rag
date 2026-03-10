@@ -1,0 +1,33 @@
+{
+  "id": "140",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا از پردۂ ساز آگہی نیست\nولی دانم نواے زندگی چیست\nسرودم آنچنان در شاخساران\nگل از مرغ چمن پرسد کہ این کیست؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know the instrument or key, yet well I recognize Life’s melody;\nSo sang I in the brambles, that the rose asked of the thrush, ‘What caroller is he?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

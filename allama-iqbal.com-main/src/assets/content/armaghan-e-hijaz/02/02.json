@@ -1,0 +1,32 @@
+{
+  "id": "02",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فراغت دے اسے کار جہاں سے\nکہ چھوٹے ہر نفس کے امتحاں سے\nہوا پیری سے شیطاں کہنہ اندیش\nگناہ تازہ تر لئے کہاں سے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From wordly worries give him a rest, to get a bit rest from world’s each test. From old age the Satan, now a sad sage, from where he brings for sins (a) new rummage.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

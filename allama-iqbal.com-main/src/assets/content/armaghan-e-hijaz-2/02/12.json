@@ -1,0 +1,79 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز شوق آموختم آن ہای و ہوئی\nکہ از سنگی گشاید آب جوئی\nہمین یک آرزو دارم کہ جاوید \nز عشق تو بگیرد رنگ و بوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے شوق (محبت ) نے وہ ہا و ہو سکھا دی؛ جو پتھر سے چشمہ جاری کر دیتی ہے۔\nاب میری صرف یہی ایک آرزو ہے؛ کہ جاوید کو آپ (صلعم ) کے عشق کی چاشنی نصیب ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hold very dear that roaring roar; which cuts a spring from mountain core. \nFor Javed I cherish and crave the same; from Thy love he gets his grandeur and fame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی بنگرد فرنگی کج کلاہان\nتو گوئی آفتابانند و ماہان\nجوان سادہ من گرم خون است\nنگہ دارش ازین کافر نگاہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا کج کلاہ فرنگی حسینوں کو دیکھیں ؛ گویا چندے آفتاب چندے مہتاب ہیں۔\nمیرا سادہ دل نوجوان گرم خون ہے ، ان کافر نگاہوں سے اس کی حفاظت فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Look to these saucy anglican maids; as if suns and moons have come for raids. \nMy simple young nation keeps a blood warm, Beware! The heathen eye’s sensual storm1\n\nThe above quatrain (twin couplet) is addressed to his son Javed, when he saw a few English girls in almost nude dress.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بدہ دستی ز پا افتادگان را\nبہ غیراللہ دل نادادگان را\nاز آن آتش کہ جان من بر افروخت\nنصیبی دہ مسلمان زادگان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان گرے ہوئے مسلمانوں کی دستگیری فرمائیے ! جنہوں نے اللہ تعالے کے سوائے اور کسی کو دل نہیں دیا۔\nجس آتش (عشق) نے میرا اندرون چمکا دیا ہے؛ وہ ان مسلمان زادوں کو بھی عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give a helping hand to those who are weak; they look not to aught, but Allah they seek. \nFrom that fire’s flame which kindled my heart; bid the Muslim boys a wee bit part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

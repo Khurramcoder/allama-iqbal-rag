@@ -1,0 +1,168 @@
+{
+  "id": "39",
+  "name": "ترانہء ہندی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سارے جہاں سے اچھا ہندوستاں ہمارا\nہم بلبلیں ہیں اس کی، یہ گلستاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better than the whole world is this India of ours. We are its nightingales; it is the garden of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "غربت میں ہوں اگر ہم، رہتا ہے دل وطن میں\nسمجھو وہیں ہمیں بھی، دل ہو جہاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "غربت: سفر",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If we are in foreign lands our hearts think of the homeland; consider us present where this heart of ours is present.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پربت وہ سب سے اونچا، ہمسایہ آسماں کا\nوہ سنتری ہمارا، وہ پاسباں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنتري: چوکیدار۔\nپربت: پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The highest mountain, touching the sky; it is our sentinel, it is our watchman.*\n* Allusion to the Himalayan Range.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گودی میں کھیلتی ہیں اس کی ہزاروں ندیاں\nگلشن ہے جن کے دم سے رشک جناں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "رشک جناں: جنت سے بڑھ کر خوبصورت ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thousands of rivers are playing in its lap are playing which make this garden of ours to be the world’s envy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے آب رود گنگا، وہ دن ہیں یاد تجھ کو؟\nاترا ترے کنارے جب کارواں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آب رود گنگا: دریائے گنگا کا پانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O, The River Ganga’s waters! Do you remember the day when our caravan landed at your banks.*\n* Allusion to the arrival of Muslims in India: Unlike the British the Muslims settled in the Indian sub continent and made it their homeland, which establishes their claim to settle the political problems of India with due regard to their interests.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مذہب نہیں سکھاتا آپس میں بیر رکھنا\nہندی ہیں ہم وطن ہے ہندوستاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Religion does not teach hostility with each other, we are Indians, India is our homeland.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "یونان و مصر و روما سب مٹ گئے جہاں سے\nاب تک مگر ہے باقی نام و نشاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Greece, Egypt, Rome are all extinct from the world, but our renown and fame have continued so far.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کچھ بات ہے کہ ہستی مٹتی نہیں ہماری\nصدیوں رہا ہے دشمن دور زماں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "دور زماں: زمانے کی گردش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is some secret that our existence is not effaced; for centuries time's vicissitudes have been our foe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اقبال! کوئی محرم اپنا نہیں جہاں میں\nمعلوم کیا کسی کو درد نہاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "درد نہاں: چھپا ہوا درد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal! In the world there is no confidante of ours: How would anyone know the hidden pathos of ours.* \n* Allusion to the callousness of the world community to the calamity of the people of the Indian sub continent resulting from their political subjugation by the British.) ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "An Ode To India",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

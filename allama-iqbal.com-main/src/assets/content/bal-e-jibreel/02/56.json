@@ -1,0 +1,100 @@
+{
+  "id": "56",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کھو نہ جا اس سحروشام میں اے صاحب ہوش!\nاک جہاں اور بھی ہے جس میں نہ فردا ہے نہ دوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوش: گزرا ہوا کل۔\nفردا: آنے والا کل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the maze of eve and morn, O man awake, do not be lost: Another world there yet exists that has no future or the past.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کس کو معلوم ہے ہنگامہ فردا کا مقام \nمسجد و مکتب و میخانہ ہیں مدت سے خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None knows that tumult’s worth and price which hidden lies in future’s womb: The mosque, the school and tavern too since long are silent like a tomb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں نے پایا ہے اسے اشک سحر گاہی میں \nجس در ناب سے خالی ہے صدف کی آغوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشک سحر گاہي: صبح سویرے اللہ کی یاد میں آنسو بہانا۔ \nدر ناب: نایاب موتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In tears shed at early morn is found the gem unique and best, the gem, whose like is never held, by mother shell within its breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نئی تہذیب تکلف کے سوا کچھ بھی نہیں \nچہرہ روشن ہو تو کیا حاجت گلگونہ فروش!",
+              "lang": "Original"
+            },
+            {
+              "_content": "گلگونہ فروش: ابٹن، مراد ہے سرخی پاؤڈر بیچنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Culture New is nothing else save glamour false and show, indeed: If the face be fair and bright, rouge vendors aid it does not need.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "صاحب ساز کو لازم ہے کہ غافل نہ رہے \nگاہے گاہے غلط آہنگ بھی ہوتا ہے سروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much care and caution must he take, who sets the music of a song: For oft the Voice Unseen inspires such airs as jarring are and wrong.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

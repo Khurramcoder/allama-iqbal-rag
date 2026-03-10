@@ -1,0 +1,195 @@
+{
+  "id": "12",
+  "name": "دختران ملت",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہل اے دخترک این دلبری ہا\nمسلمان را نزیبد کافری ہا\nمنہ دل بر جمال غازہ پرورد\nبیاموز از نگہ غارتگری ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیٹی! دلبری کا یہ انداز (آرائش و زینت) چھوڑ دے؛ مسلمان کو کافری زیب نہیں دیتی۔\nایسے حسن سے دل نہ لگا ، جو غازہ کا مرہون منت ہو؛ بلکہ نگاہ سے غارت گری سیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn O’ daughterling this loveliness trend; to Muslim suits not the heathen’s blend.\nYou need not a beauty of rouge and scent; with the chaste eyes teach thy charming bent.*\n* Iqbal has used ‘Gharat Gari’ again in line 4 which means ‘robbery’. In amatory language of this sub-continent and Persia, it means loveliness.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ تست شمشیر خدا داد\nبہ زخمش جان ما را حق بما داد\nدل کامل عیار ن پاک جان برد\nکہ تیغ خویش را ب از حیا داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری نگاہ شمشیر خداداد ہے ؛ اسی کے زخم سے حق تعالے نے ہماری جان عطا کی ہے۔ \nصرف وہی عفت مآب (خاتون) قلب کامل شکار کرتی ہے : جو اپنی تیغ (نگاہ) کو حیا سے آبدار بناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A God-given sword thy glance to thee; whose wounds thus gave my full right to me. \nThe heart of great sage that holy soul took; as she tempered her sword with bashful look.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ضمیر عصر حاضر بے نقاب است\nگشادش در نمود رنگ و ب است\nجہانتابی ز نور حق بیاموز\nکہ او با صد تجلی در حجاب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دور حاضر کا ضمیر عیاں ہے ؛ اس (ضمیر) کا کشاد رنگ اور چمک دمک کی نمود میں ہے۔ \nمگر تو اللہ تعالے کے نور سے جہان کو منوّر کرنا سیکھ؛ جو صد ہا تجلیات کے باوجود حجاب میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last modern age shows her conscience lo! They feel quite happy with false pomp and show. \nA tip for world’s tight learn from His light; with hundred visions who hids from sight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جہان را محکمی از امہات است\nنہادشان امین ممکنات است\nاگر این نکتہ را قومی نداند\nنظام کار و بارش بے ثبات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کی پائیداری ماؤں (کے دم قدم ) سے ہے؛ کیونکہ ان کی نہاد ممکنات کی امانتدار ہے (ماؤں کی گود سے ایسے بچے پیدا ہوتے ہیں ، جن کا ذریعہ ممکنات کے دروازے کھولتے ہیں)۔\nجو قوم یہ نکتہ نہیں سمجھتی ؛ اس کا نظام حیات درہم برہم ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is stable from the mother’s grace; her kind nature guards the whole human race.\nTo this point if the nations didn’t get; the whole world order would soon up set.*\n* Here a ‘mumknat’ means the mankind, all possible (created things. It also means possibilities but it does not apply here.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "مرا داد این خرد پرور جنونی \nنگاہ مادر پاک اندرونی\nز مکتب چشم و دل نتوان گرفتن\nکہ مکتب نیست جز سحر و فسونی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے یہ خرد پرور جنون اپنی پاک طینت ماں کی نگاہ سے ملا ہے۔\nمکتب سے چشم (بینا) اور دل (آگاہ ) حاصل نہیں کیے جا سکتے ؛ کیونکہ مکتب سحر و فسوں کے علاوہ اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That nation is lucky in whose hard race; a change the world espied on each man’s face.\nWhat happen’d to him in this world’s race; can be seen now from their mother’s face.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "(6)",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "خنک ن ملتی کز وارداتش\nقیامتہا ببیند کایناتش\nچہ پیش ید، چہ پیش افتاد او را\nتوان دید از جبین امہاتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ ملت جس کے کارناموں کے سبب ؛ اس کے دور نے کیا قیامتیں دیکھیں۔ \nکسی قوم کو کیا پیش آنے والا ہے اور کیا پیش آ چکا ہے؛ (یہ سب) اس کی ماؤں کی جبینوں سے دیکھا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This craze she gave me for sharp wits sense; my kind mother’s sacred inner glance.\nIn schools, my heart and eyes did’nt get calm; no schools are these but magic and charm.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "(7)",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "اگر پندی ز درویشی پذیری \nہزار امت بمیرد تو نمیری\nبتولی باش و پنھان شو ازین عصر\nکہ در غوش شبیری بگیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اس درویش کی نصیحت پلّے باندھ لے؛ تو ہزار قومیں مر جائیں ، مگر تو نہیں مرے گا۔\nسیّدہ فاطمہ التزہرا (رضی الّہ) بن اور اس دور سے پنہاں رہ؛ تاکہ تو کسی شبیر کو جنم دے سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you pay a heed once, to this poor guy; may die thousand nations but ye won’t die.\nHid from this Age like Batool if you can; in thy lap too there may be a Hussain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "(8)",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ز شام ما برون ور سحر را\nبہ قر ن باز خوان اہل نظر را\nتو میدانی کہ سوز قرأت تو\nدگرگون کرد تقدیر عمر را",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر قرآن پاک کی تلوار سے اہل نظر کو متاثر کر کے؛ ہماری شام سے سحر پیدا کر۔\nتو جانتی ہے کہ تیرے سوز قرآءت نے؛ حضرت عمر (رضی اللہ ) کی تقدیر بدل دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From my evening’s dusk get a dawn new; to seeing eyes read the Koran anew. \nFrom thy reading’s flame you know that fate; had totally changed Omar the Great.*\n* Before embracing Islam, Hazrat Omar (R.A.) heard that her sister alongwith her husband had embraced Islam. In rage he went to her house and heard her reciting the Holy Quran, which melted his heart, and he too joined the fold of Islam.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    }
+  ],
+  "name-en": "To Daughters Of The Nation"
+}

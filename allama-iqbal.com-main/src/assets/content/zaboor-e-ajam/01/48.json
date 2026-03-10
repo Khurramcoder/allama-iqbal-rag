@@ -1,0 +1,119 @@
+{
+  "id": "48",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یاد ایامی کہ خوردم بادہ ہا با چنگ و نے\nجام می در دست من مینای می در دست وی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کیا دن تھے جب میں چنگ و نے کے ساتھ شراب پیتا تھا ؛ جام شراب میرے ہاتھ میں ہوتا اور مینائے مے محبوب کے ہاتھ میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah, the wine, the lute, the piping, the dear memories of old, when I held the brimming beaker and my friend a bowl of gold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "درکنار آئی خزان ما زند رنگ بہار\nورنیا ئی فرودین افسردہ تر گردد ز دی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ ہمارے پہلو میں ہوں تو خزاں میں بھی بہار کا رنگ پیدا ہو جاتا ہے؛ اگر آپ نہ ہوں تو بہار کے دن خزاں سے زیادہ افسردہ ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An’ Thou comest to my bosom, in my autumn spring shall glow; an’ Thou come not, May lies mourning colder than December’s snow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیتو جان من چو آن سازی کہ تارش در گسست\nدر حضور از سینۂ من نغمہ خیزد پی بہ پی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے بغیر میری جان اس ساز کی مانند ہے جس کے تار ٹوٹ چکے ہوں؛ اور تیرے حضور میرے سینے سے مسلسل نغمے پھوٹتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mute my soul, when Thou art absent, like a harp with broken strings; from my breast, when Thou art with me, rise melodious whisperings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آنچہ من در بزم شوق آوردہ ام دانی کہ چیست؟\nیک چمن گل یک نیستان نالہ یک خمخانہ می",
+              "lang": "Original"
+            },
+            {
+              "_content": "جانتے ہو کہ میں بزم شوق میں کیا لایا ہوں؛ ایک پھولوں بھرا چمن، ایک نالوں بھرا نیستاں اور ایک شراب بھرا خمخانہ ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Well Thou knowest what conveying unto passion’s feast I went: Wine in vat, a mead of roses, and a reed-bed of lament.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زندہ کن باز آن محبت را کہ از نیروی او\nبوریای رہ نشینی در فتد با تخت کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے اندر پھر وہ محبت زندہ کیجیے ؛ جس کی قوت سے فقیر راہ نشین تخت کیکاؤس کے مقابل کھڑا ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now renew love’s old dominion, that by virtue of its sway equal shall the vagrant’s mat be to the royal throne of Kay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دوستان خرم کہ بر منزل رسید آوارہ ئی\nمن پریشان جادہ ہای علم و دانش کردہ طی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوست خوش ہیں کہ یہ آوارہ منزل تک پہنچ گیا ؛ اور میں ابھی پریشان حال علم و دانش کے مرحلے طے کر رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cry the friends with glad rejoicing that a wanderer is home; though I trod the paths of knowledge, in my desert still I roam.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

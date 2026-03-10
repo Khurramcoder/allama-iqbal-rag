@@ -1,0 +1,183 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نالہ ہے بلبل شوریدہ ترا خام ابھی \nاپنے سینے میں اسے اور ذرا تھام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبل شوريدہ: دیوانی بلبل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O dejected nightingale your lament is immature still; you should hold it in your breast for a little while still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پختہ ہوتی ہے اگر مصلحت اندیش ہو عقل \nعشق ہو مصلحت اندیش تو ہے خام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مصلحت انديش: اچھا برا سوچنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Intellect is prudent it is considered mature. If Love is prudent it is considered immature still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بے خطر کود پڑا آتش نمردو میں عشق \nعقل ہے محو تماشائے لب بام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love fearlessly jumped into the fire of Namrud; Intellect is absorbed in the spectacle from roof-top still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق فرمودئہ قاصد سے سبک گام عمل\nعقل سمجھی ہی نہیں معنی پیغام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرمودئہ قاصد: قاصد کی ہدایت۔ \nسبک گام عمل: تیزی سے عمل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love moves fast in action under the messenger’s precept; Intellect has not even understood the Love’s message still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شیوئہ عشق ہے آزادی و دہر آشوبی \nتو ہے زناری بت خانہء ایام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دہر آشوبي: دنیا بھر میں قیامت کا ہنگامہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The way of Love is freedom and world revolution; you are imprisoned in day and night’s temple still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عذر پرہیز پہ کہتا ہے بگڑ کر ساقی \nہے ترے دل میں وہی کاوش انجام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the plea of temperance the cup-bearer says rudely: In your heart is the same anxiety for the end still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "سعی پیہم ہے ترازوئے کم و کیف حیات \nتیری میزاں ہے شمار سحر و شام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پيہم: لگا تار کوشش۔ سعي\nکم و کيف حيات: زندگی کی مقدار اور کیفیت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Constant struggle is the measure for life’s Kamm and Kaif; your measure is the counting of days and nights still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ابر نیساں! یہ تنک بخشی شبنم کب تک \nمرے کہسار کے لالے ہیں تہی جام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تنک بخشي: کنجوسوں کی طرح بہت تھوڑی چیز دینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O spring rain! How long this miserliness? The tulips of my hillside are thirsty still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بادہ گردان عجم وہ، عربی میری شراب \nمرے ساغر سے جھجکتے ہیں مے آشام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They are accustomed to Ajam’s wine I have the Arab wine; my cup makes wine-drinkers startled still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خبر اقبال کی لائی ہے گلستاں سے نسیم \nنو گرفتار پھڑکتا ہے تہ دام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zepheyr has brought news about Iqbal from the garden: The newly seized is writhing under the net still.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

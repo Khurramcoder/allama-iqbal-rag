@@ -1,0 +1,85 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو موج مست خودی باش و سر بطوفان کش\nترا کہ گفت کہ بنشین و پا بدامان کش",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج کی مانند مست خودی رہ اور طوفان کے اندر سے سر اٹھا ، تجھے کس نے کہا ہے کہ تو بیٹھ رہ اور جد و جہد چھوڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drunk with self hood like a wave plunge into the stormy lave; who commanded thee to sit with thy skirts about thy feet?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بقصد صید پلنگ از چمن سرا برخیز\nبکوہ رخت گشا خیمہ در بیابان کش",
+              "lang": "Original"
+            },
+            {
+              "_content": "چیتے کے شکار کے لیے چمن سے نکل کھڑا ہو، پہاڑ پر پہنچ اور جنگل میں ڈیرہ ڈال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the tiger be thy prey; leave the mead and flowers gay, out toward the mountain press, tent thee in the wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ مہر و ماہ کمند گلو فشار انداز\nستارہ ر از فلک گیر و در گریبان کش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہر و ماہ پر مضبوط کمند ڈال ، آسمان کے ستارے توڑ اور اپنے گریباں میں ڈال لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cast thy strangling rope on high, circle sun and moon in sky, seize a star from heaven’s sphere, stitch it on thy sleeve to wear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرفتم اینکہ شراب خودی بسی تلخ است\nبدرد خویش نگر زہر ما بدرمان کش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مانا کہ شراب خودی بہت تلخ ہے، مگر اپنی بیماری دیکھ اور اس کے علاج کے لیے ہمارا زہر پی لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Selfhood’s wine, as I have guessed, tart and bitter is to taste, yet regard thy pain within – drain our desperate medicine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

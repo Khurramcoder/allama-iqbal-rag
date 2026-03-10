@@ -1,0 +1,85 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دلیل منزل شوقم بہ دامنم آویز\nشرر ز آتش نابم بخاک خویش آمیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں منزل شوق کا راہبر ہوں ۔ میرا دامن پکڑ لے؛ خالص آگ کا شرر ہوں، مجھے اپنی خاک میں ملا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a guidepost to the goal of heart’s desire. Adhere to me. Mix with your dust a spark of my pure fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عروس لالہ برون آمد از سراچہ ناز\nبیا کہ جان تو سوزم ز حرف شوق انگیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آواز سے عروس لالہ حجلہء ناز سے باہر آگئی، آ کہ میں اپنے شوق انگیز اشعار سے تیری جان کو بھی جلا دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip-bride has come out of its boudoir. Come, let me fire your soul with passion-stimulating talk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہر زمانہ بہ اسلوب تازہ میگویند\nحکایت غم فرہاد و عشرت پرویز",
+              "lang": "Original"
+            },
+            {
+              "_content": "غم فرہاد اور عشرت پرویز کی کہانی، ہر دور میں نئے انداز سے بیان کی جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tale of Farhad’s grief and of Parvez’s happiness is told in every age in different ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگرچہ زادۂ ہندم فروغ چشم من است۔\nز خاک پاک بخارا و کابل و تبریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں ہند میں پیدا ہوا ہوں مگر تیری آنکھ ، بخارا، کابل، اور تبریز کی خاک پاک سے روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though born in India, I draw my inspiration from the hallowed dust of Kabul and Bokhara and Tabriz.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

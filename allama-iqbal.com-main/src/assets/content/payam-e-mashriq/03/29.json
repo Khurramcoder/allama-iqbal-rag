@@ -1,0 +1,119 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گریۂ ما بے اثر نالہ ما نارساست\nحاصل این سوز و ساز یک دل خونین نواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا گریہ بے اثر ہے، ہماری فریاد نارسا ہے، اس سارے سوز و ساز کا حاصل بس ایک دل ہے، جس کی نوا خونیں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our wailing is without effect, and fruitless are our cries. The gain from all this ardency: A heart whose songs are steeped in blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در طلبش دل تپید، دیر و حرم آفرید\nما بہ تمنای او، او بہ تمنای ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس (اللہ تعالے) کی طلب میں ہمارا دل تڑپا تو اس نے دیر و حرم بنا لیے، ہم اس کی تمنا میں مرے جا رہے ہیں اور وہ ہمارا نظارہ کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fervent quest of Him the heart created temple and Harem. We long for Him: He watches us with unconcern.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پردگیان بی حجاب، من بہ خودی در شدم\nعشق غیورم نگر میل تماشا کراست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو پردے تھے وہ بے حجاب ہیں اور میں اپنی خودی میں مستور ہو چکا ہوں ، اے میرے عشق غیور دیکھ! نظارے کا شوق کسے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The veiled ones have unveiled themselves, while I have gone into my self’s retreat. Look at my self-respecting love. Who is fond of display – say, they or I?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مطرب میخانہ دوش نکتۂ دلکش سرود\nبادہ چشیدن خطاست بادہ کشیدن رواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میخانے کے مطرب نے کل رات گیت میں ایک دلکش نکتہ سنایا، کہ شراب چکھنا غلط ہے، شراب کشید کرنا جائز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The singer at the tavern made a subtle point last night. He said: ‘The tasting of wine is a sin; the drinking of it none.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زندگی رہروان در تگ و تاز است و بس\nقافلۂ موج را جادہ و منزلی کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسافروں کی زندگی صرف جد و جہد میں ہے، جیسے موج کے قافلے کا نہ کوئی راستہ ہے نہ منزل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wayfarers’ life consists in hurrying from place to place. The caravan of waves has no road and no goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شعلۂ در گیر زد بر خس و خاشاک من\nمرشد رومی کہ گفت \"منزل ما کبریاست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرشد رومی نے یہ کہہ کر کہ 'ہماری منزل اللہ تعالے ہیں'، ہمارے افکار کے خس و خاشاک پر ایسا شعلہ پھینکا ہے جس نے انہیں جلا کر راکھ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Our goal is God.’ This saying of the guide of Rum was like a flame flung at the straw that is my self.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غلام زندہ دلانم کہ عاشق سرہ اند\nنہ خانقاہ نشینان کہ دل بکس ندہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایسے زندہ دلوں کا غلام ہوں جو حسن حقیقی کے عاشق ہیں، نہ کہ ان خانقاہ نشینوں کا جو سوز محبت سے خالی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the slave of each living heart whose love is pure, refined; not cloistered monks who dwell apart, their hearts to none resigned.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ آن دلی کہ برنگ آشنا و بیرنگ است\nعیار مسجد و میخانہ و صنم کدہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ زندہ دل رنگ آشنا بھی ہیں اور بے رنگ بھی ، یہی لوگ مسجد، مے خانہ اور صنم کدہ کے لیے معیار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With such a heart as knows the hue, yet from all hue is free; in mosque, and inn, and temple, too, the touchstone sure they be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ از مہ و پروین بلند تر دارند\nکہ آشیان بگریبان کہکشان ننہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کی نگاہ مہ و پروین سے بلند تر ہے، وہ کہکشاں کو بھی اپنے آشیانے کے لیے پسند نہیں کرتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beyond the moon and Pleiades their gaze is lifted high; the Milky Way contents not these for them to nest thereby.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "برون ز انجمنی در میان انجمنی\nبخلوت اند ولی آنچنان کہ با ہمہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ انجمن میں رہتے ہوئے بھی انجمن سے لا تعلق ہوتے ہیں، ہیں وہ خلوت میں مگر ہر کسی کے ساتھ بھی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Within the multitude are they, yet out of it withal; in spirit’s solitude they stay, while dwelling amid all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بچشم کم منگر عاشقان صادق را\nکہ این شکستہ بہایان متاع قافلہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان عاشقان صادق کو حقارت سے نہ دیکھ ، کہ یہ بظاہر کم قیمت نظر آتے ہیں مگر در اصل یہی متاع انسانیت ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Regard not meanly, nor despise the truly loving man; though little worth, ‘tis merchandise fit for Life’s caravan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ بندگان خط آزادگی رقم کردند\nچنانکہ شیخ و برہمن شبان بی رمہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ غلاموں کو آزادی کا پروانہ عطا کرتے ہیں ، کیونکہ شیخ و برہمن امیر بے قافلہ کی مانند ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The charter of their liberty is writ for slaves to keep; and now the Sheikh and Brahman be shepherds without their sheep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پیالہ گیر کہ می را حلال می گویند\nحدیث اگرچہ غریب است راویان ثقہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیالہ اٹھا کر کہتے ہیں کہ شراب حلال ہے، حدیث اگرچہ غیر معروف ہے مگر راوی ثقہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take thou the goblet in thy hold; wine lawful is, they tell although the tale be strange, ‘tis told by speakers credibl.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

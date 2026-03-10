@@ -1,0 +1,84 @@
+{
+  "id": "07",
+  "name": "اسرار پیدا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس قوم کو شمشیر کی حاجت نہیں رہتی \nہو جس کے جوانوں کی خودی صورت فولاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسرار پیدا: کھلے ہوئے بھید۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation whose youth are endowed with Self as strong and hard as steel: No need of piercing swords in war such people brave can ever feel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ناچیز جہان مہ و پرویں ترے آگے \nوہ عالم مجبور ہے، تو عالم آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world of Pleiades and the Moon by natural laws is chained and bound; whereas the world in which you dwell owns insight, will and mind much sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "موجوں کی تپش کیا ہے، فقط ذوق طلب ہے \nپنہاں جو صدف میں ہے، وہ دولت ہے خدا داد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What do the quivering waves imply, save enormous zeal and zest for quest? What lies concealed in mother shell is gift of God Who knows it best.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شاہیں کبھی پرواز سے تھک کر نہیں گرتا \nپر دم ہے اگر تو تو نہیں خطرہ افتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خطرہ افتاد: گر جانے کا خطرہ۔\nدم :انتھک۔ پر",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hawk is never tired of flight, does not drop gasping on the ground; if unwearied it remains on wings, from hunters' dread is safe and sound.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Open Secrets",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

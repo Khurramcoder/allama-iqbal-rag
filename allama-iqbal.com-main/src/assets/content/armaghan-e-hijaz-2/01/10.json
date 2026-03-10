@@ -1,0 +1,57 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یکی اندازہ کن سود و زیان را\nچو جنت جاودانی کن جہان را\nنمی بینی کہ ما خاکی نہادان\nچہ خوش آراستیم این خاکدان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "(بار الہا) ذرا نفع و نقصان کا اندازہ کر، اس دنیا کو بھی بہشت کی طرح غیر فانی بنا دے۔ \n کیا تو نہیں دیکھتا کہ ہم خاکی سرشت والوں نے، اس زمین کو کس خوش اسلوبی سے سجایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So calculate once all the losses and gains, to give to this world a heavenly reign. \nHow far I know not that dusty being we, can decorate world’s dusty entity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تو میدانی حیات جاودان چیست؟\nنمی دانی کہ مرگ ناگہان چیست؟\nز اوقات تو یکدم کم نگردد\nاگر من جاودان باشم زیان چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ جانتے ہیں کہ حیات جاوداں کیا ہے، مگر آپ یہ نہیں جانتے کہ مرگ ناگہاں کیا ہے۔ \nآپ کے اوقات (حیات) میں سے ایک گھڑی بھی کم نہ ہو گی، اگر میں غیر فانی ہو جاؤں تو اس میں (آپ کا) کیا نقصان ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the lasting life is known to thee, a sudden death but is not known to thee.\nThy status at all it can not decrease, what could be the loss of my deathless lease.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

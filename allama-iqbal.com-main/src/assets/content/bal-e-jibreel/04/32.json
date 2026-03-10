@@ -1,0 +1,135 @@
+{
+  "id": "32",
+  "name": "مسولینی",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ندرت فکر و عمل کیا شے ہے، ذوق انقلاب \nندرت فکر و عمل کیا شے ہے، ملت کا شباب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ندرت: تازگی ، انوکھا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the originality of thought and action? A taste for revolution. What is the originality of thought and action? The age of youth for a nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ندرت فکر و عمل سے معجزات زندگی \nندرت فکر و عمل سے سنگ خارا لعل ناب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Originality of thought and action creates miracles of life: It turns pebbles into ruby stones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رومتہ الکبرے! دگرگوں ہوگیا تیرا ضمیر \nاینکہ می بینم بہ بیدار یست یارب یا بہ خواب!",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بیداری کے عالم میں دیکھ رہا ہوں یا یہ خواب کی دنیا کے نظارے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Great Rome! Your conscience has changed altogether: Is this a dream I see or is this for real!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چشم پیران کہن میں زندگانی کا فروغ \nنوجواں تیرے ہیں سوز آرزو سے سینہ تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "سينہ تاب: جن کے سینے گرم ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your old have the gleam of life in their eyes; the flame of desire warms up the hearts of your young.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ محبت کی حرارت، یہ تمنا، یہ نمود \nفصل گل میں پھول رہ سکتے نہیں زیر حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "زير حجاب: پردے میں، چھپے ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This warmth of love, this longing and this self-expression: Flowers cannot hide themselves in the season of spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نغمہ ہائے شوق سے تیری فضا معمور ہے \nزخمہ ور کا منتظر تھا تیری فطرت کا رباب",
+              "lang": "Original"
+            },
+            {
+              "_content": "معمور: بھرا ہوا۔\nزخمہ ور: ساز بجانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Songs of passion fill your air now: The instrument of your nature was awaiting someone to play on it!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فیض یہ کس کی نظر کا ہے، کرامت کس کی ہے؟ \nوہ کہ ہے حس کی نگہ مثل شعاع آفتاب!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose benevolent eye has graced this miracle upon you? He whose vision is like the light of the Sun!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mussolini",
+  "credits": "English Translation by: Naim Siddiqui"
+}

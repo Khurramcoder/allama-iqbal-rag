@@ -1,0 +1,67 @@
+{
+  "id": "08",
+  "name": "عورت اور تعلیم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تہذیب فرنگی ہے اگر مرگ امومت \nہے حضرت انساں کے لیے اس کا ثمر موت",
+              "lang": "Original"
+            },
+            {
+              "_content": "امومت: ماں ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Frankish culture blights the motherly urge, for human race it means a funeral dirge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جس علم کی تاثیر سے زن ہوتی ہے نا زن \nکہتے ہیں اسی علم کو ارباب نظر موت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lore that makes a woman lose her rank is naught, but death in eyes of wise and frank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیگانہ رہے دیں سے اگر مدرسہ زن \nہے عشق و محبت کے لیے علم و ہنر موت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If schools for girls no lore impart on creed, then lore and crafts for Love are death indeed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Women And Education",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

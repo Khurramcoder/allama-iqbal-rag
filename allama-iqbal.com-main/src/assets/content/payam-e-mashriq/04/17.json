@@ -1,0 +1,213 @@
+{
+  "id": "17",
+  "name": "موسیولینن و قیصر ولیم",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "موسیولینن",
+      "name-en": "Lenin",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بسی گذشت کہ آدم درین سرای کہن\nمثال دانہ تہ سنگ آسیا بودست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مدت گزر گئی کہ انسان اس سارے کہن (دنیا) میں، چکی کے پاٹ تلے پسنے والے دانے کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is long since in this old world poor man is being ground like grain between millstones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فریب زاری و افسون قیصری خورد است\nاسیر حلقۂ دام کلیسیا بودست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے زار کا فریب کھایا ہے، وہ قیصر کے جادو سے مشہور ہوا ہے، وہ کلیسا کے دام میں بھی گرفتار رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has been duped by Kaisers and by Czars, and has been caught in the snare of the Church.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غلام گرسنہ دیدی کہ بر درید آخر\nقمیص خواجہ کہ رنگین ز خون ما بودست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے دیکھا کہ بالآخر بھوکے غلام نے ، آقا کی وہ قمیص پھاڑ دی جو ہمارے خون سے رنگیں تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have you not seen the hungry slave at last tear to shreds his lord’s garment, dyed red with his blood?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شرار آتش جمہور کہنہ سامان سوخت\nردای پیر کلیسا قبای سلطان سوخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "آتش جمہور کی چنگاری نے سارا پرانا (ساز و) سامان جلا دیا، پیر کلیسا کی چادر بھی جلا دی اور سلطان کی قبا بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Democracy’s spark has burnt up robes of the Church elders and the kings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "قیصر ولیم",
+      "name-en": "The Kaiser Wilhelm",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گناہ عشوہ و ناز بتان چیست؟\nطواف اندر سرشت برہمن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبوب کے ناز و ادا کا کو ئی گناہ نہیں، برہمن کی سرشت ہی میں (بتوں کا طواف) موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why blame idols for their winsome ways? It is in the Brahmin’s nature to adore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دمادم نو خداوندان تراشد\nکہ بیزار از خدایان کہن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر دم ایک نیا آقا تراشتا ہے، کیونکہ پرانے خداؤں سے بیزار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He keeps fashioning new idols; for he gets bored stiff with the ones he has.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ز جور رھزنان کم گو کہ رہرو\nمتاع خویش را خود رہزن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہزنوں کے ظلم کی بات نہ کر ، کیونکہ یہ مسافر خود اپنے سامان کا رہزن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not tell me of the highwaymen: His own robber is the traveler here.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اگر تاج کئی جمہور پوشد\nہمان ہنگامہ ہا در انجمن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر جمہور خسرو کا تاج پہن لیں ، تو پھر بھی انجمن میں وہی ہنگامے رہیں گے (عوامی لیڈر بھی وہی کام کریں گے جو بادشاہ کرتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you crown the common people, then you will find oppression is still there.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہوس اندر دل آدم نمیرد\nہمان آتش میان مرزغن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کے دل سے ہوس (اقتدار اور دولت) نہیں مرتی، اس آتشدان میں یہی آگ ہمیشہ جلتی رہے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Never does greed die out of men’s hearts: in a furnace fire must always blaze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "عروس اقتدار سحر فن را\nہمان پیچاک زلف پر شکن ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جادو کا فن رکھنے والی عروس اقتدار کی زلف پر شکن کا جال بدستور رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Power’s sorceress has the same arts irrespective of the part she plays.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "\"نماند ناز شیرین بی خریدار\nاگر خسرو نباشد کوھکن ہست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیریں کے ناز و ادا بغیر خریدار کے نہیں رہیں گے، خسرو نہ ہوا ، تو کوہکن سہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Shirin’s beauty never goes abegging: Khusroes or Farhads are never lacking.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Dialogue Between Lenin And Kaiser Wilhelm",
+  "credits": "English Translation by: M. Hadi Husain"
+}

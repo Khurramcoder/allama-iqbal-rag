@@ -1,0 +1,34 @@
+{
+  "id": "112",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان کز خود ندارد دستگاہی\nبہ کوی آرزو می جست راہی\nز آغوش عدم دزدیدہ بگربخت\nگرفت اندر دل آدم پناہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان جو اپنے اندر (کہیں پہنچنے کی) صلاحیت نہیں رکھتا تھا؛ وہ آرزو کے کوچے کے راستے کی تلاش میں تھا۔ \nپھر وہ عدم کی آغوش سے چھپ کر بھاگ نکلا اور اس نے آدم کے دل کے اندر پناہ لی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world, that findeth in itself no stay, sought in the street of yearning for a way:\nFrom the embrace of non-existence fled, and last in Adam’s heart for refuge lay.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

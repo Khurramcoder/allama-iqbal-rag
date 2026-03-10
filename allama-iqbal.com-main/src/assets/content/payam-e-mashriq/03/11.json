@@ -1,0 +1,129 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از ما بگو سلامی آن ترک تند خو را\nکاتش زد از نگاہی یک شہر آرزو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Convey my salutation to that fire-eating Turk who set aflame with one glance a city full of longing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این نکتہ را شناسد آندل کہ دردمند است\nمن گرچہ توبہ گفتم نشکستہ ام سبو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The point of this will be seen by a sympathetic heart: I swore to drink no more, but did not break the jar of wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے بلبل از وفایش صد بار با تو گفتم \nتو در کنار گیری باز این رمیدہ بو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O nightingale, I warned you many times against the rose’s infidelity; but you persist in clinging to its scentless skeleton.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "رمز حیات جوئی جز در تپش نیابی\nدر قلزم آرمیدن ننگ است آب جو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret of life, if you want to know it, lies in restlessness. It would be shameful for a stream to go on resting in the sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شادم کہ عاشقان را سوز دوام دادی\nدرمان نیافریدی آزار جستجو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O I am happy that to lovers you have granted restless souls and that You have created no cure for the malady of seeking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گفتی مجو وصالم بالا تر از خیالم\nعذر نو آفریدی اشک بہانہ جو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Do not seek union with Me, for I transcend all thought.’ By saying this You gave my tears a new excuse for flowing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از نالہ بر گلستان آشوب محشر آور\nتا دم بہ سینہ پیچد مگذار ہای و ہو را",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Create a furor in the garden, storm it with your lament. Until breath gets choked in your breast do not give up your wailing.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

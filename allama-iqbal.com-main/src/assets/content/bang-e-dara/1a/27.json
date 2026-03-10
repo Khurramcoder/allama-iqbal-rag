@@ -1,0 +1,402 @@
+{
+  "id": "27",
+  "name": "عشق اور موت",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "(ماخو ذ از ٹینی سن)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سہانی نمود جہاں کی گھڑی تھی\nتبسم فشاں زندگی کی کلی تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نمود جہاں: دنیا کی پیدائش۔ \nتبسم فشاں: مسکراتی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hour of the Universe' appearance was charming; the flower-bud of life was showering smiles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کہیں مہر کو تاج زر مل رہا تھا\nعطا چاند کو چاندنی ہو رہی تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاج زر: سونے کا تاج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Here the golden crown, the sun was getting; there the moon its moon-light was getting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سیہ پیرہن شام کو دے رہے تھے\nستاروں کو تعلیم تابندگی تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "سیہ پیرہن: کالا لباس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dark gown to the night was being given; training of brightness to stars was being given.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہیں شاخ ہستی کو لگتے تھے پتے\nکہیں زندگی کی کلی پھوٹتی تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Existence's branch was getting leaves here; the bud of life was bursting out there.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فرشتے سکھاتے تھے شبنم کو رونا\nہنسی گل کو پہلے پہل آ رہی تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The angels were teaching weeping to the dew; for the first time the rose was laughing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عطا درد ہوتا تھا شاعر کے دل کو\nخودی تشنہ کام مے بے خودی تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تشنہ کام: پیاسی۔\nمے بے خودی: بے خودی کی شراب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They were conferring pathos on the poet's heart; Khudi for the wine of Bükhudi was pining.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اٹھی اول اول گھٹا کالی کالی\nکوئی حور چوٹی کو کھولے کھڑی تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the first time dark black clouds were appearing as if some Houri of Paradise with open hair was standing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "زمیں کو تھا دعوی کہ میں آسماں ہوں\nمکاں کہہ رہا تھا کہ میں لا مکاں ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth was claiming elegance of the sky. The space was claiming to be boundless.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "غرض اس قدر یہ نظارہ تھا پیارا\nکہ نظارگی ہو سراپا نظارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نظارگی: دیکھنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In short so beautiful the sight was that seeing it in itself a panorama was.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ملک آزماتے تھے پرواز اپنی\nجبینوں سے نور ازل آشکارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آشکارا: نمایاں، ظاہر۔\nجبینوں: ماتھوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The angels their flying powers were testing; eternal lights from their foreheads were appearing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "فرشتہ تھا اک، عشق تھا نام جس کا\nکہ تھی رہبری اس کی سب کا سہارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An angel called Love there was; whose guidance everyone's hope was.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "فرشتہ کہ پتلا تھا بے تابیوں کا\nملک کا ملک اور پارے کا پارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The angel who the embodiment of restlessness was; Angel among angels and restless like mercury he was.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "پے سیر فردوس کو جا رہا تھا\nقضا سے ملا راہ میں وہ قضا را",
+              "lang": "Original"
+            },
+            {
+              "_content": "سیر فردوس: جنت کی سیر۔ پے\nقضا: موت۔ \nقضا را: اتفاقا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was going towards the Paradise for a stroll; he met death on its way by the destiny's roll.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "یہ پوچھا ترا نام کیا، کام کیا ہے\nنہیں آنکھ کو دید تیری گوارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He asked death: ‘What is the name and work of yours? I do not want to encounter the face of yours’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہوا سن کے گویا قضا کا فرشتہ\nاجل ہوں، مرا کام ہے آشکارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hearing this said the angel of death: ‘My work is clear, I am the angel of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اڑاتی ہوں میں رخت ہستی کے پرزے\nبجھاتی ہوں میں زندگی کا شرارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "رخت ہستی: زندگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I shatter the chattels of existence. I extinguish the spark of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "مری آنکھ میں جادوئے نیستی ہے\nپیام فنا ہے اسی کا اشارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیستی: مٹ جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The magic of annihilation is in my eyes. The message of destruction is its symhol.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "مگر ایک ہستی ہے دنیا میں ایسی\nوہ آتش ہے میں سامنے اس کے پارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But there is one entity in the Universe; it is fire, I am only mercury before it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "شرر بن کے رہتی ہے انساں کے دل میں\nوہ ہے نور مطلق کی آنکھوں کا تارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "نور مطلق: مراد ہے اللہ تعالے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It lives in the human heart as a spark. It is the darling of the Divine Light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ٹپکتی ہے آنکھوں سے بن بن کے آنسو\nوہ آنسو کہ ہو جن کی تلخی گوارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It constantly drips as tears from the eyes: The tears whose bitterness is tolerable’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "سنی عشق نے گفتگو جب قضا کی\nہنسی اس کے لب پر ہوئی آشکارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Love heard this from the death's lips, laughter started appearing from its lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گری اس تبسم کی بجلی اجل پر\nاندھیرے کا ہو نور میں کیا گزارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thunder of such smile descended on death: How can darkness stay in front of such light?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "بقا کو جو دیکھا فنا ہو گئی وہ\nقضا تھی شکار قضا ہو گئی وہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On seeing eternity to death it fell: Death it was, to death it fell.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Love And Death",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

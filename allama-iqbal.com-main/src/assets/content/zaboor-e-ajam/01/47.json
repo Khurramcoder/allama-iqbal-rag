@@ -1,0 +1,85 @@
+{
+  "id": "47",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رمز عشق تو بہ ارباب ہوس نتوان گفت\nسخن از تاب و تب شعلہ بہ خس نتوان گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی بات اہل ہوس سے نہیں کی جا سکتی؛ جیسے شعلے کی تاب و تب کی بات خس سے نہیں کہی جا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To passion’s slaves let no man e’er the mystery of Thy love declare: It is not meet for straws to hear talk of the blazing brazier.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو مرا ذوق بیان دادی و گفتی کہ بگوی\nہست در سینۂ من آنچہ بکس نتوان گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے مجھے ذوق بیان عطا فرمایا ہے اور حکم دیا ہے کہ شعر کہاں؛ لیکن جو کچھ میرے سینے کے اندر ہے وہ کسی سے نہیں کہا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was to eloquence designed, and Thou hast bid me speak my mind; such things are in the breast of me as unto none may uttered be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "از نہانخانۂ دل خوش غزلی می خیزد\nسر شاخی ھمہ گویم بہ قفس نتوان گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل کے اندر سے خوبصورت غزل اٹھی ہے؛ مگر وہ شاخ پر بیٹھ کر ہی سنائی جا سکتی ہے قفس میں نہیں کہی جا سکتی (انگریز کی غلامی کے دور کی طرف اشارہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deep in my heart’s recesses lies the sweetest song that yearns to rise; among the leaves my notes shall ring, but in the cage I cannot sing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شوق اگر زندۂ جاوید نباشد عجب است\nکہ حدیث تو درین یک دو نفس نتوان گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تعجب کی بات ہے کہ شوق (محبت) زندہ جاوید نہ ہو؛ اس زندگی ء مستعار کے دو چار لمحوں میں آپ کی محبت کی بات پوری طرح بیان نہیں ہو سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Tis passing strange, if yearning be not born to immortality; how can Thy history be said in these few breaths, ere I am dead?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

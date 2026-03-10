@@ -1,0 +1,1004 @@
+{
+  "id": "02",
+  "name": "مناجات",
+  "name-en": "Supplication",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "01",
+  "sectionName": "جاوید نامہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آدمی اندر جہان ہفت رنگ\nہر زمان گرم فغان مانند چنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سات رنگی دنیا میں انسان ہر لحظہ سارنگی کی طرح فریاد کناں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man, in this world of seven hues, lute-like is ever afire with lamentation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آرزوی ھم نفس می سوزدش\nنالہ ہای دل نواز آموزدش",
+              "lang": "Original"
+            },
+            {
+              "_content": "محرم راز کی آرزو اسے ہر لمحہ جلاتی اور نالہ ہائے دل نواز سکھاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yearning for a kindred spirit burns him inwardly; teaching him threnodies to soothe the heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لیکن این عالم کہ از آب و گل است\nکی توان گفتن کہ دارای دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن یہ عالم جو پانی اور مٹی سے بنا ہوا ہے کیسے کہیں کہ یہ صاحب دل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And yet this world, that is wrought of water and clay; how can it be said to possess a heart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بحر و دشت و کوہ و کہ خاموش و کر\nآسمان و مہر و مہ خاموش و کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سمندر، جنگل، پہاڑ، سبزہ، آسمان، سورج، چاند سب گونگے اور بہرے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sea, plain, mountain, grass – all are deaf and dumb, deaf and dumb heaven and sun and moon;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گرچہ بر گردون ہجوم اختر است\nہر یکی از دیگری تنھا تر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ آسمان پر ستاروں کا ہجوم ہے لیکن ہر ایک دوسرے سے زیادہ تنہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the stars swarm in the selfsame sky, each star is more solitary than the other;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہر یکے مانند، بیچارہ ایست \nدر فضای نیلگون آوارہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر ایک ہماری طرح بیچارہ اور فضائے نیلگوں میں آوارہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each one is desperate just as we are, a vagrant lost in an azure wilderness;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کاروان برگ سفر ناکردہ ساز\nبیکران افلاک و شب ہا دیر یاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ قافلہ رخت سفر کے بغیر ہے، جبکہ شب سفر طویل اور آسماں لا محدود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan unprovisioned against the journey, the heavens boundless, the nights interminable.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "این جہان صید است و صیادیم ما\nیا اسیر رفتہ از یادیم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا یہ جہاں شکار اور ہم شکاری ہیں؟ یا ہم ایسے قیدی ہیں جنہیں فراموش کر دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this world then some prey, and we the huntsmen, or are we prisoners utterly forgotten?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "زار نالیدم صدائے برنخاست\nہم نفس فرزند آدم را کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے بہت آہ و زاری کی (مگر جواب) میں کوئی آواز نہ آئی فرزند آدم کا ہمراز کہاں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bitterly I wept, but echo answered never: Where may Adam’s son find a kindred spirit?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دیدہ ام روز جہان چار سوی\nآنکہ نورش بر فروزد کاخ و کوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس چار اطراف کے جہان کے دن کو دیکھا ہے جس کا نور کاخ و کو کو روشن کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen that the day of this dimensioned world, whose light illuminates both palace and street.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از رم سیارہ ئی او را وجود\nنیست الا اینکہ گوئی رفت و بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ا س کا وجود ایک سیّارہ کی حرکت کا مرہون منّت ہے، یہاں رفت و بود (گیا اور تھا) کے علاوہ اور کچھ نہیں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Came into being from the flight of a planet, is nothing more, you might say, than a moment gone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے خوش آن روزی کہ از ایام نیست\nصبح او را نیمروز و شام نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہے وہ دن جو سورج کے ایّام سے نہیں جس کی صبح، دوپہر و شام میں تبدیل نہیں ہوتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How fair is the Day that is not of our days, the Day whose dawn has neither noon nor eve!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "روشن از نورش اگر گردد روان\nصوت را چون رنگ دیدن میتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ایسے دن کے نور سے جان منوّر ہو جائے تو آواز کو رنگ کی طرح دیکھا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let its light illuminate the spirit\tand sounds become visible even as colours;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "غیب ہا از تاب او گردد حضور\nنوبت او لایزال و بے مرور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے دن کی روشنی سے غیب حضوری میں بدل جاتا ہے، وہ دن ہمیشہ رہتا ہے اور کبھی ختم نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hidden things become manifest in its splendour, its watch is unending and intransient.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "اے خدا روزی کن آن روزے مرا\nوارہان زین روز بے سوزے مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا الّلّہ ! مجھے وہ دن نصیب فرمائیے اور اس بے سوز دن سے رہائی دلا ئیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant me that Day, Lord, even for a single day; deliver me from this day that has no glow!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آیۂ تسخیر اندر شأن کیست؟\nاین سپہر نیلگون حیران کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آیہء تسخیر کس کی شان میں ہے، اور یہ نیلا آسمان کس (کی عظمت) پر حیران ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Concerning whom was the Verse of Subjection revealed? For whose sake spins the azure sphere so wildly?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "رازدان علم الاسما کہ بود\nمست آن ساقی و آن صہبا کہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم الاسماء کا رازدان کون ہوا؟ اس ساقی اور اس کی شراب (الست) سے کون سرمست ہوا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who was it knew the secret of He taught the names? Who was intoxicated with that saki and that wine?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "برگزیدے از ہمہ عالم کرا؟\nکردی از راز درون محرم کرا؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے کسے سارے عالم میں سے منتخب فرمایا اور راز درون سے محرم کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whom didst Thou choose out of all the world? To whom didst Thou confide the innermost secret?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اے ترا تیرے کہ ما را سینہ سفت\nحرف از \"ادعونی\" کہ گفت و با کہ گفت؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کے تیر (ہجر ) نے ہمارا سینہ چھید ڈالا، 'مجھے پکارو میں جواب دوں گا'، کس نے کہا تھا اور کس سے کہا تھا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Thou whose arrow transpierced our breast, who uttered the words Call upon me, and to whom?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "روی تو ایمان من قرآن من\nجلوہ ئی داری دریغ از جان من",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کا چہرہ ہی میرا ایمان اور میرا قرآن بنے، آپ اپنے دیدار سے مجھے کیوں محروم رکھتے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy countenance is my faith, and my Koran: dost Thou begrudge my soul one manifestation?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "از زیان صد شعاع آفتاب\nکم نمیگردد متاع آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آفتاب کے سینکڑوں شعاعوں کے بکھیر دینے سے اس کا متاع (نور) کم نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the loss of a hundred of its rays; the sun’s capital is in no wise diminished.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "عصر حاضر را خرد زنجیر پاست\nجان بیتابی کہ من دارم کجاست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "دور حاضر کے لیے خرد پاؤں کی زنجیر بن چکی ہے، جان بیتاب جو میں رکھتا ہوں وہ کہاں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason is a chain fettering this present age: where is a restless soul such as I possess?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "عمر ہا بر خویش می پیچد وجود\nتا یکی بیتاب جان آید فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات مدّتوں پیچ و تاب کھاتی ہے تب کہیں جا کر ایک جان بیتاب ظہور میں آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For many ages Being must twist on itself that one restless soul may come into being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گر نرنجے این زمین شورہ زار\nنیست تخم آرزو را سازگار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ ناراض نہ ہوں تو کہوں کہ یہ شور زمین (دنیا) آرزو کے بیج کے لیے سازگار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Except you fret away at this brackish soil; it is not congenial to the seed of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "از درون این گل بے حاصلی\nبس غنیمت دان اگر روید دلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس بنجر زمین میں سے ایک دل بھی پیدا ہو جائے تو اسے غنیمت سمجھئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Count it for gain enough if a single heart grows from the bosom of this unproductive clay!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "تو مہے اندر شبستانم گذر\nیک زمان بے نوری جانم نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ چاند ہیں میرے شبستان کی طرف آئیے، اور ذرا میری جان کی تاریکی کو دیکھئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art a moon: pass within my dormitory, glance but once on my unenlightened soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "شعلہ را پرہیز از خاشاک چیست؟\nبرق را از برفتادن باک چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "شعلے کو خس و خاشاک جلانے سے پرہیز کیوں ہو، بجلی کو گرنے سے کیا خوف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does the flame shrink away from the stubble? Why is the lightning-flash afraid to strike?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "زیستم تا زیستم اندر فراق\nوانما آنسوی این نیلی رواق",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جب تک جیا فراق ہی میں جیا، مجھے دیکھائیے کہ اس نیلے آسمان کے پرے کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as I have lived, I have lived in separation: reveal what lies beyond yon azure canopy;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بستہ در ہا را برویم باز کن\nخاک را با قدسیان ہمراز کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ پر بند دروازے کھول دیجئے، اس خاکی کو نوریوں کا ہمراز بنایئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open the doors that have been closed in my face, let earth share the secrets of heaven’s holy ones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "آتشے در سینۂ من برفروز\nعود را بگذار و ھیزم را بسوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے میں عشق کی آگ روشن کر دیجئے، عود کو باقی رہنے دیجئے اور ایندھن کو جلا دیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kindle now a fire within my breast, leave be the aloe, and consume the brushwood;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "باز بر آتش بنہ عود مرا\nدر جھان آشفتہ کن دود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اس عود کو آگ پر رکھیئے اور اس کا دھواں سارے جہان میں پھیلا دیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then set my aloe again upon the fire and scatter my smoke through all the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "آتش پیمانۂ من تیز کن\nبا تغافل یک نگہ آمیز کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے پیمانے کی آتش (شراب) کو تیز کر دیجئے، تغافل کے ساتھ ایک نگاہ بھی ملا دیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stir up the fire within my goblet; mingle one glance with this inadvertency.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "ما ترا جوئیم و تو از دیدہ دور\nنے غلط، ما کور و تو اندر حضور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم آپ کو ڈھونڈتے ہیں اور آپ ہماری آنکھ سے دور ہیں، نہیں یہ بات نہیں آپ سامنے ہیں، مگر ہم اندھے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We seek Thee, and Thou art far from our sight; no, I have erred-we are blind, and Thou art present.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "یا گشا این پردۂ اسرار را\nیا بگیر این جان بے دیدار را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا اس پردہ اسرار کو ہٹا دیجئے، یا دیدار سے محروم اس جان کو واپس لے لیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either draw aside this veil of mysteries, or seize to Thyself this sightless soul!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "نخل فکرم ناامید از برگ و بر\nیا تبر بفرست یا باد سحر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے فکر کا درخت برگ و بر سے نا امید ہے، یا اسے کلہاڑے کی نظر کیجئے یا اسے باد سحر سے نوازیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The date-tree of my thought despairs of leaf and fruit; either despatch the axe, or the breeze of dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "عقل دادی ھم جنونی دہ مرا\nرہ بہ جذب اندرونی دہ مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے عقل دی ہے تو جنون سے بھی نوازیئے، جزب اندرون کی طرف میری رہنمائی فرمایئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou gavest me reason, give me madness too, show me the way to inward ecstasy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "علم در اندیشہ می گیرد مقام\nعشق را کاشانہ قلب لاینام",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم سوچ میں اپنا مقام رکھتا ہے، عشق کا کاشانہ قلب بیدار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge takes up residence in the thought; love’s lodge is the unsleeping heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "علم تا از عشق برخودار نیست\nجز تماشا خانۂ افکار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک علم عشق سے فیض نہ پائے، وہ تماشا خانہ افکار کے سوائے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So long as knowledge has no portion of love; it is a mere picture-gallery of thoughts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "این تماشا خانہ سحر سامری است\nعلم بے روح القدس افسونگری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تماشا خانہ سحر سامری ہے، روح القدس کے بغیر علم شعبدہ بازی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This peep-show is the Samiri’s conjuring-trick; knowledge without the Holy Ghost is mere spellbinding.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "بے تجلی مرد دانا رہ نبرد\nاز لکد کوب خیال خویش مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد دانا تجلّی کے بغیر رہ نہیں پاتا، اپنے افکار کی دولتّیوں ہی سے مر جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without revelation no wise man ever found the way, he died buffetted by his own imaginings;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "بے تجلی زندگی رنجوری است\nعقل مہجوری و دین مجبوری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجلّی کے بغیر زندگی بیماری ہے، حق تعالے سے دور لی جاتی ہے اور اس کا دین مجبوری بن کر رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without revelation life is a mortal sickness, reason is banishment, religion constraint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "این جہان کوہ و دشت و بحر و بر\nما نظر خواہیم و او گوید خبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ و دشت و بحر و بر کا یہ جہان ہمیں صرف اللہ تعالے کی خبر دیتا ہے مگر ہم اس کے دیدار کے مشتاق ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of mountain and plain, ocean and land, we yearn for vision, and it speaks of report.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "منزلی بخش اے دل آوارہ را\nباز دہ با ماہ این مہپارہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دل آوارہ کو منزل عطا فرمایئے، اس ماہ پارے کو دوبارہ چاند سے ملا دیجیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant to this vagrant heart a resting-place, restore to the moon this fragment of the moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "گرچہ از خاکم نروید جز کلام\nحرف مہجوری نمی گردد تمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میری خاک سے سوائے کلام کے اور کچھ پیدا نہیں ہوتا مگر میرے کلام ہجر کی پوری داستان بیان نہیں کر سکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though from my soil nothing grows but words, the language of banishment never comes to an end.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "زیر گردون خویش را یابم غریب\nز آنسوی گردون بگو \"انی قریب\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آسمان کے نیچے اپنے آپ کو اجنبی پاتا ہوں، آسمان کے اس جانب سے صدا دیجیئے کہ میں قریب ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under the heavens I feel myself a stranger: from beyond the skies utter the words I am near;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "تا مثال مہر و مہ گردد غروب\nاین جہات و این شمال و این جنوب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تا کہ اس جہان کی جہات چاند سورج کی مانند نظروں سے اجھل ہو جائیں (تا کہ میں قید مکان سے آزاد ہو جاؤں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That these dimensions, this north and this south, like to the sun and moon in the end may set;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "از طلسم دوش و فردا بگذرم\nاز مہ و مھر و ثریا بگذرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور میں ماضی و مستقبل کے طلسم، اور مہ و مہر و ثرّیا کے جہان سے نکل جاؤں (قید زمان سے بھی آزاد ہو جاؤں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I shall transcend the talisman of yesterday and tomorrow, transcend the moon, sun, Pleiades.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "تو فروغ جاودان ما چون شرار\nیک دو دم داریم و آن ہم مستعار",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کا نور جاودان ہے جب کہ ہماری ز ندگی شرارے کی مانند ایک دو مستعار لمحوں کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art eternal splendour; we are like sparks; a breath or two we possess, and that too borrowed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "اے تو نشناسی نزاع مرگ و زیست\nرشک بر یزدان برد این بندہ کیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ مرگ و حیات کی کشمکش سے بے خبر ہیں، یہ بندہ کون ہے جو اللہ تعالے پر بھی رشک کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who know naught of the battle of death and life, who is this slave who would emulate even God?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "بندۂ آفاق گیر و ناصبور\nنے غیاب او را خوش آید نے حضور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ یہ بندہ آفاق گیر ہے مگر پھر بھی ناصبور ہے، نہ اسے ہجر خوش کرتا ہے نہ وصال (وصال میں مرگ آرزو، ہجر میں لذّت طلب)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This slave, impatient, conquering all horizons, finds pleasure neither in absence nor in presence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "آنیم من جاودانی کن مرا\nاز زمینی آسمانی کن مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کا میری زندگی ایک لمحہ کی زندگی ہے، اسے جاودان کر دیجیئے، میرا تعلق زمین سے ہے مجھے آسمانی بنا دیجیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a momentary thing: make me eternal, out of my earthiness make me celestial.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "103",
+          "Text": [
+            {
+              "_content": "ضبط در گفتار و کرداری بدہ\nجادہ ہا پیداست رفتاری بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے گفتار و کردار میں ضبط عطا فرمایئے، راستے سامنے ہیں مجھے ان پر چلنے کی توفیق عطا فرمایئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant me precision both in speech and action: the ways are clear- give me the strength to walk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "آنچہ گفتم از جہانے دیگر است\nاین کتاب از آسمانی دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے جو کچھ کہا ہے ایک اور جہان کی بات ہے، اس کتاب کا تعلق ایک اور آسمان سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What I have said comes from another world; this book descends from another heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "107",
+          "Text": [
+            {
+              "_content": "بحرم و از من کم آشوبی خطاست\nآنکہ در قعرم فرو آید کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بحر ہوں کم آبی میرے لیے نقص ہے، کہاں ہے وہ شخص جو میرے افکار (کی گہرائی) میں اترے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a sea; untumult in me is a fault; where is he who can plunge into my depths?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "یک جہان بر ساحل من آرمید\nاز کران غیر از رم موجی ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ایک جہان میرے ساحل پر آرام کر رہا ہے، مگر وہ کنارے پر بیٹھے سوائے موجوں کی حرکت کے اور کچھ نہیں دیکھتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A whole world slumbered upon my shore and saw from the strand naught but the surge of a wave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "111",
+          "Text": [
+            {
+              "_content": "من کہ نومیدم ز پیران کہن\nدارم از روزی کہ میآید سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جو پیران کہن سے نا امید ہوں، میں آنے والے دور کی بات کہنا چاہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I, who despair of the great sages of old, have a word to say touching the day to come!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "بر جوانان سہل کن حرف مرا\nبہرشان پایاب کن ژرف مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوانوں کے لیے میرا کلام سمجھنا آسان کر دیجیئے، ان کے لیے میرے سخن کی گہرائیاں پا یاب کر دیجیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Render my speech easy unto the young, make my abyss for them attainable.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ]
+}

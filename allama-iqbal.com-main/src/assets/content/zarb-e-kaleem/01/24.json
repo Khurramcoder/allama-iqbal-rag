@@ -1,0 +1,35 @@
+{
+  "id": "24",
+  "name": "صوفی سے",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری نگاہ میں ہے معجزات کی دنیا \nمری نگاہ میں ہے حادثات کی دنیا \nتخیلات کی دنیا غریب ہے، لیکن \nغریب تر ہے حیات و ممات کی دنیا \nعجب نہیں کہ بدل دے اسے نگاہ تری \nبلا رہی ہے تجھے ممکنات کی دنیا",
+              "lang": "Original"
+            },
+            {
+              "_content": "حيات و ممات: زندگی اور موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your eyes are fixed on miracles that amaze, but world of events strange attracts my gaze.\nNo doubt, the world of thought is strange and queer, but world of Life and Death more odd appear.\nA call to you is sent by World of Chance; perhaps you may transmute it with your glance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To Mystic",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

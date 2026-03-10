@@ -1,0 +1,83 @@
+{
+  "id": "22",
+  "name": "گلہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "معلوم کسے ہند کی تقدیر کہ اب تک \nبیچارہ کسی تاج کا تابندہ نگیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Fate of Mind to none at all is known, this lustrous gem still decks the British crown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دہقاں ہے کسی قبر کا اگلا ہوا مردہ \nبوسیدہ کفن جس کا ابھی زیر زمیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her peasant seems like corpse for want and dearth, whose rotten shroud is still beneath the earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جاں بھی گرو غیر، بدن بھی گرو غیر \nافسوس کہ باقی نہ مکاں ہے نہ مکیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرو غير: دوسروں کے پاس رہن رکھی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His soul and frame to aliens have been sold. Alas! The soul on lodge has lost its hold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یورپ کی غلامی پہ رضا مند ہوا تو \nمجھ کو تو گلہ تجھ سے ہے، یورپ سے نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With Europe's bondage you are quite content, no plaint 'gainst them, but I your act resent.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Complaint",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میرے کہستاں! تجھے چھوڑ کے جاوں کہاں\nتیری چٹانوں میں ہے میرے اب و جد کی خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب و جد: آبا و اجداد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can I quit this mountain land, where my sires are interred in rocks; my exile from this land so dear, is full of anguish, pain and shocks?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "روز ازل سے ہے تو منزل شاہین و چرغ\nلالہ و گل سے تہی، نغمہ بلبل سے پاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرغ: ایک قسم کا شکاری پرندہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Eternal Dawn you are abode of kestrel, hawk and birds of prey: There rose and tulip do not grow, nor Warbles nightingale so gay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیرے خم و پیچ میں میری بہشت بریں\nخاک تری عنبریں، آب ترا تاب ناک",
+              "lang": "Original"
+            },
+            {
+              "_content": "عنبریں: عنبر کی طرح خوشبودار ؛ عنبر ایک خاص قسم کی خوشبو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your paths that twist and turn on bills give Eden's pleasure to my sight your clay emits an ember smell; your sparkling streams look bright in light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "باز نہ ہوگا کبھی بندہ کبک و حمام\nحفظ بدن کے لیے روح کو کردوں ہلاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبک و حمام: چکور اور کبوتر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The kingly hawk can hot become a thrall to pheasant or a dove; how can a man destroy his soul for his clay-born body's love?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے مرے فقر غیور! فیصلہ تیرا ہے کیا\nخلعت انگریز یا پیرہن چاک چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O zealous Faqr, let me know what is your verdict and firm intent: Would you prefer the British robe, or your shirt, thread-bare, torn and rent?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11",
+  "name": "سیاست افرنگ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری حریف ہے یارب سیاست افرنگ \nمگر ہیں اس کے پجاری فقط امیر و رئیس \nبنایا ایک ہی ابلیس آگ سے تو نے \nبنائے خاک سے اس نے دو صد ہزار ابلیس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God, the politics of the Franks, with your creative powers ranks the rich alone and aristocrats obey its calls and dictates.\nOne Devil out of fire You raised, for Franks a track You have emblazed; the West has by its guile and art, filled with Satans the human mart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Statesmanship Of The Franks",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

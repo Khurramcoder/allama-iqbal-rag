@@ -1,0 +1,119 @@
+{
+  "id": "45",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کف خاکی برگ و سازم برہی فشانم او را\nبہ امید اینکہ روزی بفلک رسانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مٹھی بھر خاک میری متاع ہے میں اسے راہ میں بکھیر رہا ہوں؛ اس امید پر کہ ایک روز اسے آسمان تک پہنچا دوں گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hand of dust is all I own; I scatter it upon the way, because I hope that on a day it shall ascend to heaven’s throne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چہ کنم چہ چارہ گیرم کہ ز شاخ علم و دانش\nندمیدہ ہیچ خاری کہ بدل نشانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا کروں؟ اس کا کیا علاج ہے کہ علم و دانش کی شاخ سے کوئی ایک ایسا کانٹا نہیں نکلا ، جو دل میں چبھو سکوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What stratagem have I, what art? For on the branch of wisdom’s tree no thorn has ever sprung for me that I might thrust into my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دہد آتش جدائی شرر مرا نمودی\nبہ ہمان نفس بمیرم کہ فرونشانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آتش جدائی ہی سے میرے شرر کی نمود ہے؛ اگر میں اسے دبا دوں تو اسی لمحے میری موت واقع ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fires of separation give a brief effulgence to my flame, and when I would damp down the same, that very breath I no more live.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "می عشق و مستی او نرود برون ز خونم\nکہ دل آنچنان ندادم کہ دگر ستانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مے عشق اور مستی میرے خون میں رچی ہوئی ہیں؛ میں نے دل اس طرح نہیں دیا کہ پھر اسے واپس لے لوں (میری محبت ایسی نہیں کہ اس سے دستبردار ہو جاؤں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let it not vanish from my vein, the wine and drunkenness of love; I suffer none triumph of my heart, to take it back again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو بہ لوح سادۂ من ھمہ مدعا نوشتی\nدگر آنچنان ادب کن کہ غلط نخوانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے میرے دل کی خالی تختی پر سارا مدعا (ءحیات) لکھ دیا ہے؛ اب مجھے اتنی سمجھ عطا فرمائیے کہ میں اسے غلط نہ پڑھوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon the tablets Thou didst write the argument entire and whole; and now, so discipline my soul that I may read the script aright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بحضور تو اگر کس غزلی ز من سراید\nچہ شود اگر نوازی بہ ھمین کہ دانم او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ کے حضور کوئی میری غزل پیش کرے تو کیا ہی اچھا ہو اگر آپ اسے یہ کہہ کر نواز دیں کہ 'میں اسے جانتا ہوں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If in Thy presence one ghazal I ever made be sung to thee, what would it cost, the courtesy to whisper, ‘Yes, I know him well’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

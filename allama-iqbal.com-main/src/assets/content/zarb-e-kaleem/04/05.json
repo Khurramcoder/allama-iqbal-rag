@@ -1,0 +1,66 @@
+{
+  "id": "05",
+  "name": "پیرس کی مسجد",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مری نگاہ کمال ہنر کو کیا دیکھے \nکہ حق سے یہ حرم مغربی ہے بیگانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No height of art and craft I see, of truth this western mosque is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حرم نہیں ہے، فرنگی کرشمہ بازوں نے \nتن حرم میں چھپا دی ہے روح بت خانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is no worship house divine, the Franks have idols hid in shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ بت کدہ انھی غارت گروں کی ہے تعمیر \nدمشق ہاتھ سے جن کے ہوا ہے ویرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The brigands same have built this fane by whom Syrians were ruined and slain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Paris Mosque",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

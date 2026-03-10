@@ -1,0 +1,1667 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ملوکیت سراپا شیشہ بازی است\nازو ایمن نہ رومی نے حجازی است\nحضور تو غم یاران بگویم\nبہ امیدی کہ وقت دل نوازی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملوکیت سراسر شعبدہ بازی ہے؛ نہ رومی اس سے محفوظ ہیں نہ حجازی۔ \nمیں آپ (صلعم ) کے حضور دوستوں کا غم بیان کرتا ہوں ؛ اس امید پر کہ یہ دلنوازی کا وقت ہے (آپ (صلعم ) ضرور دلنوازی فرمائیں گے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The kingship as whole is trick and skill, in Rome or Jeddah none safe from his kill.\nThe sufferings of friends I say not to thee, in hope thy solace would make me happy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تن مرد مسلمان پایدار است\nبنای پیکر او استوار است\nطبیب نکتہ رس دید از نگاہش\nخودی اندر وجودش رعشہ دار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد مسلمان کا بدن توانا ہے؛ اس کے جسم کی بنیاد بہت مضبوط ہے۔ \nباریک بیں اور تیز فہم طبیب نے اس کی نگاہوں سے بھانپ لیا ؛ کہ اس کے وجود میں خودی رعشہ کی تکلیف میں مبتلا ہے (ناکارہ ہو چکی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim’s stuff has a life long stay, his lay out stands on a powerful clay.\nO wise critique see him from his view, the ‘Ego’ in him now shakes all through.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مسلمان شرمسار از بے کلاہی است\nکہ دینش مرد و فقرش خانقاہی است\nتو دانی در جہان میراث ما چیست؟\nگلیمی از قماش پادشاہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان اپنی بے کلاہی سے شرمسار ہے؛ کیونکہ اس کا دین مردہ اور فقر خانفاہی ہو چکا ہے۔ \nآپ (صلعم ) کو معلوم ہے کہ دنیا میں ہماری میراث کیا ہے؛ ایک گدڑی جو بادشاہی کپڑے سے بنی ہوئی ہو (وہ فقر جس کے انداز شاہانہ ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ashamed is Muslim for losing his State, his dead faith is haunting some hermits great.\nYou know their bequest and forefather’s line, he holds his ‘blanket’ as a kingship sign.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مپرس از من کہ احوالش چسان است\nزمینش بدگہر چون آسمان است\nبر آن مرغی کہ پروردی بہ انجیر\nتلاش دانہ در صحرا گران است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے نہ پوچھئے کہ مسلمان کا حال کیا ہے؛ آسمان کی طرح زمین بھی اس کی دشمن ہو چکی ہے۔ \nآپ (صلعم ) نے جس پرندے کی پرورش انجیر سے کی تھی؛ اس پر اب صحرا کے دانے کی تلاش کرتے پھرنا بہت گراں گذرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask me not of his present day lot, as if, earth and sky have made a plot; \nTo bird who was reared on fruits of fig, the grains’ search in deserts a problem big.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بہ چشمش وانمودم زندگی را\nگشودم نکتہ فردا و دی را\nتوان اسرار جانرا فاش تر گفت\nبدہ نطق عرب این اعجمی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس کی نظروں کے سامنے زندگی (کا راز) ظاہر کر دیا؛ اور ماضی و مستقبل کے نکات حل کر دیے۔ \nجان کے اسرار اور زیادہ کھول کر بیان کیے جا سکتے ہیں؛ (اگر) آپ (صلعم ) اس عجمی (اقبال) کو اہل عرب جیسی قوّت گویائی عطا فرما دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have scanned the whole world through his eye, so past and future tips I would untie.\nThus ope more and more life’s secret tips; dive the Arab’s tone on this Ajmi’s lips.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "(6)",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "مسلمان گرچہ بے خیل و سپاہی است\nضمیر او ضمیر پادشاہی است\nاگر او را مقامش باز بخشند\nجمال او جلال بے پناہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ مسلمان کے پاس کوئی لشکر اور فوج نہیں؛ مگر اس کی فطرت شاہانہ ہے۔ \nاگر اسے اس کا مقام دوبارہ عطا کر دیا جائے؛ تو اس کا جمال بھی شاہانہ بے پناہ جلال ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslims have raised no armament wings; his conscience is yet like conscience of kings.\nIf he gets back his status again; through his beauty his grandeur would reign.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "(7)",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "متاع شیخ اساطیر کہن بود\nحدیث او ہمہ تخمین و ظن بود\nہنوز اسلام او زنار دار است\nحرم چون دیر بود او برہمن بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیخ کی ساری پونجی قصّے کہانیوں پر مشتمل ہے؛ اس کی ساری باتیں ظن و تخمین پر مبنی ہیں۔ \nابھی اس کا اسلام زنّار دار ہے؛ حرم اس کا دیر ہے ، اور وہ برہمن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The assets of Sheikh were the fables old; on guess and thinking his Hadith was mould.\nHe holds faith yet like a Hindu’s thread; his mosque thus sways in a temple’s stead.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "name": "(8)",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "دگرگون کرد لادینی جھان را\nز آثار بدن گفتند جان را\nاز آن فقری کہ با صدیق دادی\nبشورے آور این آسودہ جان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے دینی نے جہان کو تہ و بالا کر دیا ہے؛ بے دین لوگ روح کو بھی بدن سے پیدا ہونے والی چیز کہتے ہیں۔ \nجو فقر آپ (صلعم ) نے ابوبکر صدیق (رضی اللہ) کو عطا فرمایا تھا؛ اس سے مجھ آرام طلب کو بھی گرما دیں (تاکہ میں انہیں صحیح بات سمجھا سکوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He brought a total change in faithless world,’ they* say, ‘body is a track for life’s bird’**.\nWith ‘faqr’*** thou destined to the Siddiq’s part; may fill a new thrill to this ease loving heart.\n* Scientists. \n**Soul. \n***Ascetic nature (not poverty); a love of simple life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "(9)",
+      "Verse": [
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "حرم از دیر گیرد رنگ و بوئی\nبت ما پیرک ژولیدہ موئی\nنیابی در بر ما تیرہ بختان\nدلی روشن ز نور آرزوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(آج کل) حرم ، دیر کے طور طریقے اپنائے ہوئے ہے؛ پریشان بالوں والا بت ہمارا بت ہے۔ \nآپ (صلعم ) ہم سیاہ بختوں کے پہلو میں ایسا دل نہیں پائیں گے؛ جو آرزو کے نور سے روشن ہو (جس کے اندر آگے بڑھنے کا شوق ہو)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From fane gets Harem its grandeur and glare; my ‘idol’ is a ‘pir’* with curly hair.\nNone ill-starred came in my bosom’s frame; being lit up with light of his hopeful flame.**\n* guide is a ‘pir’. \n** Of the Prophet (Sal’am)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "(10)",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "فقیران تا بہ مسجد صف کشیدند\nگریبان شہنشاہان دریدند\nچو آن آتش درون سینہ افسرد\nمسلمانان بہ درگاہان خزیدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک فقرا مساجد میں صف آرا رہے؛ ان کے ہاتھ شہنشاہوں کے گریبانوں تک پہنچتے رہے۔ \nمگر جب دلوں کے اندر کی آگ بجھ گئی؛ تو مسلمان خانقاہوں میں جا کر بیٹھ گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As long in mosque the poor kept a row; they tore the emperors collars he;\nThat fire when cooled in his heart and soul; they crawled to tombs of saints to roll.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "(11)",
+      "Verse": [
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "مسلمانان بہ خویشان در ستیزند\nبجز نقش دوئے بر دل نریزند\nبنالند از کسی خشتی بگیرد\nاز آن مسجد کہ خود از وی گریزند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان اپنوں ہی کے ساتھ جنگ آزمائی کر رہے ہیں؛ اور سوائے نقش دوئی کے اپنے دل پر اور نقش نہیں بناتے۔ \nاگر کسی مسجد سے کوئی شخص ایک اینٹ اٹھا لے تو چیخ اٹھتے ہیں؛ اگرچہ خود اس سے (مسجد سے) بھاگتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Moslems are fighting with brothers own; save seeds of rupture nothing they have sown.\nIf you take a brick they raise cry and hue; a mosque from which they are fleeing all through.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "(12)",
+      "Verse": [
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "جبین را پیش غیر اللہ سودیم\nچو گبران در حضور او سرودیم\nننالم از کسی می نالم از خویش\nکہ ما شایان شان تو نبودیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے غیر اللہ کے سامنے جبیں سائی کی؛ اور آتش پرستوں کی طرح اس کے حضور گاتے رہے ۔ \nمیں اور کسی سے نالاں نہیں بلکہ اپنے آپ سے نالاں ہوں؛ کیونکہ ہم تیری شان کے لائق نہ تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To others than God we touch our brows; and sing like Guibers* in round about rows.\nI weep not on else, I weep on me; we are not fit for honours of thee.\n\n* Guibers; a fire worshipper, followers of Zoroaster, who was also a Prophet, most probably.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "(13)",
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "بدست می کشان خالی ایاغ است\nکہ ساقی را بہ بزم من فراغ است\nنگہ دارم درون سینہ آہی \nکہ اصل او ز دود آن چراغ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مے خواروں کے ہاتھ میں خالی پیالہ ہے؛ کیونکہ ساقی کو میری محفل سے فراغت حاصل ہے۔ \nمیں اپنے سینے میں اس آہ کی حفاظت کرتا ہوں؛ جس کی اصل اس چراغ کے دھوئیں سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the hands of drinkers the empty glass; my party’s bearer* is jobless alas. \nI keep an eye on sigh’s inner seat; whose source are the fumes of that lamp’s heat.\n\n* The lamp of the Prophet from which they seek light.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "(14)",
+      "Verse": [
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "سبوی خانقاہان خالی از می\nکند مکتب رہ طی کردہ را طی\nز بزم شاعران افسردہ رفتم\nنواہا مردہ بیرون افتد از نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خانقاہوں میں سبو شراب (معرفت) سے خالی پڑے ہیں؛ مدرسوں میں پرانی باتیں رٹی جا رہی ہیں۔ \nشاعروں کی بزم سے بھی میں افسردہ (خاطر) اٹھا؛ ان کی نے سے بھی مردہ نغمے نکل رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The synagogues bottles are void of wine; where teachers are the pupils of that line.\nThe poets group I left with tears; their fifes and flutes are dead on ears.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "(15)",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "مسلمانم غریب ہر دیارم\nکہ با این خاکدان کاری ندارم\nبہ این بے طاقتی در پیچ و تابم\nکہ من دیگر بہ غیر اللہ دچارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان ہوں ہر شہر میں اجنبی ہوں؛ کیونکہ میں اس دنیا سے کوئی وابستہ نہیں رکھتا۔ \nاپنی بے طاقتی کے سبب ، سخت پیچ و تاب میں ہوں؛ کیونکہ ایک بار پھر غیر اللہ سے میرا مقابلہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslims are foreigns on every land; are looked on this earth like a useless band.\nThough powerless still I twist and twine; I face the godless in every line.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 15
+    },
+    {
+      "name": "(16)",
+      "Verse": [
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "بہ آن بالی کہ بخشیدی، پریدم\nبہ سوز نغمہ ہای خود تپیدم\nمسلمانے کہ مرگ از وی بلرزد\nجہان گردیدم و او را ندیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) نے مجھے جو بال و پر عطا فرمائے ہیں، ان کی مدد سے اڑا ہوں؛ اپنے نغموں کے سوز میں بہت تڑپا ہوں۔ \nساری دنیا میں پھرا ہوں ، مگر مجھے وہ مسلمان کہیں نظر نہیں آیا؛ جسے دیکھ کر موت سہم جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With wings you gave I judge and fly; in heat of songs I burn and cry. \nA Muslim from whom shivers the death; I found him not on whole earth’s breadth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 16
+    },
+    {
+      "name": "(17)",
+      "Verse": [
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "شبی پیش خدا بگریستم زار\nمسلمانان چرا زارند و خوارند\nندا آمد، نمیدانی کہ این قوم\nدلی دارند و محبوبی ندارند",
+              "lang": "Original"
+            },
+            {
+              "_content": "رات میں اللہ کی جناب میں بہت رویا؛ کہ مسلمان کیوں زار و خوار ہیں۔\nآواز آئی : کیا تو نہیں جانتا کہ یہ قوم، دل رکھتی ہے مگر محبوب نہیں رکھتی (حضور صلعم ) کو اپنا آئیڈیل نہیں بناتی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At night before Lord I often cry; why Moslems are aimed for curse of sky.\nA voice came then, ‘You know not this race; hold a heart yet know not lovers face.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "(18)",
+      "Verse": [
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "نگویم از فرو فالی کہ بگذشت\nچہ سود از شرح احوالی کہ بگذشت\nچراغی داشتم در سینۂ خویش\nفسرد اندر دو صد سالی کہ بگذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی عظمت رفتہ کی بات نہیں کرتا ؛ جو حالات گذر چکے ، انہیں بیان کرنے سے کیا حاصل۔\n(مگر دکھ اس بات کا ہے کہ) میں اپنے سینے کے اندر جو (عشق رسول پاک (صلعم ) کا ) چراغ رکھتا تھا: گذشتہ دو صدیوں میں وہ بھی بجھ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I speak not now of the grandeur past. No use to count now what did not last.’\nI keep a lamp lit in chest of mine; in two hundred years we sapped its shine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 18
+    },
+    {
+      "name": "(19)",
+      "Verse": [
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "نگہبان حرم معمار دیر است\nیقینش مردہ و چشمش بہ غیر است\nز انداز نگاہ او توان دید\nکہ نومید از ہمہ اسباب خیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(حد یہ ہے کہ ) مسلمان جس کے ذمہ حرم کی نگہبانی تھی، وہ بتکدے تعمیر کرنے لگا ہے؛ اس کا ایمان ختم ہو چکا ہے اور غیروں سے امید یں باندھے ہوئے ہے۔\nاس کی نگاہ کے انداز ہی سے دیکھا جا سکتا ہے؛ (کہ وہ اپنے مستقبل کی) بھلائی کے تمام اسباب سے نا امید ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The guard of Harem is the mason of fane; his faith is dead, eyes set on others lane.\nFrom his winking eyes it can be seen; he is despaired of all godsend means.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "(20)",
+      "Verse": [
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "ز سوز این فقیر رہ نشینی\nبدہ او را ضمیر آتشینی\nدلش را روشن و پایندہ گردان\nز امیدی کہ زاید از یقینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس فقیر راہ نشین کے سوز سے ؛ مسلمان کو پھر ضمیر آتشیں عطا فرمائیے۔ \nاس کے دل کو اس امید سے روشن اور پائیندہ بنا دیجیے؛ جو ایمان ( محکم) سے پیدا ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From this poor man’s flame, sitting on his way; bid him fiery conscience, the least I say.\nKindle his heart for a-long-lasting light; from man’s hopes his hopes be more bright.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "(21)",
+      "Verse": [
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "گہی افتم گہی مستانہ خیزم\nچو خون بے تیغ و شمشیری بریزم\nنگاہ التفاتی بر سر بام\nکہ من با عصر خویش اندر ستیزم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی میں گرتا ہوں اور کبھی پھر مستانہ وار اٹھ کھڑا ہوتا ہوں؛ شمشیر و تیغ کے بغیر میں کیا خوب لڑائی لڑ رہا ہوں۔ \n(اپنے کا شانہ ء اطہر کے) بام سے مجھے نگاہے التفات سے نوازئیے ؛ کیونکہ میں دور حاضر سے نبرد آزما ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like gallants I fall and rise again; what a blood I shed sans sword-and cane.\nOn every ones terrace now leans thy look; for which a constant war I have to brook.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 21
+    },
+    {
+      "name": "(22)",
+      "Verse": [
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "مرا تنھائی و آہ و فغان بہ\nسوی یثرب سفر بے کاروان بہ\nکجا مکتب، کجا میخانہ شوق\nتو خود فرما مرا این بہ کہ آن بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے تنہائی اور آہ و فغاں ہی راس آتی ہے؛ مجھے مدینہ طیبہ کی جانب بغیر کارواں کے سفر کرنا پسند ہے۔ \nکہاں مکتب (درس علوم ) اور کہاں عشق (رسول پاک) کا میخانہ ؛ آپ (صلعم ) ہی فرمائیں: میرے لیے یہ بہتر ہے یا وہ؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let me sob and sigh in a lone retreat; how fine the Yasrib lines with no joint seat.\nHow odd a college looks to pub of thrill; tell me is this better or that one still.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 22
+    },
+    {
+      "name": "(23)",
+      "Verse": [
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "پریدم در فضای دلپذیرش\nپرم تر گشت از ابر مطیرش\nحرم تا در ضمیر من فرو رفت\nسرودم آنچہ بود اندر ضمیرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں حرم شریف کی فضائے دل پذیر میں اڑا؛ وہاں برستے ہوئے انوار سے میرے پر تر ہو گئے۔\nچونکہ حرم میرے قلب میں اتر گیا؛ اس لیے میں نے اپنے اشعار میں وہی کہا جو اس کے ضمیر میں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I fly in the airy lovelier space; my wings are getting wet from clouds I face.\nI found in my conscience the Harem’s mould; since on my conscience that song had a hold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 23
+    },
+    {
+      "name": "(24)",
+      "Verse": [
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "بہ آن رازی کہ گفتم پی نبردند\nز شاخ نخل من خرما نخوردند\nمن اے میر امم داد از تو خواہم\nمرا یاران غزلخوانی شمردند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے (اپنے کلام میں ) جو راز بیان کیا، لوگوں نے اس تک رسائی نہ پائی؛ انہوں نے میرے نخل (کلام) کی شاخ سے پھل نہ کھائے۔\n اے شاہ امم (صلعم )! میں آپ (صلعم ) سے انصاف طلب ہوں؛ کہ دوستوں نے مجھے فقط غزل خواں جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of secret I’told, they paid no heed; they ate no fruits of vintage they need.\nO nation’s chief do a justice to me; as a writer of odes my friends call me.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 24
+    },
+    {
+      "name": "(25)",
+      "Verse": [
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "نہ شعر است اینکہ بر وی دل نہادم\nگرہ از رشتہء معنی گشادم\nبہ امیدی کہ اکسیری زند عشق\nمس این مفلسان را تاب دادم",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ شعر نہیں، جس پر میں نے توجہ دی ہے؛ میں نے تو اسرار معنی کی گرہیں کھول دی ہیں۔\nمیں نے (دور حاضر کے) ان (مسلمان) مفلسوں (کے دلوں) کو اس امید پر گرمایا ہے کہ عشق ان پر اپنی اکسیر ڈال (کر انہیں سونا بنا) دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To stick it to bosom this verse aims not; with gems of meanings I open the knot.\nWith hope my passion would make it gold; I temper their cuprum* with heats manifold. (*Cuprum; copper, here it means personality and thinking.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 25
+    },
+    {
+      "name": "(26)",
+      "Verse": [
+        {
+          "id": "101",
+          "Text": [
+            {
+              "_content": "تو گفتی از حیات جاودان گوی\nبگوش مردہ ئی پیغام جان گوی\nولی گویند این ناحق شناسان\nکہ تاریخ وفات این و آن گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) کا ارشاد ہے کہ میں حیات جاوداں کی بات کروں؛ ان مردہ دلوں کے کان میں زندگی کا پیغام پھونکوں۔ \nمگر یہ حق نا شناس مجھ سے کہتے ہیں؛ کہ ایسے ویسے لوگوں کی تاریخ وفات کہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You bid me for a theme on bliss life long; on a dead ear sound a cheerful song.\nThose uncouth put me in a poet’s hat; to write a death date of this man or that.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 26
+    },
+    {
+      "name": "(27)",
+      "Verse": [
+        {
+          "id": "105",
+          "Text": [
+            {
+              "_content": "رخم از درد پنھان زعفرانی\nتراود خون ز چشم ارغوانی\nسخن اندر گلوی من گرہ بست\nتو احوال مرا ناگفتہ دانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "درد پنہاں سے میرا چہرہ زرد ہے؛ اور میری سرخ آنکھوں سے خون ٹپک رہا ہے۔ \nبات میرے گلے میں اٹک کے رہ گئی ہے؛ میرے کہے بغیر بھی، آپ (صلعم ) میرا حال جانتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My face looks saffron from arcane* pain; the blood looks oozing from red eyes veins.\nThe speech chokes throat and forms a knot; I can’t speak though you know my lot.**\n\n* Arcane; hidden, known to chosen only; sec esoterics; hidden signs known by the few chosen (in mysticism). \n**Here Iqbal is picturising a phase of direct link of one’s heart with God, while talking in esoterics.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 27
+    },
+    {
+      "name": "(28)",
+      "Verse": [
+        {
+          "id": "109",
+          "Text": [
+            {
+              "_content": "زبان ما غریبان از نگاہیست\nحدیث دردمندان اشک و آہیست\nگشادم چشم و بر بستم لب خویش\nسخن اندر طریق ما گناہیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نگاہ ہی ہم غریبوں کی زبان ہے؛ اشک و آہ ہی دردمندوں کی داستان ہے۔\nمیں نے آنکھ کھولی اور ہونٹ بند رکھے؛ ہمارے مذہب میں بات (شکایت ) کرنا گناہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The meek utter hence of yonder glance; thus the ruthful dwell on sob’s parlance. \nWe keep eyes ope and seal the lips; in mystics code speech is a slip.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 28
+    },
+    {
+      "name": "(29)",
+      "Verse": [
+        {
+          "id": "113",
+          "Text": [
+            {
+              "_content": "خودی دادم ز خود نامحرمی را\nگشادم در گل او زمزمی را\nبدہ آن نالہء گرمے کہ از وی\nبسوزم جز غم دین ہر غمی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس (مسلمان) کو جو اپنے آپ کو بھول چکا تھا خودی کا درس دیا؛ اور اس طرح اس کی خاک کے اندر چشمہء زمزم کھودا۔ \nاب آپ (صلعم ) مجھے ایسا نالہ ء کرم عطا فرمائیں؛ کہ میں (اس کے دل سے) غم دین کے علاوہ ہر غم جلا دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who knew not I preached them ego; for them I e’er caused my fonts to flow.\nBid me burning voice with whose sole flame; all griefs are burnt save thy love’s sole aim.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 29
+    },
+    {
+      "name": "(30)",
+      "Verse": [
+        {
+          "id": "117",
+          "Text": [
+            {
+              "_content": "درون ما بجز دود نفس نیست\nبجز دست تو ما را دست رس نیست\nدگر افسانہ غم با کہ گویم؟\nکہ اندر سینہ ہا غیر از تو کس نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے اندر صرف سانس باقی ہے، جو (آہوں کے سبب) دھواں بن چکی ہے؛ آپ (صلعم ) کے دست (مشکل کشا) کے علاوہ اور کہیں ہماری رسائی نہیں۔ \nہم اپنی داستان غم کسے سنائیں ؛ ہمارے سینوں (دلوں) میں آپ (صلعم ) کے سوائے اور کوئی ہے ہی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What I hold in heart is grief and remorse. Save thee I have no access and source.\nMy grief’s inner tale to whom I can tell, You know in my bosom you only dwell.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 30
+    },
+    {
+      "name": "(31)",
+      "Verse": [
+        {
+          "id": "121",
+          "Text": [
+            {
+              "_content": "غریبی دردمندی نے نوازی\nز سوز نغمہء خود در گدازی\nتو میدانی چہ میجوید، چہ خواہد\nدلی از ھر دو عالم بے نیازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایک غریب ، دردمند ، نے نواز (شاعر) ہوں؛ اپنے نغمے کے سو و ہی میں پگھلا جا رہا ہوں۔ \nآپ (صلعم ) خوب جانتے ہیں کہ ایسا دل جو دونوں جہانوں سے بے نیاز ہو؛ کس چیز کا جویا ہے، اور کیا چاہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A poor, ruthfull flutist who taught love’s tone; is melting himself in heat of songs own. \nYou know what he seeks and what he wants; yet he needs not both the worlds in grant. \n\nFlutist: in Iqbal’s own terminology it means poet.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 31
+    },
+    {
+      "name": "(32)",
+      "Verse": [
+        {
+          "id": "125",
+          "Text": [
+            {
+              "_content": "نم و رنگ از دم بادی نجویم\nز فیض آفتاب تو بہ رویم\nنگاہم از مہ و پروین بلند است\nسخن را بر مزاج کس نگویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں (پودوں کی مانند دنیا کی) ہوا کے جھونکوں سے نمی اور رنگ حاصل کرنے کا خواہاں نہیں؛ میں تو صرف آپ (صلعم ) آفتاب (سراج المنیرہ ) کے فیض سے نشو و نما پانا چاہتا ہوں۔ \nمیری نگاہ مہ و پروین سے بلند ہے (میں کسی بڑے سے بڑے دنیادار کو خاطر میں نہیں لاتا)؛ اس لیے کسی کا مزاج دیکھ کر بات نہیں کرتا ( جو صحیح سمجھتا ہوں کہہ دیتا ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek not my vigour* from morning air; from thy Sun’s boon I seek my growth and care.\nMy glance goes higher than stars and moon; I write not verses for some one’s boon.\n\n* moist and colour, lustre, beauty, freshness and form, as such vigour covers this sense.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 32
+    },
+    {
+      "name": "(33)",
+      "Verse": [
+        {
+          "id": "129",
+          "Text": [
+            {
+              "_content": "در آن دریا کہ او را ساحلی نیست\nدلیل عاشقان غیر از دلی نیست\nتو فرمودی رہ بطحا گرفتیم\nوگرنہ جز تو ما را منزلی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کا دریا وہ ہے جس کا کوئی کنارہ نہیں ؛ وہاں دل کے سوائے عاشقوں کا کوئی راہنما نہیں۔ \nآپ (صلعم ) نے فرمایا تو میں مکہ مکرمہ چلا گیا؛ ورنہ آپ (صلعم ) کے سوائے ہماری اور کوئی منزل نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I’am in a sea which has no coast side; this heart is the lover’s path and guide.\nFor thy sake at Mecca a halt I make; if not my journey was for thy sake.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 33
+    },
+    {
+      "name": "(34)",
+      "Verse": [
+        {
+          "id": "133",
+          "Text": [
+            {
+              "_content": "مران از در کہ مشتاق حضوریم\nاز آن دردی کہ دادی نا صبوریم\nبفرما ہر چہ میخواہی بجز صبر\nکہ ما از وی دو صد فرسنگ دوریم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں اپنے دروازے سے نہ دھتکاریئے ، ہم آپ (صلعم ) کی حضوری کے مشتاق ہیں ؛ اپنی محبت کا درد جو آپ (صلعم ) نے عطا کیا ہے، اس کے سبب ہم ناصبور ہیں۔ \nصبر کی بات نہ کریں ، اس کے علاوہ جو چاہیں کہیں؛ کیونکہ ہم صبر سے سو فرسنگ دور ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drive not from door who are longing for thee; we are getting restive from thy flame’s glee.*\nSo bid what ye wish, for patience ask, not; two hundred miles from it, the heart has brought.\n\n* Iqbal has taken the idea from a couplet of Sheikh Saa’di and formed his own ellipsis on it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 34
+    },
+    {
+      "name": "(35)",
+      "Verse": [
+        {
+          "id": "137",
+          "Text": [
+            {
+              "_content": "بہ افرنگی بتان دل باختم من\nز تاب دیریان بگداختم من\nچنان از خویشتن بیگانہ بودم\nچو دیدم خویش را نشناختم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے فرنگی بتوں کو دل ہار دیا؛ اور اہل بتکدہ کی گرمی سے پگھل گیا۔\nمیں اپنے آپ سے اس قدر بیگانہ ہو گیا؛ کہ جب میں نے اپنے آپ کو دیکھا، تو پہچان نہ سکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On idols white my heart is sweet; it melts in Tina’s* glamour’s heat.\nSo alien to self I made of me; I sought of my ‘self’ but did not see.\n\n* Tina is a diminutive of Christina, a common name for a Christian girl, whose masculine gender is Christie, also a common name for a Christian. It was dim-cult to convey a true sense for Daeree of fane in English, being a ‘dichtomy’ of ‘masita’ means one who belongs to mosque but he is not a maulvi.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 35
+    },
+    {
+      "name": "(36)",
+      "Verse": [
+        {
+          "id": "141",
+          "Text": [
+            {
+              "_content": "می از میخانۂ مغرب چشیدم\nبجان من کہ درد سر خریدم\nنشستم با نکویان فرنگے\nاز آن بے سوز تر روزی ندیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے یورپ کے میکدہ سے شراب چکھی؛ اپنی جان کی قسم! صرف درد سر ہی خریدا۔ \nیورپ کے اچھے لوگوں کی صحبت میں بیٹھا؛ مگر بے سود وقت گنوایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Western taverns the wines* I take; I buy for my head a great headache.\nWith the nobles of West I sat for days; for me the worst days of my flameless** stays.\n\n* The wines in Iqbal’s own terminology it means the culture and civilization of a nation.\n**Without flame of love and taste.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 36
+    },
+    {
+      "name": "(37)",
+      "Verse": [
+        {
+          "id": "145",
+          "Text": [
+            {
+              "_content": "فقیرم از تو خواھم ہر چہ خواہم\nدل کوہی، خراش از برگ کاہم\nمرا درس حکیمان درد سر داد\nکہ من پروردۂ فیض نگاہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(آپ (صلعم ) کے درواز ے کا) فقیر ہوں، جو مانگتا ہوں آپ (صلعم ) سے مانگتا ہوں؛ (میری التجا ہے کہ) میرے برگ کاہ سے پہاڑ کا دل کاٹ دیا جائے۔ \nفلسفیوں کے لیکچر میرے لیے درد سر ثابت ہوئے؛ کیونکہ میں فیض نگاہ کا پروردہ ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I seek from thy door, whatever I seek; bid a grass leaf* to peel a ‘Mountain’s’** peak.\nTo me logic gave a headache great; but a glance changed all over my fate. \n\n* A poor man.\n**A big power.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 37
+    },
+    {
+      "name": "(38)",
+      "Verse": [
+        {
+          "id": "149",
+          "Text": [
+            {
+              "_content": "نہ با ملا نہ با صوفی نشینم\nتو میدانی کہ من آنم، نہ اینم\nنویس اللہ بر لوح دل من\nکہ ہم خود را ھم او را فاش بینم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میں ملّا کے پاس بیٹھا ، نہ صوفی کے پاس ؛ آپ (صلعم ) جانتے ہیں کہ نہ میں ان سے ہوں نہ ان سے۔\nمیرے دل کی تختی پر لفظ اللہ رقم فرما دیں؛ تاکہ میں اپنے آپ کو بھی بے حجاب دیکھ لوں اور اللہ تعالے کو بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With ‘mullah’ or ‘Sufi’ I do not sit; with this or that, you know I dont fit.\nThus write the word Allah on my heart’s slate, to see ‘Him’ and Self in a lucent state.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 38
+    },
+    {
+      "name": "(39)",
+      "Verse": [
+        {
+          "id": "153",
+          "Text": [
+            {
+              "_content": "دل ملا گرفتار غمی نیست\nنگاہی ہست، در چشمش نمی نیست\nاز آن بگریختم از مکتب او\nکہ در ریگ حجازش زمزمی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملا کا دل کسی غم میں گرفتار نہیں؛ اس کی آنکھ میں بینائی تو ہے مگر نمی نہیں۔ \nمیں اس کے مکتب سے اس لیے چلا آیا ؛ کیونکہ اس کی ریگ حجاز (مذہبی علوم) میں (روحانیت کا چشمہ) زمزم نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘mullah’ never knows the pangs of grief; no tears ever flow in his eyes and belief;\nFrom his School of quacks I took to my heels; the sounds of desert chants* his dust can’t feel.\n\n* Here it means the sound of a chant of the caravans going to Holy land.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 39
+    },
+    {
+      "name": "(40)",
+      "Verse": [
+        {
+          "id": "157",
+          "Text": [
+            {
+              "_content": "سر منبر کلامش نیشدار است\nکہ او را صد کتاب اندر کنار است\nحضور تو من از خجلت نگفتم\nز خود پنھان و بر ما آشکار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ منبر پر کھڑا ہو کر چبھتا ہوا وعظ کہتا ہے؛ کیونکہ اس کی بغل میں سینکڑوں کتب ہیں۔\n آپ (صلعم ) کے سامنے میں نے شرم کے مارے بات نہیں کی؛ کہ وہ اپنے آپ سے پوشیدہ ، مگر ہم پر ظاہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On pulpit his address a venom of bile; in arms, hundred books to cover his wile.\nIn thy ‘own House’ I talk not in shame; by himself though hid I feel His flame.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 40
+    },
+    {
+      "name": "(41)",
+      "Verse": [
+        {
+          "id": "161",
+          "Text": [
+            {
+              "_content": "دل صاحبدلان او برد یا من؟\nپیام شوق او آورد یا من ؟\nمن و ملا ز کیش دین دو تیریم \nبفرما بر ہدف او خورد یا من؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب دل حضرات کو اس نے متاثر کیا ہے، یا میں نے؟ پیام شوق وہ لایا ہے یا میں؟ \nمیں اور ملّا ترکش دین کے دو تیر ہیں؛ آپ (صلعم ) ہی فرمائیں کہ نشانہ پر وہ لگا ہے یا میں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart of lucent hearts he took or I? Thy message of love did he brought or I?\nTwo shafts of Deen’s quiver are ‘mullah’ and I; who took the right aim: did ‘mullah’ or I.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 41
+    },
+    {
+      "name": "(42)",
+      "Verse": [
+        {
+          "id": "165",
+          "Text": [
+            {
+              "_content": "غریبم در میان محفل خویش\nتو خود گو با کہ گویم مشکل خویش\nاز آن ترسم کہ پنہانم شود فاش\nغم خود را نگویم با دل خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی محفل میں اجنبی ہوں ؛ آپ (صلعم ) ہی فرمائیں کہ میں اپنی مشکل کس سے بیان کروں۔ \nمیں ڈرتا ہوں کہ کہیں میرا (راز) پنہاں فاش نہ ہو جائے؛ اس لیے میں اپنے دل کو بھی اپنا غم نہیں بتاتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An alien I am within my own race’ to whom I should take the ‘Issues’ I face.\nThose hidden pricks I fear to disclose; I tell not my griefs to heart, though close.*\n\n* Iqbal feels that none is the friend of a man in this world save ‘Allah’ alone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 42
+    },
+    {
+      "name": "(43)",
+      "Verse": [
+        {
+          "id": "169",
+          "Text": [
+            {
+              "_content": "دل خود را بدست کس ندادم \nگرہ از روی کار خود گشادم\nبہ غیر اللہ کردم تکیہ یک بار\nدو صد بار از مقام خود فتادم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنا دل کسی کے ہاتھ میں نہیں دیا؛ اپنے کاموں کی گرہ خود ہی کھولی ہے۔\nجب کبھی میں نے ایک بار غیر اللہ پر تکیہ کیا؛ تو دو صد بار اپنے مقام سے نیچے گرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For any one’s boon this heart owes not; with my own hand I opened each tough knot.\nI banked on else once save Allah’s grace; I fell hundred times from self’s high place.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 43
+    },
+    {
+      "name": "(44)",
+      "Verse": [
+        {
+          "id": "173",
+          "Text": [
+            {
+              "_content": "ہمان سوز جنون اندر سر من\nہمان ہنگامہ ہا اندر بر من\nہنوز از جوش طوفانی کہ بگذشت \nنیاسود است موج گوہر من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سر کے اندر وہی (پرانا) سوز جنوں ہے؛ (اور ) میرے پہلے میں وہی پرانے ہنگامے ہیں۔ \n(اسلام کا) وہ جوش طوفان ، جو گذر چکا ہے؛ ابھی تک اس سے میرے گوہر (طبیعت ) کی موج پر سکون نہیں ہوئی (ابھی تک میں اس کے انتظار میں ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My craze still feels the same burning phase; all the old passions are still ablaze. From impact of old storms which I feel still; the waves of my pearls* get a new storm’s thrill.\n\n* Pearls (gauhar) in Persian also means intrinsic qualities (of a man) in figurative sense.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 44
+    },
+    {
+      "name": "(45)",
+      "Verse": [
+        {
+          "id": "177",
+          "Text": [
+            {
+              "_content": "ہنوز این خاک دارای شرر ہست\nہنوز این سینہ را آہ سحر ہست\nتجلی ریز بر چشمم کہ بینی\nباین پیری مرا تاب نظر ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابھی تک میری خاک میں وہ شرر باقی ہے؛ ابھی تک میرے سینے میں آہ سحر موجود ہے۔\nمیری چشم پر اپنی تجلی ڈالیے؛ اس پیری میں بھی میرے اندر دیکھنے کی سکت موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This dust still feels His living flame; to midnight sighs, the heart still claims.\nCast Thy vision’s light so that I may see; though old I have courage to bear this glee.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 45
+    },
+    {
+      "name": "(46)",
+      "Verse": [
+        {
+          "id": "181",
+          "Text": [
+            {
+              "_content": "نگاہم زآنچہ بینم بے نیاز است\nدل از سوز درونم در گداز است\nمن و این عصر بے اخلاص و بے سوز\nبگو با من کہ آخر این چہ راز است؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو کچھ میں دیکھ رہا ہوں (یعنی دنیا) اس سے میری نگاہ بے نیاز ہے؛ میرا دل سوز دروں سے پگھلا جا رہا ہے۔\nمیں اور یہ بے اخلاص و بےسوز دور! فرمائیے؛ کہ آخر یہ کیا راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My glance looks not the world’s hollow game; the heart is melting from inner flame.\nI am in this world which lacks any flame; tell me after all what the secret game is?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 46
+    },
+    {
+      "name": "(47)",
+      "Verse": [
+        {
+          "id": "185",
+          "Text": [
+            {
+              "_content": "مرا در عصر بے سوز آفریدند\nبخاکم جان پر شوری دمیدند\nچو نخ در گردن من زندگانے\nتو گوئی بر سر دارم کشیدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اس بے سود دور میں پیدا کیا ؛ پھر میری خاک (بدن) میں پر شور جان پھونک دی۔\nمیری گردن میں زندگی پھندے کی مانند پھنسی ہوئی ہے؛ گویا مجھے تختہ ء دار پر چڑھا دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have been born in a flameless* age; in me nature kept a fire ablaze.\nThe life in my neck is like a thread; say they are tighting this thread in my head.** \n\n* It means faithless.\n** Iqbal says Say they are dragging me on cross, (is the literal translation) viz, to kill me. Here he is asking the Prophet to tell this state to God as a passionate appeal of a lover.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 47
+    },
+    {
+      "name": "(48)",
+      "Verse": [
+        {
+          "id": "189",
+          "Text": [
+            {
+              "_content": "نگیرد لالہ و گل رنگ و بویم\nدرون سینہ ام مرد آرزویم\nغم پنہان بحرف اندر نگجند\nاگر گنجد چہ گویم با کہ گویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ و گل (عوام الناس) میرا رنگ و بو اختیار نہیں کرتے؛ میری آرزو میرے سینے ہی میں ختم ہو کے رہ گئی ہے۔ \n میرا غم پنہاں الفاظ میں نہیں سماتا؛ اگر سما بھی سکے تو کیا کہوں اور کے سے کہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘rose and poppy’* lack my ‘scent and shade.** All yearnings have died in a bosom fade. \nIn words, the grief hidden cannot contain; if so, what to say, to whom to explain?\n\n* An allusion, to members of his race.\n**It means my message. In his last days this thought was always pinching his heart that his nation treats him only as a poet. As such she is paying no attention to his message. As a last resort this lover of the Prophet is making this appeal to the Holy Prophet, which no doubt is the Qibla and Kaa’ba of each Muslim, against a background of the Political affairs between 1927-37.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 48
+    },
+    {
+      "name": "(49)",
+      "Verse": [
+        {
+          "id": "193",
+          "Text": [
+            {
+              "_content": "من اندر مشرق و مغرب غریبم\nکہ از یاران محرم بے نصیبم\nغم خود را بگویم با دل خویش\nچہ معصومانہ غربت را فریبم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں مشرق و مغرب میں اجنبی ہوں؛ کیونکہ یاران رازدان سے محروم ہوں۔\nاپنا غم بس دل سے کہتا ہوں؛ کس معصومانہ انداز میں اپنی تنہائی کو فریب دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So alien I am in West and East; no confidants true I have the least.\nTo heart I’m telling my sorrowful mood; to cheat my solitude, like child I brood.*\n\n* This is Iqbal’s soliloquy to himself, when he is feeling himself alone without alter egos (friends) to have a tete-a-tete talk. Here alien means lonely.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 49
+    },
+    {
+      "name": "(50)",
+      "Verse": [
+        {
+          "id": "197",
+          "Text": [
+            {
+              "_content": "طلسم علم حاضر را شکستم\nربودم دانہ و دامش گسستم\nخدا داند کہ مانند براہیم\nبہ نار او چہ بے پروا نشستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے دور حاضر کے علم کا طلسم توڑ دیا ؛ اس کے جال کے نیچے سے دانہ اٹھا لیا۔\nخدا جانتا ہے کہ ابراہیم (علیہ) کی مانند ؛ میں اس کی آگ میں کس بے پروائی سے بیٹھا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I broke the magic of the modern age; I pounced on the grains and broke the trap cage.\nThe God knows that in the Abram’s wake; how fearless I sat in that fire’s stake.*\n\n* A post to which a person was tied in olden days before being burned to death as a punishment for heresy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 50
+    },
+    {
+      "name": "(51)",
+      "Verse": [
+        {
+          "id": "201",
+          "Text": [
+            {
+              "_content": "بہ چشم من نگہ آوردۂ تست\nفروغ لاالہ آوردۂ تست\nدچارم کن بہ صبح من ٓرآنی\nشبم را تاب مہ آوردۂ تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آنکھ میں نگاہ آپ (صلعم ) کی بدولت ہے؛ (میرے قلب میں) لاالہ کا نور آپ (صلعم ) کی عنایت سے ہے۔ \nآپ (صلعم ) ہی نے میری رات کو چاندنی عطا فرمائی ہے؛ (اب) مجھے اپنے دیدار کی صبح سے (بھی) مشرف فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have lit up my eyes with an insight; to thee owes hence, the Lailah’s light.\nBring a Dawn for me, with Thy Vision’s Scene; my night gets thy light, like moonlight sheen.*\n\n* The origin of the Prophet’s being owes to the light (noor) of God. Noor means ‘Shine and Sheen’, fire in the distance bloom, blossom, light, God’s enlightenment. Thus every Prophet has a peculiar ‘floor’ of Allah which can he seen from earth to heaven when God wishes so. There is a Hadith of Allah’s Prophet whosoever saw me he saw the Almighty.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 51
+    },
+    {
+      "name": "(52)",
+      "Verse": [
+        {
+          "id": "205",
+          "Text": [
+            {
+              "_content": "چو خود را در کنار خود کشیدم\nبہ نور تو مقام خویش دیدم\nدرین دیر از نوای صبحگاہی\nجہان عشق و مستی آفریدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں نے اپنے آپ کو اپنے آغوش میں لے لیا؛ تو آپ (صلعم ) کے نور کی بدولت اپنا مقام دیکھ لیا۔\nپھر اپنی نوائے صبح گاہی سے؛ اس بتکدہ (ءجہان) کے اندر سے عشق و مستی کی نئی دنیا پیدا کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I pressed myself in my own embrace; then I saw my place with thy light’s grace.\nIn this fane old with the morning tears mere; a world of love and daze lo I cause here.*\n\n* At initiation stage some times a hug of the seeker with his guide becomes a turning point of one’s own life.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 52
+    },
+    {
+      "name": "(53)",
+      "Verse": [
+        {
+          "id": "209",
+          "Text": [
+            {
+              "_content": "درین عالم بہشت خرمی ہست\nبشاخ او ز اشک من نمی ہست\nنصیب او ہنوز آن ہای و ہو نیست\nکہ او در انتظار آدمی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دنیا میں ایک سرسبز و شاداب بہشت موجود ہے؛ جس کی شاخوں پر میرے آنسوؤں کی نمی ہے۔\nمگر اس میں ابھی وہ ہا و ہو کا ہنگامہ پیدا نہیں ہوا؛ ابھی وہ آدم کے انتظار میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world has charms like paradise true; my tears give a moist to the shoots too.\nShe lacks to her part that cry and hue; she’s looking for a man for guidance true.*\n\n* The nation is not in a position to cause a revolution in this world. She is too weak for any important activity (for a cataclysmic change).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 53
+    },
+    {
+      "name": "(54)",
+      "Verse": [
+        {
+          "id": "213",
+          "Text": [
+            {
+              "_content": "بدہ او را جوان پاکبازی\nسرورش از شراب خانہ سازی\nقوی بازوی او مانند حیدر \nدل او از دو گیتی بے نیازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسے ایسا پاکباز جوان عطا فرمائیے ؛ جس میں شراب خانہ ساز کا سرور ہو۔\nجس کے بازو حیدر کرّار (رضی اللہ) کی مانند قوی ہوں: اور جس کا دل دونوں جہانوں سے بے نیاز ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bid him O lord! A holy man’s lead; who is proud of his ‘home made wine’s need.*\nLike Hyder, the Lion whose arms are strong; for both world’s wealth he would never long.\n\n* Home made wine In Iqbal’s own terminology this term applies to Islamic traditions, culture and civilization.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 54
+    },
+    {
+      "name": "(55)",
+      "Verse": [
+        {
+          "id": "217",
+          "Text": [
+            {
+              "_content": "بیا ساقی بگردان جام می را\nز می سوزندہ تر کن سوز نے را\nدگر آن دل بنہ در سینۂ من\nکہ پیچم پنجۂ کاوس و کی را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساقی! اٹھ اور جام مے کو گردش میں لا؛ اور مے سے میرے نغمہ کے سوز کو اور پرسوز بنا۔\nایک بار پھر میرے سینہ میں وہ دل رکھ دے؛ کہ میں کیکاؤس اور خسرو کا پنجہ مروڑ دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Move around O bearer! The wine cup’s course; from wine give the flute further burning force.\nBid me a heart in the bosom of mine; who can take tussels with the Kaisers line.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 55
+    },
+    {
+      "name": "(56)",
+      "Verse": [
+        {
+          "id": "221",
+          "Text": [
+            {
+              "_content": "جہان از عشق و عشق از سینہ تست\nسرورش از می دیرینۂ تست \nجز این چیزی نمیدانم ز جبریل\nکہ او یک جوہر از آئینۂ تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان کی بنیاد عشق پر ہے اور عشق آپ (صلعم ) کے سینہ مبارک سے ملتا ہے؛ عشق کا سرور آپ (صلعم ) کی شراب کہنہ پر موقوف ہے۔ \nمیں تو جبریل (علیہ) کے بارے میں اس کے علاوہ اور کچھ نہیں جانتا؛ کہ وہ آپ (صلعم ) ہی کے آئینہ کا ایک جوہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the world of love the fount is thee; Thy old wine gives a constant glee.\nThe Gabe but told only one thing to me; that he is a drop while you are a sea.* \n\n* In line 4 Iqbal used mirror against which I have written moon since function of both is the same viz, reflection of light.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 56
+    },
+    {
+      "name": "(57)",
+      "Verse": [
+        {
+          "id": "225",
+          "Text": [
+            {
+              "_content": "مرا این سوز از فیض دم تست\nبہ تاکم موج می از زمزم تست\nخجل ملک جم از درویشی من\nکہ دل در سینۂ من محرم تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے یہ سوز آپ (صلعم ) کے فیض سے ملا ہے؛ میرے انگور میں مے (عشق) کی جو موج ہے، وہ آپ کے زمزم کی بدولت ہے۔\nمیری درویشی سے سلطنت جم شرمندہ ہے؛ کیونکہ میرے سینے میں جو دل ہے ، وہ آپ (صلعم ) کا محرم ہے (آپ (صلعم ) کے مقام کو پہچانتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To me this burning a boon of thy glow; Thy font’s wine is waving in my vine so.\nIn shame the Join’s realm to my content bows; with thee as my heart had tete-a-tete close.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 57
+    },
+    {
+      "name": "(58)",
+      "Verse": [
+        {
+          "id": "229",
+          "Text": [
+            {
+              "_content": "درین بتخانہ دل با کس نبستم\nولیکن از مقام خود گسستم\nز من امروز میخواھد سجودی\nخداوندی کہ دی او را شکستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس بتخانہ (دنیا) میں کسی سے دل نہیں لگایا ؛ پھر بھی اپنے مقام سے ہٹ گیا ہوں۔\n(کیونکہ) وہ (جھوٹا) خدا جسے میں کل توڑ چکا ہوں ؛ آج پھر مجھ سے سجدے کی توقع رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This heart, I tied not with aught in this fane; I lost self’s place in my own eye’s pane.\nNow he is looking for my ‘bows’ today; on whom I was ruling just the last day.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 58
+    },
+    {
+      "name": "(59)",
+      "Verse": [
+        {
+          "id": "233",
+          "Text": [
+            {
+              "_content": "دمید آن لالہ از مشت غبارم\nکہ خونش می تراود از کنارم\nقبولش کن ز راہ دلنوازی\nکہ من غیر از دلی، چیزی ندارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری مشت غبار سے وہ گل لالہ (دل) پیدا ہوا؛ کہ اس کا خون میرے پہلو سے ٹپک رہا ہے۔\nاز راہ دلنوازی اسے قبول فرمائیے ؛ کیونکہ میرے پاس اس دل کے علاوہ اور کچھ نہیں (جو پیش کر سکوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grow that poppy* from the dust of mine; whose blood is dripping from my heart’s line.\nThis heart be received as a favour great; I have no fine offer than heart in plate.\n\n* Here poppy mean a lover’s heart in Iqbal’s own terminology which he wants to present to his beloved in a plate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 59
+    },
+    {
+      "name": "(60)",
+      "Verse": [
+        {
+          "id": "237",
+          "Text": [
+            {
+              "_content": "حضور ملت بیضا تپیدم\nنوای دل گدازی آفریدم\nادب گوید سخن را مختصر گوی\nتپیدم، آفریدم، آرمیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ملت بیضا کے حضور تڑپا ؛ میں نے ایک نوائے دل گداز پیدا کی۔\nادب نے کہا: مختصر بات کر ؛ (چنانچہ) میں تڑپا۔ میں نے (نیا جہان) تخلیق کیا ، اور پھر (آغوش لحد میں) آرام سے لیٹ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To my shining race I would love to groan; with new melting thought full of moaning tone.\nThe etiquette calls for a brief parlance; I groan, making tones and wish a rest hence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 60
+    },
+    {
+      "name": "(61)",
+      "Verse": [
+        {
+          "id": "241",
+          "Text": [
+            {
+              "_content": "بصدق فطرت رندانہء من \nبسوز آہ بیتابانہ من\nبدہ آن خاک را ابر بھاری\nکہ در آغوش گیرد دانہء من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری فطرت رندانہ کے صدقہ میں ؛ میری آہ بیتاب کے سوز کو ملخوظ رکھتے ہیں۔ \nاس خاک کو جو اپنے اندر میرے افکار کی روح سمو لے؛ ابر بہار عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the sake of truth of my free lance tone; for the sake of my sighs impatient groan.\nFor them I pray for clouds of vernal rain; who made a best use of my fruits and grains.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 61
+    },
+    {
+      "name": "(62)",
+      "Verse": [
+        {
+          "id": "245",
+          "Text": [
+            {
+              "_content": "دلی برکف نہادم، دلبری نیست\nمتاعی داشتم، غارتگری نیست\nدرون سینۂ من منزلی گیر\nمسلمانی ز من تنہا تری نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ہتھیلی پر دل لیے پھرتا ہوں، کوئی دلبر نہیں؛ سامان رکھتا ہوں ، کوئی لوٹنے والا نہیں۔\nمیرے سینہ کو اپنا گھر بنا لیجیے؛ آج مجھ سے زیادہ تنہا مسلمان اور کوئی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hold a heart in hand find not a beau; a treasure I have but no robbers Lo;\nI pray thee to make in my heart a place; how much lonely I am there is no case.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 62
+    },
+    {
+      "name": "(63)",
+      "Verse": [
+        {
+          "id": "249",
+          "Text": [
+            {
+              "_content": "چو رومی در حرم دادم اذان من\nازو آموختم اسرار جان من\nبہ دور فتنۂ عصر کہن، او\nبہ دور فتنۂ عصر روان من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رومی کی مانند حرم میں آذان دی ہے؛ اس سے میں نے روحانی اسرار سیکھے ہیں۔\nپچھلے دور کے فتنہ کا مقابلہ اس نے کیا ؛ دور حاضر کے فتنہ سے میں نبرد آزما ہوا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Rumi I raised His call in Harem whole; from whom I learnt secret knowledge of soul.\nHe passed through the crises of his time; I am going too through crisis and crime.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 63
+    },
+    {
+      "name": "(64)",
+      "Verse": [
+        {
+          "id": "253",
+          "Text": [
+            {
+              "_content": "گلستانی ز خاک من بر انگیز\nنم چشمم بخون لالہ آمیز\nاگر شایان نیم تیغ علی را\nنگاہی دو چو شمشیر علی تیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک سے گلستان پیدا فرمائیے ! خون لالہ میں میری آنکھ کی نمی بھی ملا دیجیے ۔\nاگر میں تیغ علی (رضی اللہ کی شان) کے شایان نہیں؛ تو مجھے ایسی نگاہ عطا فرما دیجیے، جو تیغ علی (رضی اللہ) کی مانند تیز ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Raise a garden new from dust of mine; mix a poppy’s blood to my tears shine. \nIf I’m not fit for Hyder’s sword and lance; as sharp as his lance give me a glance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 64
+    },
+    {
+      "name": "(65)",
+      "Verse": [
+        {
+          "id": "257",
+          "Text": [
+            {
+              "_content": "مسلمان تا بساحل آرمید است\nخجل از بحر و از خود نا امید است\nجز این مرد فقیری دردمندی\nجراحتہای پنہانش کہ دید است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مسلمان جو بحر (حیات) سے شرمندہ اور اپنے آپ سے نا امید ہو کر ساحل پر بیٹھ گیا ہے؛ \nمجھ فقیر دردمند کے سوائے اور کس نے اس کے پوشیدہ زخم دیکھے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim is resting from coast to coast; on self he lost hopes, is shy of sea most.\nSave this poor soul a pathos who keeps; who sees hidden wounds* when his heart weeps.\n\n* Here it means who has seen (the wounds of a Muslim?)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 65
+    },
+    {
+      "name": "(66)",
+      "Verse": [
+        {
+          "id": "261",
+          "Text": [
+            {
+              "_content": "کہ گفت او را کہ آید بوی یاری؟\nکہ داد او را امید نوبہاری؟\nچون آن سوز کہن رفت از دم او\nکہ زد بر نیستان او شراری؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کس نے اسے کہا کہ (نا امید نہ ہو) دوست کی خوشبو آرہی ہے ؛ کس نے اسے نئے دور بہار کی خوشخبری دی۔ \nجب اس کے دم سے پرانا سوز جاتا رہا ؛ تو کس نے اس کے نیستاں پر (نیا ) شرر پھینکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who told him I smell thee ‘under the rose’; to give him good news of a spring tide close. \nWhen I saw not in him thy old flame’s blaze; with a new spark I set his caneswood ablaze.*\n\n* Here Iqbal is addressing the Holy Prophet, ‘I have given them (my nation) a new hope to receive the Prophet’s flame of love inspite of the fact that She is passing though a process of decline, I have told them not to be disappointed.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 66
+    },
+    {
+      "name": "(67)",
+      "Verse": [
+        {
+          "id": "265",
+          "Text": [
+            {
+              "_content": "ز بحر خود بجوی من گھر دہ\nمتاع من بکوہ و دشت و در دہ\nدلم نگشود از آن طوفان کہ دادے\nمرا شوری ز طوفانی دگر دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے سمندر سے میری ندی میں موتی ڈال دیجیے؛ پھر میری اس متاع کو پتھروں ، دریاؤں اور آبادیوں میں بکھیر دیجیے ۔ \nآپ (صلعم ) نے مجھے جو طوفان عطا فرمایا ہے، اس سے میرا دل پوری طرح مطمئن نہیں ؛ مجھے ایک اور طوفان کا شور (و ہنگامہ) عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From thy own main give pearls to my rill; my gems to each door, each land and hill.\nThat gale did not ope my heart’s shut door; bid a verve anew and a gale more.*\n\n* Basic thought (A lover is never satisfied with one glance of the beloved. As such the poet – the lover is craving for more and more, a new glimpse ever.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 67
+    },
+    {
+      "name": "(68)",
+      "Verse": [
+        {
+          "id": "269",
+          "Text": [
+            {
+              "_content": "بجلوت نے نوازیہای من بین\nبخلوت خود گدازیہای من بین\nگرفتم نکتہ فقر از نیاگان\nز سلطان بے نیازیہای من بین",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوت میں میری نغمہ سرائی ملاحظہ فرمائیے ! خلوت میں میرا اپنے آپ کو غم میں گھولا دینا دیکھیے ۔\nمیں نے بزرگوں سے فقر کا نکتہ پایا ہے؛ سلطان سے میری بے نیازی دیکھیے ۔ \n\nقوموں کی تقدیر وہ مرد درویش ؛ جس نے نہ ڈھونڈی سلطان کی درگاہ – اقبال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In a gathering see my flute’s tones sweet; and self-melting phase1 in a lone retreat. \nI learnt the Faqr’s’ path from fore-father’s trait; to care not ever for any king great.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 68
+    },
+    {
+      "name": "(69)",
+      "Verse": [
+        {
+          "id": "273",
+          "Text": [
+            {
+              "_content": "بہرحالی کہ بودم خوش سرودم\nنقاب از روی ھر معنی گشودم\nمپرس از اضطراب من کہ با دوست\nدمی بودم دمے دیگر نبودم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جس حال میں بھی تھا ، خوب نغمہ سرائی کی؛ میں نے ہر راز (حیات) کے چہرے سے پردہ ہٹا دیا۔\nمیری بے قرار ی نہ پوچھیے ایک لمحہ میں دوست کے ساتھ ہوتا ؛ اور دوسرے لمحہ اس سے جدا ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I kept beaming face in this or that case; I raised the old veils from the meaning face.\nAt such a high pitch to craves I brought; that one breath I had the other had not.* \n\n* Here craves means verve; excitement.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 69
+    },
+    {
+      "name": "(70)",
+      "Verse": [
+        {
+          "id": "277",
+          "Text": [
+            {
+              "_content": "شریک درد و سوز لالہ بودم \nضمیر زندگے را وا نمودم\nندانم با کہ گفتم نکتہء شوق \nکہ تنہا بودم و تنہا سرودم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں گل لالہ کے درد و سوز میں شریک رہا ہوں؛ میں نے زندگی کا ضمیر عیاں کر دیا ہے۔\nنہیں جانتا میں نے کسی سے محبت کا نکتہ بیان کیا ہو؛ کیونکہ میں تنہا ہی رہا اور تنہا ہی نغمہ سرائے کی (کوئی محرم راز نہیں ملا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have shared the poppy’s* flame and pain; to conscience of life I woke up again. \nI know not whom I taught a zealous tone**, as I was alone, and harping alone.\n\n* Poppy; each man of the nation.\n**A lamentation on the apathy of young race.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 70
+    },
+    {
+      "name": "(71)",
+      "Verse": [
+        {
+          "id": "281",
+          "Text": [
+            {
+              "_content": "ہنوز این خاک دارای شرر ہست\nہنوز این سینہ را آہ سحر ہست\nتجلی ریز بر چشمم کہ بینی\nباین پیری مرا تاب نظر ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) کے نور سے اپنی نگاہ کے لیے روشنی حاصل کر رہا ہوں؛ تا کہ مہر و مہ کا اندرون دیکھ سکوں ۔ \nجب کہتا ہوں : میں مسلمان ہوں، تو لرز جاتا ہوں؛ کیونکہ میں کی مشکلات کو جانتا ہوں۔\n\nیہ شہادت گہ ء الفت میں قدم رکھنا ہے؛ لوگ آسان سمجھتے ہیں مسلماں ہونا – اقبال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With thy light alone I lit up my glance; I make a peep through the sun and moon hence.\nSaying I’m Muslim I shudder with shame; I know the hard task of Lailah’s name.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 71
+    },
+    {
+      "name": "(72)",
+      "Verse": [
+        {
+          "id": "285",
+          "Text": [
+            {
+              "_content": "بکوی تو گداز یک نوا بس\nمرا این ابتدا این انتھا بس\nخراب جرأت آن رند پاکم\nخدا را گفت ما را مصطفی بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم ) کے کوچے میں ایک نوائے دل گداز میرے لیے کافی ہے؛ یہی میرے شوق کی ابتدا ہے اور یہی انتہا۔ \nمیں اس پاک طینت رند کی جرات کا شیدائی ہوں؛ جس نے اللہ تعالے سے کہا تھا، مجھے رسول پاک (صلعم ) بس ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I need in thy land just a melting sigh; to me this is first and last aim to die.\nHo! The daring sot who said to Gods Grace; I need from Thee only Mustafa’s face.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 72
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

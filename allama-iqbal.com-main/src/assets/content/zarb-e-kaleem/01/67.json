@@ -1,0 +1,68 @@
+{
+  "id": "67",
+  "name": "قم باذن اللہ",
+  "name-en": "Arise by the Command of Allah",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہاں اگرچہ دگر گوں ہے، قم باذن اللہ \nوہی زمیں، وہی گردوں ہے، قم باذن اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "دگر گوں: موافق نہ ہونا۔ \nقم باذن اللہ: اللہ کے حکم سے اٹھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though change so great has swept the world, there is no need to grieve or smart; the same the earth and same the skies, by Grace of God rise, play your part.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا نوائے 'اناالحق' کو آتشیں جس نے \nتری رگوں میں وہی خوں ہے، قم باذن اللہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The same hot blood runs in your veins that raised the cry ‘The Self is True’ by Grace of God rise, play your part and go in quest of ventures new.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غمیں نہ ہو کہ پراگندہ ہے شعور ترا \nفرنگیوں کا یہ افسوں ہے، قم باذن اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوں: جادو۔\nپراگندہ: بکھرا ہوا، انتشار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't mourn or weep for scattered brain, it is a spell that Franks have cast; this charm with case you can remove, act, act, anew and leave the past.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

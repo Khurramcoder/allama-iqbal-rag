@@ -1,0 +1,34 @@
+{
+  "id": "39",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ میپرسی میان سینہ دل چیست\nخرد چون سوز پیدا کرد دل شد\nدل از ذوق تپش دل بود لیکن\nچو یک دم از تپش افتاد گل شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا پوچھتا ہے کہ سینے کے اندر دل کیا ہے، جب خرد نے سوز پیدا کیا تو وہ دل بن گئی ۔\nدل سوز عشق کی بدولت دل تھا، لیکن جب ذرا اس سے خالی ہوا تو مٹی ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ask me what is this heart in your breast; it is your intellect that has been blest with feeling. \nWhile it feels, it is alive: But when it ceases to feel, it is dust.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

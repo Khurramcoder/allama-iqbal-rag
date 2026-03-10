@@ -1,0 +1,84 @@
+{
+  "id": "10",
+  "name": "شکر و شکایت",
+  "name-en": "Gratitude and Complaint",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں بندہ ناداں ہوں، مگر شکر ہے تیرا \nرکھتا ہوں نہاں خانہ لاہوت سے پیوند",
+              "lang": "Original"
+            },
+            {
+              "_content": "لاہوت: عالم بالا، تصوّف میں وہ مقام جہاں سالک کو فنا فی اللہ کا درجہ حاصل ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though unwise, thanks to God I must express for bonds with celestial world that I possess.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اک ولولہ تازہ دیا میں نے دلوں کو \nلاہور سے تا خاک بخارا و سمرقند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My songs fresh zeal to hearts of men imparts, their charm extends to lands that lie apart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاثیر ہے یہ میرے نفس کی کہ خزاں میں \nمرغان سحر خواں مری صحبت میں ہیں خورسند",
+              "lang": "Original"
+            },
+            {
+              "_content": "خورسند: خوش باش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Autumn my breath makes birds that chirp in morn, imbibe much joy and feel no more forlorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "لیکن مجھے پیدا کیا اس دیس میں تو نے \nجس دیس کے بندے ہیں غلامی پہ رضا مند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God, to such a land I have been sent, where men in abject bondage feel content.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

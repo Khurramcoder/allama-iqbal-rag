@@ -1,0 +1,205 @@
+{
+  "id": "10",
+  "name": "جلال و ھگل",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می گشودم شبی بہ ناخن فکر\nعقدہ ہای حکیم المانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک رات میں اپنے فکر کے ناخن سے اس جرمن فلسفی (ہیگل) کے عقدے کھول رہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One night I was engaged in teasing out the knots of Hegel’s philosophic thought;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آنکہ اندیشہ اش برہنہ نمود\nابدی راز کسوت آنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جس کے فکر نے آنی (وقت) کے لباس سے ابدی کو نمودار کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which tore the veil of transient, finite things, laying bare the infinite, the absolute;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پیش عرض خیال او گیتی\nخجل آمد ز تنگ دامانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے خیال کے میدان (کی وسعت) کے زمانے بھی اپنی تنگ دامانی کے سبب شرمندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And whose conception’s grand, imposing range made the world shrink into a tiny mote.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چون بدریای او فرو رفتم \nکشتی عقل گشت طوفانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں اس کے دریا (فکر) کے اندر داخل ہوا ، تو میری عقل کی کشتی طوفانی لہروں کی نظر ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I plunged into that tempestuous sea, my mind became just like a storm-tossed boat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خواب بر من دمید افسونی\nچشم بستم ز باقے و فانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ پر نیند نے اپنا افسوں پھینکا اور میں نے باقی اور فانی سے آنکھ بند کر لی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But soon a spell lulled me to slumber and shut out the finite and the infinite.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نگہ شوق تیز تر گردید\nچہرہ بنمود پیر یزدانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(خواب میں) میری شوق کی نگاہ اور زیادہ تیز ہو گئی اور پیر ربانی (رومی) ظاہر ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My inner vision sharpened, I observed an old man whose face was a godly sight:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آفتابی کہ از تجلی او\nافق روم و شام نورانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک آفتاب تھا ، جس کی تجلی سے روم اور شام کا افق نورانی ہو گیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man whose spirit’s glory, like the sun, has made the sky of Rum and Syria bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "شعلہ اش در جہان تیرہ نہاد\nبہ بیابان چراغ رہبانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی کا شعلہ اس تاریک فطرت دنیا کے اندر یوں (روشن) ہے، جیسے بیابان کے اندر درویش کا چراغ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose flame in this benighted wilderness shines like a path-illuminating light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "معنی از حرف او ہمی روید\nصفت لالہ ہای نعمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے الفاظ سے معنی اس طرح پھوٹتے ہیں ، جیسے باغ کے اندر خونیں لالہ کے پھول۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From whose words meanings grow spontaneously like tulips riotously breaking out.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "گفت با من چہ خفتہ ئی بر خیز\nبہ سرابی سفینہ می رانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے مجھ سے کہا: کیا سویا پڑا ہے ، اٹھ! (اور دیکھ کہ) تو سراب کے اندر اپنی کشتی چلا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You sleep’, said he. ‘Awake, awake: To ply a boat in a mirage is folly’s height.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بہ خرد راہ عشق می پوئی؟\nبہ چراغ آفتاب می جوئی؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "'خرد کے ذریعے عشق کی راہ طے کرتا ہے؟ چراغ لے کر آفتاب ڈھوندتا ہے؟'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You’re bidding wisdom guide you on love’s path! You’re looking for the sun by candle-light!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Jalal And Hegel",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "120",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حکیمان گرچہ صد پیکر شکستند\nمقیم سومنات بود و ہستند\nچسان افرشتہ و یزدان بگیرند\nہنوز آدم بہ فتراکی نبستند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفی اگرچہ (تصوّرات کے) صدہا پیکر توڑ چکے ہیں ، لیکن وہ ابھی تک ہست و بود کے سومنات میں پڑے ہیں۔\nوہ فرشتے اور یزداں کو کیسے اپنے فکر کی گرفت میں لا سکتے ہیں، جب کہ انہوں نے ابھی تک آدم کو بھی اپنے فتراک میں نہیں باندھا (وہ آدم کی حقیقت نہیں مجھ سکے فرشتے اور یزداں کی حقیقت کو کیا سمجھیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Philosophers break idols in their wrath, but still are prisoners of Being’s Somnath.\nThey chase God and His angels. But how can they capture them? Have they yet captured man?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

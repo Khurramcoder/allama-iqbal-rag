@@ -1,0 +1,57 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان تست در دست خسی چند\nکسان او بہ بند ناکسی چند\nہنرور میان کارگاہان\nکشد خود را بہ عیش کرکسی چند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کا جہان چند خسیسوں کے ہاتھ میں ہے، یہاں کے اہل لوگ چند نا اہلوں کے پنجے میں گرفتار ہیں۔ \nہنر مند کارخانوں میں اپنے آپ کو، چند گدھوں (سرمایہ داروں ) کے عیش و عشرت کے لیے ہلاک کر رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy world is ruled by misers few, whose men still serve the worthless few.\nThe workers skilled in workshops queue, have killed themselves for vultures few.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مریدی فاقہ مستی گفت با شیخ\nکہ یزدان را ز حال ما خبر نیست\nبما نزدیک تر از شہرک ماست\nولیکن از شکم نزدیکتر نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک فاقہ مست مرید نے اپنے مرشد سے کہا، اللہ تعالے کو ہمارے حال کی کچھ خبر نہیں۔\nیوں تو وہ ہماری شاہ رگ سے بھی قریب پر ہے، مگر ہمارے پیٹ سے قریب تر نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hungry seeker begged his Sheikh to plead, does God has no knowledge of peoples’ need.\nTo me he is closer than jugular vein, but not closer than my abdomen’s pain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

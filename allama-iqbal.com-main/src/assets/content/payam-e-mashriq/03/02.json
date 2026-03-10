@@ -1,0 +1,119 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حلقہ بستند سر تربت من نوحہ کران\nدلبران زہرہ وشان گل برنان سیم بران",
+              "lang": "Original"
+            },
+            {
+              "_content": "کتنے دلبر، زہرہ وش، گلبدن اور سیم بر، میری قبر کے گرد حلقہ بنا کر نوحہ گری میں لگے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Around my grave atood in a ring a bevy of fair mourners, all comely, winsome, lily-white.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در چمن قافلۂ لالہ و گل رخت گشود\nاز کجا آمدہ اند این ہمہ خونین جگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "باغ میں لالہ و گل کے قافلوں نے دائرے ڈال دئے ہیں، یہ اتنے سارے خونیں جگر کہاں سے آ گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan of roses and of tulips has alighted in the garden. O wherefrom come so many things with bleeding hearts?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ایکہ در مدرسہ جوئی ادب و دانش و ذوق\nنخرد بادہ کس از کارگہ شیشہ گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے کہ تو مدرسہ میں ادب ، دانش اور خوش ذوقی تلاش کرتا ہے، بھلا شیشہ گروں کی دکان سے بھی کوئی شراب طلب کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You seek good manners, learning, taste in the schoolroom. But no one buys wine from a glassware factory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خرد افزود مرا درس حکیمان فرنگ\nسینہ افروخت مرا صحبت صاحبنظران",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگ کے اساتذہ نے میری عقل افزوں کی، اور صاحب نظر حضرات کی صحبت نے میرا سینہ چمکا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The teaching of the West’s philosophers increased my wisdom’s fund. The company of seers lit up my being’s very core.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بر کش آن نغمہ کہ سرمایہ آب و گل تست\nاے ز خود رفتہ تہی شو ز نوای دگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ نغمہ پیدا کر جو تیری سرشت کا سرمایہ ہے، اے اپنے آپ کو بھولے ہوئے! دوسروں کا راگ الاپنا چھوڑ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bring out the music which is in your nature’s make-up. O self-oblivious man, cast out of your head others’ tunes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کس ندانست کہ من نیز بھائی دارم\nآن متاعم کہ شود دست زد بی بصران",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی نہیں سمجھتا کہ میں بھی قیمت رکھتا ہوں ، میں وہ متاع ہوں جو اندھوں کے ہاتھ پڑ گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No one has realized that I too have some worth. I am a precious object fallen into the hands of blind men.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "164",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا ذوق سخن خون در جگر کرد\nغبار راہ را مشت شرر کرد\nبہ گفتار محبت لب گشودم\nبیان این راز را پوشیدہ تر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق سخن نے میرے جگر کو خون کر دیا ہے؛ میں جو غبار راہ تھا اس نے میری خاک کو شرر بنا دیا ہے۔ \nمحبت کو بیان کرنے کے لیے میں نے اپنے لب کھولے؛ مگر بیان نے اس راو کو اور پوشیدہ بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The love of speech first filled my heart with blood and set aflame the dust upon the road;\nBut when I oped my lips, to speak of love, words veiled this secret in a thicker shroud.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

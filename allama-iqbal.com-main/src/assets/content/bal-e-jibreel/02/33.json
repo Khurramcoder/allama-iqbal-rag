@@ -1,0 +1,113 @@
+{
+  "id": "33",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خردمندوں سے کیا پوچھوں کہ میری ابتدا کیا ہے \nکہ میں اس فکر میں رہتا ہوں، میری انتہا کیا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What should I ask the sages about my origin: I am always wanting to know my goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی کو کر بلند اتنا کہ ہر تقدیر سے پہلے \nخدا بندے سے خود پوچھے، بتا تیری رضا کیا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Develop the self so that before every decree God will ascertain from you: ‘What is your wish?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مقام گفتگو کیا ہے اگر میں کیمیا گرہوں \nیہی سوز نفس ہے، اور میری کیمیا کیا ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is nothing to talk about if I transform base selves into gold: The passion of my voice is the only alchemy I know!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نظر آئیں مجھے تقدیر کی گہرائیاں اس میں \nنہ پوچھ اے ہم نشیں مجھ سے وہ چشم سرمہ سا کیا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Comrade, I beheld the secrets of Destiny in them: What should I tell you of those lustrous eyes!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اگر ہوتا وہ مجذوب فرنگی اس زمانے میں \nتو اقبال اس کو سمجھاتا مقام کبریا کیا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Only if that majzub* of the West were living in these times, Iqbal could have explained to him the ‘I am.’\n\n* Allusion to Nietzsche: the famous self-absorbed German philosopher who could not interpret his inner experience correctly and was therefore misled by his philosophical thoughts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نواے صبح گاہی نے جگر خوں کر دیا میرا \nخدایا جس خطا کی یہ سزا ہے، وہ خطا کیا ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart bleeds from the song of the early morning: O Lord! What is the sin for which this is a punishment?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

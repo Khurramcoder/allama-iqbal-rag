@@ -1,0 +1,34 @@
+{
+  "id": "40",
+  "name": "شعر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں شعر کے اسرار سے محرم نہیں لیکن \nیہ نکتہ ہے، تاریخ امم جس کی ہے تفصیل \nوہ شعر کہ پیغام حیات ابدی ہے \nیا نغمہ جبریل ہے یا بانگ سرافیل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secrets that are hid in verse to judge their worth I always fail, though nnals of the nations past relate this point with much detail.\nThe verse that conveys to man the views of lire that shall e'er last is either song by Gabriel sung, or blare of Sarafil'strumpet blast.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Verse",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

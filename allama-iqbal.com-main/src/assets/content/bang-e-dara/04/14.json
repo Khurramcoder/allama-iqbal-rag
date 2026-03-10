@@ -1,0 +1,33 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہندوستاں میں جزو حکومت ہیں کونسلیں \nآغاز ہے ہمارے سیاسی کمال کا \nہم تو فقیر تھے ہی، ہمارا تو کام تھا \nسیکھیں سلیقہ اب امرا بھی 'سوال' کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In India councils are a part of the government; this is the start of our political perfection.\nWe were always beggars, begging* was our way; the rich should now acquire the skill of ‘begging’.\n* Refers to the ‘begging’ for votes by the rich people. Adult suffrage did not come into the Indian sub-continent till the Government of India Act 1935. Till then suffrage was restricted to persons above a certain annual income.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

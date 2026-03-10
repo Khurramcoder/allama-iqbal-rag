@@ -1,0 +1,136 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عرب کہ باز دہد محفل شبانہ کجاست\nعجم کہ زندہ کند رود عاشقانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عرب کہاں ہے جو پھر وہی محفل شبانہ سجائے، کہاں ہے وہ عجم جو دریا عشق (تصوّف ) کو از سر نو زندہ کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is the Arab, to revive the old night-revelry, and where the Persian, to bring alive the love-lute’s minstrelsy?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بزیر خرقۂ پیران سبوہا چہ خالی است\nفغان کہ کس نشناسد می جوانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "صوفیا کے پاس خرقہ تو ہے لیکن ان کی سبو (معرفت) سے خالی ہے۔ فریاد ! کہ کوئی نہیں پہچانتا کہ وہ مئے جواں (عشق الہی) کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under the Sufi elder’s gown the flagon is bare and dry: Alas, for none can tell in the town where young red wine’s to buy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درین چمنکدہ ہر کس نشیمنی سازد\nکسی کہ سازد و وا سوزد آشیانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس باغ جہاں میں ہر کوئی نشیمن بناتا ہے، ایسا شخص کہاں ہے جو آشیانہ بنا کر پھونک دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every man in this grassy mead fashions and takes his rest, but where is he, ah, where indeed, who will make, and burn, his nest?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہزار قافلہ بیگانہ وار دید و گذشت\nدلے کہ دید بہ انداز محرمانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہزاروں قافلے بیگانہ وار دیکھتے ہوئے گزر گئے ، ایسا شخص کہاں ہے جو دنیا کو محرمانہ انداز سے دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A thousand caravan-trains have stared like a stranger, and then passed on, but he that close as a lover dared to gaze – is there anyone?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چو موج خیز و بہ یم جاودانہ می آویز\nکرانہ می طلبی ؟ بی خبر کرانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج کی طرح اٹھ اور سمندر سے مسلسل کشمکش جاری رکھ۔ تو ساحل کی تلاش میں ہے؟ بے خبر! ساحل کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise like a wave, and surging flow in the ocean eternally? Thou seek’st the shore, and dost not know where ever the shore may be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بیا کہ در رگ تاک تو خون تازہ دوید\nدگر مگوی کہ آن بادۂ مغانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھ کہ تیری رگوں میں خون تازہ دوڑ رہا ہے، اب نہ کہہ کہ وہ بادہ ء مغانہ کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hither (for in thy tendril’s vein the fresh young blood doth bound) hither hasten, nor ask again where the Magian wine is found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیک نورد فرو پیچ روزگاران را\nز دیر و زود گذشتی دگر زمانہ کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک ہی جھپٹ میں زمانے کو دبوچ لے، اگر تو دیر و زود سے نکل جائے تو پھر زمانہ کہاں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Twist into one vast war-array all ages that ever were; later and sooner are passed away; where now is Time, ah, where?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

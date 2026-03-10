@@ -1,0 +1,238 @@
+{
+  "id": "37",
+  "name": "بلال",
+  "name-en": "Bilal",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چمک اٹھا جو ستارہ ترے مقدر کا\nحبش سے تجھ کو اٹھا کر حجاز میں لایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As the star of your destiny ascended to shine; it lifted and brought you from Abyssinia to Hijaz.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہوئی اسی سے ترے غم کدے کی آبادی\nتری غلامی کے صدقے ہزار آزادی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This alone made inhabited your desolate house better than a thousand freedoms is your slavery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ آستاں نہ چھٹا تجھ سے ایک دم کے لیے\nکسی کے شوق میں تو نے مزے ستم کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That threshold not even for a moment you could leave; in some one's Love all torments you bore cheerfully.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جفا جو عشق میں ہوتی ہے وہ جفا ہی نہیں\nستم نہ ہو تو محبت میں کچھ مزا ہی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The oppression befalling in Love is not oppression; if there is no torment, there is no pleasure in Love.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نظر تھی صورت سلماں ادا شناس تری\nشراب دید سے بڑھتی تھی اور پیاس تری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Full of Intellection like Salman was your insight; the wine of sight used to increase your thirst. \n(Salman Abu Abd Allah Farisi (R.A.) The famous Companion of the Holy Prophet S.A.W. He was of Persian origin. Early in his life he left his home in search of the Truth. First he accepted Christianity, studied its literature deeply and persevered through all the hardships he had to encounter. He was caught by an Arab tribe and sold to a Jew. Later, the Holy Prophet S.A.W. purchased him and set him free. Salman accepted Islam after the emigration of the Holy Prophet S.A.W. to Madinah Munawwarah…)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تجھے نظارے کا مثل کلیم سودا تھا\nاویس طاقت دیدار کو ترستا تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Kalim you were in search of the Sight. Uwais was tantalized for the power of Sight.\n(Uwais Qarani (R.A.) was a contemporary of the Holy Prophet (S.A.W.) and had accepted Islam. He could not achieve his life-long ambition and longing of being a Companion of him. This was so because he could not leave his home town of Qaran in Najd due to the blindness of his old mother. The Holy Prophet (S.A.W.) had knowledge of him and used to say that he felt breeze of God's Beneficence from Yemen. The Holy Prophet's (S.A.W.) love for Uwais is shown by the fact that he made him the inheritor of his shirt. Umar (R.A.) and Ali (R.A.) went to meet him in Qaran after the death of the Holy Prophet (S.A.W.). Later Uwais moved to Kufah and attained martyrdom in the battle of Siffin where he was in the camp of Ali (R.A.) He is one of the most eminent sufis, often placed second to Ali (R.A.) He was fully absorbed in the Love of God and the Holy Prophet (S.A.W.), but his longing to see the Holy Prophet (S.A.W.)…Allamah Iqbal has referred to him in many places in his works.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مدینہ تیری نگاہوں کا نور تھا گویا\nترے لیے تو یہ صحرا ہی طور تھا گویا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Madinah was the light for your eyes so to say; for you this wilderness was the ñër so to say.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تری نظر کو رہی دید میں بھی حسرت دید\nخنک دلے کہ تپید و دمے نیا سائید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your longing for Sight continued even after witnessing the Sight. The cold heart warmed up but its breath did not rest even for a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گری وہ برق تری جان ناشکیبا پر\nکہ خندہ زن تری ظلمت تھی دست موسی پر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such a lightning struck your impatient soul that your darkness was scoffing at the Musa's palm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تپش ز شعلہ گر فتند و بر دل تو زدند\nچہ برق جلوہ بخاشاک حاصل تو زدند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘They captured warmth from the flame and struck it on your heart. What a lightning of Effulgence they struck on motes of your efforts!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ادائے دید سراپا نیاز تھی تیری\nکسی کو دیکھتے رہنا نماز تھی تیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The charm of your longing for the Sight was the embodiment of supplication. The continuous sighting of someone was your prayer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اذاں ازل سے ترے عشق کا ترانہ بنی\nنماز اس کے نظارے کا اک بہانہ بنی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since eternity the Adhan was the anthem of your Love. Prayer was the subtle pretext for the Sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خوشا وہ وقت کہ یثرب مقام تھا اس کا\nخوشا وہ دور کہ دیدار عام تھا اس کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy was the age when Yathrib was his abode! How happy was the time when common was his Sight!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

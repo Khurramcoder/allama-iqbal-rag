@@ -1,0 +1,56 @@
+{
+  "id": "04",
+  "name": "مرا یاد است از دانای افرنگ",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا یاد است از دانای افرنگ\nبسا رازی کہ از بود و عدم گفت\nولیکن با تو گویم این دو حرفی\nکہ با من پیر مردی از عجم گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ایک افرنگی دانا کے بہت سے ایسے راز یاد ہیں ، جو وہ ہست و نیست کے بارے میں بیان کرتا تھا۔ \nلیکن میں تجھے (ان کی بجائے ) عجم کے ایک پیر مرد (مولانا روم) کے وہ دو حرف سناتا ہوں جو اس نے مجھ سے کہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know many savants and gems of west, on being and non being they felt the same quest. \nBid me, tell to thee two words at least, to me please talk in accent of East.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "الا اے کشتہ نامحرمی چند\nخریدی از پی یک دل غمی چند\nز تأویلات ملایان نکوتر\nنشستن با خود گاہی دمی چند",
+              "lang": "Original"
+            },
+            {
+              "_content": "سن! اے چند نامحرموں کے مارے ہوئے (فرنگی پرو فیسروں کو اسرار جان سے نامحرم کہا ہے) ، تو نے (مغربی تعلیم کے ذریعہ) اپنے ایک دل کے لیے سینکڑوں تفکرات خرید لیے ہیں۔ \nکسی اللہ والے کے پاس چند لمحے بیٹھنا، ظاہری علوم کے ماہرین کی نکتہ آفرینیاں سنانے سے کہیں بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hark! O victim of wits of aliens few, for one heart you brought a score of griefs new. \nThen Mullah’s views it was better to sit, with a self-conscious sage with ego’s wit.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

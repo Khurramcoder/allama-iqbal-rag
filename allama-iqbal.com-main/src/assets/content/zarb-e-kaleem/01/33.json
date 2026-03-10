@@ -1,0 +1,35 @@
+{
+  "id": "33",
+  "name": "عقل و دل",
+  "name-en": "Intellect and Heart",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر خاکی و نوری پہ حکومت ہے خرد کی \nباہر نہیں کچھ عقل خدا داد کی زد سے \nعالم ہے غلام اس کے جلال ازلی کا \nاک دل ہے کہ ہر لحظہ الجھتا ہے خرد سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلال ازلي: ہمیشہ کی ہیبت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Clay-made man and angelic hosts all are swayed by wit and mind naught lies beyond the reach of wit, bestowed by God benign and kind.\nIts lasting grandeur holds the world in perpetual chains that do not break; the heart alone some courage shows and full of rage at wit can shake.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

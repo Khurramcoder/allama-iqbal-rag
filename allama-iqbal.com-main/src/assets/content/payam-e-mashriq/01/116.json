@@ -1,0 +1,34 @@
+{
+  "id": "116",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان یک نغمہ زار آرزوئی\nبم و زیرش ز تار آرزوئی\nبہ چشمم ہر چہ ہست و بود و باشد\nدمے از روزگار آرزوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دنیا بس آرزو کا نغمہ زار ہے؛ (یہاں ہر طرف آرزوؤں کے نغمے ابھر رہے ہیں ( اس جہان کا بم و زیر آرزو کی تار سے وابستہ ہے۔\nجو کچھ ہے، تھا یا ہو گا (حال و ماضی و مستقبل) وہ میری نگاہ میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One song of yearning fills the world entire; this yearning strings the universal lyre; \nWhatever is, and was and is to be, I see one moment of all Time’s desire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

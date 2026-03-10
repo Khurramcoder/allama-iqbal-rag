@@ -1,0 +1,154 @@
+{
+  "id": "03",
+  "name": "شو پنہاور و نیچہ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرغی ز آشیانہ بہ سیر چمن پرید\nخاری ز شاخ گل بتن نازکش خلید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک پرندہ آشیانے سے سیر چمن کے لیے اڑا ، (شاخ گل پر جا بیٹھا وہاں) سے ایک کانٹا اس کے نازک بدن میں چبھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A bird flew from its nest and ranged about the garden; its soft breast was pierced by a rose-thorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بد گفت فطرت چمن روزگار را\nاز درد خویش و ہم ز غم دیگران تپید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے باغ ہستی کی سرشت کو برا کہا، اور انپے درد کی وجہ سے دوسروں کے غم میں تڑپنے لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It reviled the nature of Time’s garden; it throbbed with its own pain and pain of others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "داغی ز خون بی گنہی لالہ را شمرد\nاندر طلسم غنچہ فریب بہار دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے داغ لالہ کو بے گناہ کے خون کا داغ تصوّر کیا، اسے غنچہ کے طلسم میں فریب بہار نظر آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It thought the tulip was branded with the blood of innocents; in the closed bud it saw the guile of spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت اندرین سرا کہ بنایش فتادہ کج\nصبحی کجا کہ چرخ درو شامہا نچید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا اس سرائے دنیا میں جس کی بنیاد ہی ٹیڑھی رکھی گئی ہے، کوئی ایسی صبح نہیں جس کے اندر آسمان نے شامیں نہ بچھائی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It asked if in this world, with its foundation wrongly laid, there was a single morning into which Time had not built an evening;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نالید تا بہ حوصلۂ آن نوا طراز\nخون گشت نغمہ و ز دو چشمش فرو چکید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نوا طراز نے تا حد بساط آہ و فریاد کی ، یہاں تک کہ اس کا نغمہ خون ہو گیا اور اس کی آنکھوں سے آنسو بن کر ٹپک پڑتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And it wept so much that song turned to blood in its throat and dripped as tears from its eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سوز فغان او بدل ہدہدی گرفت\nبا نوک خویش خار ز اندام او کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پرندے کی فغاں کے سوز نے ایک ہدہد کے دل کو متاثر کیا، ہدہد نے اپنی چونچ سے اس کے بدن سے کانٹا کھینچ لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the cries of burning woe a hoopoe’s heart caught fire. The hoopoe with his beak drew forth the thorn from its body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفتش کہ سود خویش ز جیب زیان بر آر\nگل از شکاف سینہ زر ناب آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا کہ نقصان کے اندر سے فائدہ کی صورت پیدا کر، دیکھ کہ پھول اپنے سینے کے اندر سے خالص سونا پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Saying, ‘Get the profit out of loss: The rose has created pure gold by rending her breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "درمان ز درد ساز اگر خستہ تن شوی\nخوگر بہ خار شو کہ سراپا چمن شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیرا بدن زخمی ہو جائے تو درد ہی کو اپنا علاج بنا، خار کا عادی ہو تاکہ تو سراپا چمن بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thou art wounded, make the pain thy remedy. Accustom thyself to thorns that thou mayst become entirely one with the garden.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Schopenhauer And Nietzsche",
+  "credits": "English Translation by: R.A. Nicholson"
+}

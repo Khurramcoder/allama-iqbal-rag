@@ -1,0 +1,34 @@
+{
+  "id": "47",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گدای جلوہ رفتی بر سر طور\nکہ جان تو ز خود نامحرمی ہست\nقدم در جستجوی آدمی زن\nخدا ہم در تلاش آدمی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو گدائے جلوہ بن کر طور پر گیا، کیونکہ تیری جان اپنے آپ سے نا آشنا تھی۔\nآدم (انسان کامل) کی تلاش میں نکل، خدا بھی اسی کی تلاش میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You went to Mount Sinai, soliciting a sight of God, being a stranger to yourself. \nGo and seek man; for God Himself is seeking man; yes, He is seeking you.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

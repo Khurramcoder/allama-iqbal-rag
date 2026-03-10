@@ -1,0 +1,134 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہزار خوف ہو لیکن زباں ہو دل کی رفیق \nیہی رہا ہے ازل سے قلندروں کا طریق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A host of peril though you face, yet your tongue with heart ally: From times antique and hoar Qalandars on this mode rely.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہجوم کیوں ہے زیادہ شراب خانے میں \nفقط یہ بات کہ پیر مغاں ہے مرد خلیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "پير مغاں: شراب فروش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men congregate in numbers large in the mart where wine is sold: For polite and courteous seems the Head of Mart, the Magian Old.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علاج ضعف یقیں ان سے ہو نہیں سکتا \nغریب اگرچہ ہیں رازی کے نکتہ ہائے دقیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "نکتہ ہائے دقيق: باریک اور عجیب و غریب نقطے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the points by Razi touched may be subtle and profound; yet against infirm belief no cure in them is ever found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرید سادہ تو رو رو کے ہو گیا تائب \nخدا کرے کہ ملے شیخ کو بھی یہ توفیق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The disciple blind shed copious tears, of sinful life he felt contrite. May God aid the shaykh as well to feel ashamed and do the right!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اسی طلسم کہن میں اسیر ہے آدم \nبغل میں اس کی ہیں اب تک بتان عہد عتیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "بتان عہد عتيق: پرانا زمانہ ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man is bound still hand and foot in chains by this talisman old: For idols of the age of past still men within their armpits hold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مرے لیے تو ہے اقرار باللساں بھی بہت \nہزار شکر کہ ملا ہیں صاحب تصدیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقرار باللساں: زبانی اقرار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Enough for me that I affirm with tongue alone my faith and creed: A thousand thanks for mullah’s claim that he with heart avows, indeed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگر ہو عشق تو ہے کفر بھی مسلمانی \nنہ ہو تو مرد مسلماں بھی کافر و زندیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "زنديق: بے دین، ملحد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As good as Muslim’s true belief, if blessed with Love, unfaith is eke: Bereft of Love a Muslim true is no better than Zindiq.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

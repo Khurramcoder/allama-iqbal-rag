@@ -1,0 +1,194 @@
+{
+  "id": "22",
+  "name": "قطرۂ آب",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا معنی تازہ ئی مدعاست\nاگر گفتہ را باز گویم رواست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I quote what someone else has said, but wish to make a new point with its aid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یکی قطرہ باران ز ابری چکید\nخجل شد چو پہنای دریا بدید",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘A raindrop fell into the sea. And awed by its expanse, it thought:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہ جائی کہ دریاست من کیستم؟\nگر او ہست حقا کہ من نیستم\"",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By God, I am a mere nonentity beside the sea. If it exists, then surely I do not.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ولیکن ز دریا برآمد خروش\nز شرم تنک مایگی رو مپوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There came out of the sea a sound, loud and profound, as of a voice, and it declaimed: ‘You do not have to be ashamed of being small and feel so sad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تماشای شام و سحر دیدہ ئی\nچمن دیدہ ئی دشت و در دیدہ ئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For all your smallness, you have had experiences which were great. You have watched dawn and evening alternate. You have seen orchard, plain and glade.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ برگ گیاہی بہ دوش سحاب\nدرخشیدی از پرتو آفتاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suspended on a blade of grass or a cloud-flake, you have reflected the sun’s rays.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گہی ھمدم تشنہ کامان راغ\nگہی محرم سینہ چاکان باغ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There have been days on which it fell to you to slake the thirst of desert shrubs. Again, there were days when you soothed the pain in the rent bosom of a rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گہی خفتہ در تاک و طاقت گداز\nگہی خفتہ در خاک بی سوز و ساز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At times you slumbered in the vine to wake up as a potent liquid – wine. At other times abed in dust, you made mere mud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ز موج سبک سیر من زادہ ئی\nز من زادہ ئی در من افتادہ ئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was out of my waves that you arose. Born of me, you come back to me, come back to be a part of me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بیاسای در خلوت سینہ ام\nچو جوھر درخش اندر آئینہ ام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now rest in my broad breast, and make my mirror gleam with one more beam of light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "گہر شو در آغوش قلزم بزی\nفروزان تر از ماہ و انجم بزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Become a pearl and be lodged in the depths of me – My moon, my star, as bright as those of the sky are.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Raindrop And The Sea",
+  "credits": "English Translation by: M. Hadi Husain"
+}

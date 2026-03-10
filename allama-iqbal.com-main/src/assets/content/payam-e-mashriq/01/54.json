@@ -1,0 +1,34 @@
+{
+  "id": "54",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز رازی معنی قرآن چہ پرسی؟\nضمیر ما بہ آیاتش دلیل است\nخرد آتش فروزد دل بسوزد\nہمین تفسیر نمرود و خلیل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "رازی سے قرآن کے معنی کیا پوچھتا ہے، ہمار ا ضمیر ہی اس کی سچائی پر گواہی دے رہا ہے۔ ( تیرے ضمیر پہ جب تک نہ ہو نزول قرآن ؛ گرہ کشا ہے نہ رازی نہ صاحب کشاف)۔\nخرد نے آگ جلائی ، دل اس میں کود پڑا؛ (واقعہء ) نمرود و خلیل کی یہی تفسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why ask of Razi what the Quran means? By each man’s own heart is it best construed.\nMind lights a fire, heart burns in it: the one is Abraham, the other is Namrud.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

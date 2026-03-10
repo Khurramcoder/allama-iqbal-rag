@@ -1,0 +1,58 @@
+{
+  "id": "10",
+  "name": "جبر واختیار",
+  "name-en": "Predestination and Free Will",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یقین دانم کہ روزی حضرت او\nترازوئی نھد این کاخ و کو را\nاز ن ترسم کہ فردای قیامت\nنہ ما را سازگار ید نہ او را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا ایمان ہے کہ ایک دن، اللہ تعالے اس دنیا (میں کیے گئے ہمارے اعمال) کے لیے میزان قائم کریں گے۔\nمگر مجھے یہ ڈر ہے کہ قیامت کا دن نہ ہمیں راس آئے گا ، نہ انہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am quite certain that on the doomsday, to homes and castles in scale he would weigh.\nYet I cherish a feeling for that day, it would neither suit Him nor to my ‘clay’.*",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ روما گفت با من راہب پیر\nکہ دارم نکتہ ئی از من فراگیر\nکند ہر قوم پیدا مرگ خود را\nترا تقدیر و ما را کشت تدبیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شہر روم میں مجھے ایک بوڑھے راہب نے کہا، میرے پاس ایک راز کی بات ہے، وہ مجھ سے لے لے۔\nہر قوم خود ہی اپنی موت کا سامان پیدا کر لیتی ہے، تم مسلمانوں کو (جاود) تقدیر کے تصوّر نے مارا اور ہمیں (اپنی) تقدیر (پر بھروسہ کرنے ) نے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In city of Room a pontiff told me, a word of wisdom I like to tell thee.\nEvery nation makes her death’s own source, to thee the fate, to us the planning course.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

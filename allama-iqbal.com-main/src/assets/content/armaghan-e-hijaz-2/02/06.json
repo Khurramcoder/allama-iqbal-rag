@@ -1,0 +1,57 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غم پنہاں کہ بے گفتن عیان است\nچو آید بر زبان یک داستان است\nرہی پر پیچ و راہی خستہ و زار\nچراغش مردہ و شب درمیان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا پوشیدہ غم جو بغیر کہے ظاہر ہے؛ اسے جب زبان پر لایا جاتا ہے تو وہ ایک (طویل) داستان بن جاتا ہے۔ \nراستہ پیچدار ہے اور مسافر تھکا ماندہ اور بیمار؛ اس کا چراغ بجھا ہوا ہے اور اسے رات کی تاریکی کا سامنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hidden grief untold is clear, to lips when brought, a tale-we hear: \nThe ways are like a maze, seeker is weak, the lamp blown out, night amidst, also bleak.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ راغان لالہ رست از نو بہاران\nبہ صحرا خیمہ گستردند یاران\nمرا تنہا نشستن خوشتر آید\nکنار آب جوی کوہساران",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہار کی آمد سے سبزہ زاروں میں لالہ کے پھول کھل اٹھے؛ دوستوں نے صحرا میں خیمے گاڑ دیے (برائے سیر و تفریح)۔ \n(مگر) مجھے پہاڑ کے دامن میں ندی کے کنارے؛ اکیلے بیٹھنا ہی پسند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In pits grow poppies from vernal tide, then the friends pitch tents on desert’s side. \nIt looks me nice to sit all alone, when fountains flow in a mountain zone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

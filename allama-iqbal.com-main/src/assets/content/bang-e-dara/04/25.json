@@ -1,0 +1,82 @@
+{
+  "id": "25",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تکرار تھی مزارع و مالک میں ایک روز \nدونوں یہ کہہ رہے تھے، مرا مال ہے زمیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day a dispute arose between the farmer and the owner; each of them was saying that the land belonged to him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کہتا تھا وہ، کرے جو زراعت اسی کا کھیت \nکہتا تھا یہ کہ عقل ٹھکانے تری نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The farmer said that the field belonged to the cultivator; the owner said that the farmer had become demented.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پوچھا زمیں سے میں نے کہ ہے کس کا مال تو \nبولی مجھے تو ہے فقط اس بات کا یقیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked the land as to whose property it was; it replied that it was believing only this:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مالک ہے یا مزارع شوریدہ حال ہے \nجو زیر آسماں ہے، وہ دھرتی کا مال ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مزارع شوريدہ حال: بد حال کاشتکار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whether it be the owner or the wretched farmer; whatever is under the sky is property of the land. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

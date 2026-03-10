@@ -1,0 +1,329 @@
+{
+  "id": "05",
+  "name": "فریاد یکی از زورق نشینان قلزم خونین",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "07",
+  "sectionName": "فلک زحل",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نے عدم ما را پذیرد نے وجود\nواے از بے مہری بود و نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہستی و نیستی کی بے التفاتی پر افسوس؛ نہ ہمیں عدم قبول کرتا ہے نہ وجود۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do no repent over being or not-being; to us neither the past is acceptable nor the present.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تا گذشتیم از جہان شرق و غرب\nبر در دوزخ شدیم از درد و کرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب ہم شرق و غرب کو چھوڑ کر درد و کرب لیے دوزخ کے دروازے پر پہنچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When after leaving the East and West we reached the door of Hell (it then);",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "ق",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یک شرر بر صادق و جعفر نزد\nبر سر ما مشت خاکستر نزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "( تو اس نے ) صادق و جعفر پر اپنی آگ کا نہ ایک شرارہ پھینکا او ر نہ ہم پر مٹھی بھر راکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Did not throw a flame of fire at Sadiq and Ja’afer; or threw a handful of its ash on us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت دوزخ را خس و خاشاک بہ\nشعلۂ من زین دو کافر پاک بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا کہ تم سے خس و خاشاک بہتر ہیں ؛ میں اپنے شعلے کو تم کافروں سے پاک رکھنا چاہتی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Hell said the straw blades are worthier than you; I want to keep my flames cleans of infidels like you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آنسوے نہ آسمان رفتیم ما\nپیش مرگ ناگہان رفتیم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر ہم آسمانوں کی دوسری طرف مرگ ناگہاں کے پاس پہنچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then we reached the ‘sudden death’ on the other side of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گفت \"جان سری ز اسرار من است\nحفظ جان و ہدم تن کار من است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس نے کہا زندگی میرے اسرار میں سے ایک راز ہے؛ میرا کام تن کی ہلاکت اور جان کی حفاظت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The death said the life itself is one of my secrets; my responsibility is to cause death of body and protect the spirit (the body of a traitor is spiritless).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جان زشتی گرچہ نرزد با دو جو\nایکہ از من ھدم جان خواہی برو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ ناپاک جان کی قیمت دو جو کے برابر نہیں؛ تم دونوں جو مجھ سے اپنی جانوں کی ہلاکت چاہتے ہو دور ہو جاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An evil spirit is not worth the two grains of barley; do you (Jaafar and Sadiq) seek death from me! Go away!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اینچنین کاری نمی آید ز مرگ\nجان غداری نیاساید ز مرگ\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "موت یہ کام نہیں کر سکتی ؛ غدار کی جان موت سے سکون نہیں پا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Death cannot do that; traitors spirit cannot have solitude even with the death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "اے ہوای تند اے دریای خون\nاے زمین اے آسمان نیلگون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ہواے تند! اے دریاے خون! اے زمین ! اے آسمان نیلگون!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O stormy wind! O river (full) of blood! O Earth! O blue sky!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اے نجوم اے ماہتاب اے آفتاب\nاے قلم اے لوح محفوظ اے کتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نجوم ! اے ماہتاب ! اے آفتاب! اے قلم! اے لوح محفوظ! اے کتاب!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O stars! O full moon! O sun! O Pen! O the Protected Holy Script! O Kitab (Qur’an)!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اے بتان ابیض اے لردان غرب\nاے جہانی، در بغل بے حرب و ضرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سفید بتو! اے روسائے غرب! تم جنہوں نے بغیر لڑائی کے ایک ایک جہان پر قبضہ جما لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Whiteman! O lords of the West! You who have conquered many lands without fighting a battle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "این جہان بے ابتدا بے انتہاست\nبندۂ غدار را مولا کجاست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں بتاؤ کہ تمہاری اس وسیع و عریض دنیا میں بندہ ء غدار کا سرپرست کہاں ملتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell us where can we find the patron of traitors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ناگہان آمد صدای ہولناک\nسینۂ صحرا و دریا چاک چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک دم صدائے ہولناک بلند ہوئی جس سے صحرا و دریا کا سینہ چاک چاک ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suddenly, a scaring thunder fell upon that split the desert and the sea into pieces.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ربط اقلیم بدن از ہم گسیخت\nدمبدم کہ پارہ بر کہ پارہ ریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس سے بدن کے جوڑ ڈھیلے پڑ گئے ؛ ہر لمحہ چٹانیں ایک دوسری پر گرنے لگیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Body limbs limped because of that; the rocks started falling on each other continuously.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "کوہہا مثل سحاب اندر مرور\nانہدام عالمے بے بانگ صور",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہاڑ بادلوں کی مانند اڑنے لگے ؛ نفخ صور کے بغیر ہی دنیا تہ و بالا ہونے لگے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mountains started floating like clouds; the universe was turned upside down without blowing of Soor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "برق و تندر از تب و تاب درون\nآشیان جستند اندر بحر خون",
+              "lang": "Original"
+            },
+            {
+              "_content": "برق و رعد بھی اپنی اندروں تپش کی وجہ سے اس بحر خون کے اندر امان ڈھونڈنے لگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of the heat even lightening and the thunder started looking for refuge in the river of the blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "موجھا پر شور و از خود رفتہ تر\nغرق خون گردید آن کوہ و کمر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پر شور اور پر زور موجیں اٹھنے لگیں؛ اور وہ کوہ و کمر قلزم خونیں میں غرق ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Noisy waves started ragging and inundaunted the vallies and the mountains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "آنچہ بر پیدا و ناپیدا گذشت\nخیل انجم دید و بے پروا گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عدم و وجود پر جو گزری ستاروں کے کاروان نے اسے دیکھا اور لا پروائی سے گزر گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars watched all that happerned to being and not-being and passed by unconcerned.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Lament Of One Of The Skiff-Riders Of The Sea Of Blood"
+}

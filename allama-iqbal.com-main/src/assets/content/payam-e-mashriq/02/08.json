@@ -1,0 +1,86 @@
+{
+  "id": "08",
+  "name": "حیات جاوید",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گمان مبر کہ بپایان رسید کار مغان\nہزار بادۂ ناخوردہ در رگ تاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں گمان نہ کر کہ پیر مغاں کا کام ختم ہو گیا، ابھی تک انگور کے اندر بہت سی ایسی شراب ہے جسے کسی نے نہیں چکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not imagine that the work of the Wine-maker is complete. With unknown quantities of undrunk wine the vine is still replete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چمن خوشست ولیکن چو غنچہ نتوان زیست\nقبای زندگیش از دم صبا چاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چمن خوب ہے لیکن یہاں کلی کی مانند زندگی بسر نہیں کی جا سکتی، اس کی زندگی کی قبا کو باد صبا کا ایک جھونکا چاک کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garden is a happy place, but you cannot survive as buds in it for long; the breeze will come and tear your being’s robe to shreds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر ز رمز حیات آگہی مجوی و مگیر\nدلی کہ از خلش خار آرزو پاک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھے راز زندگی سے آگہی حاصل ہے، تو نہ ایسا دل ڈھونڈ، نہ لے جو خلش آرزو سے خالی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you possess the faintest knowledge of life’s awesome mystery, then do not seek a heart entirely free from longing’s agony.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بخود خزیدہ و محکم چو کوہساران زے\nچو خش مزی کہ ہوا تیز و شعلہ بیباک است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ سے وابستہ رہ اور پہاڑوں کی طرح مستحکم ہو کر زندگی بسر کر، تنکے کی طرح زندگی بسر نہ کر کیونکہ ہوا تیز ہے اور شعلے بھڑک رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be like a mountain, grave and lofty, with your native dignity, and not like straw. Beware, there is a wildfire raging savagely.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Eternal Life",
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہل افسانۂ آن پا چراغی\nحدیث سوز او آزار گوش است\nمن آن پروانہ را پروانہ دانم\nکہ جانش سخت کوش و شعلہ نوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چراغ کے نیچے گرے پڑے پروانے کی کہانی چھوڑ، اس کے جلنے کی بات کانوں کے لیے تکلیف دہ ہے۔\nمیں تو اس پروانے کو پروانہ سمجھتا ہوں ، جو اتنا سخت کوش ہو کہ شعلے کو کھا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not tell me about that silly moth who met an easy, suicidal death.\nIt is the hardy moth that I admire, the one who bravely fights with his last breath.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

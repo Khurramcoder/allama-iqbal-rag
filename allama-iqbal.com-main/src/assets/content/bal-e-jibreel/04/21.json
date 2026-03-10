@@ -1,0 +1,99 @@
+{
+  "id": "21",
+  "name": "فرشتے آدم کو جنت سے رخصت کرتے ہیں",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عطا ہوئی ہے تجھے روزوشب کی بیتابی \nخبر نہیں کہ تو خاکی ہے یا کہ سیمابی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have been given the restlessness of Day and Night, we know not whether you are made of clay or mercury;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سنا ہے، خاک سے تیری نمود ہے، لیکن \nتری سرشت میں ہے کوکبی و مہ تابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوکبي و مہ تابي: ستاروں اور پورے چاند کی طرح روشن ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We hear you are created from clay, but in your nature is the glitter of Stars and Moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جمال اپنا اگر خواب میں بھی تو دیکھے \nہزار ہوش سے خوشتر تری شکر خوابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکر خوابي: میٹھی نیند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your sleep would be preferable over much wakefulness, if you could behold your own beauty even in a dream!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گراں بہا ہے ترا گریہء سحر گاہی \nاسی سے ہے ترے نخل کہن کی شادابی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your morning sighs are invaluable for they are the water to your ancient tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تری نوا سے ہے بے پردہ زندگی کا ضمیر \nکہ تیرے ساز کی فطرت نے کی ہے مضرابی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your melody unravels the secret of life or it is Nature that has attuned your organ. \n(Based on a translation by S A Vahid, edited by Hafeez Malik)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Angels Bid Farewell To Adam"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ آتے، ہمیں اس میں تکرار کیا تھی\nمگر وعده کرتے ہوئے عار کیا تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you had not come I would have had no occasion for contention. But what reluctance in making the promise was?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تمھارے پیامی نے سب راز کھولا\nخطا اس میں بندے کی سرکار کیا تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your messenger disclosed every secret O Lord! What fault of Man in this was? \n(Allusion to the Holy Qur'an as a source of all knowledge and guidance for which there are many references in the Holy Book.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بھری بزم میں اپنے عاشق کو تاڑا\nتری آنکھ مستی میں ہشیار کیا تھی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You recognized Your Lover in the full assembly. How alert Your eye in the middle of the ecstasy was!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تامل تو تھا ان کو آنے میں قاصد\nمگر یہ بتا طرز انکار کیا تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "True! Reluctant he was to come, O messenger, but tell me what the manner of denial was.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کھنچے خود بخود جانب طور موسی\nکشش تیری اے شوق دیدار کیا تھی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Musa (A.S.) was effortlessly attracted to Toor. How strong, O Zeal your attraction was!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کہیں ذکر رہتا ہے اقبال تیرا\nفسوں تھا کوئی، تیری گفتار کیا تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your fame continues somewhere, O Iqbal! Some magic, not your speech it was.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,153 @@
+{
+  "id": "50",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خاور کہ آسمان بکمند خیال اوست\nاز خویشتن گسستہ و بی سوز آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق کہ جس کے تخّیل کی کمند میں آسمان ہے؛ وہ اپنے آپ سے دور اور سوز آرزو (شوق) سے بیگانہ ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The East, that holds the heavens fast within the noose its fancy cast, its spirit’s bonds are all united, the flames of its desire have died.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در تیرہ خاک او تب و تاب حیات نیست\nجولان موج را نگران از کنار جوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی خاک تیرہ میں حیات کی تب و تاب نہیں : وہ ساحل پر کھڑا موج کی جولانیاں دیکھ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The burning glow of living birth pulses no more in its dark earth; it stands upon the river side and gazes at the surging tide.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بتخانہ و حرم ھمہ افسردہ آتشے\nپیر مغان شراب ہوا خوردہ در سبوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا بتخانہ اور کیا حرم ، سب کی آگ بجھ چکی ہے ؛ پیر مغاں کے سبو میں جو شراب ہے وہ بے اثر ہو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faint, faint the fires of worship be in temple and in sanctuary; the Magian still his cup would pass, but stale the wine is in his glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فکر فرنگ پیش مجاز آورد سجود\nبینای کور و مست تماشای رنگ و بوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب کا فکر ، مجاز کے سامنے سر بسجود ہے؛ وہ آنکھیں رکھتے ہوئے اندھا ہے اور یہ اندھا تماشائے رنگ و بو ہی میں مست ہے (حقیقت کی جستجو سے بیگانہ ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vision of the West is blind, illusion fills the Western mind; drunken with magic scent and hue, it bows before the great untrue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گردندہ تر ز چرخ و ربایندہ تر ز مرگ\nاز دست او بہ دامن ما چاک بی رفوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب ، آسمان سے بھی زیادہ تیزی سے اپنی جگہ بدلتا ہے (مغرب کے نت نئے نظریات کی طرف اشارہ ہے) اور موت سے زیادہ تباہی لاتا ہے؛ اس کے ہاتھ نے ہمارا دامن اس طرح چاک کیا ہے اب وہ رفو نہیں ہو سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Swifter it spins than heaven’s sphere; death is a gentler ravisher; its fingers have so torn my soul, never again can it be whole.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خاکی نھاد و خو ز سپہر کہن گرفت\nعیار و بی مدار و کلان کار و تو بتوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہے یہ خاکی نہاد مگر اس کی عادتیں ساری بوڑھے آسمان کی سی ہیں؛ عیار، ناقابل اعتماد، بڑے فتنے پیدا کرنے والا اور پیچدہ خو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of the earth earthy, it would try to emulate the ancient sky; a rogue, a cheat, of works immense, with pivot none, and little sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مشرق خراب و مغرب از آن بیشتر خراب\nعالم تمام مردہ و بی ذوق جستجوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق تباہ حال ہے اور مغرب اس سے زیادہ تباہ حال ہے؛ ساری دنیا مردہ اور آپ کی جستجو کے ذوق سے ناآشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The East is waste and desolate, the West is more bewildered yet the ardent quest inspires no more, death reigns supreme the whole world o’er.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ساقی بیار بادہ و بزم شبانہ ساز\nما را خراب یک نگہ محرمانہ ساز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی محبت کی شراب پلائیں اور پھر سے بزم شبانہ آراستہ کریں؛ ہمیں ایک نگاہ محرمانہ سے اپنا مست بنا لیں (گھر یہ اجڑا ہے کہ تو رونق محفل نہ رہا -",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bring me the wine of heart’s delight, and spread the banquet of the night; give me the bold, adventurous eye, and in love’s transport let me die.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

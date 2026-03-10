@@ -1,0 +1,85 @@
+{
+  "id": "15",
+  "name": "الارض للہ",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پالتا ہے بیج کو مٹی کو تاریکی میں کون \nکون دریاوں کی موجوں سے اٹھاتا ہے سحاب؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "سحاب: بھاپ، بادل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who rears the seed in the darkness of the ground? Who lifts the cloud up from the ocean wave?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کون لایا کھینچ کر پچھم سے باد سازگار \nخاک یہ کس کی ہے، کس کا ہے یہ نور آفتاب؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "باد سازگار: موافق ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who drew here from the west the fruitful wind? Who made this soil or who that light of the sun?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کس نے بھردی موتیوں سے خوشہء گندم کی جیب \nموسموں کو کس نے سکھلائی ہے خوئے انقلاب؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who filled with pearls of grain the tasselled wheat? Who taught the months by instinct to revolve?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دہ خدایا! یہ زمیں تیری نہیں، تیری نہیں \nتیرے آبا کی نہیں، تیری نہیں، میری نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "دہ خدایا: گاؤں کا مالک، زمیندار۔\nآبا: باپ دادا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Landlord! This earth is not thine, is not thine, nor yet thy fathers'; no, not thine, nor mine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Earth Is God's",
+  "credits": "English Translation by: Naim Siddiqui"
+}

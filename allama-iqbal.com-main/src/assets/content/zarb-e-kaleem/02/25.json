@@ -1,0 +1,66 @@
+{
+  "id": "25",
+  "name": "اساتذہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مقصد ہو اگر تربیت لعل بدخشاں \nبے سود ہے بھٹکے ہوئے خورشید کا پر تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you desire to breed such ruby which is red, don't beg light of sun that from course has fled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دنیا ہے روایات کے پھندوں میں گرفتار \nکیا مدرسہ، کیا مدرسے والوں کی تگ و دو!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is trapped by traditions old and hoar, preceptors helpless quite, can do no more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کر سکتے تھے جو اپنے زمانے کی امامت \nوہ کہنہ دماغ اپنے زمانے کے ہیں پیرو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who deserved to lead the modern age have worn out brains and others hold the stage.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Teachers",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

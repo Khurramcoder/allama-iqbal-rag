@@ -1,0 +1,31 @@
+{
+  "id": "89",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ پرسے از کجایم چیستم من ؟\nبہ خود پیچیدہ ام تا زیستم من\nدرین دریا چو موج بیقرارم\nاگر بر خود نپیچم نیستم من",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "34",
+  "name": "مشرق و مغرب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہاں مرض کا سبب ہے غلامی و تقلید \nوہاں مرض کا سبب ہے نظام جمہوری \nنہ مشرق اس سے بری ہے، نہ مغرب اس سے بری \nجہاں میں عام ہے قلب و نظر کی رنجوری",
+              "lang": "Original"
+            },
+            {
+              "_content": "رنجوري: بیماری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the East bondage and mimicry have spread the germs of pain and grief. In the West rule of chosen mobs is source of sorrows main and chief.\nNeither the East is quite immune, nor West from germs is fully free; wide-spread the blight of heart and glance, a few can claim true joy and glee.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The East And The West",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

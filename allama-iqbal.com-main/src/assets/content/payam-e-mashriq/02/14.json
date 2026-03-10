@@ -1,0 +1,375 @@
+{
+  "id": "14",
+  "name": "پند باز با بچۂ خویش",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو دانی کہ بازان ز یک جوہرند\nدل شیر دارند و مشت پرند",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جانتا ہے کہ سارے با ز ایک جوہر سے ہیں ؛ ان کا دل شیر کا ہے ویسے مشت پر نظر آتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You know that in essence all falcons are one; a mere handful of feathers, but with the heart of a lion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نکو شیوہ و پختہ تدبیر باش\nجسور و غیور و کلان گیر باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھے چاہیے کہ اچھی عادات اور پختہ تدبیر اختیار کرے؛ جراتمند ، غیرتمند اور بڑا شکار کرنے والا ہو،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Conduct yourself well and let your strategy be well considered; be daring, maintain your dignity, and hunt big game.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میامیز با کبک و تورنگ و ساز\nمگر اینکہ داری ہوای شکار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیتر ، تلیر اور تورنگ (صحرائی پرندہ ) سے میل جول نہ رکھ؛ سوائے اس کے کہ انہیں شکار کرنا مقصود ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not mix with partridges, pheasants, and starlings; unless you want them as prey.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چہ قومی فرو مایۂ ترسناک\nکند پاک منقار خود را بہ خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیسے کمینے اور ڈرپوک پرندے ہیں؛ جو اپنی چونچ سے مٹی کھود کر خوراک تلاش کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a lowly, fearful lot they are: They wipe their beaks clean with dusts!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شد آن باشہ نخچیر خویش\nکہ گیرد ز صید خود آئین و کیش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بادشاہ (شکاری پرندہ ) خود اپنے شکار کا شکار ہو جاتا ہے؛ جو اس کے سے طور طریقے اختیار کر لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A falcon that copies the ways of his prey becomes prey himself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بسا شکرہ افتادہ بر روی خاک\nشد از صحبت دانہ چینان ہلاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہت سے شکرے جو زمین پر چلتے پھرتے ہیں ؛ وہ چڑیوں کی صحبت سے ہلاک ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many a predator, descending to earth, has perished on associating with grain-eaters.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نگہ دار خود را و خورسند زی\nدلیر و درشت و تنومند زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود دار بن اور خوش رہ؛ دلیری، درشتی اور تنومندی اختیار کر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Guard yourself and live the life of one of good cheer, brave, robust and rugged.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تن نرم و نازک بہ تیہو گذار\nرگ سخت چون شاخ آہو بیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "نرم و نازک بدن تیہو کے لیے رہنے دے ؛ تو اپنی رگ (بدن) ہرن کے سینگ کی مانند مضبوط رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let the quail have his soft and delicate body; grow a vein hard as a deer’s horn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نصیب جہان آنچہ از خرمی است\nز سنگینی و محنت و پر دمی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں جتنی مسرت موجود ہے وہ سخت کوشی ، محنت اور بلند ہمتی (کی برکت) سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All the joy in the world comes from hardship, toil, and fullness of breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چہ خوش گفت فرزند خود را عقاب\nکہ یک قطرہ خون بہتر از لعل ناب",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقاب نے اپنے بیٹے سے کیا خوب کہا؛ خون کا ایک قطرہ قیمتی لعل سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What fine advice it was that the eagle gave its son: A single drop of blood is better than the purest wine!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "مجو انجمن مثل آہو و میش\nبہ خلوت گرا چون نیاکان خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہرنوں اور بھیڑوں کی طرح گروہ نہ بنا ؛ اپنے بڑوں کی مانند خلوت اختیار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek out company like the deer or sheep, but go into seclusion as your ancestors did.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چنین یاد دارم ز بازان پیر\nنشیمن بشاخ درختی مگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے بوڑھے بازوں کی بات یاد ہے؛ کہ درخت کی شاخ پر اپنا نشیمن نہ بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I remember the old falcons’ advice: ‘Do not make your nest on the branch of a tree.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کنامی نگیریم در باغ و کشت\nکہ داریم در کوہ و صحرا بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم باغ یا پھلواڑی میں گھر نہیں بناتے ؛ ہمارے لیے کو ہ و صحرا (ہی) بہشت ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We do not make nests in a garden or a field – we have our own paradise in mountains and deserts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ز روی زمین دانہ چیدن خطاست\nکہ پہنای گردون خدا داد ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین پر سے دانہ چگنا غلطی ہے؛ ہمیں اللہ تعالے نے گردوں کی وسعت عطا کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We regard picking up grain from the ground as an error, for God has given us the vastness of the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "نجیبی کہ پا بر زمین سودہ است\nز مرغ سرا سفلہ تر بودہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ (نجیب ا لطرفین باز) جو زمین پر پاؤں گھسیٹتا ہے؛ وہ گھریلو پرندوں سے بھی زیادہ کمینہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a bird of noble stock scrapes his feet on the ground, he becomes more despicable than a house bird.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پی شاہبازان بساط است سنگ\nکہ بر سنگ رفتن کند تیز چنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہبازوں کے چلنے پھرنے کی جگہ پتھر (پہاڑ) ہیں ؛ کہ پہاڑوں سے پنجے تیز ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The kingly falcon uses rocks like a carpet walking on them sharpens his claws.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "تو از زرد چشمان صحراستی\nبہ گوہر چو سیمرغ والاستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو صحرا کا زرد چشم ہے، تیری اصل سیمرغ کی مانند بلند تر ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are one of the yellow-eyed of the desert, and, like the simurgh, are of noble nature;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "جوانے اصیلی کہ در روز جنگ\nبرد مردمک را ز چشم پلنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو خاص اصل کا جوان ہے جو میدان جنگ میں شیر کی آنکھ نکال لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are that noble youth who, on the day of battle, plucks out the pupil of the tiger’s eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "بہ پرواز تو سطوت نوریان\nبہ رگھای تو خون کافوریان",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری پرواز میں فرشتوں کی شان ہے؛ تیری رگوں میں کافوریوں کا خون ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You fly with the majesty of angels, and in your veins is the blood of the kafuri falcon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تہ چرخ گردندۂ کوژ پشت\nبخور آنچہ گیری ز نرم و درشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خمیدہ کمر بوڑھے آسمان کے نیچے ؛ جو روکھی سوکھی مل جائے کھا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under this humpbacked, revolving sky eat what you catch, whether it is soft or hard:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ز دست کسی طعمۂ خود مگیر\nنکو باش و پند نکویان پذیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر کسی کے ہاتھ سے لقمہ نہ لے؛ نیک رہ اور نیکوں کی نشست قبول کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not take food from the hand of another; be good and take advice from the good.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Falcon’s Advice To Its Youngster",
+  "credits": "English Translation by: Mustansir Mir"
+}

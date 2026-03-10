@@ -1,0 +1,33 @@
+{
+  "id": "04",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غریبی میں ہوں محسود امیری\nکہ غیرت مند ہے میری فقیری\nحذر اس فقر و درویشی سے، جس نے\nمسلماں کو سکھا دی سر بزیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "محسود امیری: جس پر امیر بھی حسد کرے۔ \nسر بزیری: کسی کے آگے جھکنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I’m envied by rich in a poor state too, as envy for honour is my view. Shun the faqr’s form which may ever lead, a Muslim to bow in want and need.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

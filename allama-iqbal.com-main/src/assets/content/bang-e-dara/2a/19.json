@@ -1,0 +1,130 @@
+{
+  "id": "19",
+  "name": "ایک شام دریائے نیکر ہائیڈل برگ کے کنارے",
+  "name-en": "An Evening by the River Neckar’s Banks, Heidelberg, Germany",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خاموش ہے چاندنی قمر کی\nشاخیں ہیں خموش ہر شجر کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon's light is silent; the branches of every tree are silent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وادی کے نوا فروش خاموش\nکہسار کے سبز پوش خاموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The songsters of the valley are silent; the green trees of the mountain are silent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فطرت بے ہوش ہو گئی ہے\nآغوش میں شب کے سو گئی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature has become unconscious; it is sleeping in the night's lap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کچھ ایسا سکوت کا فسوں ہے\nنیکر کا خرام بھی سکوں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some such spell of serenity exists that Neckar's flow is also serene.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تاروں کا خموش کارواں ہے\nیہ قافلہ بے درا رواں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan of stars is silent; the caravan is moving without the bell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خاموش ہیں کوہ و دشت و دریا\nقدرت ہے مراقبے میں گویا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silent are the mountains, forest, river as if Nature is absorbed in deep meditation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اے دل! تو بھی خموش ہو جا\nآغوش میں غم کو لے کے سو جا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Heart! You should also become silent taking grief in your lap go to sleep.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

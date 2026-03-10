@@ -1,0 +1,392 @@
+{
+  "id": "04",
+  "name": "روح ہندوستان نالہ و فریاد می کند",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "07",
+  "sectionName": "فلک زحل",
+  "name-ur": "روح ہندوستان نالہ و فریاد کرتی ہے،",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شمع جان افسرد در فانوس ہند\nہندیان بیگانہ از ناموس ہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندوستان کے فانوس میں زندگی کی شمع گل ہو چکی ہے؛ ہند کے رہنے والے ناموس ہند سے بیگانہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Indian chandelier has no candle alight; Indians care no more for their honour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مردک نامحرم از اسرار خویش\nزخمۂ خود کم زند بر تار خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو مرد حقیر اپنے اسرار (زیست) سے بے خبر ہو؛ وہ اپنے ساز کی تار کو اپنے مضراب سے کم ہی چھیڑتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who is unaware of his potentials seldom tries to exploit those to their optimum 9the poet has said it equating him with a musical instrument).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بر زمان رفتہ می بندد نظر\nاز تش افسردہ میسوزد جگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نظر ہمیشہ ماضی پر رہتی ؛ اس کا جگر بجھی ہوئی آگ سے جلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He always lives in the past; his heart burns over that has gone-by (lacks in endeavours to improve his present and the future).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بند ہا بر دست و پای من ازوست\nنالہ ہای نارسای من ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے ہی لوگوں کی وجہ سے میرے ہاتھ پاؤں جکڑے ہوئے ہیں اور میری فریاد بے اثر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of such people my hands and feet are tied and my request goes unheard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خویشتن را از خودی پرداختہ\nاز رسوم کہنہ زندان ساختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنی خودی کو ترک کر چکے ہیں؛ انہوں نے اپنے گرد قدیم رسوم کا زندان بنا لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They have surrendered their self-respect and ego; they have built a prison of rudundent customs around themselves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آدمیت از وجودش دردمند\nعصر نو از پاک و ناپاکش نژند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے وجود سے آدمیت دکھ میں مبتلا ہے اور عصر نو اس کے پاک و نا پاک سے اندوہگین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Humanity is pains because of them and contemporary world is in agony due the standards it has set for determining sacred and evil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بگذر از فقری کہ عریانی دہد\nاے خنک فقری کہ سلطانی دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے فقر کو چھوڑ جو عریانی دیتا ہے؛ مبارک ہے وہ فقر جو سلطانی دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give up that faqr which gives nakedness and blessed is the faqr that bestows upon a crown (comparison of Hindu and Muslim concepts of faqr).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "الحذر از جبر و ہم از خوی صبر\nصابر و مجبور را زہر است جبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبر سے اللہ تعالے بچائیں اور جبر کو خاموشی سے برداشت کرنے کی خو سے بھی؛ جبر جابر اور مجبور دونوں کے لیے زہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God may save from oppression and also from the habit of tolerating oppression without protest; oppression, is poison both for the oppressor and the oppressed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "این بہ صبر پیہمی خوگر شود\nآن بہ جبر پیہمی خوگر شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجبور صبر پیہم سے جبر کا خوگر ہو جاتا ہے اور ظالم جبر پیہم سے اس کا عادی ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The oppressed gets used to it by tolerating it constantly and oppressor becomes habitual by perpetrating it unchecked.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہر دو را ذوق ستم گردد فزون\nورد من \"یالیت قومی یعلمون\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ظالم و مظلوم دونوں میں ذوق ستم بڑھتا ہے؛ میری پکار یہ ہے کہ کاش میری قوم (اس نکتے کو ) جانتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This attitude of the oppressed and the oppressors results in flourishing of the oppression; I pray that my nation comprehends this simple poit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "کی شب ہندوستان آید بروز\nمرد جعفر، زندہ روح او ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندوستان کی تاریک رات کیسے روشن دن میں تبدیل ہو سکتی ہے؛ اگرچہ جعفر مر چکا ہے مگر اس کی روح ابھی تک زندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can the dark night of India turns into bright day; though Ja’afar (traitor) is dead but his spirit still haunts India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تا ز قید یک بدن وا می رہد\nآشیان اندر تن دیگر نہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب یہ روح ایک بدن کی قید سے رہائی پاتی ہے تو پھر کسی دوسرے بدن میں ٹھکانہ پا لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When this spirit (of traitor) gets free from a one person’s body it enters into another and makes it its abode.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گاہ او را با کلیسا ساز باز\nگاہ پیش دیریان اندر نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی وہ کلیسا سے ساز باز کرتی ہے؛ اور کبھی اہل بتکدہ سے نیازمندانہ تعلقات بناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At times it conspires in connivance with Christianity and at times shows gratitude to idol-worshipers (with reference to Muslim traitors of The Subcontinent).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دین او آئین او سوداگری است\nعنتری اندر لباس حیدری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دین اور آئین سوداگری ہے؛ یہ حیدری کے لباس میں عنتری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His beliefs and practices are mere commercial in nature; he is Antari dressed like Haidar (R.A.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "تا جہان رنگ و بو گردد دگر\nرسم او آئین او گردد دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب دنیا بدل جاتی ہے تو ان غداروں کا رسم و آئین بھی بدل جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When there is change (of rulers) in the world, they also change (their loyalties).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پیش ازین چیزی دگر مسجود او\nدر زمان ما وطن معبود او",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلے ان کا مسجود کچھ اور تھا ؛ ہمارے زمانے میں انہوں نے وطن کو معبود بنا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the past they worshipped something else; today they worship watan (homeland).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ظاھر او از غم دین دردمند\nباطنش چون دیریان زنار بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا ظاہر دین کے درد سے دردمند ہے مگر باطن بت پرستوں کی طرح زنّار بند ہے۔( غالبا اس دور کے نیشنلسٹ مسلمانوں کی طرف اشارہ ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Overtly they are passionate about every religion but covertly they are simply non-believers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "جعفر اندر ہر بدن ملت کش است\nاین مسلمانی کہن ملت کش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح جعفر ہر بدن میں دشمن ملّت ہے؛ ایسا قدیم مسلمان ملّت کو مٹا دینے والا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spirit of Ja’afar in the body of any person is an enemy of Millat; such a Muslim is the killer of the Millat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "خند خندان است و با کس یار نیست\nمار اگر خندان شود جز مار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غدار ہر وقت مسکراتا رہتا ہے لیکن وہ اندر سے کسی کا دوست نہیں ؛ سانپ اگر مسکرا بھی رہا ہو تو پھر بھی وہ سانپ ہی ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Traitar has apprarently cordial relations with everyone, but he is friend of none; a snake, even when smiling, remains a snake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از نفاقش وحدت قومی دونیم\nملت او از وجود او لیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نفاق کی وجہ سے قوم ٹکڑے ٹکڑے ہو جاتی ہے؛ اس کا وجود ملّت کو ذلیل کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of his conspiring mischief the millat is shattered into splinters; his existence degrades a nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ملتے را ہر کجا غارتگری است\nاصل او از صادقی یا جعفری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں کہیں کوئی ملّت تباہ ہوتی ہے اس کی تہ میں کوئی صادق ہوتا ہے یا جعفر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wherever a nation has been doomed that has been because of a Sadiq or a Ja’afar (traitors).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "الامان از روح جعفر الامان\nالامان از جعفران این زمان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے روح جعفر سے اپنی پناہ میں رکھیں، اللہ تعالے اس دور کے جعفروں سے بچائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God may save from the evil spirit of Ja’afar (traitor); especially from contemporary traitors.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Spirit Of India Laments"
+}

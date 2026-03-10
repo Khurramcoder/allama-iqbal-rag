@@ -1,0 +1,102 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درون لالہ گذر چون صبا توانی کرد\nبیک نفس گرہ غنچہ وا توانی کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبا کی مانند گل لالہ کے اندر داخل ہوا جا سکتا ہے، اور ایک ہی پھونک سے غنچے کی گرہ کھولی جا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou canst pass, like morning’s breeze, deep into the anemones, with a single breath disclose the locked secrets of the rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حیات چیست جہان را اسیر جان کردن\nتو خود اسیر جہانی کجا توانی کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات کیا ہے؟ جہان کو اپنا اسیر بنا لینا، مگر تو خود اسیر جہان ہے تو یہ کام کیسے کر سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is Life? The world, and all, to make Spirit’s captive thrall: Since the world has prisoned thee, how shalt thou bring this to be?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مقدر است کہ مسجود مہر و مہ باشی\nولی ہنوز ندانی چھا توانی کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے مقدر میں ہے کہ تو مسجود مہر و ماہ بنے، لیکن ابھی تو جانتا نہیں کہ یہ کام کس طرح انجام پا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Twas decreed, long since enow, sun and moon to thee should bow, but as yet thou knowest not how thou canst achieve, and what.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگر ز میکدۂ من پیالہ ئی گیری\nز مشت خاک جہانی بپا توانی کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو میرے میکدے سے ایک جام لے لے ، تو اپنی مشت خاک سے نیا جہان پیدا کر سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take thou then a flask of wine from this tavern that is mine, and of one poor clod of earth thou shalt bring a world to birth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چسان بہ سینہ چراغی فروختی اقبال\nبہ خویش آنچہ توانی بہ ما توانی کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال تو نے اپنے سینے میں یہ چراغ کیسے روشن کیا؟ جو کچھ تو نے اپنے آپ سے کیا، کیا وہ ہم سے نہيں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal! What bright lamp is it in thy bosom thou bast lit, that the things thyself canst do thou in us canst fashion, too?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

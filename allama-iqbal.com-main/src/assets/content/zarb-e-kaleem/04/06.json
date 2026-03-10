@@ -1,0 +1,34 @@
+{
+  "id": "06",
+  "name": "ادبیات",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق اب پیروی عقل خدا داد کرے \nآبرو کوچہ جاناں میں نہ برباد کرے \nکہنہ پیکر میں نئی روح کو آباد کرے \nیا کہن روح کو تقلید سے آزاد کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now Love from mind must take the lead, by God bestowed on human race to dear one's lane it must not go and bring with haste on head disgrace.\nLove must infuse new soul in old poetic moulds and change their course, or break the chains of antique soul, set it free from mimetic force.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Literature",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

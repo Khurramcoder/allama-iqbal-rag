@@ -1,0 +1,100 @@
+{
+  "id": "29",
+  "name": "فلسفہ ومذہب",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ آفتاب کیا، یہ سپہر بریں ہے کیا! \nسمجھ نہیں تسلسل شام و سحر کو میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "سپہر بريں: بلند آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wherefore this succession of day and night? And what are the sun and the starry heavens?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اپنے وطن میں ہوں کہ غریب الدیار ہوں \nڈرت ہوں دیکھ دیکھ کے اس دشت و در کو میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "غريب الديار: پردیسی، مسافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Am I in my land or in banishment? The vastness of this desert fills me with fright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کھلت نہیں مرے سفر زندگی کا راز \nلاوں کہاں سے بندئہ صاحب نظر کو میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know not the enigma of this life of mine; I know not where to find one who knows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حیراں ہے بوعلی کہ میں آیا کہاں سے ہوں \nرومی یہ سوچتا ہے کہ جاوں کدھر کو میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Avicenna wonders where he came from; and Rumi wonders where he should go.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جات ہوں تھوڑی دور ہر اک راہرو کے ساتھ \nپہچانت نہیں ہوں ابھی راہبر کو میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘With every wayfarer I pace a little; I know not yet who my leader is.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Philosophy And Religion",
+  "credits": "English Translation by: Naim Siddiqui"
+}

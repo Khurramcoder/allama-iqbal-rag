@@ -1,0 +1,136 @@
+{
+  "id": "30",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سوز سخن ز نالۂ مستانۂ دل است\nاین شمع را فروغ ز پروانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل کے نالہ ء مستانہ ہی سے سخن میں سوز پیدا ہوتا ہے، اس شمع (سخن) کی چمک پروانہء دل ہی کے سبب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fervent quality of verse comes from the heart’s ecstatic cry. This candle is alight thanks to the heart, which is its moth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مشت گلیم و ذوق فغانی نداشتیم\nغوغای ما ز گردش پیمانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم مٹھی بھر خاک ہیں اور چاک ذوق فغاں نہیں رکھتی، ہماری ساری ہائے و ہو پیمانہء دل کی گردش کے سبب سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A handful of mere dust, we had no gusto for lament. Our clamour is all due to the rotation of the heart’s wine-cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این تیرہ خاکدان کہ جھان نام کردہ ئی\nفرسودہ پیکری ز صنم خانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تاریک خاکدان جس کا نام تم نے جہاں رکھا ہے، صنم خانہ ء دل کا ایک بوسیدہ بت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This dark abode of dust, which you have named the world, is just a worn-out image from the idol-temple of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اندر رصد نشستہ حکیم ستارہ بین\nدر جستجوی سرحد ویرانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جو علم نجوم کا ماہر اپنی رسدگاہ میں بیٹھا ہوا ہے، یہ ابھی ویرانہء دل کی سرحد کی تلاش میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sitting in his observatory, the star-gazing astronomer is looking for the boundary of the heart’s wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لاہوتیان اسیر کمند نگاہ او\nصوفی ہلاک شیوہ ترکانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرشتے اس (دل) کی کمند نگاہ کے اسیر ہیں ، صوفی بھی دل ہی کے دلیرانہ انداز کے کشتہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Celestial beings are caught in the lasso of His glance. The Sufi is a victim of the depredations of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "محمود غزنوی کہ صنم خانہ ہا شکست\nزناری بتان صنم خانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "محمود غزنوی جس نے کئی بتخانے توڑے، وہ بھی صنم خانہء دل کا زنّاری (گرفتار) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mahmud of Ghazna, who razed idol-houses to the ground, himself became a votary of the heart’s idol-house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "غافل تری ز مرد مسلمان ندیدہ ام\nدل در میان سینہ و بیگانۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کسی کو مسلمان سے زیادہ غافل نہیں دیکھا ، سینے میں دل موجود ہے، مگر اس سے نا آشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One more insouciant than the Muslim I have never seen. He has a heart in his breast, yet he is a stranger to the heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

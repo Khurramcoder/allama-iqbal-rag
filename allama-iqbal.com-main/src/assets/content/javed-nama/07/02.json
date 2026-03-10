@@ -1,0 +1,137 @@
+{
+  "id": "02",
+  "name": "قلزم خونین",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "07",
+  "sectionName": "فلک زحل",
+  "name-ur": "خونیں سمندر",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آنچہ دیدم می نگنجد در بیان\nتن ز سہمش بیخبر گردد ز جان",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے جو کچھ وہاں دیکھا وہ بیان میں نہیں آسکتا؛ اس کے خوف سے بدن پر بیہوشی طاری ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What I beheld was indescribable; body by terror was dissundered from soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من چہ دیدم قلزمی دیدم ز خون\nقلزمی، طوفان برون، طوفان درون",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھتا کیا ہوں؟ ایک خونیں سمندر ہے جس کے اندر بھی طوفان اٹھ رہے ہیں اور باہر بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What met my eyes? A sea of blood I viewed tempest-torn outwardly and inwardly;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در ہوا ماران چو در قلزم نہنگ\nکفچہ شبگون بال و پر سیماب رنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فضا میں ایسے سانپ تھے جن کے پھن رات کی طرح سیاہ اور بال و پر سیماب کی طرح تھے، نہنگوں کی طرح لہرا رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The air swarmed with snakes, as with sharks the sea, their hoods black as night, their pinions quicksilver;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "موجہا درندہ مانند پلنگ\nاز نہیبش مردہ بر ساحل نہنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی موجیں چیتوں کی طرح چیرنے پھاڑنے والی تھیں، اس کے خوف سے نہنگ ساحلوں پر مردہ پڑے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Billows roaring and rending like panthers so that the sharks in terror of them lay dead on the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بحر ساحل را امان یک دم نداد\nہر زمان کہ پارہ ئے در خون فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بحر اپنے ساحل کو ایک لمحے کے لیے بھی سکون میں نہیں رہنے دیتا تھا کیونکہ اس خونیں سمندر کے اندر ہر وقت پہاڑوں کی چٹانیں گر رہی تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sea gave the shore not one moment’s respite; every instant mountain-blocks fell crashing in blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "موج خون با موج خون اندر ستیز\nدرمیانش زورقی در افت و خیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خونیں موجیں آپس میں متلاطم تھیں اور ان کے درمیان ایک کشتی افتاں و خیزاں تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bloody wave fought with wave of blood, whilst in their midst a skiff tossed up and down;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اندر آن زورق دو مرد زرد روی\nزرد رو عریان بدن آشفتہ موی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشتی کے اندر دو مرد بیٹھے ہوئے تھے جن کے چہرے زرد، بدن عریاں اور بال پراگندہ تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that skiff were two men pale of cheek, pale of cheek, naked, with hair dishevelled.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Sea Of Blood"
+}

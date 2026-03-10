@@ -1,0 +1,98 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو ابھی رہ گزر میں ہے، قید مقام سے گزر \nمصر و حجاز سے گزر، پارس و شام سے گزر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art yet region-bound, transcend the limits of space; transcend the narrow climes of the East and the West.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جس کا عمل ہے بے غرض، اس کی جزا کچھ اور ہے \nحور و خیام سے گزر، بادہ و جام سے گزر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خيام: خیمہ کی جمع۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For selfless deeds of men rewards are less mundane; transcend the houris’ glances, the pure, celestial wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرچہ ہے دلکشا بہت حسن فرنگ کی بہار \nطائرک بلند بال، دانہ و دام سے گزر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ravishing in its power is beauty in the West: Thou bird of paradise, resist this earthly trap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کوہ شگاف تیری ضرب، تجھ سے کشاد شرق و غرب \nتیغ ہلال کی طرح عیش نیام سے گزر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With a mountain-cleaving assault, bridging the East and West, despise all defences, and become a sheathless sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیرا امام بے حضور، تیری نماز بے سرور \nایسی نماز سے گزر، ایسے امام سے گزر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy imam is unabsorbed, thy prayer is uninspired, forsake an imam like him; forsake a prayer like this.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

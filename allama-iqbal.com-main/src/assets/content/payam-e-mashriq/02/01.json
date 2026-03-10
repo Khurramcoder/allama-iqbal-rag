@@ -1,0 +1,98 @@
+{
+  "id": "01",
+  "name": "گل نخستین",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "name-en": "The First Rose",
+  "credits": "English Translation by: M. Hadi Hussain",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہنوز ہمنفسی در چمن نمی بینم\nبہار می رسد و من گل نخستینم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not find a single comrade in the garden yet;\nFor springtime is approaching and I am an early rose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ آب جو نگرم خویش را نظارہ کنم\nبہ این بھانہ مگر روی دیگری بینم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I look at myself in the mirror of the rivulet,\nCreating a companion through this self-deluding pose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بخامہ ئی کہ خط زندگی رقم زدہ است\nنوشتہ اند پیامی بہ برگ رنگینم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pen that Destiny employed in writing Being’s scroll\nInscribed a message on my leaves for everyone to read.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دلم بدوش و نگاہم بہ عبرت امروز\nشہید جلوۂ فردا و تازہ آئینم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is with the past; my eye is on the present’s roll.\nA prophet of the future, I proclaim the future’s creed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز تیرہ خاک دمیدم قبای گل بستم\nوگرنہ اختر واماندہ ئی ز پروینم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I sprang up out of dust and I assumed a rose’s robe;\nBut am, in fact, the Pleiad that was lost in the blue globe.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

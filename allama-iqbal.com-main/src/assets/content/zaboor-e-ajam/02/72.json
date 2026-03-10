@@ -1,0 +1,102 @@
+{
+  "id": "72",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لالہ این گلستان داغ تمنائی نداشت\nنرگس طناز او چشم تماشائی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس گلستان (دنیا ) کا گل لالہ تمنا نہ رکھتا تھا ؛ یہاں کے نرگس طناز چشمہ ء نظارہ سے محروم تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the mead a tulip blows in whose breast no yearning glows, a narcissus, languid too, yet it lacked the eye to view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خاک را موج نفس بود و دلی پیدا نبود\nزندگانی کاروانی بود و کالائی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک (انسان سے پہلے کے مراحل) میں تنفس تھا مگر وہ قلب نہیں رکھتی تھی؛ حیات ایک کاروان کی صورت آگے بڑھ رہی تھی مگر اس کے پاس کوئی قیمتی سامان نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Billowing breath was in the clay, but no heart did it display; caravan upon the road – such was life, yet where the load?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "روزگار از ہای و ہوی میکشان بیگانہ ئی\nبادہ در میناش بود و بادہ پیمائی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان مے کشوں کی ہا و ہو سے خالی تھا؛ مینا میں شراب تھی کوئی پینے والا نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time itself was void and free of the topers’ song of glee; wine was in the glass aflame yet was none to quaff the same.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "برق سینا شکوہ سنج از بی زبانیہای شوق\nہیچکس در وادی ایمن تقاضائی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "برق سینا کو شوق کی بے زبانی کا شکوہ تھا؛ (کیونکہ) وادی ء ایمن میں کوئی ارنی کہنے والا نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sinai’s lightning made complaint that desire was dumb and faint; in the peaceful valley there silent was the voice of prayer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق از فریاد ما ہنگامہ ہا تعمیر کرد\nورنہ این بزم خموشان ہیچ غوغائی نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے ہماری فریاد سے ہنگامے تعمیر کیے؛ ورنہ اس بزم خاموشاں (کائنات) میں شور و غوغا نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love upon our woe exprest builds anew the great unrest; else no murmur ever stirs from these silent banqueters.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

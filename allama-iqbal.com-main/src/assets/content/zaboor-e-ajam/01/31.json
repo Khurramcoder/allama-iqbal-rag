@@ -1,0 +1,34 @@
+{
+  "id": "31",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ در اندیشۂ من کار زار کفر و ایمانی\nنہ در جان غم اندوزم ہوای باغ رضوانی\nاگر کاوی درونم را خیال خویش را یابے\nپریشان جلوہ ئی چون ماہتاب اندر بیابانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ تو میرا ذہن کفر و ایمان کا کارزار ہے؛ اور نہ میری جان غم اندوز میں باغ رضوان کی خواہش ہے۔\nاگر آپ میرا اندرون کھودیں تو سوائے اپنے خیال کے اور کچھ نہیں پائیں گے جیسے ریگستان میں چاندنی پھیلی ہوتی ہے۔ (ریگستان میں چاندنی کا منظر بہت خوبصورت ہوتا ہے۔ اللہ تعالے کے خیال کو چاندنی سے ٹشبیح دی ہے اور اپنے قلب کو ریگستان سے کیونکہ وہاں اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faith and infidelity fight not for the mind of me; no delights of Paradise do my stricken soul entice.\nCleave my heart and lay it bare, Thou shall find Thy image there, gleam pervasive, shadowless, moonlight on a wilderness.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

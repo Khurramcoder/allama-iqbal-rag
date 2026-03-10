@@ -1,0 +1,35 @@
+{
+  "id": "50",
+  "name": "عشق",
+  "name-en": "Love",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آن حرف دلفروز کہ راز ہست و راز نیست\nمن فاش گویمت کہ شنید از کجا شنید\nدزدید ز آسمان و بہ گل گفت شبنمش\nبلبل ز گل شنید و ز بلبل صبا شنید",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ حرف دلفروز (عشق) جو راز بھی ہے اور نہیں بھی؛ میں تمہیں کھول کر بتاتا ہوں کہ اسے کس نے سنا اور کہاں سے سنا۔ \n شبنم نے اس حرف کو آسمان سے چرایا اور پھول کو بتایا؛ پھول سے بلبل نے سنا اور بلبل سے صبا نے (پھر صبا نے اسے عام کر دیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let me expose to you who heard, and where, that heart-enkindling word which is, and which is not, a mystery.\nDew stole it from the sky, and dropped it in the rose’s ear. The rose passed it on to the nightingale, which sang it to the breezes as a wail.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

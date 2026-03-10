@@ -1,0 +1,83 @@
+{
+  "id": "04",
+  "name": "معراج",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دے ولولہ شوق جسے لذت پرواز \nکر سکتا ہے وہ ذرہ مہ و مہر کو تاراج",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاراج: تسخیر کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A mote endowed with strong desire for flight can reach the Sun and Moon with effort slight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مشکل نہیں یاران چمن ! معرکہ باز \nپر سوز اگر ہو نفس سینہ دراج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If chest of partridge fire and zeal emit, my friends, in fight with hawk it can acquit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ناوک ہے مسلماں، ہدف اس کا ہے ثریا \nہے سر سرا پردہ جاں نکتہ معراج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ascension means to gauge a Muslim's heart; the Pleiades are the target of his dart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو معنی و النجم، نہ سمجھا تو عجب کیا \nہے تیرا مد و جزر ابھی چاند کا محتاج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wonder, meanings of Najm from you hide, on Moon depends your ocean's ebb and tide.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ascension",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

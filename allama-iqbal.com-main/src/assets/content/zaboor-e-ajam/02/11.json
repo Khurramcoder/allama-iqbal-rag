@@ -1,0 +1,113 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لالہ این چمن آلودۂ رنگ است ہنوز\nسپر از دست مینداز کہ جنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip of this meadowland is yet all flecked with hue; cast not the shield out of thy hand, for battle flares anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فتنہ ئی را کہ دو صد فتنہ با آغوشش بود\nدختری ہست کہ در مہد فرنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A tumult, in whose swelling breast two hundred tumults wait that maiden is who dwells caressed in Europe’s cradle yet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے کہ آسودہ نشینی لب ساحل بر خیز\nکہ ترا کار بگرداب و نہنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O thou who sittest at thy ease beside the shore, arise! The whirlpool roars across the seas, the shark in menace lies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از سر تیشہ گذشتن ز خردمندی نیست\nاے بسا لعل کہ اندر دل سنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No part of wisdom ’tis, I trow, the trusty axe to shun; within the rock’s heart, even now, are rubies to be won.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "باش تا پردہ گشایم ز مقام دگری\nچہ دہم شرح نواہا کہ بچنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Await! And I will raise the veil, that other songs may thrill; what should I of such music tell the lute concealeth still?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نقش پرداز جھان چون بجنونم نگریست\nگفت ویرانہ بسودای تو تنگ است ہنوز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the world’s wondrous Artist viewed the madness in my brain, he cried, ‘Too mighty swells thy mood, this ruin to contain!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry."
+}

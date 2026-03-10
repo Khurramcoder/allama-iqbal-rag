@@ -1,0 +1,34 @@
+{
+  "id": "96",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو میگوئی کہ آدم خاکزاد است\nاسیر عالم کون و فساد است\nولی فطرت ز اعجازی کہ دارد\nبنای بحر بر جویش نہاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کہتا ہے کہ آدم خاک سے پیدا ہوا ہے اور اس جہان کا اسیر ہے جہاں (ہر طرف ) فتنہ و فساد ہے۔\nمگر فطرت نے اپنے اعجاز سے؛ اس سمندر کی بنیاد (آدم کی) ندی پر رکھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘A child of earth is Adam’, thou dost say. ‘Bond to the world of being and decay’; \nYet Nature wrought a miracle indeed – the seas foundations on his fount to lay!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

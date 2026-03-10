@@ -1,0 +1,97 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رومی بدلے، شامی بدلے، بدلا ہندستان \nتو بھی اے فرزند کہستاں! اپنی خودی پہچان \nاپنی خودی پہچان \nاو غافل افغان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Romans, Syrians, Hindus too have changed and made a great advance; O son of hills, discern your Self and sharpness of your Self enhance. O Afghan unaware, of your self take much care.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "موسم اچھا، پانی وافر، مٹی بھی زرخیز \nجس نے اپنا کھیت نہ سینچا، وہ کیسا دہقان \nاپنی خودی پہچان \nاو غافل افغان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If weather is fine, water quite enough and terrain fertile and plain, but peasant does not water fields, he is odd and can nothing gain. O Afghan unaware, of your self take much care.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اونچی جس کی لہر نہیں ہے، وہ کیسا دریاے \nجس کی ہوائیں تند نہیں ہیں، وہ کیسا طوفان \nاپنی خودی پہچان \nاو غافل افغان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That river has no weight at all whose billows do not swell and rise that tempest is too weak and low, whose gales by fury don't surprise. O Afghan unaware, of your Self take much care.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ڈھونڈ کے اپنی خاک میں جس نے پایا اپنا آپ \nاس بندے کی دہقانی پر سلطانی قربان \nاپنی خودی پہچان \nاو غافل افغان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A person, who stire up and down his clay, to Self can find a clue: Kings who possess vast, mighty states, can be ransomed for peasant true. O Afghan unaware, of your self take much care.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تیری بے علمی نے رکھ لی بے علموں کی لاج \nعالم فاضل بیچ رہے ہیں اپنا دین ایمان \nاپنی خودی پہچان \nاو غافل افغان",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Self-respect of unlettered men your ignorance has saved from harm though scholars and savants sell their Faith to keep their bellies warm. O Afghan unaware, of your self have much care.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

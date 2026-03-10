@@ -1,0 +1,34 @@
+{
+  "id": "104",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تراش از تیشۂ خود جادۂ خویش\nبراہ دیگران رفتن عذاب است\nگر از دست تو کار نادر آید\nگناہی ہم اگر باشد ثواب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنا راستہ اپنے تیشہ سے خود بنا ؛ دوسروں کے بنائے ہوئے راستے پر چلنا عذاب ہے۔\nاگر تیرے ہاتھ سے کوئی نادر کام ہو جائے ، اگر وہ گناہ ہے تو بھی تجھے اس کا ثواب مل جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Carve out your path with your own pick-axe; it is a torment to take the path of others. \nIf what you can do is unique, it will deserve a reward even if it is a sin.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

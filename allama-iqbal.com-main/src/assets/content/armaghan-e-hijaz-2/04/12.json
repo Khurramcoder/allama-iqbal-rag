@@ -1,0 +1,150 @@
+{
+  "id": "12",
+  "name": "بگو ابلیس را",
+  "name-en": "Speak to Satan",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بگو ابلیس را از من پیامی\nتپیدن تا کجا در زیر دامی\nمرا این خاکدانی خوش نیاید\nکہ صبحش نیست جز تمہید شامے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری طرف سے ابلیس کو یہ پیغام دو، تو جال کے نیچے کب تک تڑپتا رہے گا۔\nمجھے تو یہ دنیا پسند نہیں آئی، جس کی صبح ، تمہید شام کے سوائے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From me please give to Satan a message, How long be would like to fret in this cage.\nI like not this dust’s happiness brief, whose each dawn ends with the evening grief.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہان تا از عدم بیرون کشیدند\nضمیرش سرد و بے ہنگامہ دیدند\nبغیر از جان ما سوزی کجا بود\nترا از تش ما فریدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس دنیا کو عدم سے وجود میں لیے، تو اس کا ضمیر سرد اور ہنگاموں سے خالی تھا۔\nہماری جان کے سوائے اور کہیں سوز نہ تھا ، تجھے ہماری ہی آگ سے پیدا کیا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As long He made not this wide world anew, her conscience was cold, no uproars she knew.\nWhere was a burning without my being then, you too was born thus from my fire then.\n(Basic thought is that no storm could rage without my soul’s role.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جدائی شوق را روشن بصر کرد\nجدائی شوق را جویندہ تر کرد\nنمی دانم کہ احوال تو چون است\nمرا این ب و گل از من خبر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اللہ تعالے سے ) جدائی نے میرے شوق (محبت) کی آنکھیں روشن کر دی ہیں ، جدائی نے شوق کی جستجو اور بڑھا دی۔\nمجھے معلوم نہیں کہ تمہارا کیا حال ہے، مگر مجھے تو اس دنیا نے خود آگاہ بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The separation gave to zeal great spur, it gave to his passions a force and stir.\nOf thy own affairs though I have no ken, my heart made me conscious of my self then.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ترا از ستان خود براندند\nرجیم و کافر و طاغوت خواندند\nمن از صبح ازل در پیچ و تابم\nاز ن خاری کہ اندر دل نشاندند",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اللہ تعالے نے ) تجھے رائندہ ء درگاہ کر دیا، تجھے رجیم، کافر اور طاغوت کہا گیا۔\nمیں صبح ازل سے ( عشق الہی کے) اس کانٹے کے باعث پیچ و تاب کھا رہا ہوں، جو میرے دل کے اندر چبو دیا گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He drove thee out from the Heavens first, held thee accursed, kafir and rebel worst.\nFrom the first dawn I am writhing from prick, of thorn which you pricked with heart’s each tick.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تو می دانی صواب و ناصوابم\nنروید دانہ از کشت خرابم\nنکردی سجدہ و از دردمندی\nبخود گیری گناہ بے حسابم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اے ابلیس) تو میری نیکی یا برائی کو جانتا ہے، تجھے معلوم ہے کہ میری ویران کھیتی سے دانہ تک نہیں اگتا۔\nتو نے مجھے سجدہ نہ کر کے از رہ ہمدردی ، میرے بے حساب گناہوں کی ذمہ داری اپنے سر لے لی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My rights and the wrongs you already know, no harvest would grow in a waste land1so.\nYou made not a bow in a pathos vain, and took all the sins in a hard bargain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بیا تا نرد را شاہانہ بازیم\nجہان چار سو را درگدازیم \nبہ افسون ھنر از برگ کاہش\nبہشتی این سوی گردون بسازیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "آ! ہم شاہانہ انداز سے کھیل کھیل کر ، اس جہان چار سو (دنیا) میں گداز پیدا کر دیں۔ \nاور اپنی ہنرمندی کے افسوں سے دنیا کے برگ گاہ سے، آسمان کے اس جانب ایک نئی بہشت بنا لیں ( آدم اور ابلیس دونوں کو جنت سے نکال دیا گیا تھا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let us play chess like a royal game, to melt the world whole with mutual flame.\nUse thy own skill, may be a grain of sand, for a paradise true on every land.\n(Nard: Chess or chausar as invented/played first by Bazur Jamuhr of Persia.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

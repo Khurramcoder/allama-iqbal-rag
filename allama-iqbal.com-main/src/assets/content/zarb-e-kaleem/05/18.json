@@ -1,0 +1,68 @@
+{
+  "id": "18",
+  "name": "سلطانی جاوید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غواص تو فطرت نے بنایا ہے مجھے بھی \nلیکن مجھے اعماق سیاست سے ہے پرہیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اعماق: گہرائیاں ۔\nغواص: غور و خوض۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Nature has made me such that I too can dive, yet from statesmanship's core to keep aloof I strive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فطرت کو گوارا نہیں سلطانی جاوید \nہر چند کہ یہ شعبدہ بازی ہے دل آویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such kingship which e'er lasts, Nature can not desire, though this Talisman may please the heart of man entire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فرہاد کی خارا شکنی زندہ ہے اب تک \nباقی نہیں دنیا میں ملوکیت پرویز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خارا شکني: پتھر توڑنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cleaving rocks by Farhad in hearts is still distinct, but Empire of Pervez from mind is quite extinct.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Eternal Kingship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

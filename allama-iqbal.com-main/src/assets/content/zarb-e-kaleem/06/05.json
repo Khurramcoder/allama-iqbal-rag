@@ -1,0 +1,101 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ مدرسہ یہ کھیل یہ غوغائے روارو \nاس عیش فراواں میں ہے ہر لحظہ غم نو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In school the noise of games, debates, great stir and animation prevail; this abundant joy e'ery moment breeds new griefs and naught else can avail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ علم نہیں، زہر ہے احرار کے حق میں \nجس علم کا حاصل ہے جہاں میں دو کف جو",
+              "lang": "Original"
+            },
+            {
+              "_content": "دو کف جو: دو مٹھی جو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For men of free and noble birth such knowledge is a venom dread, which makes them earn some barley corn to fill their bellies with its bread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ناداں ! ادب و فلسفہ کچھ چیز نہیں ہے \nاسباب ہنر کے لیے لازم ہے تگ و دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تگ و دو: کوشش، محنت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O fool, great wisdom and book lore have not much worth nor carry weight: To learn a useful art one must put in much strife and struggle great.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فطرت کے نوامیس پہ غالب ہے ہنر مند \nشام اس کی ہے مانند سحر صاحب پرتو",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوامیس: ناموس کی جمع؛ مراد ہے قانون، قاعدے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man of skill controls the working of Nature, his nights are brighter than mornings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ صاحب فن چاہے تو فن کی برکت سے \nٹپکے بدن مہر سے شبنم کی طرح ضو!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ضو: روشنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If such a craftsman likes, with ease, by dint of skill and magic art, like dew, can make from mass of Sun, the rays of light proceed and dart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

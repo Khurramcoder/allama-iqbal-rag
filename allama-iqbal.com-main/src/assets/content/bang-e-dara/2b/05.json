@@ -1,0 +1,99 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2b",
+  "sectionName": "غزلیات 2",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یوں تو اے بزم جہاں! دلکش تھے ہنگامے ترے \nاک ذرا افسردگی تیرے تماشائوں میں تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O worldly congregation! Though your gatherings were attractive; some degree of melancholy there was in your spectacles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پا گئی آسودگی کوئے محبت میں وہ خاک \nمدتوں آوارہ جو حکمت کے صحرائوں میں تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکمت: فلسفہ۔\nآسودگي: آرام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Finally that dust acquired comfort in Love, which had been wandering long in Intellect's wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کس قدر اے مے! تجھے رسم حجاب آئی پسند \nپردہ انگور سے نکلی تو مینائوں میں تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Wine! How much enamored you were with the custom of concealment; after emerging from grape's veil you were concealed in the decanter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حسن کی تاثیر پر غالب نہ آ سکتا تھا علم \nاتنی نادانی جہاں کے سارے دانائوں میں تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Knowledge could not comprehend the Beauty's effect; so much ignorance prevailed in all the world's sages.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "میں نے اے اقبال یورپ میں اسے ڈھونڈا عبث \nبات جو ہندوستاں کے ماہ سیمائوں میں تھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ماہ سيمائوں: چاند جیسی پیشانی والے، مراد ہے حسین۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Iqbal! I have searched for it in Europe in vain; the characteristic which was in the beauties of India.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

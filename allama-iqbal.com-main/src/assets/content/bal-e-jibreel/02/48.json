@@ -1,0 +1,132 @@
+{
+  "id": "48",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ تخت و تاج میں، نے لشکر و سپاہ میں ہے \nجو بات مرد قلندر کی بارگاہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A monarch’s pomp and mighty arms can never give such glee, as can be felt in presence of a qalandar bold and free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "صنم کدہ ہے جہاں اور مرد حق ہے خلیل \nیہ نکتہ وہ ہے کہ پوشیدہ لاالہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is like an idol house, God’s Friend, a person free: No doubt, this subtle point is hid in words, No god but He.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہی جہاں ہے ترا جس کو تو کرے پیدا \nیہ سنگ و خشت نہیں، جو تری نگاہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنگ و خشت: اینٹ اور پتھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world that you with effort make to you belongs alone: The world of brick and stone you see, you cannot call your own.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مہ و ستارہ سے آگے مقام ہے جس کا \nوہ مشت خاک ابھی آوارگان راہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The clay-made man is still among the vagrants on the road, though man beyond the moon and stars can find his true abode.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خبر ملی ہے خدایان بحر و بر سے مجھے \nفرنگ رہ گزر سیل بے پناہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہ گزر سيل: سیلاب کی راہ میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This news I have received from those who rule the sea and land, that Europe lies on course of flood ’gainst which no one can stand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تلاش اس کی فضاوں میں کر نصیب اپنا \nجہان تازہ مری آہ صبح گاہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A world there is quite fresh and new in sighs at morn I have: Your portion seek within its tracts, thus goal and aim achieve.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مرے کدو کو غنیمت سمجھ کہ بادہ ناب \nنہ مدرسے میں ہے باقی نہ خانقاہ میں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بادہ ناب: خالص شراب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Count my gourd an immense gain, for pure and sparkling wine no more the seats of learning store nor sells the Sacred Shrine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

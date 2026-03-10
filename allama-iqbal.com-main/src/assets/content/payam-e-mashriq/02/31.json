@@ -1,0 +1,114 @@
+{
+  "id": "31",
+  "name": "جہان عمل",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہست این میکدہ و دعوت عام است اینجا\nقسمت بادہ بہ اندازۂ جام است اینجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world is a free tavern, and to all who come to it wine is served in accordance with their bowl’s capacity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حرف آن راز کہ بیگانۂ صوت است ہنوز\nاز لب جام چکید است و کلام است اینجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret that has not yet been expressed in words has been expressed here in wine’s over-brimming character.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نشہ از حال بگیرند و گذشتند ز قال\nنکتۂ فلسفہ درد تہ جام است اینجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who come here get drunk with action and not with mere words. Dregs at the bottom of life’s cup is mere philosophy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ما درین رہ نفس دھر برانداختہ ایم\nآفتاب سحر او لب بام است اینجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have endeavoured hard to make life take to action’s path, and now its morning’s sun is near the margin of the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے کہ تو پاس غلط کردۂ خود میدارے\nآنچہ پیش تو سکون است خرام است اینجا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who try to be consistent with your past mistakes, whatever you regard as rest is here mobility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ما کہ اندر طلب از خانہ برون تاختہ ایم\nعلم را جان بدمیدیم و عمل ساختہ ایم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We who have come out to pursue the path of seeking have converted knowledge into action and thus made it live.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The World Of Action",
+  "credits": "English Translation by: M. Hadi Husain"
+}

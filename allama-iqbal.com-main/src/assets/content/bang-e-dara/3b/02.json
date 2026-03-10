@@ -1,0 +1,113 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ سرود قمری و بلبل فریب گوش ہے \nباطن ہنگامہ آباد چمن خاموش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These songs of turtle doves and nightingales are merely ear’s illusion\nBehind this uproar the world of the garden is silent",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تیرے پیمانوں کا ہے یہ اے مےء مغرب اثر \nخندہ زن ساقی ہے، ساری انجمن بے ہوش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "O Western wine the effect of your goblets is only this\nThat cup‐bearer is laughing and the entire assembly is unconscious"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دہر کے غم خانے میں تیرا پتا ملتا نہیں \nجرم تھا کیا آفرینش بھی کہ تو روپوش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "In the world’s sorrowful house you are not traceable\nWas creation also a crime so Your nature is concealed?"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آہ! دنیا دل سمجھتی ہے جسے، وہ دل نہیں \nپہلوئے انساں میں اک ہنگامہء خاموش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Ah! What the world considers heart is notheart\nIn the human breast this is a silent tumult"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زندگی کی رہ میں چل، لیکن ذرا بچ بچ کے چل \nیہ سمجھ لے کوئی مینا خانہ بار دوش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Walk on the path of life but walk carefully\nUnderstand that some glass work is on your shoulders"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جس کے دم سے دلی و لاہور ہم پہلو ہوئے \nآہ، اے اقبال وہ بلبل بھی اب خاموش ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Through whom Delhi and Lahore were drawn together\nAh! Iqbal that nightingale is silent now."
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

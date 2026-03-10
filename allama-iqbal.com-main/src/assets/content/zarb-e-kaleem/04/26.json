@@ -1,0 +1,85 @@
+{
+  "id": "26",
+  "name": "مرزا بیدل",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے حقیقت یا مری چشم غلط بیں کا فساد \nیہ زمیں، یہ دشت، یہ کہسار، یہ چرخ کبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرخ کبود: نیلا آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is it a fact or delusion mere which has been caused by erring eye do earth, hills, deserts vast exist, and is there any azure sky?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کوئی کہتا ہے نہیں ہے، کوئی کہتاہے کہ ہے \nکیا خبر، ہے یا نہیں ہے تیری دنیا کا وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some aver that they do exist, whereas some call their being untrue O God, it is very hard to find to truth or falsehood certain clue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میرزا بیدل نے کس خوبی سے کھولی یہ گرہ \nاہل حکمت پر بہت مشکل رہی جس کی کشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشود: کھولنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bedil resolved this tangled knot with so much skill and manner nice, though sages and wise men or the past to undo this skein had no device.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل اگر میداشت وسعت بے نشاں بود ایں چمن\nرنگ مے بیروں نشست از بسکہ مینا تنگ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر دل میں زیادہ سے زیادہ کشادگی اور وسعت ہوتی تو اس باغ کا کوئی نشان نہ ملتا۔ مصیبت یہ ہے کہ دل میں کافی وسعت اور کشادگی موجود نہ تھی۔ (اس کی مثال یوں سمجھو کہ صراحی تنگ تھی جب اس میں شراب ڈالی گئی تو رنگ نکل کر باہر بیٹھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘If heart of man were vast enough, this mead would have retained no trace some wine has overflowed the brim, because the flask had narrow space.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mirza Bedil",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

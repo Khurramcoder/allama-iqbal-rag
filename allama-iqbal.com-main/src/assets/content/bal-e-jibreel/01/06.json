@@ -1,0 +1,115 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پریشاں ہوکے میری خاک آخر دل نہ بن جائے \nجو مشکل اب ہے یارب پھر وہی مشکل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My scattered dust charged with Love the shape of heart may take at last: O God, the grief that bowed me then, may press me down as in the past!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ کر دیں مجھ کو مجبور نوا فردوس میں حوریں \nمرا سوز دروں پھر گرمی محفل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Maids of Eden by their charm may arouse my urge for song: The flame of Love that burns in me, may fire the zeal of Celestial Throng!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کبھی چھوڑی ہوئی منزل بھی یاد آتی ہے راہی کو \nکھٹک سی ہے، جو سینے میں، غم منزل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pilgrim’s mind can dwell at times on spots and stages left behind: My heed for spots and places crossed, from the Quest may turn my mind!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بنایا عشق نے دریائے ناپیدا کراں مجھ کو \nیہ میری خود نگہداری مرا ساحل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ناپیدا کراں: جس کا کنارہ نظر نہ آئے ۔\nخود نگہداری: اپنے آپ کو نگاہ میں رکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the mighty force of Love I am turned to Boundless Deep: I fear that my self-regard, me, for aye, on shore may keep!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہیں اس عالم بے رنگ و بو میں بھی طلب میری \nوہی افسانہ دنبالہ محمل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنبالہ: پشت ّ پیچھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My hectic search for aim and end, in life that smell and hue doth lack, may get renown like lover’s tale, who riding went on litter’s track!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عروج آدم خاکی سے انجم سہمے جاتے ہیں \nکہ یہ ٹوٹا ہوا تارا مہ کامل نہ بن جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rise of clay-born man hath smit the hosts of heaven with utter fright: They dread that this fallen star to moon may wax with fuller light.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

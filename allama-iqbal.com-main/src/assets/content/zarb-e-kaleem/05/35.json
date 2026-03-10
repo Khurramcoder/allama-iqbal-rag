@@ -1,0 +1,34 @@
+{
+  "id": "35",
+  "name": "نفسیات حاکمی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ مہر ہے بے مہری صیاد کا پردہ \nآئی نہ مرے کام مری تازہ صفیری \nرکھنے لگا مرجھائے ہوئے پھول قفس میں \nشاید کہ اسیروں کو گوارا ہو اسیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This outward show of love so great is guise to hide the hunter's hate: New songs for rescue that I sang against their stone deaf ears didn't I bang.\nBegan to place in jail-like cage, such blossoms that had dried with age in mind he had this idea wrong that prey might 'stay in cage for long.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Psychology Of Sovereignty",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

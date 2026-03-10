@@ -1,0 +1,145 @@
+{
+  "id": "38",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان کورست و از آئینۂ دل غافل افتاد است\nولی چشمی کہ بینا شد نگاہش بر دل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world had lost its sight and the glass of the heart forsook, but an eye now sees the light that into the heart can look.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شب تاریک و راہ پیچ پیچ و بی یقین راہی\nدلیل کاروان را مشکل اندر مشکل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dark is the night, twists the road, all faithless the wayfarers; and the caravan’s guide what load of problems oppressive bears!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "رقیب خام سودا مست و عاشق مست و قاصد مست\nکہ حرف دلبران دارای چندین محمل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Raqib-e-khaam souda must-o-ashiq must-o-qasid must; Drunk are the feckless spy, the lover, the messenger; so the words of the sweethearts lie in how many loads to wear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یقین مومنی دارد گمان کافری دارد\nچہ تدبیر اے مسلمانان کہ کارم با دل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its faith of believer true, its doubt of the infidel – O Muslims, what shall I do with the heart that in me doth dwell?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گہی باشد کہ کار ناخدائی میکند طوفان\nکہ از طغیان موجی کشتیم بر ساحل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes the helmsman’s skill the storm doth display, and more! Lo, the waves, impetuous will hath cast our craft on the shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نمیدانم کہ داد این چشم بینا موج دریا را\nگہر در سینۂ دریا خزف بر ساحل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who fashioned these seeing eyes in the wave, far in ocean lost, that the pearl in the sea’s heart lies, and the potsherd breaks on the coast?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نصیبی نیست از سوز درونم مرز و بومم را\nزدم اکسیر را بر خاک صحرا باطل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No part of my soul’s unrest hath stirred in my Native land; with my magic I tried my best, it was lost on the desert sand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اگر در دل جھانی تازہ ئی داری برون آور\nکہ افرنگ از جراحتہای پنہان بسمل افتاد است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a New World thou hast in thy bosom, declare thy faith! Wounded in heart and breast, Europe is nigh to death.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry."
+}

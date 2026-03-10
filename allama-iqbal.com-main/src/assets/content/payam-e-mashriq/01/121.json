@@ -1,0 +1,34 @@
+{
+  "id": "121",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہانہا روید از مشت گل من\nبیا سرمایہ گیر از حاصل من\nغلط کردی رہ سر منزل دوست\nدمی گم شو بہ صحرای دل من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک بدن سے کئی جہان پیدا ہوتے ہیں، آ تو بھی میرے (کھیت کے) حاصل سے کچھ فائدہ اٹھا۔\nتو دوست (اللہ تعالے) کی منزل کا راستہ بھلا چکا ہے، میرے دل کے صحرا میں ایک لمحہ کے لیے گم ہو جا (تاکہ تجھے راہنمائی حاصل ہو)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Worlds spring like grain from my handful of clay.come share my harvest. \nThough you went astray from the highway that leads to God, yet come; you may find Him in my heart’s wilderness.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

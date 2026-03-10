@@ -1,0 +1,136 @@
+{
+  "id": "26",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شراب میکدۂ من نہ یادگار جم است\nفشردۂ جگر من بہ شیشۂ عجم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے میکدے کی شراب 'جمشید' کی یادگار نہیں ( میری شاعری رسمی نہیں )، میں نے تو عجم کے جام میں اپنا جگر نچوڑ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No Jamshid’s memory, the wine that fioweth in this inn of mine, it is the pressing of my soul that sparkleth in my Persian bowl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چو موج می تپد آدم بہ جستجوی وجود\nہنوز تا بہ کمر در میانۂ عدم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم اپنے وجود کی جستجو میں موج کی طرح بیتاب ہے، مگر ابھی تک عدم ہی میں پڑا ہے (اپنے وجود کو پانے کی کوشش میں کامیاب نہیں ہوا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man like a billow quivereth in eager quest of Being’s breath, while yet his arrow lies encased about annihilation’s waist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیا کہ مثل خلیل این طلسم در شکنیم\nکہ جز تو ہر چہ درین دیر دیدہ ام صنم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ خلیل اللہ (علیہ) کی طرح ہم اس طلسم کو توڑ دیں، (کیونکہ) تیرے سوائے جہاں میں جو کچھ ہے محض صنم (باطل) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, let us shatter (for we can) like Abraham this talisman; within the temple, idols be whatever I have seen, but thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگر بہ سینۂ این کائنات در نروی\nنگاہ را بہ تماشا گذاشتن ستم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو کائنات کے سینے کے اندر داخل نہ ہو سکے، تو پھر نگاہ کو اسے دیکھنے کے لیے چھوڑ دینا ستم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Until thou deeply enterest the very heart in Being’s breast, to leave the gaze to speculate is wickedness, and sin most great.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غلط خرامی ما نیز لذتے دارد\nخوشم کہ منزل ما دور و راہ خم بخم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری لغزشیں بھی ایک لذّت رکھتی ہیں، میں خوش ہوں کہ منزل دور ہے اور راہ پیچ در پیچ (اور لغزشوں کے امکانات بہت)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To wander idly, without guide, peculiar pleasure is, beside; happy am I, that our abode is far, and ever winds the road.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تغافلی کہ مرا رخصت تماشا داد\nتغافل است بہ از التفات دمبدم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "(محبوب کا) وہ تغافل جس نے مجھے ( اس کے جمال کے ) نظارے کا موقع فراہم کیا، ہے تو تغافل لیکن التفات پیہم سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The casual glance that gave to me the leave to wander, and to see, ‘Twas better far, that casual glance, than rapt attention to my chance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مرا اگرچہ بہ بتخانہ پرورش دادند\nچکید از لب من آنچہ در دل حرم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "گرچہ میری پرورش بتخانے میں ہوئی ہے، مگر میں نے اپنے لب سے وہی بات کہی ہے جو حرم کے دل میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though I was nourished all my days where infidel to idol prays, behold, my opened lips impart the secret of the Kaaba’s heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

@@ -1,0 +1,100 @@
+{
+  "id": "23",
+  "name": "مدرسہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عصر حاضر ملک الموت ہے تیرا، جس نے \nقبض کی روح تری دے کے تجھے فکر معاش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tile present age, your constant foe, like Ezrail has snatched your soul you have imbibed much care and grief pursuit of wealth your only goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل لرزتا ہے حریفانہ کشاکش سے ترا \nزندگی موت ہے، کھو دیتی ہے جب ذوق خراش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق خراش: تکلیف برداشت کرنے کی لذت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When faced by rivals strong and brave: your heart beats fast and shakes with fear: Such life is naught but Death, in fact, when blows of life you can not.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس جنوں سے تجھے تعلیم نے بیگانہ کیا \nجو یہ کہتا تھا خرد سے کہ بہانے نہ تراش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The knowledge that this age imparts hs made forget you craze and zest, which bade the mind to keep away from pretexts that on truth didn't rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فیض فطرت نے تجھے دیدہ شاہیں بخشا \nجس میں رکھ دی ہے غلامی نے نگاہ خفاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "خفاش: چمگادڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With free hand Nature has bestowed on you the eyes of hawk so keen; but bondage has replaced them with the eyes, of bat, devoid of sheen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مدرسے نے تری آنکھوں سے چھپایا جن کو \nخلوت کوہ و بیاباں میں وہ اسرار ہیں فاش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The things on which schools throw no light and keep them from your eyes concealed, go to retreats of mount and waste and get them by some Guide revealed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The School",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

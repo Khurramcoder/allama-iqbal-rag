@@ -1,0 +1,103 @@
+{
+  "id": "22",
+  "name": "قندہار و زیارت خرقہ مبارک",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قندہار آن کشور مینو سواد\nاہل دل را خاک او خاک مراد",
+              "lang": "Original"
+            },
+            {
+              "_content": "قندھار بہشت صورت علاقہ ہے اس کی خاک اہل دل کے لئے خاک مراد کا درجہ رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Qandhar, that place of paradisiac charm, its dust the heart’s desire of men of heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رنگ ہا، بوہا، ہواہا، آب ہا\nآب ہا تابندہ چون سیماب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس علاقہ میں رنگوں ، خوشبوؤں، ہواؤں اور چشموں کی فراوانی ہے اس کا پانی پارے کی طرح چمکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These hues, scents, waters! These waters glittering like mercury!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لالہ ھا در خلوت کہسار ہا\nنارھا یخ بستہ اندر نارہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ کے پھول اس کے پہاڑوں کی خلوت میں کثرت سے کھلے ہوئے ہیں۔ انار کے دانے ایسے سرخ ہیں گویا وہ یخ بستہ آگ ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulips in the coign of the mountains; fires frozen within pomegranates.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کوی آن شہر است ما را کوی دوست\nساربان بر بند محمل سوی دوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس شہر کا کوچہ ہمارے لئے محبوب کا کوچہ ہے۔ اے سارباں محبوب کی طرف چلنے کیلئے اونٹ پر حمل باندھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its streets the streets of the friend for us, O camel-driver, set the litter for the beautiful one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "می سرایم دیگر از یاران نجد\nاز نوائی، ناقہ را آرم بہ وجد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں پھر یاران نجد کے نغمے گا اہوں اور ان نغموں سے اونٹنی کو وجد میں لاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I sing again of the mates of Najd and bring the dromedary into ecstasy with my chant.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Seeing Prophet’s Garb At Qandhar",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

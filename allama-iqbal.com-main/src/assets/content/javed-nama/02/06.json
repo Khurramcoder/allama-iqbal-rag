@@ -1,0 +1,551 @@
+{
+  "id": "06",
+  "name": "حرکت بہ وادی یرغمید کہ ملائکہ او را وادی طواسین می نامند",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "name-en": "Departure For The Valley Of Yarghamid, Called By The Angels The Valley Of Tawasin",
+  "name-ur": "وادی یرغمید کی طرف جانا جسے ملائکہ وادی طواسین کہتے ہیں۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رومی آن عشق و محبت را دلیل\nتشنہ کامان را کلامش سلسبیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی جو عشق و محبت کا رہنما ہے؛ جس کا کلام پیاسوں کے لیے سلسبیل (جنت کا چشمہ) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi, that guide to passion and love whose words are as Salsabil to throats athirst,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفت \"آن شعری کہ آتش اندروست\nاصل او از گرمی اﷲ ہوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا جس شعر میں سوز ہے، اس کا اصل اللہ ہو کی حرارت سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Said, ‘The poetry in which there is fire originates from the heat of ‘He is God!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آن نوا گلشن کند خاشاک را\nآن نوا برھم زند افلاک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا شعر خس و خاشاک کو گلشن بنا دیتا ؛ اور افلاک کو درہم برہم کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That chant transforms rubbish into a rose-garden, that chant throws into confusion the spheres;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آن نوا بر حق گواہی میدہد\nبا فقیران پادشاہی میدہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا شعر صداقت پر گواہی دیتا ہے، اور فقیروں کو پادشاہی عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That chant bears testimony to the Truth, bestows on beggars the rank of kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خون ازو اندر بدن سیار تر\nقلب از روح الامین بیدار تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے بدن کے اندر خون کی گردش تیز تر ہو جاتی ہے اور قلب روح الامین سے زیادہ بیدار ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through it the blood courses swifter in the body, the heart grows more aware of the Trusty Spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے بسا شاعر کہ از سحر ہنر\nرہزن قلب است و ابلیس نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن بہت سے شعر صرف ہنر کے جادو سے قلب کے رہزن اور نظر کے ابلیس بن جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many a poet through the magic of his art is a highwayman of hearts, a devil of the glance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شاعر ہندی خدایش یار باد\nجان او بے لذت گفتار باد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندی شاعر اللہ تعالے اسے ہدایت دے؛ اس کی روح لذت گفتار کے بغیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet of India-God help him, and may his soul lack the joy of speech!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عشق را خنیاگری آموختہ\nبا خلیلان آزری آموختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے عشق کو راگ و رنگ اور خلیلوں کو آذری سکھا دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has taught love to become a minstrel, taught the friends of God the art of Azar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "حرف او چاویدہ و بے سوز و درد\nمرد خوانند اھل درد او را نہ مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے الفاظ مترنم ہیں لیکن سوز و درد سے خالی؛ اہل دل اسے مرد نہیں بلکہ نامرد سمجھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His words are a sparrow’s chirp, no ardour or anguish; the people of passion call him a corpse, not a man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "زان نوای خوش کہ نشناسد مقام\nخوشتر آن حرفی کہ گوئی در منام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پسندیدہ آواز سے جو راگ کے زیر و بم سے بے بہرہ ہے، نیند میں بڑبڑانا بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sweeter than that sweet chant which knows no mode are the words which you utter in a dream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "فطرت شاعر سراپا جستجوست\nخالق و پروردگار آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر کی فطرت سراپا جستجو ہے؛ وہ آرزو کا خالق بھی ہے اور اس کی پرورش کرنے والا بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet’s nature is all searching, creator and nourisher of desire;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "شاعر اندر سینۂ ملت چو دل\nملتی بے شاعری انبار گل",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر قوم کے سینے میں دل کی مانند ہے؛ شاعر کے بغیر ملّت محض مٹی کا انبار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet is like the heart in a people’s breast, a people without a poet is a mere heap of clay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "سوز و مستی نقشبند عالمے است\nشاعری بے سوز و مستی ماتمی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوز و مستی نئے عالم کے نقوش مرتّب کرتی ہے؛ سوز و مستی کے بغیر شاعری سوائے رونے دھونے کے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ardour and drunkenness embroider a world; poetry without ardour and drunkenness is a dirge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "شعر را مقصود اگر آدم گری است\nشاعری ہم وارث پیغمبری است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر شعر کا مقصد شخصیت کی تعمیر ہے؛ تو شاعری پیغمبری کی وارث ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the purpose of poetry is the fashioning of men, poetry is likewise the heir of prophecy.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "گفتم از پیغمبری ہم باز گوی\nسر او با مرد محرم باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کہا پیغمبری کے بارے میں فرمائیے ؛ اس محرم راز سے اس کا راز بیان کیجئیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘Speak again also of prophecy, speak again its secret to your confidant.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گفت \"اقوام و ملل آیات اوست\nعصر ہای ما ز مخلوقات اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا: 'قومیں اور ملتیں پیغمبری کی آیات میں سے ہیں؛ ہمارے زمانے پیغمبروں ہی کی تخلیق ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘Peoples and nations are his signs, our centuries are things of his creation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "از دم او ناطق آمد سنگ و خشت\nما ہمہ مانند حاصل، او چو کشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی پھونک سے کنکریاں بولنے لگتی ہیں؛ پیغمبری کھیت اور ہم اس کا حاصل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His breath makes stones and bricks to speak; we all are as the harvest, he the sown field.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "پاک سازد استخوان و ریشہ را\nبال جبریلی دہد اندیشہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہڈیوں اور اعصاب کو پاکیزہ بنا دیتا ہے؛ اور فکر کو پرواز جبریل (علیہ) عطا کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He purifies the bones and fibres, gives to the thoughts the wings of Gabriel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہاے و ہوی اندرون کائنات\nاز لب او نجم و نور و نازعات",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کائنات کے اندر ہنگامہ پیدا کرتا ہے، اس کی زبان سے نجم، نوراور نازعات جیسی سورتیں صادر ہوتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mutterings within the hearts of creatures upon his lip become Star, Light, and Pluckers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "آفتابش را زوالی نیست نیست\nمنکر او را کمالی نیست نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیغمبر (کی تعلیم کے) آفتاب کو زوال ہرگز نہیں ؛ جو شخص رسالت کا منکر ہے وہ کبھی اپنی تکمیل نہیں کر سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To his sun there is no setting, none; to his denier never shall come perfection.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "رحمت حق صحبت احرار او\nقہر یزدان ضربت کرار او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے متبعین کی صحبت اللہ تعالے کی رحمت کا سبب بنتی ہے؛ اور اس کے کرّار (حضرت علی رحمتہ ) کی ضرب اللہ تعالے کا قہر لاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God’s compassion is the company of his freemen, the wrath of God is his impetuous blow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "گرچہ باشے عقل کل از وی مرم\nزانکہ او بیند تن و جان را بہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو عقل کل بھی ہو پھر بھی پیغمبر سے دور نہ بھاگ کیونکہ وہ روح و بدن (دین و دنیا) کو اکٹھا رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be you Universal Reason itself, flee not from him, for he beholds both body and soul together.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تیز تر نہ پا بہ را یرغمید\nتا ببینی آنچہ می بایست دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "یرغمید کے راستے میں تیز تیز چل تاکہ تو قابل دید (نظارے) دیکھ سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stride then more nimbly on the road to Yarghamid that you may see that which must be seen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "کندہ بر دیواری از سنگ قمر\nچار طاسین نبوت را نگر\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنگ قمر سے بنائی ہوئی دیوار پر چار طواسین نبوّت کندہ دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Engraved upon a wall of moonstone behold the four Tasins of prophecy.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "شوق راہ خویش داند بے دلیل\nشوق پروازی ببال جبرئیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "شوق بغیر راہبر کے راستہ دیکھ لیتا ہے؛ بال جبریل کے لیے شوق پرواز بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yearning knows its own way without a guide, the yearning to fly with the wings of Gabriel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "شوق را راہ دراز آمد دو گام\nاین مسافر خستہ گردد از مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "شوق کے لیے طویل سفر دو قدموں سے زیادہ نہیں ؛ مسافر شوق قیام سے تنگ آ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For yearning the long road becomes two steps, such a traveller wearies of standing still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "پا زدم مستانہ سوی یرغمید\nتا بلندیہای او آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یرغمید کی جانب مستانہ وار روانہ ہوا؛ یہاں تک کہ اس کی بلندیاں نظر آنے لگیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As if drunk I strode out towards Yarghamid until at last its heights became visible.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "من چہ گویم از شکوہ آن مقام\nہفت کوکب در طواف او مدام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس مقام کی شان و شوکت کیا بیان کروں ؛ سات ستارے ہر وقت اس کے طواف میں رہتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What shall I say of the splendour of that station? Seven stars circle about it unceasingly;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "فرشیان از نور او روشن ضمیر\nعرشیان از سرمۂ خاکش بصیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نور سے اہل زمین روشن ضمیر تھے اور اس کی خاک کے سرمہ سے فرشتے بصیرت حاصل کرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Carpet-angels are inly lit by its light, its dust’s collyrium brightens the eyes of the Throne-angels.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "حق مرا چشم و دل و گفتار داد\nجستجوی عالم اسرار داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آلّہ تعالے نے مجھے آنکھ، دل اور طاقت گفتار اور عالم اسرار کی جستجو عطا فرمائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God gave to me sight, heart and speech, gave me the urge to search for the world of secrets;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "پردہ را بر گیرم از اسرار کل\nبا تو گویم از طواسین رسل",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اسرار کل سے پردے اٹھاتا ہوں اور تجھ سے رسولوں کے طواسین کی بات کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now I will unveil the mysteries of the universe, I will tell you of the Tawasin of the Apostles.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ]
+}

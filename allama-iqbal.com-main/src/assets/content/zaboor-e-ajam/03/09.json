@@ -1,0 +1,501 @@
+{
+  "id": "09",
+  "name": "سوال ہشتم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کدامی نکتہ را نطق است اناالحق\nچہ گوئی ھرزہ بود آن ٓرمز مطلق",
+              "lang": "Original"
+            },
+            {
+              "_content": "'اناالحق' کس نکتے کو بیان کرتا ہے؟ کیا تو کہتا ہے کہ یہ رمز مطلق محمل ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What point does the aphorism ‘I am the Truth’ imply? Do you think that this mystery was mere nonsense?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من از رمز اناالحق باز گویم\nو گر با ہند و ایران راز گویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اناالحق کی رمز پھر سے بیان کرتا ہوں ، ہند اور ایران کے سامنے دوبارہ یہ راز کھولتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am once again going to explain the mystery of ‘I am the Truth’. Before India and Iran I am unfolding a secret again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مغی در حلقۂ دیر این سخن گفت\nحیات از خود فریبی خورد و من گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک پیر مغاں نے حلقہء دیر میں یہ بات کہی ، 'حیات نے اپنے آپ سے فریب کھایا اور 'میں ' کہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Magi in the circle of his followers said: ‘Life was taken in by itself and uttered ‘I’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خدا خفت و وجود ما ز خوابش\nوجود ما نمود ما ز خوابش",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدا سو گیا (استغفر الّہ) ہمارا وجود بھی اس کا خواب اور ہماری نمود بھی اس کا خواب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God went to sleep and our being is through His dream; our existence and appearance are merely His dreams.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مقام تحت وفوق و چار سو خواب\nسکون و سیر و شوق و جستجو خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "نیچے اوپر اور چارسو (اطراف و جہات) خواب ہیں، سکون و حرکت اور جذبہ ء شوق و جستجو سب خواب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Down and above, all four dimensions are illusions, rest and motion, desire and search are all illusions!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دل بیدار و عقل نکتہ بین خواب\nگمان و فکر و تصدیق و یقین خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل بیدار ہو یا عقل نکتہ بیں ، سب خواب ہیں ، گماں، فکر ، تصدیق، یقین؛ سب خواب ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wakeful heart and wise intellect, a dream; dread and anxiety, certainty and belief, a dream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ترا این چشم بیداری بخواب است\nترا گفتار و کرداری بخواب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری یہ چشم بیدار بھی خواب ہے، تیری گفتار و کردار بھی خواب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your wakeful eye is in reality in a state of dream, your speech and action are all in a dream!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چو او بیدار گردد دیگری نیست\nمتاع شوق را سوداگری نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ بیدار ہو تو کوئی اور باقی نہیں، متاع شوق کا کوئی خریدار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When He wakes up, nothing else remains; there is no customer for the merchandise of yearning.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "فروغ دانش ما از قیاس است\nقیاس ما ز تقدیر حواس است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری عقل قیاس سے بڑھتی ہے، اور ہمارا قیاس ہمارے ہواس خمسہ پر مبنی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The development of our intellect is through reasoning; our reasoning depends upon the nature of the senses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چو حس دیگر شد این عالم دگر شد\nسکون و سیر و کیف و کم دگر شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب حس بدل جائے تو دنیا بدل جاتی ہے، اس کے سکون، حرکت، اور کمی بیشی میں فرق آ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When sense changes, this world becomes different: Rest and motion, quality and quantity are changed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "توان گفتن جہان رنگ و بو نیست\nزمین و آسمان و کاخ و کو نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کہہ سکتے ہیں کہ جہان رنگ و بو نہیں ہے ، نہ زمین و آسمان ہیں اور نہ محل و گلی کوچے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It can be said that the world of colour and smell is non-existent, earth and sky, house and street, are nothing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "توان گفتن کہ خوابی یا فسونی است\nحجاب چہرہ آن بی چگونی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہا جا سکتا ہے کہ جہان خواب یا افسوں ہے، یہ بھی کہا جا سکتا ہے کہ یہ اس بے چگون (ذات باری تعالے) کے چہرے کا نقاب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It can be said that all these are dreams or illusions, or veils over the countenance of the Divine Person.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "توان گفتن ہمہ نیرنگ ہوش است\nفریب پردہ ہای چشم و گوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بھی کہا جا سکتا ہے کہ یہ سب ہوش کا طلسم ہے، اور چشم و گوش (دید و شنید) کے پردوں کا فریب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It can be said that all is sorcery of the senses, a deception produced by our eyes and ears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خودی از کائنات رنگ و بو نیست\nحواس ما میان ما و او نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر خودی کا تعلق اس کائنات کے رنگ و بو سے نہیں، ہمارے اور اس کے درمیان ہو اس کا تعلق بھی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the ego does not belong to the universe of colour and smell; our senses do not intervene between us and it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "نگہ را در حریمش نیست راہی\nکنی خود را تماشا بی نگاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے حریم میں ظاہری نگاہ کا گذر نہیں، تو بغیر نگاہ کے اس کا نظارہ کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eyesight has no access to its sacred precincts; you can see ‘self’ without eyesight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "حساب روزش از دور فلک نیست\nبخود بینی ظن و تخمین و شک نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کے زمان کا حساب گردش افلاک سے نہیں ، جب تو خود اپنی خودی کو دیکھ رہا ہو تو اس میں ظن و تخمین اور شک و شبہ کہاں باقی رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The calculation of its days is not through the revolution of the sky; if you look within, there is no doubt or misgiving about it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اگر کوئی کہ من وہم و گمان است\nنمودش چون نمود این و آن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو کہے کہ 'میں' وہم و گمان ہے، 'میں' کی نمود بھی این و آں کی نمود کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you say that the ‘I’ is a mere illusion: An appearance among other appearances.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بگو با من کہ دارای گمان کیست\nیکی در خود نگر آن بی نشان کیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر مجھے بتا کہ گمان کرنے والا کون ہے، ذرا اپنے اندر نظر ڈال کر مجھے بتا کہ وہ بے نشان کون ہے؟ (جو اپنے اندر گماں پیدا کر رہا ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then tell me who is the subject of this illusion; look within and discover.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "جہان پیدا و محتاج دلیلی\nنمیآید بہ فکر جبرئیلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں اگرچہ ظاہر ہے مگر پھر بھی معاملات دنیا میں دلیل سے کام چلتا ہے، اور دلیل کا یہ سلسلہ فکر جبریل (علیہ) میں بھی نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world is visible, yet its existence needs proof! Not even the intellect of an angel can comprehend it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "خودی پنہان ز حجت بی نیاز است\nیکی اندیش و دریاب این چہ رازست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر خودی پنہاں ہونے کے باوجود دلیل کی محتاج نہیں، ذرا سوچ اور سمجھ کہ یہ کیا راز ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘I’ is invisible and needs no proof: Think awhile and see thine own secret!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "خودی را حق بدان باطل مپندار\nخودی را کشت بی حاصل مپندار",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کو حق سمجھ ، اسے باطل گمان نہ کر ، نہ اسے کشت بے حاصل (بے مقصد) خیال کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘I’ is Truth, it is no illusion; don’t look upon it as a fruitless field.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "خودی چون پختہ گردد لازوالست\nفراق عاشقان عین وصالست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی جب پختہ ہو جائے تو پھر وہ ہمیشہ باقی رہتی ہے، عشاق کا فراق ہی عین وصال ہے، (فراق سے عشق پختہ ہوتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it ripens, it becomes eternal! Lovers, even though separated from the Beloved, live in blissful union!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "شرر را تیز بالی میتوان داد\nتپید لایزالی میتوان داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرر کو پرواز تیز اور ہمیشہ کی چمک بھی عطا ہو سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is possible to give wings to a mere spark, and to make it flutter for ever and for ever!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "دوام حق جزای کار او نیست\nکہ او را این دوام از جستجو نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا دوام اس کی کوشش کا نتیجہ نہیں، اس نے یہ دوام جستجو سے نہیں پایا ۔ (وہ از خود الحی اور القیوم ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Eternity of God is (elemental and) not the reward of His action! For His eternity is not through seeking.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "دوام آن بہ کہ جان مستعاری\nشود از عشق و مستی پایداری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا دوام اس لحاظ سے قابل تعریف ہے ، کہ یہ جان مستعار اللہ تعالے کے عشق اور اس کی مستی کے ذریعے پائیداری حاصل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That eternity is superior, which a borrowed soul wins for herself by love’s frenzy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "وجود کوہسار و دشت و در ہیچ\nجہان فانی خودی باقی دگر ہیچ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہسار اور دشت و در کا وجود کچھ نہیں، جہان فانی ہے ، صرف خودی کو بقا ہے، باقی کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The being of mountains and deserts and cities is nothing, the universe is mortal, the ego immortal and nothing else matters.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "دگر از شنکر و منصور کم گوی\nخدا را ھم براہ خویشتن جوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب شنکر اور منصور کی بات نہ کر ، اللہ تعالے کو بھی اپنے آپ کے ذریعے ڈھونڈ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not talk of Shankar and Mansur any longer, seek God through seeking your own self.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بخود گم بہر تحقیق خودی شو\nانا الحق گوی و صدیق خودی شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کی تحقیق کے لیے اپنے اندر گم ہو جا، انا الحق کہہ اور خودی کا صدیق بن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be lost in your self to find the reality of the ego, say ‘I am the Truth’ and affirm the existence of the ego.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 8",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ایکہ ز من فزدوہ ئی گرمی آہ و نالہ را\nزندہ کن از صدای من خاک ہزار سالہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ ذات ! جس نے میرے ذریعہ آہ و گریہ کی گرمی بڑھا دی ہے: میری صدا سے مسلمان میں، جو ایک ہزار سال سے خاک کا ڈھیر بن چکا ہے، زندگی کی نئی لہر دوڑا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou who didst make more ardent my sighing and my tears, O let my anthem quicken dust of a thousand years.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "با دل ما چہا کنی تو کہ ببادۂ حیات\nمستی شوق می دہی آب و گل پیالہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ میرے دل کا کیا حال کریں گے؛ جب کہ آپ بدن کی مٹی کو زندگی کی شراب سے شوق مستی عطا فرما دیتے ہیں۔ ( بدن میں مستی ء شوق پیدا ہو جاتی ہے، تو دل کا کیا حال ہو گا، جو خاص طور سے اللہ تعالے کی محبت کے لیے بنایا گیا ہے) ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What wilt Thou of my heart, then, who with the wine of life excitest in the goblet this passion and this strife?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غنچۂ دل گرفتہ را از نفسم گرہ گشای\nتازہ کن از نسیم من داغ درون لالہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آواز سے مغموم کلی کے دل کی گرہ کھول دے ؛ گل لالہ کے اندر جو داغ ہے ، اسے میرے کلام کی باد نسیم سے پھر تازہ کر دے۔ (مسلمان کی افسردگی دور ہو اور اس کے اندر اللہ تعالے کی محبت کا داغ پھر سے تازہ ہو جائے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And when my breath caressing shall softly, sweetly blow, the withered heart will blossom, the tulip newly glow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "می گذرد خیال من از مہ و مہر و مشتری\nتو بکمین چہ خفتہ اے صید کن این غزالہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا خیال بلند مہر و مہ و مشتری سے اوپر نکلے جا رہا ہے؛ آپ اس غزل کو شکار کر کے اپنا کیوں نہیں بنا لیتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My fantasy is soaring beyond the stars and sun; why lurkest Thou in hiding, when hunting’s to be done?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خواجۂ من نگاہ دار آبروی گدای خویش\nآنکہ ز جوی دیگران پر نکند پیالہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے مالک ! اپنے گدا کی آبرو کا خیال رکھ (اسے اپنے لطف سے نواز دے)؛ تیرا یہ گدا اتنا خوددار ہے کہ اس کے سامنے دوسروں کی ندیاں موجود تھیں مگر اس نے ان سے اپنا کاسہ ء گدائی نہیں بھرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Master, guard the honour of him who begs of thee; he’ll let no wine of others within his goblet be.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

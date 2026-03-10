@@ -1,0 +1,415 @@
+{
+  "id": "06",
+  "name": "ایک مکڑا اور مکھی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک دن کسی مکھی سے یہ کہنے لگا مکڑا\nاس راہ سے ہوتا ہے گزر روز تمھارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day a spider said to a fly: ‘Though you pass this way daily.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "لیکن مری کٹیا کی نہ جاگی کبھی قسمت\nبھولے سے کبھی تم نے یہاں پائوں نہ رکھا",
+              "lang": "Original"
+            },
+            {
+              "_content": "کٹیا: جھونپڑی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My hut has never been honoured by you by making a chance visit inside by you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غیروں سے نہ ملیے تو کوئی بات نہیں ہے\nاپنوں سے مگر چاہیے یوں کھنچ کے نہ رہنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though depriving strangers of a visit does not matter; evading the near and dear ones does not look good.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آئو جو مرے گھر میں تو عزت ہے یہ میری\nوہ سامنے سیڑھی ہے جو منظور ہو آنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My house will be honoured by a visit by you; a ladder is before you if you decide to step in.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مکھی نے سنی بات جو مکڑے کی تو بولی\nحضرت! کسی نادان کو دیجے گا یہ دھوکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hearing this the fly said to the spider: ‘Sire, you should entice some simpleton thus:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس جال میں مکھی کبھی آنے کی نہیں ہے\nجو آپ کی سیڑھی پہ چڑھا، پھر نہیں اترا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This fly would never be pulled into your net, whoever climbed your net could never step down.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مکڑے نے کہا واہ! فریبی مجھے سمجھے\nتم سا کوئی نادان زمانے میں نہ ہو گا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spider said: ‘How strange, you consider me a cheat, I have never seen a simpleton like you in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "منظور تمھاری مجھے خاطر تھی وگرنہ\nکچھ فائدہ اپنا تو مرا اس میں نہیں تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I only wanted to entertain you. I had no personal gain in view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "اڑتی ہوئی آئی ہو خدا جانے کہاں سے\nٹھہرو جو مرے گھر میں تو ہے اس میں برا کیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have come flying from some unknown distant place; resting for a while in my house would not harm you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اس گھر میں کئی تم کو دکھانے کی ہیں چیزیں\nباہر سے نظر آتا ہے چھوٹی سی یہ کٹیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many things in this house are worth your seeing; though apparently a humble hut you are seeing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "لٹکے ہوئے دروازوں پہ باریک ہیں پردے\nدیواروں کو آئینوں سے ہے میں نے سجایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dainty drapes are hanging from the doors and I have decorated the walls with mirrors.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "مہمانوں کے آرام کو حاضر ہیں بچھونے\nہر شخص کو ساماں یہ میسر نہیں ہوتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beddings are available for guests’ comforts; not to everyone’s lot do fall these comforts’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "مکھی نے کہا خیر، یہ سب ٹھیک ہے لیکن\nمیں آپ کے گھر آئوں، یہ امید نہ رکھنا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fly said: ‘All this may very well be, but do not expect me to enter your house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ان نرم بچھونوں سے خدا مجھ کو بچائے\nسو جائے کوئی ان پہ تو پھر اٹھ نہیں سکتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God protect me from these soft beds; once asleep in them getting up again is impossible.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "مکڑے نے کہا دل میں سنی بات جو اس کی\nپھانسوں اسے کس طرح یہ کم بخت ہے دانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spider spoke to itself on hearing this talk: ‘How to trap it? This wretched fellow is clever.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "سو کام خوشامد سے نکلتے ہیں جہاں میں\nدیکھو جسے دنیا میں خوشامد کا ہے بندا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many desires are fulfilled with flattery in the world; all in the world are enslaved with flattery.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "یہ سوچ کے مکھی سے کہا اس نے بڑی بی !\nاللہ نے بخشا ہے بڑا آپ کو رتبا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thinking this the spider spoke to the fly thus! ’Madam, God has bestowed great honours on you!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "ہوتی ہے اسے آپ کی صورت سے محبت\nہو جس نے کبھی ایک نظر آپ کو دیکھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everyone loves your beautiful face; even if someone sees you for the first time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آنکھیں ہیں کہ ہیرے کی چمکتی ہوئی کنیاں\nسر آپ کا اللہ نے کلغی سے سجایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your eyes look like clusters of glittering diamonds. God has adorned your beautiful head with a plume.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "یہ حسن، یہ پوشاک، یہ خوبی، یہ صفائی\nپھر اس پہ قیامت ہے یہ اڑتے ہوئے گانا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This beauty, this dress, this elegance, this neatness! And all this is very much enhanced by singing in flight.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "مکھی نے سنی جب یہ خوشامد تو پسیجی\nبولی کہ نہیں آپ سے مجھ کو کوئی کھٹکا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fly was touched by this flattery and spoke: ‘I do not fear you any more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "انکار کی عادت کو سمجھتی ہوں برا میں\nسچ یہ ہے کہ دل توڑنا اچھا نہیں ہوتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hate the habit of declining requests; disappointing somebody is bad indeed.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "یہ بات کہی اور اڑی اپنی جگہ سے\nپاس آئی تو مکڑے نے اچھل کر اسے پکڑا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Saying this it flew from its place when it got close the spider snapped it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "بھوکا تھا کئی روز سے اب ہاتھ جو آئی\nآرام سے گھر بیٹھ کے مکھی کو اڑایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spider had been starving for many days. The fly provided a good leisurely meal.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "A Spider And A Fly",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "45",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق را نازم کہ بودش را غم نابود نے\nکفر او زنار دار حاضر و موجود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے عشق پر ناز ہے کہ اس کے وجود کو مٹ جانے کا غم نہیں، کیونکہ وہ زمان و مکان کی زنّار داری کے کفر سے بچا ہوا ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I boast a love that is not grieved by being of To Be bereaved, whose infidelity doth ne’er the girdle of existence wear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق اگر فرمان دہد از جان شیرین ہم گذر\nعشق محبوب است و مقصود است و جان مقصود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر عشق حکم دے تو جان شیرین سے بھی گزر جا، عشق ہمارا محبوب و مقصود ہے، جان تو عارضی چیز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Love shall ever so command, let precious life slip from thy hand; Love is thy one beloved and goal; there is no gain in life of soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کافری را پختہ تر سازد شکست سومنات\nگرمی بتخانہ بی ہنگامۂ محمود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بت ٹوٹنے سے کافری اور پکّی ہو جاتی ہے؛ ہنگامہء محمود ہی سے بتخانے کی گرمی وابستہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The shattering of the idol-shrine doth infidelity refine; it needs Mahmud’s immortal ire to set the temple-house afire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مسجد و میخانہ و دیر و کلیسا و کنشت\nصد فسون از بہر دل بستند و دل خوشنود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسجد، میخانہ ، دیر، کلیسا اور معبد یہود ؛ لوگ دل کو خوش رکھنے کی خاطر سو طریقے اختیار کرتے ہیں، دل پھر بھی خوش نہیں ہوتا ( دل صرف قرب الہی میں امتنان پاتے ہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Muslim mosque and church of Christ, in incensed temple, tavern spiced, although a hundred charms were tried the heart was never satisfied.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نغمہ پردازی ز جوی کوہسار آموختم\nدر گلستان بودہ ام یک نالہ درد آلود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے پہاڑی ندی سے نغمہ سرائی سیکھی ہے، باغ میں گیا مگر وہاں کوئی درد بھرا نالہ نہ سنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Never in bower sweet with scent I raised a sorrowful lament, but from the mountain cataract I learned this music to enact.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پیش من آئی دم سردی دل گرمی بیار\nجنبش اندر تست اندر نغمۂ داود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے پاس آنا ہے تو آہ سرد اور دل گرم لے کر آ ، اگر تیرے اپنے اندر جذب نہیں ہو گی تو نغمہء داؤد کسی کام کا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wouldest thou approach me, here apart? Come cold of breath, and warm of heart; in thee is movement never calm; such verve was not in David’s psalm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عیب من کم جوی و از جامم عیار خویش گیر\nلذت تلخاب من بی جان غم فرسود نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے عیب تلاش نہ کر بلکہ میرے جام سے اپنے آپ کو دیکھ، (اگر تو یہ جام پی سکتا ہے تو مرد ہے) میری تلخ شراب کی لذت میری غموں سے گھلی ہوئی جان کا نتیجہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seek less my faults, but take my bowl to be the measure of thy soul; the pleasure of my bitter brew is never without spirit’s rue.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

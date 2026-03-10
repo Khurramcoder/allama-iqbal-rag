@@ -1,0 +1,58 @@
+{
+  "id": "01",
+  "name": "تمہید",
+  "name-en": "Preface",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "04",
+  "sectionName": "حضور عالم انسانیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا ساقی بیار ن کہنہ می را\nجوان فرودین کن پیر وی را\nنوائی دہ کہ از فیض دم خویش\nچو مشعل بر فروزم چوب نے را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساقی! اٹھ اور پرانی شراب لا ، اور اس سے خزاں زدہ بوڑھے کو نوجوان بہاراں بنا دے۔\nمجھے ایسا (آتشیں ) نغمہ عطا کر کہ میں اپنے دم کے فیض سے بانسری کی لکڑی کو مشعل کی طرح روشن کر دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give me a sweet tone that by my breath own, like torch I may lit up my flute’s gay tone (love tone).\n(In this chapter Iqbal is addressing whole mankind without distinction of cast and creed.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی از حجرۂ خلوت برون ی\nبباد صبحگاہی سینہ بگشای\nخروش این مقام رنگ و بو را\nبقدر نالۂ مرغی بیفزای",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا اپنے خلوت کدہ سے باہر آ، اور نسیم صبح کے سامنے اپنا سینہ کھول۔ \n(پھر) نالہء مرغ سے اس مقام رنگ و بو (دنیا) کے جوش و خروش میں اضافہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave thy solitude cell for a while please, ope thy bosom thus from the morning breeze.\nFor a tempo to world’s hustle and thrill, raise thy tune and tone to song bird’s trill (sing a musical note with a trill).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

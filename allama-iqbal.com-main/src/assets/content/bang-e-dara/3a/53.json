@@ -1,0 +1,177 @@
+{
+  "id": "53",
+  "name": "بلال",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لکھا ہے ایک مغربی حق شناس نے \nاہل قلم میں جس کا بہت احترام تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A righteous Western writer has written; who was highly respected among the literateur:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جولاں گہ سکندر رومی تھا ایشیا \nگردوں سے بھی بلند تر اس کا مقام تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Asia was the marshaling place of Sikandar of Rome; his status was more elegant than even the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاریخ کہہ رہی ہے کہ رومی کے سامنے \nدعوی کیا جو پورس و دارا نے، خام تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "History attests that in combat with the Romans the claims of Porus and Dara were vain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دنیا کے اس شہنشہ انجم سپاہ کو \nحیرت سے دیکھتا فلک نیل فام تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At this emperor with the myriad-man army the blue sky was looking with amazement.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آج ایشیا میں اس کو کوئی جانتا نہیں \nتاریخ دان بھی اسے پہچانتا نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Today nobody knows him in Asia; even the historian does not recognize him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "لیکن بلال، وہ حبشی زادئہ حقیر \nفطرت تھی جس کی نور نبوت سے مستنیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But Bilal (R.A.), that humble person with Negroid origin, whose nature had been brightened by the Prophethood’s (S.A.W.) Light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جس کا امیں ازل سے ہوا سینہء بلال \nمحکوم اس صدا کے ہیں شاہنشہ و فقیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The call whose custodian the breast of Bilal since eternity,* became subservient to which call emperors as well as the indigent became!\n* Allusion to Azan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہوتا ہے جس سے اسود و احمر میں اختلاط \nکرتی ہے جو غریب کو ہم پہلوئے امیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which brings amity between the black and the red; by which the poor and the rich are placed together.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہے تازہ آج تک وہ نوائے جگر گداز \nصدیوں سے سن رہا ہے جسے گوش چرخ پیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That heart-melting song is fresh till the present age; which the old sky’s ear has been hearing for centuries.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "اقبال! کس کے عشق کا یہ فیض عام ہے \nرومی فنا ہوا، حبشی کو دوام ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal! This general blessing is due to whose love? The Roman has perished, the Negro is immortal!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Bilal R.A.",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

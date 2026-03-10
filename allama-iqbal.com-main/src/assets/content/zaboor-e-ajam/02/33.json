@@ -1,0 +1,119 @@
+{
+  "id": "33",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرچہ می دانم کہ روزی بی نقاب آید برون\nتا نپنداری کہ جان از پیچ و تاب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں جانتا ہوں کہ مجھے ایک روز دیدار ذات میسّر آ جائے گا، مگر یہ نہ سمجھ کہ دیدار کے بعد مجھے قرار آ جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the soul, I know, one day unveiled shall be, think not it shall be so by writhing endlessly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ضربتی باید کہ جان خفتہ برخیزد ز خاک\nنالہ کی بی زخمہ از تار رباب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "ضرب ایسی ہونی چاہئے جس سے جان خفتہ بدن کے اندر بیدار ہو جائے۔ مضراب کے بغیر تار رباب سے نالہ کیسے باہر آ سکتا ہے!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It needs a blow, to stir the sleeping soul from earth unswept, the harp can ne’er bring melody to birth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاک خویش از گریہ ہای نیمشب سیراب دار\nکز درون او شعاع آفتاب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی شاخ انگور کو گریہ ہائے نیم شب سے سیراب کر، تاکہ اس کے اندر سے شعاع آفتاب باہر نکلے (تاکہ اس کے اندر سے ایسی شعاع نکلے جو دلوں کو منوّر کر دے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy cup replenish still with tears and midnight sighs, replenish it until the radiant sun shall rise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ذرۂ بی مایہ ئی ترسم کہ ناپیدا شوی\nپختہ تر کن خویش را تا آفتاب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ذرّہ ء بے مایہ ہے مجھے ڈر ہے کہ کہیں تو مٹ نہ جائے ، اپنے آپ کو اور پختہ کر ، تاکہ تیرے اندر سے آفتاب طلوع ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So faint a mote thou art, I fear thou’lt vanish quite; then fortify thy heart to meet the morning light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در گذر از خاک و خود را پیکر خاکی مگیر\nچاک اگر در سینہ ریزی ماہتاب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک کو نظر انداز کر اور اپنے آپ کو پیکر خاکی نہ سمجھ، اگر تو اپنا سینہ چاک کرے تو اس کے اندر سے مہتاب نکلے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Transcend the dust, nor take thy self but dust to be; if thou thy breast with break, the moon shall shine from thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گر بروی تو حریم خویش را در بستہ اند\nسر بسنگ آستان زن لعل ناب آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر انہوں نے تجھ پر اپنے حریم کا دروازہ بند کر دیا ہے، تو سنگ آستاں سے سر ٹکرا، قیمتی لعل باہر آجائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If in thy face they lock the gate to selfhood’s shrine, strike head upon the rock and see the ruby shine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

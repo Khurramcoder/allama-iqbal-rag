@@ -1,0 +1,35 @@
+{
+  "id": "15",
+  "name": "پیغام برگسن",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تا بر تو آشکار شود راز زندگی\nخود را جدا ز شعلہ مثال شرر مکن\nبہر نظارہ جز نگہ آشنا میار\nدر مرز و بوم خود چو غریبان گذر مکن\nنقشی کہ بستہ ئی ہمہ اوہام باطل است\nعقلی بہم رسان کہ ادب خوردۂ دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ تجھ پر راز زندگی منکشف ہو، شرر کی مانند اپنے آپ کو شعلے سے جدا نہ کر۔\nنظار ے کے لیے صرف (حقیقت ) آشنا آنکھ لا، اپنے وطن کے اندر مسافروں کی طرح نہ گزر۔ \nتو نے جو نقوش بنائے ہیں وہ اوہام باطل ہیں، ایسی عقل پیدا کر جو دل سے تربیت یافتہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thou wouldst read Life as an open book, be not a spark divided from the brand.\nBeing the familiar eye, the friendly look, nor visit strange-like thy native land.\nO thou by vain imaginings befooled, get thee a reason which the Heart hath schooled!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Bergson’s Message",
+  "credits": "English Translation by: R.A. Nicholson"
+}

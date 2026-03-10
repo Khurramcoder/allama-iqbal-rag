@@ -1,0 +1,866 @@
+{
+  "id": "02",
+  "name": "اﷲالصمد",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "03",
+  "sectionName": "مثنوی مطالب خلاصۂ در تفسیر اخلاص",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گر بہ اﷲ الصمد دل بستہ ئی\nاز حد اسباب بیرون جستہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو نے اﷲ الصمد سے دل لگایا ہے تو تو اسباب کی حدود کو پھلانگ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thou hast bound thy faithful heart on God the Self-subsistent, thou hast overlept the rim of things material.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بندۂ حق بندۂ اسباب نیست\nزندگانی گردش دولاب نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "للہ تعالے کا بندہ بندہء اسباب نہیں؛ اس کے لیے زندگی رہٹ کی گردش نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No slave to things material God’s servant is; life is no turning of a water-wheel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مسلم استی بے نیاز از غیر شو\nاھل عالم را سراپا خیر شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو مسلمان ہے تو غیر اللہ سے بے نیاز ہو جا اور دنیا والوں کے لیے سراپا خیر بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If thou be Muslim, be not suppliant of other’s succour; be the embodiment of good to all the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پیش منعم شکوۂ گردون مکن\nدست خویش از آستین بیرون مکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "دولتمند کے سامنے قسمت کی شکایت نہ کر اور رہ اس کے سامنے ہاتھ پھیلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make not complaint of scurvy fortune to the fortunate, nor from thy sleeve reach out a beggar’s hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چون علی در ساز بانان شعیر\nگردن مرحب شکن خیبر بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سیدنا علی مرتضی (رضی اللہ) کی طرح جؤ کی روٹی پر گذارہ کر؛ اور مرحب کی گردن توڑ اور خیبر فتح کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Ali, be content with barley-bread; break Marhab’s neck, and capture Khyber’s fort.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "منت از اہل کرم بردن چرا\nنشتر لا و نعم خوردن چرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "دولتمند وں کا احسان کیوں اٹھائے گا ؛ ان کے 'ہاں' اور 'نہ' سے کیوں غم کھائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why bear the favour of the bountiful, why feel the lancet of their nay and yea?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رزق خود را از کف دونان مگیر\nیوسف استی خویش را ارزان مگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "رذیلوں کے ہاتھ سے رزق نہ لے؛ تو یوسف ہے اپنی قیمت کم نہ لگا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take not the sustenance from mean, base hands; thou art a Joseph; count thyself not cheap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گرچہ باشی مور و ھم بے بال و پر\nحاجتی پیش سلیمانی مبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو بے بال و پر چیونٹی ہو تو بھی سلیمان (علیہ) کے سامنے اپنی حاجت پیش نہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And if thou be an ant, and lackest wings and feathers, \ngo not unto Solomon to plead thy want.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "راہ دشوار است سامان کم بگیر\nدر جہان آزاد زی آزاد میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "راہ کٹھن ہے تھوڑا سامان لے؛ دنیا میں آزاد رہ اور آزاد مر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The road is arduous; go light-accoutred, if thou wouldst attain; unfettered live thy days, unfettered die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "سبحۂ \"اقلل من الدنیا\" شمار\nاز \"تعش حراً\" شوی سرمایہ دار",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا سے 'بہت قلیل لے' کی تسبیح پھیر تاکہ تو 'آزادانہ زندگی' کا سرمایہ پائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Count o’er the rosary of Take thou less of this world’s goods, and thou shalt riches win in living free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تا توانی کیمیا شو گل مشو\nدر جھان منعم شو و سائل مشو",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں تک ہو سکے کیمیا بن؛ مٹی نہ بن، دنیا میں غنا اختیار کر سائل نہ بن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So far as in thee lies become that Stone of the philosophers, not the base dross; a benefactor be, not a petitioner for others’ alms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے شناسای مقام بوعلی\nجرعہ ئی آرم ز جام بوعلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو حضرت بو علی (رضی اللہ) کے مقام کو پہچانتا ہے؛ میں تیرے لیے ان کے جام سے ایک الگ گھونٹ لایا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou knowest well bu Ali’s eminence, accept from me this draught, drawn from his cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "\"پشت پا زن تخت کیکاوس را\nسر بدہ از کف مدہ ناموس را\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'تخت کیکاؤس کو ٹھوکر مار ؛ جان دے دے مگر ناموس ہاتھ سے نہ دے'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Trample Kai-Kaus’ throne beneath thy foot; \nyield up thy life, but not thy self-respect!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "خود بخود گردد در میخانہ باز\nبر تہے پیمانگان بے نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے خود دار لوگ جن کے پیمانے خالی ہیں ؛ ان پر میخانے کے دروازے خود بخود کھل جائیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tavern door stands open of itself, to those whose bowls are empty, whose needs none.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "قاید اسلامیان ہارون رشید\nآنکہ نقفور آب تیغ او چشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "عباسی فرمانروا ہارون الرشید جس کی تلوار کی کاٹ کا مزہ نقفور نے چکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Harun Rashid, that captain of the Faith, whose blade to Nicephor of Byzance proved a deadly potion,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "گفت مالک را کہ اے مولای قوم\nروشن از خاک درت سیمای قوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے امام مالک (رحمتہ اللہ) سے کہا اے آقائے قوم تیرے دروازے کی خاک سے قوم کی پیشانی چمک اٹھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unto Malik spoke the dust before whose door illuminates, my people’s brow, melodious nightingale upon this fashion:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اے نوا پرداز گلزار حدیث\nاز تو خواہم درس اسرار حدیث",
+              "lang": "Original"
+            },
+            {
+              "_content": "گلزار حدیث کے نغمہ خواں میں آپ سے حدیث شریف کا درس لینا چاہتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Master of my folk, carolling mid the roses of good words, I am desirous to be taught by thee the secrets of those words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "لعل تا کی پردہ بند اندر یمن\nخیز و در دارالخلافت خیمہ زن",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک لعل یمن کے اندر پردہ بند رہے گا ؛ آپ اٹھیں اور دارا لخلافہ میں تشریف فرما ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long art thou content in Yemen to conceal the glow of thy bright rubies? Rise, and pitch thy tent here, in the homestead of the Caliphate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "اے خوشا تابانی روز عراق\nاے خوشا حسن نظر سوز عراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عراق کے دنوں کی چمک کیا خوب ہے؛ عراق کا حسن ، نظر سوز کیا سہانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How fair the brightness of the shining day, the captivating beauty of Iraq!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "میچکد آب خضر از تاک او\nمرھم زخم مسیحا خاک او",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں کے انگور سے آب حیات ٹپکتا ہے؛ یہاں کی خاک زخموں کے لیے مرہم مسیحا کا کام کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Fount of Khizer gushes from its vines, its earth is healing for the wounds of Christ.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "گفت مالک مصطفی را چاکرم\nنیست جز سودای او اندر سرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "امام مالک (رحمتہ اللہ ) نے فرمایا میں جناب رسول پاک (صلعم) کا غلام ہوں ؛ میرے اندر صرف حضور (صلعم) کی غلامی کا سودا سمایا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I am the Prophet’s (S.A.W.) servant’, Malik said,\n‘And only him I love, with all my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "من کہ باشم بستۂ فتراک او\nبر نخیزم از حریم پاک او",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ان (صلعم) کی محبت کے فتراک میں بندھا ہوا ہوں اس لیے ان کے حریم پاک (مدینہ منوّرہ سے) کہیں جا نہیں سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bound to his saddle-bow, I will not quit his holy sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "زندہ از تقبیل خاک یثربم\nخوشتر از روز عراق آمد شبم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک یثرب کو بوسہ دینا ہی میری زندگی ہے؛ اس وجہ سے میری رات روز عراق سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the kiss of Yathrib’s dust I live; my night to me is fairer that Iraq’s pellucid day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "عشق می گوید کہ فرمانم پذیر\nپادشاہان را بخدمت ہم مگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کہتا ہے کہ صرف میرا حکم مان؛ بادشاہوں کا حکم نہ مان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love says, ‘Obey my ordinance; sign not; the articles of service even to kings.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "تو ہمی خواہی مرا آقا شوی\nبندۂ آزاد را مولا شوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو چاہتا ہے کہ تو میرا آقا بنے؛ اور مجھ جیسے بندہء آزاد کو اپنا غلام بنائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou wouldst become my master, overlord of this freed slave of God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بہر تعلیم تو آیم بر درت\nخادم ملت نگردد چاکرت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تجھے پڑھانے کے لیے میں تیرے دروازے پر آؤں ؛ ملّت کا خادم کسی فرد کا چاکر نہیں ہو سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That I should wait upon thy door to teach thee, and no more; serve the community, being bound to thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "بہرہ ئی خواہی اگر از علم دین\nدر میان حلقۂ درسم نشین",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اگر علم دین حاصل کرنا چاہتا ہے تو آ کر میرے حلقہء درس میں بیٹھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be it thy wish some portion to attain of godly knowledge, in my circle sit and study with the rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بے نیازی نازہا دارد بسی\nناز او اندازہا دارد بسے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے نیازی کے اندر بھی بہت سے ناز ہیں؛ اور اس ناز کے انداز بھی بہت سے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Indifference to worldly needs engenders fine disdain, And holy pride takes many splendid shapes.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بے نیازی رنگ حق پوشیدن است\nرنگ غیر از پیرہن شوئیدن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے نیازی اللہ تعالے کا رنگ اپنا اور غیر کا رنگ اپنے آپ سے دھو دینا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Godly indifference is to put on the hue of God, and from thy robe to wash the dye of otherness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "علم غیر آموختی اندوختی\nروی خویش از غازہ اش افروختی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے غیروں کا علم سیکھا اور اسے اکٹھا کیا؛ ان کے غازے سے اپنا چہرہ چمکایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But thou hast learned the rote of others, taking that for store, an alien rouge to beautify thy face;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "ارجمندی از شعارش میبری\nمن ندانم تو توئے یا دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کے شعار اختیار کر کے ارجمند ہونے کی کوشش کی؛ میں نہیں جانتا کہ تو تو ہے، یا کوئی اور (اب تیری شکل بھی پہچانی نہیں جاتی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In those insignia thou takest pride, until I know not if thou be thyself or art another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "از نسیمش خاک تو خاموش گشت\nوز گل و ریحان تہی آغوش گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "غیروں کی نسیم نے تیری خاک کو بنجر بنا دیا اور گل و ریحان سے خالی کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fanned by foreign blasts thy soil is fallen silent, and no more fertile in fragrant roses and sweet herbs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "کشت خود از دست خود ویران مکن\nاز سحابش گدیۂ باران مکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی کھیتی اپنے ہاتھ سے ویران نہ کر؛ غیروں کے بادل سے بارش کی بھیک نہ مانگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desolate not thy tilth with thy own hand; Make it not beg for rain from alien clouds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "عقل تو زنجیری افکار غیر\nدر گلوی تو نفس از تار غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری عقل بھی غیروں کے افکار کی قیدی بن چکی ہے؛ تیرے گلے میں جو سانس ہے وہ بھی غیروں کا مرہون منت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy mind is prisoner to others’ thoughts, another’s music throbs within thy throat;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "بر زبانت گفتگوہا مستعار\nدر دل تو آرزوہا مستعار",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری زبان کی گفتگو اور دل کی آرزو سب مستعار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy very speech is borrowed, and thy heart dilates with aspirations not thine own.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "قمریانت را نواہا خواستہ\nسروہایت را قباہا خواستہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری قمریوں کی نوا، اور تیرے سرو کی قبا مانگی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The song thy ring-doves sing, the leafy gowns, that deck thy cypresses, are meanly begged;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "بادہ می گیری بجام از دیگران\nجام ھم گیری بوام از دیگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے جام میں دوسروں سے شراب لیتا ہے؛ اور جام بھی دوسروں سے قرض لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou takest wine from others in a bowl, itself from others taken upon loan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "آن نگاہش سر \"ما زاغ البصر\"\nسوی قوم خویش باز آید اگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ پاک ذات (صلعم) جن کی نگاہ ’ما زاغ البصر‘ کا راز تھی اگر وہ موجودہ مسلمانوں کی طرف دوبارہ تشریف لائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If he, whose glance contains the mystery, erred not the sight – if he should come again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "می شناسد شمع او پروانہ را\nنیک داند خویش و ہم بیگانہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو آپ (صلعم) کی شمع اپنے پروانے کو پہچان لے کہ کون ان میں سے اپنے ہیں اور کون بیگانے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unto his people, he whose candle-flame knows its own moth, who can distinguish well his own from strangers standing at the gate;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "\"لست منی\" گویدت مولای ما\nوای ما، اے وای ما، اے وای ما،",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم پر افسوس صد افسوس کہ (ہم میں سے بیشتر کے بارے میں) حضور (صلعم) یہ ارشاد فرمائیں کہ 'تو مجھ سے نہیں ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our master would declare, thou art not mine. Woe, woe, alas for us upon that day!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "زندگانی مثل انجم تا کجا\nہستی خود در سحر گم تا کجا",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک ستاروں کی مانند اپنی ہستی کو دور حاضر کی صبح کاذب میں گم کیے رکھو گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long wilt thou content thyself to live the life of stars, that in the risen morn lose all their being?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "ریوی از صبح دروغی خوردہ ئی\nرخت از پہنای گردون بردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے صبح کاذب سے فریب کھا کر اپنے آپ کو آسمان کی وسعت سے گم کر لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast been deceived by the false dawn,\npacked up thy goods and gone from the broad firmament.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "آفتاب استی یکی در خود نگر\nاز نجوم دیگران تابے مخر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا اپنی طرف نظر ڈال تو آفتاب ہے؛ تجھے دوسروں کے ستاروں سے روشنی لینے کی ضرورت نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art the sun; look on thy self a little; purchase not some shreds of radiance from others’ stars!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "بر دل خود نقش غیر انداختی\nخاک بردی کیمیا در باختی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے اپنے دل پر غیروں کا نقش ثبت کر لیا ہے؛ تو نے ان سے خاک لے لی اور اپنی کیمیا کھو دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou hast engraved thy heart with alien shapes, gambled the alchemy and gained the dross;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "تا کجا رخشی ز تاب دیگران\nسر سبک ساز از شراب دیگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کب تک دوسروں کی روشنی سے چمکے گا؛ غیروں کی شراب کا نشہ اپنے سر سے اتار دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long this glittering with others’ shine? Shake off heavy fumes for foreign grapes!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "تا کجا طوف چراغ محفلی\nز آتش خود سوز اگر داری دلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک چراغ محفل کا طواف کرے گا؛ اگر دل رکھتا ہے تو اپنی آگ میں جل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long this fluttering about the flame of party lanterns? If thou hast a heart within thy breast, with thine own ardour burn!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "چون نظر در پردہ ہای خویش باش\nمی پر و اما بجای خویش باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نظر کی مانند اپنے پردوں کے اندر رہ؛ پرواز کر مگر اپنی جگہ پر رہتے ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be like the gaze, wrapped round in thy own veils; rise on the wing, but ever wheel back home;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "در جہان مثل حباب اے ہوشمند\nراہ خلوت خانہ بر اغیار بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے عقلمند حباب کی مانند اپنے خلوت خانے کے دروازے دوسروں پر بند رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bubble-like bar thy little privacy, against the intruder, if thou wouldst be wise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "فرد، فرد آمد کہ خود را وا شناخت\nقوم، قوم آمد کہ جز با خود نساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد وہ فرد ہے جس نے اپنے آپ کو پرانی طرح سمجھ لیا؛ قوم وہ قوم ہے جس نے اپنے سوائے کسی اور سے موافقت نہ کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No man to individuality ever attained, save that he knew himself. No nation came to nationhood, except it spurned to suit the whim of other men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "از پیام مصطفی آگاہ شو\nفارغ از ارباب دون اﷲ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) کے پیغام کو سمجھ لے اور اللہ تعالے کے سوائے اور جتنے آقا ہیں ان سے فارغ ہو جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then of our Prophet’s (S.A.W.) message be apprised, \nand have thou done with other lords but God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "‘God, The Self-Subsistent’"
+}

@@ -1,0 +1,496 @@
+{
+  "id": "03",
+  "name": "در بیان اینکہ حیات خودی",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "دربیان اینکہ حیات خودی از تخلیق و تولیدمقاصداست",
+      "name-en": "Showing that the life of the self comes from forming ideals and bringing them to birth.",
+      "name-ur": "اس بیان میں کہ خودی کی زندگی مقاصد کی تخلیق و تولید سے ہے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگانے را بقا از مدعا ست\nکاروانش را درا از مدعا ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کی بقا مقصد سے ہے ؛ مقصد ہی زندگی کے کاروان کے لیے (بانگ) درا کا کام دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is preserved by purpose: Because of the goal its caravan-bell tinkles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زندگی در جستجو پوشیدہ است\nاصل او در رزو پوشیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جستجو ہی زندگی کا راز ہے؛ آرزو کے اندر ہی زندگی کی اصلیت کا راز پوشیدہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is latent in seeking, its origin is hidden in desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آرزو را در دل خود زندہ دار\nتا نگردد مشت خاک تو مزار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس لیے تو اپنے دل میں آرزو کو زندہ رکھ ؛ تاکہ تیرا بدن قبر نہ بن جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Keep desire alive in thy heart, Lest thy little dust become a tomb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آرزو جان جہان رنگ و بوست\nفطرت ہر شی امین رزو ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی اس جہان رنگ و بو (دنیا) کی جان ہے؛ ہر شے کی فطرت میں آرزو بطور امانت موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desire is the soul of this world of hue and scent, the nature of everything is a storehouse of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از تمنا رقص دل در سینہ ہا\nسینہ ہا از تاب او ئینہ ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تمنّا ہی سے سینوں کے اندر دل رقصاں رہتے ہیں؛ اسی کی چمک سے آئینے شیشے کی مانند شفّاف ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desire sets the heart dancing in the breast, and by its glow the breast is made bright as a mirror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "طاقت پرواز بخشد خاک را\nخضر باشد موسی ادراک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو خاکی انسان کو اڑنے کی طاقت عطا کرتی ہے؛ ہماری ادراک کے لیے آرزو اسی طرح راہبر ہے جس طرح موسی (علیہ) کے لیے خضر (علیہ) راہبر بنے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives to earth the power of soaring; it is a Khizr to the Moses of perception.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دل ز سوز آرزو گیرد حیات\nغیر حق میرد چو او گیرد حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوز آرزو سے دل زندگی پاتا ہے، دل زندہ ہو جائے تو اس کے اندر سے غیر اللہ کے نقوش مٹ جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the flame of desire the heart takes life and when it takes life, all dies that is not true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چون ز تخلیق تمنا باز ماند\nشہپرش بشکست و از پرواز ماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن جب دل آرزو کی تخلیق چھوڑ دیتا ہے، تو اس کے بال و پر ٹوٹ جاتے ہیں اور وہ پرواز سے رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When it refrains from forming desires, its pinion breaks and it cannot soar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آرزو ہنگامہ آرای خودی\nموج بیتابے ز دریای خودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی خودی کے لیے ہنگامے آراستہ کرتی ہے، یہ دریائے خودی کی ایک بیتاب سوچ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desire keeps the self in perpetual uproar: It is a restless wave of the self's sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آرزو صید مقاصد را کمند\nدفتر افعال را شیرازہ بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو ہی مقاصد کے شکار کے لیے کمند کا کام دیتی ہے؛ اسی سے انسان کے افعال میں نظم و ضبط پیدا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desire is a noose for hunting ideals, a binder of the book of deeds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "زندہ را نفی تمنا مردہ کرد\nشعلہ را نقصان سوز افسردہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تمنّا ختم ہو جانے سے زندہ انسان بھی مردہ ہو جاتا ہے؛ جیسے سوز ختم ہو جانے سے شعلہ افسردہ ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Negation of desire is death to the living, even as absence of heat extinguishes the flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "چیست اصل دیدۂ بیدار ما\nبست صورت لذت دیدار ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری دیدہء بیدار کی اصلیّت کیا ہے ؟ یہ کہ ہماری لذّت دیدار نے آنکھ کی صورت اختیار کر لی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the source of our wakeful eye? Our delight in seeing hath taken visible shape.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کبک پا از شوخی رفتار یافت\nبلبل از سعی نوا منقار یافت",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبک نے شوخیء رفتار سے پاؤں پائے؛ بلبل نے ادائے نغمہ کے لیے کوشش کی تو اسے چونچ مل گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The partridge's leg is derived from the elegance of its gait; the nightingale's beak from its endeavour to sing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "نے برون از نیستان آباد شد\nنغمہ از زندان او آزاد شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب بانسری نیستاں سے باہر آ کر آباد ہوئی؛ تو نغمہ اس کے قید خانے سے آزاد ہوا (اس کے اندر سے نغمے پھوٹے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Away from the seed-bed, the reed became happy: The music was released from its prison.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عقل ندرت کوش و گردون تاز چیست\nہیچ میدانی کہ این اعجاز چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "نادر چیزیں تلاش کرنے والی اور آسمان تک پہنچنے والی عقل کیا ہے؟ کیا تو نے کبھی غور کیا کہ یہ اعجاز کیسے حاصل کیا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the essence of the mind that strives after new discoveries and scales the heavens? Knowest thou what works this miracle?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "زندگی سرمایہ دار از آرزوست\nعقل از زائیدگان بطن اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بات یہ ہے کہ آرزو زندگی کا سرمایہ ہے؛ اور عقل زندگی کے بطن سے پیدا ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "'Tis desire that enriches Life and the mind is a child of its womb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "چیست نظم قوم و آئین و رسوم\nچیست راز تازگیہای علوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوم کا نظم اور اس کے آئین و رسوم کیا ہیں؟ نئے نئے علوم پیدا ہونے کا راز کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What are social organisation, customs and laws? What is the secret of the novelties of science?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "آرزوئی کو بزور خود شکست\nسر ز دل بیرون زد و صورت بہ بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب آرزو کے کرشمے ہیں، جب آرزو اپنے زور سے ٹوٹ کر اٹھتی ہے تو دل کے اندر سے سر اٹھاتی ہے اور کوئی صورت اختیار کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A desire which realised itself by its own strength; and burst forth from the heart and took shape.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "دست و دندان و دماغ و چشم و گوش\nفکر و تخییل و شعور و یاد و ہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہاتھ، دانت، دماغ، آنکھ، کان، سوچ ، تخیّل، شعور، یاد، سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hand, teeth, brain, eye, and ear, thought, imagination, feeling, memory, and understanding –",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "زندگی مرکب چو در جنگاہ باخت\nبہر حفظ خویش این آلات ساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی نے جب اپنا گھوڑا میدان جنگ میں دوڑایا ، تو یہ سب آلات اپنی حفاظت کے لیے بنائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All these are weapons devised by Life for self-preservation in its ceaseless struggle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "آگہی از علم و فن مقصود نیست\nغنچہ و گل از چمن مقصود نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم و فن کا مقصد محض معلومات نہیں؛ اسی طرح چمن سے صرف غنچہ و گل حاصل کرنا مقصود نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The object of science and art is not knowledge; the object of the garden is not the bud and the flower.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "علم از سامان حفظ زندگی است\nعلم از اسباب تقویم خودی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلکہ علم زندگی کی حفاظت کا سامان ہے؛ اور خودی کو مستحکم کرنے کے اسباب میں سے ایک سبب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science is an instrument for the preservation of Life; science is a means of invigorating the self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "علم و فن از پیش خیزان حیات\nعلم و فن از خانہ زادان حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم و فن زندگی کے خدمتگار اور غلام ہیں (فن برائے فن اور فن برائے زندگی کا امتیاز بیان کیا گیا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science and art are servants of Life, slaves born and bred in its house.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "اے از راز زندگی بیگانہ، خیز\nاز شراب مقصدی مستانہ خیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص ، جو راز زندگی سے نابلد ہے اٹھ! اٹھ اور مقصد کی شراب پی کر مستانہ وار اٹھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rise, O thou who art strange to Life 's mystery, rise intoxicated with the wine of an ideal:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مقصدے مثل سحر تابندہ ئی\nماسوی را آتش سوزندہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا مقصد ایسا ہونا چاہئیے جو صبح کی مانند روشن ہو؛ جو غیر اللہ کو جلا دینے والی آنکھ ثابت ہو (اللہ تعالے کی خوشنودی کے سوا اور کوئی مقصد نہیں ہونا چاہئیے )۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An ideal shining as the dawn, a blazing fire to all that is other than God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "مقصدی از آسمان بالاتری\nدلربائے دلستانی دلبری",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہی مقصد آسمان سے بلند تر ہے؛ یہ دل کو لبھانے والا، دل چھین لینے والا اور دل پر قبضہ کر لینے والا مقصد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An ideal higher than Heaven – Winning, captivating, enchanting men's hearts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "باطل دیرینہ را غارتگری\nفتنہ در جیبی سراپا محشری",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دیرینہ باطل کو فنا کر دینے والا مقصد ہے؛ اس کے گریباں میں محشر کے ہنگامے موجود ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A destroyer of ancient falsehood, fraught with turmoil, and embodiment of the Last Day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "ما ز تخلیق مقاصد زندہ ایم\nاز شعاع آرزو تابندہ ایم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم مقاصد کی تخلیق سے زندہ ہیں؛ آرزو کی شعاع ہمیں روشن رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We live by forming ideals, we glow with the sunbeams of desire!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Life Of The Self Comes From Forming Ideals And Bringing Them To Birth",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

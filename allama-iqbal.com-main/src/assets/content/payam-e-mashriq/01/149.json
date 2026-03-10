@@ -1,0 +1,33 @@
+{
+  "id": "149",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عجم بحریست ناپیدا کناری\nکہ در وی گوہر الماس رنگ است\nولیکن من نرانم کشتی خویش\nبہ دریائی کہ موجش بی نہنگ است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Persia’s a sea that never comes to shore, wherein are pearls of diamantine hue; \nYet I’ll not sail my barque upon a sea within whose waves is never a shark to view.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

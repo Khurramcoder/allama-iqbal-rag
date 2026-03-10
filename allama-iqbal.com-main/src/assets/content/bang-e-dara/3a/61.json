@@ -1,0 +1,115 @@
+{
+  "id": "61",
+  "name": "پیوستہ رہ شجر سے، امید بہار رکھ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ڈالی گئی جو فصل خزاں میں شجر سے ٹوٹ \nممکن نہیں ہری ہو سحاب بہار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The branch of the tree which got separated in autumn is not possible to green up with the cloud of spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے لازوال عہد خزاں اس کے واسطے \nکچھ واسطہ نہیں ہے اسے برگ و بار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The autumn season for this branch is ever-lasting; it has no connection with flourishing in the spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہے تیرے گلستاں میں بھی فصل خزاں کا دور \nخالی ہے جیب گل زر کامل عیار سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "زر کامل عيار: کسوٹی پر پورا اترنے والا سونا؛ کھرا سونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Autumn season prevails in your rose garden also; the pocket of the rose is devoid of good cash.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جو نغمہ زن تھے خلوت اوراق میں طیور \nرخصت ہوئے ترے شجر سایہ دار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The birds which were singing in the seclusion of leaves have departed from your shady tree’s leaves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شاخ بریدہ سے سبق اندوز ہو کہ تو \nناآشنا ہے قاعدئہ روزگار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You should learn a lesson from the separated branch as you are unacquainted with the customs of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ملت کے ساتھ رابطہء استوار رکھ \nپیوستہ رہ شجر سے، امید بہار رکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Keep very strong communication with the nation; remain attached to the tree and have spring’s expectation!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Remain Attached To The Tree Keep Pring’s Expectation",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

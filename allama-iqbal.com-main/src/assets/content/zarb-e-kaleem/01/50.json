@@ -1,0 +1,98 @@
+{
+  "id": "50",
+  "name": "نکتہ توحید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیاں میں نکتہ توحید آ تو سکتا ہے \nترے دماغ میں بت خانہ ہو تو کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The subtle point in God's Oneness hid with ease in words we can explain, but what about your mind unsound that brims with myths and idols vain?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ رمز شوق کہ پوشیدہ لاالہ میں ہے \nطریق شیخ فقیہانہ ہو تو کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Elder of the Shrine has traits that smack of Jurist's faith and creed; much thirst for view 'No god but He', among his fellows cannot breed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سرور جو حق و باطل کی کارزار میں ہے \nتو حرب و ضرب سے بیگانہ ہو تو کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None can appraise the glee one gets, when war is on 'twixt good and bad; he who can't inflict deadly blows and strokes in war is never glad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جہاں میں بندہ حر کے مشاہدات ہیں کیا \nتری نگاہ غلامانہ ہو تو کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Observations made by free born men in world with marvels so replete to those who own the glance of thralls none can such wonders 'fore them repeat.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مقام فقر ہے کتنا بلند شاہی سے \nروش کسی کی گدایانہ ہو تو کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Darvesh holds a loftier rank than a monarch who wears a crown; there is no cure for such a man, who, like paupers, has sunk down.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Unity Of God",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

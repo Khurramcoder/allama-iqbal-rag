@@ -1,0 +1,289 @@
+{
+  "id": "03",
+  "name": "نغمۂ بعل",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "04",
+  "sectionName": "فلک زہرہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آدم این نیلی تتق را بر درید\nآنسوی گردون خدائی را ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسان نے اس نیلے سرا پردہ (آسمان ) کو پھاڑ ڈالا؛ مگر اسے آسمان کی پرلی طرف خدا نظر نہ آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man has rent younder azure veil and, beyond the sky, has seen no God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در دل آدم بجز افکار چیست\nہمچو موج این سر کشید و آن رمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کے دل میں سوائے خیالات کے اور کیا ہے ؛ ایک خیال موج کی مانند سر اٹھاتا ہے، دوسرا بھاگ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is there in man’s heart but thoughts, like waves this upsurging and that fleeing?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جانش از محسوس می گیرد قرار\nبو کہ عھد رفتہ باز آید پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کی روح کو اسی چیز سے قرار حاصل ہوتا ہے جو (حواس خمسہ) سے محسوس کر سکتا ہے؛ (چونکہ سائنس کا دار و مدار اسی پر ہے اس لیے) ہمیں خدایان باطل کا دور واپس آ جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His soul takes repose in the sensible; would that the past age might return!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زندہ باد افرنگی مشرق شناس\nآنکہ ما را از لحد بیرون کشید\nاے خدایان کہن وقت است وقت",
+              "lang": "Original"
+            },
+            {
+              "_content": "افرنگ جس نے مشرق کو سمجھا ہے، یہی ہمیں ہماری قبروں سے باہر نکال لایا ہے – اے خدایان کہن اس وقت سے فائدہ اٹھاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Long live the European orientalist who has drawn us forth from the tomb! Ancient gods, our time has come!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "Text": [
+            {
+              "_content": "در نگر آن حلقۂ وحدت شکست\nآل ابراہیم بے ذوق الست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیکھو وہ توحید کا حلقہ ٹوٹ چکا ہے؛ آل ابراہیم (علیہ) عشق الہی کا ذوق کھو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold, the ring of unity is broken, Abraham’s people have lost the joy of Alast;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "Text": [
+            {
+              "_content": "صحبتش پاشیدہ جامش ریز ریز\nآنکہ بود از بادۂ جبریل مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مسلمان جو بادہء جبریل (علیہ) سے مست تھا اس کی محفل پراگندہ ہو چکی ہے اور اس کا جام ریزہ ریزہ ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its company is scattered, its cup in fragments, the cup which was drunken with the wine of Gabriel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "Text": [
+            {
+              "_content": "مرد حر افتاد در بند جہات\nبا وطن پیوست و از یزدان گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ آزاد مرد اطراف کی بندشوں میں گرفتار ہو چکا ہے؛ اس نے وطنیت کو اپنا لیا ہے اور اللہ تعالے کو چھوڑ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Free man has fallen into the bonds of directions, joined up with fatherland and parted from God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "Text": [
+            {
+              "_content": "خون او سرد از شکوہ دیریان\nلاجرم پیر حرم زنار بست\nاے خدایان کہن وقت است وقت",
+              "lang": "Original"
+            },
+            {
+              "_content": "بتخانہ ء مغرب نے اسے مرعوب کر دیا ہے؛ اس میں کوئی شک نہیں کہ پیر حرم نے زنّار باندھ لیا ہے – اے خدایان کہن اس وقت سے قائدہ اٹھاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His blood is cold of the glory of the ancients, the Elder of the Sanctuary has tied the Magian girdle. Ancient gods, our time has come!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "در جھان باز آمد ایام طرب\nدین ہزیمت خوردہ از ملک و نسب",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں پھر (ہماری) خوشی کا دور واپس آیا؛ دین (اسلام) ملک و نسب سے شکست کھا گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The days of joy have returned to the world, religion has been routed by sovereignty and lineage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از چراغ مصطفی اندیشہ چیست\nزانکہ او را پف زند صد بولہب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب چراغ مصطفے (صلعم) سے کیا اندیشہ؟ کیونکہ سینکڑوں بو لہب اسے بجھانے کے لیے پھونکیں مار رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What thought is there now of the lamp of the Chosen One, seeing that a hundred Bu Lahabs blow it out?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گرچہ می آید صدای لاالہ\nآنچہ از دل رفت کی ماند بہ لب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ لاالہ کی آواز آ رہی ہے، جب توحید دل سے نکل گئی تو زبان پر کب تک رہے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the cry ‘There is no god’ rises up still how should that remain on the lips which has gone from the heart?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "اہرمن را زندہ کرد افسون غرب\nروز یزدان زرد رو از بیم شب\nاے خدایان کہن وقت است وقت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغربیوں کے جادو نے سلطان کو زندہ کر دیا ہے؛ اللہ تعالے کا دن رات کے خوف سے زردی مائل ہے – اے خدایان کہن اس وقت سے فائدہ اٹھاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West’s enchantment has revived Ahriman; the day of God is pale-cheeked, fearful of the night. Ancient gods, our time has come!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "Text": [
+            {
+              "_content": "بند دین از گردنش باید گشود\nبندۂ ما بندۂ آزاد بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا بندہ آزاد بندہ تھا، اس کی گردن کو دین کے پھندے سے رہائی دلانی چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Religion’s chain must be loosed from his neck, our slave was ever a free slave;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "Text": [
+            {
+              "_content": "تا صلوت او را گران آید ہمی\nرکعتی خواہیم و آن ھم بے سجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ نماز اس کے لیے بوجھ بن چکی ہے اس لیے ہم خدایان باطل اس سے ایک رکعت چاہتے ہیں اور وہ بھی سجدے کے بغیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since the ritual prayers are heavy for him, we seek only one prayer, and that without prostration.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "32",
+          "Text": [
+            {
+              "_content": "جذبہ ہا از نغمہ می گردد بلند\nپس چہ لذت در نماز بے سرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذبات تو راگ ہی سے بلند ہوتے ہیں ؛ جس نماز کے ساتھ راگ نہیں اس میں کیا لطف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Passions are elevated by songs, so what pleasure is there in prayers without hymns?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "Text": [
+            {
+              "_content": "از خداوندی کہ غیب او را سزد\nخوشتر آن دیوی کہ آید در شہود\nاے خدایان کہن وقت است وقت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خدا جسے غیب میں رہنا پسند ہے؛ اس سے ایسا شیطان بہتر ہے جو سامنے نظر آئے – اے خدایان کہن اس وقت سے فائدہ اٹھاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better the demon that makes itself visible than a God to whom the Unseen is meet. Ancient gods, our time has come!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Song Of Baal"
+}

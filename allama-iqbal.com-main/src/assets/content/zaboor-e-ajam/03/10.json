@@ -1,0 +1,161 @@
+{
+  "id": "10",
+  "name": "سوال نہم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہ شد بر سر وحدت واقف آخر؟\nشناسای چہ آمد عارف آخر؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "آخر سر وحدت سے کون واقف ہوا؟ کس کے شناسا کو عارف کہا جاتا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who at last became familiar with the secret of unity? Who is the wise man that is agnostic?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تہ گردون مقام دلپذیر است\nو لیکن مہر و ماہش زود میر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان کے نیچے یہ (دنیا) دلکش مقام ہے، لیکن یہاں کے چاند، سورج جلد غروب ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world beneath the sky is a charming place, but its sun and moon are prone to decay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدوش شام نعش آفتابی\nکواکب را کفن از ماہتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "شام کے کندھے پر آفتاب کی نعش ہے ، اور ستاروں کے لیے چاندنی کفن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The corpse of the sun is carried on the shoulders of the evening; the stars vanish when the moon appears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پرد کہسار چون ریگ روانی\nدگرگون مے شود دریا بآنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہاڑ ریگ رواں کی مانند اڑتے ہیں ، اور دریا ایک لمحے میں بدل جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mountain flies like the moving sand, the river changes in a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گلان را در کمین باد خزان است\nمتاع کاروان از بیم جان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "گلوں کی گھات میں باد خزاں ہے، جان کا خوف ہی اس کارواں کی متاع ہے۔ (ہر ایک کو موت کا خوف دامن گیر ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Autumn lies in ambush against the flowers; the merchandise of the caravan is the fear (of loss) of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز شبنم لالہ را گوھر نماند\nدمی ماند دمے دیگر نماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ پر شبنم کا موتی نہیں رہتا ، ایک لمحہ ہوتا ہے ، دوسرے لمحے نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip does not retain its beauty through dew, if it retains it for a while; it loses it the next moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نوا نشنیدہ در چنگی بمیرد\nشرر ناجستہ در سنگی بمیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوا ساز ہی میں مر جاتی ہے کان تک نہیں پہنچتی ، شرر سنگ ہی میں رہ جاتا ہے باہر نہیں نکلتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sound dies in the harp without being produced; the flame dies in the stone without manifesting itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مپرس از من ز عالمگیری مرگ\nمن و تو از نفس زنجیری مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے مرگ کی عالمگیری کے متعلق نہ پوچھ ، میں اور تو اپنے سانس کی وجہ سے موت کے گرفتار ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t ask me about the universality of death, you and I are tied by our breaths to the chain of death.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 9",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,130 @@
+{
+  "id": "25",
+  "name": "اذان",
+  "name-en": "Call to Prayer",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک رات ستاروں سے کہا نجم سحر نے \nآدم کو بھی دیکھا ہے کسی نے کبھی بیدار؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One night in a vision, I saw a morning star, asking the stars if they saw man ever awake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کہنے لگا مریخ، ادا فہم ہے تقدیر \nہے نیند ہی اس چھوٹے سے فتنے کو سزاوار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mercury said, ‘Destiny has wisely decreed, that this impish trouble maker should always be asleep.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زہرہ نے کہا، اور کوئی بات نہیں کیا؟ \nاس کرمک شب کور سے کیا ہم کو سروکار!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Venus replied ill disdain ‘Let us mind our business; thus night-blind insect is beneath our contempt.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بولا مہ کامل کہ وہ کوکب ہے زمینی \nتم شب کو نمودار ہو، وہ دن کو نمودار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The full moon said, ‘He is a star of the earth; you appear by night, and he appears by day;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "واقف ہو اگر لذت بیداری شب سے \nاونچی ہے ثریا سے بھی یہ خاک پر اسرار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This handful of dust, when keeping awake at night, is loftier than the galaxies in heaven;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آغوش میں اس کی وہ تجلی ہے کہ جس میں \nکھو جائیں گے افلاک کے سب ثابت و سیار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has a beatific light concealed in his soul: A light that will eclipse the brightest stars and planets.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ناگاہ فضا بانگ اذاں سے ہوئی لبریز \nوہ نعرہ کہ ہل جاتا ہے جس سے دل کہسار!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then came the echoing thunder of the sound of azan; the thunder which gives shivers to mountains’ hearts.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

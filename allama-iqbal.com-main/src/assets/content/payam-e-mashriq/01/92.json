@@ -1,0 +1,34 @@
+{
+  "id": "92",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا اے عشق اے رمز دل ما\nبیا اے کشت ما اے حاصل ما\nکہن گشتند این خاکی نہادان\nدگر آدم بنا کن از گل ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے عشق، اے ہمارے دل کے راز آ! اے ہماری کھیتی ، اے ہمارے حاصل آ۔\nیہ آدم خاکی پرانا ہو چکا ہے، ہماری مٹی سے نیا آدم بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, O Love, guarded secret of our hearts, come, O our sowing and our harvesting.\nThese men, clay idols, have grown far too old. Another Adam now needs fashioning.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

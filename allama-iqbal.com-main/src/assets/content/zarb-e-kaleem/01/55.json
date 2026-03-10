@@ -1,0 +1,65 @@
+{
+  "id": "55",
+  "name": "آدم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "طلسم بود و عدم، جس کا نام ہے آدم \nخدا کا راز ہے، قادر نہیں ہے جس پہ سخن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Talisman wrought from mud and clay, whom we give the name of mail, is mystery known to God alone, its essence true we can not scan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمانہ صبح ازل سے رہا ہے محو سفر \nمگر یہ اس کی تگ و دو سے ہو سکا نہ کہن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since Creation's Early Morn began time is engaged in constant flight, has tried to leave its trace on mail, but has not met success e'en slight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگر نہ ہو تجھے الجھن تو کھول کر کہہ دوں \n'وجود حضرت انساں نہ روح ہے نہ بدن",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you do not get, much disturbed, to you this truth I may unroll that man, God's image, on the earth is neither frame of clay nor soul.\n[Syed Akbar Ali Shah]",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Adam"
+}

@@ -1,0 +1,66 @@
+{
+  "id": "10",
+  "name": "مشرق",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مری نوا سے گریبان لالہ چاک ہوا \nنسیم صبح، چمن کی تلاش میں ہے ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By strains I sing at early morn, the vest of tulip has been torn.\nBreeze has been roaming since the dark, but has not found a single park.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نہ مصطفی نہ رضا شاہ میں نمود اس کی \nکہ روح شرق بدن کی تلاش میں ہے ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Raza Shah or Mustafa Kamal, no trace of it is found at all. East's soul is seeking body sound, but such a body has not found.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مری خودی بھی سزا کی ہے مستحق لیکن \nزمانہ دارو رسن کی تلاش میں ہے ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My Self deserves correction dire. To set it right and sound entire: The world harbours this evil hope; to hang me seeks a plank and rope.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The East",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

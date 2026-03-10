@@ -1,0 +1,359 @@
+{
+  "id": "24",
+  "name": "ساقی نامہ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "در نشاط باغ کشمیر نوشتہ شد",
+      "name-ur": "نشاط باغ کشمیر میں لکھے گئے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خوشا روزگاری خوشا نوبہاری\nنجوم پرن رست از مرغزاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا زمانہ ہے اور کیا موسم بہار؛ سبزہ زار سے ستاروں جیسے پھول اگ رہے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O what a happy season this! O what a joyous time! The meadows are star-spangled with fresh flowers in spring’s prime.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمین از بھاران چو بال تذروی\nز فوارہ الماس بار آبشاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین بہار کے فیض سے تدروں کے پروں کی طرح خوش رنگ ہے ؛ آبشار سفید موتی بکھیر رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like partridge-wings the ground is pied with variegated flowers. How bountiful the waterfall! What diamonds it showers!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نپیچد نگہ جز کہ در لالہ و گل\nنغلطد ہوا جز کہ بر سبزہ زاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "جدھر نگاہ اٹھتی ہے، لالہ و گل نظر آتے ہیں ؛ جدھر ہوا جاتی ہے سامنے سبزہ زار پھیلا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of roses and of tulips what a riot meets the eye! The breezes frolicsomely roll on miles of greenery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "لب جو خود آرائی غنچہ دیدی\nچہ زیبا نگاری چہ آئینہ داری",
+              "lang": "Original"
+            },
+            {
+              "_content": "ندی کے کنارے غنچے کی خود آرائی دیکھی؟ کیا خوبصورت محبوب ہے اور اس کے سامنے کیسا آئینہ ہے!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have you seen mirrored in the stream the self-admiring bud? What fascinating beauty and what unabashed self-pride!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چہ شیرین نوائی چہ دلکش صدائی\nکہ می آید از خلوت شاخساری",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاخساروں کے اندر سے کیا میٹھی نوائیں اور کیا دلکش صدائیں آ رہی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O what a mellifluous song, in what a lovely tune, from some bird hidden in a tree, singing as if alone!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بتن جان بجان آرزو زندہ گردد\nز آوای ساری ز بانگ ہزاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "سار کی آواز اور بلبل کی صدا سے بدن کے اندر جان کے اندر آرزو زندہ ہو گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The starling and the nightingale with song resuscitate the spirit in the body and old longings in the spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نوا ہای مرغ بلند آشیانی\nدر آمیخت با نغمہ جویباری",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغ بلند آشیاں کی آوازیں ، ندی کے نغموں کے ساتھ ہم آہنگ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From high-perched nests up in the trees the songsters’ warblings seem to cascade down and mingle with the babblings of the stream.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "تو گوئی کہ یزدان بہشت برین را\nنہاد است در دامن کوہساری",
+              "lang": "Original"
+            },
+            {
+              "_content": "یوں نظر آتا ہے کہ اللہ تعالے نے بہشت بریں کو دامن کہسار میں رکھ دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You would think God had graciously sent down His Paradise and placed it at a mountain’s foot for human ears and eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کہ تا رحمتش آدمی زادگان را\nرہا سازد از محنت انتظاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "یوں معلوم ہوتا ہے کہ اس کی رحمت نے آدم کی اولاد کو انتظار (بہشت) کی کلفت سے بچا لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To hear and see, in order to spare man the long suspense and agony of waiting till he’s ready to go hence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چہ خواہم درین گلستان گر نخواہم\nشرابی، کتابی، ربابے نگاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس گلستان میں اس کے سوائے اور کیا آرزو ہو سکتی ہے؛ کہ شراب ہو، کتاب ہو ، رباب ہو، محبوب ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What better things could I wish for in such a pleasure-garden than wine, a book, a lute and ah! A fair companion?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "سرت گردم اے ساقی ماہ سیما\nبیار از نیاگان ما یادگاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے چاند جیسے چہرے والے ساقی میں تجھ پر قربان جاؤں ؛ کوئی بزرگوں کی یادگار (پرانی شراب) پیش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My life, O moon-faced saki, for a single gracious boon: Awaken in me memories of forebears long since gone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "بہ ساغر فرو ریز آبی کہ جان را\nفروزد چو نورے بسوزد چو ناری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ساغر میں وہ شراب ڈال جو میری جان کو نور کی طرح چمکا دے اور نار کی طرح جلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come pour into my empty glass the stuff which has no name, which lights the soul up like a lamp and burns it like a flame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "شقایق برویان ز خاک نژندم\nبہشتی فرو چین بہ مشت غباری",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک غمگین سے گل لالہ اگا؛ میری مشت غبار سے بہشت پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I pray to you make tulips grow from my exhausted clay and build a paradise from dust now mouldering away.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "نبینی کہ از کاشغر تا بہ کاشان\nھمان یک نوا بالد از ہر دیاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو نہیں دیکھتا کہ کاشغر سے کاشان تک ؛ ہر شہر سے ایک ہی آواز اٹھ رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O don’t you know that east and west, from Kashghar to Kashan, there is going up one grand song replete with life’s elan?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ز چشم امم ریخت آن اشک نابی\nکہ تأثیر او گل دماند ز خاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "امتوں کی آنکھ سے ایسے آنسو بہ رہے ہیں کہ ان کی تاثیر کانٹوں کے اندر سے پھول کھلا رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The peoples’ eye has shed at last that purest of all tears whose magic can compel the rose to grow on prickly pears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کشیری کہ با بندگی خو گرفتہ\nبتی می تراشد ز سنگ مزاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشمیر ی جو غلامی کا عادی ہو کر سنگ مزار سے بت تراشتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But oh! This poor Kashmiri who, in slavery born and bred, is busy carving idols from the tombstones of the dead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ضمیرش تہی از خیال بلندی\nخودی ناشناسی ز خود شرمساری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ضمیر افکار بلند سے خالی ہے ؛ وہ خودی سے محروم اور اپنے آپ سے خجل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His mind is blank and quite devoid of any higher thought; so ignorant of his own self and by self-shame distraught!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بریشم قبا خواجہ از محنت او\nنصیب تنش جامۂ تارتاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی محنت کے نتیجہ میں سرمایہ دار ریشمی قبا پہنے ہوئے ہے مگر کشمیری کے بدن پر جامہ تار تار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His master goes clad in fine silk, all woven with his sweat; but tatters, patches, rags and shreds are all his body’s lot.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "نہ در دیدۂ او فروغ نگاہی\nنہ در سینۂ او دل بیقراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اس کی آنکھ میں بصیرت کی چمک ہے اور نہ اس کے سینے میں امنگوں بھرا دل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is not in his eye the light of vision that reveals, nor does there in his bosom beat the living heart that feels.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از آن می فشان قطرہ ئی برکشیری\nکہ خاکسترش آفریند شراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ساقیء مہوش ! ) اس شراب کا ایک قطرہ کشمیری پر گرا ؛ تا کہ اس کی راکھ سے شرر پیدا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come pour a drop upon him of your soul-enkindling wine, and from his smouldering ashes make a spark leap up and shine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Sakinama",
+  "credits": "English Translation by: M. Hadi Husain"
+}

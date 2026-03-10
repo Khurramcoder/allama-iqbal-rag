@@ -1,0 +1,83 @@
+{
+  "id": "03",
+  "name": "قید خانے میں معتمد کی فریاد",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک فغان بے شرر سینے میں باقی رہ گئی \nسوز بھی رخصت ہوا، جاتی رہی تاثیر بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mu‘tamid was the king of Seville and an Arabic poet. He was defeated and imprisoned by a ruler of Spain. Mu‘tamid’s poems have been translated into English and published in the ‘Wisdom of the East’ series. \nIn my breast, a wail of grief, without any spark or flash; alone survives, passionless, ineffectual.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مرد حر زنداں میں ہے بے نیزہ و شمشیر آج \nمیں پشیماں ہوں، پشیماں ہے مری تدبیر بھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ميں: آزاد مرد قید میں۔ مرد حر زنداں",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A free man is in prison today, without a spear or a sword; regret overwhelms me and also my strategy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خود بخود زنجیر کی جانب کھنچا جاتا ہے دل \nتھی اسی فولاد سے شاید مری شمشیر بھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is drawn by instinct to chains. Perhaps my sword was of the same steel.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جو مری تیغ دو دم تھی، اب مری زنجیر ہے \nشوخ و بے پروا ہے کتنا خالق تقدیر بھی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once I had a two-edged sword – it turned into the chains that shackle me now. How whimsical and indifferent is the Author of fates.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Mu‘Tamid’s Lament In Prison",
+  "credits": "English Translation by: Naeem Siddiqui"
+}

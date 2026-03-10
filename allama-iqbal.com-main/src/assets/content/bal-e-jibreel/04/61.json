@@ -1,0 +1,34 @@
+{
+  "id": "61",
+  "name": "قطعہ",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کل اپنے مریدوں سے کہا پیر مغاں نے \nقیمت میں یہ معنی ہے درناب سے دہ چند \nزہراب ہے اس قوم کے حق میں مےء افرنگ \nجس قوم کے بچے نہیں خوددار و ہنرمند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mentor exhorted his disciples once: Listen to my words, in value greater than gold:\nThe Western wine is poison for the people, when the offspring knows neither pride nor skill.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Stanza",
+  "credits": "English Translation by: Naim Siddiqui"
+}

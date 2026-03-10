@@ -1,0 +1,239 @@
+{
+  "id": "29",
+  "name": "عشق",
+  "name-en": "Love",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فکرم چو بہ جستجو قدم زد\nدر دیر شد و در حرم زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میری فکر نے جستجو (کے میدان) میں قدم رکھا ، تو وہ بتخانے میں بھی گیا؛ اس نے حرم کا دروازہ بھی کھٹکھٹایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My thought, engaged in finding out the final truth, went to the Ka‘bah and the idol-temple both.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در دشت طلب بسی دویدم\nدامن چون گرد باد چیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ویرانہء طلب میں بہت دوڑا، مگر میں نے بگھولے کی طرح اپنا دامن سمیٹا (کچھ حاصل نہ کیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I wandered widely in inquiry’s wilderness, collecting my skirts like the whirlwind’s flowing dress.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پویان بی خضر سوی منزل\nبر دوش خیال بستہ محمل",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بغیر خضر (علیہ) (رہبر ) کے منزل کی جانب دوڑا؛ میں نے تخیل کے دوش پر محمل باندھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bound for an unknown destination with no guide, on my imagination’s shoulders borne astride;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جویای می و شکستہ جامی\nچون صبح بہ باد چیدہ دامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں شراب کا متلاشی تھا مگر میرے ہاتھ میں ٹوٹا ہوا جام تھا؛ صبح کی مانند میں نے ہوا کے لیے جال بچھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Demanding wine with just a broken cup in hand, broadcasting like the dawn a net to catch the wind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیچیدہ بخود چو موج دریا\nآوارہ چو گرد باد صحرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج دریا کی مانند میں اپنے آپ کے اندر پیچ و تاب کھاتا رہا؛ اور صحرا کے بگھولے کی مانند آورہ پھرتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Recoiling upon myself like waves in the sea, roaming the desert in a whirlwind’s agony;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عشق تو دلم ربود ناگاہ\nاز کار گرہ گشود ناگاہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اچانک تیرے عشق نے میرا دل لوٹ لیا اور میری مشکل کا عقدہ ایک دم حل ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But suddenly Your love came and assailed my heart and with a mighty blow it cut the Gordian Knot.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آگاہ ز ہستی و عدم ساخت\nبتخانۂ عقل را حرم ساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے مجھے ہستی اور عدم سے آگاہ کر دیا؛ اس نے میرے بتخانہ ء عقل کو حرم بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It taught me all that being and non-being mean; it changed my idol-temple to a holy shrine;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "چون برق بہ خرمنم گذر کرد\nاز لذت سوختن خبر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ میرے خرمن پر بجلی کی طرح کوند گیا؛ اس نے مجھے جلنے کی لذت سے آشنا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And striking lightning fashion my self’s granary, it taught my heart the joy of burning silently.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "سر مست شدم ز پا فتادم\nچون عکس ز خود جدا فتادم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سرمست ہو کر گر پڑا اور اپنے عکس کی مانند اپنے آپ سے جدا ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All in a rapture I was carried off my feet; and I became a shadow, from myself discrete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خاکم بہ فراز عرش بردی\nزان راز کہ با دلم سپردی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے (عشق کا) جو راز میرے دل کے سپرد کیا؛ اس نے میری خاک کو عرش کی بلندی تک پہنچا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sublimating force of what You taught my heart sent my dust soaring right up to Heaven’s starry height.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "واصل بہ کنار کشتیم شد\nطوفان جمال زشتیم شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تب میری کشتی ساحل پر جا لگی، میں نے منزل مقصود کو پا لیا؛ اور میری بدصورتی طوفان جمال میں بدل گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My being’s storm-tossed ship at long last came to port, and into beauty’s channel all my ugliness was poured.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "جز عشق حکایتی ندارم\nپرواے ملامتی ندارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب میرے پاس عشق کی حکایت کے علاوہ اور کوئی حکایت نہیں؛ نہ اس بارے میں مجھے کسی کی ملامت کی پرواہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no tale to tell except the tale of love; I do not care if men approve or disapprove.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "از جلوۂ علم بی نیازم\nسوزم، گریم، تپم، گدازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں علم کے جلوں سے بے نیاز ہوں؛ عشق میں جلتا ہوں ، روتا ہوں، تڑپتا ہوں اور گداز ہوتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of learning’s light I do not have the slightest need; and all I have to do is burn and melt and bleed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

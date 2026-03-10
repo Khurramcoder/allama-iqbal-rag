@@ -1,0 +1,34 @@
+{
+  "id": "46",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "این دل کہ مرا دادی لبریز یقین بادا\nاین جام جہان بینم روشن تر ازین بادا\nتلخی کہ فرو ریزد گردون بہ سفال من\nدر کام کہن رندی آنہم شکرین بادا",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے مجھے جو دل عطا فرمایا ہے یہ یقین سے پر ہو جائے ؛ تاکہ میرا یہ جام جہاں بیں اور زیادہ روشن ہو۔ \nگردوں نے میرے پیالے میں جو تلخ شراب (مصائب) ڈالی ہے؛ مجھ جیسے پرانے رند کے لیے وہ بھی شیریں ہو جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let this heart Thou gavest me overflow with certainty, and my world-beholding glass all its radiance surpass.\nLet the bitter potion poured by the heavens in my gourd on this toper’s tongue of mine taste as sweet as honeyed wine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

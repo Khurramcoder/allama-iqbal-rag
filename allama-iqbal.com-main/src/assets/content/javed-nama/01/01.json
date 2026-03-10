@@ -1,0 +1,34 @@
+{
+  "id": "01",
+  "name": "دیباچہ",
+  "name-en": "Preface",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "01",
+  "sectionName": "جاوید نامہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیال من بہ تماشای آسمان بود است\nبدوش ماہ و بہ آغوش کہکشان بود است\nگمان مبر کہ ہمین خاکدان نشیمن ماست\nکہ ہر ستارہ جہان است یا جہان بود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا تخیّل آسمانوں کے نظارے کرتا ہے، (کبھی) چاند کے کندھے پر (سوار) اور (کبھی) کہکشاں کی گود میں ہوتا ہے۔\nآیسا مت سوچ کہ یہی زمین ہمارا نشیمن ہے، ہر ستارہ ہمارا جہان ہے یا رہ چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My vision encompasses the heavens; at times it sits on shoulders of moon and at times in the lap of milkay way.\nThink not that only this earth is our abode; each star is or has benn our abode.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

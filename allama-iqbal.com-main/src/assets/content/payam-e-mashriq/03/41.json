@@ -1,0 +1,102 @@
+{
+  "id": "41",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سر خوش از بادۂ تو خم شکنی نیست کہ نیست\nمست لعلین تو شیرین سخنی نیست کہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی ایسا خم شکن نہیں جو آپ (صلعم) کی محبت سے سر خوش نہ ہو، کوئی ایسا شیرین سخن نہیں جو آپ (صلعم) کے لب لعلیں سے سرمست نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no breaker of wine-jars not merrily drunk with your wine. There is no sweet-tongued poet who has not sucked rapture at your ruby-tinted lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در قبای عربی خوشترک آئی بہ نگاہ\nراست بر قامت تو پیرہنی نیست کہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عربی قبا میں آپ (صلعم) نظر میں زیادہ جچتے ہیں ، ورنہ کوئی ایسا لباس نہیں جو آپ (صلعم) کی قامت پر سجتا نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Arab dress you are most pleasing to the eyes, but there is no dress which does not suit you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گرچہ لعل تو خموش است ولی چشم ترا\nبا دل خون شدۂ ما سخنی نیست کہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ آپ (صلعم) کے لب لعلیں خاموش ہیں مگر ، کوئی ایسی بات نہیں جو آپ (صلعم) کی چشم (مست ) ہمارے دل خوں شدہ سے نہ کرتی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your lips are silent, but your eyes are not. O there is not a thing that they do not say to my bleeding heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تا حدیث تو کنم بزم سخن می سازم\nورنہ در خلوت من انجمنی نیست کہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اس لیے بزم آراستہ کی ہے تا کہ آپ (صلعم) کی صفت بیان کروں ، ورنہ کوئی ایسی انجمن نہیں جو مجھے خلوت میں میسّر نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hold poetic gatherings only to sing of you, for otherwise there is no gathering that I cannot conjure up in my solitude.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے مسلمان دگر اعجاز سلیمان آموز\nدیدہ بر خاتم تو اہرمنی نیست کہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے مسلمان دوبارہ سلیمان (علیہ) کا اعجاز سیکھ ، کیونکہ کوئی ایسا اہرمن نہیں جس کی نظر تیری انگوٹھی پر نہ ہو۔ (مشہور ہے کہ سلیمان (علیہ) کی انگوٹھی شیاطین لے گئے تھے جس کی وجہ سے ان کے ہاتھ سے سلطنت جاتی رہی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim, learn again how to work miracles like Solomon. There is no Ahriman who does not have an eye upon your ring.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان ما کہ نابود است بودش\nزیان توام ہمی زاید بسودش\nکہن را نو کن و طرح دگر ریز\nدل ما بر نتابد دیر و زودش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا جہان جس کا ہونا نہ ہونے کے برابر ہے؛ یہاں فائدے کے ساتھ نقصان بھی بڑھتا ہے۔\nیہ پرانا ہو چکا ہے، اس کی بنیاد از سر نو اٹھا کر اسے نیا کر، ہمارا دل اس کے دیر و زود کی تاب نہیں رکھتا (دل چاہتا ہے کہ اس کی خواہش فورا پوری ہو)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of ours, where Loss is born with gain and dissolution is with Being twain.\nOur heart will not endure it, soon or late: Make new the old, and build it up again!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

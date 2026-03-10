@@ -1,0 +1,102 @@
+{
+  "id": "57",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مثل شرر ذرہ را تن بہ تپیدن دہم\nتن بہ تپیدن دھم بال پریدن دہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں شرر کی مانند ذرّہ میں آگ لگا کر اسے اڑنے کے لیے پر مہیا کرتا ہوں،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each atom’s body like a spark I set a quivering, each atom quivers through the dark and soars as on a wing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سوز نوایم نگر ریزۂ الماس را\nقطرۂ شبنم کنم خوی چکیدن دہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آواز کا سوز دیکھ ، میں الماس کے ٹکڑے کو قطرہ ء شبنم بنا کر ٹپکا دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "List to my music burning new! Each diamantine grain I fashion like a drop of dew to trickle soft as rain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون ز مقام نمود نغمۂ شیرین زنم\nنیم شبان صبح را میل دمیدن دہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں اپنے مقام سے نغمہ ء شیریں آلاپتا ہوں ؛ تو نصف شب ہی کو صبح کے انداز عطا کر دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From manifesting’s stage when break my soft, sweet melodies, even in the dead of night I make the dawn desire to rise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یوسف گم گشتہ را باز گشودم نقاب\nتا بہ تنک مایگان ذوق خریدن دہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یوسف گم گشتہ کو پھر سامنے لے آیا ہوں، تاکہ کم متاع لوگوں کے اندر اس کی خریداری کا شوق پیدا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Joseph, concealed from sight so long, I have revealed anew, that I may fire the needy throng his beauty to pursue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق شکیب آزما خاک ز خود رفتہ را\nچشم تری داد و من لذت دیدن دہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود فراموش مسلمانوں کی خاک کو عشق صبر آزما نے چشم تر دی اور میں نے انہیں لذّت دید دی ہے (مجھ سے پہلے مسلمان اپنے حالات پر فقط آنسو بہاتے تھے ، میں نے انہیں نئے روشن مستقبل کی راہ دیکھائی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dear love that doth man’s patience try, to dust in ecstasy hath given eyes to weep, and I the wondrous joy to see.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

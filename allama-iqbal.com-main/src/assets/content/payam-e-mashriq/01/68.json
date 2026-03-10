@@ -1,0 +1,34 @@
+{
+  "id": "68",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرا روزی گل افسردہ ئی گفت\nنمود ما چو پرواز شرار است\nدلم بر محنت نقش آفرین سوخت\nکہ نقش کلک او ناپایدار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک دن پژمردہ پھول نے مجھ سے کہا؛ ہماری زندگی شرر کی پرواز کی مانند ہے۔\nخالق کی محنت پر میرا دل جلتا ہے؛ کہ اس کے قلم کا نقش ناپائیدار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day a withered rose thus spoke to me: ‘Our manifesting is a spark swift blown.’\nMy heart is anguished for the Artist’s pain, the painting of His brush fadeth so soon!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

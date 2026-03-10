@@ -1,0 +1,120 @@
+{
+  "id": "07",
+  "name": "فصل بھار",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیز کہ در کوہ و دشت خیمہ زد ابر بھار\nمست ترنم ہزار\nطوطی و دراج و سار\nبر طرف جویبار\nکشت گل و لالہ زار\nچشم تماشا بیار\nخیز کہ در کوہ و دشت خیمہ زد ابر بھار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ! کہ کوہ و دشت میں ابر بہار نے خیمہ گاڑا ہے۔\nبلبل، طوطی، درّاج، تلیر سب مست ترنم ہیں، ندی کے کنارے پھولوں کی کیاریاں اور گل لالہ کے تختے ہیں، دیکھنے (اور لطف اندوز ہونے ) والی آنکھ پیدا کر۔ \nاٹھ! کہ کوہ و دشت میں ابر بہار نے خیمہ گاڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise, for in plain, hill and dale, spring clouds have pitched their tent. \nThe nightingale sings jubilant songs to a choir’s accompaniment. Along the stream bank’s whole extent blend tulip’s tint and rose’s scent. Let your eye witness this event.\nArise, for in plain, hill and dale, spring clouds have pitched their tent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "Text": [
+            {
+              "_content": "خیز کہ در باغ و راغ قافلۂ گل رسید\nباد بھاران وزید\nمرغ نوا آفرید\nلالہ گریبان درید\nحسن گل تازہ چید\nعشق غم نو خرید\nخیز کہ در باغ و راغ قافلۂ گل رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ! کہ باغ و راغ میں پھولوں کا قافلہ پہنچ گیا۔\nباد بہاری چلی، پرندے نے صدا بلند کی، لالے نے گریبان پھاڑ ڈالا، حسن نے تازہ پھول چنے ( محبوبوں کے رخسار تمتما اٹھے) عشق نے نیا غم خریدا۔ \nاٹھ! کہ باغ و راغ میں پھولوں کا قافلہ پہنچ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise, for to the fields has come the flowers’ caravan.\nThe breezes of spring blow again. The birds sing songs in unison. The spring-mad tulip’s dress is torn. There is a new rose to adorn\nBeauty, and for love a new thorn. \nArise, for to the fields has come the flowers’ caravan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بلبلگان در صفیر، صلصلگان در خروش\nخون چمن گرم جوش\nاے کہ نشینی خموش\nدر شکن آئین ہوش\nبادۂ معنی بنوش\nنغمہ سرا گل بپوش\nبلبلگان در صفیر، صلصلگان در خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبلیں نغمہ ریز ہیں، فاختائیں محو ترنم ہیں۔\nخون چمن جوش میں ہم، تو جو خاموش بیٹھا ہے، آئین ہوش (کی پابندی) چھوڑ؛ حقیقت کی شراب پی؛ گیت گا، پھولوں سے لطف اندوز ہو۔\nبلبلیں نغمہ ریز ہیں، فاختائیں محو ترنم ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Nightingales are carolling, the ring-doves coo a loud.\nAll warmed up is the garden’s blood. O’ you, in silence closeted, break all commands of your save head; get drunk with mystic wine instead; sing and go in rose-petals clad.\nThe Nightingales are carolling the ring-dove coo a loud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "Text": [
+            {
+              "_content": "حجرہ نشینی گذار گوشۂ صحرا گزین\nبر لب جوئی نشین \nآب روان را ببین\nنرگس ناز آفرین\nلخت دل فرودین\nبوسہ زنش بر جبین\nحجرہ نشینی گذار گوشۂ صحرا گزین",
+              "lang": "Original"
+            },
+            {
+              "_content": "گوشہ نشینی چھوڑ، گوشہء صحرا اختیار کر۔\nندی کے کنارے بیٹھ؛ آب رواں دیکھ؛ ناز افرین ( مست ناز) نرگس، جو بہار کے دل کا ٹکڑا ہے، پانی کی جبین پر بوسہ دے رہی ہے۔\nگوشہ نشینی چھوڑ، گوشہء صحرا اختیار کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Abandon your retreat and into fields and pastures go. \nSit by a brooklet’s margin so that you may watch its waters flow. Spring’s favourite, the narcissus, how the pride of beauty makes it glow! O plant a soft kiss on its brow.\nAbandon your retreat and into fields and pastures go.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "دیدہ معنی گشا اے ز عیان بیخبر\nلالہ کمر در کمر\nنیمۂ آتش بہ بر\nمی چکدش بر جگر\nشبنم اشک سحر\nدر شفق انجم نگر\nدیدۂ معنی گشا، اے ز عیان بیخبر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو (حسن) عیاں سے بے خبر ہے، حقیقت بیں آنکھ کھول۔ \nگل لالہ کمر در کمر آتشیں لباس پہنے ہے ، شبنم اس کے جگر پر اشک سحر ٹپکاتی ہے، شفق (کے پس منظر) میں (روشن) ستارہ کو دیکھ۔\nتو جو (حسن) عیاں سے بے خبر ہے، حقیقت بیں آنکھ کھول۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you, who cannot see the obvious, open your mind’s eye. \nSee tulips row on row, and see their bodies on fire seemingly, but their hearts inwardly soothed by the dawn-dew’s tearful ministry – stars in a twilight-reddened sky!\nO you, who cannot see the obvious, open your mind’s eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "Text": [
+            {
+              "_content": "خاک چمن وانمود راز دل کائنات\nبود و نبود صفات\nجلوہ گریھای ذات\nآنچہ تو دانی حیات۔\nآنچہ تو خوانے ممات\nہیچ ندارد ثبات\nخاک چمن وانمود راز دل کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک چمن نے راز حیات ظاہر کر دیا۔ \n(کیا ظاہر کر دیا؟) (جلوہء) صفات کا کہیں ہونا ، کہیں نہ ہونا؛ ذات (باری تعالے) کی جلوہ گری، جسے تو حیات سمجھتا ہے، جسے تو موت کہتا ہے؛ کسی کو ثبات نہیں۔\nخاک چمن نے راز حیات ظاہر کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sprouts from the garden’s soil: The secret of Creation’s heart. \nThe shadow-play of attribute; how essence brings itself to light; life, as we all imagine it; and. death, which is life’s opposite; O all this is without a root.\nSprouts from the garden’s soil the secret of Creation’s heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Spring",
+  "credits": "English Translation by: M Hadi Hussain"
+}

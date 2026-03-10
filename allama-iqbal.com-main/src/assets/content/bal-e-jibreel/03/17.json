@@ -1,0 +1,33 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترے سینے میں دم ہے، دل نہیں ہے \nترا دم گرمی محفل نہیں ہے \nگزر جا عقل سے آگے کہ یہ نور \nچراغ راہ ہے، منزل نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy bosom has breath; it does not have a heart; thy breath has not the warmth and fire of life. \nRenounce the path of reason; it is a light that brightens thy way; it is not thy Final goal.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

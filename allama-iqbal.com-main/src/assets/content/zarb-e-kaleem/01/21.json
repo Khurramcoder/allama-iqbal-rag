@@ -1,0 +1,68 @@
+{
+  "id": "21",
+  "name": "اسلام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "روح اسلام کی ہے نور خودی، نار خودی \nزندگانی کے لیے نار خودی نور و حضور",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire and light of Ego both the soul of Muslims together bind, the fire of Self is light for life, God's existence brings before the mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہی ہر چیز کی تقویم، یہی اصل نمود \nگرچہ اس روح کو فطرت نے رکھا ہے مستور",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستور: پوشیدہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It fortifies the things of life; it is the cause of all display though Nature always hides this soul from eyes of mankind far away.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لفظ 'اسلام، سے یورپ کو اگر کد ہے تو خیر \nدوسرا نام اسی دین کا ہے 'فقر غیور'",
+              "lang": "Original"
+            },
+            {
+              "_content": "کد: نفرت، چڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Muslim Faith offends the West, let West in its own anger burn: This Faith is known by other name, to 'Jealous Faqr' now we must turn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Islam",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

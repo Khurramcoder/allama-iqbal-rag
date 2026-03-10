@@ -1,0 +1,391 @@
+{
+  "id": "01",
+  "name": "ارواح جلیلۂ حلاج و غالب و قرةالعین طاہرہ کہ بہ نشیمن بہشتی نگردیدند و بگردش جاودان گراییدند",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "06",
+  "sectionName": "فلک مشتری",
+  "name-en": "The Sphere Of Jupiter: The noble spirits of Hallaj, Ghalib, and Qurrat al-Ain Tahira who disdained to dwell in Paradise",
+  "name-ur": "حلاج ، غالب اور قرتہ العین طاہرہ کی ارواح جلیلہ جنہوں نے بہشت میں رہنے کی بجائے گردش جاودان کو پسند کیا",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من فدای این دل دیوانہ ئی\nہر زمان بخشد دگر ویرانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے اس دل دیوانہ کے قربان جاؤں جو مجھے ہر لمحے ایک نیا ویرانہ عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let me be a ransom for this demented heart which every instant bestows on me another desert;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چون بگیرم منزلی گوید کہ خیز\nمرد خود رس بحر را داند قفیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں کسی ایک جگہ بیٹھ جاؤں تو کہتا ہے ، اٹھ جو شخص اپنے آپ کو پہچانتا ہے وہ سمندر کو بھی معمولی چیز سمجھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whenever I take up a lodging, it says, ‘Rise-up!’ The self-strong man reckons the sea as but a pool.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زانکہ آیات خدا لا انتہاست\nاے مسافر جادہ را پایان کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ اللہ تعالے کی آیات لا انتہا ہیں اس لیے مسافر کے سفر کی بھی کوئی انتہا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seeing that the signs of God are infinite where, traveller, can the high-road end?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کار حکمت دیدن و فرسودن است\nکار عرفان دیدن و افزودن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفے کا کام دیکھنا اور نظریات کا ابطال کرتے رہنا ہے؛ معرفت کا کام حقیقت کو دیکھنا اور اس میں آگے بڑھنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The task of science is to see and consume, the work of gnosis is to see and augment;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آن بسنجد در ترازوی ہنر\nاین بسنجد در ترازوی نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفہ اپنے علم کا ہنر (استدلال ) کے ترازو میں تولتا ہے؛ اور عرفان اپنی کیفیات کا انداز نگاہ سے کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science weighs in the balance of technology; gnosis weighs in the balance of intuition;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آن بدست آورد آب و خاک را\nاین بدست آورد جان پاک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفہ و سائنس جہان آب و خاک کو اپنی گرفت میں لاتے ہیں اور علم معرفت جہان روح کو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science holds in its hand water and earth, gnosis holds in its hand the pure spirit;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آن نگہ را بر تجلی می زند\nاین تجلی را بخود گم می کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک اپنی نگاہ تجلّی پر رکھتا ہے ؛ اور دوسرا تجلّی کو اپنے اندر سمو لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science casts its gaze upon phenomena, gnosis absorbs phenomena into itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "در تلاش جلوہ ہای پے بہ پی\nطی کنم افلاک و می نالم چو نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں پے بہ پے جلوں کی تلاش میں نے کی طرح نالہ و فریاد کرتا ہوا مختلف افلاک کا سفر طے کرتا جاتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In quest of continuous manifestations I travel through the skies, lamenting like a reed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "این ہمہ از فیض مردی پاک زاد\nآنکہ سوز او بجان من فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ سب کچھ اس مرد پاک زاد (رومی) کا فیضان تھا جس نے اپنا سوز میری جان میں ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All this is by the grace of a pure-born saint whose ardour fell upon my soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "کاروان این دو بینای وجود\nبر کنار مشتری آمد فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "موجودات کو دیکھنے والے ہم دو مردوں کا کاروان مشتری کے کنارے پر اترا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan of these two scanners of existence presently halted by the shores of Jupiter;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آن جھان آن خاکدانی ناتمام\nدر طواف او قمر ہا تیز گام",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان ، ایک نامکمل دنیا تھی؛ جس کے گرد کئی چاند تیزی سے چکر لگا رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That world, that earth not yet complete, circling about it moons swift of pace;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "خالی از می شیشہ تاکش ہنوز\nآرزو نارستہ از خاکش ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی صراحی ابھی تک شراب سے خالی تھی؛ ابھی تک اس کی خاک سے آرزو کا پودا نہیں پھوٹتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نیم شب از تاب ماہان نیم روز\nنے برودت در ہوای او نہ سوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے چاندوں کی روشنی سے نصف شب کو دوپہر کا سا سماں تھا؛ اس کی ہوا میں نہ خنکی تھی نہ حرارت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Midnight, a world half day in the moon’s gleam, the air thereof neither chill nor torrid.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "من چو سوی آسمان کردم نظر\nکوکبش دیدم بخود نزدیک تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے جب آسمان کی طرف نظر کی تو، اس ستارہ (مشتری) کو اپنے سے قریب تر پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I lifted my gaze towards heaven I saw a star closer to me;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہیبت نظارہ از ہوشم ربود\nشد دگرگون نزد و دور و دیر و زود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نظارے کی ہیبت سے میرے ہوش و حواس گم ہو گئے ؛ نزدیک و دور (مکان) اور قریب و بعید (زمان) کا تصوّر بدل گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The awful prospect robbed me of my senses – near and far, late and soon became transformed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "پیش خود دیدم سہ روح پاکباز\nآتش اندر سینہ شان گیتی گداز",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنے سامنے تین پاک باز اروح کو دیکھا جن کے سینوں میں ایسی آگ تھی جس نے زمانوں کے انداز بدل دئے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw before me three pure spirits the fire in whose breasts might melt the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در برشان حلہ ہای لالہ گون\nچہرہ ہا رخشندہ از سوز درون",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ سرخ رنگ کی چادریں اوڑھے ہوے تھے اور ان کے چہرے سوز دروں کے باعث چمک رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They were clad in robes of tulip hue; their faces gleamed with an inner glow;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "در تب و تابی ز ہنگام الست\nاز شراب نغمہ ہای خویش مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ روز الست کی تب و تاب میں اپنے نغموں کی شراب سے سرمست تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In fever and fervour since the moment of Alast, intoxicated with the wine of their own melodies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "گفت رومی \"این قدر از خود مرو\nاز دم آتش نوایان زندہ شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا 'اس قدر بے خود نہ ہو جا؛ ان آتش نواؤں کے کلام سے زندہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘Do not go out of yourself so, be quickened by the breath of these songs of fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شوق بے پروا ندیدستی، نگر\nزور این صہبا ندیدستی، نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب تک تو نے نہ شوق بے پرواہ دیکھا ہے؛ نہ اس کی شراب کا زور ، اب دیکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have never seen intrepid passion; behold! You have never seen the power of this wine; behold!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "غالب و حلاج و خاتون عجم\nشورہا افکندہ در جان حرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "غالب ، منصور حلاج اور اس خاتون عجم (طاہرہ) نے حرم کی جان میں طوفان پیدا کر دئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ghalib and Hallaj and the Lady of Persia have flung tumult into the soul of the sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "این نواہا روح را بخشد ثبات\nگرمی او از درون کائنات\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا کلام روح کو ثبات بخشتا ہے کیونکہ اس کی گرمی کا سر چشمہ ضمیر کائنات ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These songs bestow stability on the spirit; their warmth springs from the inmost heart of creation.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1b",
+  "sectionName": "غزلیات 1",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عجب واعظ کی دینداری ہے یا رب\nعداوت ہے اسے سارے جہاں سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord! Strange is the piety of the preacher: He has animosity towards the whole world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کوئی اب تک نہ یہ سمجھا کہ انساں\nکہاں جاتا ہے، آتا ہے کہاں سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nobody has so far understood that Man where he is going, and from where he has come?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہیں سے رات کو ظلمت ملی ہے\nچمک تارے نے پائی ہے جہاں سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the same source has the night obtained darkness from where the star has obtained brightness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہم اپنی درد مندی کا فسانہ\nسنا کرتے ہیں اپنے رازداں سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tale of our compassion is always related by our sympathizer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بڑی باریک ہیں واعظ کی چالیں\nلرز جاتا ہے آواز اذاں سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Very subtle are the ways of the preacher; he trembles on hearing the sound of adhan!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

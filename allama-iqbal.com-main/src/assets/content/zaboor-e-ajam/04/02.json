@@ -1,0 +1,687 @@
+{
+  "id": "02",
+  "name": "مذہب غلامان",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "04",
+  "sectionName": "در بیان فنون لطیفۂ غلامان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در غلامی عشق و مذہب را فراق\nانگبین زندگانی بد مذاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں عشق اور مڈہب کو علیحدہ سمجھا جاتا ہے ، ( اس سے) زندگی کے شہد کا ذائقہ بگڑ جاتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery ishq and religion are separated from each other; this spoils the taste of life’s honey. \n[Ishq: True Love that demands total submission, unflinching devotion and unconditional obedience. Allama uses this word exclusively for the love for Allah and His Messenger (PBUH)]",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عاشقی، توحید را بر دل زدن\nوانگہی خود را بہر مشکل زدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "عاشقی کیا ہے؟ توحید کو دل میں منقّش کرنا، اور اس طرح ہر مشکل کے مقابلے پر ڈٹ جانا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is ishq? It means engraving belief of Tawhid (Allah’s Unity, oneness) on the heart; then face all adversaries steadfastly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "در غلامی عشق جز گفتار نیست\nکار ما گفتار ما را یار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی میں عشق گفتار کے علاوہ اور کچھ نہیں ، غلامی میں عمل گفتار کا ساتھ نہیں دیتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slavery ishq is mere lip-service; there is no cohesion in words and deeds.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کاروان شوق بی ذوق رحیل\nبی یقین و بی سبیل و بی دلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "قافلہء عشق میں سفر کا ذوق باقی نہیں رہ جاتا، وہ بے یقین، بے راہ اور بغیر راہبر کے رہ جاتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan lacks motivation for journey; it lacks faith, not sure of way forward and wanders without guide (leaderless).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دین و دانش را غلام ارزان دہد\nتا بدن را زندہ دارد جان دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام دین و دانش کو سستا بیچ دیتا ہے ، بدن کو زندہ رکھنے کے لیے جان فروخت کر دیتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slave under-values both religion and wisdom; he gives away his soul to keep his body alive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گرچہ بر لبہای او نام خداست\nقبلۂ او طاقت فرمانرواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اس کی زبان پر الہّ تعالی کا نام ہوتا ہے مگر اس کا قبلہ حکمران کی طاقت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He has word Allah on his lips; but he worships the might of his ruler.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "طاقتی نامش دروغ با فروغ\nاز بطون او نزاید جز دروغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی طاقت مسلسل جھوٹ کا نام ہے اور اس کے اندر سے سواے جھوٹ کے کچھ پیدا نہیں ہوتا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His (ruler’s) power is persistent falsehood; nothing comes out of him except falsehood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "این صنم تا سجدہ اش کردی خداست\nچون یکی اندر قیام آئی فناست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بت کے سامنے آپ جب تک سجدہ میں پڑے رہیں تو یہ خدا ہے، اگر ایک بار اس کے سامنے اٹھ کھڑے ہوں تو وہ ختم ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As long as you prostrate before this idol, this is god; once you rise upright before it, it crumbles.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آن خدا نانی دہد جانی دہد\nاین خدا جانی برد نانی دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "خداۓ حقیقی روٹی بھی دیتا ہے جان بھی عطا کرتا ہے، یہ (جھوٹا خدا) جان لے کر (اس کے عوض ) روٹی دیتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Real God gives you bread and life; this (unreal god) gives you bread and (in return) takes life away.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آن خدا یکتا ست این صد پارہ ایست\nآن ہمہ را چارہ این بیچارہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خدا یکتا ہے، یہ ٹکڑوں میں بٹا ہوا ہے، وہ سب کا چارہ ساز ہے، اگر ایک بار اس کے سامنے اٹھ کھڑے ہوں تو وہ ختم ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Real God is One, this (god) is divided into hundred pieces; He helps everyone and this is hapless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آن خدا درمان آزار فراق\nاین خدا اندر کلام او نفاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ خدا قول و فعل کے تضاد کی بیماری کا علاج ہے، اس خدا کے اپنے کلام کے اندر نفاق ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Real God is remedy for ailment of separation; this god’s word sows seeds of separation (disunity).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "بندہ را با خویشتن خوگر کند\nچشم و گوش و ہوش را کافر کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خدا اپنے بندے کو اپنے آپ سے خوگر بنا لیتا ہے ، (وہ اس کی مرضی کے مطابق سوچتا ہے) اور اس کے چشم و گوش کو کافر بنا دیتا ہے ۔ (وہ ان کے تاثرات سے صحیح فائدہ نہیں اٹھا سکتا)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This god makes the man intimate with himself and (the slave starts thinking according to this god’s wishes); slave loses the ability to use his own eyes, ears and mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "چون بجان عبد خود راکب شود\nجان بہ تن لیکن ز تن غایب شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب وہ اپنے غلام کی روح پر سوار ہوتا ہے، تو غلام کی جان بدن میں رہتے ہوے بھی بدن سے غائب ہو جاتی ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When this god captivates slave’s soul; then despite life in his body he becomes lifeless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "زندہ و بیجان چہ رازست این نگر\nبا تو گویم معنی رنگین نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ اور بے جان یہ کیا راز ہے؟ دیکھ، میں تمہیں اس کے مزیدار معنی بتاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alive and yet lifeless, what is this? I’ll tell you its manifold interesting meanings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "مردن و ہم زیستن اے نکتہ رس\nاین ہمہ از اعتبارات است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نکتہ رس! موت اور زندگی سب اعتباری (اضافی) ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wise man! Life and death are mere perceptions (relative events).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ماہیان را کوہ و صحرا بی وجود\nبہر مرغان قعر دریا بی وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مچھلیوں کے لیے کوہ و صحرا کا کوئی وجود نہیں، پرندوں کے لیے دریا کی تہ موجود نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the fish mountains and deserts do not exist; for the birds the bed of a river does not exist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "مرد کر سوز نوا را مردہ ئے\nلذت صوت و صدا را مردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہرہ شخص سوز نوا کی نسبت سے مردہ ہے ، کیونکہ وہ صوت و صدا کی لذّت سے محروم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deaf is dead in the context of a melody; because he is deprived of the sense of sound (hearing).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "پیش چنگی مست و مسرور است کور\nپیش رنگی زندہ در گور است کور",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساز کے سامنے اندھا شاداں و فرحاں ہے مگر رنگ کے سا منے اندھا زندہ در گور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Blind enjoys the ecstasy of the music; but in the world of colours he’s dead despite being alive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "روح با حق زندہ و پایندہ ایست\nورنہ این را مردہ آن را زندہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "روح ، السّہ تعالی کے ساتھ تعلق ہی سے زندہ و پائندہ ہے، اگر یہ تعلق نہ رہے تو پھر وہی ایک اعتبار سے زندہ ہے اور دوسرے اعتبار سے مردہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soul is alive as long as it has connection with Allah; when that link is severed man is alive as per one perception and the dead according to other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "آنکہ حی لایموت آمد حق است\nزیستن باحق حیات مطلق است",
+              "lang": "Original"
+            },
+            {
+              "_content": "صرف السّہ تعالی کی ذات ہی کی زندگی ایسی زندگی ہے ، جسے موت نہیں، اس لیے السّہ تعالی کے ساتھ تعلق قائم کرنے ہی سے حیات جاوداں حاصل ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Only Allah lives forever, He never dies; so, connection with Allah guarantees eternal life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ہر کہ بی حق زیست جز مردار نیست\nگرچہ کس در ماتم او زار نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو السّہ تعالی سے تعلق منقطع کر لیتا ہے، وہ مردہ ہے ، اگرچہ کوئی اس کا ماتم گسار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who loses connection with Allah is dead; though no one mourns his death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "از نگاہش دیدنی ہا در حجاب\nقلب او بی ذوق و شوق انقلاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نگاہ سے قابل دید چیزیں پنہاں رہتی ہیں ، اس کا قلب ذوق و شوق انقلاب سے خالی ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To his eyes, the seeable things remain invisible; his heart is devoid of any earnest desire for revolution (change for better).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "سوز مشتاقی بہ کردارش کجا\nنور آفاقی بہ گفتارش کجا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا کردار (سوزعشق) سے، اور اس کی گفتار خدائی نور سے خالی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His conduct lacks fire of devotion; his speech lacks heavenly light (spark of vision).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "مذہب او تنگ چون آفاق او\nاز عشا تاریک تر اشراق او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا مذہب اس کے ذہنی افق کی مانند تنگ ہے، اس کی اشراق (سورج نکلنے کے بعد کا وقت) اس کی عشا ( رات) سے بھی زیادہ تاریک ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His religion, like his vision, is narrow (blurred); his forenoon is darker than his night (expressed by referring to prayer timings).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "زندگی بار گران بر دوش او\nمرگ او پروردۂ آغوش او",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی اس کے کندھوں پر بوجھ ہے، وہ اپنی آغوش میں اپنی موت کی پرورش کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is a heavy burden on his shoulders; he nourishes his own death in his embrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "عشق را از صحبتش آزار ہا\nاز دمش افسردہ گردد نار ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی صحبت میں عشق کو کئی بیماریاں لاحق ہو جاتی ہیں، اس کی سانس آتش (عشق) کو افسردہ کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In his company Ishq is afflicted with diseases; his breath extinguishes fire of Ishq.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "نزد آن کرمی کہ از گل بر نخاست\nمہر و ماہ و گنبد گردان کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کیڑ ا جو مٹی سے باہر نہیں نکلتا، وہ مہر و مہ اور آسمان کو کیا جانے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Worm that lives under soil and never comes out; cannot understand what is moon, sun and the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "از غلامی ذوق دیداری مجوی\nاز غلامی جان بیداری مجوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام کے اندر حق تعالی کے جمال کے دیدار کا ذوق تلاش نہ کر ، نہ اس کے اندر جان بیدار کی جستجو کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not search in slave the desire for audience with Allah; search not a living being in him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "دیدۂ او محنت دیدن نبرد\nدر جہان خورد و گران خوابید و مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام کی آنکھ (حقیقت کو) دیکھنے کے لیے (کوشش و) محنت نہیں کرتی، دنیا میں اس کا کام کھانا، غفلت کی نیند سونا اور پھر مر جانا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slave’s eyes never strive to see the reality; in this world he only ate, slept deep and died.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "حکمران بگشایدش بندی اگر\nمی نہد بر جان او بندی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس کا حکمران اس کا ایک بند کھول دیتا ہے تو اسے دوسرے بند میں جکڑ دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His master unties one knot; and then ties him in yet another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "سازد آئینی گرہ اندر گرہ\nگویدش می پوش ازین آئین زرہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اس کے لیے ایسا آئین بناتا ہے جس میں کئی پیچ ہوں، پھر وہ اس آئین کو (مزید ظلم کرنے کے لیے ) زرہ (جواز) بناتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Master drafts a charter for slave having numerous knots (impracticalities); then uses that charter to perpetrate more oppression.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "ریز پیز قہر و کین بنمایدش\nبیم مرگ ناگہان افزایدش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ غلام کو قہر و سختی کا جلوہ دکھتا ہے اور اس طرح اس کے اندر جو مرگ ناگہاں کا خطرہ ہوتا ہے اس میں اور اضافہ کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He shows the slave his brute power so that fear of sudden death in slave causes (shock and awe).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "تا غلام از خویش گردد ناامید\nآرزو از سینہ گردد ناپدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "تا کہ وہ اپنے آپ سے نا امید ہو جاۓ (اسے اپنے آپ پر اعتماد نہ رہے ) اس کے اندر سے (کچھ بننے) کی آرزو ختم ہو جاۓ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So that the slave suffers from despair and any desire to be something on his own is extinguished.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "ق",
+      "Verse": [
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "گاہ او را خلعت زیبا دہد\nہم زمام کار در دستش نہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی اسے ریشم کی خلعت عطا کرتا ہے اور کبھی اس کے ہاتھ پر تھوڑا سا اختیار بھی دے دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes master grants the slave a silk robe (comfort with elegance); at times delegates a bit of power (use of carrot).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "مہرہ را شاطر ز کف بیرون جہاند\nبیذق خود را بہ فرزینی رساند",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاطر (آقا) اپنے مہرے اس طرح پھینکتا ہے کہ اپنے پیادے کو وزیر کس سامنے کر کے (غلام ) کو بے بس کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "(Like) a cunning chessman (the master) moves his pieces in a way that he raises his pawn to the status of queen making (the slave) helpless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "نعمت امروز را شیداش کرد\nتا بہ معنی منکر فرداش کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ وہ اپنے غلام کو فوری نعمتوں (مفادات) کا شیدا بنا دیتا ہے۔ تا کہ غلام مستقبل کی بہتری کا خیال چھوڑ دے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Master makes the slave addict of easy life; so the slave strives not for better future.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "تن ستبر از مستی مہر ملوک\nجان پاک از لاغری مانند دوک",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام کا بدن آقا کی مہربانیوں کی وجہ سے موٹا ہو جاتا ہے اور اس کی روح تکلے کی طرح باریک (کمزور ) ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slave’s body grows (fattens) as master feeds him generously; but slaves soul weakens (becomes) thin like a spindle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "گردد ار زار و زبون یک جان پاک\nبہ کہ گردد قریۂ تن ہا ہلاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "(حلانکہ ) ایک جان کے نحیف و نزار ہونے سے یہ بہتر ہے کہ بدن کی کئی بستیاں (بالکل) نیست و نابود ہو جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whereas, it is better that instead of weakening of soul, several abodes of men are destroyed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "بند بر پا نیست بر جان و دل است\nمشکل اندر مشکل اندر مشکل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زنجیر غلام کے پاؤں میں نہیں ہوتی بلکہ اس کے دل و جان (سوچ اور ہمت ) پر ہوتی ہے یہی مشکل اندر مشکل اندر مشکل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fetter is not on (slave’s) feet, it is on his heart and mind (on his courage and thinking); this is the difficulty, the real difficulty.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Religion Of Slaves",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

@@ -1,0 +1,113 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زمستان را سرآمد روزگاران\nنواہا زندہ شد در شاخساران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The days are ended of winter long; the branches quiver with living song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گلان را رنگ و نم بخشد ہواہا\nکہ می آید ز طرف جویباران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breeze in beauty arrays the rose as from the river it gently blows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چراغ لالہ اندر دشت و صحرا\nشود روشن تر از باد بہاران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip’s lantern in desert bare is fanned to brightness, by the spring air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دلم افسردہ تر در صحبت گل\nگریزد این غزال از مرغزاران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sad, mid the roses, my heart doth dwell, yea, from the meadow flees the gazelle;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دمی آسودہ با درد و غم خویش\nدمی نالان چو جوی کوہساران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A little eases with grief and pain or like a bill-stream laments again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ز بیم اینکہ ذوقش کم نگردد\nنگویم حال دل با رازداران",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lest my heart’s passion may softer grow, not to the trusty I’ll tell my woe.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

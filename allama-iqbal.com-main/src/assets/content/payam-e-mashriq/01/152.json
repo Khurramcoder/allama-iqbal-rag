@@ -1,0 +1,34 @@
+{
+  "id": "152",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قباے زندگانی چاک تا کی\nچو موران آشیان در خاک تا کی\nبپرواز آًًً و شاہینی بیاموز\nتلاش دانہ در خاشاک تا کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کب تک زندگی کا لباس تار تار رکھے گا؟ کب تک چیونٹیوں کی طرح خاک میں گھر بنائے گا؟\nپرواز میں آ اور شاہینی سیکھ، (چیونٹی کی طرح) کب تک مٹی میں اپنا رزق تلاش کرتا رہے گا؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long will you remain depressed like this? How long have, your nest in the dust like ants? \nLearn how to fly like falcons and soar high; seek food, not on the ground, but in the sky.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

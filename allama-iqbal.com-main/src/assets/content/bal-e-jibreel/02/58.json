@@ -1,0 +1,70 @@
+{
+  "id": "58",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے یاد مجھے نکتہ سلمان خوش آہنگ \nدنیا نہیں مردان جفاکش کے لیے تنگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From Salman*, singer sweet, this subtle point I know: That world is wide enough for those who courage show.\n(*Iqbal’s note: Salman refers to Masud Sa‘ad Salman, the famous poet of the Ghaznavid era who was probably born in Lahore.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چیتے کا جگر چاہیے، شاہیں کا تجسس \nجی سکتے ہیں بے روشنی دانش و فرہنگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man can live without the light of science and art; but needs hawk’s zeal for quest and tiger’s reckless heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کر بلبل و طاوس کی تقلید سے توبہ \nبلبل فقط آواز ہے، طاوس فقط رنگ!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Desist from imitation of peacock and nightingale: The one is only hue, the other chant and wail.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "مسعود سور سلیمان - غزنوی دور کانامور ایرانی شاعر جو غالبا ًلاہور میں پیدا ہوا",
+      "Verse": [],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

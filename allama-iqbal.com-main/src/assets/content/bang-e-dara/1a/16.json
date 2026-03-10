@@ -1,0 +1,175 @@
+{
+  "id": "16",
+  "name": "صدائے درد",
+  "name-en": "The Cry of Pain",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جل رہا ہوں کل نہیں پڑتی کسی پہلو مجھے\nہاں ڈبو دے اے محیط آب گنگا تو مجھے",
+              "lang": "Original"
+            },
+            {
+              "_content": "محيط آب گنگا: گنگا کے گھیر لینے والے پانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Consumed with grief I am, I get relief in no way; O circumambient waters of the Ganges drown me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سرزمیں اپنی قیامت کی نفاق انگیز ہے\nوصل کیسا، یاں تو اک قرب فراق انگیز ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نفاق انگيز: نفاق پیدا کرنے والی، ایسی چیز جس کے ظاہر اور باطن میں فرق ہو۔\nقرب فراق انگيز: ایسی نزدیکی جس میں جدائی ملی ہوئی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our land foments excessive mutual enmity. What unity! Our closeness harbours separation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بدلے یک رنگی کے یہ نا آشنائی ہے غضب\nایک ہی خرمن کے دانوں میں جدائی ہے غضب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Enmity instead of sincerity is outrageous; enmity among the same barn’s grains is outrageous.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جس کے پھولوں میں اخوت کی ہوا آئی نہیں\nاس چمن میں کوئی لطف نغمہ پیرائی نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "اخوت: بھائی چارا، اتحاد۔\nنغمہ پيرائي: گیت گانا، راگ الاپنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the brotherly breeze has not entered in a garden; no pleasure can be derived from songs in that garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "لذت قرب حقیقی پر مٹا جاتا ہوں میں\nاختلاط موجہ و ساحل سے گھبراتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "اختلاط: میل جول۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though I exceedingly love the real closeness; I am upset by the mixing of waves and the shore.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دانہ خرمن نما ہے شاعر معجز بیاں\nہو نہ خرمن ہی تو اس دانے کی ہستی پھر کہاں",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانہ خرمن نما: وہ دانہ جو کھلیان کا پتا بتائے۔ \nشاعر معجز بياں: وہ شاعر جس کا کلام معجزہ معلوم ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The miraculous poet is like the grain from the barn; the grain has no existence if there is no barn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حسن ہو کیا خود نما جب کوئی مائل ہی نہ ہو\nشمع کو جلنے سے کیا مطلب جو محفل ہی نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "خود نما: اپنے آپ کو نمایاں کرنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can beauty unveil itself if no one is anxious for sight; lighting of the candle is meaningless if there is no assembly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ذوق گویائی خموشی سے بدلتا کیوں نہیں\nمیرے آئینے سے یہ جوہر نکلتا کیوں نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "گويائي: بولنے کی لذّت ، بات کہنے کا شوق۔ ذوق",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does the taste for speech not change to silence? Why does this brilliance not appear out from my mirror?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کب زباں کھولی ہماری لذت گفتار نے\nپھونک ڈالا جب چمن کو آتش پیکار نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آتش پيکار: لڑائی کی آگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

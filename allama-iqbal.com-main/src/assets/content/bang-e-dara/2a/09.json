@@ -1,0 +1,168 @@
+{
+  "id": "09",
+  "name": "کلی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جب دکھاتی ہے سحر عارض رنگیں اپنا\nکھول دیتی ہے کلی سینہء زریں اپنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "عارض رنگیں: خوبصورت رخسار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the dawn uncovers its beautiful cheek; the flower bud uncovers its golden breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جلوہ آشام ہے صبح کے مے خانے میں\nزندگی اس کی ہے خورشید کے پیمانے میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "جلوہ آشام: جلوہ پینے والا یعنی جلوے سے فائدہ اٹھانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is manifest in the dawn's tavern; its life is in the goblet of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سامنے مہر کے دل چیر کے رکھ دیتی ہے\nکس قدر سینہ شگافی کے مزے لیتی ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سینہ شگافی: سینہ کھول دینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It opens up its heart before the sun; it enjoys the Love's anguish immensely.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرے خورشید! کبھی تو بھی اٹھا اپنی نقاب\nبہر نظارہ تڑپتی ہے نگاہ بے تاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My sun! You should also lift your veil some time; my restless eye is impatient to witness your sight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیرے جلوے کا نشیمن ہو مرے سینے میں\nعکس آباد ہو تیرا مرے آئینے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May the abode of your manifestations be in my heart! May your reflection flourish in the mirror of my breast! \n(This and the remaining verses are the spontaneous expression of Allamah Iqbal's feelings of Love for God and request to Him to appear in tangible form instead of through His signs, like the sun. In this poem ‘My sun’ means God.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زندگی ہو ترا نظارہ مرے دل کے لیے\nروشنی ہو تری گہوارہ مرے دل کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May your sight be the life for my heart! May your light be the cradle of my heart!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ذرہ ذرہ ہو مرا پھر طرب اندوز حیات\nہو عیاں جوہر اندیشہ میں پھر سوز حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "طرب اندوز حیات: زندگی کا لطف اٹھانے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May every speck of mine full of pleasure be again! May life's warmth appear again in the skill of my thoughts!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اپنے خورشید کا نظارہ کروں دور سے میں\nصفت غنچہ ہم آغوش رہوں نور سے میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "صفت غنچہ: غنچہ کی طرح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I view my sun's sight from the distance! May I embrace its light like a flower bud!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جان مضطر کی حقیقت کو نمایاں کر دوں\nدل کے پوشیدہ خیالوں کو بھی عریاں کر دوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان مضطر: بے قرار جان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I highlight the reality of the restless life! May I also open the secret of heart's thoughts!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Flower Bud",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

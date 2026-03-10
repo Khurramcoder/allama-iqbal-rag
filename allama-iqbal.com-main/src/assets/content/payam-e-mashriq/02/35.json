@@ -1,0 +1,34 @@
+{
+  "id": "35",
+  "name": "زندگی و عمل",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "در جواب ہاینہ موسوم بہ سوالات",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ساحل افتادہ گفت گرچہ بسی زیستم\nہیچ نہ معلوم شد آہ کہ من چیستم\nموج ز خود رفتہ ئی تیز خرامید و گفت\nھستم اگر میروم گر نروم نیستم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I have lived a long, long while’, said a fallen shore; ‘What I am know as ill as I knew of yore.’\nThen swiftly advanced wave from the Sea upshot; ‘If I roll, I am’, it said; ‘if I rest, I am not.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Life And Action",
+  "credits": "English Translation by: R.A. Nicholson"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "11",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترے دریا میں طوفاں کیوں نہیں ہے\nخودی تیری مسلماں کیوں نہیں ہے\nعبث ہے شکوۂ تقدیر یزداں\nتو خود تقدیر یزداں کیوں نہیں ہے؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy river keeps not, no tempest why? To be a Muslim why fails ego thy?\nOf fate why you’re weeping so late, you are ‘not why’ the God’s own fate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

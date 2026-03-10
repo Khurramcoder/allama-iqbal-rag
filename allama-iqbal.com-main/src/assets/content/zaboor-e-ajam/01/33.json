@@ -1,0 +1,136 @@
+{
+  "id": "33",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خوشتر ز ہزار پارسائی\nگامی بہ طریق آشنائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت کی راہ میں ایک قدم ہزار پارسائی سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One step on friendship’s road fairer I see than the moat pressing load of piety.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در سینۂ من دمی بیاسای\nاز محنت و کلفت خدائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدائی کی محنت و کلفت چھوڑ کر ایک لمحہ کے لیے میرے سینے میں آرام فرمائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take for Thy rest awhile this heart of mine and lay aside Thy toil and task divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ما را ز مقام ما خبر کن\nمائیم کجا و تو کجائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں ہمارے مقام سے باخبر کیجیے؛ ہم کہاں ہیں اور آپ کہاں ہیں؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O come; and tidings bring how stands my heart, where I am wandering, and where Thou art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آن چشمک محرمانہ یاد آر\nتا کی بہ تغافل آزمائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرانے محرمانہ غمزے یاد کیجیے؛ کب تک تغافل سے ہماری آزمائش کریں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Recall those glances pure of love intense how long must I endure indifference?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دی ماہ تمام گفت با من\nدر ساز بہ داغ نارسائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کل رات پورے چاند نے مجھ سے کہا کہ نارسائی کے باغ سے موافقت کر لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Last night the burning moon did me address: ‘Accept the anguish, son, of unaccess.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خوش گفت ولی حرام کردند\nدر مذہب عاشقان جدائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے خوب کہا ، لیکن عاشقوں کے مذہب میں جدائی حرام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fair spake she; but, ah yes, my creed of love to live in loneliness doth not approve.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پیش تو نھادہ ام دل خویش\nشاید کہ تو این گرہ گشائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آپ سے اپنے دل کی بات کہہ دی ہے تاکہ آپ میرا یہ عقدہ حل کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before thee I have laid this heart of mine; haply the twist thread Thou canst untwine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

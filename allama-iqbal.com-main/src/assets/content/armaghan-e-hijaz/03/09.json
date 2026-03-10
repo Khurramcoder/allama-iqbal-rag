@@ -1,0 +1,134 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کھل جب چمن میں کتب خانۂ گل\nنہ کام آیا مل کو علم کتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کتب خانہء گل: باغ کو پھولوں کی کتابوں کے گھر سے تشبیح دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Opened when in garden the ‘Rose’ bookshop, the ‘books knowledge’ then to Mullah was flop.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "متانت شکن تھی ہوائے بہاراں\nغزل خواں ہوا پیرک اندرابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "متانت: سنجیدگی۔ \nپیرک اندرابی: اندراب وسط ایشیا میں بلخ کے پاس ایک قصبہ ہے جہاں کے کچھ لوگ ہجرت کر کے کشمیر میں آباد ہوئے۔ یہ لوگ علم و ادب اور حسب و نسب کے اعتبار سے ممتاز جانے جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vernal tide changed all the grave mood, which moved Indrabi to Odes making mood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہا للہ آتشیں پیرہن نے\nکہ اسرار جاں کی ہوں میں بے حجابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "لالہ آتشیں: سرخ لباس پہنے ہوئے لالہ کا پھول۔ \nاسرار جاں: زندگی کا بھید۔ \nبے حجابی: بے پردگی ؛ مراد ہے زندگی کے ھید کا ظاہر ہو جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A ‘poppy’ said then dressed in fiery robe, to secrets of the soul I would now probe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سمجھتا ہے جو موت خواب لحد کو\nنہاں اس کی تعمیر میں ہے خرابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خواب لحد: قبر کی نیند۔ \nنہاں: چھپی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who takes the death as a dream of grave, in his build up lies a fault so ‘grave’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہیں زندگی سلسلہ روز و شب کا\nنہیں زندگی مستی و نیم خوابی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The life means not the link of night and day, neither life a ‘booze’ or drowsiness way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "حیات است در آتش خود تپیدن\nخوش آں دم کہ ایں نکتہ را بازیابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی اپنی آگ میں تڑپنے کا نام ہے ، مبارک ہو تیرے ل یے وہ لمحہ جب تو اس باریک بات کو پھر سے سمجھ لے؛ مراد ہے اپنے اندر عشق کا جذبہ پیدا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The life means burning in self’s own flame. How lucky who knew the pith of this ‘game’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگر ز آتش دل شرارے بگیری\nتواں کرد زیر فلک آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو دل کی آگ سے ایک چنگاری حاصل کر لے یعنی اپنے اندر ایسا دل پیدا کر لے جس میں عشق کی آگ ہو اور اس آگ سے غیر اللہ کے خس و خاشاک کو جلا کر اپنے دل میں اللہ کو بسا لے تو میں یقین دلاتا ہوں کہ تو آسمان کے نیچے یعنی دنیا میں آفتاب طلوع کر سکتا ہے – خود بھی روشن ہو سکتا ہے اور اہل جہان کو بھی روشنی دے سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his ‘heart’s fire’ if he takes a spark, he can change the whole world’s gloom and dark.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

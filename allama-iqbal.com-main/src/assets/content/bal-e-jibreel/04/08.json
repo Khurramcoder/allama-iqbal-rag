@@ -1,0 +1,238 @@
+{
+  "id": "08",
+  "name": "فرشتوں کاگیت",
+  "name-en": "Song of the Angels",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقل ہے بے زمام ابھی، عشق ہے بے مقام ابھی \nنقش گر، ازل! ترا نقش ہے نا تمام ابھی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمام: لگام، نکیل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reason is unbridled yet, love is still a dream; thy work remains unfinished still, O Craftsman of Eternity!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خلق خدا کی گھات میں رند و فقیہ و میر و پیر \nتیرے جہاں میں ہے وہی گردش صبح و شام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The days and nights revolve, unfolding evils new; the rulers of body and soul are ruthless tyrants, all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیرے امیر مال مست، تیرے فقیر حال مست \nبندہ ہے کوچہ گرد ابھی، خواجہ بلند بام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rich are drunk with wealth; the pious are drunk with piety; the homeless wander in the streets, the lords of palaces are Olympian.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دانش و دین و علم و فن بندگی ہوس تمام \nعشق گرہ کشاے کا فیض نہیں ہے عام ابھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learning, religion, art and science, are all slaves of greed; thy love that solves all riddles, has yet to shower its blessings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جوہر زندگی ہے عشق، جوہر عشق ہے خودی\nآہ کہ ہے یہ تیغ تیز پردگی نیام ابھی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "پردگي نيام: میان کے اندر چھپی ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The essence of Life is Love, the essence of Love is the self; Alas! This cutting sword as yet rests in the sheath!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(فرمان خدا - (فرشتوں سے",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اٹھو! مری دنیا کے غریبوں کو جگا دو \nکاخ امرا کے در و دیوار ہلا دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاخ امرا: امیروں کا محل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "GOD’s COMMAND (to His angels)\nRise, and from their slumber wake the poor ones of My world shake the walls and windows of the mansions of the great!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گرماو غلاموں کا لہو سوز یقیں سے \nکنجشک فرومایہ کو شاہیں سے لڑا دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "کنجشک: چڑیا۔ \nفرومايہ: بے حقیقت، بے حثیت، ناچیز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kindle with the fire of faith the slow blood of the slaves; make the fearful sparrow bold to meet the falcon's hate!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سلطانی جمہور کا آتا ہے زمانہ \nجو نقش کہن تم کو نظر آئے، مٹا دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Close the hour approaches of the kingdom of the poor: Every imprint of the past find and annihilate!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جس کھیت سے دہقاں کو میسر نہیں روزی \nاس کھیت کے ہر خوشہ گندم کو جلا دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Find the field whose harvest is no peasant's daily bread: Garner in the furnace every ripening ear of wheat!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "کیوں خالق و مخلوق میں حائل رہیں پردے \nپیران کلیسا کو کلیسا سے اٹھا دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Banish from the house of God the mumbling priest whose prayers like a veil creation from Creator separate!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "حق را بسجودے، صنماں را بطوافے \nبہتر ہے چراغ حرم و دیر بجھا دو",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق را بسجودے، صنماں را بطوافے: خدا کو سجدے اور بتوں کا طواف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God by mm's prostrations, by man's vows are idols cheated: Quench at once in My shrine and their fane the sacred light!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "میں ناخوش و بیزار ہوں مرمر کی سلوں سے \nمیرے لیے مٹی کا حرم اور بنا دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rear for me another temple, build its walls with mud: Wearied of their columned marbles, sickened is My sight!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "تہذیب نوی کارگہ شیشہ گراں ہے \nآداب جنوں شاعر مشرق کو سکھا دو!",
+              "lang": "Original"
+            },
+            {
+              "_content": "تہذیب نوی: نئی تہذیب۔\nشيشہ گراں: شیشہ بنانے والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All their fine new world a workshop filled with brittle glass: Go! My poet of the East to madness dedicate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

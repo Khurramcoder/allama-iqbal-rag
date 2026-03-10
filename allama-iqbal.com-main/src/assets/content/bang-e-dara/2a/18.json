@@ -1,0 +1,98 @@
+{
+  "id": "18",
+  "name": "جلوہء حسن",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جلوہ حسن کہ ہے جس سے تمنا بے تاب\nپالتا ہے جسے آغوش تخیل میں شباب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beauty's manifestation which gives restlessness to Longing; which youth nurtures in its fancy's lap;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ابدی بنتا ہے یہ عالم فانی جس سے\nایک افسانہ رنگیں ہے جوانی جس سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By which this ephemeral universe becomes eternal; by which youth becomes a colorful tale;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جو سکھاتا ہے ہمیں سر بہ گریباں ہونا\nمنظر عالم حاضر سے گریزاں ہونا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which teaches us to be meditating to be escaping the present state's scene;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دور ہو جاتی ہے ادراک کی خامی جس سے\nعقل کرتی ہے تاثر کی غلامی جس سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Which removes the immaturity of perceptions; which makes Intellect a slave to impressions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ! موجود بھی وہ حسن کہیں ہے کہ نہیں\nخاتم دہر میں یا رب وہ نگیں ہے کہ نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! Does that Beauty exist anywhere or not? O Lord! Does that jewel exist on the universe' ring?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Manifestation Of Beauty",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

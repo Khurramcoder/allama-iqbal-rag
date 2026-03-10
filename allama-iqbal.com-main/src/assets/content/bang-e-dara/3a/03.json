@@ -1,0 +1,114 @@
+{
+  "id": "03",
+  "name": "دو ستارے",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آئے جو قراں میں دو ستارے \nکہنے لگا ایک، دوسرے سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As two stars came together in the Holy Qur’an; one started saying this to the other:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ وصل مدام ہو تو کیا خوب \nانجام خرام ہو تو کیا خوب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘How excellent if this union together be permanent! How excellent if the end be walking together!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تھوڑا سا جو مہرباں فلک ہو \nہم دونوں کی ایک ہی چمک ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the sky becomes slightly favourable; we two will be with similar glow.’\n* Under the influence of Greek thought the sky was considered to influence the happenings on the earth as well as the destinies of its denizens. Though after the advent of Islam, this is no longer believed it continues to be so expressed in Urdu and Persian literature.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "لیکن یہ وصال کی تمنا \nپیغام فراق تھی سراپا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But this longing for the union proved completely a message of the end of the union.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گردش تاروں کا ہے مقدر \nہر ایک کی راہ ہے مقرر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Revolution is the destiny of the stars; for each its special orbit is fixed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہے خواب ثبات آشنائی \nآئین جہاں کا ہے جدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The permanence of union is a mere dream; the rule of the universe is separation!\n* Allusion to the fact that stars do not occur in pairs but all of them cohere together as components of the universe. Similarly, the soorahs of the Holy Qur’an constitute a coherent whole and so should the Muslim Ummah be.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Two Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

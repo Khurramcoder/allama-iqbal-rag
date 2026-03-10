@@ -1,0 +1,659 @@
+{
+  "id": "01",
+  "name": "مقام حکیم آلمانی نیچہ",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "افلاک کے اس طرف : جرمن فلسفی نطشے کا مقام۔",
+  "name-en": "Beyond The Spheres: The Station Of The German Philosopher Nitezshe",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر کجا استیزہ ی بود و نبود\nکس نداند سر این چرخ کبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی شخص اس نیلے آسمان کا بھید نہیں سمجھتا ؛ ہر جگہ ہستی اور نیستی کی کشمکش موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The conflict of being and not-being is universal; no man knows the secret of yon azure sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہر کجا مرگ آورد پیغام زیست\nایخوش آنمردی کہ داند مرگ چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر کہیں موت زندگی کا پیغام لاتی ہے؛ مبارک ہے وہ شخص جو موت کی حقیقت سمجھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everywhere death brings the message of life – happy is the man who knows what death is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر کجا مانند باد ارزان حیات\nبے ثبات و با تمنای ثبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر کہیں زندگی ہوا کی مانند ارزان ہے؛ بے ثبات ہے اور ثبات کی تمنّا بھی رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everywhere life is as cheap as the wind, unstable, and aspiring to stability.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چشم من صد عالم شش روزہ دید\nتا حد این کائنات آمد پدید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری آنکھ نے سینکڑوں شش روزہ جہان دیکھے ؛ یہاں تک کہ اس کائنات کی حد ظاہر ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eyes had beheld a hundred six-day worlds and at last the borders of this universe appeared;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہر جھان را ماہ و پروینی دگر\nزندگی را رسم و آئینی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر جہاں کے اپنے ماہ و پروین ہیں؛ ہر جہان میں زندگی کے مختلف رسم و آئین ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each world had a different moon, a different Pleiades, a different manner and mode of existence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "وقت ہر عالم روان مانند زو\nدیر یاز اینجا و آنجا تند رو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر جہاں کا وقت دریا کی مانند رواں ہے ؛ کہیں سست اور کہیں تیز رفتار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time in each world flowed like the sea, here slowly and there swiftly;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "سال ما اینجا مہی آنجا دمی\nبیش این عالم بہ آن عالم کمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سال کسی جہان میں مہینے ہیں اور کسی جہان میں لمحے ؛ اس جہان کا بیش دوسرے جہان میں کم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our year was here a month, there a moment, this world’s more was that world’s less.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عقل ما اندر جھانی ذوفنون\nدر جہان دیگری خوار و زبون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان میں ہماری عقل ذوفنون ہے تو دوسرے جہان میں یہی عقل خوار و زبون ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our reason in one world was all-cunning, in another world it was mean and abased.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بر ثغور این جہان چون و چند\nبود مردی با صدای دردمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسباب و مقدار کے اس جہان (دنیا) کی سرحد پر ایک شخص صدائے دردمند بلند کر رہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the frontiers of this world of quality and quantity dwelt a man with a voice full of agony,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دیدۂ او از عقابان تیز تر\nطلعت او شاہد سوز جگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی نظر عقابوں سے زیادہ تیز تھی؛ اس کا چہرہ اس کے سوز جگر کی گواہی دے رہا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His vision keener than an eagle’s, his mien witness to a heart afire;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دمبدم سوز درون او فزود\nبر لبش بیتی کہ صد بارش سرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سوز درون میں ہر لمحہ اضافہ ہو رہا تھا؛ اس کی زبان پر یہ شعر تھا جسے وہ بار بار پڑھتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment his inward glow increased. On his lips was a verse he chanted a hundred times:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "\"نہ جبریلی نہ فردوسی نہ حوری نے خداوندے\nکف خاکی کہ میسوزد ز جان آرزومندے\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'نہ جبریل، نہ جنت، نہ حور، نہ خدا؛ آدم ہی سب کچھ ہے جو اپنی جان آرزومند سے سلگ رہا ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘No Gabriel, no Paradise, no houri, no God, only a handful of dust consumed by a yearning soul.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "من بہ رومی گفتم این دیوانہ کیست\nگفت\" این فرزانۂ المانوی ست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رومی سے پوچھا یہ دیوانہ کون ہے؛ انہوں نے کہا یہ جرمن دانا (نطشے) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to Rumi, ‘Who is this madman?’ He answered: ‘This is the German genius.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "در میان این دو عالم جای اوست\nنغمۂ دیرینہ اندر نای اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا مقام ان دونوں جہانوں کے درمیان ہے؛ اس کی نے میں وہی نغمہء قدیم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose place is between these two worlds; his reed-pipe contains an ancient melody.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "باز این حلاج بے دار و رسن\nنوع دیگر گفتہ آن حرف کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بے دار و رسن حلّاج نے وہی پرانی قدیم بات (انا الحق) نئے انداز سے کہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This Hallaj without gallows and rope has spoken anew those ancient words;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "حرف او بے باک و افکارش عظیم\nغربیان از تیغ گفتارش دو نیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی زبان بے باک ہے اور فکر عظیم؛ اس کی زبان کی تلوار نے یورپ کی فکر کو مجروح کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His words are fearless; his thoughts sublime, the Westerners are struck asunder by the sword of his speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہمنشین بر جذبہ او پے نبرد\nبندۂ مجذوب را مجنون شمرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ہم نشین اس کے جذبے کی تہ کو نہ پہنچ سکے؛ انہوں نے بندہ ء مجذوب کو دیوانہ قرار دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His colleagues have not comprehended his ecstasy and have reckoned the ecstatic mad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "عاقلان از عشق و مستی بے نصیب\nنبض او دادند در دست طبیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عقلمند جو اس کی عشق و مستی کا ادراک نہیں رکھتے تھے انہوں نے ڈاکٹروں سے اس کا علاج کرایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellectuals have no share of love and intoxication; they placed his pulse in the hand of the physician,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "با پزشکان چیست غیر از ریو و رنگ\nواے مجذوبی کہ زاد اندر فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ڈاکٹروں کے پاس اندازے اور قیاس کے علاوہ اور کیا ہے؛ افسوس اس مجذوب پر جو یورپ میں پیدا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet what have doctors but deceit and fraud? Alas for the ecstatic born in Europe!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ابن سینا بر بیاضی دل نہد\nرگ زند یا حب خواب آور دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابن سینا (ڈاکٹر) نے اس کے دل کا علاج رسمی نسخوں سے کرنا چاہا؛ اس کی فصد کھولی یا اسے خواب آور گولی دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Avicenna puts his faith in textbooks and slits a vein, or prescribes a sleeping-pill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "بود حلاجی بہ شہر خود غریب\nجان ز ملا برد و کشت او را طبیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ حلّاج اپنے شہر کے اندر احنبی تھا ، اس نے پادری سے تو جان بچا لی لیکن ڈاکٹر نے اسے مار دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was a Hallaj who was a stranger in his own city; he saved his life from the mullahs, and the physicians slew him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "مرد رہ دانی نبود اندر فرنگ\nپس فزون شد نغمہ اش از تار چنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یورپ کے اندر کوئی مرد راہ دان نہ تھا؛ اس لیے نطشے کا نغمہ اس کے تار چنگ کے استعداد سے بڑھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘There was none in Europe who knew the Way, so his melody outstretched the strings of his lute;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "راہرو را کس نشان از رہ نداد\nصد خلل در واردات او فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسافر کو کسی نے راستہ نہ بتایا ؛ اس لیے اس کی واردات میں سینکڑوں خلل پیدا ہو گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None showed the wayfarer the road, and a hundred flaws vitiated his visitations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "نقد بود و کس عیار او را نکرد\nکاردانے مرد کار او را نکرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے پاس نقدی تھی مگر کسی نے اسے پرکھا نہیں ، کسی کامل نے اسے مرد کار نہ بنایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was true coin, but there was none to assay him, expert in theory, but none to prove him;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "عاشقی در آہ خود گم گشتہ ئی\nسالکی در راہ خود گم گشتہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا عشق تھا جو اپنی آہ میں گم رہا؛ وہ ایسا سالک تھا جو اپنے راستے کی بھول بھلیوں میں کھو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A lover lost in the labyrinth of his sighs, a traveller gone astray in his own path.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "مستی او ھر زجاجی را شکست\nاز خدا ببرید و ھم از خود گسست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مستی نے ہر شیشہ (نظریہ ) توڑ دیا؛ اس نے اللہ تعالے سے بھی تعلق توڑ لیا اور اپنے آپ سے بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His intoxication shattered every glass; he broke from God, and was snapped too from himself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "خواست تا بیند بہ چشم ظاہری\nاختلاط قاہری با دلبری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے چاہا قاہری اور دلبری کے اختلاط کو چشم ظاہری سے دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He desired to see, with his external eyes, the intermingling of power with love;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خواست تا از آب و گل آید برون\nخوشہ ئی کز کشت دل آید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے چاہا کہ وہ آب و گل سے باہر نکلے؛ اس کے دل کی کھیتی بار آور ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He yearned for these to come forth from water and clay a cluster sprouting from the seed-bud of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آنچہ او جوید مقام کبریاست\nاین مقام از عقل و حکمت ماوراست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسے مقام کبریا کی تلاش تھی؛ اور یہ مقام عقل و حکمت سے ماورا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What he was seeking was the station of Omnipotence, which station transcends reason and philosophy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "زندگی شرح اشارات خودی است\nلا و الا از مقامات خودی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی خودی کے رموز کی شرح ہے؛ لا اور الا خودی ہی کے مقامات ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is a commentary on the hints of the Self, \"no\" and \"but\" are of the stations of the Self;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "او بہ لا درماند و تا الا نرفت\nاز مقام عبدہ بیگانہ رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ لا ہی میں رہ گیا، الا تک نہ پہنچا ؛ اس لیے مقام عبدہ سے نا آشنا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He remained fast in \"no\" and did not reach \"but\" being a stranger to the station of \"His servant\".",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "با تجلی ہمکنار و بے خبر\nدور تر چون میوہ از بیخ شجر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تجلّی سے ہمکنار تھا مگر اس کی خبر نہ تھی؛ جیسے میوہ درخت کی جڑ سے دور رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Revelation embraced him, yet he knew it not, being like fruit all the farther from the roots of the tree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "چشم او جز رویت آدم نخواست\nنعرہ بیباکانہ زد \"آدم کجاست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے بیباکانہ نعرہ لگایا کہ آدم کہاں ہے؟ اس کی آنکھ صرف مرد کامل کے نظارے کی متمنّی تھی؛",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His eyes desired no other vision but man; fearlessly he shouted, \"Where is man?\"",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "ق",
+      "Verse": [
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "ورنہ او از خاکیان بیزار بود\nمثل موسی طالب دیدار بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ورنہ وہ خاکیوں سے بیزار تھا اور موسی (علیہ) کی طرح حق تعالے کے دیدار کا طالب تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And else he had despaired of earth’s creatures and like Moses he was seeking the vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "کاش بودی در زمان احمدی\nتا رسیدی بر سرور سرمدی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کاش وہ حضرت مجدد (رحمتہ) کے زمانے میں ہوتا ؛ تا کہ وہ اسے سرور سرمدی تک پہنچا دیتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Would that he had lived in Ahmad’s time, so that he might have attained eternal joy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "عقل او با خویشتن در گفتگوست\nتو رہ خود رو کہ راہ خود نکوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی عقل نے اسے یہ سمجھایا کہ تو اپنے راستے پر چل تیرا راستہ ہی بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His reason is in dialogue with itself; take your own way, for one’s own way is good.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "پیش نہ گامی کہ آمد آن مقام\nکاندرو بے حرف می روید کلام\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے زندہ رود! اب آگے قدم بڑھا تاکہ ہم اس مقام تک پہنچ جائیں جہاں بغیر الفاظ کے کلام ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stride onwards, for now that station has come wherein speech sprouts without spoken words.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ]
+}

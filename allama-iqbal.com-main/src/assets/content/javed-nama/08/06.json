@@ -1,0 +1,437 @@
+{
+  "id": "06",
+  "name": "صحبت با شاعر ہندی برتری ہری",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "شاعر ہند برتری ہری سے ملاقات۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حوریان را در قصور و در خیام\nنالۂ من دعوت سوز تمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "حوریں جو محلوں اور خیموں میں قیام پذیر تھیں ؛ انہیں میری نوا نے سوز تمام عطا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The houris in their palaces and pavilions my lament provoked to supreme ardour;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آن یکی از خیمہ سر بیرون کشید\nوان دگر از غرفہ رخ بنمود و دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی خیمے سے باہر سرنکال کے دیکھنے لگی؛ کسی نے بالا خانہ سے اپنا چہرہ دکھایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One here put forth her head from her tent, another there peeped out from her chamber and gazed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر دلے را در بہشت جاودان\nدادم از درد و غم آن خاکدان",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہشت جاودان میں رہنے والے ہر دل کو میں نے اس خاکدان ہند کا درد غم دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To every heart in eternal Paradise I gave of the pain and sorrow of yon terrestrial globe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زیر لب خندید پیر پاک زاد\nگفت \"اے جادو گر ہندی نژاد\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر پاک زاد یعنی رومی زیر لب مسکرایا ، اس نے کہا ؛ اے ہندی جادوگر؛",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A smile played on the lips of my holy guide and he said: ‘magician of Indian stock,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آن نوا پرداز ہندی را نگر\nشبنم از فیض نگاہ او گہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس ہند ی شاعر کو دیکھ جس کے فیض نگاہ سے شبنم گوہر بن گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold now that Indian minstrel the grace of whose gaze converts the dew to pearls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نکتہ آرائی کہ نامش برتری است\nفطرت او چون سحاب آذری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ نکتہ سنج جس کا نام بر تری ہری ہے ، اس کی فطرت ابر بہار کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A broiderer of subtleties, his name is Bartari, his nature generous as the clouds of Azar;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از چمن جز غنچۂ نورس نچید\nنغمۂ تو سوی ما او را کشید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے چمن سے نئی کھلی ہوئی کلیوں کے علاوہ اور کچھ نہیں چنا ، تیرا نغمہ اسے ہماری طرف کھینچ لایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the meadow he plucks only the new-sprung buds. Your melody has drawn him towards us,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پادشاہی با نوای ارجمند\nہم بہ فقر اندر مقام او بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ (اقلیم) سخن کا بادشاہ ہے اور فقر کے اندر بھی بلند مقام رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A king who, with a song sublime, even in poverty dwells in lofty exaltation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "نقش خوبی بندد از فکر شگرف\nیک جہان معنی نہان اندر دو حرف",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نادر فکر نے خوبصورت نقوش تخلیق کیے ہیں ؛ اس کے چند الفاظ میں معنی کے جہان آباد ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With his delicate thought he designs images of beauty, a whole world of meaning hidden in two words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "کارگاہ زندگی را محرم است\nاو جم است و شعر او جام جم است\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ زندگی کے کارخانے سے باخبر ہے، وہ جم ہے اور اس کے اشعار جام جم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is intimate with the workshop of life; he is Jamshid, his poetry Jamshid’s Cup.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ما بہ تعظیم ھنر برخاستیم\nباز با وی صحبتی آراستیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم فن کی تعظیم کے لیے اٹھ کھڑے ہوئے ؛ پھر اس کے ساتھ صحبت آراستہ کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We rose in reverence for his art and prepared suitably to engage with him.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے کہ گفتی نکتہ ہای دلنواز\nمشرق از گفتار تو دانای راز\nشعر را سوز از کجا آید بگوی\nاز خودی یا از خدا آید بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے اپنے اشعار میں دلنواز نکتے بیان کیے ہیں ؛ آپ کے کلام سے مشرق زندگی کے رازوں سے باخبر ہوا۔\nمجھے بتایئے شعر میں سوز کہاں سے آتا ہے ؟ خودی سے پیدا ہوتا ہے ؛ یا اللہ تعالے کی طرف سے عنایت ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nYou who have wttered heart-delighting subtleties, through whose discourse the East knows all mysteries,\nSay, whence comes the fire into poetry? Does it come from the Self, or from God?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "برتری ہری",
+      "name-en": "Bartari-Hari",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "کس نداند در جہان شاعر کجاست\nپردۂ او از بم و زیر نواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوئی نہیں جانتا کہ دنیا میں شاعر کہاں ہے؛ شاعر اپنے کلام کے بم و زیر کے پردے میں نہاں رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None knows where the poet is in this world; his melody springs from the high notes and the low.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آن دل گرمی کہ دارد در کنار\nپیش یزدان ھم نمی گیرد قرار",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے پہلو میں جو دل گرم ہے وہ اللہ تعالے کے حضور میں پہنچ کر بھی قرار نہیں پاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That burning heart which he has in his breast finds not repose even before God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "جان ما را لذت اندر جستجوست\nشعر را سوز از مقام آرزوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری جان جستجو کے اندر لذت پاتی ہے؛ شعر کو بھی مقام آرزو سے سوز حاصل ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our soul’s delight is in questing; poetry’s fire is of the station of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اے تو از تاک سخن مست مدام\nگر ترا آید میسر این مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو شراب سخن سے مست مدام ہے ، اگر تجھے یہ مقام آرزو (مقصود کی تڑپ) میسّر آ جائے؛",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who are drunk with wine pressed from the vine of words, if you should ever attain to this rank.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "با دو بیتی در جہان سنگ و خشت\nمی توان بردن دل از حور بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو دنیا کے اندر دو اشعار کہہ کر ، بہشت کی حوروں کے دلوں کو گرویدہ کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With two verses in this world of stone and brick one can ravish the hearts of the houris of Paradise.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہندیان را دیدہ ام در پیچ و تاب\nسر حق وقتست گوئی بے حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ہندیوں کو پیچ و تاب میں دیکھا ہے کہ آپ اللہ تعالے کے راز کو وا شگاف بیان کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Zinda-Rud\nI have seen the Indians twisting this way and that; it is time you told the secret of God unveiled.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "برتری ہری",
+      "name-en": "Bartari-Hari",
+      "Verse": [
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "این خدایان تنک مایہ ز سنگ اند و ز خشت\nبرتری ہست کہ دور است ز دیر و ز کنشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ بے اختیار خدا جو پتھر یا اینٹ کے بنے ہوئے ہیں ؛ برتر وہی ہیں جو بتخانہ و کلیسا سے دور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These frail gods are but of stone and brick; there is One more lofty, far from temple and church",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "سجدہ بے ذوق عمل خشک و بجائی نرسد\nزندگانی ہمہ کردار، چہ زیبا و چہ زشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق عمل کے بغیر عبادت خشک رہتی ہے؛ اور کہیں نہیں پہنچاتی ؛ زندگی سر تا پا کردار ہے خواہ اچھا ہو یا برا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prostration without the joy of action is dry and useless; life is all action, whether fair or foul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "فاش گویم بتو حرفی کہ نداند ہمہ کس\nاے خوش آن بندہ کہ بر لوح دل او را بنوشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تجھے ایک ایسی بات برملا بتاتا ہوں جسے سب نہیں جانتے ؛ مبارک ہے وہ شخص جو میری اس بات کو لوح دل پر لکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will tell you plainly a word not known to every one – happy is the man who has written it on his heart’s tablet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "این جھانی کہ تو بینی اثر یزدان نیست\nچرخہ از تست و ہم آن رشتہ کہ بر دوک تو رشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان جسے تو دیکھتا ہے ، اللہ تعالے کی کارفرمائی نہیں؛ چرخہ بھی تیرا ہے اور وہ دھاگا بھی (تیرا ہے) جو تیرے تکلے پر کاتا جا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world you behold is not the handiwork of God, the wheel is yours, and the thread spun on your spindle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "پیش آئین مکافات عمل سجدہ گزار\nزانکہ خیزد ز عمل دوزخ و اعراف و بہشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "موافقت عمل کے قانون کے سامنے سجدہ کر (یعنی اسے تسلیم کر) کیونکہ دوزخ، اعراف اور بہشت سب عمل ہی سے پیدا ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prostrate yourself before the Law of action’s reward, for from action are born Hell, Purgatory and Paradise.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "Meeting With The Indian Poet Bartari-Hari"
+}

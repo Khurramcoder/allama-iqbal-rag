@@ -1,0 +1,746 @@
+{
+  "id": "07",
+  "name": "حرکت بہ کاخ سلاطین مشرق نادر ابدالی سلطان شہید",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "name-ur": "سلاطین مشرق کے محلات کی طرف روانگی : نادر ، ابدالی ، سلطان ٹیپو شہید۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رفت در جانم صدای برتری\nمست بودم از نوای برتری",
+              "lang": "Original"
+            },
+            {
+              "_content": "برتری کی بات میرے دل میں اتر گئی؛ اس کی نوا نے مجھے مست کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The voice of Bartari penetrated into my soul; I was intoxicated with Bartari’s song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گفت رومی \"چشم دل بیدار بہ\nپا برون از حلقۂ افکار نہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا چشم دل کا بیدار رہنا بہتر ہے؛ اپنے انکار کے چکر سے باہر نکل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said: ‘It is better to open your eyes, better to step outside the circle of your thoughts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کردہ ئی بر بزم درویشان گذر\nیک نظر کاخ سلاطین ہم نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے درویشوں کی بزم دیکھی ہے اب ذرا سلاطین کے محل بھی دیکھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have passed by the banquet of dervishes; give one glance also at the palace of kings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خسروان مشرق اندر انجمن\nسطوت ایران و افغان و دکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں مشرق کے سلاطین جو ایران ، افغانستان اور دکن کی سطوت تھے، یہاں انجمن آرا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sovereigns of the East are here assembled, the might of Iran, Afghanistan and Deccan;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نادر آن دانای رمز اتحاد\nبا مسلمان داد پیغام وداد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ نادر ہے جو سنّی شیعہ اتحاد کے لیے کوشاں رہا ؛ جس نے مسلمانوں کو محبت کا پیغام دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nadir, who knew the secret of unity and conveyed to the Moslems the message of love;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مرد ابدالی وجودش آیتی\nداد افغان را اساس ملتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ ابدالی ہے جس کا وجود عظمت کا نشان ہے؛ اس نے افغانوں کے لیے قومیت کی بنیاد رکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heroic Abdali, his whole being a sign, who gave the Afghans the foundation of nationhood;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آن شہیدان محبت را امام\nآبروی ہند و چین و روم و شام",
+              "lang": "Original"
+            },
+            {
+              "_content": "(یہ سلطان ٹیپو ہے) جو شہدا کا امام اور ہند و چین و روم و شام کی آبرو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That leader of all the martyrs of love, \"Glory of India, China, Turkey and Syria\",",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نامش از خورشید و مہ تابندہ تر\nخاک قبرش از من و تو زندہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا نام خورشید و ماہ سے زیادہ چمک رہا ہے؛ اس کی قبر کی خاک ہم سے زیادہ زندہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose name is more resplendent than the sun and the moon, the dust of whose grave is more living than I and you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "عشق رازی بود بر صحرا نھاد\nتو ندانی جان چہ مشتاقانہ داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق ایک راز تھا جسے اس نے عیاں کر دیا؛ تو نہیں جانتا کہ اس نے کس مشتاقانہ انداز سے جان دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is a mystery, which he revealed in the open plain – do you not know how yearningly he gave his life?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "از نگاہ خواجۂ بدر و حنین\nفقر سلطان وارث جذب حسین",
+              "lang": "Original"
+            },
+            {
+              "_content": "خواجہ ء بدر و حنین (صلعم) کی نگاہ کے فیض سے سلطان شہید کا فقر جذب حسین کا وارث ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By grace of the gaze of the victor of Badr and Hunain. The poverty of the king became heir to Husain’s ecstasy;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "رفت سلطان زین سرای ہفت روز\nنوبت او در دکن باقے ہنوز\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "شلطان شہید اس ہفت روزہ دنیا سے جا چکا ہے ؛ مگر دکن میں اس کے مرقد پر اب تک نوبت بجتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The King departed from this tavern of seven days, yet still to this day his trumpet sounds in Deccan.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "حرف و صوتم خام و فکرم ناتمام\nکی توان گفتن حدیث آن مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے الفاظ میری آواز دونوں خام ہیں ، میری سوچ ناتمام ہے میں اس مقام کی شان کیسے بیان کر سکتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My words and voice are immature, my thought imperfect: how can I hope to describe that place?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نوریان از جلوہ ہای او بصیر\nزندہ و دانا و گویا و خبیر،",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے جلوے فرشتوں کو بصارت ، زندگی ، دانائی ، گویائی اور آگاہی عطا کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beings of light from its reflected glory derive vision, vitality, knowledge, speech, awareness;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "قصرے از فیروزہ دیوار و درش\nآسمان نیلگون اندر برش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا محل تھا جس کے در و دیوار فیروزہ سے بنے ہوئے تھے ؛ یوں نظر آتا تھا جیسے نیلگوں آسمان اس کے آغوش میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A palace whose walls and gates are of turquoise holding in its bosom the whole azure sky;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "رفعت او برتر از چند و چگون\nمی کند اندیشہ را خوار و زبون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی بلندی پیمائش سے بالا تھی، اسے دیکھ کر سوچ کی حیرت گم ہو جاتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soaring beyond the bounds of quantity and quality, it reduces thought to mean impotence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آن گل و سرو و سمن آن شاخسار\nاز لطافت مثل تصویر بھار",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ گلاب، وہ چنبیلی ، وہ سرو اور اس کی شاخیں ان کی لطافت بہار کی تصویر تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The roses, the cypresses, the jasmines, the flowering boughs delicate as a picture painted by the hand of spring;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہر زمان برگ گل و برگ شجر\nدارد از ذوق نمو رنگ دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھولوں اور درختوں کے پتّے ذوق نمو سے ہر لمحہ نیا رنگ اختیار کرتے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The petals of the flowers, the leaves of the trees every moment put on new colours out of the joy of growth;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "اینقدر باد صبا افسونگر است\nتا مژہ برھم زنی زرد احمر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کی باد صبا اس قدر جادو اثر تھی کہ پلک جھپکنے میں زرد رنگ سرخ ہو جاتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such a spellbinder the zephyr is that as you wink, gold is turned to scarlet;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہر طرف فوارہ ہا گوہر فروش\nمرغک فردوس زاد اندر خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر سمت فوارے موتی لوٹا رہے تھے؛ اور جنت کے پرندے چہچہا رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On every side pearl-scattering fountains, birds born of Paradise in clamant song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "بارگاہے اندر آن کاخے بلند\nذرہ او آفتاب اندر کمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کاخ بلند کے اندر ایک ایسی بارگاہ تھی ؛ جس کے ذرے آفتاب در بغل تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Within that lofty palace was a chamber whose motes held the sun in a lasso;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "سقف و دیوار و اساطین از عقیق\nفرش او از یشم و پرچین از عقیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی چھت ، دیواریں ، ستون اور چار دیواری عقیق کے تھے؛ اور اس کا فرش سنگ لشب کا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The roof, walls and columns were of red agate, the floor of jasper, enclosed in carnation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "بر یمین و بر یسار آن وثاق\nحوریان صف بستہ با زرین نطاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس محل کے دائیں بائیں زریں کمر بند حوریں صف بستہ کھڑی تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the right and left of that lodge houris with golden girdles stood in ranks,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "در میان بنشستہ بر اورنگ زر\nخسروان جم حشم بہرام فر",
+              "lang": "Original"
+            },
+            {
+              "_content": "درمیان میں تخت زرّیں پر وہ پادشاہ بیٹھے ہوئے تھے جو جاہ و حشمت میں جمشید کی طرح تھے اور فرّ و فال میں بہرام گور کی مانند۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And in the midst, seated on thrones of gold, sovereigns stately as Jamshid, splendid as Bahram.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "رومی آن آئینۂ حسن ادب\nبا کمال دلبری بگشاد لب",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی جو حسن ادب کا آئینہ ہے اس نے نہایت دلبرانہ انداز میں لب کھولے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi, that mirror of perfect refinement, with utmost affection opened his lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "گفت \"مردی شاعری از خاور است\nشاعری یا ساحری از خاور است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور کہا 'یہ میرے ساتھ مشرق سے ایک شاعر ہے میں اسے شاعر کہوں یا ساحر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Saying, ‘Here is a poet from the East – either a poet, or an eastern magician;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "فکر او باریک و جانش دردمند\nشعر او در خاوران سوزی فکند\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا فکر لطیف اور اس کی جان پرسوز ہے؛ اس کے اشعار نے اہل مشرق کے دلوں میں سوز پیدا کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His thoughts are acute, his soul impassioned; his verses have kindled a fire in all the East’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "نادر",
+      "name-en": "Nadir",
+      "Verse": [
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "خوش بیا اے نکتہ سنج خاوری\nاے کہ می زیبد ترا حرف دری\nمحرم رازیم با ما راز گوے\nآنچہ میدانی ز ایران باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے نکتہ دان مشرق خوش آمدید ؛ تجھے فارسی زبان میں شعر گوئی زیب دیتی ہے۔\nہم محرم راز ہیں ہم سے راز کی بات کر جو کچھ تجھے ایران کے متعلق معلوم ہے وہ بتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Welcome to you, eastern weaver of subtleties whose lips the Persian speech so well beseems!\nWe are your intimate friends; tell us your secret, reveal what you know of Iran.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "زندہ رود",
+      "name-en": "Zinda-Rud",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بعد مدت چشم خود بر خود گشاد\nلیکن اندر حلقۂ دامی فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایران نے بڑی مدت کے بعد اپنی اہمیت کا احساس کیا ہے؛ لیکن وہ (مغربیوں کے جال) میں پھنس گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "After long ages she opened her eyes on herself, but then she fell into the snare of a trap,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "کشتۂ ناز بتان شوخ و شنگ\nخالق تہذیب و تقلید فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ مغرب کے بتان شوخ و شنگ کی ادا پر مرتا ہے ؛ حیرت کی بات ہے کہ وہ خود خالق تہذیب ہو کر فرنگیوں کی تقلید کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slain by the charm of bold and elegant idols, creator of culture-and slavish imitation of Europe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "کار آن وارفتۂ ملک و نسب\nذکر شاپور است و تحقیر عرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس ملک و نسب پر فریفتہ کا کام شاہ پور کی تعریف اور عرب کی تحقیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lost in the cult of ‘rulership’ and ‘race’, she acclaims the glory of Shapur, and despises the Arabs;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "روزگار او تہے از واردات\nاز قبور کہنہ می جوید حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی زندگی نئے مشاہدات سے خالی ہے؛ (فرنگی تہذیب) کی پرانی قبروں سے زندگی کا متلاشی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her day today being empty of new achievements she seeks for life in ancient sepulchres.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "با وطن پیوست و از خود در گذشت\nدل بہ رستم داد و از حیدر گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے وطن پرستی اختیار کر لی اور اپنے آپ کو نظر انداز کر دیا؛ رستم پر فریفتہ ہوا اور حیدر کرار (رضی اللہ) کو بھول گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wedded to the ‘fatherland’, having abandoned her self she has given her heart to Rustam, and turned from Haidar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "نقش باطل مے پذیرد از فرنگ\nسر گذشت خود بگیرد از فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اہل فرنگ سے نقش باطل قبول کر رہا ہے اور انہی سے اپنی تاریخ سیکھ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She is accepting a false image from Europe; she takes the version of her history from Europe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "پیری ایران زمان یزد جرد\nچہرۂ او بے فروغ از خون سرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یزد جرد کے زمانے کے ایران پر کہنگی طاری ہے اور اس کا چہرہ خون سرد کی وجہ سے زرد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iran was aged already in the time of Yazdajird, her cheeks were lack-lustre, her blood was cold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "دین و آئین و نظام او کہن\nشید و تار صبح و شام او کہن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دین ، اس کا آئین ، اس کا نظام اور اس کی صبح و شام کی روشنی اور تاریکی سب پرانی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ancient her religion, her laws, her system, ancient the light and dark of her dawn and eve;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "موج مے در شیشۂ تاکش نبود\nیک شرر در تودۂ خاکش نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے شیشہ ء تاکستان میں شراب کی کوئی موج اور اس کے تو دہ ء خاک میں کوئی شرر باقی نہیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In her vine’s flask no wine foamed, no spark glowed in her heap of dust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "تا ز صحرائی رسیدش محشری\nآنکہ داد او را حیات دیگری",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ صحرائے (عرب ) سے اسلام نے آ کر وہاں محشر بپا کر دیا اور انہیں نئی زندگی عطا کر دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Till from the desert a resurrection came to her which endowed her with new life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "اینچین حشر از عنایات خداست\nپارس باقی، رومةالکبری کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قسم کا محشر اللہ تعالے کی عنایات میں سے ہے (اسی کا نتیجہ ہے کہ) ایران باقی ہے مگر رومتہ الکبری ختم ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such a resurrection is a grace of God: Persia lives on-where is Rome the mighty?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "آنکہ رفت از پیکر او جان پاک\nبے قیامت بر نمی آید ز خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس قوم کے پیکر سے روح نکل چکی ہو، وہ قیامت کے بغیر قبر سے نہیں اٹھتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He from whose body the pure spirit has departed cannot rise from the dust without a resurrection.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "مرد صحرائی بہ ایران جان دمید\nباز سوی ریگزار خود رمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "عربوں نے ایران میں نئی روح پھونک دی اور پھر اپنے ریگستان کی طرف واپس چلے گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The desert-dwellers breathed life into Iran and then sped back to their sandy wastes;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "کہنہ را از لوح ما بسترد و رفت\nبرگ و ساز عصر نو آورد و رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے ہماری لوح حیات سے قدامت کو مٹا دیا ؛ وہ ہمیں نئے دور کا ساز و سامان دے کر واپس گئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They erased from our tablet all that was old, and departed; they brought the apparatus of a new age, and departed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "آہ، احسان عرب نشناحتند\nاز تش افرنگیان بگداختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر افسوس کہ ایران نے عربی کا احسان نہ پہچانا اور اپنے آپ کی فرنگیوں کی آگ میں گداز کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas, Iran has not recognized the benefaction of the Arabs; she has melted away in Europe’s fire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Departure To The Palace Of The Kings Of The East: Nadir, Abdali, The Martyr – King"
+}

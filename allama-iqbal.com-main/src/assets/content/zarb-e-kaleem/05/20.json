@@ -1,0 +1,35 @@
+{
+  "id": "20",
+  "name": "یورپ اور سوریا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرنگیوں کو عطا خاک سوریا نے کیا \nنبی عفت و غم خواری و کم آزاری \nصلہ فرنگ سے آیا ہے سوریا کے لیے \nمے و قمار و ہجوم زنان بازاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوريا: ملک شام ، جس میں موجودہ لبنان ، اسرائیل، فلسطین اور مشرقی اردن شامل تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The land of Syria to the Franks presented: Prophet chaste, kind, who paining man resented.\nThe Franks have recompensed the Syrian clime with drink, dice, troops or girls for sexual crime.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Europe And Syria",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

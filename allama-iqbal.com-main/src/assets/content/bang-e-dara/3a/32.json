@@ -1,0 +1,146 @@
+{
+  "id": "32",
+  "name": "شاعر",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جوئے سرود آفریں آتی ہے کوہسار سے \nپی کے شراب لالہ گوں مے کدئہ بہار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The melodious brook is coming down from the mountain after drinking red wine from the tavern’s spring.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مست مے خرام کا سن تو ذرا پیام تو \nزندہ وہی ہے کام کچھ جس کو نہیں قرار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just listen to the message of the ecstatic stroller; only he is living who unconcerned with resting is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پھرتی ہے وادیوں میں کیا دخترخوش خرام ابر \nکرتی ہے عشق بازیاں سبزئہ مرغزار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the valleys the cloud’s elegant daughter is roaming; exhibiting her love for the greenery of the meadow is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جام شراب کوہ کے خم کدے سے اڑاتی ہے \nپست و بلند کرکے طے کھیتوں کو جا پلاتی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stealing away the cup of wine from mountain’s tavern; passing throughout ups and downs suckling the fields is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شاعر دل نواز بھی بات اگر کہے کھری \nہوتی ہے اس کے فیض سے مزرع زندگی ہری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the affectionate poet also exhibits the truth; life’s cultivation greens up from his bountiful ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شان خلیل ہوتی ہے اس کے کلام سے عیاں \nکرتی ہے اس کی قوم جب اپنا شعار آزری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Khalil’s* glory is evident from his verse; when his nation exhibits the Azar’s ways. \n(Khalil: This is abbreviation of Khalil Allah which is a title of Ibrahim A.S.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اہل زمیں کو نسخہء زندگی دوام ہے \nخون جگر سے تربیت پاتی ہے جو سخنوری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For earth’s inhabitants is the recipe of eternal life; the literature which is nurtured in sincere ways.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گلشن دہر میں اگر جوئے مے سخن نہ ہو\nپھول نہ ہو، کلی نہ ہو، سبزہ نہ ہو، چمن نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If the book of literature’s wine in the world’s garden does not exist; the flower, the bud, the verdure, even the garden will not exist.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Poet",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

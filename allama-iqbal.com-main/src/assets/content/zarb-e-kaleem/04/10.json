@@ -1,0 +1,312 @@
+{
+  "id": "10",
+  "name": "شعاع امید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سورج نے دیا اپنی شعاعوں کو یہ پیغام \nدنیا ہے عجب چیز، کبھی صبح کبھی شام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun conveyed this message to its rays: ‘What wonder great, the change of nights and days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مدت سے تم آوارہ ہو پہنائے فضا میں \nبڑھتی ہی چلی جاتی ہے بے مہری ایام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have been rambling since aeons in space, but hate among men is increasing 'pace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نے ریت کے ذروں پہ چمکنے میں ہے راحت \nنے مثل صبا طوف گل و لالہ میں آرام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To shine on sand affords no pleasure sound, nor peace, like breeze in making flower's round.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پھر میرے تجلی کدہ دل میں سما جاو \nچھوڑو چمنستان و بیابان و در و بام",
+              "lang": "Original"
+            },
+            {
+              "_content": "در و بام: دیواریں اور چھت، مراد ہے آبادیاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be lost in fount of light that gave you birth, forsake the park, the waste, the roof and earth’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آفاق کے ہر گوشے سے اٹھتی ہیں شعاعیں \nبچھڑے ہوئے خورشید سے ہوتی ہیں ہم آغوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rays rise from every nook of space, make haste to take the sun in fond embrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اک شور ہے، مغرب میں اجالا نہیں ممکن \nافرنگ مشینوں کے دھویں سے ہے سیہ پوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيہ پوش: کالا لباس پہنے، مراد اندھیرے میں لپٹا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Loud roar persists, there can't be light in West, for smoke makes West enrobed in able vest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مشرق نہیں گو لذت نظارہ سے محروم \nلیکن صفت عالم لاہوت ہے خاموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم لاہوت: وہ جہان ، جہاں خدا کے سوائے کوئی اور نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though East is not bereft of inner light, yet quiet of tomb prevails like Celestial Height.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پھر ہم کو اسی سینہ روشن میں چھپا لے \nاے مہر جہاں تاب ! نہ کر ہم کو فراموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O sun that light the world keep us in mind, hide us in breast so bright and kind.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک شوخ کرن، شوخ مثال نگہ حور \nآرام سے فارغ، صفت جوہر سیماب",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيماب: پارہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A shameless ray as proud as houri's glance bereft of rest, like mercury e'er at dance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بولی کہ مجھے رخصت تنویر عطا ہو \nجب تک نہ ہو مشرق کا ہر اک ذرہ جہاں تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "تنوير: روشن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Implored the sun to let it spread its light till every mote of East grows lustrous bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چھوڑوں گی نہ میں ہند کی تاریک فضا کو \nجب تک نہ اٹھیں خواب سے مردان گراں خواب",
+              "lang": "Original"
+            },
+            {
+              "_content": "گراں خواب: گہری نیند ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dark surroundings of Hind it won't forsal till natives sunk in slumber do not wake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خاور کی امیدوں کا یہی خاک ہے مرکز \nاقبال کے اشکوں سے یہی خاک ہے سیراب",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاور: مشرق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The hopes of Orient on this region hinge, the tears that Iqbal sheds on it impinge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چشم مہ و پرویں ہے اسی خاک سے روشن \nیہ خاک کہ ہے جس کا خزف ریزہ درناب",
+              "lang": "Original"
+            },
+            {
+              "_content": "درناب: سچا موتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon and Pleiades get light from this land; its stones are costlier than gems of purest brand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس خاک سے اٹھے ہیں وہ غواص معانی \nجن کے لیے ہر بحر پر آشوب ہے پایاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "بحر پر آشوب: طوفانی سمندر۔ \nپاياب: جس میں سے پیدل گزرا جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It has produced men who hid sense can see, with utmost ease can cross the swollen sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "جس ساز کے نغموں سے حرارت تھی دلوں میں \nمحفل کا وہی ساز ہے بیگانہ مضراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The harp whose music warmth to gathering lent with force quite spent the plectrum alien is'.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بت خانے کے دروازے پہ سوتا ہے برہمن \nتقدیر کو روتا ہے مسلماں تہ محراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Brahman guards the fane and sleeps at gate, the Muslim in mosque's niche, bewails his Fate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "مشرق سے ہو بیزار، نہ مغرب سے حذر کر \nفطرت کا اشارہ ہے کہ ہر شب کو سحر کر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حذر: پرہیز، بچاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't shun the East, nor look on West with scorn, since Nature yearns for change of night to morn.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "Ray Of Hope",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

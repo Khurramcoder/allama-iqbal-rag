@@ -1,0 +1,33 @@
+{
+  "id": "144",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز جان بیقرار آتش گشادم\nدلی در سینۂ مشرق نھادم\nگل او شعلہ زار از نالۂ من\nچو برق اندر نہاد او فتادم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of my restless spirit the flames start, in the East’s bosom I have stirred a heart.\nIts clay is set afire by my lament, like lightning to its inmost soul I dart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,114 @@
+{
+  "id": "37",
+  "name": "فلسفہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "افکار جوانوں کے خفی ہوں کہ جلی ہوں \nپوشیدہ نہیں مرد قلندر کی نظر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thoughts of young both masked and plain from Qalandar's eyes can't hid, remain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "معلوم ہیں مجھ کو ترے احوال کہ میں بھی \nمدت ہوئی گزرا تھا اسی راہ گزر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know your states for I too crost, these tracts in times which now are past.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "الفاظ کے پیچوں میں الجھتے نہیں دانا \nغواص کو مطلب ہے صدف سے کہ گہر سے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wise 'bout words do not quarrel, he heeds not shell who seeks the pearl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پیدا ہے فقط حلقہ ارباب جنوں میں \nوہ عقل کہ پا جاتی ہے شعلے کو شرر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men crazed with Love of God possess wit that from spark the flame can guess.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جس معنی پیچیدہ کی تصدیق کرے دل \nقیمت میں بہت بڑھ کے ہے تابندہ گہر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An import complex confirmed by heart is precious more than gems in mart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یا مردہ ہے یا نزع کی حالت میں گرفتار \nجو فلسفہ لکھا نہ گیا خون جگر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As good as dead is science and art, which take not birth from bleeding heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Philosophy",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

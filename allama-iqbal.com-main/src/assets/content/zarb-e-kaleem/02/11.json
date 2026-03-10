@@ -1,0 +1,34 @@
+{
+  "id": "11",
+  "name": "خودی کی تربیت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کی پرورش و تربیت پہ ہے موقوف\nکہ مشت خاک میں پیدا ہو آتش ہمہ سوز\nیہی ہے سر کلیمی ہر اک زمانے میں\nہوائے دشت و شعیب و شبانی شب و روز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Self is bred with perfect care, such force and strength it can acquire that handful dust of man with case can set untruths and wrongs afire.\nThis is the mystery we ascribe to Moses in every age and clime; he tended the sheep in wilds and learnt from Shoaib to toil and mode sublime.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Upbringing Of Selfhood",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,307 @@
+{
+  "id": "04",
+  "name": "عالم برزخ",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "name": "مردہ اپني قبر سے",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیا شے ہے، کس امروز کا فردا ہے قیامت\nاے میرے شبستاں کہن! کیا ہے قیامت؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "فردا: آنے والا کل۔\nامروز: آج۔ \nشبستاں: رات گزارنے کی جگہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Dead to his grave: \nOf which today’s next would be doomsday? O my old chamber! What is doomsday?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "قبر",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے مردئہ صد سالہ! تجھے کیا نہیں معلوم؟\nہر موت کا پوشیدہ تقاضا ہے قیامت!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Grave: O hundred years dead do you know, nay! Each death’s hidden need is the doomsday",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "مردہ",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس موت کا پوشیدہ تقاضا ہے قیامت\nاس موت کے پھندے میں گرفتار نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Dead: Which death’s hidden need is the doomsday. Fastened in its trap, I would like, nay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر چند کہ ہوں مردئہ صد سالہ ولیکن\nظلمت کدہ خاک سے بیزار نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ظلمت کدہ خاک : مٹی کے اندر تاریک گھر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred years dead I am called though, I’m not sick of that dusty gloom so.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہو روح پھر اک بار سوار بدن زار\nایسی ہے قیامت تو خریدار نہیں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوار بدن زار: کمزور بدن پر سوار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a soul comes back in this body weak, if that is doomsday, to that I wont seek.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "صدائے غیب",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نے نصیب مار و کژدم، نے نصیب دام و دد\nہے فقط محکوم قوموں کے لیے مرگ ابد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ تو سانپ، بچھو اور درندوں وغیرہ کی بھی قسمت میں نہیں اور تو انسان ہو کر ہمیشہ کی موت چاہتا ہے۔\nمرگ ابد: ہمیشہ کی موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Hidden Voice: No fate of snakes and scorps: nor jungle’s snare, a life long death’s fate is slaves’ only share.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بانگ اسرافیل ان کو زندہ کر سکتی نہیں\nروح سے تھا زندگی میں بھی تہی جن کا جسد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسد: بدن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To him cant wake up the Israpheel’s horn, so void of soul body was his life’s thorn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "مر کے جی اٹھنا فقط آزاد مردوں کا ہے کام\nگرچہ ہر ذی روح کی منزل ہے آغوش لحد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذي روح: روح رکھنے والا، انسان۔ \nآغوش لحد: قبر کی آغوش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Would rise from graves the free men alone, though each man’s abode is the grave lone.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "قبر اپنے مردہ سے ",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آہ، ظالم! تو جہاں میں بندہ محکوم تھا\nناکمیں نہ سمجھی تھی کہ ہے کیوں خاک میری سوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "سوز ناک: جلن والی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Grave (to her Dead): O fool in this world you were the men slave, now I follow why pinched me the grave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تیری میت سے مری تاریکیاں تاریک تر\nتیری میت سے زمیں کا پردئہ ناموس چاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "پردئہ ناموس: عزت کا پردہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My gloom from thy body added more gloom, the veil of Earth’s honour in rags did loom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "الحذر، محکوم کی میت سے سو بار الحذر\nاے سرافیل! اے خدائے کائنات! اے جان پاک!",
+              "lang": "Original"
+            },
+            {
+              "_content": "الحذر: ڈرو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Shun hundred times from a slave’s body then, O Seraph! O Soul! O God! Of whole men.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "صدائے غیب",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "گرچہ برہم ہے قیامت سے نظام ہست و بود\nہیں اسی آشوب سے بے پردہ اسرار وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "نظام ہست و بود: دنیا کا نظام۔ \nآشوب: ہنگامہ۔\nاسرار: راز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Mysterious Voice: From doomsday shakes the world’s order though, this noise but opes; the Beings Secrets so.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زلزلے سے کوہ و در اڑتے ہیں مانند سحاب\nزلزلے سے وادیوں میں تازہ چشموں کی نمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "نمود: ظاہر ہونا۔\nمانند سحاب: بادلوں کی طرح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From tremors, like clouds move the hills and dales, the tremors ope fountains in dales and vales.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ہر نئی تعمیر کو لازم ہے تخریب تمام\nہے اسی میں مشکلات زندگانی کی کشود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشود: کھلنا۔\nتخريب تمام: مکمل بربادی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A new built up needs a total wreck, through wreck life breaks all the bottlenecks.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "زمین",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "آہ یہ مرگ دوام، آہ یہ رزم حیات\nختم بھی ہوگی کبھی کشمکش کائنات!\nعقل کو ملتی نہیں اپنے بتوں سے نجات\nعارف و عامی تمام بندئہ لات و منات\nخوار ہوا کس قدر آدم یزداں صفات\nقلب و نظر پر گراں ایسے جہاں کا ثبات\nکیوں نہیں ہوتی سحر حضرت انساں کی رات؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرگ دوام: ہمیشہ کی موت۔ \nرزم حيات: زندگی کی جنگ۔ \nو عامي: خاص و عام۔ عارف\nآدم يزداں صفات: خدا کی صفات رکھنے والا انسان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth: Oh! This lasting death! Oh battle! For life would the world ever, end its strife.\nA riddance from her idols, world cant get, a savant or layman are Lot’s’ slaves yet.\nHow much man lowered who had Godly part's such world’s stay a load on eyes and hearts. Why is there no morn of such a man’s night?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "name-en": "The Purgatory",
+  "credits": "English Translation by: Q A Kabir"
+}

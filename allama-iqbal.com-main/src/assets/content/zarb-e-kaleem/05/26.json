@@ -1,0 +1,99 @@
+{
+  "id": "26",
+  "name": "نصیحت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک لرد فرنگی نے کہا اپنے پسر سے \nمنظر وہ طلب کر کہ تری آنکھ نہ ہو سیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Frankish Lord advised his son to seek such aim that is always pleasant ne'er bleak.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بیچارے کے حق میں ہے یہی سب سے بڑا ظلم\nبرے پہ اگر فاش کریں قاعدہ شیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہ: بھیڑ کا بچہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If lion's temper is to lamb revealed, it will entirely make its blood congealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سینے میں رہے راز ملوکانہ تو بہتر \nکرتے نہیں محکوم کو تیغوں سے کبھی زیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much good, if regal point remains in heart, in dominating men sword plays no part.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تعلیم کے تیزاب میں ڈال اس کی خودی کو \nہو جائے ملائم تو جدھر چاہے، اسے پھیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pour the Self in culture's acid strong, when it becomes soft, mould it as you long.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تاثیر میں اکسیر سے بڑھ کر ہے یہ تیزاب \nسونے کا ہمالہ ہو تو مٹی کا ہے اک ڈھیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On this Elexir's efficacy you can count, to heap of dust can change a mighty mount!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Advice",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

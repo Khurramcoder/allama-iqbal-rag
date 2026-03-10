@@ -1,0 +1,86 @@
+{
+  "id": "18",
+  "name": "مرگ خودی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کی موت سے مغرب کا اندروں بے نور \nخودی کی موت سے مشرق ہے مبتلائے جذام",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذام: کوڑھ کی بیماری ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Devoid the West of inner light, her soul is struck with deadly blight: the loss of Self has made the East a leper, for germs befitting feast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی کی موت سے روح عرب ہے بے تب و تاب\nبدن عراق و عجم کا ہے بے عروق و عظام",
+              "lang": "Original"
+            },
+            {
+              "_content": "عروق: عرق کی جمع ، یعنی رنگین۔ \nعظام: عزم کی جمع، یعنی ہڈیاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Arabs have lost their former zeal, their souls are shrunk, they can not feel: Iraq and Persia are bereft of bones and veins and naught is left.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خودی کی موت سے ہندی شکستہ بالوں پر \nقفس ہوا ہے حلال اور آشیانہ حرام!",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکستہ بالوں: ٹوٹے پروں والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Self of Indians is extinct, by pinions cleft is made distinct for they are pleased with prison life, to break the bars they wage no strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خودی کی موت سے پیر حرم ہوا مجبور \nکہ بیچ کھائے مسلماں کا جام ہ احرام!",
+              "lang": "Original"
+            },
+            {
+              "_content": "جامہ احرام : حاجیوں کے ان سلے کپڑے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Demise of Self has made divine, who keeps a watch on Holy Shrine, to sell the robes that pilgrims don, on sale proceeds he lives upon.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Death Of The Ego",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "51",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کی حق سے فرشتوں نے اقبال کی غمازی \nگستاخ ہے، کرتا ہے فطرت کی حنا بندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To God the angels did complain ’gainst Iqbal and did say that rude and insolent is he, Nature he paints much gay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خاکی ہے مگر اس کے انداز ہیں افلاکی \nرومی ہے نہ شامی ہے، کاشی نہ سمرقندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though born of mud and water, yet a god assumes to be: Not bound to any home or land, of earthly ties is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سکھلائی فرشتوں کو آدم کی تڑپ اس نے \nآدم کو سکھاتا ہے آداب خداوندی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To throngs of Heaven he has taught, like man, to fret and pine. To clay-made man he fain would teach the wont and mode divine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

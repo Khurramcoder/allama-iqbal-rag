@@ -1,0 +1,34 @@
+{
+  "id": "79",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نوا در ساز جان از زخمۂ تو\nچسان در جانی و از جان برونی\nچراغم، با تو سوزم بی تو میرم\nتو اے بیچون من بی من چگونی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ساز جان میں نوا آپ کے مضراب سے ہے ۔ (اللہ تعالے سے عرض کر رہے ہیں) ، آپ کس طرح میری جان کے اندر بھی ہیں اور باہر بھی، \nمیں چرا‏‏غ ہوں ، آپ سے تعلق ہو تو میرے اندر روشنی پیدا ہوتی ہے؛ آپ کے بغیر میری روشنی بجھ جاتی ہے؛ اے وہ جس کی مثل کوئی نہیں ، تو میرے بغیر کیسے ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your plectrum fills the instrument of the soul with tunes. How can You be in the soul and outside it as well?\nWhy should I worry? With You, I am aflame; without You I die. But my Unique One, how do You manage without me?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,242 @@
+{
+  "id": "17",
+  "name": "سیر فلک",
+  "name-en": "Strolling in the Celestial World",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تھا تخیل جو ہم سفر میرا \nآسماں پر ہوا گزر میرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "As only imagination was my fellow-traveler\nMy path happened to pass through the sky\n"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اڑتا جاتا تھا اور نہ تھا کوئی \nجاننے والا چرخ پر میرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "I was  flying constantly and no one\nWas acquainted with me in the sky\n"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تارے حیرت سے دیکھتے تھے مجھے \nراز سر بستہ تھا سفر میرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The stars were staring at me in surprise\nMy journey was a well guarded secret"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حلقہ صبح و شام سے نکلا \nاس پرانے نظام سے نکلا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": " I escaped from the alternation of day and night\nI escaped from this ancient order of things"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیا سناوں تمھیں ارم کیا ہے \nخاتم آرزوئے دیدہ و گوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "What can I tell you what Paradise is\nIt is the climax of material longings"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شاخ طوبی! پہ نغمہ ریز طیور \nبے حجابانہ حور جلوہ فروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Birds were singing in the branches of \nUnabashed Hour's beauty was present all around"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ساقیان جمیل جام بدست \nپینے والوں میں شور نوشانوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Beautiful cup-bearers with wine-cups in hand\nThe audience was crying drink more and more"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "دور جنت سے آنکھ نے دیکھا \nایک تاریک خانہ سرد و خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Far from the Paradise the eye observed\nThere was a dark house, cold  and silent"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "طالع قیس و گیسوئے لیلی \nاس کی تاریکیوں سے دوش بدوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Countenance of Qais and Lailah's material form\nWere shoulder to shoulder with its darkness"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "خنک ایسا کہ جس سے شرما کر \nکرہ زمہریر ہو روپوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "It was so cold  that being embarrassed by it\nThe Arctic Circle was concealing its face"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "میں نے پوچھی جو کیفیت اس کی \nحیرت انگیز تھا جواب سروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "\nWhen I inquired about  its condition\nThe reply of the angel was strange"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یہ مقام خنک جہنم ہے \nنار سے، نور سے تہی آغوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "This cold place is called Hell\nIt is deprived of fire and light"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "شعلے ہوتے ہیں مستعار اس کے \nجن سے لرزاں ہیں مرد عبرت کوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The heat of its flames which is borrowed\nTerrifies the people seeking admonition"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اہل دنیا یہاں جو آتے ہیں \nاپنے انگار ساتھ لاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "When the earth's people come here\nThey bring their embers with them"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

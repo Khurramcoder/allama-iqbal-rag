@@ -1,0 +1,97 @@
+{
+  "id": "55",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر اک مقام سے آگے گزر گیا مہ نو \nکمال کس کو میسر ہuوا ہے بے تگ و دو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Through many a stage the crescent goes and then at last full moon it grows: Perfection no one can attain, save by dint of strife and strain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نفس کے زور سے وہ غنچہ وا ہوا بھی تو کیا \nجسے نصیب نہیں آفتاب کا پرتو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bud that gets no share of light from the sun that shines so bright, and opens through its inner urge is bereft of life’s full surge.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ پاک ہے تیری تو پاک ہے دل بھی \nکہ دل کو حق نے کیا ہے نگاہ کا پیرو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If your gaze of sins be free, then chaste and pure your heart shall be, for God the Mighty has decreed that heart shall follow and gaze shall lead.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پنپ سکا نہ خیاباں میں لالہ دل سوز \nکہ ساز گار نہیں یہ جہان گندم و جو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip red with heart afire in avenue could not thrive and spire, as this world of corn and wheat for tulip wild could not be meet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "رہے نہ ایبک و غوری کے معرکے باقی \nہمیشہ تازہ و شیریں ہے نغمہ خسرو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Great wars by Aibak and Ghauri fought by the world are all forgot; but the lays of Khusrau still our hearts with joy and pleasure fill.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

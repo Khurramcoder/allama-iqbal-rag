@@ -1,0 +1,34 @@
+{
+  "id": "41",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کنشت و مسجد و بتخانہ و دیر\nجز این مشت گلی پیدا نکردی\nز حکم غیر نتوان جز بدل رست\nتو اے غافل دلی پیدا نکردی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہیکل ہو، کلیسا ہو، مسجد ہو یا بتخانہ، ان سب کو آپ نے انسان کے لیے پیدا کیا ہے جو صرف مٹھی بھر خاک ہے۔\nغیر اللہ کی غلامی سے صرف دل ہی کے ذریعے رہائی حاصل کی جا سکتی ہے، مگر اے غافل ! تو نے اپنے اندر دل ہی پیدا نہیں کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You only built church, temple, idol-house and mosque – all symbols of your slavery.\nYou never built yourself a heart, without which a free agent you can never be.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

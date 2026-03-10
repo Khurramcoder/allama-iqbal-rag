@@ -1,0 +1,34 @@
+{
+  "id": "40",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد گفت او بچشم اندر نگنجد\nنگاہ شوق در امید و بیم است\nنمیگردد کہن افسانۂ طور\nکہ در ہر دل تمنای کلیم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد کہتی ہے کہ آنکھ اسے دیکھ نہیں سکتی، (اس سے) نگاہ شوق امید و بیم میں ہے۔ \nطور کا واقع اب بھی دہرایا جا رہا ہے، کیونکہ ہر دل میں وہی تمنا ہے جس کا اظہار موسی (علیہ) نے کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The intellect says He cannot be seen, but still the eager eye stays caught between hope and fear.\nMount Sinai is still there, and in man a Moses there has always been.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

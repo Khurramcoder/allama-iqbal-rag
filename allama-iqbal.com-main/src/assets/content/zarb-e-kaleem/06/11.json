@@ -1,0 +1,84 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جس کے پرتو سے منور رہی تیری شب دوش \nپھر بھی ہو سکتا ہے روشن وہ چراغ خاموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "شب دوش: گزری ہوئی رات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The same lamp that illumed your yesternight, though gone out, once again may get alight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مرد بے حوصلہ کرتا ہے زمانے کا گلہ \nبندئہ حر کے لیے نشتر تقدیر ہے نوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A courageless man can 'gainst Time bewail, whereas the free Fate's stings, like honey hail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہیں ہنگامہ پیکار کے لائق وہ جواں \nجو ہوا نالہ مرغان سحر سے مدہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نالہ مرغان سحر: صبح سویرے بولنے والے پرندوں کی آواز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That youth for noise of wars can not be fit, who hearing wail of birds at morn loses wit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مجھ کو ڈر ہے کہ ہے طفلانہ طبیعت تیری \nاور عیار ہیں یورپ کے شکر پارہ فروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکر پارہ: ایک قسم کی مٹھائی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I fear that you have childish bent of heart, those selling sweets in West are full of art.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,67 @@
+{
+  "id": "24",
+  "name": "حکیم نطشہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حریف نکتہ توحید ہو سکا نہ حکیم \nنگاہ چاہیے اسرار 'لا الہ' کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The subtle point that God is one, the German sage could not perceive clear sight and mind are both a must, so that this point one may conceive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خدنگ سینہ گردوں ہے اس کا فکر بلند \nکمند اس کا تخیل ہے مہرو مہ کے لیے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدنگ: تیر ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flights of fancy, like a dart, can hit the dome of azure sky. He casts his noose on moon and sun that seem so far above and high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اگرچہ پاک ہے طینت میں راہبی اس کی \nترس رہی ہے مگر لذت گنہ کے لیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although his natural bent of mind from stains and blemish is quite free his soul this dormant fact betrays, he yearns for life replete with spree.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Neitzche",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

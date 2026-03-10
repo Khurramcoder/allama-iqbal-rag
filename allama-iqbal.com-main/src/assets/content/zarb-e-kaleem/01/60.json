@@ -1,0 +1,66 @@
+{
+  "id": "60",
+  "name": "پنجابی مسلمان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مذہب میں بہت تازہ پسند اس کی طبیعت \nکر لے کہیں منزل تو گزرتا ہے بہت جلد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A new born Faith invokes his taste, adopts with zeal but leaves with haste.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تحقیق کی بازی ہو تو شرکت نہیں کرتا \nہو کھیل مریدی کا تو ہرتا ہے بہت جلد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In search for truth lie takes no part, as disciple stakes both head and heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تاویل کا پھندا کوئی صیاد لگا دے \nیہ شاخ نشیمن سے اترتا ہے بہت جلد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If comments' snare some hunter set, from nest on bough would drop in net.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Punjabi Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

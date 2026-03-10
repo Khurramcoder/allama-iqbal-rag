@@ -1,0 +1,340 @@
+{
+  "id": "25",
+  "name": "خردہ",
+  "name-en": "Small-scale, detailed",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "می خورد ھر ذرہ ما پیچ و تاب\nمحشری در ھر دم ما مضمر است\nبا سکندر خضر در ظلمات گفت\nمرگ مشکل، زندگی مشکل تر است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Agony in every atom of our being, every breath of us a rising from the dead.\nTo Sikandar lost amidst the Land of Darkness, ‘Hard is Death, but Life is harder’, Khizar said.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دردانہ ادا شناس دریاست\nاز گردش آسیا چہ داند؟\nکلک را نالہ از تہی مغزی است\nقلم سرمہ را صریری نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قلم کا رونا اس کی تہی مغزی (بے عقلی) کے باعث ہے؛ (ورنہ ) قلم سرمہ آواز پیدا نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The pearl is used to the ways of the sea. What can it know about the millstone that grind grain? \nThe reed-pen, being hollow, makes a noise; the pencil, being solid lead, makes none.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "منم کہ طوف حرم کردہ ام بتی بہ کنار\nمنم کہ پیش بتان نعرہ ہای ہو زدہ ام\nدلم ہنوز تقاضای جستجو دارد\nقدم بجادۂ باریک تر ز مو زدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں وہ ہوں جس نے بغل میں بت لیے حرم کا طواف کیا ؛ میں وہ ہوں جس نے بتوں سامنے نعرہ ء ہو بلند کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am one who has walked around the Harem with an idol under my arms. I am one who has shouted Allah’s name when idols were in front of me.\nMy heart still wants that I should go on seeking, though I have set foot on a path thinner than a hair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گل گفت کہ عیش نو بہاری خوشتر\nیک صبح چمن ز روزگاری خوشتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھول نے کہا کہ نو بہار کا عیش کیا خوب ہے؛ چمن کی ایک صبح ساری دنیا سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sweet is the time of Spring, the red Rose cried; sweeter an hour here than an age outside;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "زان پیش کہ کس ترا بدستار زند\nمردن بکنار شاخساری خوشتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیشتر اس کے کہ کوئی تجھے اپنی دستار میں آویزاں کر لے؛ شاخسار پر مر جانا ہی بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before some lover plucks you for his cap, sweetest to die in this green garden’s lap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "سخن گو طفلک و برنا و پیر است\nسخن را سالی و ماہی نباشد",
+              "lang": "Original"
+            },
+            {
+              "_content": "بچہ، جوان اور بوڑھا سب بات کرتے ہیں ؛ سخن کے لیے مہ و سال (عمر) کی کوئی قید نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet is child, youth and old man all in one; distinctions of age are unknown to poetry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چشم را بینائی افزاید سہ چیز\nسبزہ و آب روان و روی خوش\nکالبد، را فربہی می آورد\nجامۂ قز جان بی غم، بوی خوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تین چیزیں بینائی میں اضافہ کرتی ہیں؛ سبزہ، آب رواں اور خوبصورت چہرہ۔ \nبدن کو (بھی تین چیزیں ) فربہ کرتی ہیں؛ ریشمی کپڑا، بے فکری اور خوشبو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Three things make your vision better: Greenery, running water and fair faces.\nThree things tend to make you fatter: Silk robes, good smells and a carefree heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اے برادر من ترا از زندگی دادم نشان\nخواب را مرگ سبک دان مرگ را خواب گران",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے برادر ! میں تجھے زندگی کا راز بتاتا ہوں ؛ نیند کو سبک موت سمجھ اور موت کو خواب گراں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of Life, O brother, I give thee a token to hold and keep; sleep is a lighter death, and Death a heavier sleep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "طاقت عفو در تو نیست اگر\nخیز و با دشمنان در آ بہ ستیز\nسینہ را کارگاہ کینہ ساز\nسرکہ در انگبین خویش مریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تجھ میں معاف کر دینے کا حوصلہ نہیں؛ تو اٹھ اور دشمنوں سے برسر پیکار ہو۔ \nمگر اپنے سینے کو کینے کی کارگاہ (فیکٹری) نہ بنا؛ (اپنی زندگی کے) شہد میں سرکہ نہ ملا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you do not possess the power to forgive, go; get to grips with those who have wronged you.\nDo not nurse hatred in your heart. O do not make your honey sour by mixing vinegar with it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "از نزاکت ہای طبع موشکاف او مپرس\nکز دم بادی زجاج شاعر ما بشکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی طبع ء موشگاف کی نزاکتوں کے بارے میں نہ پوچھ، ہمارے شاعر کا شیشہ ہوا کے جھونکے سے ٹوٹ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not speak to me of his sensitive, fine mind, our poet’s crystal breaks at a mere breath of wind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کی تواند گفت شرح کارزار زندگی\n\"می پرد رنگش حبابی چون بدریا بشکند\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کیسے زندگی کے کارزار کی وضاحت کر سکتا ہے، (اس کا تو یہ حال ہے کہ) 'دریا میں بلبلہ ٹوٹے تو اس کا رنگ اڑ جاتا ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of life’s grim war how can he ever tell the tale, when at the sight of a burst bubble he turns pale?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در جھان مانند جوی کوہسار \nاز نشیب و ہم فراز آگاہ شو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world either be a hill-stream, which observes heights and depressions in its course;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "یا مثال سیل بی زنہار خیز\nفارغ از پست و بلند راہ شو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or be a headlong flood, which just ignores heights and depressions as it rushes on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ایکہ گل چیدی منال از نیش خار\nخار ھم می روید از باد بھار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who plucked a rose, do not complain about the thorn, for like the rose the thorn is born of the spring breeze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "مزن وسمہ بر ریش و ابروی خویش\nجوانے ز دزدیدن سال نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی ریش اور آبرو پر وسمہ نہ لگا؛ سال چرا کر جوانی قائم نہیء رکھی جا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not apply a hair-dye to your eyebrows and your beard, for you cannot get back your youth by stealing years from time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ندارد کار با دون ہمتان عشق\nتذرو مردہ را شاہین نگیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم ہمت لوگوں سے عشق کوئی سروکار نہیں رکھتا؛ شاہین، مردہ تدرو کا شکار نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love has no use for those who do not dare. To catch dead birds an eagle does not care.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "نقد شاعر در خور بازار نیست\nنان بہ سیم نسترن نتوان خرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر کی متاع بازار میں لائے جانے کے قابل نہیں، گل نسترن کی چاندی سے روٹی نہیں خریدی جا سکتی ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet’s product is not saleable. The silver of a white rose will not buy you bread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "چہ خوش بودی اگر مرد نکویی\nز بند باستان آزاد رفتی\nاگر تقلید بودی شیوۂ خوب\nپیمبر ھم رہ اجداد رفتی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا اچھا ہوتا کہ اگر نیک خو مرد ؛ گزرے ہوئے لوگوں کے بندھنوں سے آزاد رہ کر زندگی بسر کرتا ہے۔ \nاگر تقلید اچھی بات ہوتی؛ تو ہمارے رسول پاک (صلعم) بھی ابا و اجداد کا راستہ اختیار کرتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How nice a thing it were if every traveler who wants to travel far and fast could go free from the trammels of the past.\nIf blind conformity were good, the Prophet himself would have gone the way of Arabs in an earlier day.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: R.A. Nicholson"
+}

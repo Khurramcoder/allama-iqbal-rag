@@ -1,0 +1,103 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بپا اے ھم نفس باہم بنالیم\nمن و تو کشتہ شان جمالیم\nدو حرفی بر مراد دل بگوئیم\nبپای خواجہ چشمان را بمالیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے دوست! آ ہم مل کر آنسو بہائیں ؛ کیونکہ میں اور تو حضور اکرم (صلعم ) کی شان جمالی کے شہید ہیں۔ \n اپنے دل کی مراد کے مطابق دو حرف عرض کریں؛ آقا (صلعم ) کے پائے مبارک پر اپنی آنکھیں ملیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "ome O! chum for a tie to weep and cry. A victim of ‘Beauty’ are you and I.\nTwo words I would say in hearts parlance, by ‘Master’s’ feet let eyes go to trance.\n\nBeauty: The Gracious Beauty; the God or Prophet. Parlance: The way of speaking.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حکیمان را بھا کمتر نہادند\nبہ نادان جلوہ مستانہ دادند\nچہ خوش بختی، چہ خرم روزگاری\nدر سلطان بہ درویشی گشادند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں داناؤں کی کوئی قدر و قیمت نہیں؛ (البتہ ) نادان کو (اپنے) جلوہء مستانہ سے بہرہ یاب فرماتے ہیں۔ \n وہ درویش کتنا خوش نصیب اور کتنا خوش بخت ہے؛ جس کے لیے بارگاہء سلطانی (صلعم ) میں باریابی کا دروازہ کھول دیا گیا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To wise he gave less wealth and affluence, the duffer got lustres of raptures hence.\nHow lucky they were and lucky that age, when king’s door were open to a saint or page.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جہان چار سو اندر بر من\nہوای لامکان اندر سر من\nچو بگذشتم ازین بام بلندی\nچو گرد افتاد پرواز از پر من",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اب ) ساری کائنات میرے پہلو میں سما چکی ہے؛ اور لا مکاں (عالم ق‍دس) تک رسائی کی خواہش میرے سر میں ہے۔ \nجب میں اس بام بلند (لا مکاں) سے آگے گذر گیا؛ تو پرواز میرے پروں سے دھول کی طرح جھڑ گئی (طاقت پرواز سلب ہو گئی)۔ (اشارہ اس طرف ہے کہ حضور اکرم (صلعم) لامکاں سے بھی اوپر تشریف لے گئے تھے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world with four sides I have in arm-pit, I have wrapped in this head the heavens’ wit.\nThen I had to leave that topmost height, like dust my wing’s lost that higher flight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "درین وادی زمانی جاودانے\nزخاکش بے صور روید معانے\nحکیمان با کلیمان دوش بردوش\nکہ اینجا کس نگوید لن ترانے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس وادی میں جو غیر فانی زمانہ سے عبارت ہے؛ اس کی مٹی کے بغیر صورت کے معنی پیدا ہوتے ہیں۔ \nیہاں حکیم و کلیم دونوں کندھے سے کندھا ملائے فیضیاب ہو رہے ہیں ؛ یہاں کوئی لن ترانی (تو مجھے نہیں دیکھ سکتا) نہیں کہتا (آپ (صلعم ) کسی کو محروم نہیں فرماتے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this valley lies a lasting life new, this dust solves meanings’* with an arcane clue.\nThe Sages and Moses are side by side, there none would ever look a ‘Can’t see’** slide.\n\n* In Persian ‘Ma’ani’ (or meanings) also mean talents, higher faculties, intrinsic qualities etc. **Can’t see: When God said to Moses, You cannot see me. This dust grows meanings in shapeless form (is the literal version) in that case 1st line’s last word would be ‘norm’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پوچھ اس سے کہ مقبول ہے فطرت کی گواہی \nتو صاحب منزل ہے کہ بھٹکا ہوا راہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rely on the witness of the phenomenal world; to know whether you are on the mark or have gone astray:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کافر ہے مسلماں تو نہ شاہی نہ فقیری \nمومن ہے تو کرتا ہے فقیری میں بھی شاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither kingship nor poverty for a Muslim who lacks in faith, the one who has it is a king even if he be poor.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کافر ہے تو شمشیر پہ کرتا ہے بھروسا \nمومن ہے تو بے تیغ بھی لڑتا ہے سپاہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He depends on the sword if he lacks in faith: If he has faith he may need no weapons in the fight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کافر ہے تو ہے تابع تقدیر مسلماں \nمومن ہے تو وہ آپ ہے تقدیر الہی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Muslim without faith yields to what his fate ordains; with faith, he is destiny incarnate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "میں نے توکیا پردئہ اسرار کو بھی چاک \nدیرینہ ہے تیرا مرض کور نگاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کور نگاہي: اندھا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I revealed the secrets and rent the veil, but your blindness has no cure.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

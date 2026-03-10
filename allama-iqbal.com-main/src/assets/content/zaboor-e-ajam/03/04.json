@@ -1,0 +1,670 @@
+{
+  "id": "04",
+  "name": "سوال سوم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وصال ممکن و واجب بہم چیست؟\nحدیث قرب و بعد و بیش و کم چیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "ممکن (کائنات) اور واجب (ذات باری تعالے) کا ہم وصال کیسے ہے؟ قرب و بعد اور بیش و کم کی حقیقت کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the union of the contingent and the necessary? What are ‘near-and-far’, ‘more-and-less’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سہ پہلو این جہان چون و چند است\nخرد کیف و کم او را کمند است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہیں، خرد جہان کے بیش و کم معلوم کرنے والی ہے۔ (dimensions) اس کائنات کے تین البعاد",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world of how and why has three dimension intellect controls its quantitative aspect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہان طوسی و اقلیدس است این\nپی عقل زمین فرسا بس است این",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کائنات طوسی اور اقلیدس (جیسے ریاضی دانوں) کی دنیا ہے، زمین پر چلنے والی عقل کے لیے یہی کافی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the world of Tusi and Euclid: The fit object of earth-measuring intellect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زمانش ہم مکانش اعتباری است\nزمین و آسمانش اعتباری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے زمان اور مکان دونوں اضافی ہیں اس کے زمین و آسمان بھی اعتباری ہیں۔ (مثلا جہاں ہماری نگاہ رک جاتی ہے وہ ہمارے لیے آسمان ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its time and space are relative, and so are its earth and sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کمان را زہ کن و آماج دریاب\nز حرفم نکتۂ معراج دریاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "کمان کا چلّہ چڑھا اور ہدف کو پا لے، میری بات سے نکتہ ء معراج سمجھنے کی کوشش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Draw your bow and find the target, learn from me the secret of ascension.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مجو مطلق درین دیر مکافات\nکہ مطلق نیست جز نورالسموات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دیر مکافات (کائنات ) میں مطلق کو نہ ڈھونڈ ، سوائے اللہ تعالے کی ذات کے اور کوئی مطلق نہیں ۔ (اللہ تعالے خود قائم ہے اور باقی ہر شے ان کی وجہ سے قائم ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek the Absolute in this mundane world, for the Absolute is nothing but the Light of the Heavens.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "حقیقت لازوال و لامکان است\nمگو دیگر کہ عالم بیکران است",
+              "lang": "Original"
+            },
+            {
+              "_content": "حقیقت مطلق (اللہ تعالے ) لازوال و لا مکاں ہے، کائنات کے بارے میں یہ نہ کہہ کہ اس کا کنارا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "کائنات کا کنارا اس کے اندر ہے، باہر نہیں (اس کی نہاد میں محدودیت ہے )، اس کے اندرون میں پستی و بلندی اور کمی و بیشی نہیں۔",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کران او درون است و برون نیست\nدرونش پست، بالا کم فزون نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "Its limit is internal, not external; there are no distinctions of low and high, more or less, in its internal aspect.",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "درونش خالی از بالا و زیر است\nولی بیرون او وسعت پذیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "س کا اندرون بلندی و پستی سے خالی ہے مگر اس کا بیرون وسعت پذیر ہے۔ (اسے ہم نے اپنے ہاتھ سے بنایا اور بے شک ہم اسے ہر دم وسعت دے رہے ہیں – قرآن47:51 )",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its internal aspect is devoid of high and low, but its external aspect is liable to extension.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ابد را عقل ما ناسازگار است\nیکی از گیر و دار او ہزار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری عقل ابد کو سمجھنے کی صلاحیت نہیں رکھتی ، وحدت عقل کی پکڑ دھکڑ سے ہزاروں ٹکڑوں میں منقسم ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Infinity is not amenable to our intellect; ‘One’ in its hand becomes a thousand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "چو لنگ است او سکون را دوست دارد\nنبیند مغز و دل بر پوست دارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ عقل لنگڑی ہے اس لیے وہ بیٹھ رہنا پسند کرتی ہے ، وہ مغز کو نہیں دیکھتی صرف چھلکے سے لگاؤ رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As it is lame, it likes rest; it does not see the kernel; it therefore looks towards the shell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "حقیقت را چو ما صد پارہ کردیم\nتمیز ثابت و سیارہ کردیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب ہم نے حقیقت کے سینکڑوں ٹکڑے کر دیے تو اس سے ثابت و سیار کی تمیز پیدا ہوئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As we divided Reality into several spheres, we made a distinction of change and rest.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خرد در لامکان طرح مکان بست\nچو زناری زمان را بر میان بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرد نے لامکان کے اندر مکان کی بنیاد رکھی ، اور پھر زمان کو زنّار کی طرح مکان کے گرد لپیٹ لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In non-spatial sphere intellect introduced spatial categories, like a belt it girdled time round its waist.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "زمان را در ضمیر خود ندیدم\nمہ و سال و شب و روز آفریدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے اپنے اندر زماں کو دیکھنے کی کوشش کی، اور مہ و سال اور شب و روز پیدا کر لیے۔ (اللہ تعالے کے نزدیک وقت ایک بسیط آن واحد ہے، وہ ماضی ، حال اور مستقبل میں منقسم نہیں۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We did not look for time within the depth of our hearts, and so we created months and years, nights and days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "مہ و سالت نمی ارزد بیک جو\nبحرف کم لبثتم غوطہ زن شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہ و سال کی کوئی حیثیت نہیں، قرآن پاک کے الفاظ ’کم لبثتم‘ پر غور کر۔ ( قیامت کے روز جب کفر سے پوچھا جائے گا کہ تم دنیا میں کتنا عرصہ رہے گا تو وہ کہیں گے ایک دن یا اس سے کم۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your months and years are of no value: just ponder over the Quranic verse, ‘How long did you remain?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "بخود رس از سر ہنگامہ بر خیز\nتو خود را در ضمیر خود فرو ریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ تک پہنچ ، باہر کے ہنگامے چھوڑ ، تو آپ اپنے ضمیر کے اند ر اتر جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reach within yourself and retire from this noisy world, throw yourself into the inner recesses of your heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "تن و جان را دو تا گفتن کلام است\nتن و جان را دو تا دیدن حرام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تن و جان کو الگ الگ کہا تو جا سکتا ہے، مگر انہیں الگ الگ سمجھنا حرام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To talk of body and soul as two separate entities is wrong; to see them as two is sinful.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بجان پوشیدہ رمز کائنات است\nبدن خالی ز احوال حیات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان کے اندر کائنات کا راز پوشیدہ ہے، بدن احوال حیات میں سے ایک حال ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whole secret of the universe lies in the soul, body is one of its modes of expression.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "عروس معنی از صورت حنا بست\nنمود خویش را پیرایہ ہا بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "معنی کی دلہن صورت (اختیار کر کے اس) سے اپنی آرائش کرتی ہے، (گویا) وہ اپنی نمود کے لیے مختلف لباس پہناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bride of Reality adorned itself by the henna of form; it assumed different shapes for its manifestation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "حقیقت روی خود را پردہ باف است\nکہ او را لذتی در انکشاف است",
+              "lang": "Original"
+            },
+            {
+              "_content": "حقیقت اپنے چہرے پر پردے ڈالتی ہے، کیونکہ اسے منکشف ہونے سے لذت حاصل ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Reality weaves veils for its face, for it finds delight in display.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "بدن را تا فرنگ از جان جدا دید\nنگاہش ملک و دین را ہم دو تا دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب فرنگ نے بدن کو روح سے الگ دیکھا تو پھر اس نے حکومت اور مذہب کو بھی جدا جدا کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since the West viewed body and soul as separate, it also regarded State and Religion as two.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "کلیسا سبحۂ پطرس شمارد\nکہ او با حاکمی کارے ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کلیسا صرف پطرس کی تسبیح شمار کرتا رہا ، اسے حکومت سے کوئی سروکار نہ رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The churchman only tells his beads, for he has no work of the State to perform.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "بکار حاکمے مکر و فنی بین\nتن بیجان و جان بی تنی بین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی کا نتیجہ ہے کہ وہاں حکومت مکر و فن پر مبنی ہے، تن بجان ہو گیا اور جان بے تن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "See deceit and artifice in statecraft: It is a body without a soul, or a soul without a body.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "خرد را با دل خود ہمسفر کن\nیکی بر ملت ترکان نظر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو عقل کو دل کے ساتھ لے کر سفر (حیات) کر ؛ ذرا ترک قوم کو دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make intellect a companion of your heart; behold, for instance, the Turkish nation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "بہ تقلید فرنگ از خود رمیدند\nمیان ملک و دین ربطی ندیدند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہ فرنگیوں کی تقلید میں وہ اپنے آپ سے دور ہو گئے ، انہوں نے ملک و دین میں کوئی ربط نہ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By imitation of the West, the Turks lost their individuality; they did not see any link between State and Religion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "یکی را آنچنان صد پارہ دیدیم\nعدد بھر شمارش آفریدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم نے وحدت کو اس طرح سینکڑوں ٹکڑوں میں منقسم دیکھا، کہ اسے شمار کرنے کے لیے اعداد ایجاد کر لیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We looked at the One as compound of so many parts that we created numerals to count it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "کہن دیری کہ بینی مشت خاکست\nدمی از سر گذشت ذات پاکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کہن دیر (کائنات، مکان) جسے تو دیکھتا ہے محض ایک مشت خاک ہے، (مگر) یہ ذات پاک (اللہ تعالے) کی سرگذشت کا ایک لمحہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you think that this ancient world is a handful of earth? It is a fleeting moment of God’s activity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "حکیمان مردہ را صورت نگارند\nید موسے دم عیسی ندارند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلسفی مردے کے بدن کی آرائش کرتے رہے، کیونکہ ان کے پاس نہ ید بیضا تھا نہ دم عیسی (علیہ)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The scientists tend to adorn a dead body; they neither possess the Hand of Moses nor the Breath of Jesus.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "درین حکمت دلم چیزی ندید است\nبرای حکمت دیگر تپید است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل نے ان کی حکمت میں کچھ نہیں دیکھا، وہ ایک اور حکمت (دانش نورانی) کے لیے تڑپ رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have seen nothing of value in this type of science; I have been craving for a wisdom of another sort.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "من این گویم جہان در انقلابست\nدرونش زندہ و در پیچ و تابست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یہ کہتا ہوں کہ کائنات انفلاب میں سے گذر رہی ہے، اس کا اندرون زندہ ہے اور پیچ و تاب کھا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I believe that the world is undergoing a revolution, its inside is alive and in convulsions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "ز اعداد و شمار خویش بگذر\nیکی در خود نظر کن پیش بگذر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اعداد و شمار سے آگے نکل، ذرا اپنے اندر نظر ڈال اور آگے بڑھتا جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pass beyond your numerals, look for a while within your self and leave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "در آن عالم کہ جزو از کل فزون است\nقیاس رازی و طوسی جنون است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ عالم جہاں جز (انسان) کل (کائنات ) سے بڑھ کر ہے، رازی اور طوسی کا قیاس محض جنوں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In a universe where a part is greater than the whole, the calculations of Razi and Tusi are irrelevant.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "زمانی با ارسطو آشنا باش\nدمی با ساز بیکن ھم نوا باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیشک تھوڑی دیر کے لیے ارسطو سے دوستی رکھ، کچھ وقت بیکن کے ساز کا ہمنوا رہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For a while familiarize yourself with Aristotle, for another while sit in the company of Bacon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "و لیکن از مقامشان گذر کن\nمشو گم اندرین منزل سفر کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن ان کے مقام سے آگے نکل جا، ان کی منزل میں گم نہ ہو جا، اپنا سفر جاری رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But then you must pass beyond their stand, don’t get lost in this stage, journey on.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "بہ آن عقلی کہ داند بیش و کم را\nشناسد اندرون کان و یم را",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عقل جو بیش و کم جانتی ہے، اور جو کان اور سمندر کے اندرون کو پہچانتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the aid of that intellect that deals with quantities probe the depths of mines and oceans;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "جہان چند و چون زیر نگین کن\nبگردون ماہ و پروین را کمین کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اس کی مدد سے اس جہان چند و چوں کو اپنے تحت لا، اور آسمان کے مہ و پروین کی گھات میں بیٹھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Master the world of how and why; catch the moon and Pleiades from the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "و لیکن حکمت دیگر بیاموز\nرہان خود را از این مکر شب و روز",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن وہ جو اور حکمت ہے اسے بھی سیکھ ، اور اپنے آپ کو رات دن کے فریب سے رہا کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But then learn wisdom of another sort; free yourself from the snare of night and day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مقام تو برون از روزگار است\nطلب کن آن یمین کو بی یسار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا مقام اس کائنات سے باہر ہے، تو وہ یمین طلب کر جو یسار کے بغیر ہو، (یعنی وہ جہان جو جہات سے آزاد ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your real place is beyond this mundane world, aspire for a right that is without a left.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 3",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

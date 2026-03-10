@@ -1,0 +1,101 @@
+{
+  "id": "14",
+  "name": "توحید",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندہ قوت تھی جہاں میں یہی توحید کبھی \nآج کیا ہے، فقط اک مسئلہء علم کلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم کلام: وہ علم جس میں اسلامی عقائد کو دلیلوں کے ذریعے سے ثابت کیا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There were times when God's oneness was a living force in world of clay: But subtle points by pedants raised have changed the trend of times today.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "روشن اس ضو سے اگر ظلمت کردار نہ ہو \nخود مسلماں سے ہے پوشیدہ مسلماں کا مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ضو: روشنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If conduct dark is not illumed by means of bright and dazzling glow it means that rank of Muslim true he himself also does not know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں نے اے میر سپہ! تیری سپہ دیکھی ہے \n'قل ھو اللہ، کی شمشیر سے خالی ہیں نیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "سورہ اخلاص کی طرف اشارہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Marshal of this great array, I have descried your mighty hordes they don't repeat ‘Say God is One’, their sheaths devoid of piercing swords.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ! اس راز سے واقف ہے نہ ملا، نہ فقیہ \nوحدت افکار کی بے وحدت کردار ہے خام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Mullah and Jurist both alas about this fact are not aware; as long as thoughts are not the same; the ripeness of acts leads nowhere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "قوم کیا چیز ہے، قوموں کی امامت کیا ہے \nاس کو کیا سمجھیں یہ بیچارے دو رکعت کے امام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Mullahs who lead prayers brief, don't know a nation's goal and aim. How can they learn a nation's weight, when things like this they do not claim?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Oneness Of God",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دگرگون کشور ہندوستان است\nدگرگون آن زمین و آسمان است\nمجو از ما نماز پنجگانہ\nغلامان را صف آرائی گران است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہندوستان کی ولایت بدل رہی ہے، کہاں کے زمین و آسمان بدل رہے ہیں۔ \nہم سے پانچ وقت کی نماز کی امید نہ رکھ، محکوموں کے لیے صف آرائی گراں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Looking in a mess is Indian State, in the same messy form is world’s own state.\nSo solicit not five times to pray, a burden on slaves are these arrays.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز محکومی مسلمان خود فروش است\nگرفتار طلسم چشم و گوش است\nز محکومی رگان در تن چنان سست \nکہ ما را شرع و آئین بار دوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلامی نے مسلمان کو خود فراموش بنا دیا ہے، وہ آنکھ اور کان (مادی دنیا ) کے فریب میں گرفتار ہے۔ \n غلامی کے باعث ہمارے بدن کی رگیں ایسی سست ہو چکی ہیں، کہ شریعت اور دین (جو سفر حیات کو آسان بناتے ہیں) ہمارے لیے بار دوش بنے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From bondage a Moslem is a self sold guy, a captive of charms of ear and eye.\nHow weak and sluggish in bondage are veins, to God made Laws, we are seeing with pains.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

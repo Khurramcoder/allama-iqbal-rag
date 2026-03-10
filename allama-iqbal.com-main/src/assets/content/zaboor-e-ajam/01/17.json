@@ -1,0 +1,102 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "برون کشید ز پیچاک ہست و بود مرا\nچہ عقدہ ہا کہ مقام رضا گشود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ہست و بود کے پھندے سے باہر نکال لایا؛ مقام رضا نے میرے کیا کیا عقدے حل کر دیے ۔ (جب بندہ اپنی مرضی اللہ تعالے کی مرضی میں گم کر دیتا ہے تو وہ تقدیر کے پھندے سے نکل جاتا ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From life and being’s twisted skein let me be free; in resignation is to gain true liberty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تپید عشق و درین کشت نا بسامانی\nہزار دانہ فرو کرد تا درود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے جوش میں آ کر اس بے سر و سامان کھیتی (دنیا ) میں ہزاروں بیج بوئے ، تب کہیں جا کر انسان وجود میں آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love quivered, and within this field of barren spring sprinkled a thousand seeds, to yield my harvesting.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ندانم اینکہ نگاہش چہ دید در خاکم\nنفس نفس بہ عیار زمانہ سود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "معلوم نہیں اس کی نگاہ نے میری خاک میں کیا دیکھا؛ کہ میرے ایک ایک لمحے کو زمانے کی کسوٹی پر پرکھا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Indeed I know not what His glance viewed in my clay upon the stone of time and chance me to assay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "جہانی از خس و خاشاک در میان انداخت\nشرارۂ دلکی داد و آزمود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر خس و خاشاک کے جہان کو درمیان میں ڈال کے؛ میرے قلب کو عطا کیے گئے شرر (محبت) کی آزمائش کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With stubble and with straw He came a world to found, then gave to me a heart of flame to prove me sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیالہ گیرز دستم کہ رفت کار از دست\nکرشمہ بازی ساقی ز من ربود مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساقی کی کرشمہ بازی نے میرے تو ہوش کھو دیے ؛ 'ساغر کو میرے ہاتھ سے لینا کہ چلا میں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O take the goblet from my hand, for hope is past; the saki played at glances, and my heart was lost.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

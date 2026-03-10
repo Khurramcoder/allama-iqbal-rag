@@ -1,0 +1,117 @@
+{
+  "id": "19",
+  "name": "رام",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لبریز ہے شراب حقیقت سے جام ہند \nسب فلسفی ہیں خطہء مغرب کے رام ہند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Overflowing with the wine of Truth is the cup of India. All philosophers of the Western world have acknowledged India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ ہندیوں کے فکر فلک رس کا ہے اثر \nرفعت میں آسماں سے بھی اونچا ہے بام ہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر فلک رس: آسمان پر پہنچنے والا خیال ۔\nبام ہند: ہند کی چھت، مراد ہے ہمالیہ پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the result of the elegant thinking of Indians that higher than the sky is the position of India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس دیس میں ہوئے ہیں ہزاروں ملک سرشت \nمشہور جن کے دم سے ہے دنیا میں نام ہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملک سرشت: فرشتہ خصلت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This country has had many people of angelic disposition; on whose account world renowned is the name of India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے رام کے وجود پہ ہندوستاں کو ناز \nاہل نظر سمجھتے ہیں اس کو امام ہند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "India is proud of the existence of Rama. Spiritual people consider him prelate of India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اعجاز اس چراغ ہدایت کا ہے یہی \nروشن تر از سحر ہے زمانے میں شام ہند",
+              "lang": "Original"
+            },
+            {
+              "_content": "روشن تر از سحر: صبح سے زیادہ روشن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This alone is the miracle of this light of righteousness that brighter than world’s morning is the evening of India.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تلوار کا دھنی تھا، شجاعت میں فرد تھا \nپاکیزگی میں، جوش محبت میں فرد تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was expert in sword craft, was unique in bravery; was matchless in piety and in the enthusiasm of love.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Rama",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

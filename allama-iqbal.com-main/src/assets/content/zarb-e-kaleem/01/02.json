@@ -1,0 +1,135 @@
+{
+  "id": "02",
+  "name": "لا الہ الا اللہ",
+  "name-en": "There is no god but Allah",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کا سر نہاں لا الہ الا اللہ \nخودی ہے تیغ، فساں لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "سر نہاں: چھپا ہوا بھید۔ \nفساں:تلوار کی دھار تیز کرنے والا آلہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret of the Self is hid, in words ‘No god but He alone’. The Self is just a dull-edged sword, ‘No god but He’; the grinding stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ دور اپنے براہیم کی تلاش میں ہے \nصنم کدہ ہے جہاں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "براہيم: ابراہیم (علیہ) جنہوں نے اپنے وقت کے بادشاہ کا بتخانہ تباہ کیا تھا۔ \nکدہ: بت خانہ۔ صنم",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An Abraham by the age is sought to break the idols of this Hall: The avowal of God's Oneness can make all these idols headlong fall.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کیا ہے تو نے متاع غرور کا سودا \nفریب سود و زیاں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "متاع غرور: غرور کی دولت، مراد ہے دنیا کی دولت۔ \nسود و زياں: نفع اور نقصان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A bargain you have struck for goods of life, a step that smacks conceit; all save the Call ‘No god but He’ is merely fraught with fraud and deceit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ مال و دولت دنیا، یہ رشتہ و پیوند \nبتان وہم و گماں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "رشتہ و پيوند: عزیز داریوں اور تعلقات کے رشتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The worldly wealth and riches too, ties of blood and friends a dream the idols wrought by doubts untrue, all save God's Oneness empty seem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خرد ہوئی ہے زمان و مکاں کی زناری \nنہ ہے زماں نہ مکاں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمان و مکاں: وقت اور جگہ، مراد ہے دنیا۔ \nزناري: برہمنوں کا وہ دھاگہ پہننا جس کو جنیو کہتے ہیں، یعنی کافر ہو جانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mind has worn the holy thread of Time and Space like pagans all though Time and Space both illusive. ‘No god but He’ is true withal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یہ نغمہ فصل گل و لالہ کا نہیں پابند \nبہار ہو کہ خزاں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These melodious songs are not confined to Time when rose and tulip bloom, whatever the season of year be ‘No god but He’ must ring till doom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگرچہ بت ہیں جماعت کی آستینوں میں \nمجھے ہے حکم اذاں، لا الہ الا اللہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many idols are still concealed' in their sleeves by the Faithful fold, I am ordained by Mighty God to raise the call and be much bold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

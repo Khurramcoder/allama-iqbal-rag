@@ -1,0 +1,84 @@
+{
+  "id": "06",
+  "name": "آزادی نسواں",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس بحث کا کچھ فیصلہ میں کر نہیں سکتا \nگو خوب سمجھتا ہوں کہ یہ زہر ہے، وہ قند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکنوں: میٹھی چیز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know quite well that one despoils, while other is like candy sweet; I can not give a verdict true, which needs of quest can fully meet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا فائدہ، کچھ کہہ کے بنوں اور بھی معتوب \nپہلے ہی خفا مجھ سے ہیں تہذیب کے فرزند",
+              "lang": "Original"
+            },
+            {
+              "_content": "معتوب: ناراضگی کا نشانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I like to make no more remark and earn the wrath of present age; already the sons of modern cult 'gainst me are full of ire and rage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس راز کو عورت کی بصیرت ہی کرے فاش \nمجبور ہیں، معذور ہیں، مردان خرد مند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The insight owned by woman can this subtle point with ease reveal; constrained and helpless, wise and sage with knotty point they can not deal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیا چیز ہے آرائش و قیمت میں زیادہ \nآزادی نسواں کہ زمرد کا گلوبند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is an uphill task to judge what is more precious lends much grace; emancipation for fair sex or aught or emerald-wrought superb neck-lace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Emancipation Of Women",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

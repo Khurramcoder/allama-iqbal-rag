@@ -1,0 +1,101 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "امین راز ہے مردان حر کی درویشی \nکہ جبرئیل سے ہے اس کو نسبت خویشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نسبت خويشي: عزیزداری کا رشتہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free by dint of faqr; life’s secrets can disclose: With Gabriel faqr is bound by ties of kinship close.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کسے خبر کہ سفینے ڈبو چکی کتنے \nفقیہ و صوفی و شاعر کی نا خوش اندیشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نا خوش انديشي: بری باتیں سوچنے کی عادت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The scholar, mystic and the bard, by thinking wrong: Many a bark have sunk that was sound and strong.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نگاہ گرم کہ شیروں کے جس سے ہوش اڑ جائیں \nنہ آہ سرد کہ ہے گوسفندی و میشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "گوسفندي و ميشي: بھیڑ بکریوں کی سی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You need a burning glance that cows down lions bold: Only the sheep and goats heave sighs deep and cold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "طبیب عشق نے دیکھا مجھے تو فرمایا \nترا مرض ہے فقط آرزو کی بے نیشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو کي بے نيشي: آرزو کا نہ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s physician scanned my face and thus he did bespeak: ‘You have no ailment, but your zeal is faint and weak’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ شے کچھ اور ہے کہتے ہیں جان پاک جسے \nیہ رنگ و نم، یہ لہو، آب و ناں کی ہے بیشی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The soul that knows no stain is something quite discreet: The glow and tint of blood is wrought by bread and meat.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

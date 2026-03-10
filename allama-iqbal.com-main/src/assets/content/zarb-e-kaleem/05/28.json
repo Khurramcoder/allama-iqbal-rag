@@ -1,0 +1,68 @@
+{
+  "id": "28",
+  "name": "جمعیت اقوام",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیچاری کئی روز سے دم توڑ رہی ہے \nڈر ہے خبر بد نہ مرے منہ سے نکل جائے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The League appears to be in death's tight grips; I fear this grim news may escape my lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تقدیر تو مبرم نظر آتی ہے ولیکن \nپیران کلیسا کی دعا یہ ہے کہ ٹل جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبرم: اٹل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Fate of League to all is plain and clear, but Church. Guides pray that safely it may steer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ممکن ہے کہ یہ داشتہ پیرک افرنگ \nابلیس کے تعویذ سے کچھ روز سنبھل جائے",
+              "lang": "Original"
+            },
+            {
+              "_content": "داشتہ پيرک افرنگ: بوڑھے فرنگی کی داشتہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On Frank's dear mistress, may remain alive, by Satan's charm a few days more survive.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "League Of Nations",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

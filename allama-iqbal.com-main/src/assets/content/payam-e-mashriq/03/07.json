@@ -1,0 +1,153 @@
+{
+  "id": "07",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ ملازمان سلطان خبری دہم ز رازی\nکہ جھان توان گرفتن بنوای دلگدازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہوں کی نوکری کرنے والوں کو یہ راز بتا دو، کہ نوائے دلگداز (شاعری) سے (بھی) دنیا کو فتح کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let me tell a secret to the servants of the king: You can make the whole world yours with a moving song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہ متاع خود چہ نازی کہ بشہر دردمندان\nدل غزنوی نیرزد بہ تبسم ایازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی متاع (پونجی) پر کیا ناز کرتا ہے، دردمندوں (اہل عشق) کے شہر میں ، غزنوی (جیسے پادشاہ) کا دل تبسم ایاز کی قیمت نہیں پاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why pride yourself on your riches? In the city of the lovesick Mahmud’s broken heart is not worth Ayaz’s smile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہمہ ناز بی نیازی ہمہ ساز بینوائی\nدل شاہ لرزہ گیرد ز گدای بی نیازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہوں کا دل بھی گدائے بے نیاز سے لرزتا ہے، کیونکہ وہ بے نیازی میں ہمہ ناز ہے اور بے نوائی میں ہمہ ساز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His pride of independence, his the wealth of poverty. One who, though poor, is no beggar makes a king’s heart quake in fear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز مقام من چہ پرسی بہ طلسم دل اسیرم\nنہ نشیب من نشیبی نہ فراز من فرازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے مقام کا کیا پوچھتا ہے، میں طلسم دل کا قیدی ہوں ، نہ میری پستی ، پستی ہے، نہ میری بلندی ، بلندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You ask me where I reside: In the heart’s enchanted world, where depressions are not so low and where heights are not so high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "رہ عاقلی رہا کن کہ بہ او توان رسیدن\nبہ دل نیازمندی بہ نگاہ پاکبازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقلمندی کا راستہ چھوڑ ( یہ کہیں نہیں پہنچے گا) اللہ تعالے صرف نیاز مندی سے بھرپور دل اور پاکیزہ نگاہ (جو محبوبان مجازی سے پاک رہے) ہی سے پہنچا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave alone the path of reason. There are other ways to Him: Humbleness of heart, chastity of eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بہ رہ تو ناتمامم ز تغافل تو خامم\nمن و جان نیم سوزی تو و چشم نیم بازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیرے تغافل کے سبب خام اور تیری راہ میں نا تمام ہوں، (ادھر) میں ہوں اور میری جان نیم سوز (ادھر) تو ہے اور تیری چشم نیم باز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Still imperfect on Your path, immature through Your neglect, I have a soul half on fire, You have an eye but half open.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رہ دیر تختۂ گل ز جبین سجدہ ریزم\nکہ نیاز من نگنجد بہ دو رکعت نمازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے مندر کے راستہ میں اپنی جبین کے سجدوں سے پھولوں کی کیاریاں کھلا دی ہیں، کیونکہ میرا (اعجاز و) نیاز دو رکعت نماز میں نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My prostrations have strewn roses on the idol-temple’s path. Too great is my heart’s devotion for mere two-prostration praying.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ز ستیز آشنایان چہ نیاز و ناز خیزد\nدلکی بہانہ سوزی نگہی بھانہ سازی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوستوں کی کشمکش سے نیاز و ناز اٹھتے ہیں، میرا دل بہانہ سوز اور نگاہ بہانہ ساز (نگاہ محبوب کو دیکھنے کے لیے کوئی نہ کوئی بہانہ بنا لیتی ہے اور دل جو چاہتا ہے دلیرانہ کرتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What pride, what humility are there in a lovers’ quarrel! Eyes pretending nonchalance, and heart ignoring the pretence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

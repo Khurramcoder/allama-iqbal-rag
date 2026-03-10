@@ -1,0 +1,68 @@
+{
+  "id": "13",
+  "name": "خودی کی زندگی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی ہو زندہ تو ہے فقر بھی شہنشاہی\nنہیں ہے سنجر و طغرل سے کم شکوہ فقیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شکوہ: شان و شوکت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqr is as exalted as a king if Self of man has vital flame: The lofty rank of true Faqir isn't less than Sanjar and Tughral's fame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی ہو زندہ تو دریائے بے کراں پایاب\nخودی ہو زندہ تو کہسار پر نیان و حریر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پر نیان: ایک قسم کا پھولدار ریشمی کپڑا۔ \nحریر: ریشم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On foot we can cross the bundless sea, if Self is active and can tread over mountain range and feel as if not stones, but carpet soft is spread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "نہنگ زندہ ہے اپنے محیط میں آزاد\nنہنگ مردہ کو موج سراب بھی زنجیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A crocodile that is full or verve in its own suburbs is quite free if dead, e'en billows or mirage for it, like chains and fetters be.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Life Of Selfhood",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

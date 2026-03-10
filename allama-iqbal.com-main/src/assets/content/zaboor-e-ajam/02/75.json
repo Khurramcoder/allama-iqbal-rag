@@ -1,0 +1,102 @@
+{
+  "id": "75",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من بندۂ آزادم عشق است امام من\nعشق است امام من عقل است غلام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آزاد بندہ ہوں ، عشق میرا امام ہے؛ عشق میرا امام اور عقل میری غلام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am a slave set free, and Love still leadeth me; Love is my leader still, mind bows to do my will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہنگامۂ این محفل از گردش جام من\nاین کوکب شام من این ماہ تمام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس محفل (کائنات) کا ہنگامہ میرے جام کی گردش سے ہے؛ یہی کوکب شام ہے، یہی ماہ تمام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tumult flareth up out of my circling cup; this is my evening star, my full moon, flaming far.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جان در عدم آسودۂ بی ذوق تمنا بود\nمستانہ نوا ہا زد در حلقہ دام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی عدم میں بغیر ذوق تمنا کے آسودہ تھی؛ میرے حلقہ ء دام میں آ کر اس نے مستانہ وار فریاد شروع کر دی (عشق نے حیات کو نیا رنگ دیا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit slept at rest, desire stirred not the breast, then struck a drunken air caught in my circling snare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے عالم رنگ و بو این صحبت ما تا چند\nمرگست دوام تو عشق است دوام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے عالم رنگ و بو (کائنات) میرا تیرا ساتھ کب تک؛ تیری موت دائمی ہے ہے اور میرا عشق دائمی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O world of scent and hue, how long shall we so do? Death thy survival proves my living all is Love’s.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیدا بہ ضمیرم او پنہان بہ ضمیرم او\nاین است مقام او دریاب مقام من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر بھی وہ ، میرے باہر بھی وہ ؛ میرا مقام تو خود ڈھونڈ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The One my thought reveals, the One my thought conceals; here is His dwelling-place – behold my lofty grace!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "31",
+  "name": "فوارہ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ آبجو کی روانی، یہ ہمکناری خاک \nمری نگاہ میں ناخوب ہے یہ نظارہ \nادھر نہ دیکھ، ادھر دیکھ اے جوان عزیز \nبلند زور دروں سے ہوا ہے فوارہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زور دروں : اندر کی طاقت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To own the flow of brook and meander on the earth in gaze of mine hasn't charm and can't endow with mirth.\nO dear young man, divert a bit aside your eye: The water of the fount by innate force surges high.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Fountain",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

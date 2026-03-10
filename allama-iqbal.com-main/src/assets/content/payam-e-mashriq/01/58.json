@@ -1,0 +1,34 @@
+{
+  "id": "58",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو اے شیخ حرم شاید ندانی\nجہان عشق را ھم محشری ہست\nگناہ و نامہ و میزان ندارد\nنہ او را مسلمی نے کافری ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے شیخ حرم! تو شاید نہیں جانتا: جہان عشق کا بھی ایک محشر ہے۔ \n مگر یہاں نہ گناہ ہے، نہ اعمال نامہ اور نہ میزان عمل؛ نہ یہاں کوئی مسلم ہے نہ کافر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perchance, grave minister, thou knowest not Love too shall have its Judgment after death:\nBut in that Hall nor Book nor Balance is, nor sin, nor infidelity, nor faith.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

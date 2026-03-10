@@ -1,0 +1,488 @@
+{
+  "id": "08",
+  "name": "ایک گائے اور بکری",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک چراگہ ہری بھری تھی کہیں\nتھی سراپا بہار جس کی زمیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There was a verdant pasture somewhere, whose land was the very picture of beauty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا سماں اس بہار کا ہو بیاں\nہر طرف صاف ندیاں تھیں رواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can the beauty of that elegance be described? Brooks of sparkling water were running on every side.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تھے اناروں کے بے شمار درخت\nاور پیپل کے سایہ دار درخت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Many were the pomegranate trees and so were the shady papal* trees.\n* A large shady tree of the Indian sub-continent.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ٹھنڈی ٹھنڈی ہوائیں آتی تھیں\nطائروں کی صدائیں آتی تھیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cool breeze flowed everywhere; Birds were singing everywhere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کسی ندی کے پاس اک بکری\nچرتے چرتے کہیں سے آ نکلی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A goat arrived at a brook's bank from somewhere. It came browsing from somewhere in the nearby land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جب ٹھہر کر ادھر ادھر دیکھا\nپاس اک گائے کو کھڑے پایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As she stopped and looked around, she noticed a cow standing by.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پہلے جھک کر اسے سلام کیا\nپھر سلیقے سے یوں کلام کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The goat first presented her compliments to the cow, then respectfully started this conversation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کیوں بڑی بی! مزاج کیسے ہیں\nگائے بولی کہ خیر اچھے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How are you! Madam Cow’? The cow replied, ‘Not too well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کٹ رہی ہے بری بھلی اپنی\nہے مصیبت میں زندگی اپنی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My life is a mere existence. My life is a complete agony.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "جان پر آ بنی ہے، کیا کہیے\nاپنی قسمت بری ہے، کیا کہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My life is in danger, what can I say? My luck is bad, what can I say?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دیکھتی ہوں خدا کی شان کو میں\nرو رہی ہوں بروں کی جان کو میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am surprised at the state of affairs. I am cursing the evil people.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "زور چلتا نہیں غریبوں کا\nپیش آیا لکھا نصیبوں کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poor ones like us are powerless; misfortunes surround the ones like us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آدمی سے کوئی بھلا نہ کرے\nاس سے پالا پڑے، خدا نہ کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None should nicely deal with Man. May God protect us from Man!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دودھ کم دوں تو بڑبڑاتا ہے\nہوں جو دبلی تو بیچ کھاتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He murmurs if my milk declines; he sells me if my weight declines.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہتھکنڈوں سے غلام کرتا ہے\nکن فریبوں سے رام کرتا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He subdues us with cleverness! Alluring, he always subjugates us!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اس کے بچوں کو پالتی ہوں میں\nدودھ سے جان ڈالتی ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I nurse his children with milk. I give them new life with milk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "بدلے نیکی کے یہ برائی ہے\nمیرے اللہ! تری دہائی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My goodness is repaid with evil. My prayer to God is for mercy!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "سن کے بکری یہ ماجرا سارا\nبولی، ایسا گلہ نہیں اچھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having heard the cow's story like this, the goat replied: ‘This complaint is unjust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "بات سچی ہے بے مزا لگتی\nمیں کہوں گی مگر خدا لگتی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though truth is always bitter; I shall speak what is fair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "یہ چراگہ، یہ ٹھنڈی ٹھنڈی ہوا\nیہ ہری گھاس اور یہ سایا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This pasture and this cool breeze; this green grass and this shade.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "ایسی خوشیاں ہمیں نصیب کہاں\nیہ کہاں، بے زباں غریب کہاں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such comforts were beyond our lot! They were a far cry for us speechless poor!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "یہ مزے آدمی کے دم سے ہیں\nلطف سارے اسی کے دم سے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We owe these pleasures to Man. We owe all our happiness to Man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اس کے دم سے ہے اپنی آبادی\nقید ہم کو بھلی، کہ آزادی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We derive all our prosperity from him. What is better for us, freedom or bondage to him?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "سو طرح کا بنوں میں ہے کھٹکا\nواں کی گزران سے بچائے خدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hundreds of dangers lurk in the wilderness. May God protect us from the wilderness!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ہم پہ احسان ہے بڑا اس کا\nہم کو زیبا نہیں گلا اس کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are heavily indebted to him; unjust is our complaint against him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "قدر آرام کی اگر سمجھو\nآدمی کا کبھی گلہ نہ کرو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you appreciate the life's comforts; you would never complain against Man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "گائے سن کر یہ بات شرمائی\nآدمی کے گلے سے پچھتائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hearing all this the cow felt embarrassed. She was sorry for complaining against Man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "دل میں پرکھا بھلا برا اس نے\nاور کچھ سوچ کر کہا اس نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She mused over the good and the bad and thoughtfully she said this:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "یوں تو چھوٹی ہے ذات بکری کی\nدل کو لگتی ہے بات بکری کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Small though is the body of the goat; convincing is the advice of the goat!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Cow And A Goat",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

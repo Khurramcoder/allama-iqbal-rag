@@ -1,0 +1,34 @@
+{
+  "id": "119",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرنج از برہمن اے واعظ شہر\nگر از ما سجدہ ئی پیش بتان خواست\nخدای ما کہ خود صورتگری کرد\nبتی را سجدہ ئی از قدسیان خواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے واعظ شہر برہمن سے ناراض نہ ہو ، اگر وہ ہمیں بتوں کے سامنے سجدہ کے لیے کہتا ہے۔\nہمارے خدا نے خود (آدم کی ) صورت بنائی اور پھر فرشتوں کو اس بت کو سجدہ کرنے کے لیے کہا (وہ بت نہیں تھا اس کے اندر اللہ تعالے نے اپنی روح پھونک دی تھی ، پھر فرشتوں سے کہا کہ اسے سجدہ کرو)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O preacher if the Brahmin asks that we bow down to idols, then why should you be displeased? \nThe greatest idol-maker, God; bade angels bow down to His idol, man.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یقیں، مثل خلیل آتش نشینی \nیقیں، اللہ مستی، خود گزینی \nسن، اے تہذیب حاضر کے گرفتار \nغلامی سے بتر ہے بے یقینی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faith, like Abraham, sits down in the fire; to have faith is to be drawn into God and to be oneself.\nListen, you captive of modern civilization, to lack faith is worse than slavery!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "32",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرغ خوش لہجہ و شاہین شکاری از تست\nزندگی را روش نوری و ناری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلبل شیریں نوا ہو یا شاہین شکاری یہ سب آپ ہی کے پیدا کیے ہوئے ہیں؛ زندگی کا جمال ہو یا جلال سب آپ ہی کی طرف سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thine is the hawk upon the wing and thine the thrush sweet-carolling, thine is the light and joy of life and thine its fire and baneful strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل بیدار و کف خاک و تماشای جہان\nسیر این ماہ بشب گونہ عماری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے ہماری مشت خاک کو دل بیدار عطا فرمایا ہے؛ جس سے ہم جہان کا نظارہ کرتے ہیں ؛ اس ماہ (قلب) کا شب گونہء عماری (بدن) میں بیٹھ کر سیر کرنا ، آپ ہی کے کرم سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou gayest me a heart awake and, through the world my way to take, a little dust – a moon forlorn upon a night-dark litter borne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہمہ افکار من از تست چہ در دل چہ بلب\nگہر از بحر بر آری نہ بر آری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سارے افکار دل میں ہوں یا زباں پر، سب آپ ہی کی بدولت ہیں؛ اس بحر سے موتی نکالنا یا نہ نکالنا آپ کا کام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My every thought from thee doth start, whether on lip or in the heart; whether the pearl be brought from sea, or left enfoundered, ‘tis of thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "من ہمان مشت غبارم کہ بجائی نرسد\nلالہ از تست و نم ابر بہاری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تو وہی مٹھی بھر خاک ہوں جو کسی کام کی نہیں؛ میری اس خاک کے اندر جو پھول کھلتے ہیں وہ بھی آپ کا کرم ہے اور جو ابر بہار وہ پھول کھلاتا ہے، اس کا برسنا بھی آپ کے کرم سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the selfsame cloud of dust swept idly as the wind doth lust; tulip, and springtime’s scattered dew. Thou art their sole creator too.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نقش پرداز توئی ما قلم افشانیم\nحاضر آرائی و آیندہ نگاری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم تو بس قلم چھڑک دیتے ہیں اس سے نقش بنانا آپ کا کام ہے؛ ہمارے حال و مستقبل کی آرائش و نگارش آپ کے ہاتھ میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art the painter; Thy design inspires and moves this brush of mine; Thy hands the living world adorn, and shape the ages yet unborn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گلہ ہا داشتم از دل بہ زبانم نرسید\nمہر و بی مہری و عیاری و یاری از تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل میں شکائتیں موجود ہیں مگر وہ زبان تک نہیں پہنچتیں ؛ مہربانی بھی آپ کی طرف سے ہے اور نامہربانی بھی، دوستی بھی آپ کی طرف سے ہے اور آزمائش بھی۔ (اکثر حضور دوست شکایت کی آرزو ؛ ہونٹوں پہ آتے آتے مناجات ہو گئی۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much sorrow in my heart I had that by the tongue could not be said: Love, lovelessness, troth, treachery – all things alike are sprung of thee.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

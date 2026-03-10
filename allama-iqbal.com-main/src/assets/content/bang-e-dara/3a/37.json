@@ -1,0 +1,242 @@
+{
+  "id": "37",
+  "name": "شبنم اور ستارے",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک رات یہ کہنے لگے شبنم سے ستارے \nہر صبح نئے تجھ کو میسر ہیں نظارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One night stars started saying this to the dew; ‘Every morning new sights are available to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیا جانیے، تو کتنے جہاں دیکھ چکی ہے \nجو بن کے مٹے، ان کے نشاں دیکھ چکی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who knows how many worlds you have seen! Relics of those who rose and fell you have seen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زہرہ نے سنی ہے یہ خبر ایک ملک سے \nانسانوں کی بستی ہے بہت دور فلک سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Venus has heard this news from an angel that human habitation is very far from the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہہ ہم سے بھی اس کشور دلکش کا فسانہ \nگاتا ہے قمر جس کی محبت کا ترانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell us the tale of this beautiful realm; the ode of whose love the moon sings.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے تارو نہ پوچھو چمنستان جہاں کی \nگلشن نہیں، اک بستی ہے وہ آہ و فغاں کی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O stars! Do not ask me about the earth’s garden; a place of sighs and wailing it is, not a garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آتی ہے صبا واں سے پلٹ جانے کی خاطر\nبے چاری کلی کھلتی ہے مرجھانے کی خاطر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The zephyr comes from there only to return; the poor flower-bud opens only to wither.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کیا تم سے کہوں کیا چمن افروز کلی ہے \nننھا سا کوئی شعلہ بے سوز کلی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can I tell you how garden-brightening the flower-bud is; some little flame without warmth the flower-bud is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "گل نالہ بلبل کی صدا سن نہیں سکتا \nدامن سے مرے موتیوں کو چن نہیں سکتا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rose cannot hear the nightingale’s call; it cannot pick up the pearls from my skirt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ہیں مرغ نواریز گرفتار، غضب ہے \nاگتے ہیں تہ سایہ گل خار، غضب ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The melodious birds are imprisoned, it is outrageous; the thorns grow just under the rose, it is outrageous.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "رہتی ہے سدا نرگس بیمار کی تر آنکھ \nدل طالب نظارہ ہے، محروم نظر آنکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye of the sick narcissus always remains wet; the heart longs for sight, but the eye is sightless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دل سوختہ گرمی فریاد ہے شمشاد \nزندانی ہے اور نام کو آزاد ہے شمشاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The elm tree is tormented with the heat of complaint; the elm tree is nominally free but is really a prisoner.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تارے شرر آہ ہیں انساں کی زباں میں \nمیں گریہ گردوں ہوں گلستاں کی زباں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars are the sparks of sighs to the human eye; in the rose garden’s language I am only lament’s cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نادانی ہے یہ گرد زمیں طوف قمر کا \nسمجھا ہے کہ درماں ہے وہاں داغ جگر کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Circumambulation of moon round the earth ignorance is; it thinks there the cure for its scar of Love is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بنیاد ہے کاشانہ عالم کی ہوا پر \nفریاد کی تصویر ہے قرطاس فضا پر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The foundation of the world’s abode is in the air; it is the picture of lament on the sheet of space!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Dew And The Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

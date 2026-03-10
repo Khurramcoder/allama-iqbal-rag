@@ -1,0 +1,85 @@
+{
+  "id": "09",
+  "name": "تیاتر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری خودی سے ہے روشن ترا حریم وجود \nحیات کیا ہے، اسی کا سرور و سوز و ثبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "تياتر: تماشا گاہ، تھیٹر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your being's sanctum gets from Self its inner light; save zeal and firm resolve, naught can make life e'er bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بلند تر مہ و پرویں سے ہے اسی کا مقام \nاسی کے نور سے پیدا ہیں تیرے ذات و صفات",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its rank is higher than the Pleiades and the moon, your essence and its gifts are Ego's greatest boon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حریم تیرا، خودی غیر کی ! معاذاللہ \nدوبارہ زندہ نہ کر کاروبار لات و منات",
+              "lang": "Original"
+            },
+            {
+              "_content": "معاذاللہ: خدا کی پناہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God save that alien Self seek shelter in your shrine; the creed of idols shun, don't desecrate house divine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہی کمال ہے تمثیل کا کہ تو نہ رہے \nرہا نہ تو تو نہ سوز خودی، نہ ساز حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "تمثيل: ادا کاری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Forgetfulness of Self imports the height of art, but with the loss of Self both joy and warmth depart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Theatre",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "13",
+  "name": "ھگل",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "حکمتش معقول و با محسوس در خلوت نرفت\nگرچہ بکر فکر او پیرایہ پوشد چون عروس\nطایر عقل فلک پرواز او دانی کہ چیست؟\n\"ماکیان کز زور مستی خایہ گیرد بی خروس\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا فلسفہ معقول ہے لیکن وہ محسوسات کی تہ تک نہیں پہنچ سکا، اگرچہ اس کے فکر نو نے عروس کا سا لباس پہنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His thought is fully rational and unrelated to the sensuous, although his ideas are decked out in the garb of brides.\nDo you know what kind of a bird is his high-soaring thought? It is a hen which through excess of heat conceives without a mate.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Hegel",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "39",
+  "name": "کافر و مومن",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کل ساحل دریا پہ کہا مجھ سے خضر نے \nتو ڈھونڈ رہا ہے سم افرنگ کا تریاق؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "سم: زہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus Khizr to me did speak last day on river banks. ‘Are you in search of cure for venom spread by Franks’?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اک نکتہ مرے پاس ہے شمشیر کی مانند \nبرندہ و صیقل زدہ و روشن و براق",
+              "lang": "Original"
+            },
+            {
+              "_content": "برندہ: کاٹنے والا۔ \nصیقل زدہ: صیقل کیا ہوا، چمکایا ہوا۔ \nبراق: بجلی کی طرح چمکیلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know a subtle point which like the sword is keen is cutting, burnished, bright and owns a peculiar sheen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کافر کی یہ پہچان کہ آفاق میں گم ہے \nمومن کی یہ پہچان کہ گم اس میں ہیں آفاق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A heathen gets distinct by getting lost in life whereas a Muslim true keeps 'bove its brawl and strife.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Infidel And Believer",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

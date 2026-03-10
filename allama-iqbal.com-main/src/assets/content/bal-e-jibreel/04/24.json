@@ -1,0 +1,146 @@
+{
+  "id": "24",
+  "name": "جبریل وابلیس",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "جبریل",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہمدم دیرینہ! کیسا ہے جہان رنگ و بو؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gabriel: My old friend, how is the world of sight and sound?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "ابلیس",
+      "Verse": [
+        {
+          "id": "02",
+          "Text": [
+            {
+              "_content": "سوز و ساز و درد و داغ و جستجوے و آرزو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Satan: Pain and passion; quest and yearning.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "جبریل",
+      "Verse": [
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہر گھڑی افلاک پر رہتی ہے تیری گفتگو \nکیا نہیں ممکن کہ تیرا چاک دامن ہو رفو؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gabriel: Thou never talkest of anything but the heavens. Is there no cure for thy constant pain?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "ابلیس",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آہ اے جبریل! تو واقف نہیں اس راز سے \nکر گیا سرمست مجھ کو ٹوٹ کر میرا سبو \nاب یہاں میری گزر ممکن نہیں، ممکن نہیں \nکس قدر خاموش ہے یہ عالم بے کاخ و کو! \nجس کی نومیدی سے ہو سوز درون کائنات \nاس کے حق میں 'تقنطوا' اچھا ہے یا 'لاتقظوا'؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "تقنطوا: تم نا امید ہو۔ \nلاتقظوا: تم نا امید نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Satan: Thou knowest not, alas, the secret of my pain! The loss I have suffered has increased my passion more.\nHow silent is this world; desolate and wild! I cannot ever live here; I cannot!\nFor one whose despair throbs in the heart of the universe, what is better-despair, or hope?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "جبریل",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کھو دیے انکار سے تو نے مقامات بلند \nچشم یزداں میں فرشتوں کی رہی کیا آبرو!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gabriel: By thy refusal thou hast lost thy place in heaven – and disgraced the angels in the eyes of the Lord.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "ابلیس",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہے مری جرأت سے مشت خاک میں ذوق نمو \nمیرے فتنے جامہء عقل و خرد کا تاروپو \nدیکھتا ہے تو فقط ساحل سے رزم خیر و شر \nکون طوفاں کے طمانچے کھا رہا ہے، میں کہ تو؟ \nخضر بھی بے دست و پا، الیاس بھی بے دست و پا \nمیرے طوفاں یم بہ یم، دریا بہ دریا، جو بہ جو \nگر کبھی خلوت میسر ہو تو پوچھ اللہ سے \nقصہء آدم کو رنگیں کر گیا کس کا لہو! \nمیں کھٹکتا ہوں دل یزداں میں کانٹے کی طرح \nتو فقط اللہ ھو، اللہ ھو، اللہ ھو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاروپو: تانا بانا ۔ \nرزم خير و شر: نیکی اور بدی کی جنگ۔ \nدست و پا: ہاتھ پاؤں۔ \nجو: ندی۔ \nيم: سمندر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Satan: My courage gave a speck of dust the impulse to grow; my cunning is the fabric of man’s intellect.\nThou watchest the war of good and evil, safely ashore, and who is battered by the storm-thou or I?\nBoth Khizr and Ilyas feel helpless: The storms I have stirred up rage in oceans, rivers, and streams.\nAsk God, if thou hast the time to ask: Whose blood gave colour to Adam’s inglorious tale?\nI am a thorn in the Almighty’s mighty heart, and thou but mumblest His praise day and night.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "name-en": "Gabriel And Satan",
+  "credits": "English Translation by: Naim Siddiqui"
+}

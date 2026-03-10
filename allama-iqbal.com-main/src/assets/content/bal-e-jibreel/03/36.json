@@ -1,0 +1,34 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کھلے جاتے ہیں اسرار نہانی \nگیا دور حدیث 'لن ترانی' \nہوئی جس کی خودی پہلے نمودار \n*وہی مہدی، وہی آخر زمانی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "آخری زمانے میں آنے والا ، مراد ہے مسلمانوں کے مہدی کے بارے میں عقیدہ",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The veiled secrets are becoming manifest; bygone the days of you cannot see Me.\nWhosoever finds his self first is Mahdi himself, the Guide of the Last Age.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

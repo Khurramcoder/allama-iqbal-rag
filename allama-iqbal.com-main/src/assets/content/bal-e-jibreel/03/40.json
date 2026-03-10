@@ -1,0 +1,34 @@
+{
+  "id": "40",
+  "name": "قطعہ",
+  "name-en": "Stanza",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اقبال نے کل اہل خیاباں کو سنایا\nیہ شعر نشاط آور و پر سوز طرب ناک \nمیں صورت گل دست صبا کا نہیں محتاج \nکرتا ہے مرا جوش جنوں میری قبا چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal recited once in a garden in spring a couplet cheerful and bright in tone and spirit: \nUnlike the rose, I need no breeze to blossom. My soul doth blossom with my ecstasy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

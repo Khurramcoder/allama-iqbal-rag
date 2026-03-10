@@ -1,0 +1,69 @@
+{
+  "id": "20",
+  "name": "حقیقت",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقاب دوربین جوئینہ را گفت\nنگاہم آنچہ می بیند سراب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقاب تیز نظر نے جوئینہ سے کہا، میری نظر جو کچھ دیکھتی ہے وہ سراب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eagle, who sees far, said to the swan, ‘My eyes see nothing but a bright mirage.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جوابش داد آن مرغ حق اندیش\nتو می بینی و من دانم کہ آبست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس راست فکر پرندے نے جواب دیا، تو صرف دیکھتا ہے اور میں جانتا ہوں کہ یہ پانی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That truthful bird replied, ‘You see, and I know that you see, a watery expanse.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صداے ماہی آمد از تہ بحر\nکہ چیزی ہست و ہم در پیچ و تاب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دریا کے نبچے مچھلی کی آواز آئی ، ہاں، کوئی چیز ہے جو پیچ و تاب کھا رہی ہے ( حقیقت کسی پر پوری طرح واضح نہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From the sea’s depth arose a fish’s cry, ‘There is something in an unceasing dance.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Reality",
+  "credits": "English Translation by: M. Hadi Husain"
+}

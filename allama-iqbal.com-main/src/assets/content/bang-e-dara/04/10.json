@@ -1,0 +1,65 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "\"اصل شہود و شاہد و مشہود ایک ہے\" \nغالب کا قول سچ ہے تو پھر ذکر غیر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The search, the witness and the thing witnessed are the same’: If this saying of Ghalib is true there is no strangeness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کیوں اے جناب شیخ! سنا آپ نے بھی کچھ \nکہتے تھے کعبے والوں سے کل اہل دیر کیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Shaikh! Have you heard something? What the temple’s people’s say to the Ka`bah’s people!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہم پوچھتے ہیں مسلم عاشق مزاج سے \nالفت بتوں سے ہے تو برہمن سے بیر کیا!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘We ask the Muslim with the disposition of a lover: If you love the idols why is enmity with the Brahman?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

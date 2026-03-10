@@ -1,0 +1,132 @@
+{
+  "id": "23",
+  "name": "سلطانی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کسے خبر کہ ہزاروں مقام رکھتا ہے \nوہ فقر جس میں ہے بے پردہ روح قرآنی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The lofty states of faqr are known to few, the faqr that brings the soul of Koran to view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی کو جب نظر آتی ہے قاہری اپنی \nیہی مقام ہے کہتے ہیں جس کو سلطانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہری: غلبہ، فاتحانہ شان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When selfhood sees its sway and upper hand, this exalted state the folk as kingship brand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہی مقام ہے مومن کی قوتوں کا عیار \nاسی مقام سے آدم ہے ظل سبحانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ظل سبحانی: خدا کا سایہ۔ \nعیار: کسوٹی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This rank gives verdict of a Muslim's worth, and makes him vicegerent of God on earth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ جبر و قہر نہیں ہے، یہ عشق و مستی ہے \nکہ جبر و قہر سے ممکن نہیں جہاں بانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is not mere power and authority; this is Love; as kingship is not possible with power and authority alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کیا گیا ہے غلامی میں مبتلا تجھ کو \nکہ تجھ سے ہو نہ سکی فقر کی نگہبانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have got bondage as a fit reward, for you have failed to keep on Faqr a guard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مثال ماہ چمکتا تھا جس کا داغ سجود \nخرید لی ہے فرنگی نے وہ مسلمانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Prostration made like moon his forehead shine, Alas! The Franks have snatched that essence fine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہوا حریف مہ و آفتاب تو جس سے \nرہی نہ تیرے ستاروں میں وہ درخشانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your stars have lost their pristine glow and sheen that made them rivals of Sun and Moon so keen.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Kingship",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "29",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عطا اسلاف کا جذب دروں کر \nشریک زمرئہ لا یحزنوں، کر \nخرد کی گتھیاں سلجھا چکا میں \nمرے مولا مجھے صاحب جنوں کر!",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمرئہ لا یحزنوں: ایسے لوگ جن کے دلوں میں رنج و ملال نہ آئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant me the absorption of the souls of the past, and let me be of those who never grieve. The riddles of reason I have solved, but now, O Lord! Give me a life of ecstasy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

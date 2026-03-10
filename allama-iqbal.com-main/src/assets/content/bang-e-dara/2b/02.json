@@ -1,0 +1,116 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2b",
+  "sectionName": "غزلیات 2",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "الہی عقل خجستہ پے کو ذرا سی دیوانگی سکھا دے \nاسے ہے سودائے بخیہ کاری، مجھے سر پیرہن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خجستہ پے: مبارک قدم والی۔ \nسودائے بخيہ کاري: سلائی کرنے کا خبط۔ \nسر پيرہن: لباس کا خیال یا سرا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God! Teach a little Love to my happy Intellect. It loves fine stitching but my shirt has no collar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ملا محبت کا سوز مجھ کو تو بولے صبح ازل فرشتے \nمثال شمع مزار ہے تو، تری کوئی انجمن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I got Love's ardor the angels said on azal's morning: ‘You are like the grave's candle, you have no assembly’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہاں کہاں ہم نفس میسر، یہ دیس نا آشنا ہے اے دل! \nوہ چیز تو مانگتا ہے مجھ سے کہ زیر چرخ کہن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرخ کہن: بوڑھا آسمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No friend is available here; this land is friendless, O Heart! You want something from me which does not exist under the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نرالا سارے جہاں سے اس کو عرب کے معمار نے بنایا \nبنا ہمارے حصار ملت کی اتحاد وطن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Arab architect made it distinct from the whole world; the foundation of our nation's fort is not geographical unity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہاں کا آنا، کہاں کا جانا، فریب ہے امتیاز عقبی \nنمود ہر شے میں ہے ہماری، کہیں ہمارا وطن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why this coming and going, future's concern is a conceit; we are manifest in everything, we do not have any homeland.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مدیر 'مخزن' سے کوئی اقبال جا کے میرا پیام کہہ دے \nجوکام کچھ کر رہی ہیں قومیں، انھیں مذاق سخن نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مخزن: رسالہ مخزن کا ایڈیٹر مدير",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Somebody should take my message to the Makhzan's editor: Activist nations do not have taste for poetic literature!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,136 @@
+{
+  "id": "73",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہنگامہ را کہ بست درین دیر دیر پای\nزناریان او ہمہ نالندہ ہمچو نای",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قدیم بتخانہ میں کس نے ہنگامہ پیدا کیا ہے؛ کہ یہاں کے سارے پجاری مثل نے نالیدہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whence hath this commotion swirled in our old, slow-moving world that each girdled infidel like a reed of grief doth tell?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در بنگہ فقیر و بہ کاشانۂ امیر\nغمہا کہ پشت را بہ جوانی کند دو تای",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیر کی کٹیا ہو یا امیر کا محل ؛ ہر جگہ ایسے ہیں جو جوانی میں کمر کو دوہرا کر دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the hut of the faqir, in the palace of the ameer there is pain and there is ruth huge to bow the back of youth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درمان کجا کہ درد بدرمان فزون شود\nدانش تمام حیلہ و نیرنگ و سیمیای",
+              "lang": "Original"
+            },
+            {
+              "_content": "علاج ک ہاں ، علاج سے تو درد میں اور اضافہ ہوتا ہے؛ سب دانش حیلہ، فریب اور شعبد ہ بازی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is cure? For the disease with the cure doth yet increase; science is all wizardry, mean deceit, and trickery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بی زور سیل کشتی آدم نمی رود\nہر دل ھزار عربدہ دارد بہ ناخدای",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوش سیلاب کے بغیر کشتی ء آدم آگے نہیں بڑھ سکتی؛ (کیونکہ) ہر مسافر کا دل ناخدا سے ہزار ناز و ادا رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Adam’s ship rides not the main save the torrent strive and strain; every heart a thousand wise doth the helmsman agonize.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از من حکایت سفر زندگی مپرس\nدر ساختم بدرد و گذشتم غزل سرای",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ سے سفر زندگی کا ماجرا نہ پوچھ؛ درد کو اپنا لیا ہے اور اس کے گیت گاتا چلا جاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of life’s story do not seek any tale for me to speak; all its pain I suffered long, and departed with a song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آمیختم نفس بہ نسیم سحر گہی\nگشتم درین چمن بہ گلان نانہادہ پای",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنی سانس کو نسیم سحر سے ملا دیا ہے؛ (اور اس طرح) پھولوں پر پاؤں رکھے بغیر چمن سے گذر جاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have let my breath to ride; with the breeze of morning tide; I have wandered in this mead yet no rose hath known my tread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "از کاخ و کو جدا و پریشان بکاخ و کوی\nکردم بچشم ماہ تماشای این سرای",
+              "lang": "Original"
+            },
+            {
+              "_content": "چاند کی آنکھ سے اس جہان کا نظارہ کرتا ہوں؛ کوچہ و محل سے جدا بھی ہوں اور ان پر اپنی چاندنی بھی بکھیرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Far from cottage and from street, yet in both abroad, and fleet, with the vision of the moon I have gazed this world upon!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "77",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بپای خود مزن زنجیر تقدیر\nتہ این گنبد گردان رہی ہست\nاگر باور نداری خیز و دریاب\nکہ چون پا وا کنی جولانگہی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے پاؤں میں تقدیر کی زنجیر نہ پہن؛ اس گنبد گرداں (آسمان) سے نکلنے کا راستہ موجود ہے۔\nاگر اعتبار نہیں تو اٹھ (کوشش کر) اور اس راستے کو پا لے؛ جب تو قدم اٹھائے گا تو (دیکھے گا) کہ میدان موجود ہے (توفیق با اندازہء ہمت سے ازل ہے – غالب)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set not the chain of Fate upon thy foot; there is a way beyond this rolling sphere. \nIf thou believest not, rise up, and find thy foot uplifted leapeth in the air.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

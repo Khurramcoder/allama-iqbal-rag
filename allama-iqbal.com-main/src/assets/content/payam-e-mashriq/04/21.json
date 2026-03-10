@@ -1,0 +1,86 @@
+{
+  "id": "21",
+  "name": "خطاب بہ انگلستان",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مشرقی بادہ چشیدہ است ز مینای فرنگ\nعجبی نیست اگر توبۂ دیرینہ شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرقی نے مینائے فرنگ سے شراب چکھی، اس میں تعجب نہیں اگر اس نے اپنی پرانی توبہ توڑ دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An Easterner tasted once the wine in Europe’s glass; no wonder if he broke old vows in reckless glee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فکر نوزادۂ او شیوۂ تدبیر آموخت\nجوش زد خون بہ رگ بندۂ تقدیر پرست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب کے نئے فکر نے اسے تدبیر کہ ہنر سکھایا، تو تقدیر پرست مشرقی کی رگ میں خون نے جوش مارا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The blood came surging up in the veins of his new-born thought: Predestination’s bond-slave he learned that man is free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ساقیا تنگ دل از شورش مستان نشوی\nخود تو انصاف بدہ اینہمہ ہنگامہ کہ بست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ساقی! اب تو مستوں کے شور سے ناراض نہ ہو، تو خود انصاف کر کہ یہ سارا ہنگامہ کس نے پیدا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let not thy soul be vexed with the drunkards’ noise and rout! O saki, tell me fairly, who was’t that broached this jar?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "\"بوی گل خود بہ چمن راہ نما شد ز نخست\nورنہ بلبل چہ خبر داشت کہ گلزاری ہست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "'پھول کی خوشبو ہی نے پہلے پہل چمن کی صرف اس کی راہنمائی کی، ورنہ بلبل کو کیا پتا تھا کہ باغ بھی موجود ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The scent of the rose showed first the way into the garden; else, how should the nightingale have known that roses are?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Word To England",
+  "credits": "English Translation by: R.A. Nicholson"
+}

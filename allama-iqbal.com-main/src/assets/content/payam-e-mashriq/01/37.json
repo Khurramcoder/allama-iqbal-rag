@@ -1,0 +1,34 @@
+{
+  "id": "37",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دمادم نقش ہای تازہ ریزد\nبیک صورت قرار زندگی نیست\nاگر امروز تو تصویر دوش است\nبخاک تو شرار زندگی نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کو ایک صورت پر قرار نہیں، یہ ہر دم ایک نیا نقش پیدا کرتی ہے۔\nاگر تیرا آج گزرے کل کی مانند ہے تو اس کا یہ مطلب نہیں ہے کہ تیری خاک میں زندگی کا شرر موجود نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life keeps expressing itself in new ways: Content with one fixed form it never stays.\nYou have no spark in you if your today is just a copy of your yesterdays.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

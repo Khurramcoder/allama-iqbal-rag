@@ -1,0 +1,34 @@
+{
+  "id": "64",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر کردی نگہ بر پارۂ سنگ\nز فیض آرزوی تو گہر شد\nبہ زر خود را مسنج اے بندۂ زر\nکہ زر از گوشۂ چشم تو زر شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تو نے پتھر کے ٹکڑے پر نگاہ ڈالی؛ تو وہ تیرے فیض آرزو سے قیمتی موتی بن گیا۔ \nاے زر پرست ! اپنی قیمت زر سے نہ لگا ؛ کیونکہ زر کو زر بنانے والا تو (تیری نگاہ ) خود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you were merely to glance at a piece of rock, it would turn into a jewel if you so desired. \nSlave of gold, don’t measure yourself by gold; it was your glance that turned it into gold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,80 @@
+{
+  "id": "03",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سحر با ناقہ گفتم نرم تر رو\nکہ راکب خستہ و بیمار و پیر است\nقدم مستانہ زد چندان کہ گوئی\nبپایش ریگ این صحرا حریر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے صبح کے وقت اونٹنی سے کہا کہ ذرا آہستہ چل، تیرا سوار تھکا ماندہ ، بیمار اور بوڑھا ہے۔ \nاس نے ایسے مستانہ وار قدم بڑھایا کہ تو کہے ، اس صحرا کی ریت اس کے پاؤں کے نیچے ریشم ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That dawn I asked naqah not to run quick, its rider is feeble, too old and sick.\nIn a dancing prance move but she runs more, that sand to her feet is a silky floor. \n\nTo her desert sand is a silky way. This is why she likes to run fast. That soil of Yasrib and Mecca is also dear to her!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مہار اے ساربان او را نشاید\nکہ جان او چو جان ما بصیر است\nمن از موج خرامش می شناسم\nچو من اندر طلسم دل اسیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے شتربان! اس (اونٹنی) کے لیے مہار کی ضرورت نہیں، کیونکہ اس کی روح بھی ہماری روح کی طرح نور بصیرت سے روشن ہے۔\nمیں اس کے ناز سے چلنے کے انداز سے پہچان رہا ہوں، کہ یہ بھی میری طرح دل کے طلسم (محبت رسول پاک صلعم) میں گرفتار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She needs no reins O I teamster hence! Like my own wits she has the same sense.\nFrom its wavelike trot a plea I would form, like me she is captive of heart’s own charm (she likes to reach quick to the Prophet’s place).",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نم اشک است در چشم سیاہش\nدلم سوزد ز آہ صبحگاہش\nہمان می کو ضمیرم را برافروخت\nپیاپی ریزد از موج نگاہش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی سیاہ آنکھوں میں آنسو جھلک رہے ہیں، میرا دل اس کی آہ صبحگاہی سے پر سوز ہے۔ \nاس کی موج نگاہ سے شراب مسلسل ٹپک رہی ہے، جس نے میرے دل کو روشن کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yet tears moist vivid in jet black eyes, my heart thus burns from his morning sighs.\nThat burnt my conscience was the sole wine, flowing with his gaze like wavelets fine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

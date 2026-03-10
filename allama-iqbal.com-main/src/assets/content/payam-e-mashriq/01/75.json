@@ -1,0 +1,34 @@
+{
+  "id": "75",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صنوبر بندۂ آزادۂ او\nفروغ روی گل از بادۂ او\nحریمش آفتاب و ماہ و انجم\nدل آدم در نگشادۂ او",
+              "lang": "Original"
+            },
+            {
+              "_content": "صنوبر اس (ذات) کا بندہء آزاد ہے؛ پھول کے چہرے کی چمک اس کی شراب (کی مستی) کی وجہ سے ہے۔\nسورج، چاند، ستارے سب اس کے مظاہر ہیں ؛ مگر انسان کا دل اس کا سربستہ راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The free-paced fir His bondslave was before, fire in the rose’s cheek His wine did pour. \nSun, moon and stars His sanctuary are, the heart of Adam, His unopened door.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

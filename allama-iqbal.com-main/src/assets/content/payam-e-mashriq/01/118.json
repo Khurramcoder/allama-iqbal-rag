@@ -1,0 +1,34 @@
+{
+  "id": "118",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دوام ما ز سوز ناتمام است\nچو ماہی جز تپش بر ما حرام است\nمجو ساحل کہ در آغوش ساحل\nتپید یک دم و مرگ دوام است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سوز ناتمام ہی سے ہمارا دوام ہے، مچھلی کی مانند ہم سوائے تپش کے اور کچھ نہیں رکھتے ۔\nساحل تلاش نہ کر کیونکہ ساحل کی آغوش میں ایک دم کی تڑپ ہے اور پھر ہمیشہ کی موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unceasing restlessness is life for us. Like a fish we must always remain mobile.\nAnd shun the shore; for it is dangerous one vibrant moment; and then quietus.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

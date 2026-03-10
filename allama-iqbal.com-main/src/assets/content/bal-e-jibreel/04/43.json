@@ -1,0 +1,34 @@
+{
+  "id": "43",
+  "name": "فقر",
+  "name-en": "Asceticism",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اک فقر سکھاتا ہے صےاد کو نخچیری \nاک فقر سے کھلتے ہیں اسرار جہاں گیری \nاک فقر سے قوموں میں مسکینی و دلگیری \nاک فقر سے مٹی میں خاصیت اکسیری \nاک فقر ہے شبےری، اس فقر میں ہے میری \nمیراث مسلمانی، سرمایہء شبیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a faqr that teaches the hunter to be a prey; there is another that opens the secrets of mastery over the world.\nThere is a faqr that is the root of needfulness and misery among nations; there is another that turns mere dust into elixir.\nThere is a faqr that is legend of Shabbir (R.A.), the secret on mastery of world is in this faqr; this tradition of Shabbir (R.A.) is Muslims inheritance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: the Editors"
+}

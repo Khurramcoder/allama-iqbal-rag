@@ -1,0 +1,34 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شہید ناز او بزم وجود است\nنیاز اندر نہاد ہست و بود است\nنمی بینی کہ از مہر فلک تاب\nبہ سیمای سحر داغ سجود است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بزم وجود ، اللہ تعالے کی شہید ناز ہے؛ ہست و بود کی نہاد کے اندر نیازمندی ہے۔\nکیا تو سحر کی پیشانی پر ، مہر فلک تاب کی صورت میں سجدہ کا نشان نہیں دیکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All being is a martyr to His whim, all life is graven with the need of Him: Seest thou not the Sun that flames the Sky has left the scar of Worship on Dawn’s rim?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A J Arberry"
+}

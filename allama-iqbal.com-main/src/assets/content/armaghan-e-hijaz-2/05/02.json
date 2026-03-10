@@ -1,0 +1,34 @@
+{
+  "id": "02",
+  "name": "اگر دانا دل و صافی ضمیر است",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "05",
+  "sectionName": "بہ یاران طریق",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر دانا دل و صافی ضمیر است\nفقیری با تہی دستی امیر است\nبہ دوش منعم بے دین و دانش\nقبائی نیست پالان حریر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر فقیر دانا دل اور صاف باطن ہے، تو وہ مفلسی میں بھی امیر ہے۔\nوہ دولتمند جو بے دین اور بے دانش ہو ، اس کے کندھوں پر قبا نہیں، بلکہ ریشم کا پالان ہے۔ (یعنی وہ ریشمی لباس میں گدھا ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If a wise man holds clean conscience and soul, being a poor man he plays a wise man’s role; \nA robe of State, on a filthy rich’s back, looks a silken pack on donkey’s back. \nBasic thought: Saddle a donkey with golden pack - It looks an ass and not the man blac.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

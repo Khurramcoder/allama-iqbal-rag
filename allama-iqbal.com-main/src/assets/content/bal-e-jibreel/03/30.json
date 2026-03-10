@@ -1,0 +1,33 @@
+{
+  "id": "30",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ نکتہ میں نے سیکھا بوالحسن سے \nکہ جاں مرتی نہیں مرگ بدن سے \nچمک سورج میں کیا باقی رہے گی \nاگر بیزار ہو اپنی کرن سے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was Abul Hassan who stressed the truth; that the soul does not expire with the body's death.\nHow could the sun have any light at all, if it spurns and loses its own beams?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

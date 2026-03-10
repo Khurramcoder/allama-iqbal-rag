@@ -1,0 +1,146 @@
+{
+  "id": "18",
+  "name": "لالہ صحرا",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ گنبد مینائی، یہ عالم تنہائی \nمجھ کو تو ڈراتی ہے اس دشت کی پہنائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oh blue sky-dome, oh world companionless! Fear comes on me in this wide desolation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بھٹکا ہوا راہی میں، بھٹکا ہوا راہی تو \nمنزل ہے کہاں تیری اے لالہء صحرائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lost travelers, you and I; what destination is yours, bright poppy of the wilderness?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خالی ہے کلیموں سے یہ کوہ و کمر ورنہ \nتو شعلہء سینائی، میں شعلہء سینائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No prophet walks these hills, or we might be; twin Sinai-flames; you bloom on Heaven’s spray.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تو شاخ سے کیوں پھوٹا، میں شاخ سے کیوں ٹوٹا \nاک جذبہء پیدائی، اک لذت یکتائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the same cause I tore myself away: To unfold; to be our selves, our wills agree.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "غواص محبت کا اللہ نگہباں ہو \nہر قطرئہ دریا میں دریا کی ہے گہرائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On the diver of Love’s pearl-bank be God’s hand: In every ocean-drop all ocean’s deeps!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس موج کے ماتم میں روتی ہے بھنور کی آنکھ \nدریا سے اٹھی لیکن ساحل سے نہ ٹکرائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The whirlpool mourning for its lost wave weeps, born of the sea and never to reach the land.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہے گرمی آدم سے ہنگامہء عالم گرم \nسورج بھی تماشائی، تارے بھی تماشائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man’s hot blood makes earth’s fevered pulses race, with stars and sun for audience.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے باد بیابانی! مجھ کو بھی عنایت ہو \nخاموشی و دل سوزی، سرمستی و رعنائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oh cool air of the desert! Let it be mine too to share in silence and heart’s glow, rapture and grace.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Poppy Of The Wilderness",
+  "credits": "English Translation by: V.G. Kiernan"
+}

@@ -1,0 +1,552 @@
+{
+  "id": "05",
+  "name": "سوال چہارم",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قدیم و محدث از ہم چون جدا شد\nکہ این عالم شد آن دیگر خدا شد\nاگر معروف و عارف ذات پاکست\nچہ سودا در سر این مشت خاکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قدیم اور محدث ایک دوسرے سے کیسے جدا ہوئے، کہ محدث جہان بن گیا اور قدیم خدا رہا۔ \nاگر ذات پاک (اللہ تعالے) ہی معروف و عارف ہے تو پھر اس مشت خاک (انسان) کے سو میں کیا سودا (عشق ذات پاک) سمایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How did the eternal and temporal separate that one became the world, and the other God?\nIf the knower and known are the One pure essence, what are the aspirations of this handful of earth?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خودی را زندگی ایجاد غیر است\nفراق عارف و معروف خیر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تخلیق ، خودی کی زندگی کا تقاضا ہے، عارف و معروف کا فرق خیر کا باعث ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The life of the ego is to bring non-ego into existence, the separation of the knower and known is good.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قدیم و محدث ما از شمار است\nشمار ما طلسم روزگار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جسے ہم قدیم اور محدث کہتے ہیں یہ ہمارے اعداد و شمار کا نتیجہ ہے، یہ ہمارے تصور زماں کا کرشمہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our ideas of eternal and temporal are due to our way of reckoning; our reckoning is the result of the spell of mathematical time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دمادم دوش و فردا می شماریم\nبہ ہست و بود و باشد کار داریم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم ہر وقت گذشتہ اور آئیندہ کا شمار کرتے رہتے ہیں ، ہماری سوچ ماضی، حال اور مستقبل سے وابستہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We constantly talk of yesterday and tomorrow, we deal with ‘is’, ‘was’, and ‘might be’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ازو خود را بریدن فطرت ماست\nتپیدن نارسیدن فطرت ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے آپ کو اللہ تعالے سے جدا رکھنا، تڑپنا اور (مقصود تک) نہ پہنچنا ہماری فطرت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To sever ourselves from Him is our nature, and also to be restless and not to reach the goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نہ ما را در فراق او عیاری\nنہ او را بی وصال ما قراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اس کے فراق سے ہماری قدر و قیمت (کم ہوتی) ، نہ اسے ہمارے وصال کے بغیر چین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither do we get worth in separation from Him, nor does He feel peace without union with us;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نہ او بی ما نہ، بی او چہ حال است\nفراق ما فراق اندر وصال است",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ وہ ہمارے بغیر ، نہ ہم اس کے بغیر، یہ کیا صورت حال ہے؟ ہمارا فراق ، فراق اندر وصال ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither He without us, nor we without Him! How strange! Our separation is separation ‘in’ union.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جدائی خاک را بخشد نگاہی\nدہد سرمایہ کوہی بکاہی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جدائی آدم خاکی کو نگاہ عطا کرتی ہے، یہ تنکے کو پہاڑ کی سطوت عطا کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Separation gives to this dust (i.e. man) an insight, it gives the weight of a mountain to a straw.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "جدائی عشق را آئینہ دار است\nجدائی عاشقان را سازگار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جدائی عشق پیدا کرنے کا سبب بنتی ہے، جدائی عاشقوں کو راس آتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Separation is a token of love; it agrees with the nature of lovers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اگر ما زندہ ایم از دردمندی است\nوگر پایندہ ایم از دردمندی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر ہم زندہ ہیں تو (عشق کی) دردمندی کے سبب زندہ ہیں اور اسی کی وجہ سے ہميں پائیندگی حاصل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If we are alive, it is due to this affliction (of separation), and if we are immortal, it is due to it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "من و او چیست اسرار الہی است\nمن و او بر دوام ما گواہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "'میں' اور 'وہ' کیا ہیں؟ اللہ تعالے کے اسرار ہیں، میرا اور اس کا الگ الگ وجود ہمارے دوام کا ثبوت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is ‘I’ and ‘He’? It is a divine mystery! ‘I’ and ‘He’ are a witness to our immortality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "بخلوت ہم بجلوت نور ذات است\nمیان انجمن بودن حیات است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت اور جلوت دونوں جگہ ذات باری تعالے کا نور ہے، انجمن میں ہونا ہی زندگی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The light of the Essence is everywhere, hidden and apparent; to live in company is real life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "محبت دیدہ ور بی انجمن نیست\nمحبت خود نگر بی انجمن نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "انجمن کے بغیر محبت صاحب نظر نہیں ہو سکتی، نہ انجمن کے بغیر محبت اپنے آپ کو دیکھ سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love does not acquire insight without company, and without company, it does not become self-conscious.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بہ بزم ما تجلی ہاست بنگر\nجہان ناپید و او پیداست بنگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری بزم میں (اس کی) تجلیات ہیں، دیکھ! جہان موجود نہیں صرف وہی موجود ہے، دیکھ!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In our assembly, there are divine manifestations, behold! The world is non-existent and He is existent, behold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "در و دیوار و شہر و کاخ و کو نیست\nکہ اینجا ہیچکس جز ما و او نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ در و دیوار ، یہ محل اور شہر نہیں ، یہاں اس کے اور ہمارے سوائے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Doors and walls, cities, towns and streets are not there, for here there is nothing existent except we and He.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "گہی خود را ز ما بیگانہ سازد\nگہی ما را چو سازی می نوازد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی وہ اپنے آپ کو ہم سے بیگانہ رکھتا ہے اور ہے کبھی ہمیں ساز کی طرح نوازتا ہے (ہمارے اندر سے نغمے پیدا کرتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes He makes Himself a stranger to us; sometimes He plays upon us as upon a musical instrument.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "گہی از سنگ تصویرش تراشیم\nگہی نادیدہ بر وی سجدہ پاشیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی ہم پتھر سے اس کی تصویر تراشتے ہیں اور کبھی اسے دیکھے بغیر سجدے کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes we fashion His idol out of stone, sometimes we prostrate before Him without having seen Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "گہی ہر پردۂ فطرت دریدیم\nجمال یار بیباکانہ دیدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی ہم فطرت کے ہر پردے کو چاک کر دیتے ہیں اور دوست کے جمال کا بیباکانہ نظارہ کرتے ہیں ۔ (معراج کی طرف اشارہ ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes we tear every veil of Nature, and boldly see His beautiful face.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "چہ سودا در سر این مشت خاکست\nازین سودا درونش تابناکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشت خاک کے سر میں یہ کیا سودا سمایا ہے؟ اسی سودا سے تو اس کا اندرون روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What fancy has this handful of dust? It is due to this fancy that his inner self is illumined.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "چہ خوش سودا کہ نالد از فراقش\nو لیکن ھم ببالد از فراقش",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیسا پیارا سودا ہے کہ انسان اس کے فراق میں نالہ و فریاد بھی کرتا ہے، لیکن یہی فراق اسے ترقی کے مدارج بھی طے کراتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a nice fancy that he bewails in separation and yet he grows and develops through it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "فراق او چنان صاحب نظر کرد\nکہ شام خویش را بر خود سحر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فراق نے اسے اتنا صاحب نظر کر دیا کہ اس نے اپنے (فراق ‍ کی) رات کو اپنے لیے سحر بنا لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This separation developed in him such a spiritual insight, that he turned his dusk into a dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "خودی را دردمند امتحان ساخت\nغم دیرینہ را عیش جوان ساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "(انسانی ) خودی کو (فراق کے) امتحان میں نہ ڈال کر دردمندی عطا کی۔ (اور اس طرح) اس کے غم کہنہ کو عیش جواں بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He made the ego subject to affliction: Thus turned the ancient grief into an ever-living joy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گہر ہا سلک سلک از چشم تر برد\nز نخل ماتمی شیرین ثمر برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے چشم تر کے آنسوؤں سے موتیوں کی لڑیاں حاصل کیں، گویا 'نخل ماتم' سے میٹھا پھل پایا۔ ('نخل ماتم' محرم کے دنوں سے متعلق اصطلاح ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He got strings of pearls from the tears of his eyes from the tree of bewailing he got sweet fruit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "خودی را تنگ در آغوش کردن\nفنا را با بقا ہم دوش کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کو پوری طرح اپنا لینا ، گویا فنا کو اور بقا کو اکٹھا کر دینا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To press the ego tightly to the bosom is to turn death into everlasting life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "محبت در گرہ بستن مقامات\nمحبت در گذشتن از نہایات",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت کیا ہے؟ مقامات کو اپنے قبضے میں کرنا۔ محبت کیا ہے؟ نہایات سے گذر جانا (محبت کی انتہا کوئی نہیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is Love? It is to tie all the different stages in a knot. What is Love? It is to pass beyond all goals.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "محبت ذوق انجامی ندارد \nطلوع صبح او شامی ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "محبت میں اختتام کی بات نہیں ، اس کی روشن صبح کبھی شام میں تبدیل نہیں ہوتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love does not know of any termination, its dawn has no dusk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "براہش چون خرد پیچ و خمی ہست\nجہانی در فروغ یکدمی ہست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ خرد کی طرح اس کی راہ میں (بھی) پیچ و خم ہے ، (مگر) اس کا جہان ایسی چمک سے (عبارت) ہے ، جو ایک دم ظاہر ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There are no bends in its way as in that of intellect, in its lustre of a moment, there is a world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ہزاران عالم افتد در رہ ما\nبپایان کی رسد جولانگہ ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے راستے میں کئی جہان آتے ہیں، ہماری کوشش کا میدان کبھی ختم نہیں ہو سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thousands of worlds lie along our path, how can our endeavours reach their finale?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "مسافر جاودان زی جاودان میر\nجہانی را کہ پیش آید فراگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسافر (راہ عشق) بار بار فنا ہو اور ہر بار نئی زندگی پا، جو جہان تیرے سامنے آئے، اسے اپنے قبضے میں کر لے۔ (ایک جہان میں مرنا دوسرے جہان میں زندگی پانا ہے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O traveler I live for ever and die for ever, take hold of the world that comes before you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "بہ بحرش گم شدن انجام ما نیست\nاگر او را تو در گیری فنا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کے بحر میں گم ہو جانا ہمارا انجام نہیں ہے، اگر تو اسے اپنا لے ، تو پھر تیرے لیے فنا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not the goal of our journey to merge ourselves in His Ocean. If you catch hold of Him, it is not fana (extinction).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "خودی اندر خودی گنجد محال است\nخودی را عین خود بودن کمال است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کا خودی میں سما جانا محال ہے، خودی کا اپنا آپ بنانا ہی اس کا کمال ہے ۔ (کہتا ہے کون وصل میں رہتا نہیں وجود ذات؛ قطرے کی بات اور ہے ، گوہر کی شان اور۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is impossible for an ego to be absorbed in another ego, for the ego to be itself is its perfection.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 4",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

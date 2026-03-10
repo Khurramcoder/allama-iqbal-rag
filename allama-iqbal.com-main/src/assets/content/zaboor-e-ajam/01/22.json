@@ -1,0 +1,119 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یا مسلمان را مدہ فرمان کہ جان بر کف بنہ\nیا درین فرسودہ پیکر تازہ جانی آفرین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا تو مسلمان کو یہ فرمان نہ دیں کہ وہ اپنی جان ہتھیلی پر رکھ کر باہر نکل آئے ؛ یا اس کے فرسودہ پیکر میں نئی جان پیدا کریں؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either do not tell the Muslim to put his life at risk, or else breathe a new soul into this worn-out frame. Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یا برہمن را بفرما نو خداوندی تراش\nیا خود اندر سینۂ زناریان خلوت گزین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا تو برہمن سے فرمائیں کہ وہ نیا خدا تراشے؛ یا زناریوں (بت پرستوں) کے سینے میں خود خلوت گزیں ہو جائیں؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either tell the Brahmin to carve a new idol, or go and dwell in zunnar-wearers’ hearts yourself. Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یا دگر آدم کہ از ابلیس باشد کمترک\nیا دگر ابلیس بھر امتحان عقل و دین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا تو اور آدم لائیں جو ابلیس سے کم تر ہو ؛ یا امتحان عقل و دین کے لیے اور ابلیس لائیں؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either a new Adam, a little less evil than Iblis or another Iblis to challenge faith and reason! Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یا جھانی تازہ ئی یا امتحانی تازہ ئی\nمی کنی تا چند با ما آنچہ کردی پیش ازین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا نیا جہان ہو یا نیا امتحان ؛ آپ کب تک ہمارے ساتھ وہی سلوک دہراتے رہیں گے؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either a new world or a new test! For how long will you go on treating us like this? Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فقر بخشی ؟ باشکوہ خسرو پرویز بخش\nیا عطا فرما خرد با فطرت روح الامین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقر دیا ہے تو اس کے ساتھ شکوہ خسروی عطا فرمائیں ؛ یا پھر ایسی عقل دیں جو فطرت روح الامین رکھتی ہو؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give us poverty? Do it, but gives us Chosroe’s glory as well! Or give us reason together with Gabriel’s disposition. Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یا بکش در سینۂ من آرزوی انقلاب\nیا دگرگون کن نھاد این زمان و این زمین\nیا چنان کن یا چنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا تو میرے سینے میں موجود آرزوئے انقلاب ختم کر دیں؛ یا اس زمان و زمین کی نہاد بدل دیں؛ یہ کریں یا وہ کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Either kill the desire for revolution that stirs in my heart, or completely change these heavens and the earth. Do one thing or the other!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,129 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہی میری کم نصیبی، وہی تیری بے نیازی \nمیرے کام کچھ نہ آیا یہ کمال نے نوازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mine ill luck the same and same, O Lord, the coldness on Your part: No useful aim has been served, by skill in poetic art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں کہاں ہوں تو کہاں ہے، یہ مکاں کہ لامکاں ہے؟ \nیہ جہاں مرا جہاں ہے کہ تری کرشمہ سازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where am I and where are You; is the world a fact or naught? Does this world to me belong, or is a wonder by You wrought?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اسی کشمکش میں گزریں مری زندگی کی راتیں \nکبھی سوزو ساز رومی، کبھی پیچ و تاب رازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The precious moments of my life, one by one have been snatched: But still the conflict racks my brain, if heart and head are ever matched.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ فریب خوردہ شاہیں کہ پلا ہو کرگسوں میں \nاسے کیا خبر کہ کیا ہے رہ و رسم شاہبازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hawk forgetful of its breed, upbrought and fed in midst of kites; knows not the wont and ways of hawks, and cannot soar to mighty heights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ زباں کوئی غزل کی، نہ زباں سے باخبر میں \nکوئی دلکشا صدا ہو، عجمی ہو یا کہ تازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For song no tongue is set apart, no claim to tongues is laid by me: What matters is a dainty song, no matter what its language be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہیں فقر و سلطنت میں کوئی امتیاز ایسا \nیہ سپہ کی تیغ بازی، وہ نگہ کی تیغ بازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqr and Kingship are akin; though at odds may these appear: One wins the heart with single glance, the other rules with sword and spear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کوئی کارواں سے ٹوٹا، کوئی بدگماں حرم سے \nکہ امیر کارواں میں نہیں خوئے دل نوازی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some have left the caravan train, and some on Ka‘bah turn their back; for leaders of the Faithful Band, winsome mode and manners lack.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

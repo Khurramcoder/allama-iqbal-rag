@@ -1,0 +1,68 @@
+{
+  "id": "02",
+  "name": "کارل مارکس کی آواز",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ علم و حکمت کی مہرہ بازی، یہ بحث و تکرار کی نمائش \nنہیں ہے دنیا کو اب گوارا پرانے افکار کی نمائش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہرہ بازي: مہروں کا کھیل؛ مراد ہے عیاری، مکاری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world does not like tricks and of science and wit nor, their contests; this age does not like ancient thoughts, from core of hearts their show detests.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تری کتابوں میں اے حکیم معاش رکھا ہی کیا ہے آخر \nخطوط خم دار کی نمائش، مریز و کج دار کی نمائش",
+              "lang": "Original"
+            },
+            {
+              "_content": "مريز و کج دار: لفظی معنی ہیں؛ ' نہ گرا' اور 'نہ ٹیڑھا رکھ' - مراد ہے کسی کی جھولی میں سب کچھ ڈالنے کی کوشش کرنا لیکن کچھ نہ ڈالنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wise economist, the books you write are quite devoid of useful aim: They have twisted lines with orders strange no warmth for labour, though they claim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہان مغرب کے بت کدوں میں، کلیسیاوں میں، مدرسوں میں \nہوس کی خون ریزیاں چھپاتی ہے عقل عیار کی نمائش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The idol houses of the West, their schools and churches wide; the ravage caused for, greed of wealth their wily wit attempts to hide.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Voice Of Karl Marx",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

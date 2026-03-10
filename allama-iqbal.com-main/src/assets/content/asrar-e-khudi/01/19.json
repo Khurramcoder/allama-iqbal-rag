@@ -1,0 +1,799 @@
+{
+  "id": "19",
+  "name": "دعا",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے چو جان اندر وجود عالمی\nجان ما باشی و از ما می رمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کائنات میں بمنزلہ جان ہیں؛ ہماری جان ہوتے ہوئے ہم سے گریز کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Thou that art as the soul in the body of the universe, Thou art our soul end thou art ever fleeing from us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نغمہ از فیض تو در عود حیات\nموت در راہ تو محسود حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "ندگی کا ساز آپ کے فیض سے نغمہ زن ہے؛ آپ کی راہ میں جو موت آئے اسی پر زندگی بھی رشک کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou breathest music into Life's lute; Life envies Death when death is for thy sake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "باز تسکین دل ناشاد شو\nباز اندر سینہ ہا آباد شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سینوں میں پھر سے آباد ہو کر ناخوش دلوں کی تسکین کا باعث بنیئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once more bring comfort to our sad hearts; once more dwell in our breasts!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "باز از ما خواہ ننگ و نام را\nپختہ تر کن عاشقان خام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سے پھر ننگ و نام کی قربانی طلب کیجئے اور اس طرح ہم جیسے ناپختہ عاشقوں کو پختہ تر بنا دیجئیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once more demand from us the sacrifice of name and fame, strengthen our weak love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از مقدر شکوہ ہا داریم ما\nنرخ تو بالا و ناداریم ما",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں اپنے مقدر سے شکوہ ہے؛ آپ کی قیمت بہت بالا ہے اور ہم مفلس ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are oft complaining of destiny, Thou art of great price and we have naught.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از تہیدستان رخ زیبا مپوش\nعشق سلمان و بلال ارزان فروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم مفلسوں سے اپنا خوبصورت چہرہ نہ چھپائیے ؛ سلمان و بلال (رضی اللہ) کا عشق ہمیں ارزاں فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Aide not thy fair face from the empty handed! Sell cheap the love of Salman and Bilal!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چشم بیخواب و دل بیتاب دہ\nباز ما را فطرت سیماب دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "راتوں کو بیدار رہنے والی آنکھ اور بے قرار دل عطا فرمائیے ؛ ہمیں دوبارہ فطرت سیماب عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give us the sleepless eye and the passionate heart; give us again the nature of quick silver man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آیتے بمنا ز آیات مبین\nتا شود اعناق اعدا خاضعین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی روشن آیات میں سے کوئی آیت دیکھائیے تاکہ دشمنوں کی گردنیں جھک جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Show unto us one of thy manifest signs, that the necks of our enemies may be bowed!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "کوہ آتش خیز کن این کاہ را\nز آتش ما سوز غیر اللہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس تنکے کو آتش فشاں پہاڑ بنا دیجئیے ؛ اور ہماری آگ سے غیر اللہ کو جلا دیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make this chaff a mountain crested with fire; burn with out fire all that is not God!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "رشتہ ی وحدت چو قوم از دست داد\nصد گرہ بر روی کار ما فتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "امت مسلمہ نے جب اللہ تعالے سے تعلق توڑ لیا، تو ہمارے کاموں میں سینکڑوں گرہیں پڑ گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the people of Islam let the thread of Unity go from their hands, they fell into a hundred mazes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ما پریشان در جہان چون اختریم\nہمدم و بیگانہ از یکدیگریم",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اس وقت) ہم دنیا میں ستاروں کی طرح بکھرے ہوئے ہیں؛ ایک دوسرے کے ہمدم بھی ہیں، ایک دوسرے سے بیگانہ بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are dispersed like stars in the world; though of the same family, we are strange to one another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "باز این اوراق را شیرازہ کن\nباز آئین محبت تازہ کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان اوراق کی دوبارہ شیرازہ بندی کر دیں ؛ ہمارے اندر باہمی محبت کا دستور از سر نو رائج کر دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rind again these scattered leaves, revive the law of love!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "باز ما را بر ہمان خدمت گمار\nکار خود با عاشقان خود سپار",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمیں پھر اسی خدمت (اشاعت اسلام) پر معمور فرمائیے؛ اپنا کام اپنے عاشقوں کے سپرد فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take us back to serve thee as of old, commit thy cause to them that love thee!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "رہروان را منزل تسلیم بخش\nقوت ایمان ابراہیم بخش",
+              "lang": "Original"
+            },
+            {
+              "_content": "راہروان راہ حق کو رضا کی منزل عطا فرمائیے؛ ہمیں حضرت ابراہیم (علیہ) کے ایمان کی قوّت عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are travellers: give us resignation as our goal! Give us the strong faith of Abraham!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عشق را از شغل لا آگاہ کن\nآشنای رمز الااللہ کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کو لا کے شغل اور الااللہ کی رمز سے آگاہ فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make us know the meaning of ‘There is no God.’ Make us acquainted with the mystery of ‘except Allah!’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "منکہ بھر دیگران سوزم چو شمع\nبزم خود را گریہ آموزم چو شمع",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں جو شمع کی مانند دوسروں کے لیے جل رہا ہوں ؛ اور اپنی بزم کو گریہ (احساس زیاں) سکھاتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I who burn like a candle for the sake of others; teach myself to weep like that candle.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "یارب آن اشکی کہ باشد دلفروز\nبیقرار و مضطر و آرام سوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے اللہ مجھے وہ آنسو عطا فرمایے جو دل کو روشن، بے قرار، مضطر اور بے چین رکھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God! A tear that is heart-enkindling, passionful, wrung forth by pain, peace consuming;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "کارمش در باغ و روید آتشے\nاز قبای لالہ شوید آتشے",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ان آنسوؤں کو باغ میں بوؤں اور ان سے ایسی آگ پیدا ہو جو قبائے لالہ کو بھی مات کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May I sow in the garden, and may it grow into a fire that washes away the fire-brand from the tulip's robe!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "دل بدوش و دیدہ بر فرداستم\nدر میان انجمن تنہا ستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل ماضی میں اٹکا ہوا ہے اور میری آنکھ مشعل پر مرکوز ہے؛ میں انجمن میں ہوتے ہوئے بھی تنہا ہوں۔ [Meyra dil mazi mein attka hoa hai aur meyri aankhh masha’al per markooz hai; mien anjuman mein hotay hoay bhi tunha h’on.]",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart is with yesterday, my eye is on to-morrow: Amidst the company I am alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "\"ہر کسی از ظن خود شد یار من\nاز درون من نجست اسرار من\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر کوئی اپنے آپ کو میرا دوست گمان کرتا لیکن اب کوئی بھی میرے دل کے رازوں سے واقف نہیں ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Every one fancies he is my friend, but none ever sought the secrets within my Soul.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در جہان یارب ندیم من کجاست\nنخل سینایم کلیم من کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے اللہ اس جہاں میں میرا ہمدم کہاں ہے؛ میں درخت طور ہوں میرا کلیم کہاں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oh, where in the wide world is my comrade? I am the Bush of Sinai: where is my Moses?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ظالمم بر خود ستم ہا کردہ ام\nشعلہ ئی را در بغل پروردہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ظالم ہوں میں نے اپنے اوپر بہت ظلم کیے ہیں؛ (سب سے بڑا ظلم یہ کیا) کہ اپنی بغل میں خود شعلے کی پرورش کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am tyrannous, I have done many a wrong to myself, I have nourished a flame in my bosom,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "شعلہ ئی غارت گر سامان ہوش\nآتشے افکندہ در دامان ہوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا شعلہ جو ہوش کے سامان کو غارت کر دیتا ہے؛ اس نے ہوش کے دامن میں آگ لگا دی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A flame that burnt to ashes the wares of understanding, cast fire on the skirt of discretion,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "عقل را دیوانگی آموختہ\nعلم را سامان ہستی سوختہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے عقل کو دیوانگی سکھائی ہے اور علم کی ہستی کو فنا کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lessened with madness the proud reason, and inflamed the very being of knowledge:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "آفتاب از سوز او گردون مقام\nبرقہا اندر طواف او مدام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سوز سے آفتاب آسمان کی بلندی تک پہنچا ہے ؛ اور بجلیاں ہمیشہ میرے اس شعلے کے طواف میں رہتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its blaze enthrones the sun in the sky and lightnings encircle it with adoration for ever.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "ہمچو شبنم دیدہ ی گریان شدم\nتا امین آتش پنہان شدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں شبنم کی مانند سر تا پا دیدہ ء گریاں ہوا تب کہیں جا کر اس آتش پوشیدہ کا امانت دار بنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mine eye fell to weeping, like dew, since I was entrusted with that hidden fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "شمع را سوز عیان آموختم\nخود نہان از چشم عالم سوختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے شمع کو عیانا جلنا سکھایا مگر خود دنیا کی آنکھ سے چھپ کر جلتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I taught the candle to burn openly, while I myself burned unseen by the world's eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "شعلہ ہا آخر ز ہر مویم دمید\nاز رگ اندیشہ ام آتش چکید",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں تک کہ میرے ہر بن و مو سے شعلے پھوٹنے لگے؛ اور میرے فکر کی رگ رگ سے آگ ٹپکنے لگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As last flames burst forth from every hair of me, fire dropped from the veins of my thought:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "عندلیبم از شرر ہا دانہ چید\nنغمہ ی آتش مزاجی آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے عندلیب نے آگ کے شراروں کو دانوں کی مانند چن لیا اور ایک آتشیں نغمہ تخلیق کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My nightingale picked up the grains of spark and created a fire-tempered song.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "سینہ ی عصر من از دل خالی است\nمی تپد مجنون کہ محمل خالی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر اس دور کے لوگوں کے سینے خالی ہیں؛ مجنوں تڑپ رہا ہے کہ محمل خالی پڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The breast of this age is without a heart, Majnun quivers with pain because Laila's howdah is empty.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "شمع را تنہا تپیدن سہل نیست\nآہ یک پروانہ ی من اہل نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "شمع کے لیے تنہا جلنا آسان نہیں ؛ افسوس اس بات پر ہے کہ میرے پروانوں میں کوئی ایک بھی (پروانگی کی) اہلیت نہیں رکھتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not easy for the candle to throb alone; Ah is there no moth worthy of me?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "انتظار غمگساری تا کجا\nجستجوے راز دارے تا کجا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں کب تک غمگسار کا انتظار اور رازدار کی جستجو کرتا رہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long shall I wait for one to share my grief? How long must I search for a confidant?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "اے ز رویت ماہ و انجم مستنیر\nآتش خود را ز جانم باز گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کے چہرہ مبارک سے چاند اور ستارے روشنی پاتے ہیں؛ میری جان سے اپنی آگ واپس لے لیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Thou whose face lends light to the moon and the stars, withdraw Thy fire from the soul!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "این امانت بازگیر از سینہ ام\nخار جوہر برکش از آئینہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سینے سے یہ امانت واپس لے لیجیئے ؛ میرے آئینے سے جوہر کا خار (جو میرے سینے میں کھٹک رہا ہے) نکال دیجئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take back what Thou hast put in my breast; remove the stabbing radiance from my mirror;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "یا مرا یک ھمدم دیرینہ دہ\nعشق عالم سوز را آئینہ دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یا مجھے اسلاف جیسا ایک رفیق عطا ہو؛ جو میرے عشق عالم سوز کے لیے آئینے کا کام دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Or give me one old comrade; to be the mirror of mine all-burning love!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "موج در بحر است ہم پہلوی موج\nہست با ھمدم تپیدن خوی موج",
+              "lang": "Original"
+            },
+            {
+              "_content": "سمندر موج موج کے پہلو میں ہے؛ موج کی فطرت اپنی ساتھی موج کے ساتھ مل کر متلاطم ہونا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the sea wave tosses side by side with wave: each hath a partner in its emotion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "بر فلک کوکب ندیم کوکبست\nماہ تابان سر بزانوی شب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان پر ستارہ ستارے کا ساتھی ہے؛ چمکتے ہوئے چاند نے رات کے زانو پر سر رکھا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In heaven star consorts with star, and the bright moon lays her head on the knees of Night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "روز پھلوے شب یلدا زند\nخویش را امروز بر فردا زند",
+              "lang": "Original"
+            },
+            {
+              "_content": "دن تاریک رات کے پہلو میں رہتا ہے؛ اور آ ج اپنے آپ کو آنے والے کل سے پیوست رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Morning touches Night's dark side, and To-day throws itself against Tomorrow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "ہستی جوئی بجوئے گم شود\nموجہ ی بادی ببوئے گم شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ندی کا وجود ندی میں گم ہو جاتا ہے ؛ خوشبو ہوا کی موج سے مل جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One river loses its being in another; a waft of air dies in perfume.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "ہست در ہر گوشہ ی ویرانہ رقص\nمی کند دیوانہ با دیوانہ رقص",
+              "lang": "Original"
+            },
+            {
+              "_content": "ویرانے کے ہر گوشے میں رقص نظر آتا ہے؛ دیوانہ بھی دیوانے کے ساتھ رقص کر رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is dancing in every nook of the wilderness. Madman dances with madman.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "گرچہ تو در ذات خود یکتاستی\nعالمی از بھر خویش آراستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ اے اللہ! آپ اپنی ذات میں یکتا ہیں، پھر بھی آپ نے اپنے لیے کائنات کو آراستہ فرمایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because in thine essence Thou art single, Thou hast evolved for Thyself a, whole world,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "من مثال لالہ ی صحراستم\nدرمیان محفلی تنہاستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگر میں لالہء صحرا کی مانند محفل کے اندر بھی تنہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am as the tulip of the field; in the midst of a company I am alone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "خواہم از لطف تو یاری ہمدمی\nاز رموز فطرت من محرمی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں آپ کے کرم سے ایک ایسے غمگسار دوست کا خواہاں ہوں جو میری فطرت کے رموز کا محرم ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I beg of Thy grace a sympathising friend, and adept in the mysteries of my nature,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "ھمدمی دیوانہ ئی فرزانہ ئی\nاز خیال این و آن بیگانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسا دوست جو دیوانہ بھی ہو اور فرزانہ بھی؛ اور دنیا کے نفع و ضرر سے بلند تر ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A friend endowed with madness and wisdom, one that knoweth not the phantom of vain things,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "تا بجان او سپارم ہوی خویش\nباز بینم در دل او روی خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ میں اپنا جنوں اس کے سپرد کر دوں ؛ اور پھر اس کے دل کے آئینے میں اپنا چہرہ دیکھوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That I may confide my lament to his soul and see again my face in his heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "سازم از مشت گل خود پیکرش\nہم صنم او را شوم ہم آزرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاکہ میں اپنی خاک سے اس کا پبکر تراشوں؛ میں اس کا بت بھی (ائیڈیل) بناؤں اور آزر (بت تراش) بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His image I will mould of mine own clay, I will be to him both idol and worshipper.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Invocation",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

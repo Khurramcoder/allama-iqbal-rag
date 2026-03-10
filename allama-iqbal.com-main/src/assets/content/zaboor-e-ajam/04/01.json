@@ -1,0 +1,494 @@
+{
+  "id": "01",
+  "name": "موسیقی",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "04",
+  "sectionName": "در بیان فنون لطیفۂ غلامان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرگ ہا اندر فنون بندگی\nمن چہ گویم از فسون بندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں غلامی کے جادو کے بارے میں کیا کہوں، غلامی کے فنون میں کئی اموات پوشیدہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Several forms of death are hidden in the arts of slavery, what I can say about hypnotics of slavery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نغمۂ او خالی از نار حیات\nہمچو سیل افتد بہ دیوار حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا راگ زندگی کی آتش سے خالی ہے، اور دیوار حیات کو سیلاب کی طرح گرا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its songs are devoid of warmth of life; it over-runs a wall (if life) like a spate of flash flood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون دل او تیرہ سیمای غلام\nپست چون طبعش نواہای غلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "غلام کی پیشانی اس کے دل کی طرح تاریک ہے، اور اس کے راگ کی نوا ئیں اس کی فطرت کی طرح پست ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Slave’s forehead (appearance) is dark like his heart; notes of his music are (insipid) like his spirit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از دل افسردۂ او سوز رفت\nذوق فردا لذت امروز رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دل افسردہ سے حرارت زندگی بجھ چکی ہوتی ہے، نہ اسے اپنا مستقبل اچھا بنانے کا خیال ہوتا ہے اور نہ وہ اپنے حال سے لطف اندوز ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fire of life in his frozen (disappointed) heart is extinguished; he can neither relish his present nor think of better future.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از نے او آشکارا راز او\nمرگ یک شہر است اندر ساز او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نغمے سے اس کے اندر کا راز ظاہر ہو جاتا ہے، اس کے ساز میں پورے شہر کی موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His lute (melody) betrays his inner-self; his musical instruments carriy death of entire city.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ناتوان و زار می سازد ترا\nاز جہان بیزار می سازد ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا راگ تجھے کمزور اور بے ہمت بناتا، اور دنیا سے بیزار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It (his song or melody) makes you (the listener) weak and sick; and (the listener) gets fed up of the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چشم او را اشک پیہم سرمہ ایست\nتا توانے بر نوای او مایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلسل آنسو اس کی آنکھ کا سرمہ ہیں، جہاں تک ہو سکے اس کی آواز پر توجہ مت دے-",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perpetual flow of tears is his eyes’ surmah (black stone like metal ground into powder which in this part of the world people apply in eyes to beautify and clean them); as far possible do not pay attention to his flute.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "الحذر این نغمۂ موت است و بس\nنیستی در کسوت صوت است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا نغمہ، نغمہء موت ہے، اس سے بچ ، اس کے راگ کے لباس میں سواے فنا کے اور کچھ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beware! His is the song of death; it is has nothing but death in the sound (of his song).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تشنہ کامی، این حرم بی زمزم است\nدر بم و زیرش ہلاک آدم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو پیاسا ہے؟ تو یہ حرم بغیر زمزم کے ہے، اس کی آواز کے اتار چڑھاو میں آدم کی موت ہے-",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are thirsty, his Haram has no Zamzam; death of mankind is hidden in lows and highs of his voice.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "سوز دل از دل برد غم میدہد\nزہر اندر ساغر جم می دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دل کو سوز سے خالی کر دیتا ہے اور غمزدہ بنا دیتا ہے، یہ ساغر جم کے اندر زہر ڈال کر پیش کرتا ہے۔ (مستقبل کے بارے میں مایوس کرتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It deprives the heart of fire (of ambitions) and makes it sad; it pours poison into the glass of wine of Jamshaid (promising nothing but death).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "غم دو قسم است اے برادر گوش کن\nشعلۂ ما را چراغ ہوش کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "آے برادر سن! میرے شعلے کو اپنی سمجھ کا چراغ بنا ، میری بات سن کہ غم کی دو قسمیں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Listen my brother! Grief is of two kinds; take my flame to lighten your candle of awareness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یک غم است آن غم کہ آدم را خورد\nآن غم دیگر کہ ہر غم را خورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک وہ غم ہے جو انسان کو کھا جاتا ہے، اور ایک وہ غم ہے جو ہر غم کو کھا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One kind of grief eats up the man; the other kind is that eats up all types of worries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آن غم دیگر کہ ما را ھمدم است\nجان ما از صحبت او بی غم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دوسرا غم ہی ہمارا ساتھی ہے، اس کی صحبت میں رہ کر انسان بے غم ہو جاتا ہے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Second type of grief is our best companion (friend); in its company one gets rid of all the worries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اندرو ہنگامہ ہای غرب و شرق\nبحر و در وی جملہ موجودات غرق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس غم کے اندر مشرق و مغرب کے ہنگامے ہیں ، وہ ایسا سمندر ہے جس میں تمام کائنات گم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this type of worry one has hustle of east and west; it is like the sea in which all the beings are submerged.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "چون نشیمن می کند اندر دلی\nدل ازو گردد یم بی ساحلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب یہ غم کسی دل میں اپنا نشیمن بنا لیتا ہے، تو اسے بحر نا پیدا کنار کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When this (kind of grief) nestles in a heart; it turns that heart into sea without shores.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "بندگی از سر جان نا آگہی است\nزان غم دیگر سرود او تہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ غلامی سرّ جاں سے ناآگہی ہے ، اس لیے غلامی کا نغمہ اس دوسرے غم سے خالی ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because slavery is unaware of secrets of life; so its song is devoid of second type of grief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "من نمیگویم کہ آہنگش خطاست\nبیوہ زن را اینچنین شیون رواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں کہتا کہ اس میں زیر و بم نہیں ، مگر اتنا ضرور کہوں گا کہ اس قسم کا راگ زن بیوہ ہی کو زیب دیتا ہے۔ يعنی اس کا زیر و بم",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not say that that its notes are wrong; but its (ups and downs) suit the song of a widow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نغمہ باید تند رو مانند سیل\nتا برد از دل غمان را خیل خیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "نغمہ سیلاب کی مانند تندرو ہونا چاہیے، تا کہ دل کے اندر سے غموں کے لشکر نکال دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Song should be forceful, like flash flood; so that it washes away hordes of grief (camping) in the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "نغمہ می باید جنون پروردہ ئے\nآتشے در خون و دل حل کردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نغمہ ایسا ہونا چاہیے جس کی پرورش جنون عشق سے ہو اور وہ خون دل کے اندر آگ بھر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It should be fostered by madness (extreme feeling) of True Love; it must inflame fire in the blood of the heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "از نم او شعلہ پروردن توان\nخامشی را جزو او کردن توان",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس کے نم سے شعلے کی پرورش کی جا سکے اور خاموشی کو بھی اس کا جزو بنایا جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Moisture (of his eyes; the tears) adds to the flames of fire; so that silence be made part of it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "می شناسی در سرود است آن مقام\nکاندرو بی حرف می روید کلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تو جانتا ہے کہ موسیقی میں ایک ایسا مقام بھی ہے جس میں الفاظ کے بغیر کلام رواں رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you know! There is a stage in melody which when reached one converses without using words.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "نغمۂ روشن چراغ فطرت است\nمعنی او نقشبند صورت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر نغمہ عشق سے روشن ہو تو وہ چراغ فطرت ہے اور فطرت کے معانی کو صورت عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If melody is lit by True Love, it becomes candle of Nature; it imparts shape to its meanings.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "اصل معنی را ندانم از کجاست\nصورتش پیدا و با ما آشناست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نہیں جانتا کہ معنی کی اصل کہاں سے ہے، مگر اس کی صورت ظاہر ہے اور ہم اس سے بخوبی واقف ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not know the essence of meanings, but its shape is apparent and we are well acquainted with it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "نغمہ گر معنی ندارد مردہ ایست\nسوز او از آتش افسردہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر نغمہ معنی سے خالی ہے تو وہ مردہ ہے، اگر اس میں سوز ہو بھی ، تو وہ بجھی ہوئی آگ کا سوز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If song is devoid of meaning then it is dead (worthless) even if some warmth of life is left in it; that is nothing more than remaining warmth in ashes left-over after fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "راز معنی مرشد رومی گشود\nفکر من بر آستانش در سجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرشد رومی نے معنی کا راز کھولا ہے، میرا فکر اس کے آستاں پر سر بسجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My spiritual mentor Rumi disclosed secrets of the meanings; my thought (in trance) prostrates on the mat of his door.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "معنی آن باشد کہ بستاند ترا\nبی نیاز از نقش گرداند ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "'معنی وہ ہے جو تجھے تجھ سے رہائی دلاۓ ، اور صورت سے بے نیاز کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The meaning is that which liberates you from yourself; that which makes you free of all obligations of any shape, or physical form.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "معنی آن نبود کہ کور و کر کند\nمرد را بر نقش عاشق تر کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "معنی وہ نہیں جو تجھے اندھا و بہرا کر دے، جو مرد کو صورت پر ہی مفتوں کر دے۔'",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The meaning is not that turns you blind and deaf; one that absorbs a person into mere (physical) form.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "مطرب ما جلوۂ معنی ندید\nدل بصورت بست و از معنی رمید",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے موسیقار معنی کی طرف توجہ نہیں دیتے ، وہ معنی سے دور، صرف صورت کے شیدا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our musician did not pay attention to the meaning (essence); they are fond of lyrics (words) not the meanings.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Music",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

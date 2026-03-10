@@ -1,0 +1,81 @@
+{
+  "id": "08",
+  "name": "اے فرزند صحرا",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سحرگاہان کہ روشن شد در و دشت\nصدا زد مرغی از شاخ نخیلی\nفروھل خیمہ اے فرزند صحرا\nکہ نتوان زیست بے ذوق رحیلی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صبح کے وقت جب آبادی و صحرا میں روشنی پھیل گئی؛ تو درخت کی شاخ سے پرندے نے آواز دی: \nاے فرزند صحرا! خیمہ چھوڑ ! ذوق سفر کے بغیر کوئی زندگی نہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When all the desert sides were bright from dawn; from tree a bird tuned to a youth in lawn.\nO desert’s son! Leave thy tent with haste; you lead a dull life which lacks journey taste.\n(In the above three quatrains (twin couplets) the poet has addressed an immaculate son of the desert, a young Muslim, free from the impure taints of city life. In the next couplets he has addressed the upper strata, the intellectuals, the teachers and philosophers of the desert land.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عرب را حق دلیل کاروان کرد\nکہ او با فقر خود را امتحان کرد\nاگر فقر تہی دستان غیور است\nجہانے را تہ و بالا توان کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "(قرون اولی میں) اللہ تعالے نے عرب کو قافلے کا سالار بنایا؛ کیونکہ اس نے فقر کے ذریعہ اپنے آپ کو آزمایا۔\nاگر بے مایہ لوگوں کا طریقہ غیور ہو ؛ تو اس سے ساری دنیا کو تہ و بالا کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Truth chose Arab for caravan’s lead; on faqr since he tested his own self’s breed.\nIf the poor’s content with envy is green*; his growth can upset the whole world’s scene.\n* Here green means flourishing, in ‘figurative’ sense. It means full of vigour as we say (keep a man’s memory green). He lives to a green old age, although looking green with envy also means pale or sickly looking.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در ن شبہا خروش صبح فرداست\nکہ روشن از تجلیہای سیناست\nتن و جان محکم از باد در و دشت\nطلوع امتان از کوہ و صحراست",
+              "lang": "Original"
+            },
+            {
+              "_content": "صحرا کی راتوں میں آنے والی صبح کا غلغلہ ہے؛ کیونکہ یہ راتیں سینا کی تجلیات سے منوّر ہیں۔\nکوہ و صحرا کی ہوا بدن اور روح دونوں کو محکم کرتی ہے؛ (یہی وجہ ہے کہ) نئی امتوں کا ظہور کوہ و صحرا سے ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those nights had the uproar for future’s dawn; being lit up with light of the Sinai’s lawn.\nThus the desert life made their brawns and brains; arid nations arose Crom those desert lanes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "O Son Of The Desert",
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

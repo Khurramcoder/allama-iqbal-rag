@@ -1,0 +1,86 @@
+{
+  "id": "15",
+  "name": "علم اور دین",
+  "name-en": "Knowledge and Religion",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ علم اپنے بتوں کا ہے آپ ابراہیم \nکیا ہے جس کو خدا نے دل و نظر کا ندیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم: وہ علم جو آدمی کو اپنی اور اپنے خدا کی معرفت عطا کرتا ہے۔ \nنديم: ساتھی، دوست۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learning whom God has made the mate of heart and sight, like Friend of God can break with ease all idols bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمانہ ایک، حیات ایک، کائنات بھی ایک \nدلیل کم نظری، قصہء جدید و قدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم نظري: نظر کا کم ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cosmos and life are ore, the world is one and same; the tale of old and new is merely false and lame.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چمن میں تربیت غنچہ ہو نہیں سکتی \nنہیں ہے قطرہ شبنم اگر شریک نسیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نسيم: صبح کی نرم ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A blossom can not thrive in meadow full of trees, unless some drops of dew ally with pleasant breeze.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ علم، کم بصری جس میں ہمکنار نہیں \nتجلیات کلیم و مشاہدات حکیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم بصري: نگاہ کا کم ہونا۔ \nحکيم: فلسفی۔\nہمکنار: بغلگیر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That ken is vision dim in which the wise man's lore and sight that Moses viewed keep apart and merge no more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

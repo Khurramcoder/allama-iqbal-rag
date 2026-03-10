@@ -1,0 +1,114 @@
+{
+  "id": "20",
+  "name": "موٹر",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیسی پتے کی بات جگندر نے کل کہی \nموٹر ہے ذوالفقار علی خان کا کیا خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How rightly Jogender said this yesterday: ‘The car of Zulfiqar Ali Khan is so quiet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہنگامہ آفریں نہیں اس کا خرام ناز \nمانند برق تیز، مثال ہوا خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its elegant and graceful pace is not noisy; fast like lightning, like breeze it is quiet.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میں نے کہا، نہیں ہے یہ موٹر پہ منحصر \nہے جادہء حیات میں ہر تیزپا خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I replied: ‘This is not restricted to car; in the path of life every fleet footed is quiet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے پا شکستہ شیوہء فریاد سے جرس \nنکہت کا کارواں ہے مثال صبا خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bell is footless from its habit of lamenting; the caravan of fragrance like zephyr is quiet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مینا مدام شورش قلقل سے پا بہ گل \nلیکن مزاج جام خرام آشنا خموش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The decanter always walks on embers* due to gurgling, but the nature of the gentle-moving wine-cup is quiet.\n* Walking on embers or fire is an expression to indicate walking under difficult conditions.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "شاعر کے فکر کو پر پرواز خامشی \nسرمایہ دار گرمی آواز خامشی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To the poet’s thoughts the wings for flight are silence; the wealth of the voice’s warmth lies in silence’!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Motor Car",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

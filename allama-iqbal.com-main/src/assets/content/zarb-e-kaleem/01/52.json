@@ -1,0 +1,68 @@
+{
+  "id": "52",
+  "name": "جان و تن",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقل مدت سے ہے اس پیچاک میں الجھی ہوئی\nروح کس جوہر سے، خاک تیرہ کس جوہر سے ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیچاک: پیچ و خم، مراد ہے الجھن۔ \nتیرہ: اندھیری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since times antique the mind of man in complex problems is involved; what is the source of clay-born man and how the soul has been evolved?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میری مشکل، مستی و شور و سرور و درد و داغ \nتیری مشکل، مے سے ہے ساغر کہ مے ساغر سے ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pain, anguish, glee and rapture sweet are spiritual states that man must face; what is of much worth, cup or wine, is knotty point you wish to trace?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ارتباط حرف و معنی، اختلاط جان و تن \nجس طرح اخگر قبا پوش اپنی خاکستر سے ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ارتباط: ربط، تعلق۔\nاختلاط: میل جول، خلط ملط۔ \nخاکستر: راکھ۔\nاخگر: بجھتا ہوا انگارہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What binds the words and their import? What links the body and the soul? It wears the cloak of its own ash just like the burnt refuse of coal.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Soul And Body",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

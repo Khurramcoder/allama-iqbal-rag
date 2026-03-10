@@ -1,0 +1,101 @@
+{
+  "id": "12",
+  "name": "سلیمی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جس کی نمود دیکھی چشم ستارہ بیں نے \nخورشید میں، قمر میں، تاروں کی انجمن میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم ستارہ بیں: ماہر فلکیات۔\nنمود: ظہور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The one whose manifestation witnessed the astronomer's eye: In the sun, in the moon, in the assembly of stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "صوفی نے جس کو دل کے ظلمت کدے میں پایا \nشاعر نے جس کو دیکھا قدرت کے بانکپن میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "ظلمت کدہ: اندھیری جگہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whom the Sufi found in the dark recesses of his heart; whom the poet saw in the midst of elegance of Nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جس کی چمک ہے پیدا، جس کی مہک ہویدا \nشبنم کے موتیوں میں، پھولوں کے پیرہن میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیرہن: لباس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose brilliance exists, whose fragrance persists; in the pearls of dew, in the shirts of flowers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "صحرا کو ہے بسایا جس نے سکوت بن کر \nہنگامہ جس کے دم سے کاشانہ چمن میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who has inhabited the wilderness by becoming tranquility; whose Presence creates the uproar in the midst of the garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہر شے میں ہے نمایاں یوں تو جمال اس کا \nآنکھوں میں ہے سلیمی تیری کمال اس کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though His Beauty is manifest in everything; in your eye is Its climax, O Sulaima!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Sulaima",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

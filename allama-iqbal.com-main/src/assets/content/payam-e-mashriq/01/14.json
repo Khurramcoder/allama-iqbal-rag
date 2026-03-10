@@ -1,0 +1,34 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دلا نارائے پروانہ تا کی\nنگیری شیوۂ مردانہ تا کی\nیکی خود را بہ سوز خویشتن سوز\nطواف آتش بیگانہ تا کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا پوچھتا ہے کہ میں کہاں سے آیا ہوں اور کیا ہوں ؛ میں اپنے گرد گھومتا ہوں اس لیے زندہ ہوں۔\nمیں اس دریا (کائنات) میں موج بے قرار کی مانند ہوں؛ اگر اپنے آپ سے وابستہ نہ رہوں، تو میری ہستی ختم ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O ask not what I am, or whence came I: ’Tis self-involvement I am living by:\nWithin this sea I am a restless wave, and when I am no more involved, I die.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

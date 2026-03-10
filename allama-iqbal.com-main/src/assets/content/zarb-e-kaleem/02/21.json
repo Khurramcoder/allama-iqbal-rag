@@ -1,0 +1,34 @@
+{
+  "id": "21",
+  "name": "طالب علم",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خدا تجھے کسی طوفاں سے آشنا کر دے \nکہ تیرے بحر کی موجوں میں اضطراب نہیں \nتجھے کتاب سے ممکن نہیں فراغ کہ تو \nکتاب خواں ہے مگر صاحب کتاب نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God acquaint you with some gale your tides no stir at all exhale: Respite from books you do not get, but Book Revealed too soon forget.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Student",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

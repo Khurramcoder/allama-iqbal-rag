@@ -1,0 +1,136 @@
+{
+  "id": "11",
+  "name": "غزل زندہ رود",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ آدمے نرسیدی، خدا چہ میجوئی\nز خود گریختہ ئی آشنا چہ می جوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کے مقام کو تو تو پا نہیں سکا اللہ تعالے کو کیا ڈھوندتا ہے؛ اپنے آپ سے تو دور ہے دوست کی تلاش کیسی؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have not reached Man, so why do you seek God? You have fled from your self; why do you seek a friend?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دگر بشاخ گل آویز و آب و نم در کش\nپریدہ رنگ ز باد صبا چہ می جوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوبارہ (اسلام کی) شاخ گل سے آویزاں ہو اور وہاں سے آب و نم جذب کر (کملائے ہوئے پھول) تیرا رنگ اڑا ہوا ہے، باد صبا تجھے کیا دے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hang again on the rose-twig and suck in the sap and the dew; faded blossom, what are you seeking from the zephyr?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دو قطرہ خون دلست آنچہ مشک مینامند\nتو اے غزال حرم در ختا چہ میجوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خون دل کے دو قطرے ہی تو ہیں جنہیں کستوری کہتے ہیں۔اے غزال حرم ! تو ملک ختا میں کیا ڈھونڈتا ہے (اپنے خون سے کستوری حاصل کر)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What they call musk is two drops of the heart’s blood; gazelle of the Sanctuary, what are you seeking in Cathay?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عیار فقر ز سلطانی و جہانگیری است\nسریر جم بطلب، بوریا چہ می جوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "سلطانی و حکومت سے فقر کی پہچان ہے، جمشید کا تاج طلب کر ، بوریا کیا ڈھونڈتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poverty’s assay is by sovereignty and world-dominion; seek Jamshid’s throne-why do you seek a reed-mat?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سراغ او ز خیابان لالہ میگیرند\nنوای خون شدۂ ما ز ما چہ میجوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری خون شدہ نوا کو ہم سے کیا پوچھتا ہے؛ اس کا سراغ تو گل لالہ کے خیابان سے ملتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men track it out from the garden of tulips; why do you seek from me the song drenched with blood?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نظر ز صحبت روشندلان بیفزاید\nز درد کم بصری توتیا چہ میجوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "روشن ضمیر حضرات کی صحبت سے نظر تیز ہوتی ہے، سرمہ کمزوری ء نظر کا علاج نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vision augments through the company of the enlightened of heart; why do you seek collyrium from the sorrow of the short-sighted?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "قلندریم و کرامات ما جہان بینی است\nزمانگاہ طلب، کیمیا چہ می جوئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان بینی کرامات ہے ہماری، ہم قلندر ہیں، نگاہ ہم سے طلب کر، کیمیا کی جستجو کیا ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are calenders, and our miracle is world-vision; seek vision from us-why seek the philosopher’s stone?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ghazal Of Zinda-Rud"
+}

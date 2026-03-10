@@ -1,0 +1,545 @@
+{
+  "id": "01",
+  "name": "تمہید",
+  "name-en": "Preface",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ز جان خاور آن سوز کہن رفت\nدمش واماند و جان او ز تن رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشرق کے اندر وہ سوز کہن نہیں رہا ، سانس موجود ہے ، مگر تن سے اس کی جان نکل چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The old ardour has disappeared from the life of the East; its breath wavered and soul left its body;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چو تصویری کہ بی تار نفس زیست\nنمی داند کہ ذوق زندگی چیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس تصویر کی مانند ، جو سانس کے بغیر زندہ ہوتی ہے، وہ نہیں جانتا کہ ذوق حیات کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like a picture without the chain of breath and does not know what the taste of life is.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دلش از مدعا بیگانہ گردید\nنے او از نوا بیگانہ گردید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دل مقصود نا آشنا (سامنے کوئی مقصد نہیں ) اور اس کی بانسری بے نوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its heart lost desire and craving, its flute ceased to produce notes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ طرز دیگر از مقصود گفتم\nجواب نامۂ محمود گفتم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنا مقصود مختلف انداز سے بیان کیا ہے، میں نے محمود (شبستری) کے سوالات کا جواب لکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am expressing my ideas in a different form, and writing in reply to the book of Mahmud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ز عہد شیخ تا این روزگاری\nنزد مردی بجان ما شراری",
+              "lang": "Original"
+            },
+            {
+              "_content": "شیخ (محمود ) کے دور سے اب تک ، کسی مرد نے ہماری جان کو شرر (عشق) سے آشنا نہیں کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since the time of the Shaikh, no man has given the sparks of fire to our life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کفن در بر بخاکی آرمیدیم\nولی یک فتنۂ محشر ندیدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کفن پہنے ، خاک میں پڑے ہیں، ہم نے ایک فتنہ ء محشر بھی نہیں دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We lay on the earth with shrouds around our bodies, and did not experience a single resurrection.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گذشت از پیش آن دانای تبریز\nقیامتہا کہ رست از کشت چنگیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس دانائے تبریز (محمود) کے سامنے سے چنگیز کی برپا کردہ کئی قیامتیں گذر گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That wise man of Tabriz witnessed before his eyes calamities that resulted from the invasion of Genghis.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نگاہم انقلابی دیگری دید\nطلوع آفتابی دیگری دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نگاہ نے ایک اور انقلاب دیکھا ، میں نے ایک اور سورج طلوع ہوتے پایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw a revolution of another type: Appearance of a new sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گشودم از رخ معنی نقابی\nبدست ذرہ دادم آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رخ معنی سے پردہ ہٹا کر ذرہ کے ہاتھ میں آفتاب دے دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I removed veil from the face of meaning, and gave sun in the hands of a mote.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "نپنداری کہ من بی بادہ مستم\nمثال شاعران افسانہ بستم",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ نہ سمجھ کہ میں بغیر شراب کے مست ہوں اور شاعروں کی مانند محض افسانہ گوئی کر رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don’t you think I am intoxicated without wine, and spin tales likes poets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نبینی خیر از آن مرد فرو دست\nکہ بر من تہمت شعر و سخن بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پست ہمت شخص سے بھلائی کی کوئی امید نہیں ، جس نے مجھ پر شعر و سخن کی تہمت رکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You will see no good from a low person, who accuses me of being a poet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "بکوی دلبران کاری ندارم\nدل زاری غم یاری ندارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلبروں کے کوچے سے مجھے کوئی کام نہیں، نہ میرے پاس دل زار ہے ، نہ غم یار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have nothing to do with the street of the beloved, and do not have a grief-stricken heart nor a longing for the beloved;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نہ خاک من غبار رہگذاری\nنہ در خاکم دل بی اختیاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میری خاک غبار راہ ہے، نہ میرے بدن میں دل بے اختیار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither is my earth the dust of a street, nor is within my clay a heart without self-control.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "بہ جبریل امین ھمداستانم\nرقیب و قاصد و دربان ندانم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تو جبریل امین (علیہ) کا ہم داستان ہوں، میرا کوئی رقیب، قاصد یا دربان نہیں ، (اللہ تعالے سے براہ راست فیضیاب ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My mission in life is in line with Gabriel the Truthful; I have neither a rival, nor a messenger, nor a porter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "مرا با فقر سامان کلیم است\nفر شاہنشہی زیر گلیم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا فقر سامان کلیم (علیہ) رکھتا ہے، میری گدڑی کے نیچے شوکت شہنشاہی (پوشیدہ) ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though a mendicant, I have the wherewithal of Moses: Kingly pomp under a beggar’s garment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "اگر خاکم بہ صحرائی نگنجم\nاگر آبم بہ دریائے نگنجم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میں خاک ہوں تو صحرا میں نہیں سماتا، اگر پانی ہوں تو دریا میں نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I am earth, desert cannot contain me; if water, river cannot encompass me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "دل سنگ از زجاج من بلرزد\nیم افکار من ساحل نورزد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے شیشے سے پتھر کا دل لرزتا ہے، میرے افکار کا سمندر بے کنار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart of a stone trembles at my glass, the ocean of my thought is without a shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نھان تقدیر ہا در پردۂ من\nقیامت ہا بغل پروردۂ من",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر (قوموں کی) تقدیریں پنہاں ہیں، میری آستین میں قیامتیں پرورش پا رہی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behind my curtain lie concealed several destinies, and several resurrections take birth at my hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "دمی در خویشتن خلوت گزیدم\nجہانی لازوالی آفریدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ایک اور لمحہ اپنے اندر خلوت گزین ہو کر جہان لازوال پیدا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For a moment I retired unto myself, I created an immortal world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "مرا زین شاعری خود عار ناید\nکہ در صد قرن یک عطار ناید",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اس شاعری سے کوئی عار نہیں، کیونکہ صدیوں میں ایک عطار پیدا نہیں ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I am not ashamed of such poetry, for in a hundred years an Attar might not appear.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "بجانم رزم مرگ و زندگانی است\nنگاہم بر حیات جاودانی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر موت و حیات کی جنگ (جاری) ہے ، (اور) میری نگاہ ہمیشہ کی زندگی پر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A battle of life and death is being waged in my soul; my eye is riveted on immortal life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ز جان خاک ترا بیگانہ دیدم\nبہ اندام تو جان خود دمیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تجھے جان سے خالی دیکھتا ہوں، اس لیے تیرے بدن میں اپنی جان پھونک رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw your clay stranger to life, hence I breathed into your body of my own soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "از آن ناری کہ دارم داغ داغم\nشب خود را بیفروز از چراغم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندر جو آگ ہے اس سے میں داغ داغ ہوں، تو اپنی رات کو میرے داغ کے چراغ سے روشن کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am wholly affected by the fire that I possess: Illumine the darkness of your night by my lamp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "بخاک من دلی چون دانہ کشتند\nبہ لوح من خط دیگر نوشتند",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری خاک میں دل کو دانے کی مانند کاشت کیا گیا ہے، میرے ذہن کی تختی پر نئی بات رقم کی گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Heart was sown into the soil of my body like a seed, a different destiny was written on my tablet:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مرا ذوق خودی چون انگبین است\nچہ گویم واردات من ہمین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی کا ذوق میرے لیے شہد ہے، کیا کروں یہی میری کیفیت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To me the ideal of khudi is sweet as honey. What else can I do? My whole stock consists of this experience.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "نخستین کیف او را آزمودم\nدگر بر خاوران قسمت نمودم",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلے میں اس کے کیف کو خود آزماتا ہوں ، پھر اسے اہل مشرق کی نظر کرتا ہوں،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "First I tasted the fruit of this experience myself, then I decided to share it with the people of the East.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "اگر این نامہ را جبریل خواند\nچو گرد آن نور ناب از خود فشاند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اس تحریر کو جبریل (علیہ) پڑھ لیتے، تو نور کو گرد کی طرح اپنے پروں سے جھاڑ دیتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Gabriel were to go through this book, he would cast aside the pure [Divine] Light as if it were dust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بنالد از مقام و منزل خویش\nبہ یزدان گوید از حال دل خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنے مقام و منزل (پر نازاں ہونے کی بجائے) فریاد کرتے اور اپنے دل کا حال اللہ تعالے سے یوں بیان کرتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He would bewail about his [low] station, and relate to God the condition of his heart:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "تجلی را چنان عریان نخواہم\nنخواھم جز غم پنہان نخواہم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تجلّی کو اتنا بے حجاب نہیں دیکھنا چاہتا ، میں (ہجر کے) غم پنہاں کے سوائے اور کچھ نہیں چاہتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘I no longer desire unveiled Epiphany; I desire nothing but hidden heart-sore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "گذشم از وصال جاودانی\nکہ بینم لذت آہ و فغانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں وصل مدام سے دستبردار ہوتا ہوں تاکہ لذت آہ و فغاں پاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am ready to forego eternal union, for now I realize what sweetness is in lamentation!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "مرا ناز و نیاز آدمی دہ\nبہ جان من گداز آدمی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے آدم کا ناز و نیاز عطا ہو، میری جان کو آدم کا سوز و گداز ملے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Give me the pride and submissiveness of man, give unto my heart burning and consuming of man.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

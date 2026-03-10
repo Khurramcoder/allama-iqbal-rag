@@ -1,0 +1,96 @@
+{
+  "id": "71",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "باز این عالم دیرینہ جوان می بایست\nبرگ کاہش صفت کوہ گران می بایست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This ancient universe new youth must now rehearse, its trembling blade of grass huge mountains should surpass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کف خاکی کہ نگاہ ہمہ بین پیدا کرد\nدر ضمیرش جگر آلودہ فغان می بایست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The handful of poor clay that did a glance display all-viewing, in the brain must shape a cry of pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "این مہ و مھر کہن راہ بجائی نبرند\nانجم تازہ بہ تعمیر جہان می بایست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our aged moon and sun the course have never run; Fresh stars we must pursue to build the world anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر نگاری کہ مرا پیش نظر می آید\nخوش نگاریست ولی خوشتر از آن می بایست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each image of delight that dawns upon my sight is fair; yet fairer still the image that I will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گفت یزدان کہ چنین است و دگر ہیچ مگو\nگفت آدم کہ چنین است چنان می بایست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God said, ‘The world so lies, and say not otherwise’; said Adam, ‘So I see; but thus it ought to be!’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

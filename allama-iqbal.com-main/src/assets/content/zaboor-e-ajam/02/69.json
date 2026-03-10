@@ -1,0 +1,68 @@
+{
+  "id": "69",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہار آمد نگہ می غلطد اندر آتش لالہ\nہزاران نالہ خیزد از دل پرکالہ پرکالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہار آ چکی ہے اور نگاہ آتش لالہ میں غلطاں ہو رہی ہے؛ (میرے) دل لخت لخت سے ہزاروں نالے اٹھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Spring is come; bright glances dart in the tulip’s bowl of fire; thousand thousand sighs upspire from each several ember’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فشان یک جرعہ بر خاک چمن از بادۂ لعلی\nکہ از بیم خزان بیگانہ روید نرگس و لالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک چمن پر بادہ ء ارغواں کے چند قطرے ڈال؛ تاکہ نرگس و لالہ خزاں سے بے خوف ہو کر اگیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pour a stoup of ruby glow o’er the garden’s dusty bed; strange and shy, in autumn’s dread, tulip and narcissus grow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہان رنگ و بو دانی ولی دل چیست میدانی\nمہی کز حلقۂ آفاق سازد گرد خود ہالہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جہان رنگ و بو کو تو جانتا ہے، لیکن کیا تو یہ بھی جانتا ہے کہ دل کیا ہے، دل وہ چاند ہے جو حلقہ ء آفا‍ ق سے اپنا حالہ بناتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hue-and-scent world fills thine eyes; what the heart is, knowest thou? ’Tis a moon, that round its brow casts a halo of the skies.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

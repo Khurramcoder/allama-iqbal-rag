@@ -1,0 +1,34 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درین گلشن پریشان مثل بویم\nنمیدانم چہ میخواھم چہ جویم\nبرآید آرزو یا بر نیاید\nشہید سوز و ساز آرزویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس باغ (دنیا ) میں خوشبو کی مانند پریشان ہوں؛ مجھے معلوم نہیں میں کیا چاہتا ہوں، کسے تلاش کر رہا ہوں۔ \nمیری آرزو پوری ہو یا نہ ہو؛ مگر آرزو کے سوز و ساز پر مرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A spent scent in the garden I suspire, I know not what I seek, what I require. \nBut be my passion satisfied, or no, yet here I burn, a martyr to desire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

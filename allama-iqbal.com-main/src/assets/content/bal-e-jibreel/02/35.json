@@ -1,0 +1,113 @@
+{
+  "id": "35",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مجھے آہ و فغان نیم شب کا پھر پیام آیا \nتھم اے رہرو کہ شاید پھر کوئی مشکل مقام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Once more I feel the urge to wail and weep at dead of night: O traveller, stop a bit, perchance I face some awful site.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ذرا تقدیر کی گہرائیوں میں ڈوب جا تو بھی \nکہ اس جنگاہ سے میں بن کے تیغ بے نیام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Awhile in dark abyss of Fate dive and see beneath: Out of this battlefield I come like sword out of the sheath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ مصرع لکھ دیا کس شوخ نے محراب مسجد پر \nیہ ناداں گر گئے سجدوں میں جب وقت قیام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This verse some man with witty mind on niche of mosque did write: ‘These fools fell prostrate on the earth, when it was time to fight’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چل، اے میری غریبی کا تماشا دیکھنے والے \nوہ محفل اٹھ گئی جس دم تو مجھ تک دور جام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O man, who at my misery scoff, follow the road you tread: When the cup to me was passed, the gathering all had fled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دیا اقبال نے ہندی مسلمانوں کو سوز اپنا \nیہ اک مرد تن آساں تھا، تن آسانوں کے کام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal his glow to Muslims lent, who in India dwell: An easy-going man he was and served the sluggards well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اسی اقبال کی میں جستجو کرتا رہا برسوں \nبڑی مدت کے بعد آخر وہ شاہیں زیر دام آیا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To find Iqbal for years on end I did chafe and fret: By effort great that kingly hawk has come within my net.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

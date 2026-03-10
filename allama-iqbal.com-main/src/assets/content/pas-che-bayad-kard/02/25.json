@@ -1,0 +1,409 @@
+{
+  "id": "22",
+  "name": "غزل",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "از دیر مغان آیم بی گردش صہباست\nدر منزل لا بودم از بادہ الا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": " میں پیر مغاں کے دیر (میخانے) سے شراب پئے بغیر ہی بحالت مستی آرہا ہوں۔ میں ”لا“ کی منزل میں ال کی شراب سے مست رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Az I come from the temple of Magians intoxicated with the passing of wine. I was inebriate with the wine of Illa (Affirmation) in the state of La (Negation).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دانم کہ نگاہ او ظرف ہمہ کس بیند\nکرد است مرا ساقی از عشوہ و ایما مست",
+              "lang": "Original"
+            },
+            {
+              "_content": " مجھے معلوم ہے کہ اس کی نگاہ ہر ایک کا ظرف دیکھ لیتی ہے۔ (چنانچہ) ساقی نے مجھے اپنے ناز و ادا ہی سے مست کر دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I know his eyes perceives the capacity of every person, the saqi has made me ecstatic by his blandishment and beckoning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "وقت است کہ بگشایم میخانۂ رومی باز\nپیران حرم دیدم در صحن کلیسا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب وقت آگیا ہے کہ میں مولانا روم کا میخانہ پھر سے کھول دوں۔ میں نے پیران حرم کو کلیسا کے صحن میں مست دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is time I should again open the tavern of Rumi.I have seen the custodian of the Harem intoxicated in the churchyard.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "این کار حکیمی نیست دامان کلیمی گیر\nصد بندۂ ساحل مست یک بندہ دریا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یے کسی فلسفی (دانش مند ) کا کام نہیں ہے اس کے لئے کسی کلیم کا دامن تھام۔ ( کیونکہ ) ساحل پر عالم کیف میں ڈوبے ہوئے سومستوں کے مقابلے میں ایک دریا مت کہیں افضل ہے۔ (بہتر ہے جو ساحل پر مگن بیٹھے )",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is not the work of a philosopher, catch hold of the hem of a Moses, who conversed with God. A hundred persons enrapt with the shore and but one tipsy with the river.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "دل را بہ چمن بردم از باد چمن افسرد\nمیرد بخیابانہا این لالۂ صحرا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے دل کو چن میں لے گیا ( وہ کھلنے کی بجائے الٹا باغ کی ہوا سے افسردہ ہو گیا۔ صحرا میں مست رہنے والا یہ لالہ (میرادل) پھلواڑیوں میں مرجھا کے رہ جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I took my heart to the garden where it became numb with the breeze it dies in a park, this tulip stimulated by the desert.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "از حرف دلاویزش اسرار حرم پیدا\nدی کافرکی دیدم در وادی بطحا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی دل آویز آواز سے خرم کے اسرار ظاہر ہو رہے تھے۔ کل میں نے بطحا کی وادی میں ایک کا فر کو بے خودی کے عالم میں دیکھا (اپنے متعلق کہہ رہے ہیں)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his delightful words, the secrets of the Harem shine out. I saw a mini-infidel yesterday intoxicated in the valley of Bat’ha;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "سینا است کہ فاران است یارب چہ مقام است این\nہر ذرہ خاک من چشمی است تماشا مست",
+              "lang": "Original"
+            },
+            {
+              "_content": " یہ وادی سینا ہے یا فاران کی دادی، یارب یہ کونسی جگہ ہے کہ میری خاک بدن کا ہر ذرہ آنکھ بن کر مست تماشا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Is this Sinai or Faran? O God, what is this place? Each particle of my dust is an eye lost in beholding.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "خرقۂ آن \"برزخ لایبغیان\"\nدیدمش در نکتۂ \"لی خرقتان\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جو برزخ لا بیخیان کی گدڑی ہے اسے میں نے لی فرقاں کے نکتہ ( عمل صورت) میں دیکھا۔ (میں نے آئینہ شریف دو ملے ہوئے دریا جو الگ الگ رہتے میں“ کی تشریح دیکھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The garment of that Interstise that cannot be crossed; I behold in his saying: For me two garbs: Continence and Jihad.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دین او آئین او تفسیر کل\nدر جبین او خط تقدیر کل",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور کا دین حضور کا آئین ہر چیز کی تفسیر و تشریح ہے اور حضور کی پیشانی پر پوری تقدیر کی لکیر موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both his Faith and system expositions of the whole; on his forehead inscribed the destiny of all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "عقل را او صاحب اسرار کرد\nعشق را او تیغ جوھر دار کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور نے عقل کو صاحب اسرار بنا دیا۔ عشق کو حضور نے زبر دست کاٹ والی تلوار بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect made him knower of secrets and love a matchless sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "کاروان شوق را او منزل است\nما ہمہ یک مشت خاکیم او دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کے قافلے کے لئے حضور کی ذات گرامی ایک منزل کی حیثیت رکھتی ہے۔ ہم سب ایک مٹھی خاک ہیں ۔ اور آپ حضور دل ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is the destination of the caravan of ardour, we are but a pinch of dust and he the heart thereof.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "آشکارا دیدنش اسرای ماست\nدر ضمیرش مسجد اقصای ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور گو آشکارا دیکھنا زیارت) ہماری معراج ہے۔ آپ ہی کے ضمیر میں ہماری مسجد اقصیٰ ہے۔ (مسجد اقصیٰ ہی سے معراج کا سفر شروع ہوا تھا)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To see his outside is our Asra, and in his inner self is our Aqsa.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "آمد از پیراہن او بوی او\nداد ما را نعرہ اﷲ ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور کے لباس سے حضور کی خوشبو آتی ہے۔ حضور نے ہمیں اللہ ہو کا نعرہ عطا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From his garment I sensed his perfume; he gave us the shout of Allah-hu.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "با دل من شوق بی پروا چہ کرد\nبادۂ پر زور با مینا چہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے پر واعشق نے میرے دل کے ساتھ کیا کیا۔ تلخ ( تیز ) شراب نے صراحی کا کیا حال کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What did my reckless love do to my heart? Whatever tempestuous wine to the flask.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "رقصد اندر سینہ از زور جنون\nتا ز راہ دیدہ میآید برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "(میرادل) سینے میں جنون کی شدت سے رقص کرنے لگا۔ یہاں تک کہ وہ آنکھوں کے راستے باہر آنے لگا ( آنسوین کر پکنے لگا )",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It leapt in the breast because of wild rapture till it rushed out of the eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "گفت \"من جبریلم و نور مبین\"\nپیش ازین او را ندیدم اینچنین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس (دل) نے کہا میں جبرئیل ہوں اور نورمبین ( آشکارا نور ) ہوں۔ میں نے اس سے پہلے اسےاس حالت میں نہیں دیکھا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It said: I am Gabriel and radiant light; I never saw him like this before.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "شعر رومی خواند و خندید و گریست\nیا رب این دیوانۂ فرزانہ کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے رومی کا شعر پڑھا پھر وہ پہلے ہنس دیا اور بعد میں ) رو پڑا۔ یا الہی یہ ہوش مند دیوانہ کون ہے!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It recited lines from Rumi, laughed and wept, O God! Who is this Sage gone wild?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "در حرم با من سخن زندانہ گفت\nاز می و مغ زادہ و پیمانہ گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "حرم میں اس نے مجھ سے رندانہ باتیں کیں۔ اس نے شراب خوبصورت بچہ اور پیمانے کے بارے میں باتیں کیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It talked to me so volubly in the sanctuary, talking of wine, Magian pages and wine cups.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گفتمش این حرف بیباکانہ چیست\nلب فرو بند این مقام خامشی ست",
+              "lang": "Original"
+            },
+            {
+              "_content": " میں نے اس سے کہا کہ یہ کیسی بیبا کا نہ باتیں ہیں۔ ہونٹ بند کر لے، یہ تو خاموشی کا مقام ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I asked it what audacious words these be; close your lips for this is a solemn occasion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "من ز خون خویش پروردم ترا\nصاحب آہ سحر کردم ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے تجھے اپنے خون سے پالا ہے، تجھے صاحب آہ سحر بنایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have nurtured you with by blood and made you fit for raising a morning sigh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بازیاب این نکتہ را اے نکتہ رس\nعشق مردان ضبط احوال است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": " اے دانا اس گہری بات کو پھر سے سمجھ لے کہ مردوں کا عشق ضبط احوال ہی کا نام ہے اور بس۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Note again this point you who understand, the love of disciplined lovers is naught but restraint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "گفت عقل و ہوش آزار دل است\nمستی و وارفتگی کار دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے کہا عقل و ہوش تو دل کے لئے مصیبت ہیں جبکہ دل کا کام تو مستی دوار کی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It said: Reason and restraint are a blight for the heart, ecstasy and frenzy are its nature.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "نعرہ ہا زد تا فتاد اندر سجود\nشعلۂ آواز او بود او نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے نعرے لگائے، پھر سجد ہے میں گر گیا اس کی آواز کا شعلہ تھا، وہ خود نہیں تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It raised shouts upon shouts till it fell into prostration; there was only the flame of its voice but itself no more!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Chant",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

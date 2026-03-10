@@ -1,0 +1,425 @@
+{
+  "id": "03",
+  "name": "قصر شرف النسا",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "08",
+  "sectionName": "آن سوی افلاک",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گفتم این کاشانہ ئی از لعل ناب\nآنکہ میگیرد خراج از آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے رومی سے پوچھا یہ لعل ناب کا محل جو آفتاب سے بھی زیادہ چمک دمک رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘Yonder mansion of pure ruby which gathers tribute from the sun,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این مقام این منزل این کاخ بلند\nحوریان بر درگہش احرام بند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مقام، یہ منزل، یہ بلند محل جہاں حوریں موءدب کھڑی ہیں",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yon station, yon abode, yon lofty palace whose portico the houris throng pilgrim-robed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے تو دادی سالکان را جستجوے\nصاحب او کیست با من باز گوے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ رہرووں کو ذوق جستجو عطا کرتے ہیں ؛ مجھے بتائیے کہ اس کا مالک کون ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tell me, you who inspired the travellers to search, who is the owner of this habitation?’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت \"این کاشانۂ شرف النساست\nمرغ بامش با ملائک ہم نواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا 'یہ شرف النسا کا محل ہے، اس کے بام کے پرندے فرشتوں کے ہمنوا ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi replied: ‘This is the mansion of Sharaf al-Nisa; the birds on its roof sing in the angels’ choir.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "قلزم ما اینچنین گوہر نزاد\nہیچ مادر اینچنین دختر نزاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سمندر سے اس قسم کا کوئی اور موتی پیدا نہیں ہوا ، کسی ماں کی کوکھ سے ایسی بیٹی نے جنم نہیں لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our ocean gave not birth to such a pearl; no mother gave birth to such a daughter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خاک لاہور از مزارش آسمان\nکس نداند راز او را در جہان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مزار کی وجہ سے لاہور کی سر زمین نے آسمان کا رتبہ پایا ہے۔دنیا میں کوئی شخص اس کے راز کو نہیں سمجھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By her grave the earth of Lahore vies with heaven; none in this world comprehends her secret.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "آن سراپا ذوق و شوق و درد و داغ\nحاکم پنجاب را چشم و چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ خاتون سراپا ذوق و شوق اور درد و داغ تھی ، اس دور کے پنجاب کے گورنر کی بیٹی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She was all ecstasy and yearning, anguish and burning, eyes and lamp to the governor of Panjab;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آن فروغ دودۂ عبد الصمد\nفقر او نقشی کہ ماند تا ابد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس سے عبد الصمد کے خاندان کی عزت افزائی ہوئی؛ اس نے ایسا نقش چھوڑا جو ابد تک رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Radiance of the family of Abd al-Samad, her poverty is an image remaining eternally.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "تا ز قرآن پاک می سوزد وجود\nاز تلاوت یک نفس فارغ نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ اس کا وجود قرآن پاک سے سوز حاصل کرتا تھا ، وہ ہر لمحہ تلاوت میں مشغول رہتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To cleanse her being wholly with the Koran, not for one moment did she cease recitation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "در کمر تیغ دو رو، قرآن بدست\nتن بدن ہوش و حواس اﷲ مست",
+              "lang": "Original"
+            },
+            {
+              "_content": "کمر میں دو دھاری تلوار اور ہاتھ میں قرآن ، تن بدن ہوش و حواس اللہ مست۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At her side a double-edged sword, the Koran in her hand, flesh, body, mind and soul drunken with God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "خلوت و شمشیر و قرآن و نماز\nایخوش آن عمری کہ رفت اندر نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت، شمشیر، قرآن پاک اور نماز ، مبارک ہے وہ عمر جو اس طرح کی نیاز مندی میں گزر گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Solitude with sword, Koran and prayer – O happy life, passed in supplication!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "بر لب او چون دم آخر رسید\nسوی مادر دید و مشتاقانہ دید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس کے لبوں پر آخری سانس تھا تو اس نے اپنی والدہ کی طرف دیکھا اور مشتاقانہ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the last breath issued from her lips, looking upon her mother most yearningly",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "گفت اگر از راز من داری خبر\nسوی این شمشیر و این قرآن نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شرف النسا نے کہا اگر آپ میری زندگی کا راز جاننا چاہتی ہیں تو میری تلوار اور قرآن پاک پر نگاہ ڈالیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She spoke: \"If you would have knowledge of my secret, regard this sword and this Koran.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "این دو قوت حافظ یکدیگرند\nکائنات زندگے را محورند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دونوں قوّتیں ایک دوسری کی حفاظت کرتی ہیں، زندگی کی کائنات انہی دو کے گرد گھومتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These two forces preserve each the other and are the axis of all life’s creation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "اندرین عالم کہ میرد ہر نفس\nدخترت را ایندو محرم بود و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس جہان میں جہاں ہر شخص پر موت آتی ہے، یہ دو چیزیں تیری بیٹی کی محرم تھیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world, which dies every moment, only these two were your daughter’s intimates.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "وقت رخصت با تو دارم این سخن\nتیغ و قرآن را جدا از من مکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اب آخری وقت آپ سے یہی گذارش ہے کہ تیغ و قرآن کو مجھ سے جدا نہ کیجئے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now that I take my leave I have this to say to you: do not remove the sword and the Koran from me.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "دل بہ آن حرفی کہ میگویم بنہ\nقبر من بے گنبد و قندیل بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری بات کو حرز جان بنا لیں؛ میری قبر گنبد و قندیل کے بغیر اچھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Take to your heart these words I speak; better my tomb without dome and lamp;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "مومنان را تیغ با قرآن بس است\nتربت ما را ہمین سامان بس است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کے لیے قرآن کے ساتھ تلوار کافی ہے؛ ہماری تربت کے لیے بھی یہی سامان بہت ہے۔مومنوں",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For believers, sword and Koran suffice – let this be the furniture of my grave.\"",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "عمر ہا در زیر این زرین قباب\nبر مزارش بود شمشیر و کتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس زرّیں قبے کے نبچے برسوں اس کے مزار پر شمشیر و قرآن رکھے رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For long ages, beneath this golden dome, the sword and the scriptures lay upon her shrine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "مرقدش اندر جہان بے ثبات\nاہل حق را داد پیغام حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اور اس طرح اس جہان بے ثبات کے اندر اس کا مرقد اہل حق کو زندگی کا پیغام دیتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her resting-place, in this inconstant world, spoke a message to the people of the Truth",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "تا مسلمان کرد با خود آنچہ کرد\nگردش دوران بساطش در نورد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہانتک کہ مسلمانوں نے اپنے ساتھ کیا جو کچھ کیا؛ اور گردش دوراں نے ان کی بساط لپیٹ دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Until the Moslems did with themselves what they did and time’s revolution rolled up their carpet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "مرد حق از غیر حق اندیشہ کرد\nشیر مولا روبہی را پیشہ کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "سے ڈرنے لگے؛ شیر مولا نے لومڑی کا پیشہ اختیار کر لیا۔اللہ تعالے کے بندے غیر اللہ",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man of God was mindful of other than God; the lion of the Lord took to the trade of the fox;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "از دلش تاب و تب سیماب رفت\nخود بدانی آنچہ بر پنجاب رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "مسلمان کے دل سے سیماب کی آب و تاب و اضطراب جاتا رہا ، تو خود جانتا ہے پھر پنجاب پر کیا گزری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The quicksilver fire and fever departed from his heart – you know well what befell Panjab;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "خالصہ شمشیر و قرآن را ببرد\nاندر آن کشور مسلمانی بمرد\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکھ اس کے مرقد پر سے قرآن پاک اور شمشیر اٹھا کر لے گئے اور پنجاب میں مسلمانی ختم ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Khalsa snatched away sword and Koran and in that land Islam expired.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Palace Of Sharaf Al-Nisa"
+}

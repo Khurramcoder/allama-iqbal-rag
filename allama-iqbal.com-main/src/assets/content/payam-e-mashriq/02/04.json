@@ -1,0 +1,660 @@
+{
+  "id": "04",
+  "name": "تسخیر فطرت",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "میلاد آدم",
+      "name-en": "The Birth of Man",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نعرہ زد عشق کہ خونین جگری پیدا شد\nحسن لرزید کہ صاحب نظری پیدا شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے نعرہ بلند کیا کہ ایک خونیں جگر پیدا ہو گیا ہے، حسن شرما گیا کہ صاحب نظر آ پہنچا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Here’s one with a bleeding heart’, rang abroad Love’s joyous cry. Beauty trembled and said, ‘Look! Here’s one with a seeing eye.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "فطرت آشفت کہ از خاک جہان مجبور\nخود گری خود شکنی خود نگری پیدا شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فطرت چیں بچیں ہوئی کہ (اس) جہان مجبور کی خاک سے ایسی با اختیار ہستی وجود میں آئی جو اپنے آپ کا شعور رکھتی ہے، جو اپنے آپ کو توڑ کر نئے سرے سے بنا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nature was surprised to see from its passive dust appear, all of a sudden, one who was of himself maker. breaker, seer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خبری رفت ز گردون بہ شبستان ازل\nحذر اے پردگیان پردہ دری پیدا شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آسمان سے شبستان ازل تک یہ خبر پہنچی ، پردوں میں رہنے والو ! ہوشیار ہو جاؤ ! پردے چاک کر دینے والا آ موجود ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whispers traveled all the way from Eden to Night’s dark abode: ‘Look out, veiled ones; here comes one who will tear up every shroud.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آرزو بیخبر از خویش بہ آغوش حیات\nچشم وا کرد و جھان دگری پیدا شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آرزو جو آغوش حیات میں اپنے آپ سے بے خبر (سوئی) تھی، اس نے آنکھ کھولی اور ایک نیا جہان وجود میں آ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not yet self-aware, desire lay curled up in Being’s lap. Opening its eyes, it saw before it a new world unwrap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "زندگی گفت کہ در خاک تپیدم ہمہ عمر\nتا ازین گنبد دیرینہ دری پیدا شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی نے کہا: میں ساری عمر خاک میں تڑپتی رہی ، تب کہیں جا کر اس پرانے گنبد (آسمان) سے راستہ پیدا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life exclaimed, ‘O happy day! I writhed in dust aeon after aeon. Now has opened at long last a door out of this ancient prison.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "انکار ابلیس",
+      "name-en": "Satan’s Refusal",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نوری نادان نیم سجدہ بہ آدم برم\nاو بہ نہاد است خاک من بہ نژاد آذرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بیوقوف فرشتہ نہیں ہوں کہ آدم کو سجدہ کروں ، وہ خاکی نہاد ہے اور میں پیدائش کے لحاظ سے آذر (آتشیں ) ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am no creature of mere light that I should bow to man. He is a base-born thing of dust, and I am of fire born.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "می تپد از سوز من خون رگ کائنات\nمن بہ دو صرصرم من بہ غو تندرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے سوز سے کائنات کی رگوں میں خون جوش مارتا ہے، میرے اندر باد صرصر کی تیزی اور طوفان کی کڑک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The blood in the veins of the world is lit up by my flame. The tearing speed of wind is mine, and mine is thunder’s boom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "رابطۂ سالمات ضابطۂ امہات\nسوزم و سازی دھم آتش مینا گرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایٹموں کی باہمی پیوستگی، قوموں کے قوانین، ان سب کو میں سوز دیتا ہوں ، میں وہ آگ ہوں جو (شراب کی) صراحی بناتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I forge the atoms’ harmony, the elements’ concourse. I burn, but also shape: I am the fire that makes the glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ساختۂ خویش را در شکنم ریز ریز\nتا ز غبار کہن، پیکر نو آورم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے بنائے ہوئے کو (خود ہی) توڑ کر ریزہ ریزہ کر دیتا ہوں ، تاکہ پرانی چیزوں کے غبار سے نیا پیکر بناؤں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The things I make I break to bits and scatter in the dust, in order to create new forms from fragments of those lost.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "از زو من موجۂ چرخ سکون ناپذیر\nنقش گر روزگار، تاب و تب جوہرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرخ گرداں میرے دریا کی ایک موج ہے، میں زمانے کے نقوش بناتا ہوں میں اس کے جوہر کو تاب و تب عطا کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This restlessly revolving sky is a wave of my sea; and in my throbbing substance dwells the shape of things to be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "پیکر انجم ز تو گردش انجم ز من\nجان بجھان اندرم، زندگی مضمرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ستاروں کے پیکر تو (اللہ تعالے) نے بنائے مگر ان کی گردش کا سبب میں ہوں، میں جہان کی جان ہوں ، میں اس کے اندر مضمر زندگی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The stars’ bodies were made by You; I am their motive force. I am the substances of the world. I am life’s primal source.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تو بہ بدن جان دہی، شور بجان من دھم\nتو بہ سکون رہ زنی، من بہ تپش رہبرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بدن کو جان عطا کرتا ہے، میں جان میں سوز پیدا کرتا ہوں ۔ تو سکون دے کر (آدم کے شوق سفر کی) رہزنی کرتا ہے، میں اسے تپش دے کر اس کی راہبری کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The body draws its soul from you. But I arouse the soul. While You waylay with blissful peace, I lead with action’s call.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "من ز تنک مایگان گدیہ نکردم سجود\nقاہر بی دوزخم، داور بی محشرم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے ان کم ظرفوں (فرشتوں) سے سجدہ کی بھیک نہیں مانگی، میں بغیر دوزخ کے قہر ، اور بغیر محشر کے منصف ہوں (ابلیس نے اللہ تعالے پر طنز کی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I never begged obedience of slaves who always pray. I rule without a hell: I judge without a Judgement Day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "آدم خاکی نہاد، دون نظر و کم سواد\nزاد در آغوش تو، پیر شود در برم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاکی سرشت آدم جو پست نظر اور کم حوصلہ ہے، یہ پیدا تو تمہارے آغوش میں ہوا ہے، مگر عمر رسیدہ میرے پہلو میں ہو گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That low-born creature of earth, man, of mean intelligence, though born in Your lap, will grow old under my vigilance.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "اغوای آدم",
+      "name-en": "The Temptation of Adam",
+      "Verse": [
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "زندگی سوز و ساز بہ ز سکون دوام\nفاختہ شاہین شود از تپش زیر دام",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکون دوام سے سوز و ساز کی زندگی بہتر ہے، جال کے اندر تڑپ کر فاختہ شاہین بن جاتی ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A life of struggle, strain and stress is better than eternal rest. When a dove strains hard at its net, an eagle’s heart beats in its breast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہیچ نیاید ز تو غیر سجود نیاز\nخیز چو سرو بلند، اے بعمل نرم گام",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہاں (بہشت میں) سوائے نیازمندانہ سجدوں کے تجھ سے اور کچھ بن نہیں پڑتا ، اے سست عمل! سرو بلند کی طرح اٹھ کھڑا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you are fit for nothing but abject obeisance like a slave. Like a tall cypress stand erect, O you who do not act but crave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "کوثر و تسنیم برد، از تو نشاط عمل\nگیر ز مینای تاک بادۂ آئینہ فام",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنت کی کوثر و تسنیم نے تیرے اندر سے سرگرم عمل ہونے کا لطف ختم کر دیا ہے، انگور کی صراحی سے آئینہ کی مانند شفاف شراب لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These streams of milk and honey have deprived you of the strength to act. Come take a hearty draught of wine from the cup of the vine direct.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "زشت و نکو زادۂ وہم خداوند تست\nلذت کردار گیر، گام بنہ، جوی کام",
+              "lang": "Original"
+            },
+            {
+              "_content": "برائی اور نیکی تیرے خدا کے وہم کی تخلیق ہے، عمل کی لذت سے آشنا ہم، قدم اٹھا ، کامیابی تلاش کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Good and evil, virtue and sin, are myths created by your Lord. Come taste the joy of action and go forth to seek your due reward.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "خیز کہ بنمایمت، مملکت تازہ ئی\nچشم جہان بین گشا، بہر تماشا خرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ! میں تجھے ایک نئی مملکت دکھاؤں، دنیا کو دیکھنے والی آنکھ کھول اور دنیا کے نظارے کے لیے یہاں سے نکل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise, for I will show to you the prospect of a whole new world. Unveil your eyes and look around; go forth and see it all unfurled.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "قطرۂ بی مایہ ئی گوھر تابندہ شو\nاز سر گردون بیفت، گیر بدریا مقام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بے قیمت قطرہ ہے، چمکدار موتی بن، آسمان (بہشت) سے نیچے آ، دریا میں مقام اختیار کر (قطرہ دریا میں گر کر موتی بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a tiny, worthless drop; become a shining, priceless pearl. Descend from Eden’s halcyon heights and plunge into the life-stream’s swirl.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "تیغ درخشندہ ئی، جان جہانی گسل\nجوھر خود رانما، آی برون از نیام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو چمکدار تلوار ہے، جہان کی جان نکال، نیام سے باہر آ، اپنے جوہر دکھلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are a brightly shining sword go dip into Creation’s heart. To prove your mettle issue forth and from your scabbard’s bosom part.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "بازوی شاہین گشا، خون تذروان بریز\nمرگ بود باز ار زیستن اندر کنام",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاہین کے (سے مضبوط) بازو کھول ، چڑیوں کا خون بہا، باز کے گھو نسلے میں بیٹھ رہنا زندگی نہیں ، موت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unfold your eagle-wings and soar and shed the blood of timid quails. O for an eagle it is death to live within its eyrie’ walls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "تو نشناسی ہنوز شوق بمیرد ز وصل\nچیست حیات دوام، سوختن ناتمام",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو ابھی نہیں سمجھتا ، (دائمی) وصال سے شوق کی موت ہے ، حیات دوام کیا ہے؟ محبت میں ہر وقت جلتے رہنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have not learnt this lesson yet; fulfilment dooms desire to death. You know what is eternal life? To burn anew with each new breath.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "آدم از بہشت بیرون آمدہ میگوید",
+      "name-en": "Adam Sings on His Exit from Paradise",
+      "name-ur": "آدم بہشت سے باہر نکل کر کہتا ہے۔",
+      "Verse": [
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "چہ خوشست زندگی را ہمہ سوز و ساز کردن\nدل کوہ و دشت و صحرا بدمی گداز کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ساری زند گی کو سوز و ساز بنا لینا کیا خوب ہے، کوہ و دشت و صحرا کے دل کو ایک لحظہ میں نرم کر دینا ، کیا بات ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O what a joy it is to make one’s life a constant, ardent glow! And with one’s breath make desert, hill and plain like molten metal flow!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ز قفس دری گشادن بہ فضای گلستانی\nرہ آسمان نوردن بہ ستارہ راز کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "قفس (بہشت) کا دروازہ کھول کر فضائے گلستان میں آ جانا، آسمان کا راستہ طے کرنا ، ستاروں سے راز و نیاز کی باتیں کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Open a door out of one’s cage onto the garden’s vast expanse! Roam in the spaces of the sky, and tell the stars one’s weal and woe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "بہ گداز ہای پنھان بہ نیاز ہای پیدا\nنظری ادا شناسی بحریم ناز کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "(دل کے) پنہاں سوز اور (بدن کی) ظاہری نیاز مندی (سجود) سے ، (اللہ تعالے کے) حریم ناز کو نظر ادا شناس سے دیکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With secret yearnings, open prayers, cast looks on Beauty’s seraglio!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "گہی جز یکی ندیدن بہ ھجوم لالہ زاری\nگہی خار نیش زن را بہ گل امتیاز کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی ہجوم لالہ زار (کثرت) میں سوائے وحدت کے اور کچھ نہ دیکھنا اور کبھی چبھنے والے کانٹے اور (نرم) پھول میں امتیاز کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At times to see a single flower in the riot of a whole field, at other times tell hurtful thorns from roses that in their midst blow!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "ہمہ سوز ناتمامم ہمہ درد آرزویم\nبگمان دھم یقین را کہ شہید جستجویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں سر تا پا سوز نا تمام ہوں، میں سر تا پا درد و آرزو ہوں، میں یقین دے کر گمان لیتا ہوں ، کیونکہ جستجو پر جان دیتا ہوں (نئی چیزوں کی دریافت، نئی ایجادات کا شوق رکھتا ہوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I burn in a slow-burning fire; I am an agonised desire. I give up faith for living doubt; I seek, I question, I aspire.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "صبح قیامت",
+      "name-en": "The Day of Judgement",
+      "Verse": [
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "آدم در حضور باری \n\nاے کہ ز خورشید تو کوکب جان مستنیر\nاز دلم افروختی شمع جہان ضریر",
+              "lang": "Original"
+            },
+            {
+              "_content": "قیامت کی صبح آدم اللہ تعالے کے حضور میں۔\nاے وہ ذات! جس کے خورشید سے ہماری روح کا ستارہ منوّر ہے ، آپ نے اس اندھے جہان (دنیا ) کی شمع میرے دل سے روشن کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Adam in God’s Presence.\nO You, who are the sun from whom the satellite of soul draws light, you have made of my heart a lamp that keeps Your whole Creation bright.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "ریخت ہنر ہای من بحر بیک نای آب\nتیشۂ من آورد از جگر خارہ شیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری ہنرمندیوں نے سمندر کو ایک نہر میں ڈال دیا، میرے تیشہ نے پہاڑ کے جگر سے دودھ کی نہر نکالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I took Your ocean and poured it into canals made by my art. My pickaxe rought forth streams of milk and honey from the mountain’s heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "زہرہ گرفتار من ماہ پرستار من\nعقل کلان کار من بہر جہان دار و گیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زہرہ میرا گرفتار ہے، چاند میرا پرستار ہے، میری مہم جو عقل نے دنیا کو اسیر کر لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Moon is my devoted slave, and Venus is my worshipper. My enterprising intellect has made me Nature’s conqueror.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "من بزمین در شدم من بفلک بر شدم\nبستۂ جادوی من ذرہ و مہر منیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں زمین کے اندر گیا، میں آسمان کے اوپر چڑھا، ذرہ (کم ضو) ہو یا چمکتا سورج ، سب میرے جادو میں بندھے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I delved into the depths of earth, and I soared the heights of the sky, the mighty sun and tiny motes are all thralls of my sorcery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "گرچہ فسونش مرا برد ز راہ صواب\nاز غلطم در گذر عذر گناھم پذیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ شیطان کا افسوں مجھے نیکی کی راہ سے دور لے گیا، میری غلطی معاف فرما دیجئے ، میرا عذر قبول کیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I was deflected from the path of virtue by the Devil’s fraud. Forgive my error and accept my humble penitence, O God:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "رام نگردد جہان تا نہ فسونش خوریم\nجز بہ کمند نیاز ناز نگردد اسیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک دنیا کے فسوں میں نہ آئیں ، یہ رام نہیں ہوتی، ناز کو صرف کمند نیاز ہی سے اسیر کیا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One cannot subjugate the world unless one yields to its allure; for Beauty’s wild pride is not tamed until it falls into Love’s snare.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "تا شود از آہ گرم این بت سنگین گداز\nبستن زنار او بود مرا ناگزیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بت سنگین (دنیا) کو اپنی آہ گرم سے گداز کرنے کے لیے، اس کا زنّار باندھنا (اس کا قیدی ہونا) میرے لیے ناگزیر تھا ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In order to melt the heart of this stone god with a fervid sigh, I had to wear his sacred thread as proof of my idolatry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "عقل بدام آورد فطرت چالاک را\nاہرمن شعلہ زاد سجدہ کند خاک را",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری عقل (ابلیس کی ) فطرت چالاک کو دام میں لے آئی، آپ نے ملاحظہ فرمایا کہ شعلہ زاد ابلیس نے (بالآخر ) خاکی (آدم) کو سجدہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though Nature is ingenious, yet to intellect it falls a prey, and Ahriman, the fireborn god, kneels down and worships mortal clay.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "name-en": "The Conquest Of Nature",
+  "credits": "English Translation by: M Hadi Hussain"
+}

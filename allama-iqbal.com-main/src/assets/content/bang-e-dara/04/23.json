@@ -1,0 +1,67 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "محنت و سرمایہ دنیا میں صف آرا ہو گئے \nدیکھے ہوتا ہے کس کس کی تمنائوں کا خون",
+              "lang": "Original"
+            },
+            {
+              "_content": "صف آرا: صفیں باندھ کر کھڑے ہو گئے ؛ اشارہ ہے سرمایہ داری اور اشتراکی نظام کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Capital and labour are in confrontation with each other: Let us see how many people’s expectations are destroyed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حکمت و تدبیر سے یہ فتنہ آشوب خیز \nٹل نہیں سکتا، وقد کنتم بہ تستعجلون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال قرآنی آیہ سے یہ مفہوم پیدا کرتے ہیں کہ اس کا تو علم نہیں کہ ان دونوں کے مابین جو جنگ ہو گی اس میں کون جیتے گا اور کون ہارے گا البتہ یہ طے ہے کہ اس جنگ میں دونوں طاقتوں کی بہت سی تمناؤں کا خون ہو جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With cleverness and prudence this mischief cannot be delayed because ‘Wa qad kuntum behi tasta‘ajiloon’. \n* Allusion to the Holy Qur’an 10: 51.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کھل گئے، یاجوج اور ماجوج کے لشکر تمام \nچشم مسلم دیکھ لے تفسیر حرف ینسلون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gog and Magog all have been released; the Muslim eye will see the meaning of Yansiloon.*\n* Allusion to the Holy Qur’an 21: 96.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

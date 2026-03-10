@@ -1,0 +1,69 @@
+{
+  "id": "02",
+  "name": "دعا",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ایکہ از خمخانہ فطرت بجامم ریختی\nز آتش صہبای من بگداز مینای مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ ذات! جس نے خم خانہ ء فطرت سے میرے جام میں (وافر شراب) اونڈیل دی، میری شراب کی آگ سے میری مینا (قلب) کو پگھلا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O You who filled my glass with wine galore from Nature’s own wine-store, see to it that my glass is melted by this fire sent from Your sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق را سرمایہ ساز از گرمی فریاد من\nشعلۂ بیباک گردان خاک سینای مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری فریاد کی گرمی کو عشق کا سرمایہ بنا، میری خاک سینا کا شعلہ ء بے باک میں تبدیل کر دے۔ (موسی (علیہ) نے صحرائے سینا میں جلوہ ء نور دیکھا تھا۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O let my spirited lament provide Love with its wealth of pride. Would that the dust of my Sinai became an all-consuming flame!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چون بمیرم از غبار من چراغ لالہ ساز\nتازہ کن داغ مرا سوزان بصحرای مرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں مر جاؤں تو میرے غبار سے گل لالہ کا چراغ بنا؛ (یوں) میرے داغ کو (موت کے بعد) تازہ کر کے مجھے صحرا میں سوزاں رکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I die, let my ashes form a bed where tulips will be bred, so that my passion’s wounds, revived, may shine in tulips’ hearts again.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Prayer",
+  "credits": "English Translation by: M. Hadi Husain"
+}

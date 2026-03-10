@@ -1,0 +1,152 @@
+{
+  "id": "54",
+  "name": "مسلمان اور تعلیم جدید",
+  "name-en": "Muslims and Modern Education",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "تضمين بر شعر ملک قمی",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مرشد کی یہ تعلیم تھی اے مسلم شوریدہ سر \nلازم ہے رہرو کے لیے دنیا میں سامان سفر",
+              "lang": "Original"
+            },
+            {
+              "_content": "شوريدہ سر: دیوانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The preceptor’s teaching was, O foolish Muslim! ‘Necessary preparations are incumbent on the traveler.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بدلی زمانے کی ہوا، ایسا تغیر آگیا \nتھے جو گراں قمیت کبھی، اب ہیں متاع کس مخر",
+              "lang": "Original"
+            },
+            {
+              "_content": "متاع کس مخر: ایسا مال جسے کوئی نہ خریدے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world’s ways have changed, such changes have come that those who were invaluable once are not even saleable now.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ شعلہ روشن ترا ظلمت گریزاں جس سے تھی \nگھٹ کر ہوا مثل شرر تارے سے بھی کم نور تر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That bright flame of yours from which darkness escaped now is reduced to a spark, less bright than stars.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شیدائی غائب نہ رہ، دیوانہء موجود ہو \nغالب ہے اب اقوام پر معبود حاضر کا اثر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ديوانہء موجود: موجودہ چیز کا دیوانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cease to be the Invisible’s Lover, be the visible’s lover; now influence of the visible God is triumphant over nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ممکن نہیں اس باغ میں کوشش ہو بار آور تری \nفرسودہ ہے پھندا ترا، زیرک ہے مرغ تیز پر",
+              "lang": "Original"
+            },
+            {
+              "_content": "زيرک: ہوشیار، چالاک۔\nفرسودہ: پرانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this garden success for your efforts is not possible; your snare is worn out and the fast-flying bird is clever.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اس دور میں تعلیم ہے امراض ملت کی دوا \nہے خون فاسد کے لیے تعلیم مثل نیشتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "خون فاسد: گندہ خون۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this age education is the cure for nations’ maladies: Education is like a lancet for the diseased blood.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "رہبر کے ایما سے ہوا تعلیم کا سودا مجھے \nواجب ہے صحرا گرد پر تعمیل فرمان خضر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By the leader’s suggestions love of education developed in me. Obeying the command of Khizar is incumbent on the wanderer of the wilderness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "لیکن نگاہ نکتہ بیں دیکھے زبوں بختی مری \nرفتم کہ خار از پا کشم،محمل نہاں شد از نظر\n\nیک لحظ غافل گشتم و صد سالہ را ہم دور شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنے پاؤں سے کانٹا نکالنے لگا اور اتنی دیر میں محمل نظر سے اوجھل ہو گیا؛ ایک لمحہ کی غفلت میں سینکڑوں سال پیچھے رہ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the discerning eye should see my misfortune: ‘Went to pull thorn from foot, the litter disappeared from the sight; I was negligent for a moment it moved by a hundered years.’ \n(This is the climax and the raison d`etre of this poem. It means that the apparently slight error of the Muslim Ummah in obtaining and accepting Western education uncritically has resulted in its doom.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

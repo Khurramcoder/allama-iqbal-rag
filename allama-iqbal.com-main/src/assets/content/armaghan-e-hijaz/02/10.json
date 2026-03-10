@@ -1,0 +1,31 @@
+{
+  "id": "10",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہ کر ذکر فراق و آشنائی\nکہ اصل زندگی ہے خود نمائی\nنہ دریا کا زیاں ہے، نے گہر کا\nدل دریا سے گوہر کی جدائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Talk not of friendship and partings, so the real life lies in the Ego’s show. \nNo loss, their lies, of river and pearls, if the pearl parts with the river’s whirl.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

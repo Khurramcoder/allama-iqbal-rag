@@ -1,0 +1,35 @@
+{
+  "id": "41",
+  "name": "رقص و موسیقی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شعر سے روشن ہے جان جبرئیل و اہرمن \nرقص و موسیقی سے ہے سوز و سرور انجمن \nفاش یوں کرتا ہے اک چینی حکیم اسرار فن \nشعر گویا روح موسیقی ہے، رقص اس کا بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہرمن: شیطان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The souls of Satan and Gabriel too from verse derive effulgence strong, for dance and music both provide pathos and rapture for the throng.\nA Chinese Sage has thus disclosed the secrets implied in this art: ‘As if verse is music's soul and dance performs body's part.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Dance And Music",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

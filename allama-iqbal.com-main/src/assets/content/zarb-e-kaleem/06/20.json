@@ -1,0 +1,98 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فطرت کے مقاصد کی کرتا ہے نگہبانی \nیا بندہ صحرائی یا مرد کہستانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One who resides in desert waste or person born on mountains steep can keep a watch on aims and ends that Nature in its view does keep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دنیا میں محاسب ہے تہذیب فسوں گر کا \nہے اس کی فقیری میں سرمایہ سلطانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He draws no line 'twixt fair and foul of culture, whose spell makes you sleep his Faqr possesses the wealth of kings, who coffers full of God do as keep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یہ حسن و لطافت کیوں ؟ وہ قوت و شوکت کیوں \nبلبل چمنستانی، شہباز بیابانی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O warbler of this earthly mead, why are your songs so sweet and fair wherefore, desert hawk, you own, such grandeur great and daring rare?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے شیخ ! بہت اچھی مکتب کی فضا، لیکن \nبنتی ہے بیاباں میں فاروقی و سلمانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Shaikh, no doubt, the climate of your school is so much pure and chaste but men, like Salman and Farooq, are brought up in some desert waste.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "صدیوں میں کہیں پیدا ہوتا ہے حریف اس کا \nتلوار ہے تیزی میں صہبائے مسلمانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صہبائے مسلمانی: اسلام کی شراب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fire that Muslim Faith bestows is as sharp as the sword of steel, but after thousand years is born its match, who mighty blows can deal.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

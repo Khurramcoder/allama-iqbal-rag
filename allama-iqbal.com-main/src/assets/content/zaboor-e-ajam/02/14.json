@@ -1,0 +1,97 @@
+{
+  "id": "14",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خضر وقت از خلوت دشت حجاز آید برون\nکاروان زین وادی دور و دراز آید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of Hijaz and the lonely plain the Guide of the Time is come, back from the far, far vale again the Caravan hastens home.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "من بہ سیمای غلامان فر سلطان دیدہ ام\nشعلۂ محمود از خاک ایاز آید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lo, on the brow of the slaves I see the Sultan’s splendour bright, the dust of Ayaz shines radiantly with Mahmud’s torch alight.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عمر ہا در کعبہ و بتخانہ می نالد حیات\nتا ز بزم عشق یک دانای راز آید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Ka‘bah and Temple long, long years the deep lament arose, till from Love’s banquet now appears one Man who the Secret knows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "طرح نو می افکند اندر ضمیر کائنات\nنالہ ہا کز سینۂ اھل نیاز آید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sighs that out of the bosom break of a people at earnest prayer a brave and new foundation make in Life’s mind everywhere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چنگ را گیرید از دستم کہ کار از دست رفت\nنغمہ ام خون گشت و از رگہای ساز آید برون",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O take the trembling lute from me, for my hand can play no more; in streams of blood my melody from the heart of the harp doth pour.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

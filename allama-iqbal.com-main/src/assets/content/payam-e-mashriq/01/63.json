@@ -1,0 +1,33 @@
+{
+  "id": "63",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مگو از مدعای زندگانی\nترا بر شیوہ ہای او نگہ نیست\nمن از ذوق سفر آنگونہ مستم\nکہ منزل پیش من جز سنگ رہ نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak not about the Purpose of this life: Thou hast not sight to see its blandishments. \nI have such joy in traveling the road, except the stony way, no stage I sense.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

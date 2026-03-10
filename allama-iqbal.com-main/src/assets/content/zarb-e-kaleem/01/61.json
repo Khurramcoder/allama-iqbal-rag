@@ -1,0 +1,85 @@
+{
+  "id": "61",
+  "name": "آزادی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہے کس کی یہ جرات کہ مسلمان کو ٹوکے \nحریت افکار کی نعمت ہے خدا داد",
+              "lang": "Original"
+            },
+            {
+              "_content": "حريت افکار: خیالات کی آزادی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The right of thinking free, a Muslim owns, is gift or God which can't be checked by frowns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چاہے تو کرے کعبے کو آتش کدہ پارس \nچاہے تو کرے اس میں فرنگی صنم آباد",
+              "lang": "Original"
+            },
+            {
+              "_content": "آتش کدہ پارس: اہل فارس کا آتش کدہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He can transform the Shrine to Magian fane, can deck the Shrine with Frankish idols vain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "قرآن کو بازیچہ تاویل بنا کر \nچاہے تو خود اک تازہ شریعت کرے ایجاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "بازيچہ: کھیل، بے معنی بچوں کا کھیل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Can make the Holy Book the sport or boys, and can with ease devise new Faiths like toys.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے مملکت ہند میں اک طرفہ تماشا \nاسلام ہے محبوس، مسلمان ہے آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In India queer and odd the farce you see, the Faith is captive, but the Muslims free.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Freedom",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

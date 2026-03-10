@@ -1,0 +1,97 @@
+{
+  "id": "35",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگی در صدف خویش گہر ساختن است\nدر دل شعلہ فرو رفتن و نگداختن است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is this life? A pearl in thy own shell to bear, in the flame’s heart to hurl thyself, nor melt to air.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق ازین گنبد در بستہ برون تاختن است\nشیشۂ ماہ ز طاق فلک انداختن است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is with speed to pass out of this shuttered sphere, to cast the moon’s bright glass high over heaven clear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سلطنت نقد دل و دین ز کف انداختن است\nبہ یکی داد جہان بردن و جان باختن است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Power is from hand to fling the cash of heart and faith: To rule the world, a king, and brave the chance of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حکمت و فلسفہ را ہمت مردی باید\nتیغ اندیشہ بروی دو جہان آختن است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Philosophy is taught by manly zeal alone, to whet the blade of thought upon the world for stone.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مذہب زندہ دلان خواب پریشانی نیست\nاز ہمین خاک جہان دگری ساختن است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The living spirit’s trust is no disordered dream, but of this scattered dust to build a braver scheme.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry."
+}

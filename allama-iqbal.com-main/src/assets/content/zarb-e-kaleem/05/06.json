@@ -1,0 +1,67 @@
+{
+  "id": "06",
+  "name": "یورپ اور یہود",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ عیش فراواں، یہ حکومت، یہ تجارت \nدل سینہ بے نور میں محروم تسلی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unbridled luxury, state pomp and pride, rich commerce; but to dwell inside that lampless breast all tranquil thoughts refuse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاریک ہے افرنگ مشینوں کے دھویں سے \nیہ وادی ایمن نہیں شایان تجلی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dark is the white man’s country with the grime of engines, no valley that might see splendour descending on a burning tree:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہے نزع کی حالت میں یہ تہذیب جواں مرگ \nشاید ہوں کلیسا کے یہودی متولی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "متولي: نگران، انتظام کرنے والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A civilization sick before its prime, at its least gasp; leaving maybe for caretakers of Christendom, the Jews.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Europe And Jews",
+  "credits": "English Translation by: V.G. Kiernan"
+}

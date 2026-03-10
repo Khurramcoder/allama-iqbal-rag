@@ -1,0 +1,85 @@
+{
+  "id": "04",
+  "name": "خلوت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رسوا کیا اس دور کو جلوت کی ہوس نے \nروشن ہے نگہ، آئنہ دل ہے مکدر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکدر: میلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Much greed for show and fame has put this age to shame: The glance is bright and clear, heart's mirror, but is blear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بڑھ جاتا ہے جب ذوق نظر اپنی حدوں سے \nہو جاتے ہیں افکار پراگندہ و ابتر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پراگندہ و ابتر: پریشان اور منتشر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When zeal and zest for sight exceed their greatest height, thoughts soar to highest point and soon are out of joint.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آغوش صدف جس کے نصیبوں میں نہیں ہے \nوہ قطرہ نیساں کبھی بنتا نہیں گوہر",
+              "lang": "Original"
+            },
+            {
+              "_content": "قطرہ نيساں: موسم بہار کی بارش کا قطرہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That vernal drop of rain the state of pearl can't gain, if destined not to dwell, in lap of mother shell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خلوت میں خودی ہوتی ہے خودگیر، و لیکن \nخلوت نہیں اب دیر و حرم میں بھی میسر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Retreat is blessed state 'bout Self gives knowledge-great Alas! This state divine, isn't found in fane or shrine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Solitude",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

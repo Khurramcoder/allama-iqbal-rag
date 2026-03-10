@@ -1,0 +1,81 @@
+{
+  "id": "47",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فروغ خاکیان از نوریان افزون شود روزی\nزمین از کوکب تقدیر ما گردون شود روزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Brighter shall shine men’s clay than angels’ light, one day; earth through our Destiny turn to a starry sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خیال ما کہ او را پرورش دادند طوفانہا\nز گرداب سپہر نیلگون بیرون شود روزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The fancies in our head that upon storms were fed one day shall soar, and clear the whirlpool of the sphere.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "یکی در معنی آدم نگر از من چہ می پرسی\nہنوز اندر طبیعت می خلد موزون شود روزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why askest thou of me? Consider Man, and see how, mind-developed still, sublime this subject will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چنان موزون شود این پیش پا افتادہ مضمونی\nکہ یزدان را دل از تأثیر او پر خون شود روزی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come fashioned forth, sublime. This common thought, in time, and with its beauty’s rapture even God’s heart shall capture.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

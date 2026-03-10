@@ -1,0 +1,33 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تری دنیا جہان مرغ و ماہی \nمری دنیا فغان صبح گاہی \nتری دنیا میں میں محکوم و مجبور \nمری دنیا میں تیری پادشاہی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thine is the world of birds and beasts, O Lord! And mine is the world of sighs by day and night;\nI am a shackled slave in this world of Thine, and Thou art the supreme ruler of my world.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

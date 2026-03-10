@@ -1,0 +1,34 @@
+{
+  "id": "19",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تہی از ہای و ہو میخانہ بودی\nگل ما از شرر بیگانہ بودی\nنبودی عشق و این ہنگامۂ عشق\nاگر دل چون خرد فرزانہ بودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ میخانہ (دنیا) (ہنگامہء) ہائے و ہو سے خالی ہوتا؛ ہماری خاک (بھی) شرر سے خالی ہے۔\nنہ یہاں عشق ہوتا، نہ اس کے ہنگامے؛ اگر دل بھی عقل کی مانند مصلحت اندیش ہوتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tavern were exempt of turbulence, no spark illumed our clay’s indifference.\nLove had not been, nor all the alarm of Love, if heart possessed the mind’s intelligence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

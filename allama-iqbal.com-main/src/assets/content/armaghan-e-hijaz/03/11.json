@@ -1,0 +1,100 @@
+{
+  "id": "11",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تمام عارف و عامی خودی سے بیگانہ\nکوئی بتائے یہ مسجد ہے یا کہ میخانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "عارف: خدا کی پہچان کرنے والا۔ \nعامی: عام لوگ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All mystics and common to self know not, is this mosque O’ Lord or pub of the sot.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ راز ہم سے چھپایا ہے میر واعظ نے\nکہ خود حرم ہے چراغ حرم کا پروانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میر واعظ: بڑا وعظ کرنے والا۔ \nچراغ حرم: حرم کا چراغ ؛ مراد ہے اللہ تعالے سے محبت کرنے والا مسلمان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The chief Waiz kept it out of our sight, that Harem is the moth of Harem’s light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "طلسم بے خبری، کافری و دیں داری\nحدیث شیخ و برہمن فسون و افسانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "فسون و افسانہ: خیالی کہانی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The charms of paganism or faith’s whole flame: The Sheikh and Pundit tales, the fiction’s game.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نصیب خطہ ہو یا رب وہ بندۂ درویش\nکہ جس کے فقر میں انداز ہوں کلیمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A boon for the land was the Dervish great, like Moses his faqr had all the fine traits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چھپے رہیں گے زمانے کی آنکھ سے کب تک\nگہر ہیں آب ولر کے تمام یک دانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ولر : کشمیر کی مشہور جھیل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long the world hides the gifts of his make, I mean the precious pearls of Wooler’s Lake.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

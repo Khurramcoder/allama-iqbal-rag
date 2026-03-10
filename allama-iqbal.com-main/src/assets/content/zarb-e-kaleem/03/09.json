@@ -1,0 +1,84 @@
+{
+  "id": "09",
+  "name": "عورت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "03",
+  "sectionName": "عورت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جوہر مرد عیاں ہوتا ہے بے منت غیر \nغیر کے ہاتھ میں ہے جوہر عورت کی نمود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man's worth is brought to light without aid from the rest, but woman's worth depends on others at its best.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "0",
+          "Text": [
+            {
+              "_content": "راز ہے اس کے تپ غم کا یہی نکتہ شوق \nآتشیں، لذت تخلیق سے ہے اس کا وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Her pain and fret for breed this joyful fact proclaims that procreation is her first and foremost aim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "0",
+          "Text": [
+            {
+              "_content": "کھلتے جاتے ہیں اسی آگ سے اسرار حیات \nگرم اسی آگ سے ہے معرکہ بود و نبود",
+              "lang": "Original"
+            },
+            {
+              "_content": "معرکہ بود و نبود: وجود اور عدم کا میدان جنگ۔ ، یعنی دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self-same fire reveals hid secrets of this life; this fire keeps aflame life and death's deadly strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "0",
+          "Text": [
+            {
+              "_content": "میں بھی مظلومی نسواں سے ہوں غم ناک بہت \nنہیں ممکن مگر اس عقدہ مشکل کی کشود!",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقدہ مشکل کي کشود: مشکل گرہ کو کھولنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The oppression of fair sex has cast me down a lot: I can not think of means that can resolve this knot.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Woman",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

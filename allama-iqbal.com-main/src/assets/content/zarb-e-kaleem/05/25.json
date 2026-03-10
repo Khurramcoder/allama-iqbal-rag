@@ -1,0 +1,83 @@
+{
+  "id": "25",
+  "name": "دام تہذیب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اقبال کو شک اس کی شرافت میں نہیں ہے \nہر ملت مظلوم کا یورپ ہے خریدار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal hasn't doubt of Europe's noble aim, to every oppressed nation lays a claim.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یہ پیر کلیسا کی کرامت ہے کہ اس نے \nبجلی کے چراغوں سے منور کیے افکار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Oh this wonder great has The Guide of Church wrought. By means of electric lamps has lit their thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جلتا ہے مگر شام و فلسطیں پہ مرا دل \nتدبیر سے کھلتا نہیں یہ عقدہ دشوار",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقدہ دشوار: مشکل گتھی یا سوال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart, is grieved for Syria and Palestine, no known device can e'er unknit this skein.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ترکان 'جفا پیشہ' کے پنجے سے نکل کر \nبیچارے ہیں تہذیب کے پھندے میں گرفتار",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of cruel Turkish hold they have got rid; in culture's snare they too soon have slid!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Culture's Snare",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

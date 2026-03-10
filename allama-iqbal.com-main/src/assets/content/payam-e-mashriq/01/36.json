@@ -1,0 +1,34 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اگر در مشت خاک تو نہادند\nدل صد پارۂ خونابہ باری\nز ابر نو بھاران گریہ آموز\nکہ از اشک تو روید لالہ زاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیری خاک کے اندر خون برسانے والا دل صد پارہ رکھ دیا گیا ہے۔\nتو ابر نو بہار سے رونا سیکھ تا کہ تیرے آنسو ؤں سے لالہ زار پیدا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If there were set within thy hand of dust a heart, a hundred fragments of warm blood;\nAnd of spring’s clouds if thou couldst learn to ween tulips shall blossom from thy sorrow’s flood.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

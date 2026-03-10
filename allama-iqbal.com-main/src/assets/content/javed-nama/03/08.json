@@ -1,0 +1,898 @@
+{
+  "id": "08",
+  "name": "حکمت خیرکثیر است",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "name-ur": "حکمت خیر کثیر ہے۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گفت حکمت را خدا خیر کثیر\nہر کجا این خیر را بینی بگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے نے حکمت کو خیر کثیر فرمایا ہے؛ جہاں کہیں تو اس خیر کو دیکھے اپنا لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God has declared, Wisdom is a great good; wherever you may see this good, seize it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "علم حرف و صوت را شہپر دہد\nپاکی گوہر بہ نا گوہر دھد",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم مصنف اور خطیب کو شہپر عطا کرتا ہے، اس سے معمولی شخصیت کو بھی اندرونی پاکیزگی حاصل ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science gives pinions to words and sounds, bestows purest substance on things without substance;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "علم را بر اوج افلاک است رہ\nتا ز چشم مہر بر کندد نگہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم کا راستہ افلاک کی بلندیوں تک پہنچتا ہے ؛ یہاں تک کہ وہ سورج کی آنکھ سے بھی نگاہ چھین لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science finds a way even to heaven’s zenith to pluck the sight out of the sun’s own eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نسخۂ او نسخۂ تفسیر کل\nبستۂ تدبیر او تقدیر کل",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم ساری موجودات کی تاثیر حاصل کرنے کا نسخہ ہے سب کی تقدیر اسی کی تدبیر کے ساتھ وابستہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its transcript is the commentary of the cosmos, the fate of the cosmos hangs upon its determining;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دشت را گوید حبابی دہ، دہد\nبحر را گوید سرابی دہ، دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر علم صحرا سے کہے کہ حباب دے تو وہ دے دیتا ہے؛ اگر وہ بحر سے کہے کہ سراب دکھا تو وہ دکھا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It says to the desert, ‘Bubble up!’ and it bubbles, to the sea, ‘Produce a mirage!’ and it produces it.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چشم او بر واردات کائنات\nتا ببیند محکمات کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم کی نظر کائنات کے بارے میں تجربات پر ہے؛ تاکہ وہ کائنات کے بنیادی اصول دیکھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its eye beholds all the events in creation that it may see the sure foundations of creation;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "دل اگر بندد بہ حق پیغمبری است\nور ز حق بیگانہ گردد کافری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل کو اگر اللہ تعالے سے لگایا جائے تو یہ پیغمبری ہے؛ اور یہ اگر اللہ تعالےسے بیگانہ رہے تو یہی کافری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If it attaches its heart to God, it is prophecy, but if it is a stranger to God, it is unbelief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "علم را بے سوز دل خوانی شر است\nنور او تاریکی بحر و بر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو علم کو سوز عشق کے بغیر پڑھے تو یہ شر ہے؛ ایسے علم کا نور بحر و بر کی تاریکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science without the heart’s glow is pure evil, for then its light is darkness over sea and land,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "عالمے از غاز او کور و کبود\nفرودینش برگ ریز ہست و بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس علم کے غازے سے دنیا اندھیر نگری بن جاتی ہے ؛ اس کی بہار شجر زندگی کے پتّے گرا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its rouge renders the whole world black and blind, its springtide scatters the leaves of all being,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بحر و دشت و کوہسار و باغ و راغ\nاز بم طیارۂ او داغ داغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "بحر، صحرا، کوہسار، باغ و راغ سب اس کے طیاروں کے بموں سے داغ داغ ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sea, plain and mountain, quiet garden and villa are ravaged by the bombs of its aeroplanes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "سینہ افرنگ را ناری ازوست\nلذت شبخون و یلغاری ازوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی علم نے فرنگیوں کے سینے میں آگ بڑھکائی ہے اور اسی سے انہیں شبخون اور یلغار کی عزت حاصل ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is its fire that burns the heart of Europe, from it springs the joy of raiding and robbing;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "سیر واژونی دھد ایام را\nمی برد سرمایۂ اقوام را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ علم زمانے کو پیچھے لے جاتا ہے؛ اور اقوام سے ان کا سرمایہ چھین لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It turns topsy-turvy the course of the days, despoils the peoples of their capital.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "قوتش ابلیس را یاری شود\nنور، نار از صحبت ناری شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس علم سے حاصل شدہ قوّت ابلیس کی مددگار بنتی ہے اور پھر نار یعنی ابلیس کی صحبت سے علم کا نور بھی نار بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its power becomes the faithful ally of Satan; light becomes fire by association with fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "کشتن ابلیس کاری مشکل است\nزانکہ او گم اندر اعماق دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابلیس کو مارنا مشکل کام ہے کیونکہ وہ نفس کی گہرائیوں میں گم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To slay Satan is indeed a difficult task, since he is hidden within the depths of the heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "خوشتر آن باشد مسلمانش کنی\nکشتۂ شمشیر قرآنش کنی",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہتر یہی ہے کہ تو اسے مسلمان کر لے؛ اور اسے قرآن کی تلوار سے قتل کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better is it to make him a true Mussulman, better to smite him dead with the sword of the Koran.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "از جلال بے جمالی الامان\nاز فراق بے وصالی الامان",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے علم کے جلال بے جمال سے خدا کی پناہ؛ اس کے بے وصال فراق سے خدا کی پناہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God save us from majesty that is without beauty, God save us from separation without union!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "علم بے عشق است از طاغوتیان\nعلم با عشق است از لاہوتیان",
+              "lang": "Original"
+            },
+            {
+              "_content": "بغیر عشق کے علم کا تعلق شیاطین سے ہے اور با عشق علم کا تعلق عارفین الہی سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science without love is a demonic thing, science together with love is a thing divine;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "بے محبت علم و حکمت مردہ ئی\nعقل تیری بر ہدف ناخوردہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق الہی کے بغیر علم و حکمت مردہ ہے اور عقل ایسا تیر ہے جو نشانے سے دور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science and wisdom without love are a corpse, reason is an arrow that never pierced the target.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "کور را بینندہ از دیدار کن\nبولہب را حیدر کرار کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اندھے (علم) کا دیدار الہی سے بصیر بنا دے اور اس طرح بو لہب کو حیدر کرار (رضی اللہ) میں بدل دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the vision of God make the blind to see, convert Abu Lahab into an impetuous Haidar!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "زندہ رود",
+      "Verse": [
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "محکماتش وانمودی از کتاب\nہست آن عالم ہنوز اندر حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) نے قران پاک کے محکمات ظاہر کر دیے؛ (لیکن) وہ جہان (جس کی آپ بات کرتے ہیں) ابھی حجاب میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have displayed the foundations of the Book of God, yet is yonder world still veiled in a shroud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "پردہ را از چہرہ نگشاید چرا\nاز ضمیر ما برون ناید چرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ اپنے چہرے سے پردہ کیوں نہیں ہٹاتا اور ہمارے ضمیر سے باہر کیوں نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does it not strip off the veil from its face, why does it not issue yet out of our hearts?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "پیش ما یک عالم فرسودہ ایست\nملت اندر خاک او آسودہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے سامنے ایک فرسودہ جہان ہے؛ اور ملت اسی کی خاک میں آسودہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before us lies a whole world wasting away, a nation quietly reposing in its own dust;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "رفت سوز سینۂ تاتار و کرد\nیا مسلمان مرد یا قرآن بمرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاتاریوں اور کردوں کے سینے کا سوز ختم ہوا؛ کیا مسلمان مر چکا ہے یا قرآن پاک سے اثر جاتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart’s ardour of Tartar and Kurd is vanished – either the Mussulmans are dead, or the Koran is dead.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "سعید حلیم پاشا",
+      "Verse": [
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "دین حق از کافری رسوا تر است\nزانکہ ملا مومن کافر گر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین حق کافری کی وجہ رسوا تر ہے؛ کیونکہ ہمارا ملّا کافر گر مومن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The religion of God is more shameful than unbelief, because the mullah is a believer trading in unfaith;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "شبنم ما در نگاہ ما یم است\nاز نگاہ او یم ما شبنم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری نگاہ میں ہماری شبنم سمندر ہے؛ اس کی نگاہ میں ہمارا سمندر شبنم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In our eyes this dew-drop of ours is an ocean, to his eyes our ocean is a dew-drop.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "از شگرفیہای آن قرآن فروش\nدیدہ ام روح الامین را در خروش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قرآن فروش کی طرفہ باتوں کے سبب میں نے جبریل امین (علیہ) کو خشمگین پایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At the elegant graces of that Koran-vendor I have seen the Trusty Spirit himself cry out!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زانسوی گردون دلش بیگانہ ئے\nنزد او ام الکتاب افسانہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّا کا دل آسمان کے اس طرف سے (اللہ تعالے) سے نا آشنا ہے؛ اس کے نزدیک قرآن پاک محض افسانہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His heart is a stranger to what lies beyond the sky, for him the Archetype of the Book is but a fable;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "بے نصیب از حکمت دین نبی\nآسمانش تیرہ از بے کوکبی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ جناب رسول پاک (صلعم) کے دین کی حکمت سے محروم ہے؛ اس کا آسمان ستاروں کے نہ ہونے کی وجہ سے تاریک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having no share of the wisdom of the Prophet’s religion, his heaven is dark, being without any star.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "کم نگاہ و کور ذوق و ھرزہ گرد\nملت از قال و اقولش فرد فرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کم نگاہ، کور ذوق اور فضول گو ہے؛ اس کی باتوں سے ملت ٹکڑے ٹکڑے ہو گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Short of vision, blind of taste, an idle gossip, his hairsplitting arguments have fragmented the Community.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "مکتب و ملا و اسرار کتاب\nکور مادر زاد و نور آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "مکتب و ملّا اور قرآن پاک کے اسرار (کی مثال یوں ہے) جیسے مادر زاد اندھا اور آفتاب کی روشنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Seminary and mullah, before the secrets of the Book, are as one blind from birth before the light of the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "دین کافر فکر و تدبیر جھاد\nدین ملا فی سبیل اﷲ فساد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کافر کا دین جہاد کی فکر و تدبیر اور ملّا کا دین فی سبیل اﷲ فساد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The infidel’s religion is the plotting and planning of Holy War; the mullah’s religion is corruption in the Way of God.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "مرد حق جان جھان چار سوی\nآن بخلوت رفتہ را از من بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حق جو اس جہان چار سو (دنیا ) کی جان ہے اور آج کل خلوت نشین ہے اسے میری طرف سے کہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man of God is the soul of this dimensionate world; say from me to him, who has gone into solitude;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "اے ز افکار تو مومن را حیات\nاز نفسہای تو ملت را ثبات",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے افکار سے مومن کی زندگی وابستہ ہے اور تیری گفتار سے ملت ثبات پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You whose thoughts are life itself to the believer, whose breaths are confirmation to the Community;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "حفظ قرآن عظیم آئین تست\nحرف حق را فاش گفتن دین تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "قرآن حکیم کی حفاظت تیرا آئین ہے، اللہ تعالے کے کلام کو واضح طور پر بیان کرنا تیرا دین ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Having the sublime Koran by heart is your rite, your religion the publishing of the Word of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "تو کلیمی چند باشی سرنگون\nدست خویش از آستین آور برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کلیم ہے کب تک سر نگوں رہے گا؛ اپنا ہاتھ (ید بیضا ) آستین سے باہر نکال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You with whom God speaks, how long will you hang your head? Come, bring forth your hand out of your sleeve!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "سر گذشت ملت بیضا بگوی\nبا غزال از وسعت صحرا بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت اسلامیہ کی سرگذشت بیان کر ؛ آہو کو وسعت صحرا سے آگاہ کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak of the history of the ‘white’ people, speak to the gazelle of the vastness of the desert.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "فطرت تو مستنیر از مصطفی است\nباز گو آخر مقام ما کجاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری فطرت نور مصطفے (صلعم) سے منوّر ہے ؛ پھر سے بیان کر کہ آخر ہم مسلمانوں کا مقام کہاں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your nature is illumined by the Chosen One, so declare now, where is our station?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مرد حق از کس نگیرد رنگ و بو\nمرد حق از حق پذیرد رنگ و بو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا بندہ کسی اور سے رنگ و بو نہیں لیتا وہ صرف اللہ تعالے ہی کا رنگ اختیار کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The man of God takes not Colour and scent from anyone, the man of God receives colour and scent from God;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "ہر زمان اندر تنش جانی دگر\nہر زمان او را چو حق شانی دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تپش کی وجہ سے ہر لمحہ اس کی جان کا انداز نیا ہوتا ہے؛ وہ اللہ تعالے ہی کی طرح ہر زمانے میں نئی شان سے جلوہ گر ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment there is in his body a fresh soul, every moment he has, like God, a new labour.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "رازہا با مرد مومن باز گوے\nشرح رمز \"کل یوم\" باز گوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد مومن کو ان رازوں سے پھر آگاہ کر، اسی کے سامنے آیہ شریفہ کہ 'اللہ تعالے ہر ایک نئی شان سے جلوہ گر ہوتے ہیں ' کے معنی پھر بیان کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Declare the secrets to the believer, declare the exposition of the mystery of Every day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "جز حرم منزل ندارد کاروان\nغیر حق در دل ندارد کاروان",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کاروان حرم شریف کے علا وہ اور کوئی منزل نہیں رکھتا؛ نہ اہل کاروان کے دل میں اللہ تعالے کے سوائے کوئی اور بستا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The carvaan has no halting-place but the Sanctuary, the caravan has naught but God in its heart;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "83",
+          "Text": [
+            {
+              "_content": "من نمی گویم کہ راہش دیگر است\nکاروان دیگر نگاہش دیگر است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں یہ نہیں کہتا کہ اس کاروان کی راہ کوئی اور ہے؛ میں کہتا ہوں کہ کاروان اور ہے اور اس کی نگاہ بدل چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I do not say that its road is different – it is the caravan that is different, different its regard.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "افغانی",
+      "Verse": [
+        {
+          "id": "85",
+          "Text": [
+            {
+              "_content": "از حدیث مصطفی داری نصیب\nدین حق اندر جھان آمد غریب",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا تجھے حضور اکرم (صلعم) کی حدیث معلوم ہے کہ اسلام دنیا میں غریب (احنبی) آیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Have yon any acquaintance with the Traditions of the Chosen One? ‘God’s religion came a stranger into the world.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "Text": [
+            {
+              "_content": "با تو گویم معنی این حرف بکر\nغربت دین نیست فقر اہل ذکر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تیرے سامنے اس اچھوتے لفظ کے معنی بیان کرتا ہوں ؛ دین کی غربت سے اہل ذکر کی مفلسی مراد نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will tell you the meaning of this virgin saying. The ‘strangerhood’ of religion is not the poverty of God’s remembrancers;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "89",
+          "Text": [
+            {
+              "_content": "بہر آن مردی کہ صاحب جستجوست\nغربت دین ندرت آیات اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ شخص جو صاحب جستجو ہے اس کے لیے دین کی غربت قرآن پاک کی آیات کی ندرت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For the man who is truly a researcher‘strangerhood’ of religion refers to the scarceness of its verses.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "91",
+          "Text": [
+            {
+              "_content": "غربت دین ہر زمان نوع دگر\nنکتہ را دریاب اگر داری نظر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر زمانے میں دین کی غربت کا نیا انداز ہے؛ اگر تو عقل رکھتا ہے تو اس نکتہ کو سمجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ‘strangerhood’ of religion every time is Of a different kind; ponder well this subtelty, if you have eyes to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "Text": [
+            {
+              "_content": "دل بہ آیات مبین دیگر ببند\nتا بگیری عصر نو را در کمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کی آیات مبین پر دوبارہ غور کر ؛ تاکہ تو عصر نو کو اپنی کمند میں گرفتار کر سکے۔قرآن پاک",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fasten your heart again to the perspicuous Verses that you may seize a new age in your lasso.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "95",
+          "Text": [
+            {
+              "_content": "کس نمی داند ز اسرار کتاب\nشرقیان ہم غربیان در پیچ و تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "قرآن پاک کے اسرار کو کوئی نہیں سمجھتا ؛ اہل مشرق ہوں یا اہل مغرب سب پیچ و تاب میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No man knows the inner secrets of the Book; Easterners and Westerners alike twist and turn this way and that.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "97",
+          "Text": [
+            {
+              "_content": "روسیان نقش نوی انداختند\nآب و نان بردند و دین در باختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل روس نیا انقلاب لائے ہیں ؛ انہوں نے آب و نان پا لیا اور دین ہار دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Russians have laid down a new design; they have taken bread and water, and jettisoned religion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "99",
+          "Text": [
+            {
+              "_content": "حق ببین حق گوی و غیر از حق مجوی\nیک دو حرف از من بہ آن ملت بگوی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو حق دیکھ، حق کہہ اور سوائے حق کے اور کسی چیز کی جستجو نہ کر؛ میری طرف سے ملت روسیہ کو ایک دو باتیں پہنچا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Behold truth, speak truth, seek only truth; speak one or two words from me to the people.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    }
+  ],
+  "name-en": "Wisdom Is A Great Good"
+}

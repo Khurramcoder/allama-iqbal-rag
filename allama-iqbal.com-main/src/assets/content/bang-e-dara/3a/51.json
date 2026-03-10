@@ -1,0 +1,149 @@
+{
+  "id": "51",
+  "name": "نانک",
+  "name-en": "Nanak (reference to Guru Nanak, founder of Sikhism)",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قوم نے پیغام گو تم کی ذرا پروا نہ کی \nقدر پہچانی نہ اپنے گوہر یک دانہ کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "گوہر يک دانہ: بے مثال موتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The nation did not care for the message of Gautam at all; the value of its own single pearl* it did not appreciate at all.\n* In the Urdu and Persian literary works a belief is expressed that pearls are formed in the oyster shell by the spring rain drops. If the shell is contented with one drop only one pearl is formed. Such a pearl is larger in size and superior in brightness than those of the shells with many pearls.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آہ! بد قسمت رہے آواز حق سے بے خبر \nغافل اپنے پھل کی شیرینی سے ہوتا ہے شجر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! The unfortunate nation remained unaware of the call of the Truth; the tree is unaware of the sweetness of its own fruit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آشکار اس نے کیا جو زندگی کا راز تھا \nہند کو لیکن خیالی فلسفے پر ناز تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He exhibited whatever the secret of life was, but India proud of its visionary philosophy was.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شمع حق سے جو منور ہو یہ وہ محفل نہ تھی \nبارش رحمت ہوئی لیکن زمیں قابل نہ تھی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The assembly which could be illuminated by Truth’s light was not this; the rain of mercy did come but the soil was not suitable!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ! شودر کے لیے ہندوستاں غم خانہ ہے \nدرد انسانی سے اس بستی کا دل بیگانہ ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! India is a place of sorrow for the Shudra; this habitation’s heart is unaware of human sympathy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "برہمن سرشار ہے اب تک مےء پندار میں \nشمع گوتم جل رہی ہے محفل اغیار میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "شمع گوتم: مراد ہے بدھ مت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Brahman is still intoxicated with the wine of arrogance; Gautam’s candle is alight in the assembly of strangers.*\n* Allusion to the fact that on account of the atrocities perpetrated by Hindus on the Buddhists in the Indian Sub-continent. Buddhism all but disappeared from that region by about the commencement of the Christian era. However, the Buddhists migrated to the neighboring countries of Ceylon (present day Sri Lanka), Burma, Malaya, China and Japan, where it flourished and still exists.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بت کدہ پھر بعد مدت کے مگر روشن ہوا \nنور ابراہیم سے آزر کا گھر روشن ہوا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "However, the temple again became lighted after eons; the house of Azar became lighted with Ibrahim’s light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "پھر اٹھی آخر صدا توحید کی پنجاب سے \nہند کو اک مرد کامل نے جگایا خواب سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد کامل: مراد ہے گورو نانک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "At last the call of Tawhid rose from the Punjab again! A perfect man roused India from its slumber again! ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

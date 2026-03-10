@@ -1,0 +1,146 @@
+{
+  "id": "02",
+  "name": "ستارہ",
+  "name-en": "Star",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قمر کا خوف کہ ہے خطرہء سحر تجھ کو \nمآل حسن کی کیا مل گئی خبر تجھ کو؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you afraid of the moon or the dawn? Are you conscious of the end of beauty?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "متاع نور کے لٹ جانے کا ہے ڈر تجھ کو \nہے کیا ہراس فنا صورت شرر تجھ کو؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are you afraid of being robbed of light’s wealth? Are you afraid of annihilation like the spark?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "زمیں سے دور دیا آسماں نے گھر تجھ کو \nمثال ماہ اڑھائی قبائے زر تجھ کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky has settled you far from the earth; it has wrapped you in gold’s mantle like the moon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غضب ہے پھر تری ننھی سی جان ڈرتی ہے! \nتمام رات تری کانپتے گزرتی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is outrageous that your feeble life is still in fear; your whole night passes in trembling with fear.\n* The reply to the questions in the first three verses is obviously in the negative. In that case the fourth verse expresses surprise at the conditions stated in it. The amazement is satisfied in the last four verses according to which all creation, irrespective of its beauty and station in the universe is ephemeral and is destined to die or be annihilated.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چمکنے والے مسافر! عجب یہ بستی ہے \nجو اوج ایک کا ہے، دوسرے کی پستی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O shining traveler! This habitation is strange; the rise of one leads to the fall of the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اجل ہے لاکھوں ستاروں کی اک ولادت مہر \nفنا کی نیند مے زندگی کی مستی ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The birth of one sun is the death of a myriad stars; annihilation’s sleep is the ecstasy of life’s wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "وداع غنچہ میں ہے راز آفرینش گل \nعدم، عدم ہے کہ آئینہ دار ہستی ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Flower bud’s departure is the secret of flower’s birth. Is annihilation life’s end, or is the equivalent of life!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "سکوں محال ہے قدرت کے کارخانے میں \nثبات ایک تغیر کو ہے زمانے میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Quiescence is difficult in the universe; only change is permanent in the universe.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

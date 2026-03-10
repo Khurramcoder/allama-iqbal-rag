@@ -1,0 +1,130 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل سوز سے خالی ہے، نگہ پاک نہیں ہے \nپھر اس میں عجب کیا کہ تو بے باک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of passion’s glow your heart is blank; your glances are not chaste and frank: To wonder at then there is naught that bold and dauntless you are not.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے ذوق تجلی بھی اسی خاک میں پنہاں \nغافل! تو نرا صاحب ادراک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب ادراک: اشارہ ہے مشہور عام حدیث کی طرف جس میں کہا گیا 'اگر تو نہ ہو تا تو میں اسمانوں کو پیدا نہ کرتا'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A longing strong for God’s display is also hid in self-same clay: O heedless man, let this be known, brains alone you do not own.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہ آنکھ کہ ہے سرم ہ افرنگ سے روشن \nپرکار و سخن ساز ہے، نم ناک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye whose light and luster rest on collyrium brought from West: Is full of art, conceit and show, it gets not wet at others’ woe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کیا صوفی و ملا کو خبر میرے جنوں کی \nان کا سر دامن بھی ابھی چاک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can the priest and monk assess the height of craze that I possess? Still sound the hems of robes they wear, which have no rifts and know no tear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کب تک رہے محکومی انجم میں مری خاک \nیا میں نہیں، یا گردش افلاک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How long the stars shall hold their sway on fate of man, sprung from clay? Either bereft of life I drop, or the Wheel of Fate must stop.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بجلی ہوں، نظر کوہ و بیاباں پہ ہے مری \nمیرے لیے شایاں خس و خاشاک نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lightning I am and keep my eye on waste and hill that reach the sky: Heaps of straw and mounds of dust, too low they are, avoid I must.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عالم ہے فقط مومن جاں باز کی میراث \nمومن نہیں جو صاحب لولاک نہیں ہے!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That godly man gets world’s bequest, who risks his life in ceaseless quest: That man no Faith can claim at all, who lives not up to Prophet’s call.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

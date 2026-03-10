@@ -1,0 +1,34 @@
+{
+  "id": "97",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل بیباک را ضرغام رنگ است\nدل ترسندہ را آہو پلنگ است\nاگر بیمی نداری بحر صحراست\nاگر ترسی بہر موجش نہنگ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل بیباک کے لیے شیر بھی پہاڑی بکری ہے؛ خوفزدہ دل کے لیے ہرن بھی چیتا ہے۔\nاگر تیرے اندر خون نہیں تو تیرے لیے سمندر بھی صحرا ہے؛ اگر تو خوفزدہ ہے تو اس کی ہر موج میں تجھے مگرمچھ نظر آئے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To a fearless heart a lion is a sheep; to a timid heart a deer is a tiger.\nIf you have no fear, the ocean is a desert; if you are fearful, there is a crocodile in every wave.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "165",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گریز آخر ز عقل ذوفنون کرد\nدل خود کام را از عشق خون کرد\nز اقبال فلک پیما چہ پرسی\nحکیم نکتہ دان ما جنون کرد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

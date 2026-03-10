@@ -1,0 +1,129 @@
+{
+  "id": "40",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ستاروں سے آگے جہاں اور بھی ہیں \nابھی عشق کے امتحاں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Other worlds exist beyond the stars: more tests of love are still to come.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تہی، زندگی سے نہیں یہ فضائیں \nیہاں سینکڑوں کارواں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This vast space does not lack life: Hundreds of other caravans are here.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "قناعت نہ کر عالم رنگ و بو پر \nچمن اور بھی آشیاں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not be content with the world of colour and Smell, other gardens there are, other nests, too.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اگر کھو گیا اک نشیمن تو کیا غم \nمقامات آہ و فغاں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the worry if one nest is lost? There are other places to sigh and cry for!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو شاہیں ہے، پرواز ہے کام تیرا \nترے سامنے آسماں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are an eagle, flight is your vocation: You have other skies stretching out before you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اسی روز و شب میں الجھ کر نہ رہ جا \nکہ تیرے زمان و مکاں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not let mere day and night ensnare you, other times and places belong to you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گئے دن کہ تنہا تھا میں انجمن میں \nیہاں اب مرے رازداں اور بھی ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gone are the days when I was alone in company: Many here are my confidants now.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

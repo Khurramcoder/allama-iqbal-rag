@@ -1,0 +1,33 @@
+{
+  "id": "160",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رگ مسلم ز سوز من تپید است\nز چشمش اشک بیتابم چکید است\nہنوز از محشر جانم نداند\nجہان را با نگاہ من ندید است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My passion puts fire into the Muslim veins, and my restive tears drop from his eyes;\nBut still he is not aware of the tumult in my soul – for he has not seen the world with my eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

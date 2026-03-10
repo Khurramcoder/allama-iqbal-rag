@@ -1,0 +1,117 @@
+{
+  "id": "47",
+  "name": "فقر و راہبی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کچھ اور چیز ہے شاید تری مسلمانی \nتری نگاہ میں ہے ایک، فقر و رہبانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perhaps your Faith is so much quaint and queer, for Faqr and monkery same to you appear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سکوں پرستی راہب سے فقر ہے بیزار \nفقیر کا ہے سفینہ ہمیشہ طوفانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرستی: آرام طلبی۔ سکوں\nسفینہ: کشتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqr has a loathing great for monkish ease its boat is ever tossed by stormy seas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پسند روح و بدن کی ہے وا نمود اس کو \nکہ ہے نہایت مومن خودی کی عریانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "وا نمود: آشکار کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He yearns to put to test his frame and soul, display of Self is his main aim and goal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وجود صیرفی کائنات ہے اس کا \nاسے خبر ہے، یہ باقی ہے اور وہ فانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صیرفی: کھوٹا کھرا پرکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its life like touchstone acts for Cosmos vast; it knows what will perish and what will last.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اسی سے پوچھ کہ پیش نگاہ ہے جو کچھ \nجہاں ہے یا کہ فقط رنگ و بو کی طغیانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask it if things on which your eyes are bent, are real or merely riot of hue and scent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یہ فقر مرد مسلماں نے کھو دیا جب سے \nرہی نہ دولت سلمانی و سلیمانی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since Muslim true of Faqr has been bereft, no Salman's Faith or Solomon's awe are left.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Faqr And Monkery",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

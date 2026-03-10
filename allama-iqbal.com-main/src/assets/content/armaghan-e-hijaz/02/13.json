@@ -1,0 +1,32 @@
+{
+  "id": "13",
+  "name": "None",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کبھی دریا سے مثل موج ابھر کر\nکبھی دریا کے سینے میں اتر کر\nکبھی دریا کے ساحل سے گزر کر\nمقام اپنی خودی کا فاش تر کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some times from oceans rise like a wave, dash in bosom oft like drivers brave. Lave the sea often along the store; show the Ego’s true place more and more.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "00",
+  "name": "مجو از من کلام عارفانہ",
+  "name-en": "Do not seek mystical words from me",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "حضور ملت",
+  "Para": [
+    {
+      "name": "(01)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مجو از من کلام عارفانہ\n کہ من دارم سرشت عاشقانہ\n سر شک لالہ گون را اندرین باغ\n بیفشانم چو شبنم دانہ دانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": " میں اس (ملت کے ) باغ میں لالہ کے پھول کے سرخ آنسو شبنم کی طرح دانہ دانہ کر کے بکھیر رہا ہوں۔ یعنی اپنی\nشاعری کے ایک ایک لفظ کو مت کے افراد کے ذہن و قلب میں سمورہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not seek mystical words from me,\nFor I have the nature of a lover.\nIn this garden, I scatter the tulip-like tears,\nLike dewdrops, one by one.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Qazi Ahdul Kabir"
+}

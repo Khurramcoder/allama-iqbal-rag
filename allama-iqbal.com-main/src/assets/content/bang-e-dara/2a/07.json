@@ -1,0 +1,68 @@
+{
+  "id": "07",
+  "name": "حسن و عشق",
+  "name-en": "Beauty and Love",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جس طرح ڈوبتی ہے کشتی سیمین قمر\nنور خورشید کے طوفان میں ہنگام سحر\nجسے ہو جاتا ہے گم نور کا لے کر آنچل\nچاندنی رات میں مہتاب کا ہم رنگ کنول\nجلوہ طور میں جیسے ید بیضائے کلیم\nموجہ نکہت گلزار میں غنچے کی شمیم\nہے ترے سیل محبت میں یونہی دل میرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشتی سیمین قمر: چاند کی چاندنی کی کشتی یعنی چاند۔ \nید بیضائے کلیم: موسی (علیہ) (کی طرح کا) چمکتا ہوا ہاتھ۔ \nشمیم: خوشبو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just as the moon’s silver boat is drowned in the storm of sun’s light at the break of dawn;\nJust as the moon-like lotus disappears behind the veil of light in the moon-lit night;\nJust like the Kalim’s radiant palm in the Toor’s effulgence and the flower bud’s fragrance in the wave of garden’s breeze;\nSimilar is my heart in the flood of Thy Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "08",
+          "Text": [
+            {
+              "_content": "تو جو محفل ہے تو ہنگامہء محفل ہوں میں\nحسن کی برق ہے تو، عشق کا حاصل ہوں میں\nتو سحر ہے تو مرے اشک ہیں شبنم تیری\nشام غربت ہوں اگر میں تو شفق تو میری\nمرے دل میں تری زلفوں کی پریشانی ہے\nتری تصویر سے پیدا مری حیرانی ہے\nحسن کامل ہے ترا، عشق ہے کامل میرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "شفق: صبح کی روشنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If Thou art the assembly, I am the assembly’s splendor. If Thou art the Beauty’s thunder, I am the produce of Love.\nIf Thou art the dawn, my tears are Thy dew. If I am traveler’s night, Thou art my twilight. \nMy heart harbors Thy disheveled hair locks. My bewilderment is created by Thy picture.\nThy Beauty is Perfect, my Love is perfect.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہے مرے باغ سخن کے لیے تو باد بہار\nمیرے بے تاب تخیل کو دیا تو نے قرار\nجب سے آباد ترا عشق ہوا سینے میں\nنئے جوہر ہوئے پیدا مرے آئینے میں\nحسن سے عشق کی فطرت کو ہے تحریک کمال\nتجھ سے سر سبز ہوئے میری امیدوں کے نہال\nقافلہ ہو گیا آسودہء منزل میرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou art the spring’s breeze for my poetry’s garden; Thou gave tranquillity to my restless imagination.\nSince Thy Love took residence in my breast; new lights have been added to my mirror.\nLove’s nature gets stimulation for Perfection from Beauty.My hope’s trees flourished through Thy favour.\nMy caravan has reached its destination.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,664 @@
+{
+  "id": "05",
+  "name": "محکمات عالم قرا نے: خلافت آدم",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در دو عالم ھر کجا آثار عشق\nابن آدم سری از اسرار عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں جہانوں میں ہر جگہ عشق کے آثار ہیں ؛ آدم کا بیٹا عشق کے اسرار میں سے ایک راز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In both worlds, everywhere are the marks of love; man himself is a mystery of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سر عشق از عالم ارحام نیست\nاو ز سام و حام و روم و شام نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "سر عشق کا تعلق ماؤں کے رحم سے نہیں؛ نہ اس کی نسبت خاندان یا ملک سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s secret belongs not to the world of wombs, not to Shem or Ham, Greece or Syria:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کوکب بے شرق و غرب و بے غروب\nدر مدارش نے شمال و نے جنوب",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا ستارہ ہے جس کا تعلق نہ مشرق سے نہ مغرب سے اور نہ وہ کبھی غروب ہوتا ہے اور نہ اس کے مدار میں شمال و جنوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A star without East and West, a star unsetting in whose orbit is neither North nor South.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حرف انی جاعل تقدیر او\nاز زمین تا آسمان تفسیر او",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے کا ارشاد ہے کہ 'میں آدم کو زمین میں اپنا نائب بناتا ہوں' انسان کی تقدیر ہے اور زمین سے آسمان تک ہر شے کی تسخیر اس تقدیر کی تفسیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The words I am setting tell his destiny, their exegesis reaches from earth to heaven.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مرگ و قبر و حشر و نشر احوال اوست\nنور و نار آن جہان اعمال اوست",
+              "lang": "Original"
+            },
+            {
+              "_content": "موت، قبر، حشر، نشر سب اس کے احوال ہیں؛ اسی کے اعمال جہان آخرت میں نور اور نار بنتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Death, grave, uprising, judgment are his estates, the light and fire of the other world are his works;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "او امام و او صلوت و او حرم\nاو مداد و او کتاب و او قلم",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ امام ہے وہی صلوۃ اور وہی حرم ؛ وہی سیاہی ہے، وہی لوح محفوظ اور وہی قلم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Himself is Imam, prayer and sanctuary, himself the Ink, himself the Book and the Pen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "خردہ خردہ غیب او گردد حضور\nنے حدود او را نہ ملکش را ثغور",
+              "lang": "Original"
+            },
+            {
+              "_content": "غیب آہستہ آہستہ اس کے لیے حضور بنتا ہے؛ نہ اس کی کوئ حدود ہیں، نہ اس کے ملک کی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Little by little what is hidden in him becomes visible; it has no boundaries, its kingdom no frontiers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "از وجودش اعتبار ممکنات\nاعتدال او عیار ممکنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے وجود سے امکانات کا اندازہ ہوتا ہے؛ اس کی راست روی ممکنات کے لیے کسوٹی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His being gives value to contingent things, his equilibrium is the touchstone of contingent things.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "من چہ گویم از یم بے ساحلش\nغرق اعصار و دہور اندر دلش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس کے بے کراں سمندر کی کیا بات کروں اس کے دل کے اندر نئے ادوار پوشیدہ ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What shall I declare of his sea without a shore? All ages and all times are drowned in his heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "آنچہ در آدم بگنجد عالم است\nآنچہ در عالم نگنجد آدم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم انسان میں سما جاتا ہے لیکن انسان عالم میں نہیں سماتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That which is contained within man is the world, that which is not contained within the world is man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آشکارا مہر و مہ از جلوتش\nنیست رہ جبریل را در خلوتش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کی جلوت سے مہر و ماہ آشکار ہیں ؛ اور اس کی خلوت تک جبریل (علیہ) کی بھی رسائی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sun and moon are manifest through his self-display; even Gabriel cannot penetrate his privacy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "برتر از گردون مقام آدم است\nاصل تہذیب احترام آدم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آدم کا مقام آسمان سے بھی بلند تر ہے؛ احترام آدم ہی تہذیب کی بنیاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Loftier than the heavens is the station of man, and the beginning of education is respect for man.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زندگی اے زندہ دل دانی کہ چیست\nعشق یک بین در تماشای دوئی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے زندہ دل، کیا تو جانتا ہے کہ زندگی کیا ہے؟ عشق یک بیں کثرت میں وحدت کا تماشا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man alive in heart, do you know what thing life is? One-seeing love that is contemplating duality:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "مرد و زن وابستۂ یکدیگرند\nکائنات شوق را صورتگرند",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد و زن ایک دوسرے سے وابستہ ہیں؛ کائنات شوق کی نقشبندی کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man and woman are bound one to the other, they are the fashioners of the creatures of desire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "زن نگہدارندۂ نار حیات\nفطرت او لوح اسرار حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "عورت نار حیات کی محافظ ہے، اس کی فطرت ایسی لوح ہے جس پر اسرار حیات رقم ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woman is the guardian of the fire of life, her nature is the tablet of life’s mysteries;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آتش ما را بجان خود زند\nجوہر او خاک را آدم کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہماری آتش (شوق) کو اپنی جان میں سماتی ہے؛ چنانچہ اس کا جوہر خاک کو آدم بنا دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She strikes our fire against her own soul and it is her substance that makes of the dust a man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "در ضمیرش ممکنات زندگی\nاز تب و تابش ثبات زندگی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ضمیر کے اندر زندگی کے امکانات پوشیدہ ہیں ؛ اس کی تب و تاب سے زندگی ثبات پاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In her heart lurk life’s potentialities, from her glow and flame life derives stability;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "شعلہ ئی کز وی شرر ہا در گسست\nجان و تن بے سوز او صورت نبست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایسا شعلہ ہے جس سے کئی شرر ٹوٹتے ہیں؛ اس کے سوز کے بغیر روح و بدن صورت پذیر نہیں ہوتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "She is a fire from which the sparks break forth, body and soul, lacking her glow, cannot take shape.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ارج ما از ارجمندیھای او\nما ہمہ از نقشبندیھای او",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری توقیر اس کے وقار سے ہے، ہم سب اسی کی نقشبندی سے وجود میں آئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What worth we possess derives from her values for we are all images of her fashioning;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "حق ترا داد است اگر تاب نظر\nپاک شو قدسیت او را نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر اللہ تعالے نے تجھے دیکھنے کی صلاحیت عطا فرمائی ہے تو پاکیزہ نگاہ سے اس کی قدسیت دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If God has bestowed on you a glance aflame cleanse yourself, and behold her sanctity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "اے ز دینت عصر حاضر بردہ تاب\nفاش گویم با تو اسرار حجاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "دور نو نے تیرے دین کی آب و تاب زائل کر دی ہے؛ میں تجھ پر پردے کے اسرار واضح کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You from whose faith the present age has taken all fire, now I will tell you openly the secrets of the veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "ذوق تخلیق آتشے اندر بدن\nاز فروغ او فروغ انجمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوق تخلیق بدن کے اندر آگ کی مانند ہے؛ اس کی روشنی سے انجمن روشن ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The joy of creation is a fire in the body and society is lightened by that light;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "ہر کہ بردارد ازین آتش نصیب\nسوز و ساز خویش را گردد رقیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بھی اس آگ سے کوئی حصّہ رکھتا ہے ؛ وہ اپنے سوز و ساز کو محفوظ کر لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And whosoever takes any portion of that fire watches jealously over his private passion;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "ہر زمان بر نقش خود بندد نظر\nتا نگیرد لوح او نقش دگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ہر لمحہ اپنے نقش پر نگاہ مرکوز رکھتا ہے مبادا اس کی لوح کا نقش اختیار کر لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All the time he fixes his gaze on his own image lest his tablet should receive any other image.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "مصطفی اندر حرا خلوت گزید\nمدتی جز خویشتن کس را ندید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جناب رسول پاک (صلعم) نے غار حرا میں خلوت اختیار فرمائی اور مدت تک اپنے سوا کسی اور کو نہ دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mohammed chose solitude upon Mount Hira and for a space saw no other beside himself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "نقش ما را در دل او ریختند\nملتی از خلوتش انگیختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ (صلعم) کے قلب مبارک میں ہمارا نقش ڈالا گیا؛ آپ (صلعم) کی خلوت کے اندر سے ایک نئی ملت ابھری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our image was then poured into his heart and out of his solitude a nation arose.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "می توانی منکر یزدان شدن\nمنکر از شأن نبی نتوان شدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے سے انکار کیا جا سکتا ہے ؛ مگر حضور (صلعم) کی ذات شان سے انکار ممکن نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you may be an unbeliever in God, yet you cannot gainsay the Prophet’s glory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "گرچہ داری جان روشن چون کلیم\nہست افکار تو بے خلوت عقیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خواہ تیرا قلب موسی (علیہ) کی طرح روشن کیو ں نہ ہو؛ خلوت کے بغیر تیرے افکار بانجھ رہیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you possess a soul illumined as Moses, yet without solitude your thoughts remain barren;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "از کم آمیزی تخیل زندہ تر\nزندہ تر جویندہ تر یابندہ تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کم آمیزی سے قلب کے اندر زندگی، جستجو اور یافت بڑھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By isolation the imagination becomes more vivid, more vivid, more questing, more finding.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "علم و ہم شوق از مقامات حیات\nہر دو می گیرد نصیب از واردات",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم اور شوق (عشق) دونوں زندگی کے مقامات میں سے ہیں ؛ ہر دو کا تعلق مشاہدات اور تجربات سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science and passion are both stations of life both take a share of the impact of events.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "علم از تحقیق لذت می برد\nعشق از تخلیق لذت می برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم تحقیق سے لذت پاتا ہے اور عشق تخلیق سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science derives pleasure from verification, love derives pleasure from creativeness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "صاحب تحقیق را جلوت عزیز\nصاحب تخلیق را خلوت عزیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب تحقیق کو جلوت پسند ہے اور صاحب تخلیق کو خلوت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Display is very precious to the verifier, to the creator solitude is very precious.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "چشم موسی خواست دیدار وجود\nاین ہمہ از لذت تحقیق بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "موسی (علیہ) کی آنکھ ذات کے دیدار کی خواہاں ہوئی، یہ سب لذت تحقیق کا (کرشمہ) تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The eye of Moses desired to behold Being – that was all part of the pleasure of verification;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "لن ترانے نکتہ ہا دارد رقیق\nاندکے گم شو درین بحر عمیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "(تو مجھے ہرگز نہیں دیکھ سکتا ہے) گہرے معنی رکھتا ہے؛ ذرا اس بحر عمیق میں غوطہ لگا کے دیکھ۔لن ترانی",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou shalt not see Me contains many subtleties – lose yourself a little while in this sea profound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "ہر کجا بے پردہ آثار حیات\nچشمہ زارش در ضمیر کائنات",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں کہیں آثار حیات بے پردہ نظر آتے ہیں ؛ ان کا سرچشمہ ضمیر کائنات کے اندر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "On all sides life’s traces appear unveiled, its fountain wells up in the heart of creation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "در نگر ہنگامۂ آفاق را\nزحمت جلوت مدہ خلاق را",
+              "lang": "Original"
+            },
+            {
+              "_content": "پس تو ہنگامہ ء آفاق دیکھ اس کے خلّاق کو جلوت کی زحمت نہ دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Consider the tumult that rages through all horizons; inflict not on the Creator the trouble of display;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "حفظ ہر نقش آفرین از خلوت است\nخاتم او را نگین از خلوت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر نقش آفرین کی حفاظت خلوت سے ہے؛ خلوت ہی اس کی انگوٹھی کا نگینہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Solitude is the protection of every artist, solitude is the bezel in the artist’s ring.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "The Foundations Of The Koranic World Man: God’s Vicegerent"
+}

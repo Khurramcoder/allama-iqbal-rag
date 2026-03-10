@@ -1,0 +1,68 @@
+{
+  "id": "40",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "درین میخانہ اے ساقی ندارم محرمی دیگر\nکہ من شاید نخستین آدمم از عالمی دیگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ساقی! اس میخانے میں مجھے کوئی محرم راز نہیں ملتا؛ شاید میں آنے والے نئے دور کا پہلا آدمی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None other in this tavern is, Saki, to share my mysteries; am I the first (O who can tell) conceived in heaven, on earth to dwell?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دمی این پیکر فرسودہ را سازی کف خاکی\nفشانی آب و از خاک آتش انگیزی دمی دیگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی آپ میرے اس پیکر فرسودہ کو کف چاک بنا دیتے ہیں؛ اور کبھی اس خاک پر آپ عشق چھڑک کر اس کے اندر آگ پیدا کر دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A while this spent and weary frame Thou makest dust; and on the same scatterest water; lo I see fire in the ashes presently.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیار آن دولت بیدار و آن جام جہان بین را\nعجم را دادہ ئی ہنگامۂ بزم جمی دیگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے عجم کو ایک بار پھر بزم جم کا ہنگامہ عطا کیا ہے؛ اب اس عشق کی دولت بیدار اور جام جہاں بیں بھی عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Bring me that fortune ever new, the cup where lies the world to view, for, in the palace of the East, another Jamshid sits to feast.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

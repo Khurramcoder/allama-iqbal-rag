@@ -1,0 +1,357 @@
+{
+  "id": "11",
+  "name": "در معنی اینکہ وطن اساس ملت نیست",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "02",
+  "sectionName": "ارکان اساسی ملیہ اسلامیہ",
+  "name-ur": "اس مضمون کی وضاحت میں کہ ملّت اسلامیہ کی بنیاد وطن نہیں۔",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آنچنان قطع اخوت کردہ اند\nبر وطن تعمیر ملت کردہ اند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل مغرب نے اس طرح اخوت کی جڑ کاٹی ہے کہ وطن کی بنا پر قوم کی تعمیر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now brotherhood has been so cut to shreds that in the stead of the community; the country has been given pride of place in men’s allegiance and constructive work;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تا وطن را شمع محفل ساختند\nنوع انسان را قبائل ساختند",
+              "lang": "Original"
+            },
+            {
+              "_content": "وطن کو شمع محفل بنانے سے نوع انسان مختلف قبائل میں تقسیم ہم گئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Country is the darling of their hearts, and wide humanity is whittled down into dismembered tribes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جنتے جستند در بئس القرار\nتا \"احلوا قومہم دار البوار\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے جہنم میں جنت تلاش کرنے کی کوشش کی ہے اور اس کوشش میں اپنی قوم کو ہلاکت کے غار تک پہنچا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men thought to find Paradise in that miserable abode; of ruin where they made the peoples dwell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "این شجر جنت ز عالم بردہ است\nتلخی پیکار بار آوردہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وطنیت کے شجر نے دنیا سے جنت (امن و سکون) رخصت کر دیا ہے؛ اس درخت کا پھل جنگ کی تلخی کی صورت میں ظاہر ہوا ہے (دونوں عالمی جنگیں وطنیت کی بنا پر لڑی گئیں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This tree has banished heaven from the world; and borne for fruit the bitterness of war;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مردمی اندر جہان افسانہ شد\nآدمی از آدمی بیگانہ شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "انسانیت دنیا میں افسانہ بن کر رہ گئی؛ آدمی آدمی سے بیگانہ ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Humanity is but a legend, man become a stranger to his fellow-man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "روح از تن رفت و ہفت اندام ماند\nآدمیت گم شد و اقوام ماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "بدن سے روح نکل گئی اور صرف ڈھانچہ رہ گیا ؛ آدمیت گم ہو گئی اور قومیں باقی رہ گئیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The spirit has departed from the flesh,only the seven disjointed limbs remain; vanished is humankind, there but abide the disunited nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تا سیاست مسند مذہب گرفت\nاین شجر در گلشن مغرب گرفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب مغرب میں سیاست نے مذہب کی مسند پر قبضہ جمایا تو وہاں وطنیت کے درخت نے جڑ پکڑی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Politics dethroned religion, this tree first struck root within a Western garden;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قصہ ی دین مسیحائی فسرد\nشعلہ ی شمع کلیسائی فسرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "دین عیسوی کا قصّہ ختم ہوا، اور شمع کلیسا کا شعلہ بجھ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And the tale of Christianity was all rolled up;\nthe radiance of the Church’s lantern dimmed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "اسقف از بے طاقتی در ماندہ ئی\nمہرہ ہا از کف برون افشاندہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوپ کے ہاتھ سے اختیار نکل گیا اور اس نے بیچارگی سے سیاست کے مہرے اپنے ہاتھ سے پھینک دیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pope powerless and baffled, from his hand the counters scattered;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "قوم عیسی بر کلیسا پازدہ\nنقد آئین چلیپا وازدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "عیسائی قوم نے کلیسا کو ٹھکرا دیا؛ عیسائی مذہب کے سکون کو رد کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Jesus’ followers spurning the Church; debased the coinage of the True Cross’s Law.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دہریت چون جامہ ی مذہب درید\nمرسلی از حضرت شیطان رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب دہریت نے مذہب کا جامہ تار تار کیا تو شیطان کی طرف سے ایک مرسل بھی آ پہنچا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When atheism fist rent religion’s garment, there arrived that Satan’s messenger;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "آن فلارنساوی باطل پرست\nسرمہ ی او دیدہ ی مردم شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ فلارنس کا باطل پرست میکاولی تھا جس کے سرمہ نے انسانوں کی آنکھیں پھوڑ دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Florentine who worshipped falsehood, whose collyrium shattered the sight of men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "نسخہ ئی بہر شہنشاہان نوشت\nدر گل ما دانہ ی پیکار کشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے بادشاہوں کے لیے ایک کتاب لکھی؛ اور اس کے ذریعے نوع انسان کے اندر لڑائی جھگڑے کا بیج بویا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He wrote a scroll for Princes, and so scattered in our clay the seed of conflict;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "فطرت او سوی ظلمت بردہ رخت\nحق ز تیغ خامہ ی او لخت لخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت انسانوں کے قافلے کو تاریکی کی طرف لے گئی ؛ اس کے قلم کی تلوار نے سچائی کے ٹکڑے ٹکڑے کر دیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His fell genius decamped to darkness, and his sword like pen struck Truth asunder.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "بتگری مانند آزر پیشہ اش\nبست نقش تازہ ئی اندیشہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزر کی مانند اس نے بھی بتگری کا پیشہ اختیار کیا؛ اس کی فکر نے ایک نئے نظریے کی بنیاد رکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Carving images like Azar was his trade; his fertile mind conceived a new design;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "مملکت را دین او معبود ساخت\nفکر او مذموم را محمود ساخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے مذہب نے مملکت کو معبود قرار دے کر مذموم کو محمود بنا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His novel faith proclaimed the State the only worship; \nhis thoughts the ignoble turned to praise-worthy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "بوسہ تا بر پای این معبود زد\nنقد حق را بر عیار سود زد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اس نے اس باطل معبود کے پاؤں پر بوسہ دیا؛ تو دینوی فائدے کو سچائی کا معیار ٹھہرایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So, when the feet of this adorable he kissed, the touchstone that he introduced to test the truth was Gain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "باطل از تعلیم او بالیدہ است\nحیلہ اندازی فنی گردیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی تعلیم سے باطل نے فروغ پایا؛ اور حیلہ اندازی نے فن کی صورت اختیار کر لی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His doctrine caused falsehood to flourish; plotting stratagems became an art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "طرح تدبیر زبون فرجام ریخت\nاین خسک در جادہ ی ایام ریخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے ایسے مسلک کی بنیاد رکھی جس کا انجام بہت برا تھا؛ اور اس طرح زمانے کی راہ میں کانٹے بکھیر دیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A sad and sorry end attended the regime which he devised, that caltrop which he scattered on the road of advancing days.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شب بچشم اہل عالم چیدہ است\nمصلحت تزویر را نامیدہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے دنیا والوں کی آنکھوں کے سامنے رات کی تاریکی پھیلا دی اور مکر و فن کا نام مصلحت رکھ دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Dark night he wrapped about the peoples’ eyes; deception called, in his vocabulary, expediency.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "That The Country Is Not The Foundation Of The Community"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "156",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مشو نومید ازین مشت غباری\nپریشان جلوۂ ناپایداری\nچو فطرت می تراشد پیکری را\nتمامش می کند در روزگاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس مشت غبار (انسان) سے نا امید نہ ہو، کہ اس کا جلوہ ء نا پائیدار پریشاں ہے۔\nکیونکہ فطرت جب کوئی پیکر تراشتی ہے، تو اسے قرن با قرن میں مکمل کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not despair of your handful of dust, this mutable stuff, quickly blown away.\nWhen Nature fashions some new form, it must have time–millenia–to round it off.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

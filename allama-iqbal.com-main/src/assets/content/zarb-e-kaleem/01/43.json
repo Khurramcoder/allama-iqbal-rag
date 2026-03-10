@@ -1,0 +1,102 @@
+{
+  "id": "43",
+  "name": "تقدیر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "ابلیس",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے خدائے کن فکاں! مجھ کو نہ تھا آدم سے بیر \nآہ! وہ زندانی نزدیک و دور و دیر و زود \nحرف 'استکبار' تیرے سامنے ممکن نہ تھا \nہاں، مگر تیری مشیت میں نہ تھا میرا سجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدائے کن فکاں: وہ خدا جس نے کہا ہو جا اور سب کچھ ہو گیا۔ \nاستکبار: غرور۔ (Jald)زود: جلد۔\nمشيت: مرضی (خدا کی)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Lord of worlds, against Adam, no grudge or spite I did e'er bear. Alas! He is a captive still of late and soon, far off and near.\n'Fore You, O mighty Lord of Worlds a haughty pose I could not show; it was pre-ordained by You God that I to You would never bow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "یزداں",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کب کھلا تجھ پر یہ راز، انکار سے پہلے کہ بعد؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Before denial or after, when did across your mind this mystery dart?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "ابلیس",
+      "Verse": [
+        {
+          "id": "06",
+          "Text": [
+            {
+              "_content": "بعد! اے تیری تجلی سے کمالات وجود",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Aft Lord, who can by Your display perfection great to life impart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "یزداں",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پستی فطرت نے سکھلائی ہے یہ حجت اسے \nکہتا ہے 'تیری مشیت میں نہ تھا میرا سجود، \nدے رہا ہے اپنی آزادی کو مجبوری کا نام \nظالم اپنے شعلہ سوزاں کو خود کہتا ہے دود",
+              "lang": "Original"
+            },
+            {
+              "_content": "سجود: سجدہ کی جمع\nحجت: دلیل۔ \nدود:دھواں۔\nشعلہ سوزاں:جلا دینےوالا شعلہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His low grovelling bent of mind has taught the wretch to argue and contend; he says it was pre-ordained, to God he would not bow or bend.\nUnfettered freedom though he owns, yet gives it name of much constraint: The tyrant, though a blazing flame, to be mere smoke is his complaint.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "Fate: (Satan And God)",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

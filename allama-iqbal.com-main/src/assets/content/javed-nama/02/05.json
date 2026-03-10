@@ -1,0 +1,136 @@
+{
+  "id": "05",
+  "name": "نواے سروش",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "02",
+  "sectionName": "فلک قمر",
+  "name-ur": "نغمہء سروش",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترسم کہ تو میرانی زورق بہ سراب اندر\nزادی بہ حجاب اندر میری بہ حجاب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ڈر ہے کہ تو سراب ہی میں کشتی کھیتا رہے گا؛ تو حجاب ہی میں پیدا ہوا اور حجاب ہی میں مر جائے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I fear that you are steering the barque into a mirage; born within a veil, you will die within a veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چون سرمہ رازی را از دیدہ فروشستم\nتقدیر امم دیدم پنھان بکتاب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب میں نے اپنی آنکھوں سے رازی (کی تفسیر) کا سرمہ دھو ڈالا تو مجھے قرآن پاک کے اندر قوموں کی تقدیر (کے راز) نظر آئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When I washed the collyrium of Razi from my eyes I saw the destinies of nations hidden in the Book",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بر کشت و خیابان پیچ بر کوہ و بیابان پیچ\nبرقی کہ بخود پیچد میرد بہ سحاب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کھیتی اور باغ پر گر، کوہ و بیاباں پر گر؛ جو برق اپنے آپ سے لپٹی رہتی ہے، وہ بادل ہی ميں مر جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "با مغربیان بودم پر جستم و کم دیدم\nمردی کہ مقاماتش ناید بحساب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اہل مغرب میں رہا، بہت جستجو کی؛ مگر ایسا مرد نہ دیکھا جس کے مقامات بے حساب ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Twist over field and avenue, twist over mountain and desert – the lightning that twists upon itself dies within the cloud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بے درد جہانگیری آن قرب میسر نیست\nگلشن بگریبان کش اے بو بگلاب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا کی حکومت کے لیے تڑپ کے بغیر وہ قرب (الہی) میّسر نہیں ( جو مومن کی شان ہے)؛ 'اے بو گلاب اندر' پر اکتفا کرنے والے گلشن کو اپنے اندر سمو لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without the anguish of battle that propinquity is not attainable; you who speak of ‘scent in rose-water, ‘, go, ravish the rose-bush!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے زاہد ظاہر بین گیرم کہ خودی فانی است\nلیکن تو نمی بینی طوفان بہ حباب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے ظاہر بیں زاہد! مانا کہ خودی فانی ہے؛ لیکن وہ طوفان نہیں دیکھتا جو اس بلبلے کے اندر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Superficial ascetic, I concede that selfhood is transient, but you do not see the whirlpool within the bubble.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "این صوت دلاویزی از زخمۂ مطرب نیست\nمہجور جنان حوری نالد بہ رباب اندر",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دل آویز آواز مطرب کے زخمہ سے پیدا نہیں ہو رہی؛ یہ تو جنت سے بچھڑی ہوئی ایک حور ہے، جو رباب کے اندر نالہ و فریاد کر رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This delightful music comes not from the minstrel’s plucking, a houri exiled from Paradise is weeping within the lute.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Song Of Sarosh"
+}

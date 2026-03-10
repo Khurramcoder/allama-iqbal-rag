@@ -1,0 +1,147 @@
+{
+  "id": "21",
+  "name": "حدی",
+  "name-en": "Chant of Camel-Driver",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "نغمۂ ساربان حجاز",
+      "name-en": "Song Of The Hijazi Camel-Driver",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ناقۂ سیار من\nآہوے تاتار من\nدرہم و دینار من\nاندک و بسیار من\nدولت بیدار من\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My fleet-footed dromedary, my doe of the Tartar country, O my riches, O my money, O my entire patrimony, O my fortune, O my plenty! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دلکش و زیباستی\nشاہد رعناستی\nروکش حوراستی\nغیرت لیلاستی\nدختر صحراستی\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you bright and beautiful thing, you are lovely, you are charming, O you houri of my dreaming, you, the Layla of whom bards sing, you, the desert’s sprightly offspring! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "در تپش آفتاب\nغوطہ زنے در سراب\nہم بہ شب ماہتاب\nتند روی چون شہاب\nچشم تو نادیدہ خواب\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the sun of noontide blazes, you dive into clear mirages; and in moonlit nights’ bright reaches you flash as a comet flashes with an eye that never closes! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "لکہ ابر روان\nکشتی بی بادبان\nمثل خضر راہ دان\nبر تو سبک ہر گران\nلخت دل ساربان\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the clouds a constant roamer; sailless boat with sand for river; born path-knower like a Khizr, carrier who does not murmur, darling of the camel-driver! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "سوز تو اندر زمام\nساز تو اندر خرام\nبی خورش و تشنہ کام\nپا بہ سفر صبح و شام\nخستہ شوی از مقام\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In your rein is stimulation; travel is your inspiration; with a very scanty ration, you are night and day in motion, never resting at one station! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "شام تو اندر یمن\nصبح تو اندر قرن\nریگ درشت وطن\nپای ترا یاسمن\nاے چو غزال ختن\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If at dusk you are in Yaman, then at dawn you are in Qaran. Rough sand of your native region is to your feet soft like jasmine. O you fleet gazelle of Khotan! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "مہ ز سفر پا کشید\nدر پس تل آرمید\nصبح ز مشرق دمید\nجامۂ شب بر درید\nباد بیابان وزید\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now the moon, her journey over, goes into her sand hill shelter, dawns a new day, so much brighter than the moon for all her splendour. Blows the desert wind of summer! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "نغمۂ من دلگشای\nزیر و بمش جانفرای\nقافلہ ہا را درای\nفتنہ ربا فتنہ زای\nاے بہ حرم چہرہ سای\nتیزترک گام زن منزل ما دور نیست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lively is the song that I sing; lively, but full of foreboding – for the caravan a warning that the hour has struck for starting. Kisser of the Haram’s paving! Quicken your pace just a little; journey’s end is not far off.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

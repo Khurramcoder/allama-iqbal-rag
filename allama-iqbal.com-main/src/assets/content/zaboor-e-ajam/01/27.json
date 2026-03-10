@@ -1,0 +1,102 @@
+{
+  "id": "27",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از آن آبی کہ در من لالہ کارد ساتگینی دہ\nکف خاک مرا ساقی بباد فرودینی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے ایسی شراب کا پیالہ عصا فرما: جو میرے گل لالہ کو کھلا دے؛ ساقی! میری مشت خاک کو باد بہار کے سپرد کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The juice that maketh tulips spring within the heart – a bumper bring, Saki! And let the April gust scatter at will my body’s dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ز مینائی کہ خوردم در فرنگ اندیشہ تاریکست\nسفر ورزیدۂ خود را نگاہ راہ بینی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے یورپ میں علم کی جو شراب پی اس نے میری سوچ کو تاریک کر دیا ہے؛ اپنی منزل کے مسافر کو ایسی نگاہ عطا فرمائیے جو صحیح راہ پہچان لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I drank the West’s enamelled bowl, and darkness settled o’er my soul; O give me sight to see the way and where I went so sore astray.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چو خس از موج ہر بادی کہ می آید ز جا رفتم\nدل من از گمانہا در خروش آمد یقینی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری یہ حالت ہے کہ تنکے کی مانند ہوا کے ہر جھونکے سے اپنی جگہ سے ہل جاتا ہوں؛ میرا دل شکوک سے فریاد کناں ہے، مجھے یقین محکم عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Upon the wave of every breeze like chaff I turned as it might please; tumultuous beats the heart of me with vain surmise; give certainty!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بجانم آرزوہا بود و نابود شرر دارد\nشبم را کوکبی از آرزوی دل نشینی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل میں آرزوئیں شرر کی مانند اٹھتی ہیں اور بجھتی رہتی ہیں؛ میری رات کی تاریکی کو ایک آرزو ئے دلنشین کا ستارہ عطا فرمائیے! (ستارہ کی روشنی مستقل ہے ، شرر کی مانند نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My spirit’s fretful small desire glows wanly as a spark of fire; give me desire of heart’s delight, a star to shine upon my night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بدستم خامہ ئی دادی کہ نقش خسروی بندد\nرقم کش این چنینم کردہ ئی لوح جبینی دہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ نے مجھے قلم عطا فرمایا ہے کہ میں اس سے شاہکار نقوش رقم کروں؛ مجھے ایسا لکھنے والا بنایا ہے تو کوئی ایسی لوح جبیں بھی عطا فرمائیے (جہاں میں یہ نقوش رقم کر سکوں)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou gavest in my hand a pen skilful to paint a king of men; thou madest me a scribe; then give a tablet, that my creed may live!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

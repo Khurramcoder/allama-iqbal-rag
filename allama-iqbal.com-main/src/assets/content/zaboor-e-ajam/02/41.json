@@ -1,0 +1,102 @@
+{
+  "id": "41",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چو خورشید سحر پیدا نگاہی می توان کردن\nہمین خاک سیہ را جلوہ گاہی میتوان کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی نگاہ کو خورشید سحر کی مانند روشن کیا جا سکتا ہے، اور پھر اس کی مدد سے خاک سیاہ (دنیا) کو اللہ تعالے کے جمال کی جلوہ گاہ بنایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Vision can be won as of morning sun, making this dark clay radiant as day.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نگاہ خویش را از نوک سوزن تیز تر گردان\nچو جوہر در دل آئینہ راہی میتوان کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی نگاہ کو نوک سوزن کی طرح تیز بنا لے، پھر اس کی مدد سے ہر آئینے کے اندر رستہ بنایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let thy vision be needle-sharp in thee, like its lustre pass thro’ the heart o’ the glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درین گلشن کہ بر مرغ چمن راہ فغان تنگ است\nبانداز گشود غنچہ آہی می توان کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ گلشن (غلام ملک) جس میں مرغ چمن کے لیے نالہ و فغاں مشکل ہے، یہاں کلی کے چٹکنے کی آواز میں آہ کی جا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this garden, where hushed is warbler’s air, as each bursting bud chant thy tragic mode.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ این عالم حجاب او را نہ آن عالم نقاب او را\nاگر تاب نظر داری نگاہی میتوان کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تیرے اندر دیکھنے کی تاب ہے تو دونوں جہانوں کو دیکھا جا سکتا ہے، پھر تیرے لیے نہ یہ دنیا پردہ ہے نہ دوسری دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth hides not His grace, heav’n veils not His face thou may’st view, for sure’, if thou canst endure.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تو در زیر درختان ہمچو طفلان آشیان بینی\nبہ پرواز آکہ صید مہر و ماہی میتوان کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو بچوں کی طرح درختوں کے نیچے کھڑا آشیانے کو دیکھ رہا ہے، ( درخت کے نیچے سے نکل) پرواز میں آ، مہر و ماہ کو بھی شکار کیا جا سکتا ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Childlike watchest thou nests beneath the bough; mount on wings, and soon hunt the sun and moon!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "66",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مپرس از عشق و از نیرنگی عشق\nبہر رنگی کہ خواہی سر بر آرد\nدرون سینہ بیش از نقطہ ئی نیست\nچو آید بر زبان پایان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق اور اس کے طلسم کی بات کر ؛ تو جو رنگ چاہے وہ اسی کو اختیار کر سکتا ہے۔ \nسینے کے اندر ہو تو یہ ایک نقطے سے زیادہ نہیں؛ زبا ن پر آئے تو اس کی کوئی حد نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speak not of Love, and of Love’s wizardry: Whatever shape thou wilt, he doth descend:\nWithin the breast he is a spark, no more, but on the tongue a tale without an end.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,125 @@
+{
+  "id": "22",
+  "name": "گل پژمردہ",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کس زباں سے اے گل پژمردہ تجھ کو گل کہوں\nکس طرح تجھ کو تمنائے دل بلبل کہوں",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل پژمردہ: مرجھایا ہوا پھول۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How shall I call you now a flower? Tell me, oh withered rose! How call you that beloved for whom the nightingale’s heart glows?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تھی کبھی موج صبا گہوارہء جنباں ترا\nنام تھا صحن گلستاں میں گل خنداں ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "گہوارہء جنباں: ہلنے والا جھولا، پالنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The winds’ soft ripples cradled you and rocked your bygone hours; And your name once was Laughing Rose in the country of flowers.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیرے احساں کا نسیم صبح کو اقرار تھا\nباغ تیرے دم سے گویا طبلہء عطار تھا",
+              "lang": "Original"
+            },
+            {
+              "_content": "طبلہء عطار: عطر فروخت کرنے والے کا صندوقچہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With the dawn breezes that received your favours you once played; like a perfumer’s vase your breath sweetened the garden glade.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تجھ پہ برساتا ہے شبنم دیدہء گریاں مرا\nہے نہاں تیری اداسی میں دل ویراں مرا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These eyes are full, and drops like dew fall thick on you again; this desolate heart finds dimly its own image in your pain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "میری بربادی کی ہے چھوٹی سی اک تصویر تو\nخوا ب میری زندگی تھی جس کی ہے تعبیر تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "تعبير: بیان کرنا ، خاص کر خواب کا نتیجہ بیا ن کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A record drawn in miniature of all its sorry gleaming; my life was all a life of dreams, and you – you are its meaning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہمچو نے از نیستان خود حکایت می کنم\nبشنو اے گل! از جدائی ہا شکایت می کنم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں بانسری کی طرح اپنے نیستاں کی کہانی سناتا ہوں۔ اے پھول سن! 'میں بھی جدائی کا گلہ کرتا ہوں۔ (یہ شعر مولانا روم کی مثنوی کے پہلے شعر سے اخذ کیا ہے، مراد ہے کہ جس طرح مرجھایا ہوا پھول زبان حال سے اپنی پہلی کیفیّت اور چمن کی حکایت سناتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I tell my stories as the reed plucked from its native wild murmurs: Oh Rose, listen! I tell the grief of hearts exiled.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "A Withered Rose",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

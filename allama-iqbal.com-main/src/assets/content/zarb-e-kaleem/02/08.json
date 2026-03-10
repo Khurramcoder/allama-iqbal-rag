@@ -1,0 +1,99 @@
+{
+  "id": "08",
+  "name": "سلطان ٹیپو کی وصیت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو رہ نورد شوق ہے، منزل نہ کر قبول \nلیلی بھی ہم نشیں ہو تو محمل نہ کر قبول",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you traverse the road of love, don't yearn to seek repose or rest; if Laila be your companion close that litter shun with great contempt.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اے جوئے آب بڑھ کے ہو دریائے تند و تیز \nساحل تجھے عطا ہو تو ساحل نہ کر قبول",
+              "lang": "Original"
+            },
+            {
+              "_content": "جوئے آب: ندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O steamlet, onward flow and get transformed to torrent strong and deep, if bank is e'er on you bestowed, abstain, flow on with mighty sweep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کھویا نہ جا صنم کدہ کائنات میں \nمحفل گداز ! گرمی محفل نہ کر قبول",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Don't lose your bearings in this world, because with idols it is full: The assemblage here can cast a spell, disdain, or strings of heart shall pull.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "صبح ازل یہ مجھ سے کہا جبرئیل نے \nجو عقل کا غلام ہو، وہ دل نہ کر قبول",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gabriel on Creation's Early Morn, a piece of useful counsel gave: He bade me not accept a heart enchained by mind of man like slave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "باطل دوئی پسند ہے، حق لا شریک ہے \nشرکت میانہ حق و باطل نہ کر قبول!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Untruth conceals in various masks, but Truth and God are both unique. There can't be pool 'twixt good and bad, this fact is known from times antique.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Testament Of Tipu Sultan",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

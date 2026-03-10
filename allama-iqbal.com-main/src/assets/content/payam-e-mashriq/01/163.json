@@ -1,0 +1,34 @@
+{
+  "id": "163",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہنوز از بند آب و گل نرستی\nتو گوئی رومی و افغانیم من\nمن اول آدم بی رنگ و بویم\nاز آن پس ہندی و تورانیم من",
+              "lang": "Original"
+            },
+            {
+              "_content": "ابھی تک تو آب و گل کے بندھن سے آزاد نہیں ہوا، تو کہتا ہے کہ میں رومی ہوں، میں افغانی ہوں۔\nمیں پہلے بے رنگ و بو (محض انسان) ہوں، اس کے بعد ہندی یا تورانی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are still tied to colour and to race, so you call me Afghan or Turkoman. \nBut I am first of all a man, plain man, and then an Indian or Turanian.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "15",
+  "name": "",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "03",
+  "sectionName": "ملا زادہ ضیغم لولا بے کشمیری کا بیاض",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ضمیر مغرب ہے تاجرانہ، ضمیر مشرق ہے راہبانہ\nوہاں دگرگوں ہے لحظہ لحظہ، یہاں بدلتا نہیں زمانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A trade, ‘West’s conscience, ‘hermitage’; in East, there changes world quick, here changes world least.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "کنار دریا خضر نے مجھ سے کہا بہ انداز محرمانہ\nسکندری ہو، قلندری ہو، یہ سب طریقے ہیں ساحرانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "بہ انداز محرمانہ: دوستانہ طریقے سے۔ \nساحرانہ: جادوگری انداز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Khizr said me once with a confidence, a king or poor’s way all a magic hence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حریف اپنا سمجھ رہے ہیں مجھے خدایان خانقاہی\nانھیں یہ ڈر ہے کہ میرے نالوں سے شق نہ ہو سنگ آستانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "حریف: مدمقابل، دشمن۔ \nخدایان خانقاہی: مراد ہے پیر۔ \nشق نہ ہو سنگ آستانہ: شق کے معنی ٹوٹنا؛ مراد ہے مقبرے تہس نہس نہ ہو جائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lords of hermitage, to me a rival take, their tomb stone they fear, my wails may not break.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "غلم قوموں کے علم و عرفاں کی ہے یہی رمز آشکارا\nزمیں اگر تنگ ہے تو کیا ہے، فضائے گردوں ہے بے کرانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "علم و عرفاں: ظاہری اور باطنی علم۔ \nرمز آشکارا: صاف سامنے آنے والا بھید۔ \nگردوں ہے بے کرانہ:آسمان بغیر کنارے کے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A slave nation’s gnosis gives a clear sign, if this earth is tight, the vast skies are mine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "خبر نہیں کیا ہے نام اس کا، خدا فریبی کہ خود فریبی\nعمل سے فارغ ہوا مسلماں بنا کے تقدیر کا بہانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "خدا فریبی: خدا کو دھوکہ دینا۔ \nخود فریبی: اپنے آپ کو دھوکہ دینا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does he dupes God or dupes his self alone, when he left practice to fate’s plea he owns.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مری اسیری پہ شاخ گل نے یہ کہہ کے صیاد کو رلیا\nکہ ایسے پرسوز نغمہ خواں کا گراں نہ تھا مجھ پہ آشیانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "پرسوز نغمہ خواں: جس کے نغموں میں سوز ہو۔ \nگراں: بھاری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The rose put the hunter in weeping trance, from such flamed poet I felt no load hence.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

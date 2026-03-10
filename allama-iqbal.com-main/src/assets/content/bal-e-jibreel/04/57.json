@@ -1,0 +1,84 @@
+{
+  "id": "57",
+  "name": "آزادی افکار",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جو دونی فطرت سے نہیں لائق پرواز \nاس مرغک بیچارہ کا انجام ہے افتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغک: پرندہ۔ \nدوني فطرت: فطرت کی پستی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Falling down is the destiny of that bird whose duality of nature renders him unable to fly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہر سینہ نشیمن نہیں جبریل امیں کا \nہر فکر نہیں طائر فردوس کا صےاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "طائر فردوس: جنت کا پرندہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not every heart is an abode to the trusty Gabriel, nor can every thought ensnare the Paradise like a bird.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس قوم میں ہے شوخی اندیشہ خطرناک \nجس قوم کے افراد ہوں ہر بند سے آزاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The ecstasy of thought is dangerous in a nation where the individuals observe no rule.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گو فکر خدا داد سے روشن ہے زمانہ \nآزادی افکار ہے ابلیس کی ایجاد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though God-gifted intellect is the lamp of an age, the freedom of thought is a Satanic concept.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Freedom Of Thought",
+  "credits": "English Translation by: Naim Siddiqui"
+}

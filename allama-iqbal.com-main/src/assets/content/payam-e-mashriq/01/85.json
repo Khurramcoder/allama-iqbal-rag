@@ -1,0 +1,33 @@
+{
+  "id": "85",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نہان در سینۂ ما عالمی ہست\nبخاک ما دلی در دل غمی ہست \nاز آن صہبا کہ جان ما بر افروخت\nہنوز اندر سبوی ما نمی ہست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a world concealed within my breast, heart in my dust, by passion’s grief possest. \nAnd of the Wine that first lit up the soul one drop within my pitcher yet doth rest.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

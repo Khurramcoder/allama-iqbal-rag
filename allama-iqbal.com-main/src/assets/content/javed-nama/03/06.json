@@ -1,0 +1,363 @@
+{
+  "id": "06",
+  "name": "حکومت الھی",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "03",
+  "sectionName": "فلک عطارد",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بندۂ حق بے نیاز از ہر مقام\nنے غلام او را نہ او کس را غلام",
+              "lang": "Original"
+            },
+            {
+              "_content": "بندہء حق ہر مقام سے بے نیاز ہے؛ نہ وہ کسی کا غلام ہے نہ کوئ اس کا غلام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The servant of God has no need of any station, no man is his slave, and he is the slave of none;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رسم و راہ و دین و آئینش ز حق\nزشت و خوب و تلخ و نوشینش ز حق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی رسم و راہ اور دین و آئین سب اللہ تعالے کی طرف سے ہیں؛ اس کا محبوب و نا محبوب و تلخ و شیرین بھی اللہ تعالے کے احکام کے مطابق ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His customs, his way, his faith, his laws are of God, of God his foul and fair, his bitter and sweet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عقل خود بین غافل از بہبود غیر\nسود خود بیند نبیند سود غیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل خود بیں دوسرے کی خیر خواہی سے بے خبر ہے ؛ وہ صرف اپنا فائدہ دیکھتی ہے کسی اور کا فائدہ نہیں دیکھتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The self-seeking mind heeds not another’s welfare, sees only its own benefit, not another’s;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وحی حق بینندۂ سود ہمہ\nدر نگاہش سود و بہبود ہمہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق تعالے کی وحی سب کا فائدہ پیش نظر رکھتی ہے ؛ اس کی نگاہ میں ہر ایک کی بہبود اور مفاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "God’s revelation sees the benefit of all, its regard is for the welfare and profit of all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عادل اندر صلح و ہم اندر مصاف\nوصل و فصلش لایراعی لایخاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "احکام وحی صلح و جنگ دونوں میں عدل پر مبنی ہیں؛ وہ دوستی و دشمنی میں نہ کسی کی رعایت کرتے ہیں نہ کسی کا خوف رکھتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Just alike in peace and in the ranks of war, His joining and parting are without fear and favour;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "غیر حق چون ناہے و آمر شود\nزور ور بر ناتوان قاھر شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب اللہ تعالےکے علاوہ کوئی اور کسی کام کرنے کا حکم دیتا ہے ؛ تو اس سے طاقتور کمزور پر مسلط ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When other than God determines the aye and nay then the strong man tyrannises over the weak;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "زیر گردون آمری از قاہری است\nآمری از \"ما سوی اﷲ\" کافری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "روئے زمین پر حکومتیں جبر سے قائم ہوتی ہیں اس لیے ماسوا اللہ کی حکومت کافری ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this world command is rooted in naked power; mastery drawn from other than God is pure unbelief.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "قاہر آمر کہ باشد پختہ کار\nاز قوانین گرد خود بندد حصار",
+              "lang": "Original"
+            },
+            {
+              "_content": "پختہ کار زبردست آمر، قوانین کے ذریعے اپنے ارد گرد قلعہ بنا لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tyrannical ruler who is well-versed in power builds about himself a fortress made up of edicts;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جرہ شاہین تیز چنگ و زود گیر\nصعوہ را در کارہا گیرد مشیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیز چنگ اور زود گیر شاہیں ممولوں کو اپنے امور حکومت میں مشیر بناتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "White falcon, sharp of claw and swift to seize, he takes for his counsellor the silly sparrow",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "قاہری را شرع و دستوری دہد\nبے بصیرت سرمہ با کوری دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جبر و تسلط کو قانون اور آئین کی صورت دیتا ہے؛ گویا اندھا اندھے کو سرمہ عطا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Giving to tyranny its constitution and laws, a sightless man giving collyrium to the blind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "حاصل آئین و دستور ملوک\nدھخدایان فربہ و دہقان چو دوک",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہوں کے آئین و دستور کا نتیجہ یہ ہوتا ہے کہ جاگیردار موٹے ہو جاتے ہیں ؛ اور دہقان تکلے کی مانند نحیف و نازار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What results from the laws and constitutions of kings? Fat lords of the manor, peasants lean as spindles!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "واے بر دستور جمہور فرنگ\nمردہ تر شد مردہ از صور فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگی جمہوریت کے دستور پر افسوس، فرنگ کی بانگ صور سے مردہ زندہ ہونے کی بجائے اور زیادہ مردہ ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to the constitution of the democracy of Europe! The sound of that trumpet renders the dead still deader;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "حقہ بازان چون سپہر گرد گرد\nاز امم بر تختۂ خود چیدہ نرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرنگی شعبدہ باز گردش کرنے والے آسمان کی بساط پر قوموں کو بطور مہرے رکھے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those tricksters, treacherous as the revolving spheres, have played the nations by their own rules, and swept the board!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "شاطران این گنج ور آن رنج بر\nھر زمان اندر کمین یکدگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "کھیلنے والے دولت اکٹھی کرتے ہیں اور میرے دکھ اور یہ لمحہ ایک دوسرے کی گھات میں ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Robbers they, this one wealthy, that one a toiler, all the time lurking in ambush one for another;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "فاش باید گفت سر دلبران \nما متاع و این ھمہ سوداگران",
+              "lang": "Original"
+            },
+            {
+              "_content": "'سر دلبراں ' کہنا چاہیے، ہم مال و متاع ہیں اور یہ سب سوداگر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now is the hour to disclose the secret of those charmers – we are the merchandise, and they take all the profits.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "دیدہ ہا بے نم ز حب سیم و زر\nمادران را بار دوش آمد پسر",
+              "lang": "Original"
+            },
+            {
+              "_content": "سونے چاندی کی محبت نے ان کی آنکھوں سے ہمدردی چھین لی ہے یہاں تک کہ مائیں اپنے بیٹوں کو بوجھ سمجھنے لگی ہیں (ممتا جیسی چیز بھی ختم ہو گئی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their eyes are hard out of the love of silver and gold, their sons are a burden upon their mothers’ backs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "واے بر قومے کہ از بیم ثمر\nمی برد نم را ز اندام شجر",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قوم پر جو پھل کے خوف سے شجر کے اندر کی نمی کو ضائع کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to a people who, out of fear for the fruit, carries off the very sap from the tree’s trunk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "تا نیارد زخمہ از تارش سرود\nمی کشد نازادہ را اندر وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس خوف سے کہ اس کا مضراب تاروں سے نغمہ پیدا نہ کرے ؛ وہ نا زادہ بچوں کو رحم کے اندر ختم کر دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And, that the plectrum wins no melody from its strings, slays the infant yet unborn in its mother’s womb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "گرچہ دارد شیوہ ہای رنگ رنگ\nمن بجز عبرت نگیرم از فرنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ فرنگ رنگا رنگ انداز رکھتا ہے مگر میں انہیں دیکھ کر عبرت حاصل کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "For all its repertory of varied charms I will take nothing from Europe except-a warning!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "اے بہ تقلیدش اسیر آزاد شو\nدامن قرآن بگیر آزاد شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جو ان کی تقلید کا غلام بنا ہوا ہے آزاد ہو؛ قرآن پاک کا دامن تھام اور صحیح معنوں میں مرد حر بن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You enchained to the imitation of Europe, be free, clutch the skirt of the Koran, and be free!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Divine Government"
+}

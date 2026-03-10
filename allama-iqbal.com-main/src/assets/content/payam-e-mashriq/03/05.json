@@ -1,0 +1,170 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ این بھانہ درین بزم محرمی جویم\nغزل سرایم و پیغام آشنا گویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس بہانہ سے اس بزم میں اپنا محرم (راز) تلاش کرتا ہوں ، غزل گاتا ہوں اور دوست (اللہ تعالے) کا پیغام پہنچاتا ہوں (جو محرم راز ہوتا ہے، وہ اس پیغام کو سمجھ جاتا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is my way of finding in this company a confidant: I sing ghazals and through them I convey the message of my Friend.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بخلوتی کہ سخن می شود حجاب آنجا\nحدیث دل بہ زبان نگاہ می گویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلوت میں جہاں گفتگو بھی حجاب بن جاتا ہے، میں اپنے دل کی بات نگاہ کی زبان سے ادا کرتا ہوں،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that peculiar privacy where speech acts as a veil I let my heart speak in the language of the eyes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پی نظارۂ روی تو می کنم پاکش\nنگاہ شوق بہ جوی سرشک می شویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے چہرے کا نظارہ کرنے کے لیے اپنی نگاہ شوق کو آنسوؤں کی ندی میں دھو کر پاک کرتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In order to cleanse it and make it fit to see Your face, I wash my sight with tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "چو غنچہ گرچہ بہ کارم گرہ زنند ولی\nز شوق جلوہ گہ آفتاب می رویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میرے کام میں غنچہ کی مانند گرہ ڈال دی گئی ہے، مگر میں (پھر بھی) آفتاب کی جلوہ گاہ کے شوق میں آگے ہی بڑھتا جا رہا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though my affairs are tied up in a knot, just like a bud, I grow with a bud’s eagerness to witness the sun’s glory.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چو موج ساز وجودم ز سیل بی پرواست\nگمان مبر کہ درین بحر ساحلی جویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "موج کی مانند طوفان بے پروا ہی میرے وجود کا سامان ہے، یہ گمان نہ کر کہ میں اس بحر میں ساحل کا متلاشی ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My being is a wave, which fears no flood. Do not think that I seek a shore while swimming in the sea of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "میانہ من و او ربط دیدہ و نظر است\nکہ در نہایت دوری ہمیشہ با اویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اور اس (اللہ تعالے) کے درمیان آنکھ اور نظر کا سا تعلق ہے، کہ اس سے بہت دور ہونے کے باوجود بھی میں ہمیشہ اس کے ساتھ ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is to me what sight is to the eye. Even at the farthest remove I always am with Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کشید نقش جھانی بہ پردۂ چشمم\nز دست شعبدہ بازی اسیر جادویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں ایک شعبدہ باز (زمانہ) کے ہاتھ سے جادو میں گرفتار ہوں، اس نے میری آنکھ کے پردے پر اس جہان کا نقش بنا دیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He painted on my eye’s screen the picture of a world. It is as if I were under a magic-maker’s spell.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "درون گنبد در بستہ اش نگنجیدم\nمن آسمان کہن را چو خار پھلویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس کہنہ آسمان کے پہلو میں خار کی طرح کھٹکتا ہوں ، کیونکہ میں اس کے بند گنبد میں اس کے بند گنبد میں سماتا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its dome with its doors shut cannot contain me. I am a thorn in the side of this ancient sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "بہ آشیان ننشینم ز لذت پرواز\nگہی بہ شاخ گلم گاہ بر لب جویم",
+              "lang": "Original"
+            },
+            {
+              "_content": "لذت پرواز مجھے آشیانے میں نہیں بیٹھنے دیتی، ابھی میں شاخ گل پر ہوتا ہوں اور کبھی ندی کے کنارے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The joy of being on the wing will not let me rest in my nest. One moment on a tree branch, the next I am on the stream’s brink.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

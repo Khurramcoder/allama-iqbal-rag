@@ -1,0 +1,34 @@
+{
+  "id": "55",
+  "name": "ماہر نفسیات سے",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جرات ہے تو افکار کی دنیا سے گزر جا \nہیں بحر خودی میں ابھی پوشیدہ جزیرے \nکھلتے نہیں اس قلزم خاموش کے اسرار \nجب تک تو اسے ضرب کلیمی سے نہ چیرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Transcend the intellect if you have courage to do so: there are islands hidden in the ocean of the self as yet.\nThe secrets of this silent sea, however, do not yield until you cut it with the blow of the Moses’ rod.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "To The Psychologist",
+  "credits": "English Translation by: Naim Siddiqui"
+}

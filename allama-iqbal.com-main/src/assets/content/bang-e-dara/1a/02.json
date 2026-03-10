@@ -1,0 +1,238 @@
+{
+  "id": "02",
+  "name": "گل رنگیں",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو شناسائے خراش عقدئہ مشکل نہیں\nاے گل رنگیں ترے پہلو میں شاید دل نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "شناسا: واقف، جاننے والا۔ \nعقدئہ مشکل: وہ گتھی جسے سلجھانا آسان نہ ہو۔ \nگل رنگیں: رنگوں بھرا پھول۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are not familiar with the hardships of solving enigmas O Beautiful Rose! Perhaps you do not have sublime feelings in your heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زیب محفل ہے، شریک شورش محفل نہیں\nیہ فراغت بزم ہستی میں مجھے حاصل نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "زیب محفل: محفل کی زینت۔ \nفراغت: فرصت، مہلت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you adorn the assembly yet do not participate in its struggles; in life's assembly I am not endowed with this comfort.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس چمن میں میں سراپا سوز و ساز آرزو\nاور تیری زندگانی بے گداز آرزو",
+              "lang": "Original"
+            },
+            {
+              "_content": "گداز: نرم، گھولنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this garden I am the complete orchestra of Longing and your life is devoid of the warmth of that Longing.\n(Longing: Or ardent desire is one of the important planks of `Allamah Iqbal’s philosophy. However, this longing is not for the material things of life or the satisfaction of physical desires, which is found in all living things. What distinguishes Man from other creation and entitles him to the honor of being God’s vicegerent on earth is the ‘longing’ for more elegant goals and more sublime desires than mere indulgence in material pleasures. His longing is a limitless ocean of search for knowing the Truth and the Purpose of the creation of God, knowledge of His Essence, and fixing of high ideals for life, such as struggle in the cause of God.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "توڑ لینا شاخ سے تجھ کو مرا آئیں نہیں\nیہ نظر غیر از نگاہ چشم صورت بیں نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To pluck you from the branch is not my custom; this sight is not different from the sight of the eye which can only see the appearances.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آہ! یہ دست جفاجو اے گل رنگیں نہیں\nکس طرح تجھ کو یہ سمجھائوں کہ میں گلچیں نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل رنگیں: رنگوں بھرا پھول۔ \nگلچیں: پھول چننے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! O colorful rose this hand is not one of a tormentor; how can I explain to you that I am not a flower picker.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کام مجھ کو دیدئہ حکمت کے الجھیڑوں سے کیا\nدیدئہ بلبل سے میں کرتا ہوں نظارہ ترا",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیدئہ حکمت: تدبیر والی آنکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am not concerned with intricacies of the philosophic eye, like a lover I see you through the nightingale's eye.\n(Bulbul, or Nightingale: This is a special Persian bird found in gardens and proverbially engaged in melodious music round flowers. It is imagined to be and is described as an ardent lover of flowers in Persian and Urdu literature, especially poetry.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "سو زبانوں پر بھی خاموشی تجھے منظور ہے\nراز وہ کیا ہے ترے سینے میں جو مستور ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستور: چھپا ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In spite of innumerable tongues* you have chosen silence. What is the secret which is concealed in your bosom?\n* This alludes to the anatomy of the rose flower, whose petals are innumerable, look like tongues and also add to its beauty, which proclaims the artistry of its Creator in spite of the apparent silence of the flower.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "میری صورت تو بھی اک برگ ریاض طور ہے\nمیں چمن سے دور ہوں تو بھی چمن سے دور ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like me you are also a leaf from the garden of Toor; far from the garden I am, far from the garden you are.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "مطمئن ہے تو، پریشاں مثل بو رہتا ہوں میں\nزخمی شمشیر ذوق جستجو رہتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "زخمی شمشیر ذوق جستجو: تلاش کے شوق کی تلوار کا زخمی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are content but scattered like fragrance I am wounded by the sword of love for search I am.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "یہ پریشانی مری سامان جمعیت نہ ہو\nیہ جگر سوزی چراغ خانہ حکمت نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "سامان جمعیت: سکون اور تسلی کا سبب۔ \nچراغ خانہ حکمت: عقل و دانش کے گھر کا چراغ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This perturbation of mine a means for fulfillment could be; this torment a source of my intellectual illumination could be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "ناتوانی ہی مری سرمایہ قوت نہ ہو\nرشک جام جم مرا آ ینہ حیرت نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "_content": "جام جم: جمشید بادشاہ کا پیالہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This very frailty of mine the means of strength could be; this mirror of mine envy of the cup of Jam* could be.\n* This is the legendary cup of the Persian emperor Jam in which he could see whatever he wanted to see wherever he wanted to see.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یہ تلاش متصل شمع جہاں افروز ہے\nتوسن ادراک انساں کو خرام آموز ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ادراک: عقل۔\nتوسن: گھوڑا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This constant search is a world-illuminating candle and teaches to the steed of human intellect its gait.\n(This last stanza expresses Allamah Iqbal's strong hope that his present condition may be the means of attaining his objective which is described in the stanza.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    }
+  ],
+  "name-en": "The Colorful Rose",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

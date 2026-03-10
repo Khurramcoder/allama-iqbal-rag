@@ -1,0 +1,82 @@
+{
+  "id": "05",
+  "name": "مناصب",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہوا ہے بندئہ مومن فسونی افرنگ \nاسی سبب سے قلندر کی آنکھ ہے نم ناک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Muslims have been charmed by spell that Franks have cast; hence eyes of this Qalender shed tears much hot and fast.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترے بلند مناصب کی خیر ہو یارب \nکہ ان کے واسطے تو نے کیا خودی کو ہلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God preserve and guard your state and lofty ranks! You have slaughtered the Self for ranks conferred by Franks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مگر یہ بات چھپائے سے چھپ نہیں سکتی \nسمجھ گئی ہے اسے ہر طبیعت چالاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though man may try his best, yet he can't hide the fact; this point is known to all who own a bit of tact.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شریک حکم غلاموں کو کر نہیں سکتے \nخریدتے ہیں فقط ان کا جوہر ادراک!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They don't consort with slaves in case of rule and might; they buy the wit of serfs to gain the ends, in sight.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "High Offices",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

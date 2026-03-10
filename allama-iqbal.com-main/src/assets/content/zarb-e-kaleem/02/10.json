@@ -1,0 +1,85 @@
+{
+  "id": "10",
+  "name": "بیداری",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جس بندئہ حق بیں کی خودی ہوگئی بیدار \nشمشیر کی مانند ہے برندہ و براق",
+              "lang": "Original"
+            },
+            {
+              "_content": "برندہ و براق: کاٹ دار اور چمکدار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A man with true belief, whose Self attentive grows like sturdy sword of steel, can cut and sheen it shows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "اس کی نگہ شوخ پہ ہوتی ہے نمودار \nہر ذرے میں پوشیدہ ہے جو قوت اشراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوت اشراق: روشن ہونا ، طلوع ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The urge to shine and grow, within the mote concealed; 'fore his eyes sharp and keen is with much haste revealed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اس مرد خدا سے کوئی نسبت نہیں تجھ کو \nتو بندئہ آفاق ہے، وہ صاحب آفاق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have no link or bond with men of godly brand, you are a slave to world, on world he holds command.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تجھ میں ابھی پیدا نہیں ساحل کی طلب بھی \nوہ پاکی فطرت سے ہوا محرم اعماق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اعماق: گہرائیاں، عمیق کی جمع۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So far you have not formed for coast a love or taste: He knows the depths full well, by dint of nature chaste.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Awakening",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "44",
+  "name": "خودی",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی کو نہ دے سیم و زر کے عوض \nنہیں شعلہ دیتے شرر کے عوض \nیہ کہتا ہے فردوسی دیدہ ور \nعجم جس کے سرمے سے روشن بصر \nز بہر درم تند و بدخو مباش \nتو باید کہ باشی، درم گو مباش",
+              "lang": "Original"
+            },
+            {
+              "_content": "روپے پیسے کے لیے غصّے میں نہ آ اور اپنی عادت میں بگاڑ پیدا نہ کر ؛ چاہیے کہ تو اپنی اصل حالت برقرار رکھے ۔ پیسہ نہیں ملتا تو نہ ملے، تیرے لیے کہاں زیبا ہے کہ اس کے پیچھے اپنی انسانیت کو برباد کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Barter not thy selfhood for silver and gold; sell not a burning flame for a spark half-cold;\nSo says Firdowsi, the poet of vision and grace, who brought to the East the dawn of brighter days:\nBe not a churl for filthy lucre’s sake; count not thy coppers, whatever they may make.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Self",
+  "credits": "English Translation by: Naim Siddiqui"
+}

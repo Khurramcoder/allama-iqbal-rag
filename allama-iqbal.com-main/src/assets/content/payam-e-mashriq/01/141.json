@@ -1,0 +1,33 @@
+{
+  "id": "141",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نوا مستانہ در محفل زدم من\nشرار زندگی بر گل زدم من\nدل از نور خرد کردم ضیا گیر\nخرد را بر عیار دل زدم من",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the great throng so rapturous I did play, I struck the spark of Life out of their clay; \nI lit the heart with the mind’s radiance, and probed the mind against the heart’s assay.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

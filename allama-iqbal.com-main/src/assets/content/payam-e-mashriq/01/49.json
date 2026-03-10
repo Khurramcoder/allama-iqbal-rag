@@ -1,0 +1,34 @@
+{
+  "id": "49",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ھمای علم تا افتد بدامت\nیقین کم کن گرفتار شکی باش\nعمل خواہی یقین را پختہ تر کن\nیکی جوی و یکی بین و یکی باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو چاہتا ہے کہ علم کی ہما تیرے جال میں آ جا ئے تو یقین کم کر، ہر بات کو شک کی نظر سے دیکھ ( بحث مباحثہ کر)۔\nاگر عمل چاہتا ہے، تو اپنا یقین پختہ کر ، ایک مقصود کے پیچھے لگ جا، اسی پر نظر رکھ اور وہی ہو جا ۔ (رانجھا رانجھا آکھدی میں آپے رانجھا ہوئی)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you seek knowledge, then be of two minds; increase your doubt, decrease your certainty.\nIf you seek action, doubt less, be more sure, be of one mind, one personality.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

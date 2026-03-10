@@ -1,0 +1,132 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "متاع بے بہا ہے درد و سوز آرزو مندی \nمقام بندگی دے کر نہ لوں شان خداوندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Consuming fire for thee, O Lord! Is a gift I will not barter; I will not change my vassal’s rank with that of a master of men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ترے آزاد بندوں کی نہ یہ دنیا، نہ وہ دنیا \nیہاں مرنے کی پابندی، وہاں جینے کی پابندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither this world nor the next is fit for the freedom-loving; they are forced to die in this, and forced to live in the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حجاب اکسیر ہے آوارہ کوئے محبت کو \nمیری آتش کو بھڑکاتی ہے تیری دیر پیوندی",
+              "lang": "Original"
+            },
+            {
+              "_content": "دیر پیوندی: دیر کے بعد ملنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy tantalizing reticence inflames my passion more; concealment is an elixir for those who are lost in love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گزر اوقات کر لیتا ہے یہ کوہ و بیاباں میں \nکہ شاہیں کے لیے ذلت ہے کار آشیاں بندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The austere eagle lives in peace on hills and in wildernesses: It never doth demean its pride by building an abode for itself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یہ فیضان نظر تھا یا کہ مکتب کی کرامت تھی \nسکھائے کس نے اسمعیل کو آداب فرزندی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who taught to young Isma’il (A.S.) the ways of filial obedience? Was it the blessing of a glance, or the miracle of tutelage?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "زیارت گاہ اہل عزم و ہمت ہے لحد میری \nکہ خاک راہ کو میں نے بتایا راز الوندی",
+              "lang": "Original"
+            },
+            {
+              "_content": "الوند: ایران کا ایک مشہور پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My grave is like a shrine for men of thought and courage, for I have revealed truths sublime to mere specks of dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مری مشاطگی کی کیا ضرورت حسن معنی کو \nکہ فطرت خود بخود کرتی ہے لالے کی حنا بندی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مشاطگی: بناؤ سنگھار کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The beauty of meaning need riot be adorned by my craft, for nature does herself incarnadine the rose.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Victor Kiernan"
+}

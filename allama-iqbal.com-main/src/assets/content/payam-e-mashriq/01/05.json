@@ -1,0 +1,34 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقابان را بھای کم نہد عشق\nتذروان را ببازان سر دہد عشق\nنگہ دارد دل ما خویشتن را\nولیکن از کمینش بر جہد عشق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی نظر میں عقاب کوئی شے نہیں؛ وہ تدرو (چھوٹے سے پرندے ) کو بازوں سے لڑا دیتا ہے۔ \nہمارے دل نے اپنی بہت حفاظت کی؛ مگر عشق نے اپنی گھات سے (نکل کر) اس پر حملہ کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love reckoneth the price of eagles cheap, and giveth pheasants to the falcons’ grip.\nOur hearts look carefully to their defence, but suddenly, out of ambush, Love doth leap.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

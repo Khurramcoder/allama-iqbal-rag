@@ -1,0 +1,85 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عقل هم عشق است و از ذوق نگه بیگانه نیست\nلیکن این بیچارہ را آن جرأت رندانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل بھی عشق ہے اور ذوق نگاہ سے بیگانہ نہیں، البتہ اس بیچاری میں جراءت رندانہ نہیں (یہ پھونک پھونک کر قدم رکھتی ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect is passion too, and it knows the joy to view, but the poor unfortunate dares not as the inebriate.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرچہ می دانم خیال منزل ایجاد من است\nدر سفر از پا نشستن ھمت مردانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں جانتا ہوں کہ منزل کا خیال میری اپنی ایجاد ہے، لیکن سفر چھوڑ کے بیٹھ جانا ہمت مردانہ کے منافی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though I know the fantasy of the stage was shaped by me, yet it were a coward’s way on the journey to delay.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر زمان یک تازہ جولانگاہ میخواہم ازو\nتا جنون فرمای من گوید دگر ویرانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس سے ہر لمحہ ایک تازہ جولاں گاہ کا خواہاں رہتا ہوں، یہاں تک کہ میرا جنوں فرما (مجھے جنوں عطا کرنے والا) کہہ دے کہ اب اور کوئی ویرانہ باقی نہیں رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Every moment is my prayer that I may yet further fare, till my folly’s governor says there is no desert more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "با چنین زور جنون پاس گریبان داشتم\nدر جنون از خود نرفتن کار ہر دیوانہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس قدر زور جنوں میں گریباں کا پاس رکھنا ہر دیوانہ کا کام نہیں کہ وہ جنوں میں از خود رفتہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In such frenzy of the soul still I do not yield control: every madman cannot boast that to self he is not lost!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "19",
+  "name": "جمہوریت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس راز کو اک مرد فرنگی نے کیا فاش \nہر چند کہ دانا اسے کھولا نہیں کرتے \nجمہوریت اک طرز حکومت ہے کہ جس میں \nبندوں کو گنا کرتے ہیں، تولا نہیں کرتے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By some European sage this secret was revealed, though men endowed with sense, keep points like this concealed.\nDemocracy means a mode to rule the common man no doubt, they count the votes, but conduct do not scan.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Democracy",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

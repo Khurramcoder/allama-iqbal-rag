@@ -1,0 +1,129 @@
+{
+  "id": "02",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ کون غزل خواں ہے پرسوز و نشاط انگیز \nاندیشہ دانا کو کرتا ہے جنوں آمیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who is this composer of ghazals, who is burningly passionate and cheerful? He makes the thoughts of the wise full of madness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گو فقر بھی رکھتا ہے انداز ملوکانہ \nنا پختہ ہے پرویزی بے سلطنت پرویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although poverty also has royal characteristics, kingship is only half complete without a kingdom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اب حجرہ صوفی میں وہ فقر نہیں باقی \nخون دل شیراں ہو جس فقر کی دستاویز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Now in the cell of the Sufi, the same poverty has not remained: The poverty whose charter is written in the blood of the hearts of lions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے حلقہ درویشاں! وہ مرد خدا کیسا \nہو جس کے گریباں میں ہنگامہ رستا خیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah circle of dervishes, see how the man of God is, in whose collar is the tumult of Judgment’s Day!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جو ذکر کی گرمی سے شعلے کی طرح روشن \nجو فکر کی سرعت میں بجلی سے زیادہ تیز!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who is as bright as a flame by the heat of repetition of God’s name; who is quicker than the lightning by the swiftness of his thought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کرتی ہے ملوکیت آثار جنوں پیدا \nاللہ کے نشتر ہیں تیمور ہو یا چنگیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kingship gives rise to signs of madness: They are the scalpels of Allah, be they Taimur or Genghis.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "یوں داد سخن مجھ کو دیتے ہیں عراق و پارس \nیہ کافر ہندی ہے بے تیغ و سناں خوں ریز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thus Iraq and Persia give me praise for my verse: This Indian infidels sheds blood without swords or spears.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: D.J. Matthews"
+}

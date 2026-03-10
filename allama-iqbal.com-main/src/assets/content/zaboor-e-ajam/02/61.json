@@ -1,0 +1,102 @@
+{
+  "id": "61",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گذر از آنکہ ندیدست و جز خبر ندہد\nسخن دراز کند لذت نظر ندہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "چھوڑ اس شخص کو جس نے حقیقت کو دیکھا نہیں اور نہ اسے بیان کرتا ہے؛ باتیں بہت بناتا ہے مگر دید کی لڈت سے نا آشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave him who never won to sight, and bears report alone; who makes long speech, but the delight of vision gives to none.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شنیدہ ام سخن شاعر و فقیہ و حکیم\nاگرچہ نخل بلند است برگ و بر ندہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے شاعروں ، فقیہوں اور فلسفیوں کی باتیں سنی ہیں؛ اگرچہ ان کا درخت بلند ہے (شہرت بہت ہے) مگر اس درخت کے پتّے ہیں نہ وہ پھل دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To bard and scholar listened I, philosopher to boot; although their palm is proud and high, it yields nor leaf nor fruit.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تجلئی کہ برو پیر دیر می نازد\nہزار شب دہد و تاب یک سحر ندہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس تجلی پر پیر و دیر کو اتنا ناز ہے؛ وہ ہزار ہا شب تو پیدا کرتی ہے مگر ایک صبح نہیں لا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The gleam that hoary acolyte so prides himself upon reveals a thousand shades of night, but never glow of dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہم از خدا گلہ دارم کہ بر زبان نرسد\nمتاع دل برد و یوسفی بہ بر ندہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے خدا سے بھی شکایت ہے جو میں زبان تک نہیں لا سکتی؛ اس نے میرے دل کی متاع لے لی مگر میرے پہلو کو محبوب عطا نہیں کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have a charge ’gainst God to lay that still I keep concealed; he takes my precious heart away, and Joseph does not yield.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہ در حرم نہ بہ بتخانہ یابم آن ساقی\nکہ شعلہ شعلہ ببخشد شرر شرر ندہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے وہ ساقی نہ حرم میں نظر آیا ہے، نہ بتخانے میں؛ جو عشق کی آگ شراروں کی صورت نہ دے بلکہ شعلوں کی صورت عطا کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Neither in idol-house nor shrine that saki I can find to grant, no ember’s fitful shine, but splendour unconfined.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

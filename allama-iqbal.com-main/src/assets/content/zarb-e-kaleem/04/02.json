@@ -1,0 +1,99 @@
+{
+  "id": "02",
+  "name": "تخلیق",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان تازہ کی افکار تازہ سے ہے نمود \nکہ سنگ و خشت سے ہوتے نہیں جہاں پیدا",
+              "lang": "Original"
+            },
+            {
+              "_content": "سنگ و خشت: پتھر اور اینٹ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "New worlds derive their pomp from thoughts quite fresh and new from stones and bricks a world was neither built nor grew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خودی میں ڈوبنے والوں کے عزم و ہمت نے \nاس آبجو سے کیے بحر بے کراں پیدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The firm resolve of those, who depths of Self explore, transforms this stream to sea that has no marge or shore.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "وہی زمانے کی گردش پہ غالب آتا ہے \nجو ہر نفس سے کرے عمر جاوداں پیدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The follow same is lord of freaks of fate and strife, who with e'ery breath he draws creates an eternal life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خودی کی موت سے مشرق کی سر زمینوں میں \nہوا نہ کوئی خدائی کا رازداں پیدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The death of Self has made the lands of East effete, men who God's secrets share in these realms are deplete.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہوائے دشت سے بوئے رفاقت آتی ہے \nعجب نہیں ہے کہ ہوں میرے ہم عناں پیدا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The air of waste gives out the smell of friendship deep, perhaps there may be some who may my company keep.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Creation",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

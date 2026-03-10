@@ -1,0 +1,69 @@
+{
+  "id": "11",
+  "name": "پتوفی",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نفسی درین گلستان ز عروس گل سرودی\nبدلی غمی فزودی ز دلی غمی ربودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اس گلستان (دنیا ) میں ایک لمحہ کے لیے عروس گل کا گیت گایا، (اور اس سے) دل کے غم میں اضافہ بھی کیا اور دل سے غم کو دور بھی کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this garden, for just one moment, you sang of the bride-like rose, you increased the sorrow of some hearts, and dispelled the sorrow of others.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تو بخون خویش بستی کف لالہ را نگاری\nتو بہ آہ صبحگاہی دل غنچہ را گشودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ایک طرف) تو نے اپنے خون سے کف لالہ پر نقش و نگار بنائے ، (دوسری طرف) تو نے اپنی آہ صبحگاہی سے غنچے کا (بند) دل کھلا دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You painted the tulip’s palm with y our blood; and opened the bud’s heart with your sighs at dawn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ نوای خود گم استی سخن تو مرقد تو\nبہ زمین نہ باز رفتی کہ تو از زمین نبودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے سخن اور تیرا مرقد دونوں اپنی نوا میں گم ہیں، تو زمیں میں دوبارہ نہ گیا، کیونکہ تیرا تعلق زمین سے نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are lost in your song – because your verse is your tomb: You did not return to earth because you were not of earth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Petöfi",
+  "credits": "English Translation by: Mustansir Mir"
+}

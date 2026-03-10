@@ -1,0 +1,33 @@
+{
+  "id": "10",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا اندیشہ افلاکی نہیں ہے \nتری پرواز لولاکی نہیں ہے \nیہ مانا اصل شاہینی ہے تیری \nتری آنکھوں میں بے باکی نہیں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy vision is not lofty, ethereal; thou dost not have the flight of a faith inspired.\nThou mayest be of an eagle breed, no doubt, thou dost not have those bold, piercing eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

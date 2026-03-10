@@ -1,0 +1,102 @@
+{
+  "id": "25",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بے تو از خواب عدم دیدہ کشودن نتوان\nبے تو بودن نتوان با تو نبودن نتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے بغیر خواب عدم سے آنکھ کھولی نہیں جا سکتی ، نہ تیرے بغیر ہمارا کوئی وجود ہے، البتہ تو ساتھ ہو تو ہمیں کوئی فنا نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no waking up without You from non-being’s sleep, no being without You, no non-being with You.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در جہان است دل ما کہ جہان در دل ماست\nلب فروبند کہ این عقدۂ گشودن نتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارا دل دنیا میں ہے یا جہان ہمارے دل میں ہے، منہ بند رکھ کیونکہ یہ عقدہ حل نہیں کیا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Are our minds in the world, or is the world within our minds? Keep your mouth shut; this knot can never be resolved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دل یاران ز نواہای پریشانم سوخت\nمن از آن نغمہ تپیدم کہ سرودن نتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "دوستوں کے دل میری پریشاں نواؤں سے جل گئے، اور میں اس نغمہ سے جل رہا ہوں جو گایا نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My friends’ minds are disturbed by my distracted songs. My mind is restless owing to a song that never can be sung.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے صبا از تنک افشانی شبنم چہ شود\nتب و تاب از جگر لالہ ربودن نتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے صبا! ذر ا سی شبنم ٹپکانے سے کیا ہوتا ہے، اس طرح جگر لالہ کی تب و تاب کو زائل نہیں کیا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O zephyr, after all, what can dew’s tiny sprinkling do? The fervour in the tulip’s heart cannot be assuaged.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل بحق بند و گشادی ز سلاطین مطلب\nکہ جبین بر در این بتکدہ سودن نتوان",
+              "lang": "Original"
+            },
+            {
+              "_content": "اللہ تعالے سے دل لگا اور پادشاہوں سے مطلب براری کی خواہش نہ رکھ، اس بتکدہ کے دروازے پر ماتھا نہیں رگڑا جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Attach your heart to God, and seek no help from kings. Theirs is a threshold on which one should never rub one’s brow.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

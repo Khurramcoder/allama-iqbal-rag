@@ -1,0 +1,377 @@
+{
+  "id": "08",
+  "name": "در معنی اینکہ افلاطون",
+  "bookId": "asrar-e-khudi",
+  "bookName": "اسرارِ خودی",
+  "sectionId": "01",
+  "sectionName": "",
+  "Para": [
+    {
+      "name": "در معنی اینکہ افلاطون یونانی کہ تصوف و ادبیات اقوام اسلامیہ از افکار او اثر عظیم پذیرفتہ بر مسلک گوسفندی رفتہ است و از تخیلات او احتراز واجب است",
+      "name-en": "Plato, Whose Thought Has Deeply Influenced The Mysticism And Literature Of Islam, Followed The Sheep’s Doctrine",
+      "name-ur": "اس مطلب کی وضاحت کے لیے کہ افلاطون جس کے افکار سے تصوّف اور مسلم اقوام کے ادب نے بہت اثر لیا ہے وہ مسلک گوسفندی کا پیرو تھا اس لیے اس کے تخیلات سے بچنا چاہیے۔",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "راہب دیرینہ افلاطون حکیم\nاز گروہ گوسفندان قدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکیم افلاطون جو ایک قدیم زمانے کا راہب تھا؛ وہ اپنے عہد کے گوسفندوں کے گروہ میں سے تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Plato, the prime ascetic and sage was one of that ancient flock of sheep.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رخش او در ظلمت معقول گم\nدر کہستان وجود افکندہ سم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا گھوڑا معقولات کے اندھیرے میں راہ گم کیے ہوئے ہے؛ جو ہستی کے کوہستان میں عاجز ہو کر رک گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His Pegasus went astray in the darkness of idealism and dropped its shoe amidst the rocks of actuality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آنچنان افسون نامحسوس خورد\nاعتبار از دست و چشم و گوش برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ قیاسی علم کے فسوں سے اس قدر مسحور ہوا کہ ہاتھ، آنکھ اور کان (جو تجرباتی علم کے ذرائع ہیں) پر سے اس کا اعتبار جاتا رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was so fascinated by the invisible that he made hand, eye, and ear of no account.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گفت سر زندگی در مردن است\nشمع را صد جلوہ از افسردن است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہنے لگا زندگی کا راز مر جانے میں ہے؛ شمع کے بجھ جانے سے سینکڑوں جلوے پیدا ہوتے ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘To die’, said he, ‘is the secret of Life: The candle is glorified by being put out.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بر تخیلہای ما فرمان رواست\nجام او خواب آور و گیتی رباست",
+              "lang": "Original"
+            },
+            {
+              "_content": "(افلاطون) ہمارے افکار پر حکمران ہے؛ حالانکہ اس کا جام خواب آور ہے اور نفیء دنیا کی دعوت دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He dominates our thinking; his cup sends us to sleep and takes the sensible world away from us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گوسفندی در لباس آدم است\nحکم او بر جان صوفی محکم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ انسان کے لباس میں ایک گوسفند ہے؛ مگر وہ صوفی کے تخیّل پر مسلط ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is a sheep in man's clothing, the soul of the Sufi bows to his authority.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عقل خود را بر سر گردون رساند\nعالم اسباب را افسانہ خواند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنی عقل کو بہت کچھ سمجھا، اور عالم اسباب کو محض افسانہ بتایا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He soared with his intellect to the highest heaven and called the world of phenomena a myth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کار او تحلیل اجزای حیات\nقطع شاخ سرو رعنای حیات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا کام حیات کے اجزا کو ناپید کرنا ہے؛ وہ زندگی کے سرو رعنا کی شاخیں کاٹتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "’Twas his work to dissolve the structure of Life; and cut the bough of Life's fair tree asunder.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "فکر افلاطون زیان را سود گفت\nحکمت او بود را نابود گفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "افلاطون کے فکر نے انسان کے نقصان کو اس کا فائدہ قرار دیا ؛ اس کے فلسفہ نے موجود کو نا موجود قرار دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The thought of Plato regarded loss as profit; his philosophy declared that being is not-being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "فطرتش خوابید و خوابی آفرید\nچشم ہوش او سرابی آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت (سلیم) سو گئی اور اس نے خواب کی دنیا تخلیق کی؛ اس کی آنکھ نے سوتے میں سراب پیدا کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His nature drowsed and created a dream; his mind's eye created a mirage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "بسکہ از ذوق عمل محروم بود\nجان او وارفتہ ی معدوم بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ وہ ذوق عمل سے محروم تھا اس لیے اس کی جان عدم کی والہ و شیدا تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since he was without any taste for action; his soul was enraptured by the nonexistent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "منکر ہنگامہ ی موجود گشت\nخالق اعیان نامشہود گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے ہستی کی کشمکش سے انکار کیا اور وہ عیاں (صور عملیہ) پیدا کیے جن کا خارج سے کوئی تعلق نہ تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He disbelieved in the material universe and became the creator of invisible Ideas.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "زندہ جان را عالم امکان خوش است\nمردہ دل را عالم اعیان خوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس شخص کے اندر زندگی ہے اس کے لیے تو ممکنات کی دنیا بہتر ہے؛ البتہ مردہ دل کے لیے خیالی دنیا اچھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sweet is the world of phenomena to the living spirit; dear is the world of Ideas to the dead spirit:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "آہوش بے بہرہ از لطف خرام\nلذت رفتار بر کبکش حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "افلاطون کا آہو خرام کے لطف سے بے بہرہ ہے؛ اس کا چکور لذت رفتار سے محروم ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its gazelles have no grave of movement; its partridges are denied the pleasure of walking daintily.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شبنمش از طاقت رم بے نصیب\nطایرش را سینہ از دم بے نصیب",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی شبنم پرواز سے بے نصیب ہے؛ اس کے پرندے کے سینے میں نغمہ آرائی کا دم نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its dewdrops are unable to quiver; its birds have no breath in their breasts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ذوق روئیدن ندارد دانہ اش\nاز طپیدن بے خبر پروانہ اش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دانے میں اگنے کا ذوق نہیں ؛ اس کا پروانہ تڑپ سے ناآشنا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its seed does not desire to grow. Its moths do not know how to flutter.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "راہب ما چارہ غیر از رم نداشت\nطاقت غوغای این عالم نداشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس راہب کے لیے فرار کے علاوہ اور کوئی چارہ نہ تھا ؛ وہ اس دنیا کے ہنگامے کی طاقت نہ رکھتا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our recluse had no remedy but flight: He could not endure the noise of this world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "دل بسوز شعلہ ی افسردہ بست\nنقش آن دنیای افیون خوردہ بست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس لیے اس نے افسردہ انگارے کے سوز سے دل لگایا؛ اور اپنی افیون خوردہ دنیا کا خاکہ تیار کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He set his heart on the glow of a quenched flame and depicted a word steeped in opium.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "از نشیمن سوی گردون پر گشود\nباز سوی آشیان نامد فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنے نشیمن سے آسمان کی طرف پرواز کی لیکن پھر اپنے نشیمن (دنیائے عمل) کی طرف نہ آیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He spread his wings towards the sky and never came down to his nest again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "در خم گردون خیال او گم است\nمن ندانم درد یا خشت خم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا خیال آسمان کے خم میں گم ہو چکا ہے؛ میں نہیں جانتا کہ اس کے پاس تلچھٹ یا وہ خم کے سر پر رکھی ہوئی اینٹ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His fantasy is sunk in the jar of heaven: I know not whether it is the dregs or brick of the wine-jar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "قومہا از سکر او مسموم گشت\nخفت و از ذوق عمل محروم گشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی مستی سے قومیں زہر آلود ہو گئیں ؛ سو گئیں اور عمل کا ذوق کھو بیٹھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The peoples were poisoned by his intoxication: He slumbered and took no delight in deeds.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Plato, Whose Thought Has Deeply Influenced The Mysticism And Literature Of Islam, Followed The Sheep’s Doctrine",
+  "credits": "English Translation by: Reynold A. Nicholson"
+}

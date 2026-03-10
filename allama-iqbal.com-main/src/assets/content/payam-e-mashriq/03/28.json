@@ -1,0 +1,85 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "در جہان دل ما دور قمر پیدا نیست\nانقلابیست ولی شام و سحر پیدا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے دل کے جہان میں کوئی ایسا قمر نہیں جو گھٹتا بڑھتا ہو ، یہاں انقلاب آتے ہيں مگر ان کا تعلق صبح و شام (گردش آفتاب) سے نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world of our heart there are no phases of the moon. There is a revolution, but no morning and no evening.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وای آن قافلہ کز دونی ہمت میخواست\nرہگذاری کہ درو ہیچ خطر پیدا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قافلے پر جو اپنی کم ہمتی کے باعث، ایسا راستہ چاہتا ہے جس میں کوئی خطرہ نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to the caravan which, lacking enterprise, looks for a road that is not dangerous.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بگذر از عقل و در آویز بموج یم عشق\nکہ در آن جوی تنک مایہ گہر پیدا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عقل سے آگے گزر کر بحر عشق کی موج سے ٹکرا، کیونکہ عقل کی کم آب ندی میں کوئی موتی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Abandon reason and become embroiled in the waves of the sea of Love, in reason’s little stream there are no pearls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آنچہ مقصود تگ و تاز خیال من و تست\nہست در دیدہ و مانند نظر پیدا نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو میرے اور تیرے افکار کی تگ و تاز کا مقصود ہے (اللہ تعالے)، ہے وہ ہماری نظر میں ، مگر نظر کی طرح نظر نہیں آتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whatever is the object of the strivings of our thought is in our eyes, but like our sight invisible.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

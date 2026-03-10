@@ -1,0 +1,82 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2b",
+  "sectionName": "غزلیات 2",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زندگی انساں کی اک دم کے سوا کچھ بھی نہیں \nدم ہوا کی موج ہے، رم کے سوا کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "رم: بھاگنا، چلنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The life of Man is no more than a breath! Breath is a wave of air; it is no more than a flow!\n(Apparently human life is no more than a breath. However, breath is a wave of air, and like all waves is constantly flowing. It is alive only as long as it is flowing. In the same way human life, which this wave sustains, is worth its existence only as long as it is active.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گل تبسم کہہ رہا تھا زندگانی کو مگر \nشمع بولی، گریہء غم کے سوا کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The flower was depicting life as a smile, but the candle said that it is no more than a cry of grief!\n(Everyone perceives life according to his own lights. The flower, which is an emblem of happiness, sees life as a smile, but the candle, which is an emblem of grief; perceives it as grief.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "راز ہستی راز ہے جب تک کوئی محرم نہ ہو \nکھل گیا جس دم تو محرم کے سوا کچھ بھی نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The secret of life is a secret till there is a confidante; when it is open, it is nothing more than the confidante! \n(The confidant of life is an ‘Arif’. When the confidant understands the secret he realizes that he, i.e. Man is the only secret in the universe. This secret is that though Man apparently has humble origins, being created from soil, he has the potential of being the vice gerent of God on earth.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زائران کعبہ سے اقبال یہ پوچھے کوئی \nکیا حرم کا تحفہ زمزم کے سوا کچھ بھی نہیں!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Somebody should ask the pilgrims of Ka'bah, O Iqbal: Is the gift of the Haram nothing more than Zamzam? \n(This verse is sarcastic and carries the lesson that the real gift of the Haram is that the pilgrim should return from there after sacrificing his arrogance, greed and jealousy, after stoning the Satan in his own self and after controlling the evil in himself by circumambulation.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

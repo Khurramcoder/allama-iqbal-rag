@@ -1,0 +1,33 @@
+{
+  "id": "90",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ چندین جلوہ در زیر نقابی\nنگاہ شوق ما را بر نتابی\nدوی در خون ما چون مستی می\nولی بیگانہ خوئی، دیر یابی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With all Thy glory, Thou the veil dost wear. The passion of our gaze Thou canst not bear; \nThou runnest in our blood like potent wine, but ah! How strange Thou comest, and too rare.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,84 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3b",
+  "sectionName": "غزلیات 3",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "گرچہ تو زندانی اسباب ہے \nقلب کو لیکن ذرا آزاد رکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "زنداني اسباب: ظاہری وسیلوں کا محتاج۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though you are bound by cause and effect; keep your heart a little independent.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عقل کو تنقید سے فرصت نہیں \nعشق پر اعمال کی بنیاد رکھ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intellect is not free from criticism; establish the foundation of your deeds on Love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے مسلماں! ہر گھڑی پیش نظر \nآیہ 'لا یخلف المیعاد' رکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "لا يخلف الميعاد: الّہ ہرگز وعدہ خلافی نہیں کرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Muslim always in your mind; keep the verse ‘La Yukhlif ul mi‘ad’*\n* Allusion to the Holy Qur’an 3: 9)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ 'لسان العصر' کا پیغام ہے \nان وعد اللہ حق یاد رکھ",
+              "lang": "Original"
+            },
+            {
+              "_content": "لسان العصر: زمانے کی زبان ، مراد ہے اکبر الّہ آبادی جن کا یہ لقب تھا۔ \nان وعد اللہ حق: اللہ تعالے کا وعدہ یقینا سچا ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the message of the Voice of Time:* Always deep in heart ‘Inna wa`d-Allah i Haqqun’*\n*The Holy Quran; \n**allusion to the Holy Qur’an 4:122 and 14:47",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

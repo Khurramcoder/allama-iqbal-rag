@@ -1,0 +1,135 @@
+{
+  "id": "14",
+  "name": "دین وسیاست",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کلیسا کی بنیاد رہبانیت تھی \nسماتی کہاں اس فقیری میں میری",
+              "lang": "Original"
+            },
+            {
+              "_content": "رہبانيت: تارک دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Monasticism was the church’s base; its austere living had no room for wealth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خصومت تھی سلطانی و راہبی میں \nکہ وہ سربلندی ہے یہ سربزیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "خصومت: دشمنی۔ \nسربزيري: سر نیچے رکھنا، سرنگونی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The anchorite and the king have ever been hostile; one has humility; the other an exalted power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سیاست نے مذہب سے پیچھا چھٹرایا \nچلی کچھ نہ پیر کلیسا کی پیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Church and state were separated at last; the revered priest was rendered powerless.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہوئی دین و دولت میں جس دم جدائی \nہوس کی امیری، ہوس کی وزیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When church and state parted the ways for ever, it set in the rule of avarice and greed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دوئی ملک و دیں کے لیے نامرادی \nدوئی چشم تہذیب کی نابصیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نابصيري: اندھا پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This split is a disaster both for country and faith, and shows the culture’s blind lack of vision.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یہ اعجاز ہے ایک صحرا نشیں کا \nبشیری ہے آئینہ دار نذیری!",
+              "lang": "Original"
+            },
+            {
+              "_content": "بشيري: خوشخبری دینا۔ \nنذيري: ڈرانے کی اہلیت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is the miracle of a desert-dweller to make the grace a mirror to power.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اسی میں حفاظت ہے انسانیت کی \nکہ ہوں ایک جنےدی و اردشیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنيدي و اردشيري: مراد ہے دین داری اور بادشاہت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mankind’s deliverance lies in the unity of those who rule the body and those who rule the soul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Church And State",
+  "credits": "English Translation by: Naim Siddiqui"
+}

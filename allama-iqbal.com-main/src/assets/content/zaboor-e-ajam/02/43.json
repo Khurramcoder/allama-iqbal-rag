@@ -1,0 +1,34 @@
+{
+  "id": "43",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق اندر جستجو افتاد آدم حاصل است\nجلوۂ او آشکار از پردۂ آب و گل است\nآفتاب و ماہ و انجم میتوان دادن ز دست\nدر بہای آن کف خاکی کہ دارای دل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "آفتاب نے جستجو اختیار کی (کہ میں پہچانا جاؤں) اس کا حاصل آدم ہے؛ چنانچہ اس کا جلوہ آب و گل کے پردے سے ظاہر ہوا۔\nوہ خاک کی مٹھی جو دل (جیسی دولت ) رکھتی ہے ؛ اس کے عوض ؟؟؟ سورج ، چاند، ستارے دیے جا سکتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love went searching thro’ the earth until Adam came to birth; out of water, out of clay manifested his display.\nSun, and moon, and stars on high, these were little to set by so to purchase in life’s mart Adam’s dust, that owned a heart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

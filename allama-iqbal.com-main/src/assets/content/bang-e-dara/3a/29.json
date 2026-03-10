@@ -1,0 +1,68 @@
+{
+  "id": "29",
+  "name": "ساقی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نشہ پلا کے گرانا تو سب کو آتا ہے \nمزا تو جب ہے کہ گرتوں کو تھام لے ساقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Everyone knows how to throw down people with intoxicants; the fun is to convert the intoxicated one to sanity, O cup-bearer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جو بادہ کش تھے پرانے، وہ اٹھتے جاتے ہیں \nکہیں سے آب بقائے دوام لے ساقی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "بقائے دوام: ہمیشہ کی زندگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those who were the old wine-drinkers are gradually departing; bring the water of immortality from somewhere, O cup-bearer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کٹی ہے رات تو ہنگامہ گستری میں تری \nسحر قریب ہے، اللہ کا نام لے ساقی!",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہنگامہ گستري : ہنگامے پیدا کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your whole night has passed in tumult and clamour; the dawn is close remember God, O cup-bearer!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Bartender (Butler)",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "07",
+  "name": "حکیم اینشتین",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جلوہ ئی میخواست مانند کلیم ناصبور\nتا ضمیر مستنیر او گشود اسرار نور",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کلیم ناصبور کی مانند جلوہ (ء حقیقت) کا خواہاں ہوا، (اس کوشش میں ) اس کے ذہن نے روشنی کے اسرار کھولے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like Moses he sought a theophany until his mind, in quest of light, unveiled its mystery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "از فراز آسمان تا چشم آدم یک نفس\nزود پروازی کہ پروازش نیاید در شعور",
+              "lang": "Original"
+            },
+            {
+              "_content": "روشنی آسمان کی بلندی سے آدم کی آنکھ تک ایک لمحے میں پہنچ جاتی ہے، یہ اتنی زود پرواز (تیز رفتار) ہے کہ اس کی پرواز سمجھ سے بالا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A moment’s flight from heaven’s height to the observer’s eye – such is the unimaginable speed of its fast-beating wings, indeed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خلوت او در زغال تیرہ فام اندر مغاک\nجلوتش سوزد درختی را چو خس بالای طور",
+              "lang": "Original"
+            },
+            {
+              "_content": "روشنی کی خلوت کان میں پڑے ہوئے سیاہ رنگ کوئلے میں (بصورت ہیرا) ہے، اور اس کی جلوت طور پر (اگے ہوئے ) درخت کو خس کی مانند جلا دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sequestered, it lies at the core of black coal in a pit. When manifest in its full glory, it burns up like straw a bush on Mount Sinai.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بی تغیر در طلسم چون و چند و بیش و کم\nبرتر از پست و بلند و دیر و زود و نزد و دور",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ (روشنی) کمی بیشی اور کیوں اور کیسے کے طلسم (اس دنیا) میں تبدیلی کے بغیر ہے (اسی طرح) یہ اس جہان کے پست و بالا (مکان) دیر و زود (زمان) اور نزدیک و دور (مسافت) سے بھی بالا تر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unchanging in this magic world of more or less, of high and low, of far and near, of to and fro, its make-up has in it two sets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "در نہادش تار و شید و سوز و ساز و مرگ و زیست\nاہرمن از سوز او و ساز او جبریل و حور",
+              "lang": "Original"
+            },
+            {
+              "_content": "اندھیرا ، اجالا، سوز و ساز اور مرگ و زیست (سب) اس کی نہاد میں پوشیدہ ہیں، ابلیس اس (کی حرارت) کے سوز سے ہے اور جبریل و حور اس (کی ٹھنڈک) کے ساز سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of qualities, engaged in mutual strife, like brightness, darkness, soothing, burning, life and death, one of which sets begets the angels and the houris, while the other shows in Ahriman the vile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "من چہ گویم از مقام آن حکیم نکتہ سنج\nکردہ زردشتی ز نسل موسی و ہارون ظہور",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس حکیم نکتہ شناس کے بارے میں کیا کہوں، تھا وہ موسی اور ہارون کی نسل سے، مگر اس نے کام زردشت کا کیا (زردشت آگ کو مقدّس سمجھتا تھا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What can I say about this subtle-minded sage except that from the race of Moses and of Aaron there has come a Zarathustra in our age?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Einstein",
+  "credits": "English Translation by: M. Hadi Husain"
+}

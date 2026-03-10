@@ -1,0 +1,126 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "حضور حق",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دل ما بیدلان بردند و رفتند \nمثال شعلہ افسردند و رفتند\nبیا یک لحظہ با عامان درآمیز\nکہ خاصان بادہ ہا خوردند و رفتند",
+              "lang": "Original"
+            },
+            {
+              "_content": "(اے اللہ ! تیرے برگزیدہ) بندے ہم بیدلوں کے دل چھین کر رخصت ہو گئے ، وہ شعلے کی طرح بجھے اور چلے گئے۔ \nآ، اب لمحہ بھر کے لیے ہم عامیوں کی صحبت اختیار کر ، خواص تو (تیری محبت کی) شراب سے لطف اندوز ہو کر چلے گئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They held the loveless hearts and went away; like flame they faded in a doleful way.\nPrithee come to ‘Commons’ for a short while; Thy chosen took ‘the wines’ and left this soil.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سخن ہا رفت از بود و نبودم\nمن از خجلت لب خود کم گشودم\nسجود زندہ مردان می شناسی\nعیار کار من گیر از سجودم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری ہستی و نیستی کے بارے میں باتیں ہو رہی تھیں؛ لیکن میں شرمندگی کے باعث (خاموش رہا)۔ \nتو زندہ مردوں کے سجدوں کو پہچانتا ہے؛ میرے کام کے معیار کا اندازہ میرے سجدوں سے کر لے (یعنی میرے سجدے بے ذوق اور کم قیمت ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My being and non-existence were topics on tips; under feelings of shame I sealed my lips.\nThy great men’s kowtows are in thy know: Please rub off the dross from my kowtows.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "(3)",
+      "Verse": [
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "دل من در گشاد چون و چند است\nنگاہش از مہ و پروین بلند است\nبدہ ویرانہ ئے در دوزخ او را\nکہ این کافر بسی خلوت پسند است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا دل دنیا کے مسائل حل کرنے میں مصروف ہے؛ (حالانکہ) اس کی نگاہ چاند اور ثریا سے بھی بلند ہے۔ \nا سے دوزخ میں کوئی ویرانہ عطا کر؛ کیونکہ یہ کافر (دل) بہت تنہائی پسند واقع ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart rakes often knots of ‘how’ and ‘why’; his glance getting higher than stars and sky.\nSo hurl this heart in a hellish heat; this heathen is mad for a lone retreat. \n[Rake: To search through minutely.]",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "(4)",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چہ شور است این کہ در آب و گل افتاد\nز یک دل عشق را صد مشکل افتاد\nقرار یک نفس بر من حرام است\nبمن رحمی کہ کارم با دل افتاد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا شور ہے جو میرے بدن میں برپا ہوا؛ ایک دل کے ہاتھوں عشق سینکڑوں مصیبتوں میں مبتلا ہو گیا۔ \nمجھ پر رحم کر کیونکہ میرا واسطہ دل سے آ پڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a noisy display of mud and clay, hundred trials on love one heart would lay.\nFor me is banned a moment’s repose; have mercy I’m dealing with heart so close.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "(5)",
+      "Verse": [
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "جہان از خود برون آوردۂ کیست؟\nجمالش جلوہء بے پردۂ کیست؟\nمرا گوئی کہ از شیطان حذر کن\nبگو با من کہ او پروردۂ کیست؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "کس نے جہان کو اپنے اندر سے پیدا کر دیا ہے؟ اس کا جمال کس کا جلوہ ء بے پردہ ہے؟\nآپ مجھے کہتے ہیں کہ شیطان سے بچ کر رہ؛ یہ تو بتائیں کہ شیطان کس کا پروردہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who brought the wide world on the cosmos scene? Who flashed the sheen of the ‘Beauty’ unseen? \nYou bid me beware of the Satan’s teens: Who reared him to teem on the garden’s green?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

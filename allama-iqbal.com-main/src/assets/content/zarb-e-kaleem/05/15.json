@@ -1,0 +1,68 @@
+{
+  "id": "15",
+  "name": "ابی سینیا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یورپ کے کرگسوں کو نہیں ہے ابھی خبر \nہے کتنی زہر ناک ابی سینیا کی لاش \nہونے کو ہے یہ مردہ دیرینہ قاش قاش!",
+              "lang": "Original"
+            },
+            {
+              "_content": "قاش قاش: ٹکڑے ٹکڑے۔\nکرگسوں: گدھوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The vultures of Europe still do not know that poison in Abyssinian corpse does flow: The old corpse may with speed to fragments go.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "04",
+          "Text": [
+            {
+              "_content": "تہذیب کا کمال شرافت کا ہے زوال \nغارت گری جہاں میں ہے اقوام کی معاش \nہر گرگ کو ہے برہ معصوم کی تلاش!",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہ: بھیڑ کا بچہ ۔\nگرگ: بھیڑیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Advance or culture good manners can’t maintain, these days by pillage. Nations themselves sustain all wolves would some artless lamb obtain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے وائے آبروئے کلیسا کا آءنہ \nروما نے کر دیا سر بازار پاش پاش \nپیر کلیسیا! یہ حقیقت ہے دلخراش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas that Rome has shattered in the mart the Fragile honour of Church in e'ery part; O Pope, this oppressive act rends human heart!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Abyssinia",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

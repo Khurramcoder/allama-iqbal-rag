@@ -1,0 +1,102 @@
+{
+  "id": "51",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من ہیچ نمی ترسم از حادثۂ شب ہا\nشبہا کہ سحر گردد از گردش کوکب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں رات کے حادثات سے بالکل نہیں ڈرتا ؛ رات کیسی بھی ہو ، بالآخر ستاروں کی گردش اسے سحر میں تبدیل کر دیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the accidents of night there is naught can me affright, seeing that the night is borne by the wheeling stars to morn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نشناخت مقام خویش افتاد بدام خویش\nعشقی کہ نمودی خواست از شورش یارب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ عشق جو یا رب کے نعروں سے اپنی نمائش چاہتا، اس نے اپنے مقام کو نہیں پہچانا، وہ اپنے ہی دام (ریا) میں گرفتار ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Of its station unaware, it has fallen in its own snare, this thy love that did arise from thy supplicating cries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آہی کہ ز دل خیزد از بہر جگر سوزی است\nدر سینہ شکن او را آلودہ مکن لب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "دل سے جو آہ اٹھتی ہے، وہ جگر سوزی کے لیے ہے، اسے سینے میں دبائے رکھ، لبوں تک نہ آنے دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the heart gives forth a sigh, ’tis of burning inwardly; let it not thy lips defile; break it in thy breast, and smile!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "در میکدہ باقی نیست از ساقی فطرت خواہ\nآن می کہ نمی گنجد در شیشۂ مشرب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "میخانہ میں وہ شراب باقی نہیں ، جو کسی مشرب (فرقہ) میں نہ سمائے؛ اصل شراب ساقی (ء دین) فطرت سے حاصل کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None remains in tavern now; beg of Nature’s saki thou the rich wine that cannot pass in the drinkers’ narrow glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آسودہ نمی گردد آندل کہ گسست از دوست\nبا قرأت مسجد ہا با دانش مکتب ہا",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس دل کا تعلق اللہ تعالے سے کٹ چکا ہو؛ وہ مسجد کی قراءت اور مکتب کی حکمت سے مطمئن نہیں ہو سکتا (تعلق باللہ کے بغیر محض رسمی تعلیمات سے اطمینان قلب نصیب نہیں ہوتا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not with mosque and chanted verse, not with learning schools rehearse to repose returns the heart when its Darling doth depart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

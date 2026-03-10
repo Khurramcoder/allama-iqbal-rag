@@ -1,0 +1,619 @@
+{
+  "id": "02",
+  "name": "سوال اول",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "03",
+  "sectionName": "گلشن راز جدید",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نخست از فکر خویشم در تحیر\nچہ چیز است آنکہ گویندش تفکر\nکدامین فکر ما را شرط راہ است\nچرا گہ طاعت و گاہی گناہ است",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلی بات تو یہ ہے کہ میں اپنے فکر کے بارے میں حیرت کدہ ہوں، وہ کیا چیز ہے جسے تفکر کہتے ہیں۔\nکون سا فکر راہ (ہدایت ) پانے کے لیے ضروری ہے، یہ کیوں ہے کہ فکر کبھی اطاعت کی طرف لے جاتا ہے اور کبھی گناہ کی طرف۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "First of all I am perplexed about my thought: What is that which is called ‘thought’? \nWhat sort of thought is the condition of my path? Why is it sometimes obedience, sometimes sin?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "جواب",
+      "name-en": "Answer",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درون سینۂ آدم چہ نور است\nچہ نور است این کہ غیب او حضور است",
+              "lang": "Original"
+            },
+            {
+              "_content": "سینہء آدم کے اندر یہ کیا نور ہے، کہ اس کا غیب بھی حضور ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a light there is within the heart of man! A light that is manifest in spite of its invisibility.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "من او را ثابت سیار دیدم\nمن او را نور دیدم نار دیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اسے جامد بھی دیکھا ہے اور متحرک بھی، مجھے اس میں نور بھی نظر آیا ہے اور نار بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw it in the constancy of change; I saw it both as light and fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گہی نازش ز برہان و دلیل است\nگہی نورش ز جان جبرئیل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی برہان و دلیل اس کی نار بن جاتی ہے اور کبھی وہ وحی جبریل سے نور حاصل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes its fire is nourished by argumentation and reasoning, sometimes its light is derived from the breath of Gabriel;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چہ نوری جان فروزی سینہ تابی\nنیرزد با شعاعش آفتابی",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کیا نور ہے جو جان کو چمکا دیتا ہے اور سینے میں گرمی پیدا کرتا ہے، اس کی ایک شعاع آفتاب سے بڑھ کر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What a life-illuminating and heart-kindling light! The sun is nothing in face of a single ray of this light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بخاک آلودہ و پاک از مکان است\nبہ بند روز و شب پاک از زمان است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ فکر مکانی ہونے کے باوجود لامکان ہے، یہ روز و شب کے بندھن میں گرفتار ہونے کے باوجود ماورائے زماں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Conjoined with dust, it is above limitations of space; chained to the alternation of day and night, it is free from the bonds of time.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "شمار روزگارش از نفس نیست\nچنین جویندہ و یابندہ کس نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر کی زندگی کا دار و مدار سانس کے آنے جانے پر نہیں، اس کی مانند کوئی اور جوئیندہ و یابندہ نہیں۔ ( فکر بلند مقاصد کی تلاش میں رہتا ہے اور ان تک پہنچتا ہے)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The calculation of its time is not through breath, there is none like it in seeking and discovering.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "گہی واماندہ و ساحل مقامش\nگہی دریای بی پایان بجامش",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی یہ تھک کر ساحل کو اپنا مقام بنا لیتا ہے اور کبھی دریا ئے بے پایاں کو اپنے جام میں لے لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes it feels exhausted and sits on the shore, sometimes a shore-less ocean is in its cup.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "ہمین دریا ہمین چوب کلیم است\nکہ از وی سینہ دریا دو نیم است",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دریا بھی ہے اور عصائے موسی (علیہ) بھی، اسی سے سینہء دریا دو نیم ہوتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is both the river and the staff of Moses, on account of which the river is divided into two.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "غزالی مرغزارش آسمانی\nخورد آبی ز جوی کہکشانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس غزال کی چراگاہ آسمان ہے اور یہ جوئے کہکشاں سے پانی پیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a deer whose pasture is the sky, who drinks water from the stream of the Milky Way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "زمین و آسمان او را مقامی\nمیان کاروان تنھا خرامی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمین و آسمان اس کے مقامات ہیں (منزل نہیں)، یہ کاروان حیات کے درمیان تنہا چلتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Earth and sky are its halting places; it walks alone amid a caravan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ز احوالش جہان ظلمت و نور\nصدای صور و مرگ و جنت و حور",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان عظمت و نور (دنیا) ، (قیامت کی) صدائے صور ، ہر شے کا خاتمہ اور آخرت کی) جنت و حور یہ سب ہی کے احوال ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Some of its states are: the world of darkness and light, the sound of the trumpet, death, paradise, and Houri.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "ازو ابلیس و آدم را نمودی\nازو ابلیس و آدم را گشودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسی سے ابلیس و آدم کی نمود ہے، (اور) اسی سے ابلیس و آدم کے مسائل کا حل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It gives both to Iblis and Adam opportunity to develop, and provides them a chance of expansions.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "نگہ از جلوۂ او ناشکیب است\nتجلی ہای او یزدان فریب است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر کے جلوں کے باعث ہماری نگاہ صبر نا آشنا ہے، اس کی تجلّیات اللہ تعالے کو بھی آغوش میں لے لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eye is impatient at its sight; its charms even beguile God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "بہ چشمی خلوت خود را ببیند\nبہ چشمی جلوت خود را ببیند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر ایک آنکھ سے اپنی خلوت کو دیکھتا ہے، اور ایک آنکھ سے اپنی جلوت کو دیکھتا ہے (ہر شخص کے فکر کے دو پہلو ہیں ، اس سے وہ اپنے اندر کا جہان بھی دیکھتا ہے اور باہر کی دنیا بھی)۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اگر یک چشم بر بندد گناہی است\nاگر با ہر دو بیند شرط راہی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "With one eye, it sees its own privacy, with the other eye; it looks at its apparent lustre.",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "اگر فکر اپنی ایک آنکھ بند کر لے تو یہ 'گناہ' ہے، اور اگر اپنی دونوں آنکھوں سے دیکھے تو یہ شرط راہ (ہدایت ) ہے۔",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ز جوی خویش بحری آفریند\nگہر گردد بہ قعر خود نشیند",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ (جلوت میں ہو تو ) اپنی ندی سے سمندر پیدا کرتا ہے ، (اور خلوت میں ہو تو) اپنی گہرائی کے اندر بیٹھ کر اپنے آپ کو گوہر بنا لیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of its little stream, it produces an ocean; it becomes a pearl and then settles at its bottom.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "ہمان دم صورت دیگر پذیرد\nشود غواص و خود را باز گیرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر اسی وقت یہ ایک اور صورت اختیار کر لیتا ہے، اپنے اندر غوطہ زن ہو کر اپنے موتی کو باہر نکال لاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soon it takes a different form; becomes a diver and catches itself again.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "درو ہنگامہ ہای بی خروش است\nدرو رنگ و صدا بی چشم و گوش است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے اندر بے آواز ہنگامے ہیں ، اس کے رنگ بغیر چشم کے دیکھے جا سکتے ہیں، اور اس کی صدا بغیر کان کے سنی جا سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In it there are noiseless commissions; it has colour and sound perceptible without eye and ear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "درون شیشۂ او روزگار است\nولی بر ما بتدریج آشکار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر کے شیشہ کے اندر ساری کائنات ہے، لیکن ہم پر اس کے راز بتدریج آشکار ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is a world hidden in its glass, but it reveals itself to us piecemeal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "حیات از وی بر اندازد کمندی\nشود صیاد ہر پست و بلندی",
+              "lang": "Original"
+            },
+            {
+              "_content": "حیات فکر کی کمند پھینک کر، ہر پست و بالا کا شکار کرتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life makes it into a lasso and throws it to catch everything low and high.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "ازو خود را بہ بند خود در آرد\nگلوی ماسوا را ہم فشارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "فکر کے ذریعے اپنے آپ کو اپنی گرفت میں لاتی ہے اور ما سوا کی گردن بھی دبوچ لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By its means it ensnares itself, and wrings also the neck of duality.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "دو عالم می شود روزی شکارش\nفتد اندر کمند تابدارش",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک روز دونوں جہان فکر کے شکار ہوں گے اور اس کی کمند تابدار میں آ جائیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One day the two worlds fall a prey to it and are caught into its beautiful lasso.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "اگر این ھر دو عالم را بگیری\nہمہ آفاق میرد، تو نمیری",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو ان دونوں جہانوں کو اپنی گرفت میں لے آئے ، پھر ساری کائنات کی موت سے بھی تو نہیں مرتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you conquer both these worlds, you will become immortal even if everything else dies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "منہ پا در بیابان طلب سست\nنخستین گیر آن عالم کہ در تست",
+              "lang": "Original"
+            },
+            {
+              "_content": "بیابان طلب میں سست رفتاری سے نہ چل ، پہلے اس عالم کو قابو کر جو تیرے اندر ہے (عالم نفس)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not set foot in the desert of search lazily; first, take hold of that world which lies within you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "اگر زیری ز خود گیری زبر شو\nخدا خواہی بخود نزدیک تر شو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو کمزور ہے تو تسخیر نفس سے زبر دست ہو جا، اگر تو اللہ تعالے کا قرب چاہتا ہے تو پہلے اپنے قریب ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you are low, become strong by conquering the self. If you wish to seek God, get nearer yourself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "بہ تسخیر خود افتادی اگر طاق\nترا آسان شود تسخیر آفاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر تو اپنی تسخیر میں کامیاب ہو جائے تو تیرے لیے تسخیر آفاق آسان ہو جائے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you become proficient in conquering self, conquering the world will become easy for you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "خنک روزی کہ گیری این جہان را\nشکافی سینہ نہ آسمان را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مبارک ہو گا وہ دن جب تو اس کائنات کی تسخیر کر لے اور ان نو آسمانوں کا سینہ چھید دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Happy is the day when you conquer this world, and pierce the bosom of the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "گذارد ماہ پیش تو سجودی\nبرو پیچی کمند از موج دودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر چاند تجھے سجدہ کرے گا، اور تو اپنی فکر کی موج درد سے کمند ڈال سکے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon will prostrate before you, and you throw over it a lasso of waves of smoke.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "درین دیر کہن آزاد باشے\nبتان را بر مراد خود تراشی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو اس دیر کہن میں خود مختار ہو گا، اور بتوں (مقاصد ) کو اپنی خواہش کے مطابق تراشے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You will be free in this ancient world, able to fashion the idols to your purpose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "بکف بردن جہان چار سو را\nمقام نور و صوت و رنگ و بو را",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو اس جہان کے چار سو کو (جو روشنی، آواز ، رنگ اور بو کا جہان ہے) اپنی مٹھی میں لے آئے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To hold in the grasp of your hand all the world of light and sound, of colour and smell;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "فزونش کم کم او بیش کردن\nدگرگون بر مراد خویش کردن",
+              "lang": "Original"
+            },
+            {
+              "_content": "پھر تو اس کے زیادہ کو کم اور کم کو زیادہ کر سکے گا، اپنی مرضی کے مطابق اس میں تبدیلی لا سکے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To change its quantitative aspect, to mould it according to your purpose;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "بہ رنج و راحت او دل نبستن\nطلسم نہ سپہر او شکستن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے نو جہانوں کے طلسم کو توڑنے کا مطلب یہ ہے کہ یہاں کے رنج و راحت سے دل نہ لگایا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not to be captivated by its sorrows and delights to break the spell of its nine skies;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "فرورفتن چو پیکان در ضمیرش\nندادن گندم خود با شعیرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے ضمیر میں تیر کی طرح اترا جائے ، اور اپنی گندم کو (قیمتی متاع) اس کے جو کے عوض نہ دیا جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To go down into its heart like the point of an arrow, not to exchange your wheat for its barley;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "شکوہ خسروی این است این است\nہمین ملک است کو توام بدین است",
+              "lang": "Original"
+            },
+            {
+              "_content": "بس یہی شکوہ ء خسروی ہے، یہی سلطنت ہے جو دین کے ساتھ جڑواں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is indeed the-true kingly glory; this is the State that is linked to religion.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Question 1",
+  "credits": "English Translation by: Bashir Ahmad Dar"
+}

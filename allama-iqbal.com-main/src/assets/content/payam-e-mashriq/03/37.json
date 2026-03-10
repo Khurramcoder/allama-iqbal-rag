@@ -1,0 +1,136 @@
+{
+  "id": "37",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا کہ بلبل شوریدہ نغمہ پرداز است\nعروس لالہ سراپا کرشمہ و ناز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ بلبل شوریدہ نغمہ الاپ رہی ہے، گل لالہ کی دلہن سراپا ناز و ادا بنی ہوئی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, for the love-mad nightingale is busy singing songs. The tulip-bride is all bewitchery and grace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نوا ز پردۂ غیب است اے مقام شناس\nنہ از گلوی غزل خوان نہ از رگ ساز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے راگ کی مصتلحات جاننے والے ، آواز کا تعلق پردہ ء غائب سے ہے، نہ یہ غزل خواں کے گلے سے ہے، نہ ساز کے تار سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O connoisseur of music, melody comes forth from strings invisible, not from the singer’s throat, nor from the frets of lute or harp.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کسی کہ زخمہ رساند بہ تار ساز حیات\nز من بگیر کہ آن بندہ محرم راز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو شخص ساز حیات کے تار تک اپنا مضراب پہنچاتا ہے، وہی محرم راز ہے، میری یہ بات پلّے باندھ لے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whoever strikes the strings of life’s lute with a plectrum is, take it from me, a man who knows the mysteries.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرا ز پردگیان جھان خبر دادند\nولی زبان نگشایم کہ چرخ کج باز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے جہاں کے پوشیدہ رازوں سے با خبر کیا گیا ہے، لیکن میں زباں نہیں کھولتا کیونکہ آسمان کج رو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have been given knowledge of what is behind veils in the world; but dare not open my mouth, for the heavens are so perverse.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سخن درشت مگو در طریق یاری کوش\nکہ صحبت من و تو در جہان خدا ساز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "درشت بات نہ کہہ، دوستی کا طریقہ اختیار کرنے میں کوشاں رہ، کیونکہ اس جہان میں میرا اور تیرا مل بیٹھنا محظ اللہ تعالے کی مہربانی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not speak harshly, try the way of amity. That you and I are here together is a pure godsend.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کجاست منزل این خاکدان تیرہ نہاد\nکہ ہر چہ ہست چو ریگ روان بہ پرواز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس تاریک نہاد خاکدان (دنیا) کی منزل کہاں ہے؟ کہ یہاں کی ہر چیز ریگ رواں کی طرح چلی جا رہی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the destination of this dark abode of dust? Whatever there is in it is like shifting sand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تنم گلی ز خیابان جنت کشمیر\nدل از حریم حجاز و نوا ز شیراز است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا بدن جنت کشمیر کی کیاری کا ایک پھول ہے، دل حریم حجاز سے ہے، اور نوا شیراز سے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My body is a flower from a flower-bed in Kashmir’s paradise. My heart is from the sanctum of Hijaz. My song is from Shiraz.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

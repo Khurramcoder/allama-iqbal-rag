@@ -1,0 +1,15 @@
+.editor .tiptap {
+  padding: theme(spacing.[2.5]) theme(spacing.4);
+  padding-inline-start: theme(spacing.10);
+  border: 1px solid theme(colors.gray.300);
+
+  @apply rounded-md;
+
+  p.is-editor-empty:first-child::before {
+    color: theme(colors.gray.500);
+    content: attr(data-placeholder);
+    float: inline-start;
+    height: 0;
+    pointer-events: none;
+  }
+}

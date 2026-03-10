@@ -1,0 +1,136 @@
+{
+  "id": "06",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خیز و نقاب بر گشا پردگیان ساز را\nنغمۂ تازہ یاد دہ مرغ نوا طراز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ اور پردہ ہائے (اصطلاح موسیقی) ساز (کی نوا ریزی) کے لیے (اپنے چہرے پر سے) نقاب اٹھا ، اور (اس طرح) خوش نوا پرندے کو نیا نغمہ سیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Arise and waken notes aslumber in the organ’s keys. Teach singing birds fresh tunes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جادہ ز خون رہروان تختۂ لالہ در بھار\nناز کہ راہ میزند قافلہ نیاز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "راہرووں کے خون سے راستہ یوں بن چکا ہے، جیسے موسم بہار میں گل لالہ کی کیاری ، کس کے ناز نے قافلہ ء نیاز کو راہ میں لوٹ لیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The path is like a tulip-bed with passers-bys’ blood-drops. Who is the one whose proud might has waylaid the caravan of humble Love?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دیدۂ خوابناک او گر بہ چمن گشودہ ئی\nرخصت یک نظر بدہ نرگس نیم باز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر آپ نے چمن میں اس کی خوابیدہ آنکھ کو کھولا ہے، تو نرگس کی چشم نیم باز کو دیکھنے کی مہلت بھی عطا فرمائیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since You have opened to the garden its sleepy eye, give the narcissus time sufficient for a glance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حرف نگفتۂ شما بر لب کودکان رسید\nاز من بی زبان بگو خلوتیان راز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھ بے زبان کی طرف سے خلوتیان راز سے کہہ دو، کہ 'آپ کی کہی بات بچے بچے کی زبان پر ہے'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To inmates of the inner sanctuary say this from me, tongueless as I am: ‘Words never uttered by you are on little children’s lips.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سجدۂ تو بر آورد از دل کافران خروش\nایکہ دراز تر کنی پیش کسان نماز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے وہ شخص جو دوسروں کے سامنے لمبی نماز پڑھتا ہے، تیرا سجدہ کافروں کے دل سے بھی احتجاج پیدا کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O you who lengthen out your prayers in front of other men, when you bow your head on the ground, the unbelievers watching fume indignantly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "گرچہ متاع عشق را عقل بہای کم نہد\nمن ندہم بہ تخت جم آہ جگر گداز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ عقل متاع عشق کی قیمت بہت کم لگاتی ہے، مگر مجھے آہ جگر کے عوض تخت جم لینا بھی منظور نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the intellect rates Love not very high, I would not give a lover’s anguished sigh for Jamshid’s throne.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "برہمنی بہ غزنوی گفت کرامتم نگر\nتو کہ صنم شکستہ ئی بندہ شدی ایاز را",
+              "lang": "Original"
+            },
+            {
+              "_content": "برہمن نے غزنوی سے کہا ؛ میری کرامات دیکھ، تو جس نے (پتھر کے) بت توڑ دیے تھے، ایاز کا پرستار ہو گیا،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A Brahmin said to Ghaznavi: ‘Look at my magic powers; you who broke idols have become yourself Ayaz’s slave.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

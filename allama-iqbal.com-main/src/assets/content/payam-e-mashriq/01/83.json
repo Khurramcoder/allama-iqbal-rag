@@ -1,0 +1,34 @@
+{
+  "id": "83",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو اے کودک منش خود را ادب کن\nمسلمان زادہ ئی ترک نسب کن\nبرنگ احمر و خون و رگ و پوست\nعرب نازد اگر، ترک عرب کن",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری عادت طفلانہ ہے، ادب سیکھ؛ تو مسلمان کی اولاد ہے نسب (پر ناز کرنا ) چھوڑ۔\nاگر عرب بھی اپنے سرخ رنگ، خون اور رگ و پوست پر ناز کرے، تو اسے بھی نظر انداز کر دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Leave childishness, and learn a better lore; abandon race, if thee a Muslim bore.\nIf of his colour, blood, and veins and skin the Arab boasts – an Arab he no more!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

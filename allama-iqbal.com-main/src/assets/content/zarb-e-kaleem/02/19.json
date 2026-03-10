@@ -1,0 +1,34 @@
+{
+  "id": "19",
+  "name": "مہمان عزیز",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "02",
+  "sectionName": "تعلیم و تربیت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پر ہے افکار سے ان مدرسے والوں کا ضمیر \nخوب و ناخوب کی اس دور میں ہے کس کو تمیز! \nچاہیے خانہ دل کی کوئی منزل خالی \nشاید آجائے کہیں سے کوئی مہمان عزیز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The minds of, those who go to school, in thoughts quite fresh and new are clad Alas! There are such people few who draw a line 'twixt good and bad.\nPerhaps some luminous thought may flash across the inmost part of heart for such inspiring thoughts one must set some recess in heart apart.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Honoured Guest",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

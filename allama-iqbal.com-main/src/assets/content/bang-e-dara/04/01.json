@@ -1,0 +1,49 @@
+{
+  "id": "01",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "مشرق میں اصول دین بن جاتے ہیں \nمغرب میں مگر مشین بن جاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the East principles are changed to religion\nBut in the West they are changed into machines. \n(Reference to the doctrine of Trinity) ",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "رہتا نہیں ایک بھی ہمارے پلے \nواں ایک کے تین تین بن جاتے ہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "content": "We do not retain even one of them\nThere one is changed into three"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

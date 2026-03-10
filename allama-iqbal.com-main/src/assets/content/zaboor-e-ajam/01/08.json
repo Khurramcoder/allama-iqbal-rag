@@ -1,0 +1,119 @@
+{
+  "id": "08",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از مشت غبار ما صد نالہ برانگیزی\nنزدیک تر از جانی با خوی کم آمیزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے بدن کی مشت غبار سے (آپ کے فراق میں ) صدہا نالے اٹھتے ہیں؛ کیونکہ آپ میری رگ جان سے قریب تر ہوتے ہوئے بھی مجھ سے دور رہتے ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From my handful of dust You draw out a hundred laments; you are nearer than the soul – for all Your shy reserve.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در موج صبا پنھان دزدیدہ بباغ آئی\nدر بوی گل آمیزی با غنچہ در آویزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی آپ موج صبا میں چپکے سے باغ میں آ جاتے ہیں ؛ کبھی آپ پھول کی مہک میں ملے ہوتے ہیں کبھی غنچے کو کھلا رہے ہوتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hiding in the gentle breeze, thief-like You enter the garden; You mix with the flower’s perfume, and blend with the bud.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مغرب ز تو بیگانہ مشرق ہمہ افسانہ\nوقت است کہ در عالم نقش دگر انگیزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مغرب آپ سے نا آشنا ہے۔ مشرق میں صرف آپ کے قصّے کہانیاں ہیں ( حقیقت سے وہ بھی نا واقف ہے) ؛ اب ضرورت ہے کہ آپ دنیا میں نئے نقش سے جلوہ گر ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The West is indifferent to You, the East is all legends; it is time you etched a new design in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "آنکس کہ بسر دارد سودای جھانگیری\nتسکین جنونش کن با نشتر چنگیزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جس شخص کے سر میں جہان پر حکومت جمانے کا سودا سمایا ہو؛ اس کے جنون کا علاج نشتر چنگیز سے کریں (چنگیز نے بہت سی سلطنتوں کو تہ و بالا کر دیا تھا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who is heady with the ambition of world-conquest; soothe his craze with the lancet of Genghis.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "من بندہ بی قیدم شاید کہ گریزم باز\nاین طرہ پیچان را در گردنم آویزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں لا ابالی بندہ ہوں، کہیں پھر بھاگ نہ جاؤں؛ اپنی زلف پیچاں کو میری گردن میں ڈال کر ہمیشہ کے لیے اپنا بنا لیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "An unreined bondsman, I might slip away again – suppose You hung these curly tresses around my neck!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "جز نالہ نمی دانم گویند غزل خوانم\nاین چیست کہ چون شبنم بر سینۂ من ریزی",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں تو نالہ و فریاد کے سوا اور کچھ نہیں جانتا، لوگ کہتے ہیں میں غزل خواں ہوں؛ یہ شبنم کی طرح کی چیز کیا ہے، جو آپ میرے سینے پر نازل فرما رہے ہیں (سکینت کو شبنم کہا ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Lament is all I know, but they say I am a singer of ghazal; what is this dew-like thing You are pouring on my heart?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

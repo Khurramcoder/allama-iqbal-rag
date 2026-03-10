@@ -1,0 +1,102 @@
+{
+  "id": "22",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان ما ہمہ خاک است و پی سپر گردد\nندانم اینکہ نفسہای رفتہ بر گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری دنیا خاک کی مانند پامال ہو چکی ہے ، میں نہیں سمجھتا کہ پرانے لمحات پھر کبھی واپس آئیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our world is dusty clay trampled upon the way; I do not think our breath returneth out of death.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شبی کہ گور غریبان نشیمن است او را\nمہ و ستارہ ندارد چسان سحر گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "گور غریباں کی رات مہ و ستارہ نہیں رکھتی ؛ اس کی سحر کیسے ہو سکتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This night, whose only home is in the strangers’ tomb; no moon, no stars here burn; to dawn how shall it turn?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دلی کہ تاب و تب لایزال می طلبد\nکرا خبر کہ شود برق یا شرر گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ دل جو تب و تاب جاوداں کا طلبگار ہے، کسے خبر کہ وہ برق بن کر کسی پر گرتی ہے یا شرر بن کر کسی کو پھونک دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart, whose whole desire I quenchless flame and fire, who knows, if it shall grow to lightning flash, or glow?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نگاہ شوق و خیال بلند و ذوق وجود\nمترس ازین کہ ہمہ خاک رہگذر گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ نگاہ شوق ، یہ خیال بلند اور ذوق حیات ؛ خوف نہ کھا ، یہ سب چیزیں خاک رہگذر نہیں بن سکتیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "High fancy, passion’s glance, and life’s exuberance, fear not, for these all three dust of the road shall be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "چنان بزی کہ اگر مرگ ماست مرگ دوام\nخدا ز کردۂ خود شرمسار تر گردد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس طرح زندگی بسر کر کہ اگر ہماری موت مرگ دوام ثابت ہو تو خالق کو بھی اس تخلیق پر افسوس ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "So live, that if our death for aye continueth, God shall be shamed, to know what things He wrought below.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

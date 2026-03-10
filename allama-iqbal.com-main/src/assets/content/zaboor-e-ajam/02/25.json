@@ -1,0 +1,136 @@
+{
+  "id": "25",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از نوا بر من قیامت رفت و کس آگاہ نیست\nپیش محفل جز بم و زیر و مقام و راہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نوا سے مجھ پر قیامت گزر گئی ہے؛ لیکن کسی کو خبر نہیں ؛ محفل صرف آواز کے زیر و بم اور مقام راہ ہی کو دیکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A melody swept me through and through and nobody knew; the air and the note is all they know: The high and low.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در نھادم عشق با فکر بلند آمیختند\nناتمام جاودانم کار من چون ماہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نہاد میں عشق کو فکر بلند کے ساتھ ملا دیا گیا ہے، میں ہمیشہ ناتمام ہوں ، چاند کی طرح نہیں ہوں کہ کبھی مکمل ہو جاؤں ، کبھی نا مکمل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love in my heart was made to chime with thought sublime; not like the moon I wax and wane; I never attain.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "لب فروبند از فغان در ساز با درد فراق\nعشق تا آہی کشد از جذب خویش آگاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "فغان چھوڑ اور درد فراق کو اپنا لے؛ جب تک عشق آہ و فغاں میں مشغول رہتا ہے وہ اپنے جذب سے آگاہ نہیں ہو پاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Weep no more, but with brave heart take disunion’s ache; Love, till it sigheth, scarce can guess its attractiveness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "شعلہ ئی میباش و خاشاکی کہ پیش آید بسوز\nخاکیان را در حریم زندگانی راہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر خس و خاشاک کو جو تمہارے سامنے آئے پھونک دے، خاک جب تک شعلہ نہ بنے وہ مقصد حیات کو پا نہیں سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be thou a torch, and set afire the bush and briar; men of clay have no right to be in life’s sanctuary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جرہ شاہینی بمرغان سرا صحبت مگیر\nخیز و بال و پر گشا پرواز تو کوتاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نر شاہین ہے پالتو پرندوں سے صحبت نہ رکھ ، اٹھ، پر پھیلا ، تیرے اندر پرواز کی طاقت موجود ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A falcon thou art; yield not thy soul to domestic fowl; rise, spread thy wing and pinion, and soar both high and far.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کرم شب تاب است شاعر در شبستان وجود\nدر پر و بالش فروغی گاہ ہست و گاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعر شبستان وجود میں جگنو کی مانند ہے، کبھی اس کے بال و پر میں چمک ہوتی ہے کبھی نہیں ہوتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The poet’s a glow that giveth light in life’s dark night; a radiance shines in his wings anon, and sometimes none.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "در غزل اقبال احوال خودی را فاش گفت\nزانکہ این نو کافر از آئین دیر آگاہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال نے اپنی غزل میں خودی کے راز فاش کر دئے ، یہ کافر نو بتخانے کے آداب سے واقف نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal in his song his Self has bared and truth declared; this new-unbeliever knoweth naught of cloister rote.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

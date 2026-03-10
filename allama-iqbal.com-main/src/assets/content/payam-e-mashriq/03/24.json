@@ -1,0 +1,136 @@
+{
+  "id": "24",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرقے ننہد عاشق در کعبہ و بتخانہ\nاین جلوت جانانہ آن خلوت جانانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اہل عشق کعبہ و بتخانہ میں کوئی امتیاز نہیں رکھتے، (وہ کہتے ہیں) یہاں محبوب جلوت میں ہے، وہاں خلوت میں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A true lover does not differentiate between the Ka‘bah and the idol-house. The one is the Beloved’s privacy, the other His appearing publicly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شادم کہ مزار من در کوے حرم بستند\nراہے ز مژہ کاوم از کعبہ بہ بتخانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں خوش ہوں کہ میرا مزار حرم کے جوار میں بنایا گیا، اب میں کعبے سے بت خانے تک اپنی پلکوں سے راہ بنا رہا ہوں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am glad my grave has been built in the Harem’s own street. With my eyelashes I will dig a tunnel from the Ka‘bah to the idol-house. (A Message from the East).",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ز بزم جہان خوشتر از حور جنان خوشتر\nیک ھمدم فرزانہ وز بادہ دو پیمانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک سمجھدار دوست اور دو شراب کے جام اس بزم جہان (دنیا) اور حور جناں (جنت) سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Better than any company in this world or the next are a sagacious friend and two goblets of wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہر کس نگہے دارد ہر کس سخنے دارد\nدر بزم تو می خیزد افسانہ ز افسانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر شخص نگاہ رکھتا ہے، (اس لیے مجھے دیکھتا ہے) ہر شخص زبان رکھتا ہے (اس لیے اپنی کیفیت بیان کرتا ہے)، تیری بزم میں افسانے سے افسانہ پیدا ہوتا جا رہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Here everyone has eyes and everyone a tongue. So in your company one story breeds another.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "این کیست کہ بر دلہا آوردہ شبیخونے\nصد شہر تمنا را یغما زدہ ترکانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ کون ہے جس نے دلوں پر یوں شبخوں مارا، کہ سینکڑوں شہر تمنا ایک ترکانہ یلغار سے فتح کر لیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who is He Who has launched a night-attack on hearts, who like a Turk has plundered a hundred cities of desire?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "در دشت جنون من جبریل زبون صیدے\nیزدان بہ کمند آور اے ہمت مردانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دشت جنوں میں جبریل معمولی شکار ہیں، اے ہمت مردانہ اپنی کمند (محبت) میں اللہ تعالے کو لا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where I roam in my mad pursuit the angel Gabriel is but small game. Come, O my manly courage, cast a lasso upon God Himself.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اقبال بہ منبر زد رازے کہ نباید گفت\nنا پختہ برون آمد از خلوت میخانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اقبال نے وہ راز جو منبر پر کہہ دیا جو کہنا نہیں چاہیئے تھا، معلوم ہوتا ہے کہ خلوت مئے خانہ سے ناپختہ ہی باہر آ گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iqbal has in the pulpit blurted out a secret that was not to be revealed. Well, he had issued forth still raw from the wine-tavern’s privacy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

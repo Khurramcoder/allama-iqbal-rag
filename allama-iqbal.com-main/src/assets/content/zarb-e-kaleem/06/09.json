@@ -1,0 +1,100 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق طینت میں فرومایہ نہیں مثل ہوس \nپر شہباز سے ممکن نہیں پرواز مگس",
+              "lang": "Original"
+            },
+            {
+              "_content": "مگس: مکھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love's bent of mind is not so mean and low like that of vicious greed: How can the hopping fly compete with regal hawk in flight or speed?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "یوں بھی دستور گلستاں کو بدل سکتے ہیں \nکہ نشیمن ہو عنادل پہ گراں مثل قفس",
+              "lang": "Original"
+            },
+            {
+              "_content": "عنادل: عندلیب (بلبل) کی جمع۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To bring about a change in laws of park with ease one can engage and for the nightingale can make the nest as irksome as the cage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "سفر آمادہ نہیں منتظر بانگ رحیل \nہے کہاں قافلہ موج کو پروائے جرس!",
+              "lang": "Original"
+            },
+            {
+              "_content": "جرس: گھنٹی۔ (Kooch.( رحیل: کوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If some one is about to set on journey that is hard and long, he does not wait for herald's sound, like waves that flow without ding dong.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گرچہ مکتب کا جواں زندہ نظر آتا ہے \nمردہ ہے، مانگ کے لایا ہے فرنگی سے نفس",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though college youth appears alive, yet he is in the throes of death: He has no thoughts to call his own and lives on borrowed Frankish breath.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پرورش دل کی اگر مد نظر ہے تجھ کو \nمرد مومن کی نگاہ غلط انداز ہے بس!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you e'er keep before your sight the nature of your inmost heart a casual glance of Saintly Guide with much ease can perform this part.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,117 @@
+{
+  "id": "31",
+  "name": "نپولین کے مزار پر",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "راز ہے، راز ہے تقدیر جہان تگ و تاز \nجوش کردار سے کھل جاتے ہیں تقدیر کے راز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہان تگ و تاز: وہ دنیا جس میں دوڑ دھوپ لازم ہے، مراد یہ دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The destiny of the world is a mystery unknown; it is the force of character that unlocks its heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جوش کردار سے شمشیر سکندر کا طلوع \nکوہ الوند ہوا جس کی حرارت سے گداز",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ الوند: ایران کا ا یک مشہور پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was the force that powered Alexander’s mighty sword: The sword that shattered all that came in its way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جوش کردار سے تیمور کا سیل ہمہ گیر \nسیل کے سامنے کیا شے ہے نشیب اور فراز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It was the force that launched Tamburlaine’s conquering hordes: The hordes that swept through rivers and hills and dales.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "صف جنگاہ میں مردان خدا کی تکبیر \nجوش کردار سے بنتی ہے خدا کی آواز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The call to prayer by men of God in the battle front, through the power of character becomes the voice of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہے مگر فرصت کردار نفس یا دو نفس \nعوض یک دو نفس قبر کی شب ہائے دراز!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the body’s valour and the power of will, after a moment’s pause, are swallowed up by the grave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عاقبت منزل ما وادی خاموشان است \nحالیا غلغلہ در گنبد افلاک انداز",
+              "lang": "Original"
+            },
+            {
+              "_content": "آخر ہماری منزل قبرستان ہے، جہاں خاموشی ہی کا دور دورہ ہے اور کوئی آواز، کوئی صدا وہاں سے نہیں اٹھ سکتی۔ جب حالت یہ ہے تو کیوں زندگی کے اوقات آسمانوں کے گنبد میں غلغلہ اور ہنگامہ بپا کرنے کے لیے وقف نہ کر دیے جائیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘The vale of silence is the final goal of our journey; raise a tumult, when alive, under the starlit dome.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "At Napoleon’s Tomb",
+  "credits": "English Translation by: Naim Siddiqui"
+}

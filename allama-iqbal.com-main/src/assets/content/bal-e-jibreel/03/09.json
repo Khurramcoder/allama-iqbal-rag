@@ -1,0 +1,33 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "03",
+  "sectionName": "رباعیات",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہر اک ذرے میں ہے شاید مکیں دل \nاسی جلوت میں ہے خلوت نشیں دل \nاسیر دوش و فردا ہے و لیکن \nغلام گردش دوراں نہیں دل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A restless heart throbs in every atom; it has its abode, alone, in a multitude.\nImpaled upon the wheel of days and nights, it remains unchained by the tyranny of time.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naim Siddiqui"
+}

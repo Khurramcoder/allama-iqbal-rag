@@ -1,0 +1,34 @@
+{
+  "id": "39",
+  "name": "ذوق نظر",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی بلند تھی اس خوں گرفتہ چینی کی\nکہا غریب نے جلاد سے دم تعزیر\nٹھہر ٹھہر کہ بہت دل کشا ہے یہ منظر\nذرا میں دیکھ تو لوں تاب ناکی شمشیر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How lofty was that Chinese Self who for crime was condemned to death on eve of his beheading, he asked headsman, ‘Stop for a span or breath.’\nHe asked for stoppage many times, for it was very pleasant scene, he wished to see for moments few the sword's great-glimmer, glow and sheen.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Zest For Sight",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

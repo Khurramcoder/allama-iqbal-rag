@@ -1,0 +1,391 @@
+{
+  "id": "20",
+  "name": "آفتاب صبح",
+  "name-en": "Morning Sun",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "شورش میخانہ انساں سے بالاتر ہے تو\nزینت بزم فلک ہو جس سے وہ ساغر ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Far from the ignoble strife of Man's tavern you are\nThe wine-cup adorning the sky's assemblage you are"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہو در گوش عروس صبح وہ گوہر ہے تو\nجس پہ سیمائے افق نازاں ہو وہ زیور ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The jewel which should be the pearl of the morning's bride's ear you are\nThe ornament which would be the pride of horizon's forehead you are"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صفحہ ایام سے داغ مداد شب مٹا\nآسماں سے نقش باطل کی طرح کوکب مٹا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The blot of night's ink from time's page has been removed!\nThe star from sky like a spurious picture has been removed!\n"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "حسن تیرا جب ہوا بام فلک سے جلوہ گر\nآنکھ سے اڑتا ہے یک دم خواب کی مے کا اثر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "When from the roof of the sky your beauty appears\nEffect of sleep's wine suddenly from eyes disappears"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نور سے معمور ہو جاتا ہے دامان نظر\nکھولتی ہے چشم ظاہر کو ضیا تیری مگر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Perception's expanse gets filled with light\nThough opens only the material eye your light"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ڈھونڈتی ہیں جس کو آنکھیں وہ تماشا چاہیے\nچشم باطن جس سے کھل جائے وہ جلوا چاہیے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The spectacle which the eyes seek is desired\nThe effulgence which would open the insight is desired"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "شوق آزادی کے دنیا میں نہ نکلے حوصلے\nزندگی بھر قید زنجیر تعلق میں رہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The desires for freedom were not fulfilled in this life\nWe remained imprisoned in chains of dependence all life"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "زیر و بالا ایک ہیں تیری نگاہوں کے لیے\nآرزو ہے کچھ اسی چشم تماشا کی مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The high and the low are alike for your eye\nI too have longing for such a discerning eye"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آنکھ میری اور کے غم میں سرشک آباد ہو\nامتیاز ملت و آئیں سے دل آزاد ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May my eye shedding tears in sympathy for others' woes be!\nMay my heart free from the prejudice of nation and customs be!"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "بستہ رنگ خصوصیت نہ ہو میری زباں\nنوع انساں قوم ہو میری، وطن میرا جہاں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May my tongue be not bound with discrimination of color\nMay mankind be my nation, the whole world my country be"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "دیدہ باطن پہ راز نظم قدرت ہو عیاں\nہو شناسائے فلک شمع تخیل کا دھواں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May secret of Nature's organization clear to my insight be\nMay smoke of my imagination's candle rising to the sky be"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "عقدہ اضداد کی کاوش نہ تڑپائے مجھے\nحسن عشق انگیز ہر شے میں نظر آئے مجھے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May search for secrets of opposites not make me restless!\nMay the Love-creating Beauty in everything appear to me!\n"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "صدمہ آ جائے ہوا سے گل کی پتی کو اگر\nاشک بن کر میری آنکھوں سے ٹپک جائے اثر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "If the rose petals get damaged by the breeze\nMay its pain dropping from my eye as a tear be"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دل میں ہو سوز محبت کا وہ چھوٹا سا شرر\nنور سے جس کے ملے راز حقیقت کی خبر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May the heart contain that little spark of Love's fire\nThe light of which may contain the secret of the Truth"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "شاہد قدرت کا آئینہ ہو، دل میرا نہ ہو\nسر میں جز ہمدردی انساں کوئی سودا نہ ہو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "May my heart not mine but the Beloved's mirror be!\nMay no thought in my mind except human sympathy be!\n"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "تو اگر زحمت کش ہنگامہ عالم نہیں\nیہ فضیلت کا نشاں اے نیر اعظم نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "If you cannot endure the hardships of the tumultuous world\nO the Great Luminary that is not the mark of greatness!"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "اپنے حسن عالم آرا سے جو تو محرم نہیں\nہمسر یک ذرہ خاک در آدم نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "As you are not aware of your world-decorating beauty\nYou cannot be equal to a speck of dust at the Man's door!"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نور مسجود ملک گرم تماشا ہی رہا\nاور تو منت پذیر صبح فردا ہی رہا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "The light of Man eager for the Spectacle ever remained\nAnd you obligated to the tomorrow's morning ever remained",
+              "_note": "Man always had the elevated status of searching for the secrets of the Existence and the Essence of God, but you have remained in need of waiting for the morning every day to be able to rise and gain eminence. This shows the superiority of Man over the sun."
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "آرزو نور حقیقت کی ہمارے دل میں ہے\nلیلی ذوق طلب کا گھر اسی محمل میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Longing for the Light of the Truth is only in our hearts\nAbode of Lailah of desire for search is only in this litter"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کس قدر لذت کشود عقدہ مشکل میں ہے\nلطف صد حاصل ہماری سعی بے حاصل میں ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Opening of the difficult knot, Oh what a pleasure it is!\nThe pleasure of universal gain in our endless effort is!"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "درد استفہام سے واقف ترا پہلو نہیں\nجستجوئے راز قدرت کا شناسا تو نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English",
+              "_content": "Your bosom is unacquainted with the pain of investigation\nYou are not familiar with searching of the secrets of Nature"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

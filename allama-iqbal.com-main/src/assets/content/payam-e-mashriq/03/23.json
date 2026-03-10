@@ -1,0 +1,129 @@
+{
+  "id": "23",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہ شاخ زندگی ما نمی ز تشنہ لبی است\nتلاش چشمۂ حیوان دلیل کم طلبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sap in the tree of our life comes from our thirst. To seek the spring of immortality is to be unadventurous.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "حدیث دل بہ کہ گویم چہ راہ بر گیرم\nکہ آہ بی اثر است و نگاہ بی ادبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whom shall I tell the story of my heart and in what way? For sighs are ineffectual and looking is irreverence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "غزل بہ زمزمہ خوان پردہ پست تر گردان\nہنوز نالۂ مرغان نوای زیر لبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Chant your ghazals, but let the key be very low; for birdsong here is still in undertones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "متاع قافلۂ ما حجازیان بردند\nولی زبان نگشائی کہ یار ما عربی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men of Hijaz have robbed our caravan of all its goods. But silence! For our friend is from Arabia.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نہال ترک ز برق فرنگ بار آورد\nظہور مصطفوی را بہانہ بولہبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tree of the Turks has borne fruit because it was struck by the lightning of the West. The advent of the Chosen One took place because of Abu Lahabism.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "مسنج معنی من در عیار ہند و عجم\nکہ اصل این گہر از گریہ ہای نیم شبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not assess what I sing by the standards of Iran and Hindustan. It is a gem which is the product of nocturnal tears.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیا کہ من ز خم پیر روم آوردم\nمی سخن کہ جوان تر ز بادہ عنبی است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, I have brought from the vat of the guide of Rum the wine of poesy, much younger than the wine of grapes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,133 @@
+{
+  "id": "14",
+  "name": "غزل",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دریا میں موتی، اے موج بے باک \nساحل کی سوغات ! خاروخس و خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاروخس و خاک: کانٹے، گھاس اور مٹی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O fearless wave, at bed of river gems are found. What are the gifts of coast? There dust and thorns abound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میرے شرر میں بجلی کے جوہر \nلیکن نیستاں تیرا ہے نم ناک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The temper of lightning flash that darts, my spark contains, but still your bed of reeds is moist and sap retains.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تیرا زمانہ، تاثیر تیری \nناداں ! نہیں یہ تاثیر افلاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The age in which you live is influenced by you: To spheres that ever spin, it can, no way be due.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ایسا جنوں بھی دیکھا ہے میں نے \nجس نے سیے ہیں تقدیر کے چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have come 'cross in life men with such craze and pluck they could darn with much ease the rents produced by luck.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کامل وہی ہے رندی کے فن میں \nمستی ہے جس کی بے منت تاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاک: انگور کی بیل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That man is toper fine, who owes, no debt to wine such men are very few, they raise no cry or hue.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "رکھتا ہے اب تک میخانہ شرق \nوہ مے کہ جس سے روشن ہو ادراک",
+              "lang": "Original"
+            },
+            {
+              "_content": "ادراک: عقل، سوجھ بوجھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The East has taverns still where you can find such, wine, which makes perception dull with grandeur gleam and shine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اہل نظر ہیں یورپ سے نومید \nان امتوں کے باطن نہیں پاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Men with vision bright for West have hope go slight the hearts of West aren't chaste for actions good haven't taste.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Ghazal",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

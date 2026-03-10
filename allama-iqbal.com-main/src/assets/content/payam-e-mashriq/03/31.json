@@ -1,0 +1,102 @@
+{
+  "id": "31",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سطوت از کوہ ستانند و بکاہی بخشند\nکلۂ جم بہ گدای سر راہی بخشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہاڑ سے سطوت چھین کر تنکے کو بخش دیتے ہیں، جمشید کو تاج گدائے سر راہ کو دے دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The majesty is snatched away from mountains and bestowed on leaves of grass. A royal crown is put on the head of a roadside beggar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "در رہ عشق فلان ابن فلان چیزی نسیت\nید بیضای کلیمی بہ سیاہی بخشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق کی راہ میں فلاں ابن فلاں (حسب نسب ) کوئی چیز نہیں، کلیم (علیہ) کا ید بیضا حبشی ( غلام) کو عطا کر دیتے ہیں ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In Love’s way who is who is of little account. The white palm of a Moses is conferred on a black man.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "گاہ شاہی بہ جگر گوشۂ سلطان ندہند\nگاہ باشد کہ بزندانی چاہی بخشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کبھی سلطان کے بیٹے کو بھی پادشاہت نہیں دیتے، اور کبھی کوئیں میں گرے ہوئے شخص (یوسف علیہ) کو حکومت بخش دیتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sometimes kingship is not bestowed on the son of a king; sometimes it is bestowed upon a prisoner in a well.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فقر را نیز جھانبان و جہانگیر کنند\nکہ بہ این راہ نشین تیغ نگاہی بخشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیر کو بھی حکمرانی اور سلطنت دے دیتے ہیں، کیونکہ اس راہ نشین کو نگاہ کی تلوار بخشتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A wayside beggar may be turned into a conqueror and ruler of the world by having granted to his eyes the cutting power of a sword.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق پامال خرد گشت و جہان دیگر شد\nبود آیا کہ مرا رخصت آہی بخشند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق عقل کے ہاتھوں پامال ہو گیا اور جہان بدل گیا، ہو سکتا ہے کہ مجھے پھر آہ و فریاد کی اجازت مل جائے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love has been overthrown by reason, and the world is upside down. It may be that I shall be given freedom to wail over this.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

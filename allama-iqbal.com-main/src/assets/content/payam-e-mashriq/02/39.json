@@ -1,0 +1,137 @@
+{
+  "id": "39",
+  "name": "بہشت",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کجا این روزگاری شیشہ بازی\nبہشت این گنبد گردون ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "کہاں یہ ذوفنون دنیا (اور کہاں بہشت) جنت میں کوئی ایسا چرخ گردوں (آسمان) نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This world of ours is full of a strange jugglery. Heaven does not have this kind of a revolving sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ندیدہ درد زندان یوسف او\nزلیخایش دل نالان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے یوسف نے قیدخانے کی تکلیف نہیں دیکھی؛ نہ وہاں کی زلیخا کا دل فریاد کناں رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its Joseph is a stranger to imprisonment; and its Zuleikha’s heart does not know how to cry.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خلیل او حریف آتشے نیست\nکلیمش یک شرر در جان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ابراہیم آتش کا مقابلہ نہیں کرتا، نہ اس کے کلیم کی جان میں کوئی شرر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its Abraham has not been cast into a fire; its Moses does not have a live spark in his soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بہ صرصر در نیفتد زورق او\nخطر از لطمۂ طوفان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی کشتی باد تند کی زد میں نہیں آتی، نہ اسے طوفان کے تھپیڑوں کا کوئی خطرہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its barque has never had to cope with stormy winds, and never has been tossed about by seas that roll.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یقین را در کمین بوک و مگر نیست\nوصال اندیشۂ ہجران ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں یقین کی گھات میں تردد یا شک نہیں؛ نہ وہاں وصل کو فراق کا اندیشہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There cetainty has never been assailed by doubt. There union is not plagued by separation’s fear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "کجا آن لذت عقل غلط سیر\nاگر منزل رہ پیچان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر منزل کا راستہ پیچدار نہ ہو، تو عقل کی غلط روی کی لذّت کہاں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can you have the joy of straying from the path, if the path that you have to tread is fixed and clear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مزی اندر جھانی کور ذوقی\nکہ یزدان دارد و شیطان ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے جہان کور ذوق (بہشت) کے اندر زندگی بسر نہ کر ؛ جہاں یزداں ہے مگر شیطان نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Never live in a world devoid of joy and zest, where God exists, but Beelzebub does not exist.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Paradise",
+  "credits": "English Translation by: M Hadi Hussain"
+}

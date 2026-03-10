@@ -1,0 +1,119 @@
+{
+  "id": "28",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سخن تازہ زدم کس بسخن وا نرسید\nجلوہ خون گشت و نگاہی بتماشا نرسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نئی بات کہتا ہوں مگر کوئی میری نہیں سمجھتا؛ جلوہ خوں ہو چکا ہے لیکن اسے دیکھنے کے لیے ایک نگاہ بھی نہیں پہنچی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I uttered a new word, but there was none that heard; vision to rapture grew, but glance was none to view.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "سنگ می باش و درین کارگہ شیشہ گذر\nواے سنگی کہ صنم گشت و بہ مینا نرسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کارگہہ شیشہ (دنیا) میں سنگ بن کر زندگی گزار؛ افسوس ایسے پتھر پر جو بت بن گیا مگر مینا کو نہ توڑ سکا۔ (افسوس ہے ان پر جو بتوں کی طرح پجتے ہیں ، مگر کہنہ روایات کو نہیں توڑ سکتے۔)",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Be thou a stone, and pass within these works of glass; woe, stone to idol wrought that goblet shattered not!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کہنہ را در شکن و باز بہ تعمیر خرام\nہر کہ در ورطۂ لا ماند بہ الا نرسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرسودہ روایات کو توڑ دے اور از سر نو تعمیر کی طرف قدم بڑھا، جو کوئی لا ہی کے چکر میں رہ جاتا ہے وہ الا تک نہیں پہنچ پاتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Break down the old, and then rebuild the world again; who in ‘No God’ remained has ne’er ‘Except’ attained.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اے خوش آن جوے تنک مایہ کہ از ذوق خودی\nدر دل خاک فرو رفت و بدریا نرسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "خوش نصیب ہے وہ چھوٹی ندی جو تحفظ ذات کے پیش نظر ، زمین کے اندر چلی گئی، مگر اس نے دریا تک جانا گوارا نہ کیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O happy rivulet in selfhood passionate, who to earth’s heart dost flee and flowest not so sea!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "از کلیمے سبق آموز کہ داناے فرنگ\nجگر بحر شکافید و بہ سینا نرسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "دانایان فرنگ کو چھوڑ، کلیم سے سبق سیکھ ؛ انہوں نے بحر کا سینہ تو چاک کیا ہے مگر طور سینا تک نہیں پہنچ سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Moses’ lesson list; for Europe’s scientist though ocean’s depth he plumb, could ne’er to Sinai come.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "عشق انداز تپیدن ز دل ما آموخت\nشرر ماست کہ برجست و بہ پروانہ رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے ہمارے دل سے تڑپنے کے انداز سیکھے ہیں؛ یہ ہمارے دل ہی کا شرر ہے جو بھڑکا اور پروانے تک پہنچ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love’s self learnt quivering’s art from this our trembling heart; our spark it was that spired until the moth expired.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,750 @@
+{
+  "id": "04",
+  "name": "ارواح فرعون و کشنر را",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "04",
+  "sectionName": "فلک زہرہ",
+  "name-ur": "دریائے زہرہ کے اندر جانا اور فرعون و کچنر کی ارواح دیکھنا۔",
+  "Para": [
+    {
+      "name": "فرورفتن بدریای زھرہ و دیدن ارواح فرعون و کشنر را",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "پیر روم آن صاحب \"ذکر جمیل\" \nضرب او را سطوت ضرب خلیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر روم جو صاحب ذکر جمیل ہیں؛ جن کی ضرب کو ضرب خلیل (علیہ) کی سطوت حاصل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Sage of Rum, that master of fair Report whose blow has the power of Abraham’s fist,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "این غزل در عالم مستی سرود\nہر خدای کہنہ آمد در سجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "انہوں نے عالم مستی میں یہ غزل پڑھی اور ہر خدائے باطل سجدے میں گر گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Chanted this song in the world of intoxication and all the ancient gods prostrate fell.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "غزل",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "باز بر رفتہ و آیندہ نظر باید کرد\nہلہ بر خیز کہ اندیشہ دگر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "گزشتہ اور آئیندہ پر دوبارہ نظر ڈالنے کی ضرورت ہے؛ ہلہ اٹھ کہ دوبارہ سوچنے کی ضرورت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "GHAZAL (SONG)\nAgain one must gaze on the past and the future; ho, rise up, for one must think anew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "عشق بر ناقۂ ایام کشد محمل خویش\nعاشقی راحلہ از شام و سحر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق نے ناقہء ایّام پر اپنا محمل باندھ لیا ہے مگر تو عاشق ہے تو تجھے صرف شام و سحر ہی کو سامان سفر بنانا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love carries its load on the she-camel of Time; are you a lover? You must make your mount of evening and morn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "پیر ما گفت جہان بر روشی محکم نیست\nاز خوش و ناخوش او قطع نظر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے پیر نے کہا جہان کسی ایک روش پر مستحکم نہیں رہتا اس لیے اس کی پسند و نا پسند کی پروا نہیں کرنی چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our elder said, ‘The world follows not a constant way, one must close one’s eyes to its joys and griefs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تو اگر ترک جہان کردہ سر او داری\nپس نخستین ز سر خویش گذر باید کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو اگر جہان سے لاپروا ہو کر بھی اس کا خیال رکھتا ہے ؛ تو پھر تجھے پہلے اپنے سر کی خیر منانا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If, having abandoned the world, you intend Him, first you must pass away from your self.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفتمش در دل من لات و منات است بسی\nگفت این بتکدہ را زیر و زبر باید کرد\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے کہا، میرے دل میں بہت لات و منات بسے ہوئے؛ میرے پیر نے کہا اس بتکدے کو تہ و بالا کر دینا چاہیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said to him, ‘In my heart are many Lats and Manats.’ He said, ‘You must destroy this idol-house utterly.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "باز با من گفت \"بر خیز اے پسر\nجز بدامانم میاویز اے پسر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے بعد رومی نے مجھ سے کہا: 'اے بیٹے اٹھ (آگے چلیں) صرف میرے دامن کو مضبوطی سے پکڑے رکھنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Again he said to me: ‘Rise up, boy, cling only to my skirt, boy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آن کہستان آن جبال بے کلیم\nآنکہ از برف است چون انبار سیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کوہستان اور جہان سے کوئی 'ارنی ' کی آواز نہیں اٹھتی؛ وہ پہاڑ کو برف سے چاندی کے انبار کی مانند بنا ہوا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Yonder mountains, yonder heights without a Moses, so covered with snow as to seem a heap of silver,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "در پس او قلزم الماس گون\nآشکارا تر درونش از برون",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پہاڑ کے پیچھے الماس کے رنگ کا سمندر ہے جس کا اندرون اس کے بیرون سے زیادہ ظاہر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Beyond them stretches a diamond-shining ocean, its depths even more translucent than its surface;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نے بموج و نے بہ سیل او را خلل\nدر مزاج او سکون لم یزل",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ اس کے اندر موج اٹھی ہے، نہ سیلاب ؛ اس کے مزاج میں مستقل سکون ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Undisturbed by wave or torrent, in its nature an eternal quiet.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "این مقام سر کشان زور مست\nمنکران غایب و حاضر پرست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ زور مست سرکشوں کا مقام ہے، وہ جو غائب کے منکر تھے اور صرف حاضر کے پرستار تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This is the place of power-drunk arrogants denying the Unseen, worshipping the seen;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آن یکی از شرق و آن دیگر ز غرب\nہر دو با مردان حق در حرب و ضرب",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان میں سے ایک مشرق سے تعلق رکھتا ہے دوسرا مغرب سے ؛ یہ دونوں مردان حق سے برسر پیکار رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That one from the East, the other from the West, both at war and blows with the men of God.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "آن یکی بر گردنش چوب کلیم\nوان دگر از تیغ درویشی دو نیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان میں سے ایک کی گردن پر عصائے موسی (علیہ) نے ضرب لگائی اور دوسرا درویش (مہدی سوڈانی) کی تلوار سے دو لخت ہوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "One has had on his neck the staff of Moses, the other struck asunder by a dervish’s sword,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہر دو فرعون این صغیر و آن کبیر\nہر دو در آغوش دریا تشنہ میر",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں فرعون تھے ایک بڑا، ایک چھوٹا؛ دونوں سمندر میں پیاسے مرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both Pharaohs, one little, the other great, both dying of thirst in the embrace of the sea;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہر کسے با تلخی مرگ آشناست\nمرگ جباران ز آیات خداست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر کسی کو موت کی تلخی سے آشنا ہونا پڑتا ہے؛ مگر جابروں کی موت اللہ تعالے کی آیات میں سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Each is familiar with the bitterness of death – the death of tyrants is one of God’s signs.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "درپے من پا بنہ از کس مترس\nدست در دستم بدہ از کس مترس",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے ہاتھ میں ہاتھ دے اور پیچھے چلتا آ، کسی سے نہ ڈر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Follow me closely and fear no one; place your hand in mine and fear no one.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "سینۂ دریا چو موسے بر درم\nمن ترا اندر ضمیر او برم\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں موسی (علیہ) کی طرح اس سمندر کا سینہ چیر دونگا ؛ اور تجھے اس گہرائی کے اندر لے جاؤں گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I will rend apart the sea like Moses; I will guide you into its very breast.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "بحر بر ما سینۂ خود را گشود\nیا ہوا بود و چو آبے وانمود",
+              "lang": "Original"
+            },
+            {
+              "_content": "سمندر نے ہمارے لیے اپنا سینہ کھول دیا، شاید وہ پانی تھا ہی نہیں، ہوا تھی جو پانی نظر آتی تھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sea opened to us its breast – or was it air, that appeared as a water?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "قعر او یک وادی بیرنگ و بو\nوادے تاریکی او تو بہ تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی تہ ایک بے رنگ و بو وادی تھی؛ جس کے اندر تاریکی کے پردے پڑے ہوئے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its depths were a valley without colour and scent, a valley whose darkness was fold on fold.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "پیر رومی سورۂ طہ سرود\nزیر دریا ماہتاب آمد فرود",
+              "lang": "Original"
+            },
+            {
+              "_content": "پیر رومی نے سورۂ طہ کی تلاوت شروع کر دی ؛ جس سے سورج کے اندر چاندنی پھیل گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Taha The Sage of Rum chanted the Sura of Taha; under the sea streamed down moonshine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "کوہہای شستہ و عریان و سرد\nاندر آن سر گشتہ و حیران دو مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہاں کے پہاڑ دھلے ہوئے بے آب و گیاہ اور سرد تھے؛ اور وہاں دو مرد سرگشتہ و حیران پھر رہے تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mountains washed, naked and cold, and amid them two bewildered men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "سوی رومی یک نظر نگریستند\nباز سوی یکدگر نگریستند",
+              "lang": "Original"
+            },
+            {
+              "_content": "پہلے انہوں نے رومی کو ایک نظر دیکھا ؛ پھر آپس میں ایک دوسرے پر نظر ڈالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Who first cast a glance on Rumi, then gazed one upon the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "گفت فرعون این سحر این جوی نور\nاز کجا این صبح و این نور و ظہور",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرعون نے کہا، یہ صبح، یہ نور کی ندی، یہ صحرا، یہ نور و ظہور کہاں سے آیا!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pharaoh cried, ‘What wizardry! What a river of light! whence comes this dawn, this light, this apparition?’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "ہر چہ پنہان است ازو پیداستی\nاصل این نور از یدبیضاستی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جو بھی پنہاں ہے وہ اس نور سے ظاہر ہو جاتا ہے ؛ اور اس نور کی اصل ید بیضا سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All that is hidden through Him is manifest; the origin of this Light is from the White Hand.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "فرعون",
+      "Verse": [
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "آہ نقد عقل و دین در باختم\nدیدم و این نور را نشناختم",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس میں نے عقل و دین کی نقدی ہار دی؛ میں نے اس نور کو دیکھا بھی مگر اسے پہچان نہ سکا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Pharaoh\nAh, I have gambled away the coin of reason and religion; I saw, but did not recognize this light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "اے جھانداران سوی من بنگرید\nاے زیانکاران سوی من بنگرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے سلاطین! جو اپنا نقصان کر رہے ہو میری طرف دیکھو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "World-rulers, gaze all upon me; world-destroyers, gaze all upon me!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "واے قومی از ہوس گردیدہ کور\nمی برد لعل و گہر از خاک گور",
+              "lang": "Original"
+            },
+            {
+              "_content": "افسوس اس قوم پر ہوس زر نے جس کی آنکھیں اندھی کر دی ہیں ؛ جو ہماری قبروں سے عبرت حاصل کرنے کی بجائے لعل و گوہر سمیٹتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Woe to a people blinded by avarice who have robbed the tomb of rubies and pearls!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "پیکری کو در عجایب خانہ ایست\nبر لب خاموش او افسانہ ایست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے مجسمے جو عجائب خانے میں پڑے ہیں ان کے لب خاموش پر ایک افسانہ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A human shape dwells in a museum with a legend upon its silent lips",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "از ملوکیت خبرہا می دھد\nکور چشمان را نظرہا می دہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بادشاہت کے انجام کی خبر دیتے ہیں، وہ اندھوں کو نظر عطا کرتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Telling the history of imperialism and giving visions to the blind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "چیست تقدیر ملوکیت، شقاق\nمحکمی جستن ز تدبیر نفاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "پادشاہت کی تقدیر کیا ہے؟ پھوٹ ڈالنا ؛ اور پھوٹ کے لیے اپنے آپ کو مستحکم کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What is the grand design of imperialism? To seek security by contriving division.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "از بد آموزی زبون تقدیر ملک\nباطل و آشفتہ تر تدبیر ملک",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس بدنیتی کی وجہ سے ملک کی تقدیر زار و زبوں اور نظام ابتر اور نا محکم ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From such evil doctrine the fate of rulership declines, the contrivances of rulership become void and confused.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "باز اگر بینم کلیم اﷲ را\nخواھم از وی یک دل آگاہ را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میں کلیم اللہ (علیہ) کو پھر دیکھ لوں تو اس سے ایک دل آگاہ کی فرمائش کروں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I could only see God’s interlocutor again I would beg from him a heart aware.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "رومی",
+      "Verse": [
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "حاکمی بے نور جان خام است خام\nبے یدبیضا ملوکیت حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "نور جان کے بغیر حکومت خام ہے، ید بیضا کے بغیر پادشاہت حرام ہے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi\nGovernment without spiritual light is raw, raw, imperial power without the White Hand is a sin.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "حاکمی از ضعف محکومان قویست\nبیخش از حرمان محرومان قویست",
+              "lang": "Original"
+            },
+            {
+              "_content": "حکمرانی محکوموں کی کمزوری سے قوّت حاصل کرتی ہے؛ اس کی جڑ محروموں کی محرومی سے قوی ہوتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rulership is strong through the weakness of the subjects, its roots are firm through the deprivation of the deprived.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "تاج از باج است و از تسلیم باج\nمرد اگر سنگ است میگردد زجاج",
+              "lang": "Original"
+            },
+            {
+              "_content": "تاج کا دار و مدار خراج اور اس کی آدائیگی پر ہے؛ اس سے پتھر جیسا قوی انسان بھی شیشے کی مانند نازک ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The crown derives from tribute and the yielding of tribute; if a man be a rock, he soon becomes glass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "فوج و زندان و سلاسل رہزنی است\nاوست حاکم کز چنین سامان غنی است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فوج، قیدخانے اور زنجیریں سب رہزنی ہے؛ حقیقی حاکم وہی ہے جو اس سامان سے بے نیاز ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Armies, prisons, chains are banditry; he is the true ruler who needs not such apparatus.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "ذوالخرطوم",
+      "Verse": [
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "مقصد قوم فرنگ آمد بلند\nاز پی لعل و گہر گوری نکند",
+              "lang": "Original"
+            },
+            {
+              "_content": "انگریزوں کا مقصد بلند ہے، وہ (فرعونوں کی) قبریں لعل و گوہر کے لیے نہیں کھودتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kitchener of Khartoum\nThe goal of the people of Europe is lofty, they excavate not any grave for rubies and pearls;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "سر گذشت مصر و فرعون و کلیم\nمی توان دیدن ز آثار قدیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان کا مقصد یہ ہے کہ اثار قدیمہ سے مصر، فرعون اور موسی (علیہ) کی سرگزشت دیکھی جا سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The history of Egypt, Pharaoh and Moses can be seen from ancient monuments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "79",
+          "Text": [
+            {
+              "_content": "علم و حکمت کشف اسرار است و بس\nحکمت بے جستجو خوار است و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "پوشیدہ چیز کا انکشاف ہی علم و حکمت ہے؛ بغیر جستجو کے علم بے وقعت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Science and wisdom is simply the unveiling of secrets; wisdom without research is utterly worthless.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "name": "فرعون",
+      "Verse": [
+        {
+          "id": "81",
+          "Text": [
+            {
+              "_content": "قبر ما را علم و حکمت بر گشود\nلیکن اندر تربت مہدی چہ بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری قبر کو تو علم و حکمت نے کھولا لیکن مہدی کی قبر کے اندر کیا تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "name-en": "We Plunge Into The Sea Of Venus And Behold The Spirits Of Pharaoh And Kitchener"
+}

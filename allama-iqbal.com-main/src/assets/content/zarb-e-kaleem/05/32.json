@@ -1,0 +1,117 @@
+{
+  "id": "32",
+  "name": "غلاموں کی نماز",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کہا مجاہد ترکی نے مجھ سے بعد نماز \nطویل سجدہ ہیں کیوں اس قدر تمھارے امام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Turkish Knight said to me at prayer's end: ‘Why do your Imams prostrate for long and bend’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "وہ سادہ مرد مجاہد، وہ مومن آزاد \nخبر نہ تھی اسے کیا چیز ہے نماز غلام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "That simple manly knight and Muslim free knew not at all what such slave’s prayer be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہزار کام ہیں مردان حر کو دنیا میں \nانھی کے ذوق عمل سے ہیں امتوں کے نظام",
+              "lang": "Original"
+            },
+            {
+              "_content": "مردان حر: آزاد مرد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Free men have thousands of pursuits in life, nations progress through great zeal and strife.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "بدن غلام کا سوز عمل سے ہے محروم \nکہ ہے مرور غلاموں کے روز و شب پہ حرام",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرور: گذرنے کا عمل۔ \nروز و شب: دن اور رات۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In slave's body beat for deeds is nil, always his days and nights are at stand still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "طویل سجدہ اگر ہیں تو کیا تعجب ہے \nورائے سجدہ غریبوں کو اور کیا ہے کام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ورائے سجدہ: سجدے کے سوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If they prostrate for long no wonder there, besides prostration, the poor have no affair.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خدا نصیب کرے ہند کے اماموں کو \nوہ سجدہ جس میں ہے ملت کی زندگی کا پیام",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "May God to Muslim Priests of India grant homage that news of Life in hearts can plan.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Prayer Of Slaves",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "09",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "من اگرچہ تیرہ خاکم دلکیست برگ و سازم\nبہ نظارۂ جمالی چو ستارہ دیدہ بازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ میں تاریک مٹی سے بنا ہوں ؛ مگر میرا دل میری متاع (خاص) ہے؛ اس کے سبب میں (حق تعالے کے) جمال کے نظارہ کے لیے ستارہ کی مانند بہ چشم وا بیٹھا ہوں (تو ذرا چھیڑ تو دے تشنہ ء مضراب ہے ساز)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though dust, and dark as dust, am I, I have a little heart, whereby with vision open as a star I gaze on beauty from afar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بہوای زخمہ تو ہمہ نالۂ خموشم\nتو باین گمان کہ شاید ز نوا فتادہ سازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس لیے نالہ ء خاموش ہوں کہ آپ کے مضراب کا خواہاں ہوں؛ اور آپ سمجھتے ہیں کہ میں ایسا ساز ہوں جو راگ کے قابل نہیں رہا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Praying Thy fingers may caress, unuttered is my heart’s distress; and Thou supposest that maybe my lyre has lost its minstrelsy.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بہ ضمیرم آنچنان کن کہ ز شعلۂ نوائی\nدل خاکیان فروزم دل نوریان گدازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے اندرون کو اس طرح کر دیں کہ اپنی نوا کے شعلہ سے خاکیوں کے دلوں میں موجود عشق کو گرما دوں اور نوریوں کے دلوں میں (عشق کا) گداز پیدا کر دوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do Thou so quicken my desire that, with a melody of fire, I may the earthy heart make bright, and wholly melt the heart of light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تب و تاب فطرت ما ز نیازمندی ما\nتو خدای بی نیازی نرسی بسوز و سازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری فطرت میں جو تب و تاب ہے؛ اس کا سبب ہماری نیازمندی ہے؛ آپ خدائے بے نیاز ہیں، آپ میرے سوز و ساز کو نہیں پا سکتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The burning fever of my breed is symptom of my so great need; thou, who art God, and lackest naught, know’st not the anguish in me wrought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "بہ کسی عیان نکردم ز کسی نھان نکردم\nغزل آنچنان سرودم کہ برون فتاد رازم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنا راز (محبت) نہ کسی پر عیاں کیا اور نہ کسی سے چھپایا؛ صرف غزل کہی ، مگر اس انداز سے کہ میرا راز میرے سینے سے باہر آ گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I never sought to make this plain or keep it hid from any man; my secret has itself displayed, and so my melody was made.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

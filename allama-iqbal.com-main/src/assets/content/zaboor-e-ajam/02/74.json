@@ -1,0 +1,102 @@
+{
+  "id": "74",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اے لالہ اے چراغ کہستان و باغ و راغ\nدر من نگر کہ میدھم از زندگی سراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے لالہ! اے کوہ و باغ و راغ کے چراغ ؛ میری طرف دیکھ میں تجھے زندگی کا سراغ دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tulip in the mountains blowing, lamp in mead and garden glowing, gaze on me, for I will give guidance on the way to live.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ما رنگ شوخ و بوی پریشیدہ نیستیم\nمائیم آنچہ می رود اندر دل و دماغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم تمہاری طرح شوخ رنگ اور پریشاں بو نہیں؛ ہم وہ ہیں جو دل و دماغ کے اندر اتر جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are not the pigment charming, nor the scattered scent disarming, we are that which moves confined in the heart, and in the mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مستی ز بادہ میرسد و از ایاغ نیست\nہر چند بادہ را نتوان خورد بے ایاغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "مستی شراب میں ہے ، پیالے میں نہیں ؛ ہر چند شراب ، پیالے کے بغیر نہیں پی جا سکتی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drunkenness is wine-engendered, springeth not of goblet tendered, though it needs the goblet, too, to consume the wine, ’tis true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "داغی بہ سینہ سوز کہ اندر شب وجود\nخود را شناختن نتوان جز بہ این چراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنے سینے میں داغ (محبت) روشن رکھ کیونکہ ہستی کی رات میں؛ اس چراغ کے بغیر اپنے آپ کو پہچانا نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Let thy breast be flame-conceiving, for within this night of living self may never come to sight save discovered by this light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اے موج شعلہ سینہ بباد صبا گشای\nشبنم مجو کہ میدہد از سوختن فراغ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے موج شعلہ! اپنا سینہ باد صبا کے لیے کھول دے (تاکہ تیری آگ اور بھڑکے)؛ شبنم کی خواہش نہ کر کیونکہ وہ تجھے سوز سے بیگانہ کر دے گی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wave of flame, O bare thy bosom to the morning-breeze; O blossom, do not seek the dew, to quell Thy heart’s fiery crucible!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

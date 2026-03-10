@@ -1,0 +1,82 @@
+{
+  "id": "05",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تعلیم مغربی ہے بہت جرات آفریں \nپہلا سبق ہے، بیٹھ کے کالج میں مار ڈینگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Western education is very encouraging; its first lesson is to brag sitting in the college.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "بستے ہیں ہند میں جو خریدار ہی فقط \nآغا بھی لے کے آتے ہیں اپنے وطن سے ہینگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آغا: مراد ہے افغان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As only the purchasers inhabit India; Afghans also bring assafoetida from their country.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میرا یہ حال، لوٹ کی ٹو چاٹتا ہوں میں \nان کا یہ حکم، دیکھ! مرے فرش پر نہ رینگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My condition is that I lick the toe of the boot; she says, ‘Beware do not be crawling on my carpet.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کہنے لگے کہ اونٹ ہے بھدا سا جانور \nاچھی ہے گائے، رکھتی ہے کیا نوک دار سینگ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The camel is said to be a somewhat clumsy animal; the cow is good as she has slender horns. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

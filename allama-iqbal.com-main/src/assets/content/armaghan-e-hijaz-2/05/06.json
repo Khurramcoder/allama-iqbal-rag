@@ -1,0 +1,34 @@
+{
+  "id": "06",
+  "name": "قلندر میل تقریری ندارد",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "05",
+  "sectionName": "بہ یاران طریق",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قلندر میل تقریری ندارد\nبجز این نکتہ اکسیری ندارد \nاز ن کشت خرابی حاصلی نیست\nکہ ب از خون شبیری ندارد",
+              "lang": "Original"
+            },
+            {
+              "_content": "قلندر لمبی تقریروں کا میلان نہیں رکھتا ، اسے ایک ہی نکتہ معلوم ہے، جو اکسیر کا کام کرتا ہے۔\nایسی ویران کھیتی سے کچھ حاصل نہیں ہو سکتا ، جس کی آبیاری خون حسین (رضی الّہ) سے نہ کی گئی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This dervesh knows not a style in speech, save this main point no exir he would teach.\nFrom that barren land no harvest you can, till it is watered with blood of Hussain. \n(I have used Dervesh in place of Qalandar which Iqbal has used in this quatrain. Qalandar is Muslim sect of Faqirs (Dervish) who shave off beard and abandon wordly possessions, friends and relatives and travel from place to place worship one God.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

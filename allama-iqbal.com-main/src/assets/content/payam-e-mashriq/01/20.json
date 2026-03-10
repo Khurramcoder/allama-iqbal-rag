@@ -1,0 +1,33 @@
+{
+  "id": "20",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ترا اے تازہ پرواز آفریدند\nسراپا لذت بال آزمائی\nہوس ما را گران پرواز دارد\nتو از ذوق پریدن پر گشائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O new-fledged spirit proudly hovering! God made thee all delight upon the wing; \n’Tis fleshly passion checks our sluggard flight, while thou ecstatic unto Heaven dost spring.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "30",
+  "name": "سیاسی پیشوا",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "امید کیا ہے سیاست کے پیشواوں سے \nیہ خاک باز ہیں، رکھتے ہیں خاک سے پیوند",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک باز: مٹی سے کھیلنے والے ، پست خیالات والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You can not much expect from those who politics guide; their wont to play with dust to lowly dust is tied.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہمیشہ مور و مگس پر نگاہ ہے ان کی \nجہاں میں صفت عنکبوت ان کی کمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "عنکبوت: مکڑی۔\nمگس: مکھی ۔\nمور: چیونٹی ۔\nکمند: رسی کا پھندا جو شکار پکڑنے کے لیے استعمال کیا جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their gaze is ever fixed on humble ants and flies; their noose as frail as web can't cast it on the skies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خوشا وہ قافلہ، جس کے امیر کی ہے متاع \nتخیل ملکوتی و جذبہ ہائے بلند",
+              "lang": "Original"
+            },
+            {
+              "_content": "متاع: دولت۔\nخوشا: خوش نصیب۔ \nتخيل ملکوتي : فرشتوں کی سی سوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How lucky the Caravan, whose Chief possesses the stock of lofty angelic thoughts, and passions firm as rock.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Political Leaders",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

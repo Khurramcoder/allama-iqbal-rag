@@ -1,0 +1,130 @@
+{
+  "id": "13",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ حوریان فرنگی، دل و نظر کا حجاب \nبہشت مغربیاں، جلوہ ہائے پا بہ رکاب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "These Western nymphs, a challenge to the eye and the heart; are bold of glance in a paradise of instant bliss.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل و نظر کا سفینہ سنبھال کر لے جا \nمہ و ستارہ ہیں بحر وجود میں گرداب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thy heart is a wavering ship tossed by beauty’s assault; these moons and stars that glisten, are whirlpools in thy sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "جہان صوت و صدا میں سما نہیں سکتی \nلطیفہ ازلی ہے فغان چنگ و رباب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The warblings of the harp and lyre have wondrous powers; powers that cannot be captured in the world of sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "سکھا دیے ہیں اسے شیوہ ہائے خانقہی \nفقیہ شہر کو صوفی نے کر دیا ہے خراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By teaching him the monastic wont and way; the Sufi has led astray the jurist of the town.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ سجدہ، روح زمیں جس سے کانپ جاتی تھی \nاسی کو آج ترستے ہیں منبر و محراب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The prostration that once shook the earth’s soul; now leaves not a trace on the mosque’s decadent walls.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "سنی نہ مصر و فلسطیں میں وہ اذاں میں نے \nدیا تھا جس نے پہاڑوں کو رعشہ سیماب",
+              "lang": "Original"
+            },
+            {
+              "_content": "رعشہ سيماب: پارے کی طرح لرزنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have not heard in the Arab world the thunderous call; the call to prayer that pierced the hearts of hills in the past.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ہوائے قرطبہ! شاید یہ ہے اثر تیرا \nمری نوا میں ہے سوز و سرور عہد شباب",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Qartaba! Perhaps, some magic in thy air has breathed into my song the buoyancy of youth.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Naeem Siddiqui"
+}

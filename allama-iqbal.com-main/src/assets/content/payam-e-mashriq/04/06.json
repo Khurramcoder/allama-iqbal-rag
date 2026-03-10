@@ -1,0 +1,35 @@
+{
+  "id": "06",
+  "name": "نیچہ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "از سستی عناصر انسان دلش تپید\nفکر حکیم پیکر محکم تر آفرید\nافکند در فرنگ صد آشوب تازہ ئی\nدیوانہ ئی بہ کارگہ شیشہ گر رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا دل عناصر انسان کی کمزور ی پر مضطرب ہوا، چنانچہ اس فلسفی کے فکر نے مضبوط تر انسانی پیکر تراشا (انسان برتر کا تصوّر دیا)۔\nاس نے مغرب میں سینکڑوں نئے ہنگامے کھڑے کر دیے ، ( یوں لگتا ہے جیسے ) ایک دیوانہ شیشہ گر کی دوکان میں داخل ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The heart of the philosopher bled at man’s sinews laxity so his thought fashioned a new cast of man.\nHe raised a fresh storm in the West - it was as if a lunatic had crashed into a glassware factory.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Nietzsche",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "157",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جہان رنگ و بو فہمیدنی ہست\nدرین وادی بسی گل چیدنی ہست\nولی چشم از درون خود نبندی\nکہ در جان تو چیزی دیدنی ہست",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It must be known, this world of scent and sheen; they must be plucked, the roses in the dene; \nYet do not close thine eyes upon the self, within thy soul a thing is to be seen.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

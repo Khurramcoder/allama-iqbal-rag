@@ -1,0 +1,114 @@
+{
+  "id": "17",
+  "name": "",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "04",
+  "sectionName": "ظریفانہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرما رہے تھے شیخ طریق عمل پہ وعظ \nکفار ہند کے ہیں تجارت میں سخت کوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Shaikh was giving a sermon on the mode of operation: ‘The infidels of India are very hard working in business.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مشرک ہیں وہ جو رکھتے ہیں مشرک سے لین دین \nلیکن ہماری قوم ہے محروم عقل و ہوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Polytheists are those having trade relations with polytheists; but our nation’s people are lacking in intelligence and sense.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ناپاک چیز ہوتی ہے کافر کے ہاتھ کی \nسن لے، اگر ہے گوش مسلماں کا حق نیوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "حق نيوش: سننے کا حق۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Unclean is the article touched by the infidel; should listen if Muslim’s ears are amenable to truth!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اک بادہ کش بھی وعظ کی محفل میں تھا شریک \nجس کے لیے نصیحت واعظ تھی بار گوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A drunkard was also present in the sermon’s assembly; to whom such talks as those of the preacher were irksome.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "کہنے لگا ستم ہے کہ ایسے قیود کی \nپابند ہو تجارت سامان خورد و نوش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘It is atrocious that in such restrictions are imprisoned the dealings in articles of eating and drink’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "میں نے کہا کہ آپ کو مشکل نہیں کوئی \nہندوستاں میں ہیں کلمہ گو بھی مے فروش",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I said, ‘There is no difficulty for you as in India Muslims also are liquor sellers!’ (This is a sarcasm on the fact that a fairly large number of the Muslims in India were dealing in wine and other intoxicants.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

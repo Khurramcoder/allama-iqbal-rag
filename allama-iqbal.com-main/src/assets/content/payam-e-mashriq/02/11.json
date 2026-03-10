@@ -1,0 +1,111 @@
+{
+  "id": "11",
+  "name": "محاورۂ علم و عشق",
+  "name-en": "Discourse of Knowledge and Love",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "علم",
+      "name-en": "Knowledge",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "نگاہم راز دار ہفت و چار است\nگرفتار کمندم روزگار است\nجہان بینم بہ این سو باز کردند\nمرا با آنسوی گردون چہ کار است\nچکد صد نغمہ از سازی کہ دارم\nبہ بازار افکنم رازی کہ دارم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری نگاہ ہفت آسمان اور چار سو کی محیط ہے، زمانہ میری کمند میں اسیر ہے۔ \nمیرے سپرد اس دنیا کو دیکھنا کیا گیا ہے؛ آسمان سے اس طرف مجھے کیا واسطہ۔\nمیرے ساز میں سینکڑوں نغمے پھوٹے ہیں؛ جو راز مجھے معلوم ہوتا ہے وہ میں عام کر دیتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eyes have witnessed the secrets of the seven and the four, and with my lasso I have captured the world.\nI am an eye, and when I was opened I turned this way: Why should I bother about the other side of the heavens?\nA hundred songs flow from my instrument; I bring to market every secret I know.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "عشق",
+      "name-en": "Love",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ز افسون تو دریا شعلہ زار است\nہوا آتش گذار و زھر دار است\nچو با من یار بودے نور بودی\nبریدے از من و نور تو نار است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرے افسوں سے دریا کے پانی میں شعلہ پیدا ہو جاتا ہے؛ ہوا آتشیں اور مسموم ہو جاتی ہے۔\nتو میرے ساتھ دوستی رکھتا تھا تو نور تھا ، مجھ سے الگ ہوا تو تیرا نور نار بن گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Because of the spell you have cast the sea is in flames, the air spews fire and is filled with poison.\nWhen you and I were friends, you were a light; but you broke with me, and your light became a fire.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "بخلوت خانۂ لاہوت زادی\nولیکن در نخ شیطان فتادی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیری پیدائش عالم لاہوت میں ہوئی ؛ لیکن تو شیطان کے پھندے میں گرفتار ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You were born in the innermost sanctum of the Divinity, but then fell into Satan’s trap.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "بیا این خاکدان را گلستان ساز\nجہان پیر را دیگر جوان ساز\nبیا یک ذرہ از درد دلم گیر\nتہ گردون بہشت جاودان ساز",
+              "lang": "Original"
+            },
+            {
+              "_content": "آ اس دنیا کو گلستان بنا؛ اس بوڑھے جہان کو پھر سے جوان بنا دے۔\nآ میرے درد دل سے ایک ذرّہ لے؛ اور آسمان کے نیچے خلد بریں بنا دے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come; turn this earthly world into a garden, and make the old world young again.\nCome! Take just a little of my heart’s solicitude, and build, under the heavens, an everlasting paradise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ز روز آفرینش ھمدم استیم\nھمان یک نغمہ را زیر و بم استیم",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم روز اوّل سے ساتھی ہیں؛ اور ایک ہی نغمے کے زیر و بم ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have been on intimate terms since the day of creation, and are the high and low notes of the same song.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Mustansir Mir"
+}

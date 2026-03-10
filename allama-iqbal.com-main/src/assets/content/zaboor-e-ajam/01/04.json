@@ -1,0 +1,34 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق شور انگیز را ہر جادہ در کوی تو برد\nبر تلاش خود چہ مینا زد کہ رہ سوی تو برد",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق شور انگیز نے جو بھی راستہ اختیار کیا، اس نے اسے آپ کی گلی تک پہنچا دیا؛ عشق کو اپنی تلاش پر بہت ناز ہے کہ وہ بالآخر آپ تک پہنچ ہی گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Tumultuous Love where’er it rove unto Thy street is brought; what boasteth he who findeth Thee that for himself he sought?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

@@ -1,0 +1,119 @@
+{
+  "id": "50",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بینی جہان را خود را نبینی\nتا چند نادان غافل نشینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کائنات کو دیکھتا ہے اور اپنے آپ کو نہیں دیکھتا ، اے نادان! تو کب تک غفلت میں پڑا رہے گا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The world, but not selfhood, thou canst see; how long in thy ignorance wilt thou sit?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نور قدیمی شب را بر افروز\nدست کلیمی در آستینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نور ازل ہے اس جہان کی شب کو روشن کر، تو دست کلیم (علیہ) ہے آستین سے باہر آ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With thy ancient flame let the night be lit? The hand of Moses is sleeved in thee.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "بیرون قدم نہ از دور آفاق\nتو پیش ازینی تو بیش ازینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "آفاق کے چکر سے باہر قدم رکھ، تو اس سے قدیم تر ہے، تو (قیمت میں ) اس سے بڑھ کر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set forth thy foot from the circling skies; greater and older than these thou art.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "از مرگ ترسی اے زندہ جاوید؟\nمرگ است صیدی تو در کمینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندہ جاوید ہو کر موت سے ڈرتا ہے، موت تیرا شکار ہے اور تو اس کی گھات میں ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Fearest thou death in thy deathless heart? Death’s but a prey that before thee. lies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "جانی کہ بخشد دیگر نگیرند\nآدم بمیرد از بی یقینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جان عطا کر کے پھر اسے واپس نہیں لیتے، آدم اگر مرتا ہے، تو بے یقینی سے مرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life, once given thee, none can take; ‘Tis for lack of faith men faint and die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "صورت گری را از من بیاموز\nشاید کہ خود را باز آفرینی",
+              "lang": "Original"
+            },
+            {
+              "_content": "صورت گری مجھ سے سیکھ، شاید تو از سر نو اپنی تخلیق کر سکے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Learn to be sculptor, even as I, and haply anew thy selfhood make!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Arthur J Arberry"
+}

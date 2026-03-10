@@ -1,0 +1,34 @@
+{
+  "id": "93",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سخن درد و غم آرد، درد و غم بہ\nمرا این نالہ ہای دمبدم بہ\nسکندر را ز عیش من خبر نیست\nنوای دلکشی از ملک جم بہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "شاعری درد غم لاتی ہے، مگر یہ درد و غم خوب ہے ؛ مجھے یہ ہر وقت نالہ و فریاد اچھا لگتا ہے۔\nسکندر میرے عیش کو کیا جانے؛ نوائے دلکش جمشید کی پادشاہت سے بہتر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Speech bringeth pain and grief – so best it were; this long lament to me is lovelier. \nThe joy I have not Alexander knew – better than Jamshid’s realm a slow, sweet air.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

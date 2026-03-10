@@ -1,0 +1,119 @@
+{
+  "id": "23",
+  "name": "خاقانی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "وہ صاحب تحفہ العراقین\nارباب نظر کا قرہ العین",
+              "lang": "Original"
+            },
+            {
+              "_content": "تحفہ العراقين: خاقانی کی مشہور مثنوی جس میں اس نے سفر حج کے حالات لکھے ہیں۔ \nقرہ العين: آنکھوں کی ٹھنڈک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Khaqani, the author of Tuhfa-tul-araqain, is dear to those who truths can scan.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے پردہ شگاف اس کا ادراک \nپردے ہیں تمام چاک در چاک",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His wisdom is so sharp and keen. From truths he can remove the screen.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خاموش ہے عالم معانی \nکہتا نہیں حرف 'لن ترانی",
+              "lang": "Original"
+            },
+            {
+              "_content": "لن تراني: میں دیکھ نہیں سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With world or meanings he is free they dare not say ‘you can not see’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پوچھ اس سے یہ خاک داں ہے کیا چیز \nہنگامہ این و آں ہے کیا چیز",
+              "lang": "Original"
+            },
+            {
+              "_content": "خاک داں: مراد ہے یہ دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ask him what does this world imply, where does the cause or tumults lie?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "وہ محرم عالم مکافات \nاک بات میں کہہ گیا ہے سو بات",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم مکافات: وہ دنیا جس میں اچھے اور برے عمل کا بدلہ مل جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He knows the world of requital well, his maxims with much wisdom swell:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "خود بوے چنیں جہاں تواں برد \nکابلیس بماند و بوالبشر مرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایسے جہان کی بو کا تو اسی سے اندازہ ہو سکتا ہے ، یعنی اس کی حقیقت تو یہیں سے معلوم ہو جاتی ہے کہ ابلیس باقی ہے اور انسان کا باپ (آدم علیہ) فوت ہو گیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Opinion 'bout world you can derive, Adam dead, Satan still alive’.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Khaqani",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

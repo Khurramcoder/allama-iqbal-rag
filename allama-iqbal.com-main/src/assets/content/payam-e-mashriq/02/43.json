@@ -1,0 +1,35 @@
+{
+  "id": "43",
+  "name": "غلامی",
+  "name-en": "Slavery",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آدم از بی بصری بندگی آدم کرد\nگوہری داشت ولی نذر قباد و جم کرد\nیعنی از خوی غلامی ز سگان خوار تر است\nمن ندیدم کہ سگی پیش سگی سر خم کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ایک انسان بے سمجھی کے سبب دوسرے انسان کی بندگی کرتا ہے؛ اس کے اندر گوہر (جان) موجود ہے مگر اسے کیقباد و جمشید کی نظر کر دیتا ہے۔\nگویا وہ خوئے غلامی میں کتوں سے بد تر ہے، کیونکہ میں نے آج تک کسی کتے کو دوسرے کتے کے سامنے سر خم کرتے ہوئے نہیں دیکھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Man out of his shortsightedness consents to be a slave. He had something in him, but gave it all away to kings.\nBecause of this servility he is worse than a dog. No dog will ever call adoringly another dog his lord.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

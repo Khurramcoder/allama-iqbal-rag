@@ -1,0 +1,34 @@
+{
+  "id": "107",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میان آب و گل خلوت گزیدم\nز افلاطون و فارابی بریدم\nنکردم از کسی دریوزۂ چشم \nجہان را جز بہ چشم خود ندیدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے آب و گل کے جہان کے اندر خلوت اختیار کی ہے، افلاطون و فارابی سے علیحدہ رہا ہوں۔ \nمیں نے کسی سے دیکھنے کی بھیک نہیں مانگی، دنیا کو اپنی ہی آنکھ سے دیکھا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Eschewing Plato and Farabi! Observed the world of sense with my own eye. \nI never begged or borrowed other. sight, but always used my own sight, come what might.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

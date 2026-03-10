@@ -1,0 +1,353 @@
+{
+  "id": "25",
+  "name": "انسان اور بزم قدرت",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صبح خورشید درخشاں کو جو دیکھا میں نے\nبزم معمورہ ہستی سے یہ پوچھا میں نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خورشید درخشاں: چمکتا ہوا سورج۔ \nمعمورہ ہستی: زندگی کی بستی یعنی دنیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I looked at the bright sun in the morning I asked the assemblage of Existence' habitation:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پر تو مہر کے دم سے ہے اجالا تیرا\nسیم سیال ہے پانی ترے دریائوں کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "پر تو مہر: سورج کی روشنی۔ \nسیم سیال: بہتی ہوئی چاندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You owe your light to the reflection of the sun; the water of your rivers looks like flowing silver.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "مہر نے نور کا زیور تجھے پہنایا ہے\nتیری محفل کو اسی شمع نے چمکایا ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun has adorned your face with light's jewelry; this very candle has illuminated your assemblage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گل و گلزار ترے خلد کی تصویریں ہیں\nیہ سبھی سورہء 'والشمس' کی تفسیریں ہیں",
+              "lang": "Original"
+            },
+            {
+              "_content": "خلد: جنت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your roses and rose gardens are pictures of Paradise; all these are the commentaries of Surah ‘Wa al-Shams’*\n* This is an early Makkan Surah. It shows the beauties of Nature and brings home to Man the need for realizing his spiritual responsibilities. It ends with a stern warning to those who do not heed the teachings of the Holy Qur’an about the Hereafter.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سرخ پوشاک ہے پھولوں کی، درختوں کی ہری\nتیری محفل میں کوئی سبز، کوئی لال پری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The dress of your flowers is red, of your trees is green; they exist in your garden like green and red fairies.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہے ترے خیمہء گردوں کی طلائی جھالر\nبدلیاں لال سی آتی ہیں افق پر جو نظر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The frill of your tent becomes golden as the red clouds appear over the horizon.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "کیا بھلی لگتی ہے آنکھوں کو شفق کی لالی\nمے گلرنگ خم شام میں تو نے ڈالی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خم شام: شام کا پیالہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How pleasing to the eye is the red colour of the evening's twilight as if you have poured rose-coloured wine in the evening's jar.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "رتبہ تیرا ہے بڑا، شان بڑی ہے تیری\nپردہ نور میں مستور ہے ہر شے تیری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your rank is elegant, your grandeur is high; everything yours is concealed in the light's veil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "صبح اک گیت سراپا ہے تری سطوت کا\nزیر خورشید نشاں تک بھی نہیں ظلمت کا",
+              "lang": "Original"
+            },
+            {
+              "_content": "سطوت: رعب، دبدبہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The morning head to foot is a song of your majesty; not even a trace of darkness is there under the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "میں بھی آباد ہوں اس نور کی بستی میں مگر\nجل گیا پھر مری تقدیر کا اختر کیونکر؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In this habitation of light is my abode also; why then is the star of my destiny burnt down?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "نور سے دور ہوں ظلمت میں گرفتار ہوں میں\nکیوں سیہ روز، سیہ بخت، سیہ کار ہوں میں؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am far from light and imprisoned in darkness. Why am I so unfortunate, unlucky and sinning’?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "میں یہ کہتا تھا کہ آواز کہیں سے آئی\nبام گردوں سے وہ یا صحن زمیں سے آئی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "As I was saying this a voice from somewhere came; from the sky's roof or the earth's expanse it came.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "ہے ترے نور سے وابستہ مری بود و نبود\nباغباں ہے تری ہستی پے گلزار وجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "بود و نبود: ہونا نہ ہونا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘My existence is dependent on your light. Your personality is the gardener of Universe' garden.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "انجمن حسن کی ہے تو، تری تصویر ہوں میں\nعشق کا تو ہے صحیفہ، تری تفسیر ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "صحیفہ: آسمانی کتاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You are the assemblage of beauty, your picture I am. You are the Scripture of Love, your commentary I am.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "میرے بگڑے ہوئے کاموں کو بنایا تو نے\nبار جو مجھ سے نہ اٹھا وہ اٹھایا تو نے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have put my disordered affairs in order. You have shouldered the burden which I could not bear.*\n* This is an allusion to the Holy Qur'an 59:21, according to which, in his capacity of being the custodian of the Holy Qur'an, Man has exhibited higher strength and fortitude than the mountains which are proverbial for their height, strength and firmness.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "نور خورشید کی محتاج ہے ہستی میری\nاور بے منت خورشید چمک ہے تری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My existence depends upon the light of the sun and your splendor is not indebted to the sun.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "ہو نہ خورشید تو ویراں ہو گلستاں میرا\nمنزل عیش کی جا نام ہو زنداں میرا",
+              "lang": "Original"
+            },
+            {
+              "_content": "زنداں: قید خانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Without the sun my rose garden would be desolate; instead of happiness prison would be my name.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "آہ! اے راز عیاں کے نہ سمجھے والے\nحلقہ، دام تمنا میں الجھنے والے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دام تمنا: خواہشات کا جال۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! The one who does not understand the open secret! The one prone to be entangled in the desires' net.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "ہائے غفلت کہ تری آنکھ ہے پابند مجاز\nناز زیبا تھا تجھے، تو ہے مگر گرم نیاز",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas insensible! Confined to the material is your eye; Naz behooved you, but prone to Niyaz is your eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "تو اگر اپنی حقیقت سے خبردار رہے\nنہ سیہ روز رہے پھر نہ سیہ کار رہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If aware of your reality you would be; neither unlucky nor sinning you would be. ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Man And Nature's Assemblage",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

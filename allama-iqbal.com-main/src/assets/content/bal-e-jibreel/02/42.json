@@ -1,0 +1,131 @@
+{
+  "id": "42",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خودی ہو علم سے محکم تو غیرت جبریل \nاگر ہو عشق سے محکم تو صور اسرافیل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If self with knowledge strong becomes, Gabriel it can envious make: If fortified with passion great, like trump of Israfil can shake.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عذاب دانش حاضر سے باخبر ہوں میں \nکہ میں اس آگ میں ڈالا گیا ہوں مثل خلیل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The scourge of present science and thought, to me, no doubt, is fully known, like Abraham, the Friend of God, in its flame I have been thrown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "فریب خوردہ منزل ہے کارواں ورنہ \nزیادہ راحت منزل سے ہے نشاط رحیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "رحيل:کوچ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The caravan in quest of goal by charm of lodge is led astray, though never can the ease of lodge be same as joy to be on way.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نظر نہیں تو مرے حلقہ سخن میں نہ بیٹھ \nکہ نکتہ ہائے خودی ہیں مثال تیغ اصیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "تيغ اصيل:جوہر دار تلوار؛ یعنی تیز دھار تلوار،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If seeing eye you do not own, among my listeners do not pause, for subtle points about the self, like sword, deep yawning wounds can cause.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مجھے وہ درس فرنگ آج یاد آتے ہیں \nکہاں حضور کی لذت، کہاں حجاب دلیل!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Still to mind I can recall, in Europe what I learnt by heart: But can the veil of Reason match with joy that Presence can import.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اندھیری شب ہے، جدا اپنے قافلے سے ہے تو \nترے لیے ہے مرا شعلہ نوا، قندیل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "From caravan you are adrift, and night has donned a mantle black: For you my song that burns as flame, like a torch, can light the track.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "غریب و سادہ و رنگیں ہے داستان حرم \nنہایت اس کی حسین، ابتدا ہے اسمعیل",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tale of the Holy Shrine, if told, is simple, strange and red in hue: With Ismail the tale begins, ends with Husain, the martyr true.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

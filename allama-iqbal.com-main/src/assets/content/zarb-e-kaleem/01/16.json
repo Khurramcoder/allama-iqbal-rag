@@ -1,0 +1,68 @@
+{
+  "id": "16",
+  "name": "ہندی مسلمان",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غدار وطن اس کو بتاتے ہیں برہمن \nانگریز سمجھتا ہے مسلماں کو گداگر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Brahmans dub him as foe to native land, the English call him beggar on other hand.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پنجاب کے ارباب نبوت کی شریعت \nکہتی ہے کہ یہ مومن پارینہ ہے کافر",
+              "lang": "Original"
+            },
+            {
+              "_content": "پنجاب کے ارباب نبوت: مرزا غلام محمد کی طرف اشارہ۔\nپارينہ: پرانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Code of Prophet born in Punjab says: ’This ancient Muslim owns many pagan ways’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آوازہ حق اٹھتا ہے کب اور کدھر سے \n'مسکیں ولکم ماندہ دریں کشمکش اندر'",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرا چھوٹا سا مسکین دل اسی کشمکش میں رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When and whence the call to truth shall rise, my humble heart is feeling much surprise?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Indian Muslim",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

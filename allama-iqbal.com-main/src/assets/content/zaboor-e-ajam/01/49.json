@@ -1,0 +1,102 @@
+{
+  "id": "49",
+  "name": "",
+  "bookId": "zaboor-e-ajam",
+  "bookName": "زبورِعجم",
+  "sectionId": "01",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "انجم بگریبان ریخت این دیدۂ تر ما را \nبیرون ز سپہر انداخت این ذوق نظر ما را",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہماری دیدہء تر نے ہمارے گریباں پر ستارے گرائے ہیں؛ ہمارے آنسوؤں نے ہمارے اندر جو ذوق نظر پیدا کیا ہے وہ ہمیں آسمان سے زیادہ بلندی پر لے گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Stars on my bosom shine wept from these eyes of mine: Lo, beyond heaven’s height; cast me the joy of sight;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہر چند زمین سائیم برتر ز ثریانیم\nدانی کہ نمی زیبد عمری چو شرر ما را",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ ہم اہل زمیں ہیں، لیکن مرتبہ ثرّیا سے بلند تر ہے؛ آپ جانتے ہیں کہ شرر کی طرح کی چند روزہ زندگی ہماری شان کے شایاں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Soared, though in dust I lay, high o’er the starry way; life of the ember’s glow likes me not, Thou dost know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "شام و سحر عالم از گردش ما خیزد\nدانی کہ نمی سازد این شام و سحر ما را",
+              "lang": "Original"
+            },
+            {
+              "_content": "شام و سحر تو ہماری گردش سے پیدا ہوتے ہیں ؛ اس لیے یہ شام و سحر ہمیں کیسے موافق آ سکتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All the world’s eve and morn are of my whirling born; Thou know’st this morn and eve my soul can scarce receive.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "این شیشۂ گردون را از بادہ تہی کردیم\nکم کاسہ مشو ساقی مینای دگر ما را",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ شیشہ ء گردوں تو ہم خالی کر چکے ہیں؛ تکلف سے کام نہ لیں؛ ہمیں ایک اور مینا عطا فرما دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wine brimmed in heaven’s cup; I took and drank it up; Saki! Not sparing be another bowl for me!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "شایان جنون ما پہنای دو گیتی نیست\nاین راھگذر ما را آن راھگذر ما را",
+              "lang": "Original"
+            },
+            {
+              "_content": "دونوں جہان کی وسعت بھی ہمارے جنون کی شان کے شایاں نہیں؛ یہ بھی ہمارا راستہ ہے وہ بھی ہمارا راستہ (منزل آگے ہے)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Not both the worlds suffice my folly’s avarice; earth is a passing day, heaven a passage-way.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: A.J. Arberry"
+}

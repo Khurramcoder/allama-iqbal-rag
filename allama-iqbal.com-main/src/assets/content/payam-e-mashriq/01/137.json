@@ -1,0 +1,34 @@
+{
+  "id": "137",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سکندر رفت و شمشیر و علم رفت\nخراج شہر و گنج کان و یم رفت\nامم را از شہان پایندہ تر دان\nنمی بینی کہ ایران ماند و جم رفت",
+              "lang": "Original"
+            },
+            {
+              "_content": "سکندر گیا اور اس کی شمشیر اور علم اس کے ساتھ ہی گئے، شہروں سے وصول کیا ہوا خراج ، کان سے نکالا ہوا خزانہ اور سمندر سے حاصل کئے ہوئے موتی سب گئے۔ \nقوموں کو پادشاہوں سے زیادہ پائیندہ سمجھ، کیا تو دیکھتا نہیں کہ ایران باقی ہے جب کہ جمشید ختم ہو چکا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Iskander and his flag and sword are gone; gone are his tribute and his mines and seas. \nLonger than kings’ are peoples’ histories: Jamshid is gone, but Persia still lives on.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M Hadi Hussain"
+}

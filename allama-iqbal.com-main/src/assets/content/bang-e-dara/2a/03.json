@@ -1,0 +1,137 @@
+{
+  "id": "03",
+  "name": "پیام",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عشق نے کر دیا تجھے ذوقِ تپش سے آشنا\nبزم کو مثل شمع بزم حاصل سوز و ساز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذوقِ تپش: تڑپ کی لذت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love made you acquainted with the taste of affliction; like assembly’s candle give affliction’s gift to the assembly.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "شانِ کرم پہ ہے مدار عشقِ گرہ کشاے کا\nدیر و حرم کی قید کیا! جس کو وہ بے نیاز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مدار: انحصار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The illuminating Love depends on God’s Benevolence; to whomever He may give without restriction of temple or Haram.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صورتِ شمع نور کی ملتی نہیں قبا اُسے\nجس کو خدا نہ دہر میں گریۂ جاں گداز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دہر: دنیا۔ \nگریۂ جاں گداز: ایسا رونا جس سے جان میں گداز پیدا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the candle the mantle of light he does not get; whom God does not give effective wail in the world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تارے میں وہ، قمر میں وہ، جلوہ گہِ سحر میں وہ\nچشم نظارہ میں نہ تو سرمۂ امتیاز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ُرمۂ امتیاز: مراد ہے تعصب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is in the star, the moon, the dawn’s theatre of display; you need not apply discrimination’s collyrium to the Sightful eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "عشق بلند بال ہے رسم و رہِ نیاز سے\nحسن ہے مست ناز اگر تو بھی جوابِ ناز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "رسم و رہِ نیاز: عاجزی کا طریقہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love is exalted above the customs and usages of prayers; if Beauty has ecstasy of elegance you too give elegant reply.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "پیر مغاں! فرنگ کی مے کا نشاط ہے اثر\nاس میں وہ کیف غم نہیں، مجھ کو تو خانہ ساز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نشاط: خوشی۔\nپیرِ مغاں: شراب خانے کا مالک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Tavern-keeper! Pleasure is the only effect of West’s wine; it does not have pleasure of affliction, give me the home-made wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تجھ کو خبر نہیں ہے کیا! بزم کہن بدل گئی\nاب نہ خدا کے واسطے ان کو مے مجاز دے",
+              "lang": "Original"
+            },
+            {
+              "_content": "بزم کُہن : پرانی تہذیب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do you not know? The old congregation has changed; for God’s sake do not give them materialism’s wine.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Message",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

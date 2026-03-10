@@ -1,0 +1,33 @@
+{
+  "id": "146",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خرد کرپاس را زرینہ سازد\nکمالش سنگ را آئینہ سازد\nنوای شاعر جادو نگاری\nز نیش زندگی نوشینہ سازد",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Cotton to cloth of gold the mind can bring. Stones turn to mirrors, by its polishing:\nThe poet, with his magical melody, to honeyed potion doth convert Life’s sting.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

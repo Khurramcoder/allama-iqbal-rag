@@ -1,0 +1,133 @@
+{
+  "id": "21",
+  "name": "مسولینی",
+  "name-en": "Mussolini",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "05",
+  "sectionName": "سیاست مشرق و مغرب",
+  "Para": [
+    {
+      "name": "اپنے مشرقي اور مغربي حريفوں سے",
+      "name-en": "to his Eastern and western adversaries",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "کیا زمانے سے نرالا ہے مسولینی کا جرم! \nبے محل بگڑا ہے معصومان یورپ کا مزاج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Does crime of Mussolini seem so odd to age, without cause all the chaste are put to rage?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "میں پھٹکتا ہوں تو چھلنی کو برا لگتا ہے کیوں \nہیں سبھی تہذیب کے اوزار ! تو چھلنی، میں چھاج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Why does pot feel offence, if kettle has a blot, our culture same – I kettle and you pot?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "میرے سودائے ملوکیت کو ٹھکراتے ہو تم \nتم نے کیا توڑے نہیں کمزور قوموں کے زجاج؟",
+              "lang": "Original"
+            },
+            {
+              "_content": "زجاج: شیشے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My craze for Empire makes you sneer and frown, but walls of weak states, you too have brought down.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ عجائب شعبدے کس کی ملوکیت کے ہیں \nراجدھانی ہے، مگر باقی نہ راجا ہے نہ راج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whose monarchy such wondrous tricks does own. The royal seat exists, no king or crown?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "آل سیزر چوب نے کی آبیاری میں رہے \nاور تم دنیا کے بنجر بھی نہ چھوڑو بے خراج!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sons of Caesar watered reedy sands; you did not leave untaxed barren lands.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "تم نے لوٹے بے نوا صحرا نشینوں کے خیام \nتم نے لوٹی کشت دہقاں، تم نے لوٹے تخت و تاج",
+              "lang": "Original"
+            },
+            {
+              "_content": "کشت دہقاں: کسان کی فصل۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You pillaged tents of nomads, who little own ravaged peasant's crops, looted throne and crown.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "پردہ تہذیب میں غارت گری، آدم کشی \nکل روا رکھی تھی تم نے، میں روا رکھتا ہوں آج",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You plundered, slaughtered in culture's way, you did it previous day' I do today. (Written in August in Shish Mehal, Bhopal)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "39",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تازہ پھر دانش حاضر نے کیا سحر قدیم \nگزر اس عہد میں ممکن نہیں بے چوب کلیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The magic old to life is brought by means of present science and thought: The path of life cannot be trod without the aid of Moses’ Rod.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عقل عیار ہے، سو بھیس بنا لیتی ہے \nعشق بے چارہ نہ ملا ہے نہ زاہد نہ حکیم!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The mind is skilful in artful tasks, and can assume a hundred masks: Poor helpless Love that knows no guise ain’t mullah, hermit or too wise.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "عیش منزل ہے غریبان محبت پہ حرام \nسب مسافر ہیں، بظاہر نظر آتے ہیں مقیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Forbid the rest of lodge and bed to those who road of Love do tread: Like travelers they always roam, though they seem to stay at home.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہے گراں سیر غم راحلہ و زاد سے تو \nکوہ و دریا سے گزر سکتے ہیں مانند نسیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Concern for journey’s food and steed, like burden great, retards your speed: Of this dead weight, if one be free, like breeze can cross the mount and sea.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مرد درویش کا سرمایہ ہے آزادی و مرگ \nہے کسی اور کی خاطر یہ نصاب زر و سیم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "No wealth is owned by dervish free; at call of death he yields with glee: He has not either gold or land; of him no one can tithe demand.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

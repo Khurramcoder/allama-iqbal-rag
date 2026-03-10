@@ -1,0 +1,136 @@
+{
+  "id": "36",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "خواجہ ئی نیست کہ چون بندہ پرستارش نیست\nبندہ ئی نیست کہ چون خواجہ خریدارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "آقا تبھی ہے جب کوئی اس کی چاکری کرنے والا غلام ہو، غلام اسی صورت میں غلام ہے ، جب کوئی آقا اس کا خریدار ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no master who does not adore Him like a slave. There is no slave who, if he were a master, would not bid for Him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "گرچہ از طور و کلیم است بیان واعظ\nتاب آن جلوہ بہ آئینہ گفتارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ واعظ کے بیان میں طور اور کلیم (علیہ ) کا ذکر ہے، مگر اس کی گفتار کے شیشے میں اس جلوہ (ء طور) کی چمک نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the preacher talks a lot concerning Moses and Sinai, the mirror of his talk does not reflect the light of that theophany.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "پیر ما مصلحتاً رو بہ مجاز آورد است\nورنہ با زہرہ وشان ہیچ سروکارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے پیر نے مصلحت سے مجاز کی طرف رخ کیا ہوا ہے، ورنہ (در اصل ) اسے حسینوں سے کوئی سروکار نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our guide thinks it expedient to speak in metaphors; but otherwise he has nothing to do with fair-faced ones.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دل بہ او بند و ازین خرقہ فروشان بگریز\nنشوی صید غزالی کہ ز تاتارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ان خرقہ فروشوں سے دور رہ اور ایسے غزال کو مقصود بنا جو تاتار سے ہو، اس غزال کے شکار کا (خواہشمند) نہ ہو جو تاتار سے نہیں ( جو مشک نافہ نہیں رکھتا)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Attach your heart to Him and shun these wearers of patched clothes. Do not become the quarry of gazelles which do not come from His own Tartary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "نغمۂ عافیت از بربط من می طلبی\nاز کجا بر کشم آن نغمہ کہ در تارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے بربط (ساز ) سے عافیت کا نغمہ طلب کرتا ہے، میں کہاں سے وہ نغمہ پیدا کروں جو اس کے تار میں نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You want a melody of peace played on my lute. How am I to extract from it a tone that is not in its strings?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "دل ما قشقہ زد و برہمنی کرد ولی\nآنچنان کرد کہ شایستہ زنارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے دل نے قشقہ لگایا اور برہمنی اختیار کی، لیکن یہ کام اس طرح کیا جو زنّار کے شان شایان نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart applied the qashqa to the brow, and took to Brahmins’ ways; but did so in a manner which did not befit its sacred thread.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عشق در صحبت میخانہ بہ گفتار آید\nزانکہ در دیر و حرم محرم اسرارش نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "عشق مے خانے کی مجلس میں گفتار میں آیا، کیونکہ اسے دیر و حرم میں کوئی محرم راز نہ ملا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love speaks out in the company that it finds in the tavern. In idol-house and in Harem. It finds no confidant.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

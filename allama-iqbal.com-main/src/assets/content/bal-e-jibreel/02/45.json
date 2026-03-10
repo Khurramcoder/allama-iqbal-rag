@@ -1,0 +1,134 @@
+{
+  "id": "45",
+  "name": "",
+  "bookId": "bal-e-jibreel",
+  "bookName": "‫بالِ جبریل",
+  "sectionId": "02",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "رہا نہ حلقہ صوفی میں سوز مشتاقی \nفسانہ ہائے کرامات رہ گئے باقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Lover’s glowing fire and flame the mystic order has no claim: They don’t discourse or talk of aught save wonders by their elders wrought.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خراب کوشک سلطان و خانقاہ فقیر \nفغاں کہ تخت و مصلی کمال زراقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "زراقي: مکر و فن۔ \nکوشک: محل، دربار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alas! The throne as well as the mat, alike are full of guile and craft: Both royal hall and Holy Shrine have lost their essence fine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کرے گی داور محشر کو شرمسار اک روز \nکتاب صوفی و ملا کی سادہ اوراقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "داور محشر: روز حساب، قیامت کے دن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The scrolls of Sufis and mullah may put them to shame on Judgment Day before the Throne of Judge Supreme for being empty in extreme.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "نہ چینی و عربی وہ، نہ رومی و شامی \nسما سکا نہ دو عالم میں مرد آفاقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد آفاقي : دنیا کی نسبت سے آزاد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How can this world or next contain the man not bound to one domain? The East or West is not his home, not tied to Syrian Land or Rome.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مے شبانہ کی مستی تو ہو چکی، لیکن \nکھٹک رہا ہے دلوں میں کرشمہ ساقی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Intoxication due to nightly wine, no doubt, by now, is one decline, but saki’s glance still pricks the heart, like a swift and piercing dart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "چمن میں تلخ نوائی مری گوارا کر \nکہ زہر بھی کبھی کرتا ہے کار تریاقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "ترياقي: زہر کی دوا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My bitter notes with patience hark, that I utter in this park: Bear it in mind that passion too oft can work like elixir true.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "عزیز تر ہے متاع امیر و سلطاں سے \nوہ شعر جس میں ہو بجلی کا سوز و براقی",
+              "lang": "Original"
+            },
+            {
+              "_content": "براقي: چمک، تب و تاب۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "More dear and precious song replete with lightning’s dazzling flash and heat than coffers full of yellow gold that mighty kings and chiefs do hold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

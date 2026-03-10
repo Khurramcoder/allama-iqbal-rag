@@ -1,0 +1,69 @@
+{
+  "id": "36",
+  "name": "الملک ﷲ",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "02",
+  "sectionName": "افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "طارق چو بر کناررۂ اندلس سفینہ سوخت\nگفتند کار تو بہ نگاہ خرد خطاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "طارق نے جب اندلس کے ساحل پر اپنی کشتیاں جلائیں ، تو اس کے ساتھیوں نے کہا: تیرا یہ کام عقل کی رو سے غلط ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When Tariq burned his boats on Andalusia’s coast, his men observed: ‘It was an unwise thing to do.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دوریم از سواد وطن باز چون رسیم\nترک سبب ز روی شریعت کجا رواست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم سرزمین وطن سے دور ہیں ، واپس کیسے پہنچیں گے؟ شریعت میں کہاں ترک سبب کی اجازت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We are so far from home; how shall we now return? Foregoing means is wrong in the Divine Law’s view.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "خندید و دست خویش بشمشیر برد و گفت\nہر ملک ملک ماست کہ ملک خدای ماست",
+              "lang": "Original"
+            },
+            {
+              "_content": "طارق مسکرایا، اس نے اپنا ہاتھ تلوار کے قبضے پر رکھا اور کہا؛ ہر ملک ہمارا ملک ہے کیونکہ ہمارے خدا کا ملک ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He laughed and, putting his hand on his sword, declared: ‘All lands are God’s and they are all our homeland too.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "God’s Country",
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "05",
+  "name": "معزول شہنشاہ",
+  "bookId": "armaghan-e-hijaz",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "01",
+  "sectionName": "ابتدا",
+  "Para": [
+    {
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہو مبارک اس شہنشاہ نکو فرجام کو\nجس کی قربانی سے اسرار ملوکیت ہیں فاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "نکو فرجام: نیک انجام۔ \nاسرار ملوکيت: بادشاہت کے راز۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I hail, that king great who earned a good name’ whose sacrifice reveals the kingship’s game.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "'شاہ' ہے برطانوی مندر میں اک مٹی کا بت\nجس کو کر سکتے ہیں، جب چاہیں پجاری پاش پاش",
+              "lang": "Original"
+            },
+            {
+              "_content": "پاش پاش: ٹکڑے ٹکڑے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The king in British fane, idol of dust, to whom the old baptists if wish can burst.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہے یہ مشک آمیز افیوں ہم غلاموں کے لیے\nساحر انگلیس! مارا خواجہ دیگر تراش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے انگریز جادوگر! ہمارے لیے کوئی دوسرا آقا بنا۔ \nمشک آميز افيوں: خشبودار افیون۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They keep a musky poppy for slaves like us; O English charmer carve a new king for us.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "A Dethroned King",
+  "credits": "English Translation by: Q A Kabir"
+}

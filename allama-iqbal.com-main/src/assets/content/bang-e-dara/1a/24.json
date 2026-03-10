@@ -1,0 +1,142 @@
+{
+  "id": "24",
+  "name": "ماہ نو",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ٹوٹ کر خورشید کی کشتی ہوئی غرقاب نیل\nایک ٹکڑا تیرتا پھرتا ہے روئے آب نیل",
+              "lang": "Original"
+            },
+            {
+              "_content": "روئے آب: پانی کی سطح۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun's boat is broken and drowned in the Nile, but a piece is floating about on the water of the Nile.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "طشت گردوں میں ٹپکتا ہے شفق کا خون ناب\nنشتر قدرت نے کیا کھولی ہے فصد آفتاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "گردوں: آسمان کا تھال، مراد ہے آسمان۔ طشت\nخون ناب: خالص خون یعنی سرخ۔ \nفصد آفتاب: سورج کے خون کی نالی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The twilight's pure blood drips into the sky's basin; has the lancet of Nature drawn the sun's blood?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چرخ نے بالی چرا لی ہے عروس شام کی\nنیل کے پانی میں یا مچھلی ہے سیم خام کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "چرخ: آسمان۔ \nعروس: دلہن۔ \nسیم خام: خالص چاندی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Has the sky stolen the ear-ring of the evening's bride? Or has the fragile cord in the Nile's waters strolling?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "قافلہ تیرا رواں بے منت بانگ درا\nگوش انساں سن نہیں سکتا تری آواز پا",
+              "lang": "Original"
+            },
+            {
+              "_content": "بے منت بانگ درا: گھنٹی کی آواز کے احسان کے بغیر۔ \nگوش: کان۔ \nپا: پاؤں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your caravan is afoot without help of bell's call; the human ear cannot hear your foot-steps' sound.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "گھٹنے بڑھنے کا سماں آنکھوں کو دکھلاتا ہے تو\nہے وطن تیرا کدھر، کس دیس کو جاتا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You show the spectacle of rise and fall to the eyes: Where is your home? To which country are you going?*\n* This alludes to the fact that the creation of God is for the equitable use of the entire humanity and not for a particular country. This is what is included in the concept of the super-national Islamic State.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ساتھ اے سیارہء ثابت نما لے چل مجھے\nخار حسرت کی خلش رکھتی ہے اب بے کل مجھے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سیارہء ثابت نما: وہ سیارہ جو حرکت کرتا ہے مگر محسوس ہوتا ہے کہ کھڑا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O star-like planet take me with yourself, the prick of Longing's thorn keeps me restless.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نور کا طالب ہوں، گھبراتا ہوں اس بستی میں میں\nطفلک سیماب پا ہوں مکتب ہستی میں میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "طفلک سیماب پا: ایسا بچہ جو ایک جگہ چین سے نہ ٹھہرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am seeking light; I am weary in this habitation. I am the restless child in the existence's school.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "The Crescent",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

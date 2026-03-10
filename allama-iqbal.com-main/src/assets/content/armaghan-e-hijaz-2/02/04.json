@@ -1,0 +1,57 @@
+{
+  "id": "04",
+  "name": "",
+  "bookId": "armaghan-e-hijaz-2",
+  "bookName": "ارمغانِ حجاز",
+  "sectionId": "02",
+  "sectionName": "حضور رسالت",
+  "Para": [
+    {
+      "name": "(1)",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چہ خوش صحرا کہ در وی کاروانہا\nدرودی خواند و محمل براند\nبہ ریگ گرم او آور سجودی\nجبین را سوز تا داغے بماند",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا خوب ہے وہ صحرا جس میں قافلے ، درود شریف پڑھتے ہوئے سواریاں آ گے بڑھا رہے ہیں۔ \nتو اس کی گرم ریت پر سجدہ کناں ہو کر، اپنی پیشانی جلا دے تاکہ اس پر (سجدے کا) نشان باقی رہ جائے،",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How lucky are deserts caravan lines, they bless the Prophet driving litters fine.\nCast thy kowtows on hot sand grains, burn thy forehead to form a stain.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "(2)",
+      "Verse": [
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چہ خوش صحرا کہ شامش صبح خند است\nشبش کوتاہ و روز او بلند است\nقدم اے راھرو آہستہ تر نہ\nچو ما ہر ذرہ او دردمند است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیا خوب ہے یہ صحرا (صحرائے حجاز) جس کی شام میں صبح کا تبسم ہے، اس کی راتیں چھوٹی اور دن بڑے ہیں۔ \nاے مسافر ! ذرا آرام سے قدم رکھ، کیونکہ اس صحرا کا ہر ذرّہ ہماری طرح دردمند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Hail the desert whose eve is morning gay, whose nights are shorter and longer the day.\nPlace thy steps with a gentle gait, that sands like me has a ruthful trait.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "credits": "English Translation by: Q A Kabir"
+}

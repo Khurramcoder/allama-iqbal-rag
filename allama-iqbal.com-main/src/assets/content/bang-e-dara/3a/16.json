@@ -1,0 +1,260 @@
+{
+  "id": "16",
+  "name": "بزم انجم",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "سورج نے جاتے جاتے شام سیہ قبا کو \nطشت افق سے لے کر لالے کے پھول مارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While setting, the sun threw at the dark-clothed evening tulip flowers which it had collected from horizon’s basin:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پہنا دیا شفق نے سونے کا سارا زیور \nقدرت نے اپنے گہنے چاندی کے سب اتارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The twilight of evening put all ornaments of gold on it, Nature put off its entire set of silver ornaments.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "محمل میں خامشی کے لیلائے ظلمت آئی \nچمکے عروس شب کے موتی وہ پیارے پیارے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Lailah of the night in the litter of silence arrived; started shining the beautiful pearls of the evening’s bride.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہ دور رہنے والے ہنگامہء جہاں سے \nکہتا ہے جن کو انساں اپنی زباں میں 'تارے'",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Those living far from the commotion of the world which Man calls ‘stars’ in his own language.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "محو فلک فروزی تھی انجمن فلک کی \nعرش بریں سے آئی آواز اک ملک کی",
+              "lang": "Original"
+            },
+            {
+              "_content": "فلک فروزي: آسمان کو روشن کرنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sky’s assembly was busy lighting up the sky from the`Arsh-i-Barin the call of an angel came:",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے شب کے پاسانو، اے آسماں کے تارو! \nتابندہ قوم ساری گردوں نشیں تمھاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘O sentinels of the night! O stars of the sky! The whole shining nation of yours inhabits the sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "چھیڑو سرود ایسا، جاگ اٹھیں سونے والے \nرہبر ہے قافلوں کی تاب جبیں تمھاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Start such music as may awaken all those sleeping; the brightness of your forehead is guide for caravans.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "آئینے قسمتوں کے تم کو یہ جانتے ہیں \nشاید سنیں صدائیں اہل زمیں تمھاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth’s denizens consider you the destiny’s mirrors; perhaps they will listen to your call.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "رخصت ہوئی خموشی تاروں بھری فضا سے \nوسعت تھی آسماں کی معمور اس نوا سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Silence departed from this star-spangled expanse, the sky’s expanse was filled with this music.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "حسن ازل ہے پیدا تاروں کی دلبری میں \nجس طرح عکس گل ہو شبنم کے آرسی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Eternal Beauty is produced in the stars’ loveliness as the image of rose is in the looking glass of the dew.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "آئین نو سے ڈرنا، طرز کہن پہ اڑنا \nمنزل یہی کھٹن ہے قوموں کی زندگی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To be afraid of the new ways, to insist on the old ones; this is the only difficult stage in the life of nations.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "یہ کاروان ہستی ہے تیز گام ایسا \nقومیں کچل گئی ہیں جس کی رواروی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This caravan of life is so fast moving; many a nation is trampled in whose race.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "آنکھوں سے ہیں ہماری غائب ہزاروں انجم \nداخل ہیں وہ بھی لیکن اپنی برادری میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thousands of stars are hidden from our eyes, but their existence is also included in our group.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "اک عمر میں نہ سمجھے اس کو زمین والے \nجو بات پا گئے ہم تھوڑی سی زندگی میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth’s denizens did not understand in a whole life: What has come in our comprehension in a short span of life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہیں جذب باہمی سے قائم نظام سارے \nپوشیدہ ہے یہ نکتہ تاروں کی زندگی میں",
+              "lang": "Original"
+            },
+            {
+              "_content": "جذب باہمي: ایک دوسرے کو کھینچنے والے؛ آپس کی محبت اور لگاؤ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All systems are established on mutual attraction; this secret is concealed in the life of the stars.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Assembly Of Stars",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

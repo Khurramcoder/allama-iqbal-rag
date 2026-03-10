@@ -1,0 +1,680 @@
+{
+  "id": "06",
+  "name": "نمودار شدن خواجۂ اہل فراق ابلیس",
+  "bookId": "javed-nama",
+  "bookName": "جاوید نامہ",
+  "sectionId": "06",
+  "sectionName": "فلک مشتری",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "صحبت روشندلان یک دم، دو دم\nآن دو دم سرمایۂ بود و عدم",
+              "lang": "Original"
+            },
+            {
+              "_content": "بلیس کا ظاہر ہونا \nروشن دلوں کی صحبت ایک دو لمحے رہی اور یہ چند لمحے بود و عدم کا سرمایہ تھے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The company of the radiant of heart is for a breath or two, that breath or two is the substance of being and not-being;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عشق را شوریدہ تر کرد و گذشت\nعقل را صاحب نظر کرد و گذشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ صحبت عشق کو شوریدہ تر اور عقل کو صاحب لظر کر کے ختم ہو گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It made love more tumultuous, and then passed, endowed reason with vision, and then passed.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "چشم بر بربستم کہ با خود دارمش\nاز مقام دیدہ در دل آرمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنی آنکھیں بند کر لیں تاکہ اس صحبت کو اپنے اندر محفوظ کر سکوں اور اسے دیدہ و دل میں بسا سکوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I closed my eyes to hold it still within me, to transport it from my eyes to my heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ناگہان دیدم جہان تاریک شد\nاز مکان تا لامکان تاریک شد",
+              "lang": "Original"
+            },
+            {
+              "_content": "اچانک میں نے دیکھا کہ جہان تاریک ہو گیا؛ مکان سے لا مکاں تک تاریکی چھا گئی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Suddenly I saw the world had become dark, become dark from space even to spacelessness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اندر آن شب شعلہ ئی آمد پدید\nاز درونش پیر مردی بر جہید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس رات میں ایک شعلہ ظاہر ہوا؛ اور اس شعلے کے اندر سے ایک بوڑھا نکلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In that night a flame appeared from the midst of which an old man leaped forth",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "یک قبای سرمہ ئی اندر برش\nغرق اندر دود پیچان پیکرش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ایک سرمائی قبا میں ملبوس تھا؛ اس کا پیکر پیچ کھاتے ہوئے دھوئیں میں غرق تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wrapped in a cloak of antimony grey, his body immersed in wreathing smoke.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "گفت رومی خواجۂ اہل فراق\nآن سراپا سوز و آن خونین ایاق",
+              "lang": "Original"
+            },
+            {
+              "_content": "رومی نے کہا یہ ابلیس ہے جو سراپا سوز اور خونیں ایاغ ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Rumi said, ‘The Leader of the People of Separation! How all a-fire, and what a cup of blood!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "کہنۂ کم خندۂ اندک سخن\nچشم او بینندۂ جان در بدن",
+              "lang": "Original"
+            },
+            {
+              "_content": "بوڑھا، سنجیدہ اور کم گو جس کی نظر بدن کے اندر جان کو دیکھ لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ancient, seldom smiling, of few words, his eyes scanning the soul within the body,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "رند و ملا و حکیم و خرقہ پوش\nدر عمل چون زاہدان سخت کوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "رند، ملّا ، فلسفی اور گدڑی پوش زاہدان سخت کوش کی طرح ہر وقت مصروف کار۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Drunkard and mullah, philosopher and Sufi, in practice like a toiling ascetic,",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "فطرتش بیگانہ ذوق وصال\nزہد او ترک جمال لایزال۔",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت ذوق و صال سے نا آشنا ہے؛ جمال دوام کو ترک کر دینا اس کا زہد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His nature alien to the joy of union, his asceticism the abandonment of eternal beauty;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تا گسستن از جمال آسان نبود\nکار پیش افکند از ترک سجود",
+              "lang": "Original"
+            },
+            {
+              "_content": "کیونکہ جمال خداوندی سے رشتہ توڑنا آسان نہ تھا؛ اس نے سجدے سے انکار کر کے یہ کام سر انجام دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Since it was not easy to break away from beauty, he made a beginning with spurning adoration.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "اندکے در واردات او نگر\nمشکلات او ثبات او نگر",
+              "lang": "Original"
+            },
+            {
+              "_content": "ذرا اس کی واردات پر نظر ڈال؛ اس کی مشکلات اور اس کا ثبات دیکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gaze a little at his visitations, gaze at his difficulties, his tenacity",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "غرق اندر رزم خیر و شر ہنوز\nصد پیمبر دیدہ و کافر ہنوز",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ ابھی تک رزم خیر و شر میں غرق ہے؛ اس نے سینکڑوں پیغمبر دیکھے ہیں ، مگر ابھی تک کافر ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Still absorbed in the battle of good and evil, he has seen a hundred prophets, and is an infidel yet.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "جانم اندر تن ز سوز او تپید\nبر لبش آہی غم آلودی رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سوز سے میرے بدن کے اندر جان مضطرب ہوئی ؛ اس کے لب سے آہ غم آلود نکلی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My soul in my body quivered for his agony; a sigh of anguish broke from his lips.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "گفت و چشم نیم وا بر من گشود\n\"در عمل جز ما کہ بر خوردار بود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس نے اپنی نیم وا چشم سے مجھے دیکھا اور کہا؛ ہمارے سوائے عمل سے کس نے حصّہ پایا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "With eyes half-closed he turned to me and said; ‘Who besides me has so gloried in action?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "آنچنان بر کار ہا پیچیدہ ام\nفرصت آدینہ را کم دیدہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہم کام میں اس طرح لگے ہوئے ہیں؛ کہ جمعہ کی چھٹی بھی نہیں کرتے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have become so involved in labour that even on the Sabbath I am rarely at rest;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "نے مرا افرشتہ ئی نے چاکری\nوحی من بے منت پیغمبری",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میرا کوئی فرشتہ ہے نہ ملازم ؛ میری وحی بغیر پیغمبر کے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have no angels, no servants attending me; my revelation is without benefit of prophets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "نے حدیث و نے کتاب آوردہ ام\nجان شیرین از فقیہان بردہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "نہ میں نے کوئی حدیث پیش کی ہے، نہ کتاب نازل کی ہے؛ مگر فقیہوں کے اندر سے آپ کی جان شیریں نکال لی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have brought neither Traditions nor Book; I have robbed theologians of their sweet soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "رشتۂ دین چون فقیہان کس نرشت\nکعبہ را کردند آخر خشت خشت",
+              "lang": "Original"
+            },
+            {
+              "_content": "فقیہوں کی طرح کسی نے دین کا رشتہ نہیں کاٹا؛ یہاں تک کہ انہوں نے کعبے کی اینٹ سے اینٹ بجا دی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "None ever spun finer than they the thread of religion. yet in the end they left the Kaaba a heap of bricks.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "کیش ما را اینچنین تأسیس نیست\nفرقہ اندر مذہب ابلیس نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہمارے مذہب کے اندر اس قسم کی کوئی بنیاد نہیں؛ ابلیس کے مذہب میں کوئی فرقہ نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My religion has no such foundation; in the faith of Iblis there are no schisms and sects.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "در گذشتم از سجود اے بیخبر\nساز کردم ارغنون خیر و شر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے بے خبر میں نے سجدہ سے انکار کر کے خیر و شر کے ساز کو (بجانے کے لیے) تیار کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ignorant one, I have given up prostration, I have turned the organ of good and evil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "از وجود حق مرا منکر مگیر\nدیدہ بر باطن گشا ظاہر مگیر",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجھے اللہ تعالے کے وجود کا منکر نہ سمجھ ، باطن پر نظر ڈال ظاہر پر نہ جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not take me for one who denies God’s existence; open your eyes on my inner self, overlook my exterior.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "گر بگویم نیست این از ابلہی است\nزانکہ بعد از دید نتوان گفت نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگر میں یہ کہوں کہ اللہ تعالے نہیں ہیں تو یہ حماقت ہو گی؛ کیونکہ ان کی دید کے بعد ایسا کیا نہیں جا سکتا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If I say, \"He is not\", that would be foolishness, for when one has seen, one cannot say, \"He is not\".",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "من \"بلے\" در پردۂ \"لا\" گفتہ ام\nگفتۂ من خوشتر از نا گفتہ ام",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے 'نہیں ' کے پردے میں ہاں کہا ہے؛ میرا کہنا نہ کہنے سے بہتر ہے؛ (میرا احکام الہی سے انکار ابن آدم کے ایسے (بلی) سے بہتر ہے جس کے بعد وہ اللہ تعالے کی نافرمانی کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Under the veil of \"No\" I murmured \"Yes\"; what I have spoken is better than what I never said.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "تا نصیب از درد آدم داشتم\nقہر یار از بہر او نگذاشتم",
+              "lang": "Original"
+            },
+            {
+              "_content": "چونکہ میں درد آدم کو محسوس کرتا ہوں اس لیے میں نے اس کی خاطر اللہ تعالے کا قہر بھی قبول کر لیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To share in the pain and suffering of Adam I did not forgo the fury of the Beloved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "شعلہ ہا از کشتزار من ارمن دمید\nاو ز مجبوری بہ مختاری رسید",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری کشت سے شعلے اگے اور آدم مجبوری سے مختاری تک پہنچا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Flames sprang forth from my sown field; man out of predestination achieved free-will.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "زشتی خود را نمودم آشکار\nبا تو دادم ذوق ترک و اختیار",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اپنی برائی کو ظاہر کر کے تمہیں ترک و اختیار کا ذوق دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I displayed my own hideousness and have given you the joy of leaving or choosing.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "تو نجاتے دہ مرا از نار من\nوا کن اے آدم گرہ از کار من",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے آدم تو میرے کام کی گرہ کھول اور مجھے میری آگ سے نجات دلا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Deliver me now from my fire; resolve, O man, the knot of my toil.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "ایکہ اندر بند من افتادہ ئی\nرخصت عصیان بہ شیطان دادہ ئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو جو میری قید میں پڑا ہوا ہے اور تو نے شیطان کو گناہ رخصت دے رکھی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You who have fallen into my noose and given to Satan the leave to disobey;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "در جہان با ہمت مردانہ زی\nغمگسار من ز من بیگانہ زی",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے میرے غمگسار مجھ سے بیگانگی اختیار کر اور جہان میں ہمت مردانہ سے زندگی بسر کر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Live in the world with true manly zeal; as you pity me, live a stranger to me",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "بے نیاز از نیش و نوش من گذر\nتا نگردد نامہ ام تاریک تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "میری شیرینی اور تلخی سے بے نیازی اختیار کر کے زندگی گزار تاکہ میرا نامہء اعمال اور زیادہ سیاہ نہ ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Proudly disregarding my sting and my honey, so that my scroll may not become blacker still.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "در جہان صیاد با نخچیرہاست\nتا تو نخچیری بہ کیشم تیر ہاست",
+              "lang": "Original"
+            },
+            {
+              "_content": "دنیا میں شکاری کا وجود شکار کی وجہ سے ہے جب تک تو شکار بنا رہے گا ، میرے ترکش میں تیر رہیں گے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In the world the huntsman lives on his prey; whilst you are my prey, I draw out my arrows.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "صاحب پرواز را افتاد نیست\nصید اگر زیرک شود صیاد نیست\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "صاحب پرواز گرتا نہیں ، اگر شکار ہوشیار ہو تو شکاری بے بس ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who soars aloft is secure from falling: if the quarry is cunning, the huntsman will fail.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "گفتمش \"بگذر ز آئین فراق\nابغض الاشیاء عندی الطلاق\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اسے کہا تو فراق کی راہ چھوڑ ؛ اللہ تعالے کے نزدیک طلاق سب سے نا پسندیدہ عمل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Give up this cult of separation’, I said to him ‘The most hateful of things to God is divorce.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "69",
+          "Text": [
+            {
+              "_content": "گفت \"ساز زندگی، سوز فراق\nاے خوشا سر مستی روز فراق",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ بولا 'سوز فراق ہی زندگی کا ساز ہے؛ روز فراق کی مستی کیا خوب ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He said, ‘The fire of separation is the stuff of life; how sweet the intoxication of the day of separation!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "71",
+          "Text": [
+            {
+              "_content": "بر لبم از وصل می ناید سخن\nوصل اگر خواھم نہ او ماند نہ من\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے لب تک وصل کی بات نہیں آتی ؛ کیونکہ اگر میں وصل چاہوں تو نہ وہ رہتا ہے نہ میں'۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The very name of union comes not to my lips; if I seek union, neither He remains nor I.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "73",
+          "Text": [
+            {
+              "_content": "حرف وصل او را ز خود بیگانہ کرد\nتازہ شد اندر دل او سوز و درد",
+              "lang": "Original"
+            },
+            {
+              "_content": "وصل کی بات نے اسے بے خود کر دیا، اور اس کے دل میں سوز درد از سر نو تازہ ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The word ‘union’ made him out of himself; the burning agony was renewed in his heart.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "75",
+          "Text": [
+            {
+              "_content": "اندکی غلطید اندر دود خویش\nباز گم کردید اندر دود خویش",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تھوڑی دیر تک اپنے دھوئیں کے اندر لوٹ پوٹ رہا اور پھر اسی دھوئیں کے اندر گم ہو گیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He wallowed awhile in his own fumes; he became lost again in his own fumes;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "77",
+          "Text": [
+            {
+              "_content": "نالہ ئی زان دود پیچان شد بلند\nاے خنک جانی کہ گردد درد مند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس پیچ کھاتے ہوئے دھوئیں سے ایک فریاد اٹھی کیا خوب ہے وہ جان جس کے اندر درد پیدا ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Out of those fumes whirling a lament rose high; how blessed the soul that can feel anguish!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Iblis: Leader Of The People Of Separation Appears"
+}

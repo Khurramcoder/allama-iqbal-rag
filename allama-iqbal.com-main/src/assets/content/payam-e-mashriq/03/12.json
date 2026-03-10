@@ -1,0 +1,97 @@
+{
+  "id": "12",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "03",
+  "sectionName": "می باقے",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "آشنا ہر خار را از قصۂ ما ساختی\nدر بیابان جنون بردی و رسوا ساختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You have made every thorn prick us and know our tale. You took us to the wilderness of madness, and let everybody know.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "جرم ما از دانہ ئی تقصیر او از سجدہ ئے\nنے بہ آن بیچارہ میسازی نہ با ما ساختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our fault was we ate of a grain, and his that he refused to bow. You never pardoned that poor devil, nor have You yet forgiven us.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "صد جہان میروید از کشت خیال ما چو گل\nیک جہان و آنہم از خون تمنا ساختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A hundred worlds spring up like flowers from our imagination’s soil. There is but one real world; and that too you have made of the blood of murdered wishes.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "پرتو حسن تو می افتد برون مانند رنگ\nصورت می پردہ از دیوار مینا ساختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like colour the reflection of Your beauty shines through the glass. You have made of the goblet’s wall a screen for Yourself, just like wine.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "طرح نو افکن کہ ما جدت پسند افتادہ ایم\nاین چہ حیرت خانہ ئی امروز و فردا ساختی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O, lay some new foundation, for we happen to like novelty. What is this giddy peep-how You have made of yesterdays, to-morrows and to-days?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

@@ -1,0 +1,83 @@
+{
+  "id": "25",
+  "name": "جدت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دیکھے تو زمانے کو اگر اپنی نظر سے \nافلاک منور ہوں ترے نور سحر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If you behold the world with gaze much bright; of you the sky may beg morning light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خورشید کرے کسب ضیا تیرے شرر سے \nظاہر تری تقدیر ہو سیمائے قمر سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سيما: پیشانی، ماتھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sun may beg light from gleam of your spark your luck may shine, from moon's brow mark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دریا متلاطم ہوں تری موج گہر سے \nشرمندہ ہو فطرت ترے اعجاز ہنر سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The sea may swell with lustrous waves of gems, put world to shame with art that from you stems.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "اغیار کے افکار و تخیل کی گدائی \nکیا تجھ کو نہیں اپنی خودی تک بھی رسائی؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You beg and borrow thoughts of others' brains, to find approach to Self, don't take much pains.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Newness",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

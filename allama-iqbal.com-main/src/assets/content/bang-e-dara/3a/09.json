@@ -1,0 +1,196 @@
+{
+  "id": "09",
+  "name": "ترانہ ملی",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "چین و عرب ہمارا، ہندوستاں ہمارا \nمسلم ہیں ہم، وطن ہے سارا جہاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "China and Arabia are ours, India is also ours; we are Muslims, whole world is homeland of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "توحید کی امانت سینوں میں ہے ہمارے \nآساں نہیں مٹانا نام و نشاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The trust of Divine Unity is in the breasts of ours; it is not easy to destroy the identity of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "دنیا کے بت کدوں میں پہلا وہ گھر خدا کا \nہم اس کے پاسباں ہیں، وہ پاسباں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Among the world’s temples that first House of God; we are its sentinels, it is the sentinel of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "تیغوں کے سائے میں ہم پل کر جواں ہوئے ہیں \nخنجر ہلال کا ہے قومی نشاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We have been brought up under the shade of swords; the crescent’s dagger is the national insignia of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مغرب کی وادیوں میں گونجی اذاں ہماری \nتھمتا نہ تھا کسی سے سیل رواں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Our Adhan echoed in the valleys of the West; none could stop the advancing flood of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "باطل سے دنبے والے اے آسماں نہیں ہم \nسو بار کر چکا ہے تو امتحاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "We cannot be bowed down by falsehood, O sky! Hundreds of times you have done tests of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اے گلستان اندلس! وہ دن ہیں یاد تجھ کو \nتھا تیری ڈالیوں پر جب آشیاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O garden of Andalus! Do you remember the days when your branches harbored the nest of ours?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "اے موج دجلہ! تو بھی پہچانتی ہے ہم کو \nاب تک ہے تیرا دریا افسانہ خواں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O wave of the Tigris! You also recognize us; your river still recites the stories of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "اے ارض پاک! تیری حرمت پہ کٹ مرے ہم\nہے خوں تری رگوں میں اب تک رواں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Holy Land! For your honor we fought to the bitter end; still flowing in your veins is the blood of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "سالار کارواں ہے میر حجاز اپنا \nاس نام سے ہے باقی آرام جاں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "مير حجاز: مراد ہے محمد (صلعم)۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Hijaz’s Chief is the commander of our caravan; this name preserves solace of the hearts of ours.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اقبال کا ترانہ بانگ درا ہے گویا \nہوتا ہے جادہ پیما پھر کارواں ہمارا",
+              "lang": "Original"
+            },
+            {
+              "_content": "جادہ پيما: سفر پر روانہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This anthem of Iqbal is the clarion’s* call so to say; again prepares for the journey the caravan of ours.\n* This is also a subtle reference to his book Bang-i-Dara which contains material for the rejuvenation and renaissance of world Muslims.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Muslim National Anthem",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

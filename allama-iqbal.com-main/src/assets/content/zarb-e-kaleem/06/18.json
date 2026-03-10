@@ -1,0 +1,83 @@
+{
+  "id": "18",
+  "name": "",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "06",
+  "sectionName": "محراب گل افغان کے افکار",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "یہ نکتہ خوب کہا شیر شاہ سوری نے \nکہ امتیاز قبائل تمام تر خواری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Sher Shah explained this point with so much grace, distinction of tribes leads to much disgrace.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "عزیز ہے انھیں نام وزیری و محسود \nابھی یہ خلعت افغانیت سے ہیں عاری",
+              "lang": "Original"
+            },
+            {
+              "_content": "وزیری و محسود: دو افغان قبیلے جو آج کل سیکولر دنیا کے لیے درد سر بنے ہوئے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The names of various tribes to them are dear, the robe of Afghaniat don't like to wear.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہزار پارہ ہے کہسار کی مسلمانی \nکہ ہر قبیلہ ہے اپنے بتوں کا زناری",
+              "lang": "Original"
+            },
+            {
+              "_content": "قبائل کو امت پر ترجیح دینے کو بت پرستی کہا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Their Islam is to pieces and fragments torn, like pagans, girdles by them still are worn.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "وہی حرم ہے، وہی اعتبار لات و منات \nخدا نصیب کرے تجھ کو ضربت کاری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "They worship and adore their idols old, may God help them deaf blows much bold.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

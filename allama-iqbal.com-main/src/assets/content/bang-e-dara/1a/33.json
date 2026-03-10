@@ -1,0 +1,227 @@
+{
+  "id": "33",
+  "name": "طفل شیر خوار",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "میں نے چاقو تجھ سے چھینا ہے تو چلاتا ہے تو\nمہرباں ہوں میں، مجھے نا مہرباں سمجھا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "You scream as I snatch away the knife from you; do you consider me unkind though I am kind to you?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پھر پڑا روئے گا اے نووارد اقلیم غم\nچبھ نہ جائے دیکھنا!، باریک ہے نوک قلم",
+              "lang": "Original"
+            },
+            {
+              "_content": "نووارد اقلیم غم: غم کی دنیا میں نیا نیا آنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Newcomer of this sorrowful land, you will scream. Beware! The pen's point is sharp, the prick may hurt you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "آہ! کیوں دکھ دینے والی شے سے تجھ کو پیار ہے\nکھیل اس کاغذ کے ٹکڑے سے، یہ بے آزار ہے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! Why fond of the troublesome things are you? This piece of paper is harmless, play with it.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "گیند ہے تیری کہاں، چینی کی بلی ہے کد ھر؟\nوہ ذرا سا جانور ٹوٹا ہوا ہے جس کا سر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where is your ball? Where is your China cat? Where is that small animal with broken head?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "تیرا آئینہ تھا آزاد غبار آرزو\nآنکھ کھلتے ہی چمک اٹھا شرار آرزو",
+              "lang": "Original"
+            },
+            {
+              "_content": "آزاد غبار آرزو: آرزو کی گرد سے آزاد۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your mirror had been free of want's dust cloud; with eye's opening has been flashed the want's spark.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "ہاتھ کی جنبش میں، طرز دید میں پوشیدہ ہے\nتیری صورت آرزو بھی تیری نوزائیدہ ہے",
+              "lang": "Original"
+            },
+            {
+              "_content": "نوزائیدہ: جو نئی نئی پیدا ہوئی ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In your hand's movement, in your looks is hidden; your want also is newly born just like you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "زندگانی ہے تری آزاد قید امتیاز\nتیری آنکھوں پر ہویدا ہے مگر قدرت کا راز",
+              "lang": "Original"
+            },
+            {
+              "_content": "قید امتیاز:تمیز کی پابندی سے آزاد۔\nہویدا:ظاہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your life is free of the discretion's restrictions, but the secret of Nature is displayed in your eyes.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "جب کسی شے پر بگڑ کر مجھ سے، چلاتا ہے تو\nکیا تماشا ہے ردی کاغذ سے من جاتا ہے تو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When being annoyed at something with me you scream: What is the matter a mere scrap of paper you accept.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "آہ! اس عادت میں ہم آہنگ ہوں میں بھی ترا\nتو تلون آشنا، میں بھی تلون آشنا",
+              "lang": "Original"
+            },
+            {
+              "_content": "تلون آشنا: جس کا مزاج ایک حالت پر قائم نہ رہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Ah! In this habit I am also concordant with you; you love fidgetiness and I also love fidgetiness.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "عارضی لذت کا شیدائی ہوں، چلاتا ہوں میں\nجلد آ جاتا ہے غصہ، جلد من جاتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am the lover of ephemeral pleasures, I cry. I soon become angry, I soon calm down.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "میری آنکھوں کو لبھا لیتا ہے حسن ظاہری\nکم نہیں کچھ تیری نادانی سے نادانی مری",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My eyes are attracted by apparent beauty. My ignorance is no less than your ignorance.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "تیری صورت گاہ گریاں گاہ خنداں میں بھی ہوں\nدیکھنے کو نوجواں ہوں، طفل ناداں میں بھی ہوں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am also now crying now laughing like you; outwardly I am elderly, I am also simply a baby.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "name-en": "The Suckling Baby",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

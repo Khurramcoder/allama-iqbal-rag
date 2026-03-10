@@ -1,0 +1,282 @@
+{
+  "id": "35",
+  "name": "نالہ فراق آرنلڈ کی یاد میں",
+  "name-en": "Lament of Separation in Memory of Arnold",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "1a",
+  "sectionName": "حصہ اول",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "جا بسا مغرب میں آخر اے مکاں تیرا مکیں\nآہ! مشرق کی پسند آئی نہ اس کو سر زمیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O house! Your resident is now residing in the West. Ah! The land of the East was not liked by him.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "آ گیا آج اس صداقت کا مرے دل کو یقیں\nظلمت شب سے ضیائے روز فرقت کم نہیں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Today my heart is convinced of this truth: The light of the separation's day is darker than night.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تا ز آغوش وداعش داغ حیرت چیدہ است\nہمچو شمع کشتہ در چشم نگہ خوابیدہ است",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘As from his departure's breast the scar is picked up; sight is asleep in my eyes like the extinguished candle.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کشتہ عزلت ہوں، آبادی میں گھبراتا ہوں میں\nشہر سے سودا کی شدت میں نکل جاتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I am fond of seclusion, I hate the habitation. I run away from the city in excruciation of love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "یاد ایام سلف سے دل کو تڑپاتا ہوں میں\nبہر تسکیں تیری جانب دوڑتا آتا ہوں میں",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I make the heart restless from the olden days' memory; for satisfaction I come ardently running towards you.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "آنکھ گو مانوس ہے تیرے در و دیوار سے\nاجنبیت ہے مگر پیدا مری رفتار سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though the eye is familiar with your nook and corner, still some strangeness is apparent from my speed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "ذرہ میرے دل کا خورشید آشنا ہونے کو تھا\nآئنہ ٹوٹا ہوا عالم نما ہونے کو تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My heart's speck was just to be acquainted with the sun. The broken mirror was just to expand into the universe.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "نخل میری آرزوئوں کا ہرا ہونے کو تھا\nآہ! کیا جانے کوئی میں کیا سے کیا ہونے کو تھا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tree of my longings was just going to green up. Ah! What does any one know what I was going to be!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ابر رحمت دامن از گلزار من برچید و رفت\nاند کے بر غنچہ ہائے آرزو بارید و رفت",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mercy's cloud gathered up its skirt from my garden and departed; rained a little over the flower buds of my desires and departed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "تو کہاں ہے اے کلیم ذروئہ سینائے علم\nتھی تری موج نفس باد نشاط افزائے علم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Where are you! O Kalim of the pinnacle Sina of learning! Your breath was the breeze promoting the joy of learning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "اب کہاں وہ شوق رہ پیمائی صحرائے علم\nتیرے دم سے تھا ہمارے سر میں بھی سودائے علم",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Gone is that zeal for walking in the vast expanse of learning! In my intellect also you were the inspirer of love of learning.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "شور لیلی کو کہ باز آرایش سودا کند\nخاک مجنوں را غبار خاطر صحرا کند",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘Where is Lailah's fervor, so as to decorate Love again; may make the dust of Majnun mixed with wilderness again.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "کھول دے گا دشت وحشت عقدئہ تقدیر کو\nتوڑ کر پہنچوں گا میں پنجاب کی زنجیر کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The wilderness of solitude will open the fate's knot; I shall reach you after breaking the chains of the Punjab.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "دیکھتا ہے دیدئہ حیراں تری تصویر کو\nکیا تسلی ہو مگر گرویدہء تقریر کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The bewildered eye looks upon your picture, but how can one searching for speech be happy?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "تاب گویائی نہیں رکھتا دہن تصویر کا\"\n\"خامشی کہتے ہیں جس کو، ہے سخن تصویر کا",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘No power to speak the picture's mouth has; silence is the speech which the picture has.’",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

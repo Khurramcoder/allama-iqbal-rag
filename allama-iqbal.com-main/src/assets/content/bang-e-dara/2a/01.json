@@ -1,0 +1,288 @@
+{
+  "id": "01",
+  "name": "محبت",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "2a",
+  "sectionName": "حصہ دوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "عروس شب کی زلفیں تھیں ابھی نا آشنا خم سے\nستارے آسماں کے بے خبر تھے لذت رم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "عروس شب: رات کی دلہن۔ \nلذت رم: تگ و دو کا مزہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The locks of the bride of night’s hair were still unbent. The sky’s stars were unacquainted with the taste of running.\n\nThis verse refers to the period when the universe was in its early stages and had not started functioning. The first two verses concern the stage when the universe was stationary and had not acquired movement. The next two verses talk about the stage when there was no light.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "قمر اپنے لباس نو میں بیگانہ سا لگتا تھا\nنہ تھا واقف ابھی گردش کے آئین مسلم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "آئین مسلم: مانا ہوا دستور۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The moon in its new attire was looking a little strange: Was not familiar with the established laws of revolution.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ابھی امکاں کے ظلمت خانے سے ابھری ہی تھی دنیا\nمذاق زندگی پوشیدہ تھا پہنائے عالم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "امکاں: فلسفہ دانوں نے خدا کو واجب اور کائنات کو ممکن قرار دیا ہے؛ امکان کا لفظ انہی چیزوں کے لیے بولا جاتا ہے۔ \nپہنائے عالم: جہان کی فراخی، یعنی جہان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth had just emanated from possibility’s dark recesses. Life’s taste was still concealed from the expanse of space.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "کمال نظم ہستی کی ابھی تھی ابتدا گویا\nہویدا تھی نگینے کی تمنا چشم خاتم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشم خاتم: انگوٹھی کی آنکھ\nہویدا: ظاہر۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Perfection of the order of existence was just starting. The gem’s longing was apparent from the ring’s eye.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "سنا ہے عالم بالا میں کوئی کیمیاگر تھا\nصفا تھی جس کی خاک پا میں بڑھ کر ساغر جم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "عالم بالا: اوپر کی دنیا جو ہماری مادی دنیا سے الگ ہے۔ \nصفا: پاکیزگی۔ \nساغر جم: جمشید بادشاہ کا پیالہ ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is said that there was an alchemist in the spiritual world; the dust of whose feet was clearer than the Jam’s wine cup.\n(Here the alchemist’s feet are described as cleaner that Jamshâd’s wine cup. The alchemist represents a Mu’min and this verse pays high tribute to Man’s potential, which develops fully on a person’s becoming a Mu’min.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "لکھا تھا عرش کے پائے پہ اک اکسیر کا نسخہ\nچھپاتے تھے فرشتے جس کو چشم روح آدم سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A recipe for an Iksir was written on the leg of Arsh, which was hidden jealously by angels from Adam’s eye.\n\nIksir: It is an Arabic word and is a legendary substance which would transform any object into gold. Similarly, there was a legendary spring called Chashmah-i-Haivan, or ‘the spring of life’, whose water would confer immortality on any living thing which drank it, including Man. These two things were the objects of the quest of Man in the ancient world. This quest was the purpose and the originator of all research. All knowledge emanated from the pursuit of these two goals. Both of them have been referred to in this poem.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "نگاہیں تاک میں رہتی تھیں لیکن کیمیاگر کی\nوہ اس نسخے کو بڑھ کر جانتا تھا اسم اعظم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسم اعظم: سب سے بڑا نام ، مراد ہے اللہ تعالے کا ذاتی نام۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "But the alchemist’s attention was ever concentrated on it. He considered that recipe greater than Ism-i-A‘zam.\n\nIsm-i-A‘zam or ‘The Great Name’: This is one of the ninety nine names or attributes of God, the reciting of which casts an irresistible destructive influence over evil spirits, evil persons and other enemies. This name is not known to any one and is the object of the quest of the people searching for the supernatural. According to this poem the secret of the Ism-i-A‘zam is concealed in the Love of God. In other words His Lover has the power of facing any enemy successfully.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "بڑھا تسبیح خوانی کے بہانے عرش کی جانب\nتمنائے دلی آخر بر آئی سعی پیہم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "دلی : دل کی خواہش۔ تمنائے\nسعی پیہم: لگاتار کوشش۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He advanced to the Arsh under pretense of doxology: Inner longing was at last achieved by constant effort.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "پھرایا فکر اجزا نے اسے میدان امکاں میں\nچھپے گی کیا کوئی شے بارگاہ حق کے محرم سے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He was roaming in the world in search of components; nothing could be concealed from the knower of God’s Audience.*\n\n* Allusion to the Man’s potential for knowing all secrets in the universe, if he tries ardently and in the right way, which includes the Love of God and constant sincere struggle in His cause.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "چمک تارے سے مانگی، چاند سے داغ جگر مانگا\nاڑائی تیرگی تھوڑی سی شب کی زلف برہم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "زلف برہم: بکھرے بال۔\nتیرگی: تاریکی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He procured brightness from the star, spot from the moon.* He stole a little darkness from the night’s uncombed hair.\n\nThe moon’s spots are poetically considered to be created by the Moon’s Love for God, as a lover’s heart develops scars from the anguish of his love for his beloved.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "تڑپ بجلی سے پائی، حور سے پاکیزگی پائی\nحرارت لی نفسہائے مسیح ابن مریم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "اشارہ ہے حضرت عیسی (علیہ) کا مردوں کو زندہ کرنے کے معجزہ کی طرف۔ *",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He obtained restlessness from thunder, chastity from Hoor.* He took warmth from the breath of Masih son of Maryam.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "ذرا سی پھر ربوبیت سے شان بے نیازی لی\nملک سے عاجزی، افتادگی تقدیر شبنم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ربوبیت: پروردگارگی۔ \nافتادگی: نیچے گرنا ، مراد ہے خاکساری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then he took a little grandeur of Beniyazi from the Divinity. He took humility from the angel, humbleness from dew’s destiny.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "پھر ان اجزا کو گھولا چشمہء حیواں کے پانی میں\nمرکب نے محبت نام پایا عرش اعظم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "چشمہء حیواں: زندگی کا چشمہ۔ \nعرش اعظم: سےوہ بلند ترین مقام جس پر الپہ تعالے دنیا تخلیق کرنے کے بعد براجمان ہوئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Then dissolved these components in Chashmah-i-Haiv’an’s water. The compound was given the name of ‘Love’ by the Grand Arsh.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "مہوس نے یہ پانی ہستی نوخیز پر چھڑکا\nگرہ کھولی ہنر نے اس کے گویا کار عالم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "مہوس: کیمیاگر۔ \nہستی نوخیز: تازہ پیدا کی گئی زندگی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The alchemist sprinkled this water at the newly created existence; with skill’s help he opened the knot of the world’s secrets.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "ہوئی جنبش عیاں، ذروں نے لطف خواب کو چھوڑا\nگلے ملنے لگے اٹھ اٹھ کے اپنے اپنے ہمدم سے",
+              "lang": "Original"
+            },
+            {
+              "_content": "جنبش عیاں: (زندگی کی) ہلچل شروع ہو گئی۔ ہوئی",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Movement appeared, the elements gave up sleep; getting up each started embracing its companion.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "خرام ناز پایا آفتابوں نے، ستاروں نے\nچٹک غنچوں نے پائی، داغ پائے لالہ زاروں نے",
+              "lang": "Original"
+            },
+            {
+              "_content": "خرام ناز: ناز سے چلنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The suns and the stars learnt elegant movements. Flower buds learnt blooming poppies got their spots11\n(The Lalah: This is the Persian word for tulip as well as the poppy flower. Here it refers to the latter. The poppy flower has a dark spot at the bottom of the corolla on the inside, which is variously referred to in Persian and Urdu poetry and is taken as a mark of perfection of this flower’s beauty. Other attributes of the different objects mentioned in this verse are signs of their perfection in the same way. The rotatory and revolutionary movement of all bodies in the universe in their fixed orbits is described metaphorically as their search for the Truth of the Beloved, i.e. God. This Love has made the universe operate the way it does. It is a fact that the force of mutual attraction of all these bodies, i.e. gravity keeps the balance between them. This is also referred to by Allamah Iqb«l in many places for emphasizing unity in the Muslim Ummah for their proper functioning and prosperity.)",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Love",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

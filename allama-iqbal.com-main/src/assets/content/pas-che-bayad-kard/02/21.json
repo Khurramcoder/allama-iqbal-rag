@@ -1,0 +1,416 @@
+{
+  "id": "21",
+  "name": "مناجات مرد شوریدہ در ویرانۂ غزنے",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "ویرانہء غزنی میں مرد شوریدہ کی مناجات۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "لالہ بہر یک شعاع آفتاب\nدارد اندر شاخ چندین پیچ و تاب",
+              "lang": "Original"
+            },
+            {
+              "_content": "گل لالہ ایک شعاع آفتاب کے لیے شاخ کے اندر کتنے پیچ و تاب کھاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The tulip for getting just ray of the sun has such curvetings within a branch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "چون بہار او را کند عریان و فاش\nگویدش جز یک نفس اینجا مباش",
+              "lang": "Original"
+            },
+            {
+              "_content": "لیکن جب بہار اسے ظاہر کر دیتی ہے تو کہتی ہے کہ ایک لمحہ سے زیادہ تو نے یہاں نہیں رہنا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the spring brings it out in the open, it tells it to stay here for not more than a moment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ہر دو آمد یکدگر را ساز و برگ\nمن ندانم زندگی خوشتر کہ مرگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ دونوں ایک دوسرے کے لیے ساز و سامان ہیں؛ میں نہیں جانتا کہ زندگی زیادہ خوش تر ہے یا موت۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Both life and death furnish gear to each other, I know not whether one is better than the other.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "زندگی پیہم مصاف نیش و نوش\nرنگ و نم امروز را از خون دوش",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی خوب و ناخوب کی مسلسل کشمکش کا میدان ہے؛ حال کی زیب و آرائش ماضی کے خون سے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Life is a perpetual strife between the unpleasant and pleasant.Today’s hue and freshness spring from yesterday’s blood.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "الامان از مکر ایام الامان\nالامان از صبح و از شام الامان",
+              "lang": "Original"
+            },
+            {
+              "_content": "الامان پرکاریء ایام سے الامان؛ ایام کی صبح سے الامان ایام کی شام سے الامان!",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Alack this machination of morn and eve, alack!",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "اے خدا اے نقشبند جان و تن\nبا تو این شوریدہ دارد یک سخن",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے خدا ، اے ربط جان و تن قائم کرنے والے یہ شوریدہ آپ سے ایک شکایت رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O God, the contriver of body and soul, this frenzied one has to say a word to You.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "فتنہ ہا بینم درین دیر کہن\nفتنہ ہا در خلوت و در انجمن",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اس پرانے بتکدہ (دنیا) کی خلوت و انجمن میں کئی فتنے دیکھتا ہوں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I saw mischief in this old abode; there are mischiefs there within and without.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "عالم از تقدیر تو آمد پدید\nیا خدای دیگر او را آفرید",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ جہان آپ کی تقدیر سے وجود میں آیا ہے یا کسی اور خدا نے اسے پیدا کیا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Did this world come into existence with Your device, or some other deity created it?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "ظاہرش صلح و صفا باطن ستیز\nاہل دل را شیشۂ دل ریز ریز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا ظاہر امن و اخلاص ہے لیکن اس کے باطن میں عداوت ہے؛ صاحب دل لوگوں کے قلوب اس سے پاش پاش ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its inside all peace but the outside all strife. The hearts of sentient ones all shattered to pieces.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "صدق و اخلاص و صفا، باقی نماند\n\"آن قدح بشکست و آن ساقی نماند\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "سچائ، نیک نیتی، صفائے دل باقی نہیں ؛ وہ جام ٹوٹ چکا ہے اور وہ ساقی باقی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "There is no trace of sincerity and purity! Broken is the jar and the saqi no more!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "چشم تو بر لالہ رویان فرنگ\nآدم از افسونشان بی آب و رنگ",
+              "lang": "Original"
+            },
+            {
+              "_content": "آپ کی نظر فرنگیوں کے سرخ چہروں پر ہے؛ حالانکہ نوع آدم ان کے فریب سے آب و رنگ کھو چکی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Your eye is on the tulip-faced ones of the West; man is bereft of freshness by whose sorcery?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "از کہ گیرد ربط و ضبط این کائنات؟\nاے شہید عشوہ لات و منات",
+              "lang": "Original"
+            },
+            {
+              "_content": "اے فرنگی بتوں کے ناز و ادا پر مفتوں ؛ کائنات کا نظام کس کے ہاتھ میں ہے؟",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By what does this universe acquire order? O you infatuated by the charm of idols?",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "مرد حق آن بندۂ روشن نفس\nنایب تو در جہان او بود و بس",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرد حق جو روشن ضمیر بندہ ہے ؛ کائنات میں آپ کا نائب (خلیفہ) صرف وہی تھا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The godly man with luminous spirit, was alone Your vicegerent in this world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "او بہ بند نقرہ و فرزند و زن\nگر توانی، سومنات او شکن",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ دولت ، اولاد اور ازواج کے بندھن میں گرفتار ہے ؛ اگر ہو سکتا ہے تو آپ اس کے سومنات کو توڑ دیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is bound fast in the love of silver, kith and kin. Shatter this idol-house if you can.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "این مسلمان از پرستاران کیست\nدر گریبانش یکی ہنگامہ نیست",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ مسلمان کس کے پرستاروں میں سے ہے کہ اس کے گریبان میں ایک ہنگامہ بھی نہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "This Muslim whom does he worship? There’s not the least tumult in his soul.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "سینہ اش بی سوز و جانش بی خروش\nاو سرافیل است و صور او خموش",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا سینہ بے سوز ہے اور اس کی جان میں کوئی جوش و خروش نہیں ہے؛ وہ اسرافیل ہے لیکن اس کا صور خاموش ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His breast without feeling and spirit without any elamour; he is an Israfil whose trumpet is dumb.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "قلب او نا محکم و جانش نژند\nدر جھان کالای او نا ارجمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کا قلب ایمان کی پختگی سے خالی ہے اور وہ افسردہ خاطر ہے؛ دنیا میں اس کا ساز و سامان بے قیمت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His heart is unstable and soul palsied; his stuff is of no worth in this world.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "در مصاف زندگانی بی ثبات\nدارد اندر آستین لات و منات",
+              "lang": "Original"
+            },
+            {
+              "_content": "زندگی کے میدان جنگ میں وہ ثابت قدم نہیں ہے (چونکہ ) وہ اپنی آستین کے اندر لات و منات رکھتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Infirm in the battle of life, bearing idols in his sleeves.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "مرگ را چون کافران داند ہلاک\nآتش او کم بھا مانند خاک",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ کافروں کی طرح موت کو زندگی ختم کر دینے والی سمجھتا ہے؛ اس کی آگ خاک کی مانند بے قیمت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Like the infidels he regards death as mortal. His fire is of little worth like dust.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "شعلہ ئی از خاک او باز آفرین\nآن طلب آن جستجو باز آفرین",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی خاک سے دوبارہ شعلہ پیدا کیجئے ؛ اور اس کی وہ طلب اور جستجو واپس لائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Raise again a flame from his inert clay that very urge to search and search once more.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "باز جذب اندرون او را بدہ\nآن جنون ذوفنون او را بدہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "اسے پھر وہی جذب دروں اور جنون ذو فنون عطا فرمائیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Grant him again that inner verve, that very manifold zest and zeal.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "شرق را کن از وجودش استوار\nصبح فردا از گریبانش برآر",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے وجود سے مشرق کو استوار کر دیجئے ؛ اس کے گریبان سے آنے والے کل کی صبح نمودار کیجیئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Make the East firm by his self; bring out a new morn from his cellar;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "بحر احمر را بچوب او شکاف\nاز شکوہش لرزہ ئی افکن بہ قاف",
+              "lang": "Original"
+            },
+            {
+              "_content": "بحر احمر میں اس کے عصا سے شگاف ڈالئیے ؛ اور کوہ قاف پر اس کے دبدبے سے لرزہ طاری کیجئے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Split the Red Sea with his staff; let Caucasia Quake with his glory.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "name-en": "Supplication Of A Frenzied One",
+  "credits": "English Translation by: Jamil Naqvi"
+}

@@ -1,0 +1,138 @@
+{
+  "id": "17",
+  "name": "بر مزار شہنشاہ بابر خلد آشیانی",
+  "bookId": "pas-che-bayad-kard",
+  "bookName": "پس چہ بائد کرد",
+  "sectionId": "01",
+  "sectionName": "پس چہ بائد کرد",
+  "name-ur": "شہنشاہ بابر خلد آشیانی کے مزار پر۔",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بیا کہ ساز فرنگ از نوا بر افتاد است \nدرون پردۂ او نغمہ نیست فریاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اٹھ کہ ساز فرنگ نغموں کے بغیر پڑا ہے؛ اب اس ساز کے پردہ کے اندر نغمہ نہیں ، فریاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Come, for the harp of the West has fallen out of tune. There is no note in its chords but only a wail.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "زمانہ کہنہ بتان را ہزار بار آراست\nمن از حرم نگذشتم کہ پختہ بنیاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "زمانے نے ہزارہا پرانے بتوں کو آراستہ کر کے پیش کیا؛ (مگر) میں نے حرم کو نہیں چھوڑا ، کیونکہ یہ پختہ بنیاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Time has thousand times adorned old idols; I have not swerved from the Harem because it has a firm foundation.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "درفش ملت عثمانیان دوبارہ بلند\nچہ گویمت کہ بہ تیموریان چہ افتاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "عثمانیوں کا جھنڈا دوبارہ بلند ہوا؛ تجھے کیا بتاؤں کہ تیموریوں پر کیا افتاد آن پڑی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The banner of the Ottomans has risen high again, I know not what has befallen the Timurids.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "خوشا نصیب کہ خاک تو آرمید اینجا\nکہ این زمین ز طلسم فرنگ آزاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو کیسا خوش نصیب ہے کہ تیرا جسد خاکی اس سرزمین میں آرام کر رہا ہے جو فرنگیوں کے طلسم سے آزاد ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "How happy that your body has found rest here. For this land is free from the witchcraft of the West.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ہزار مرتبہ کابل نکوتر از دلی است\nکہ آن عجوزہ عروس ہزار داماد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "کابل دلی سے ہزار بار بہتر ہے ؛ کیونکہ وہ بڑھیا ہزاروں کی دلہن بنی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Kabul is thousand times better than Delhi which has been the bride of so many bridegrooms.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "درون دیدہ نگہ دارم اشک خونین را\nکہ من فقیرم و این دولت خدا داد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں اپنی آنکھ میں خونیں آنسو سنبھالے ہوئے ہوں؛ کیونکہ میں فقیر ہوں اور مجھے دولت خداداد حاصل ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I preserve the bloody tears in my eyes because I am a poor faqir and this is God-given wealth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "اگرچہ پیر حرم ورد لاالہ دارد\nکجا نگاہ کہ برندہ تر ز پولاد است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اگرچہ پیر حرم لاالہ کا ورد رکھتا ہے؛ (مگر) وہ نگاہ کہاں جو تلوار سے تیز تر ہو۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Although the High Priest of the Harem keeps reciting LA ILAH; where is the glance sharper than a steel blade?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "At The Tomb Of The Heaven-Resting Emperor Babur",
+  "credits": "English Translation by: Jamil Naqvi"
+}

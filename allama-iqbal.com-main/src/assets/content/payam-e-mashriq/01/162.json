@@ -1,0 +1,34 @@
+{
+  "id": "162",
+  "name": "",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "01",
+  "sectionName": "لالۂ طور",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "بہر دل عشق رنگ تازہ بر کرد\nگہی با سنگ گہ با شیشہ سر کرد\nترا از خود ربود و چشم تر داد\nمرا با خویشتن نزدیک تر کرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "ہر دل میں عشق ننے رنگ سے ظاہر ہوتا ہے؛ کبھی یہ پتھر سے موافقت کرتا ہے اور کبھی شیشے سے۔ \nتجھے اس نے اپنا آپ بھلا دیا اور رونا سکھایا؛ اور مجھے اس نے اپنے آپ سے نزدیک تر کر دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Love plays with every heart a different role; now as a stone, and now a crystal bowl: \nLove robbed thee of thy self and gave thee tears, but brought me ever closer to my soul.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "credits": "English Translation by: M. Hadi Husain"
+}

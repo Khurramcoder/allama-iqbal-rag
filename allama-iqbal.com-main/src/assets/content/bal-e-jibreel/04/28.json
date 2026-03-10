@@ -1,0 +1,98 @@
+{
+  "id": "28",
+  "name": "جاوید کے نام",
+  "name-en": "To Javed",
+  "bookId": "bal-e-jibreel",
+  "bookName": "بالِ جبریل",
+  "sectionId": "04",
+  "sectionName": "منظومات",
+  "Para": [
+    {
+      "name": "لندن میں اس کے ہاتھ کا لکھا ہوا پہلا خط آنے پر",
+      "name-en": "On Receiving His First Letter from London.",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "دیار عشق میں اپنا مقام پیدا کر\nنیا زمانہ، نئے صبح و شام پیدا کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Create a place for thyself in the world of love; create a new age, new days, and new nights.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "خدا اگر دل فطرت شناس دے تجھ کو \nسکوت لالہ و گل سے کلام پیدا کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If God grant thee an eye for nature’s beauty, converse with the silence of flowers; respond to their love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اٹھا نہ شیشہ گران فرنگ کے احساں\nسفال ہند سے مینا و جام پیدا کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Do not be beholden to the West’s artisans; seek thy sustenance in what thy land affords.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "میں شاخ تاک ہوں، میری غزل ہے میرا ثمر\nمرے ثمر سے مےء لالہ فام پیدا کر",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My ghazal is the essence of my life-blood; create thy elixir of life out ‘of this essence.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "مرا طریق امیری نہیں، فقیری ہے\nخودی نہ بیچ، غریبی میں نام پیدا کر!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "My way of life is poverty, not the pursuit of wealth; barter not thy Selfhood; win a name in adversity.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

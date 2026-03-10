@@ -1,0 +1,84 @@
+{
+  "id": "58",
+  "name": "مہدی",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "قوموں کی حیات ان کے تخیل پہ ہے موقوف \nیہ ذوق سکھاتا ہے ادب مرغ چمن کو",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A nation's life gets much prolonged by lofty aims and ideals high if dwellers here some zeal possess, they can explore the heights of sky.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "مجذوب فرنگی نے بہ انداز فرنگی \nمہدی کے تخیل سے کیا زندہ وطن کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مجذوب فرنگی: دیوانہ فرنگی، یعنی تخیّل سپر مین کا خالق نیطشے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The Frankish Sage by guile and skill new lease of life to nation gave the path for birth of Superman by valour great he strove to pave.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "اے وہ کہ تو مہدی کے تخیل سے ہے بیزار \nنومید نہ کر آہوئے مشکیں سے ختن کو",
+              "lang": "Original"
+            },
+            {
+              "_content": "آہوئے مشکیں: وہ ہرن جس کی ناف سے مشک نکالا جاتا ہے۔ \nختن: وسط ایشیا کا خطہ جہاں کے مشک والے ہرن مشہور ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To Guide's concept you seem averse, too fed up with this thought appear, this view for Muslims has the weight that for Cathay has musk of deer.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہو زندہ کفن پوش تو میت اسے سمجھیں \nیا چاک کریں مردک ناداں کے کفن کو؟",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "If man alive puts on the shroud, must we take that ass for dead or tear to pieces small and shreds his shroud and cast away the threads?",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Guide",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

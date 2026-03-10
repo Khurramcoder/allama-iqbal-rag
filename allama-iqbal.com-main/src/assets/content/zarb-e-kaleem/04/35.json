@@ -1,0 +1,101 @@
+{
+  "id": "35",
+  "name": "مرد بزرگ",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "اس کی نفرت بھی عمیق، اس کی محبت بھی عمیق \nقہر بھی اس کا ہے اللہ کے بندوں پہ شفیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "عميق: گہری۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His contempt has no bound. His Love's depth none can sound. His wrath on men of God is tempered in manner odd.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "پرورش پاتا ہے تقلید کی تاریکی میں \nہے مگر اس کی طبیعت کا تقاضا تخلیق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Nurtured in mimicry's gloom to tread like sheep his doom but he is much inclined to creative bent of mind.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "انجمن میں بھی میسر رہی خلوت اس کو \nشمع محفل کی طرح سب سے جدا، سب کا رفیق",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "In midst of surging throng he keeps aloof for long, like lamp, he lights the hall, but has not mate at all.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مثل خورشید سحر فکر کی تابانی میں \nبات میں سادہ و آزادہ، معانی میں دقیق",
+              "lang": "Original"
+            },
+            {
+              "_content": "دقيق: باریک، نازک۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Faqr can like sun of morn with light the mead adorn its speech is frank and free, though meanings tenuous be.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "اس کا انداز نظر اپنے زمانے سے جدا \nاس کے احوال سے محرم نہیں پیران طریق",
+              "lang": "Original"
+            },
+            {
+              "_content": "پيران طريق: مراد ہیں خانقاہی صوفیان۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its views vary with the rest, it deems them right and best; its innate slates unknown to mystics with renown.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "The Great Man",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

@@ -1,0 +1,105 @@
+{
+  "id": "22",
+  "name": "قسمت نامۂ سرمایہ دار و مزدور",
+  "bookId": "payam-e-mashriq",
+  "bookName": "پیامِ مشرق",
+  "sectionId": "04",
+  "sectionName": "نقش فرنگ",
+  "name-ur": "سرمایہ دار اور مزدور میں تقسیم جائداد",
+  "Para": [
+    {
+      "name": "سرمایہ دار",
+      "name-en": "Capitalist",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "غوغای کارخانۂ آہنگری ز من\nگلبانگ ارغنون کلیسا از آن تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "فولاد سازی کے کارخانے کا شور میرے لیے ہے، اور کلیسا کے پیانو کی خوبصورت آواز تیرے لیے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mine is the din of the steel factory, and yours is the church organ’s melody.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "نخلی کہ شہ خراج برو مینہد ز من\nباغ بہشت و سدرہ و طوبا از آن تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ درخت جس سے پادشاہ خراج وصول کرتا ہے، میرے لیے ہے، اور بہشت کا باغ، سدرہ اور طوبی تیرے لیے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Mine is the bush that pays the king a tax, yours Eden with its Sidrah and its Tuba.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "تلخابہ ئی کہ درد سر آرد از آن من\nصہبای پاک آدم و حوا از آن تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "وہ تلخ شراب جو درد سر پیدا کرے میرے لیے ہے، آدم و حوّا (یعنی جنت کی) پاکیزہ شراب تیرے لیے ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Strong liquor with a hangover is mine, for you drink comes from Adam and Eve’s brewery.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "مرغابے و تذرو و کبوتر از آن من\nظل ھما و شہپر عنقا از آن تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "مرغابی، تدرو اور کبوتر میرے لیے ہیں، اور ظلّ ہما اور شہپر عنقا تیرے لیے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Duck, pheasant, pigeon are my birds: huma and anqa are your royal property.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "این خاک و آنچہ درشکم او از آن من\nو ز خاک تا بعرش معلا از آن تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "یہ زمین اور جو کچھ اس کے اندر ہے وہ میرے لیے ہے، اور زمین سے عرش تک جو کچھ بھی ہے وہ سب تیری ملکیت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The earth and what is in its bowels are mine; from earth to heaven all is your territory.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Division Between The Capitalist And The Labourer",
+  "credits": "English Translation by: M. Hadi Husain"
+}

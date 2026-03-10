@@ -1,0 +1,596 @@
+{
+  "id": "02",
+  "name": "تمہید: در معنی ربط فرد و ملت",
+  "bookId": "ramooz-e-bekhudi",
+  "bookName": "رموزِ بیخودی",
+  "sectionId": "01",
+  "sectionName": "رموزِ بیخودی",
+  "name-en": "Prelude: Of The Bond Between Individual And Community",
+  "name-ur": "تمہید: ربط فرد و ملّت",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "فرد را ربط جماعت رحمت است\nجوہر او را کمال از ملت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد کے لیے جماعت سے ربط رکھنا باعث رحمت ہے؛ ملّت کے اندر رہ کر ہی اس کا جوہر کمال حاصل کرتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The link that binds the individual to the Society a mercy is; His truest self in the community alone achieves fulfillment.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "تاتوانی با جماعت یار باش\nرونق ہنگامہ ی احرار باش",
+              "lang": "Original"
+            },
+            {
+              "_content": "جہاں تک ہو سکے جماعت کے ساتھ لگا رہ اور اس طرح ہنگامہء احرار کی رونق بن جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Wherefore be so far as in thee lies in close rapport with thy Society, and lustre bring to the wide intercourse of free-born men.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "حرز جان کن گفتہ ی خیرالبشر\nہست شیطان از جماعت دور تر",
+              "lang": "Original"
+            },
+            {
+              "_content": "حضور اکرم (صلعم) کے اس فرمودہ کو اپنی جان کے لیے تعویذ بنا لے؛ کہ شیطان جماعت سے دور رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Keep for thy talisman these words he spoke that was the best of mortals: ‘Satan holds his furthest distance where men congregate.’",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "فرد و قوم آئینہ ی یک دیگرند\nسلک و گوہر کہکشان و اخترند",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد اور جماعت ایک دوسرے کے لیے آئینے کی مانند ہیں ؛ (افراد سے قوم بنتی ہے اور قوم کی روایات افراد میں جھلکتی ہیں) ان کی مثال دھاگے اور موتی اور کہکشاں اور ستارے کی مانند ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The individual a mirror holds to the community, and they to him; he is a jewel threaded on their cord, a star that in their constellation shines;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فرد می گیرد ز ملت احترام\nملت از افراد می یابد نظام",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد کی توقیر ملّت سے ہے؛ اور ملّت کا نظام افراد پر مبنی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And the Society is organized as by comprising many such as he.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "فرد تا اندر جماعت گم شود\nقطرہ ی وسعت طلب قلزم شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب فرد جماعت میں گم ہو جاتا ہے ؛ تو گویا وسعت کا متلاشی قطرہ دریا بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When in the Congregation he is list ’Tis like a drop which, \nseeking to expand, becomes an ocean.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "مایہ دار سیرت دیرینہ او\nرفتہ و آیندہ را آئینہ او",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد اپنی ملّت کی قدیم روایات کا حامل ہوتا ہے؛ اس کے اندر ملّت کے ماضی اور مستقبل کا عکس دیکھا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is strong and rich in ancient ways, \na mirror to the Past as to the Future;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "وصل استقبال و ماضی ذات او\nچون ابد لا انتہا اوقات او",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد کی ذات ملّت کے ماضی و مستقبل کا نقطہء اتصال ہے (ملّت ہی سے ) فرد کے اوقات ابد کی طرح لا ا نتہا ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "And the link between what is to come, \nand what has gone before, as is Eternity.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "در دلش ذوق نمو از ملت است\nاحتساب کار او از ملت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملّت ہی کی وجہ سے فرد کے دل میں اپنی قوّتوں کے اظہار کا جذبہ پیدا ہوتا ہے؛ فرد کی سرگرمیوں کا اندازہ ملّت ہی کے مقام سے لگایا جا سکتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The joy of growth swells in his heart from the community, \nthat watches and controls his every deed;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "Text": [
+            {
+              "_content": "پیکرش از قوم و ہم جانش ز قوم\nظاہرش از قوم و پنہانش ز قوم",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوم فرد کا پیکار بھی ہے اور اس کی جان بھی؛ قوم ہی اس کا ظاہر ہے اور قوم ہی اس کا باطن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "To them he owes his body and his soul, \nalike his outward and his hidden parts.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "Text": [
+            {
+              "_content": "در زبان قوم گویا مے شود\nبر رہ اسلاف پویا می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد قوم ہی کی زبان سے بات کرتا ہے اور اسی کے ذریعے اسلاف کی راہ پر گامزن رہتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His thoughts are vocal on the People’s tongue, \nand on the pathway that his forbears laid he learns to run.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "Text": [
+            {
+              "_content": "پختہ تر از گرمی صحبت شود\nتا بمعنی فرد ہم ملت شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد ملّت میں مل کر اور زیادہ پختہ ہو جاتا ہے؛ گویا معنا فرد ملّت بن جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His immaturity is warmed to ripeness by their friendship’s flame, \ntill he becomes one with the Commonwealth.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "Text": [
+            {
+              "_content": "وحدت او مستقیم از کثرت است\nکثرت اندر وحدت او وحدت است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد کی وحدت ملّت کی کثرت سے استقامت پاتی ہے اور افراد کی کثرت ملّت کے ذریعے وحدت بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "His singleness in multiplicity is firm and stable, \nand itself supplies a unity to their innumerate swarm.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "27",
+          "Text": [
+            {
+              "_content": "لفظ چون از بیت خود بیرون نشست\nگوہر مضمون بجیب خود شکست",
+              "lang": "Original"
+            },
+            {
+              "_content": "جیسے لفظ کو اگر شعر سے نکال دیا جائے تو اس کی جیب مضمون کا معنی ٹوٹ جاتی ہے یعنی وہ بے معنی ہو جاتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The word that sits outside its proper verse shatters the jewel of the thought concealed within its pocket;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "Text": [
+            {
+              "_content": "برگ سبزی کز نہال خویش ریخت\nاز بھاران تار امیدش گسیخت",
+              "lang": "Original"
+            },
+            {
+              "_content": "پتّہ اگر اپنے درخت سے گر جاتا ہے تو بہار کے موسم میں بھی اس کے سرسبز ہونے کی امید ختم ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When the verdant leaf falls from the stem, \nits thread of hope for spring is snapped asunder.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "Text": [
+            {
+              "_content": "ہر کہ آب از زمزم ملت نخورد\nشعلہ ہای نغمہ در عودش فسرد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب فرد ملّت کے چشمہ زمزم سے پانی نہیں پیتا اس کے ساز کے اندر نغموں کے شعلے افسردہ ہو جاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He who has not drunk the water of the People’s sacred well; \nthe flames of minstrelsy within his lute grow cold, and die.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "Text": [
+            {
+              "_content": "فرد تنہا از مقاصد غافل است\nقوتش آشفتگی را مایل است",
+              "lang": "Original"
+            },
+            {
+              "_content": "فرد اکیلا ہو تو وہ اعلی مقاصد سے غافل رہتا ہے اور اس کی قوّتیں رو بہ انحطاط ہو جاتی ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The individual, alone, is heedless of high purposes; \nhis strength is apt to dissipate itself;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "Text": [
+            {
+              "_content": "قوم با ضبط آشنا گرداندش\nنرم رو مثل صبا گرداندش",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوم اسے ضبط سے متعارف کرتی ہے اور اسے صبا کی مانند ہولے ہولے چلتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The People only make him intimate with discipline; \nteach him to be as soft and tractable as is the gentle breeze;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "Text": [
+            {
+              "_content": "پا بہ گل مانند شمشادش کند\nدست و پا بندد کہ آزادش کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "قوم اسے شمشاد کی مانند مٹی کا پابند بناتی ہے ؛ اس کے ہاتھ پاؤں باندھتی ہے تاکہ اسے آزاد کرے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Set him in earth like a well-rooted oak, close-fetter him, to make him truly free.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "Text": [
+            {
+              "_content": "چون اسیر حلقہ ی آئین شود\nآہوی رم خوی او مشکین شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب فرد اپنے آپ کو قانون کا پابند بناتا ہے تو اس کی رم خو فطرت میں خوشبو پیدا ہو جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "When he is prisoner to the chain of Law his deer by nature wild and uncontrolled, yields in captivity the precious musk.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "Text": [
+            {
+              "_content": "تو خودی از بیخودی نشناختی\nخویش را اندر گمان انداختی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے خودی اور بے خودی میں فرق نہیں سمجھا ؛ اور اپنے آپ کو ظن و گمان میں ڈال دیا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Thou, who hast not known self from selflessness, \ntherefore hast lost thyself in vain surmise;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "43",
+          "Text": [
+            {
+              "_content": "جوہر نوریست اندر خاک تو\nیک شعاعش جلوہ ی ادراک تو",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی نور کا ایک جوہر ہے جو تیرے بدن کے اندر موجود ہے؛ تیرے فہم و ادراک کی روشنی خودی کی ایک شعاع ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Within thy dust there is an element of Light, \nwhose single shaft illuminates thy whole perception;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "Text": [
+            {
+              "_content": "عیشت از عیشش غم تو از غمش\nزندہ ئی از انقلاب ہر دمش",
+              "lang": "Original"
+            },
+            {
+              "_content": "تیرا عیش خودی کے عیش سے اور تیرا غم خودی کے غم سے وابستہ ہے؛ تیری زندگی کا دار و مدار اس کے ہر لحظہ انقلاب پر موقوف ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "All thy joy derives from its enjoyment, all thy sorrow springs from its distress; \nits constant change and turn keep thee in vital being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "Text": [
+            {
+              "_content": "واحدست و بر نمی تابد دوئی\nمن ز تاب او من استم تو توئی",
+              "lang": "Original"
+            },
+            {
+              "_content": "خودی واحد ہے، وہ دوئی کی تاب نہیں رکھتی؛ اسی کی تاب و تواں سے میں، میں ہوں اور تو، تو ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is one and, being one, brooks no duality;\ngrace to its glow I am myself, thou thou.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "Text": [
+            {
+              "_content": "خویش دار و خویش باز و خویش ساز\nنازہا می پرورد اندر نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "اپنی حفاظت اپنی اظہار، اور اپنی تعمیر اس کی صفت ہیں؛ اس کی نیاز مندی میں سینکڑوں ناز پرورش پاتے ہیں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Preserving self, staking and making self, nourishing pride in meek humility;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "Text": [
+            {
+              "_content": "آتشے از سوز او گردد بلند\nاین شرر بر شعلہ اندازد کمند",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے سوز سے آگ بلند ہوتی ہے؛ خودی کا شرر شعلے پر کمند ڈالتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "It is a flame that sets a fire alight, a spark that overshoots the blazing torch.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "Text": [
+            {
+              "_content": "فطرتش آزاد و ہم زنجیری است\nجزو او را قوت کل گیری است",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کی فطرت آزاد ہے اور مقیّد بھی؛ اس جزو میں کل (کائنات) پر قابو پا لینے کی قوّت ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its nature is to be both free and bond; \nitself a part, it has the potency to seize the whole.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "Text": [
+            {
+              "_content": "خوگر پیکار پیہم دیدمش\nہم خودی ھم زندگی نامیدش",
+              "lang": "Original"
+            },
+            {
+              "_content": "میں نے اسے مسلسل جدو جہد میں دیکھا ہے؛ میں اسے خودی بھی کہتا ہوں اور زندگی بھی۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I have beheld its wont is strife incessant, \nand have called its name Selfhood, and Life.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "Text": [
+            {
+              "_content": "چون ز خلوت خویش را بیرون دہد\nپای در ہنگامہ ی جلوت نہد",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب یہ خودی خلوت سے باہر نکلتی ہے اور ہنگامہء جلوت میں قدم رکھتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Whenever it comes forth from its seclusion, \nand discreetly steps into the riot of phenomena;",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "Text": [
+            {
+              "_content": "نقش گیر اندر دلش \"او\" می شود\n\"من\" ز ھم می ریزد و \"تو\" می شود",
+              "lang": "Original"
+            },
+            {
+              "_content": "اس کے دل کے اندر ملّت کا نقش بیٹھ جاتا ہے؛ اس کے مقاصد میں اس کی ذات کی جگہ ملّت لے لیتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Its heart is impressed with the stamp of ‘he’, \n‘I’ is dissolved, converting into ‘thou’.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "Text": [
+            {
+              "_content": "جبر، قطع اختیارش می کند\nاز محبت مایہ دارش می کند",
+              "lang": "Original"
+            },
+            {
+              "_content": "(ملّت کے مفادات کا) جبر اس کے اختیارات صلب کر لیتا ہے؛ اور اسے ملّی محبت سے سرشار کر دیتا ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Compulsion cuts the freedom of its choice, making it rich in love.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "Text": [
+            {
+              "_content": "ناز تا ناز است کم خیزد نیاز\nناز ہا سازد بہم خیزد نیاز",
+              "lang": "Original"
+            },
+            {
+              "_content": "جب تک ناز ناز ہے اس سے نیازمندی پیدا نہیں ہوتی؛ نیازمندی اسی صورت میں پیدا ہوتی ہے جب بہت سے ناز آپس میں موافقت ( ایک دوسرے کے لیے ایثار) پیدا کریں۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "While pride of self pulls its own way, \nhumility is not born; pull pride together, and humility comes into being.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "65",
+          "Text": [
+            {
+              "_content": "در جماعت خود شکن گردد خودی\nتا ز گلبرگی چمن گردد خودی",
+              "lang": "Original"
+            },
+            {
+              "_content": "جماعت کے اندر خودی خود شکنی (جماعت کے ساتھ مطابقت پیدا کرنا) کر لیتی ہے؛ اور اس طرح پھول کی پتّی سے پورا چمن بن جاتی ہے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Self negates itself in the community, \nthat it maybe no more a petal, but a rosary.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "Text": [
+            {
+              "_content": "\"نکتہ ہا چون تیغ پولاد است تیز\nگر نمی فہمی ز پیش ما گریز\"",
+              "lang": "Original"
+            },
+            {
+              "_content": "میرے کلام کے نکات تلوار کی مانند ہیں ؛ اگر تو نہیں سمجھ سکتا تو یہاں سے چلا جا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘These subtleties are like a steely sword: If they defeat thy wit, quick, flee away!\n- Rumi.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

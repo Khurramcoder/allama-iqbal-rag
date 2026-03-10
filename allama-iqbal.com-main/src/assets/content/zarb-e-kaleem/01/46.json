@@ -1,0 +1,100 @@
+{
+  "id": "46",
+  "name": "امامت",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "01",
+  "sectionName": "اسلام اور مسلمان",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "تو نے پوچھی ہے امامت کی حقیقت مجھ سے \nحق تجھے میری طرح صاحب اسرار کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "What Guidance signifies you wish to know, insight, like me, may God on you bestow.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "ہے وہی تیرے زمانے کا امام برحق \nجو تجھے حاضر و موجود سے بیزار کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He is true guide and teacher of your age, who can with present fill your mind with rage.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "موت کے آئنے میں تجھ کو دکھا کر رخ دوست \nزندگی تیرے لیے اور بھی دشوار کرے",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "By showing the face of Friend in looking glass, may make your life more onerous and crass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "دے کے احساس زیاں تیرا لہو گرما دے \nفقر کی سان چڑھا کر تجھے تلوار کرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "سان: ہتھیار تیز کرنے کا آلہ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "He may make your blood seethe with sense of harm and on Faqr’s whetstone may to sword transform.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "فتنہ ملت بیضا ہے امامت اس کی \nجو مسلماں کو سلاطیں کا پرستار کرے",
+              "lang": "Original"
+            },
+            {
+              "_content": "ملت بیضا: مسلمان قوم۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Such guidance means revolt 'against Lustrous Creed that makes the Muslims bow to kingly breed.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Guidance",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

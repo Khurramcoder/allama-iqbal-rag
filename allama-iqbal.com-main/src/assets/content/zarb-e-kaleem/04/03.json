@@ -1,0 +1,68 @@
+{
+  "id": "03",
+  "name": "جنوں",
+  "bookId": "zarb-e-kaleem",
+  "bookName": "ضربِ کلیم",
+  "sectionId": "04",
+  "sectionName": "ادبیات فنون لطیفہ",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "زجاج گر کی دکاں شاعری و ملائی \nستم ہے، خوار پھرے دشت و در میں دیوانہ!",
+              "lang": "Original"
+            },
+            {
+              "_content": "زجاج گر: شیشہ بنانے والے۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Poets and priestly class denote and show the shops of those who blow the glass, what pity! The mad frequents the wilds and lanes, to smash these shops, this way he does not pass.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "کسے خبر کہ جنوں میں کمال اور بھی ہیں \nکریں اگر اسے کوہ و کمر سے بیگانہ",
+              "lang": "Original"
+            },
+            {
+              "_content": "کوہ و کمر: پہاڑ اور دامن پہاڑ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Few know that madness can with case display a myriad crafts, accomplishments and skill, provided one can completely wean it of the wastes and deserts, from gorge and bill.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "ہجوم مدرسہ بھی سازگار ہے اس کو \nکہ اس کے واسطے لازم نہیں ہے ویرانہ",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The concourse as well as the air of school accord with it and tickle its sense of joy as lonely site and haunt for him aren't must, at school he never feels cast down or coy.",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Madness",
+  "credits": "English Translation by: Syed Akbar Ali Shah"
+}

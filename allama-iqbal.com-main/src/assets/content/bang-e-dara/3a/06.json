@@ -1,0 +1,168 @@
+{
+  "id": "06",
+  "name": "تضمین بر شعر انیسی شاملو",
+  "bookId": "bang-e-dara",
+  "bookName": "بانگِ درا",
+  "sectionId": "3a",
+  "sectionName": "حصہ سوم",
+  "Para": [
+    {
+      "name": "",
+      "Verse": [
+        {
+          "id": "01",
+          "Text": [
+            {
+              "_content": "ہمیشہ صورت باد سحر آوارہ رہتا ہوں \nمحبت میں ہے منزل سے بھی خوشتر جادہ پیمائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کسی کے شعر کو اپنے شعروں میں لانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "I always remain roaming like the morning breeze. Roaming is more pleasant in Love than destination.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "Text": [
+            {
+              "_content": "دل بے تاب جا پہنچا دیار پیر سنجر میں \nمیسر ہے جہاں درمان درد نا شکیبائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "پير سنجر: اشارہ ہے حضرت خواجہ معین الدین اجمیری (رحمتہ) کی طرف جو سیستان کے مقام سنجر سے ہندوستان آئے۔ \nدرد نا شکيبائي: بے صبری کا دکھ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The restless heart reached the land of the Saint of Sanjar; where the cure for the malady of impatience is available.\n(Saint of Sanjar: Another name of Khawajah Mu`in al-Din Chishti R.A.)",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "05",
+          "Text": [
+            {
+              "_content": "ابھی نا آشنائے لب تھا حرف آرزو میرا \nزباں ہونے کو تھی منت پذیر تاب گویائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "منت پذير تاب گويائي: تقریر کی طاقت کا احسان اٹھانا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The longing of my heart had not yet reached the lips; the tongue was about to be obligated to the power of speech.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "07",
+          "Text": [
+            {
+              "_content": "یہ مرقد سے صدا آئی، حرم کے رہنے والوں کو \nشکایت تجھ سے ہے اے تارک آئین آبائی!",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "A voice came from the tomb; the Haram’s inhabitants have a complaint against you, O renouncer of ancestors’ ways!",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "09",
+          "Text": [
+            {
+              "_content": "ترا اے قیس کیونکر ہوگیا سوز دروں ٹھنڈا \nکہ لیلی میں تو ہیں اب تک وہی انداز لیلائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O Qais! How has your internal warmth cooled down? Because Lailah still has the same ways of her old self.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "Text": [
+            {
+              "_content": "نہ تخم 'لا الہ' تیری زمین شور سے پھوٹا \nزمانے بھر میں رسوا ہے تری فطرت کی نازائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "نازائي: بانجھ پن۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "The seed of ‘La Ilaha’ did not sprout in your barren soil; the sterility of your nature is universally disgraced.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "Text": [
+            {
+              "_content": "تجھے معلوم ہے غافل کہ تیری زندگی کیا ہے \nکنشتی ساز، معمور نوا ہائے کلیسائی",
+              "lang": "Original"
+            },
+            {
+              "_content": "کنشتي ساز: بت خانے سے تعلق رکھنے والا۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "O imprudent one! Do you know what your life is? It is the builder of synagogues, full of church music.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "Text": [
+            {
+              "_content": "ہوئی ہے تربیت آغوش بیت اللہ میں تیری \nدل شوریدہ ہے لیکن صنم خانے کا سودائی",
+              "lang": "Original"
+            },
+            {
+              "lang": "Urdu"
+            },
+            {
+              "_content": "Though your training has been in the House of God; your rebellious heart is the lover of temple.",
+              "lang": "English"
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "Text": [
+            {
+              "_content": "وفا آموختی از ما، بکار دیگراں کر دی \nربودی گوہرے از ما نثار دیگراں کر دی",
+              "lang": "Original"
+            },
+            {
+              "_content": "تو نے وفا کا سبق ہم سے حاصل کیا لیکن اس وفا کو اغیا ر کے کام میں لایا ، موتی ہم سے حاصل کئے، قربان دوسروں پر کر دیئے ۔",
+              "lang": "Urdu"
+            },
+            {
+              "_content": "‘You learnt fidelity from us but used it on others. You snatched a pearl from us but sacrificed it on others.’ ",
+              "lang": "English"
+            }
+          ]
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "name-en": "Tazmin On A Verse Of Anisi Shamlu",
+  "credits": "English Translation by: Dr M.A.K. Khalil"
+}

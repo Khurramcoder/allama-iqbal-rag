@@ -3,14 +3,12 @@
 # 🌙 Allama Iqbal RAG — Poetry Intelligence
 
 ### *Explore the Philosophy & Poetry of Allama Iqbal with AI*
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Khurramcoder.allama-iqbal-rag)](https://github.com/Khurramcoder/allama-iqbal-rag)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-gold?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)](https://langchain.com)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)](https://faiss.ai)
 [![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=for-the-badge)](https://ollama.com)
 [![Gradio](https://img.shields.io/badge/Gradio-UI-orange?style=for-the-badge)](https://gradio.app)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](LICENSE)
-[![Made in Pakistan](https://img.shields.io/badge/Made%20in-Pakistan-009900?style=flat-square&logo=googlemaps&logoColor=white)]()
 <br>
 
 > *"Tu shaheen hai, parwaz hai kaam tera — tere saamne aasmaan aur bhi hain"*

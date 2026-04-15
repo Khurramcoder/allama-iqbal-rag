@@ -33,7 +33,7 @@ A fully **local, private AI** app to **search, understand, and analyze** the poe
 - 🎭 **Sample Questions** — 8 ready-made questions to explore Iqbal's themes
 - ⚡ **GPU Accelerated** — Embeddings on CUDA, LLM on Ollama (RTX 4060 Ti tested)
 - 🔒 **100% Local & Private** — Runs entirely on your machine
-
+- 🔒 **This project also supports GGUF models via llama.cpp.
 ---
 
 ## 🖼️ App Preview

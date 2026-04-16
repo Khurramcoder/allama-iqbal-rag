@@ -1,8 +1,11 @@
 <div align="center">
 
 # 🌙 Allama Iqbal RAG — Poetry Intelligence
-<img src="iqbal_rag.png" alt="Allama Iqbal RAG Logo" width="100%" />
+
 ### *Explore the Philosophy & Poetry of Allama Iqbal with AI*
+
+<img src="iqbal_rag.png" alt="Allama Iqbal RAG Logo" width="100%" />
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-gold?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-RAG-green?style=for-the-badge)](https://langchain.com)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)](https://faiss.ai)
